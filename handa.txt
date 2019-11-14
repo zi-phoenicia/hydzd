@@ -67412,24 +67412,45 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 躟	rang3	疾行貌	None	None
 𨇭	None	同=蹷(蹶)	None	蹷
 𨇥	None	同=蹇	None	蹇
-躡	None	录入中	None	None
-𨇿	None	录入中	None	None
-𨇳	None	录入中	None	None
-躣	None	录入中	None	None
-躢	None	录入中	None	None
-𨇲	None	录入中	None	None
-𨇮	None	录入中	None	None
-𨇯	None	录入中	None	None
-𨇱	None	录入中	None	None
-躥	None	录入中	None	None
-𨇰	None	录入中	None	None
-躪	None	录入中	None	None
-𨈀	None	录入中	None	None
-躧	None	录入中	None	None
-𨇽	None	录入中	None	None
-躦	None	录入中	None	None
-𨇫	None	录入中	None	None
-𨇴	None	录入中	None	None
+躡	nie4	踩，踏	None	None
+躡	nie4	登攀	None	None
+躡	nie4	至	None	None
+躡	nie4	追踪；跟随	None	None
+躡	nie4	穿鞋	None	None
+躡	nie4	跕；轻步	None	None
+躡	nie4	急	None	None
+躡	nie4	古代织布机上用脚踩的两只踏板	None	None
+躡	nie4	用同=攝(she4) 提起	None	攝
+𨇿	None	同=繭	None	繭
+𨇳	None	同=蹙	None	蹙
+躣	qu2	行貌	None	None
+躢	None	同=蹋	None	蹋
+𨇲	None	同=𨇝	None	𨇝
+𨇮	None	同=蹶	None	蹶
+𨇯	shuang1	[跭𨇯]见“跭”	None	None
+𨇯	shuang1	并立	None	None
+𨇱	None	同=蹁	None	蹁
+躥	cuan1	向上或向前跳	None	None
+躥	cuan1	奔跑	None	None
+躥	cuan1	喷射	None	None
+𨇰	None	同=䠪	None	䠪
+躪	lin4	践踏，蹂躏	None	None
+躪	lin4	同=蹸 车践	None	蹸
+𨈀	dian1	顿（足）	None	None
+𨈀	dian1	方言 跑	None	None
+躧	xi3	舞鞋	None	None
+躧	xi3	草鞋	None	None
+躧	xi3	同=屣 1.小履之无跟者 2.拖着鞋走	None	屣
+躧	xi3	踩，踏	None	None
+躧	xi3	漫步	None	None
+躧	xi3	追踪	None	None
+𨇽	luo4	[𨇽䟶]犹“蹭蹬” 喻失意，遭受挫折	None	None
+躦	cuo2	同=䠡 踏	None	䠡
+躦	zuan1	[躦𧿙]聚足	None	None
+躦	zuan1	钻，穿	None	None
+躦	zuan1	乱走动	None	None
+𨇫	None	同=蹮	None	蹮
+𨇴	None	同=蹮	None	蹮
 𨇻	None	录入中	None	None
 𨇼	None	录入中	None	None
 𨈆	None	录入中	None	None
