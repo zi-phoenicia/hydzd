@@ -67595,26 +67595,55 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𨚏	None	同=邸	None	邸
 邷	wa3	古地名 春秋卫地	None	None
 邷	wa3	抓	None	None
-𨙹	None	录入中	None	None
-𨙻	None	录入中	None	None
-𨙼	None	录入中	None	None
-邤	None	录入中	None	None
-𨚐	None	录入中	None	None
-𨙽	None	录入中	None	None
-邠	None	录入中	None	None
-邬	None	录入中	None	None
-邟	None	录入中	None	None
-邡	None	录入中	None	None
-邩	None	录入中	None	None
-邥	None	录入中	None	None
-那	None	录入中	None	None
-𨚑	None	录入中	None	None
-𨙺	None	录入中	None	None
-𨚠	None	录入中	None	None
-𨚬	None	录入中	None	None
-𨚚	None	录入中	None	None
-𨚭	None	录入中	None	None
-𨚡	None	录入中	None	None
+𨙹	shao3	古地名 在今山东省	None	None
+𨙻	None	同=那	None	那
+𨙼	None	同=郢	None	郢
+⿰化阝	wei2	同=鄬 古地名，春秋郑地	None	鄬
+邤	xin1	古地名	None	None
+邤	xin1	邻	None	None
+𨚐	None	同=邟	None	邟
+𨙽	qin2	古亭名，在今湖南省衡阳市境	None	None
+邠	bin1	古国名 也作=豳 周后稷的曾孙公刘由邰迁居于此，在今陕西省=彬县	None	豳
+邠	bin1	古州县名	None	None
+邠	bin1	通=份(彬) 文采盛貌	None	份
+邠	bin1	姓	None	None
+邬	None	=鄔的简化字	None	鄔
+𮟮	liu4	古国名	None	None
+邟	kang4	[邟乡]古地名 在今河南省汝州市东	None	None
+邟	kang4	姓	None	None
+邟	hang2	[餘邟]古县名 汉置 晋属吴兴郡，即今浙江省杭州市余杭区	None	None
+邟	kang1	古城名 在今河南省禹州市 秦置阳翟县，东魏于县置阳翟郡 隋废郡 清省县入禹州	None	None
+邡	fang1	[什邡]市名 汉置什邡县，属广汉郡，今属四川省德阳市 1995年改为什邡市	None	None
+邡	fang1	通=訪(fang3) 谋划	None	訪
+邡	fang4	古邑名	None	None
+邩	huo3	地名	None	None
+⿰为阝	None	=鄬的类推简化字	None	鄬
+邥	shen3	[邥垂]春秋周地名 在今河南省洛阳市南	None	None
+邥	shen3	同=沈 1.国名 2.姓	None	沈
+那	nuo2	多	None	None
+那	nuo2	美好	None	None
+那	nuo2	安	None	None
+那	nuo2	何	None	None
+那	nuo2	于，对于	None	None
+那	nuo2	移动 后作=挪	None	挪
+那	nuo2	姓	None	None
+那	nuo4	语气词 用在句末，表示疑问语气，相当于“吗”	None	None
+那	nuo4	犹“奈”	None	None
+那	nuo4	尽	None	None
+那	na4	代词 指示比较远的人和事物，同“这”相对	None	None
+那	nei4	“那一”的合音	None	None
+那	na3	代词 表示疑问，后作=哪	None	哪
+那	nei3	“哪一”的合音	None	None
+那	ne2	[那吒]佛教护法神名 相传为毗沙门天王之子	None	None
+那	na1	姓	None	None
+𨚑	None	同=邱	None	邱
+𨙺	niu3	古地名	None	None
+𨙺	niu3	姓	None	None
+𨚠	None	同=邯	None	邯
+𨚬	None	同=邱	None	邱
+𨚚	None	同=邦	None	邦
+𨚭	None	同=鄪	None	鄪
+𨚡	jin3	同=巹 古代行婚礼用的酒器	None	巹
 𨚘	None	录入中	None	None
 𨚢	None	录入中	None	None
 𨚣	None	录入中	None	None
