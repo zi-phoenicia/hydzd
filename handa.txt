@@ -67672,14 +67672,18 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 邺	qiu1	同=邱	None	邱
 邺	ye4	=鄴的简化字	None	鄴
 ⿰旦阝	dan4	古地名	None	None
-䢸	None	录入中	None	None
-𨚙	None	录入中	None	None
-邮	None	录入中	None	None
-𨚗	None	录入中	None	None
-𨚥	None	录入中	None	None
-邱	None	录入中	None	None
-𨚮	None	录入中	None	None
-邻	None	录入中	None	None
+䢸	ju1	古乡名 在今陕西省户县	None	None
+𨚙	hao2	汉时乡名 在今河南省南阳市境	None	None
+邮	you2	古亭名 故址在今陕西省高陵县境 秦置高陵县，三国改高陆县，隋复改高陵县	None	None
+邮	you2	古乡名	None	None
+邮	you2	=郵的简化字	None	郵
+𨚗	None	同=那	None	那
+𨚥	None	同=卻	None	卻
+邱	qiu1	地名用字	None	None
+邱	qiu1	丑，不好	None	None
+邱	qiu1	同=丘 孔子名丘，因避讳，清雍正三年上谕除四书五经外，凡遇“丘”字，並加“阝”旁为“邱” 地名用字亦用“邱” 1.小山；土堆 2.坟墓 3.空；废墟 4.州名 唐置羁縻州 今云南省楚雄市地 5.姓	None	丘
+𨚮	hao4	邑名	None	None
+邻	None	=鄰的简化字	None	鄰
 邸	None	录入中	None	None
 邭	None	录入中	None	None
 邹	None	录入中	None	None
