@@ -67971,13 +67971,14 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𨟑	None	录入中	None	None
 𨟘	None	录入中	None	None
 𨟕	None	录入中	None	None
-酂	None	录入中	None	None
+酂	None	=酇的类推简化字	None	酇
 𨞾	None	录入中	None	None
-𨟐	None	录入中	None	None
-𨟍	None	录入中	None	None
-𨟞	None	录入中	None	None
-𨟖	None	录入中	None	None
-𨟏	None	录入中	None	None
+𨟐	None	同=䣘	None	䣘
+𨟍	None	同=郭	None	郭
+𨟞	None	同=都	None	都
+𨟖	mo2	古国名	None	None
+𨟖	mo2	同=磨 物体相摩擦	None	磨
+𨟏	yin2	古地名	None	None
 𨟛	None	录入中	None	None
 酄	None	录入中	None	None
 𨟟	None	同=𨟑	None	𨟑
