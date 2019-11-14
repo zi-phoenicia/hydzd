@@ -67997,7 +67997,7 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 酈	None	录入中	None	None
 𨟥	None	录入中	None	None
 酇	None	录入中	None	None
-𨟦	None	录入中	None	None
+𨟦	None	同=𨝍	None	𨝍
 𨞿	None	录入中	None	None
 䣣	None	同=䣊	None	䣊
 䣤	None	录入中	None	None
