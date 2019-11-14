@@ -67644,17 +67644,34 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𨚚	None	同=邦	None	邦
 𨚭	None	同=鄪	None	鄪
 𨚡	jin3	同=巹 古代行婚礼用的酒器	None	巹
-𨚘	None	录入中	None	None
-𨚢	None	录入中	None	None
-𨚣	None	录入中	None	None
-邯	None	录入中	None	None
-𨚩	None	录入中	None	None
-邴	None	录入中	None	None
-邳	None	录入中	None	None
-䂙	None	录入中	None	None
-𨚤	None	录入中	None	None
-邶	None	录入中	None	None
-邺	None	录入中	None	None
+𨚘	wei4	地名	None	None
+𨚢	None	同=𨙷	None	𨙷
+𨚣	zheng4	@	None	None
+邯	han2	[邯鄲]1.古都邑名 春秋时卫邑，后属晋 战国属赵，赵敬侯自晋阳徙都于此 故址在今河北省邯郸市 2.县名 秦置，属河北省 东魏天平初废，入临漳县 隋开皇时改易阳县，又复置邯郸县 唐宋金元因之 明清皆属广平府 1952年析县区置邯郸市 3.古郡名 秦始皇十九年置 治所在邯郸（今邯郸市） 辖境相当今河北省泜河以南，滏阳河上游和河南省内黄县、浚县，山东省馆陶县、冠县西部地区 汉高帝四年改为赵国 景帝时又一度改为邯郸郡 4.复姓	None	None
+邯	han2	古水名 在今青海省化隆回族自治区西 有东、西二水，自北南流，经古邯川城左右注入黄河，故有东邯、西邯之称 东汉永平初马武击破西羌于东邯、西邯，永远中侯霸置东邯、西邯屯田五部，皆即此	None	None
+邯	han2	同=𣵷 或	None	𣵷
+邯	han2	姓	None	None
+邯	han4	[邯淡]丰盛之意	None	None
+𨚩	None	@	None	None
+邴	bing3	春秋郑祀泰山之邑 故地在今山东省费县东	None	None
+邴	bing3	喜悦貌	None	None
+邴	bing3	姓	None	None
+邳	pi1	古地名 汤左相仲虺的封地 在今山东省微山县西北	None	None
+邳	pi1	古国名 夏、商时为邳国 战国属齐为下邳邑 在今江苏省邳州市	None	None
+邳	pi1	古州名 北周置 隋大业初废 唐武德间复置，贞观元年又废 金贞祐间又置 元辖境缩小，清属徐州府 治所在下邳（今江苏省睢宁县北） 清康熙间移治今邳州市西北旧邳县	None	None
+邳	pi1	山名，即大邳山 也作=伾、=岯 字啊金河南省浚县境	None	伾
+邳	pi1	通=丕 大	None	丕
+邳	pi1	姓	None	None
+䂙	dui1	古地名用字	None	None
+𨚤	None	同=郀	None	郀
+𫑛	yue4	同=越 古国名，春秋十四列之一	None	越
+𫑛	yue4	姓	None	None
+邶	bei4	古国名 周武王封殷纣王之子武庚于此，约相当于今河南省淇县以北，汤阴县东南一带地方	None	None
+邶	bei4	姓	None	None
+邶	bei4	[邶殿]古地名 在今山东省昌邑市西	None	None
+邺	qiu1	同=邱	None	邱
+邺	ye4	=鄴的简化字	None	鄴
+⿰旦阝	dan4	古地名	None	None
 䢸	None	录入中	None	None
 𨚙	None	录入中	None	None
 邮	None	录入中	None	None
