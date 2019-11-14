@@ -67560,18 +67560,41 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 邞	fu1	古县名 汉置 旧治在今山东省胶州市西南	None	None
 邧	yuan2	古邑名 春秋秦邑 在今陕西省澄城县东南	None	None
 ⿰无阝	None	=鄦的类推简化字	None	鄦
-䢵	None	录入中	None	None
-䢶	None	录入中	None	None
-𨙶	None	录入中	None	None
-𨙸	None	录入中	None	None
-𨚌	None	录入中	None	None
-䢹	None	录入中	None	None
-𨚍	None	录入中	None	None
-邪	None	录入中	None	None
-邨	None	录入中	None	None
-𨚎	None	录入中	None	None
-𨚏	None	录入中	None	None
-邷	None	录入中	None	None
+䢵	yun2	同=鄖	None	鄖
+䢵	yun2	姓	None	None
+𫑘	None	=鄟的类推简化字	None	鄟
+䢶	None	同=邦	None	邦
+𨙶	pei4	古郡名 汉高帝改泗水郡置郡 治所在今安徽省濉溪县西北 也作=沛	None	沛
+𨙶	pei4	古邑名	None	None
+𨙶	pei4	姓	None	None
+𨙸	qi2	古地名 在今陕西省岐山县东北	None	None
+𨙸	qi2	姓	None	None
+𨙸	zhi1	古邑名 在今河南省新野县	None	None
+𨚌	None	同=邪	None	邪
+䢹	ju3	古亭名 在今湖南省长沙市	None	None
+䢹	qu2	同=𨞙 聚名	None	𨞙
+𨚍	bi4	同=弼 辅助	None	弼
+𨚍	bei4	同=邶	None	邶
+邪	ya2	[琅邪]也作“琅=琊”、“瑯琊” 古郡名 秦置 治所在琅邪（今山东省胶南市琅邪台西北） 西汉移治东武（今山东省诸城市），辖境相当于山东半岛东南部 东汉改为国，移治开阳（今临沂市北） 北魏移治即丘（今临沂市东南），隋废 东晋太兴三年侨置，治所在金城（在江苏省句容市北） 南朝宋改南琅邪郡 南朝齐迁治于白下（今南京市北），陈废	None	琊
+邪	xie2	不正 也作=衺	None	衺
+邪	xie2	邪恶；邪僻	None	None
+邪	xie2	私	None	None
+邪	xie2	妖异怪戾之事	None	None
+邪	xie2	中医学上指一切致病因素为邪	None	None
+邪	xie2	倾斜，歪斜 后作=斜	None	斜
+邪	xie2	坡道	None	None
+邪	ye2	语气词 1.表示疑问或反诘，相当于“吗”、“呢” 2.表示判断，相当于“也”	None	None
+邪	ye2	劳动时众人协调动作，一齐用力所发出的呼声	None	None
+邪	ye2	通=餘(yu2) 剩余	None	餘
+邪	xu2	通=徐 缓	None	徐
+邪	sha1	[歸邪]星名	None	None
+邨	cun1	古地名	None	None
+邨	cun1	同=村	None	村
+⿰戈阝	ge1	古国名 春秋诸侯国，居宋、郑之间	None	None
+𨚎	None	同=邸	None	邸
+𨚏	None	同=邸	None	邸
+邷	wa3	古地名 春秋卫地	None	None
+邷	wa3	抓	None	None
 𨙹	None	录入中	None	None
 𨙻	None	录入中	None	None
 𨙼	None	录入中	None	None
