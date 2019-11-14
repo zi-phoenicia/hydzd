@@ -67570,13 +67570,13 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 郏	None	=郟的类推简化字	None	郟
 𨚾	None	录入中	None	None
 郅	None	录入中	None	None
-𨛆	None	录入中	None	None
+𨛆	None	同=邱	None	邱
 𨚖	None	录入中	None	None
 𨚰	None	录入中	None	None
 𨚯	None	录入中	None	None
 郘	None	录入中	None	None
-𨚿	None	录入中	None	None
-𨛇	None	录入中	None	None
+𨚿	None	同=删	None	删
+𨛇	None	同=𨹌	None	𨹌
 𨚶	None	录入中	None	None
 邾	None	录入中	None	None
 䢾	None	录入中	None	None
@@ -67585,8 +67585,8 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 郋	None	录入中	None	None
 郈	None	录入中	None	None
 郍	None	录入中	None	None
-𨛈	None	录入中	None	None
-郐	None	录入中	None	None
+𨛈	quan2	剔	None	None
+郐	None	=鄶的类推简化字	None	鄶
 郃	None	录入中	None	None
 郄	None	录入中	None	None
 䣀	None	录入中	None	None
@@ -67999,15 +67999,15 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 酇	None	录入中	None	None
 𨟦	None	录入中	None	None
 𨞿	None	录入中	None	None
-䣣	None	录入中	None	None
+䣣	None	同=䣊	None	䣊
 䣤	None	录入中	None	None
-𨟮	None	录入中	None	None
-𨟩	None	录入中	None	None
-𨟪	None	录入中	None	None
-𨟫	None	录入中	None	None
-𨟬	None	录入中	None	None
-𨟭	None	录入中	None	None
-𨟯	None	录入中	None	None
+𨟮	None	同=酃	None	酃
+𨟩	None	同=𨝸	None	𨝸
+𨟪	None	同=鄯	None	鄯
+𨟫	None	同=酈	None	酈
+𨟬	None	同=𨝸	None	𨝸
+𨟭	None	同=筥	None	筥
+𨟯	None	同=酃	None	酃
 身	shen1	身孕，胎	None	None
 身	shen1	人或动物的躯体 1.指整个身体 2.指颈以下大腿以上的躯干 3.指头以下的部分	None	None
 身	shen1	物体的主干或主体部分 如：机身；车身	None	None
