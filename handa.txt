@@ -67503,36 +67503,63 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 邗	han2	古城名 公元前486年吴筑 故址一说在今江苏省扬州市西北蜀冈上，一说在今扬州市东南濒江处	None	None
 邗	han2	水名，即邗沟，又名邗江、邗溟沟、渠水、中渎水 春秋时吴王夫差为争霸中原，在江淮间开凿的一条古运河名 其故道自今江苏省扬州市南引江水北过高邮市西，折东北入射阳湖，又西北至淮安市北入淮河 东汉建安初改凿新道，自今高邮市直北径达淮安市，大致即今里运河一线 隋大业元年发淮南丁夫十余万重开邗沟，略循建安故道 此后江淮间运道，即自扬州可直达淮安，不再东向绕道射阳湖 唐以后改成漕河、官河或合渎渠	None	None
 邗	han2	姓	None	None
-邘	None	录入中	None	None
-𨙱	None	录入中	None	None
-𨙭	None	录入中	None	None
-邛	None	录入中	None	None
-𨙴	None	录入中	None	None
-𨙯	None	录入中	None	None
-𨙫	None	录入中	None	None
-邖	None	录入中	None	None
-䢴	None	录入中	None	None
-𨙲	None	录入中	None	None
-𨙮	None	录入中	None	None
-邝	None	录入中	None	None
-邙	None	录入中	None	None
-邔	None	录入中	None	None
-𨙬	None	录入中	None	None
-邚	None	录入中	None	None
-𨙳	None	录入中	None	None
-𨙵	None	录入中	None	None
-邫	None	录入中	None	None
-𨙾	None	录入中	None	None
-𨚈	None	录入中	None	None
-𨚒	None	录入中	None	None
-𨚉	None	录入中	None	None
-𨚊	None	录入中	None	None
-𨚋	None	录入中	None	None
-邦	None	录入中	None	None
-𨙷	None	录入中	None	None
-邢	None	录入中	None	None
-邞	None	录入中	None	None
-邧	None	录入中	None	None
+邘	yu2	古国名 也作=于 西周分封的诸侯国，姬姓 开国君主为周武王之子于叔 故址在今河南省沁阳市西北邘台镇	None	于
+邘	yu2	古邑名 在今山东省定陶县界	None	None
+邘	yu2	姓	None	None
+𨙱	None	同=邘	None	邘
+𨙭	tu3	古乡名	None	None
+邛	qiong2	[邛成]古县名 在今山东省成武县东南	None	None
+邛	qiong2	古州名 汉置临邛县，南朝梁改置邛州 唐初治所在今四川省邛崃市东南的依政，显庆中移治临邛（今邛崃市） 辖境相当今四川省邛崃市、大邑县、蒲江县等地 明初降为县，成化中升为直隶州 1913年废，改本州为邛崃县 1994年改为邛崃市 在今四川省成都市西南	None	None
+邛	qiong2	古代西南少数民族国名	None	None
+邛	qiong2	山名 即邛崃山 在四川省西部，近南北走向	None	None
+邛	qiong2	水名	None	None
+邛	qiong2	土丘	None	None
+邛	qiong2	劳；病	None	None
+邛	qiong2	春秋国名 即江、黄之=江 在今河南省息县西南	None	江
+邛	qiong2	姓	None	None
+𨙴	cai2	乡名	None	None
+𨙴	zai4	同=𨚵	None	𨚵
+𨙯	cun1	乡名	None	None
+𨙫	kou3	古乡名 在今陕西省蓝田县	None	None
+邖	shan1	古地名	None	None
+邖	shan1	姓	None	None
+䢴	None	同=𨝍	None	𨝍
+𨙲	tun2	古地名	None	None
+𨙲	cun1	同=邨	None	邨
+𨙮	fan2	古地名	None	None
+邝	None	=鄺的简化字	None	鄺
+邙	mang2	古邑名 也作=亡、=芒 在今河南省洛阳市北	None	亡
+邙	mang2	山名 在河南省西部，为崤山余脉，东西走向，沿黄河南岸绵延，东至伊洛河岸 山上多古代帝王陵墓	None	None
+邙	mang2	古县名	None	None
+邙	mang2	姓	None	None
+⿰巳阝	si4	古国名	None	None
+𨙬	qi3	古县名 秦置，属南郡 汉为侯国 治所在今湖北省宜城市北	None	None
+邚	ru2	同=𨚴 古地名	None	𨚴
+邚	ru2	古国名	None	None
+邚	fu4	同=婦	None	婦
+𨙳	cha1	@	None	None
+𨙵	xiang4	同=巷 邻道 也作=𨛜、=𨜕	None	巷
+邫	None	同=邦	None	邦
+𨙾	None	同=𨙸	None	𨙸
+𨚈	None	同=𨙹	None	𨙹
+𨚒	None	同=𨙹	None	𨙹
+𨚉	None	同=那	None	那
+𨚊	None	同=邩	None	邩
+𨚋	None	同=𨚊(邩)	None	𨚊
+邦	bang1	古代诸侯封国的称呼	None	None
+邦	bang1	封，分封	None	None
+邦	bang1	疆界，边界	None	None
+邦	bang1	国都，大城镇，或泛指地方	None	None
+邦	bang1	古真腊国（今柬埔寨）对兄与姊的称呼	None	None
+邦	bang1	姓	None	None
+𨙷	jing3	古地名 在今河北省井陉县	None	None
+邢	xing2	古国名 姬姓 公元前11世纪周公之子所封的诸侯国 在今河北省邢台市境 公元前662那年，齐桓公曾迁邢于夷仪（今山东省聊城市西南） 公元前635年为卫所灭	None	None
+邢	xing2	古州名 隋置，寻废 唐复置，改名钜鹿郡，寻复名邢州 自宋以后升为信德府 金复位邢州 故治在今河北省邢台市	None	None
+邢	xing2	姓	None	None
+邢	geng3	古地名 在今河南省温县东 一说在今山西省河津市东南	None	None
+邞	fu1	古县名 汉置 旧治在今山东省胶州市西南	None	None
+邧	yuan2	古邑名 春秋秦邑 在今陕西省澄城县东南	None	None
+⿰无阝	None	=鄦的类推简化字	None	鄦
 䢵	None	录入中	None	None
 䢶	None	录入中	None	None
 𨙶	None	录入中	None	None
