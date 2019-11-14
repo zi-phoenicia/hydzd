@@ -67451,30 +67451,55 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 躦	zuan1	乱走动	None	None
 𨇫	None	同=蹮	None	蹮
 𨇴	None	同=蹮	None	蹮
-𨇻	None	录入中	None	None
-𨇼	None	录入中	None	None
-𨈆	None	录入中	None	None
-𨈅	None	录入中	None	None
-𨈃	None	录入中	None	None
-躩	None	录入中	None	None
-𨈄	None	录入中	None	None
-躨	None	录入中	None	None
-䠱	None	录入中	None	None
-𨈉	None	录入中	None	None
-𨈈	None	录入中	None	None
-𨈊	None	录入中	None	None
-𨈋	None	录入中	None	None
-𨈌	None	录入中	None	None
-𨈎	None	录入中	None	None
-邑	None	录入中	None	None
-𨙨	None	录入中	None	None
-𨙩	None	录入中	None	None
-邒	None	录入中	None	None
-䢳	None	录入中	None	None
-𨙪	None	录入中	None	None
-邓	None	录入中	None	None
-邕	None	录入中	None	None
-邗	None	录入中	None	None
+𨇾	None	同=躞	None	躞
+𨇻	mi3	行；行貌	None	None
+𨇼	luan2	[𨇼踞]足病	None	None
+𨈆	None	同=躝	None	躝
+𨈅	None	同=䠯	None	䠯
+𨈃	None	同=蹎	None	蹎
+躩	jue2	疾行貌	None	None
+躩	jue2	盘辟貌	None	None
+躩	jue2	跳	None	None
+躩	qi4	足貌	None	None
+𨈄	None	同=蹙	None	蹙
+躨	kui2	[躨跜]兽动貌	None	None
+䠱	zhu2	同=躅	None	躅
+䠱	zhu2	行谨貌	None	None
+𨈉	None	同=躨	None	躨
+𨈈	die2	行走声	None	None
+𨈊	wan1	[𨈊跧]弯曲（身体）	None	None
+𨈋	yue4	出走；出走貌	None	None
+𨈋	yue4	同=䠯	None	䠯
+𨈌	luan2	[𨈌踡]弯曲身体 *=𨈌	None	𨈌
+𨈎	luan2	[𨈎跧]（身体）弯曲 *=𨈊	None	𨈊
+邑	yi4	古代称国为邑	None	None
+邑	yi4	国都，京城	None	None
+邑	yi4	指古代无先君宗庙的都城	None	None
+邑	yi4	人聚居的地方	None	None
+邑	yi4	古代行政区划名 1.五家为轨，六轨为邑 2.三朋为里，五里为邑	None	None
+邑	yi4	泛指一般城镇 大曰都，小曰邑	None	None
+邑	yi4	旧时县的别称	None	None
+邑	yi4	分封城邑居住；建筑城邑	None	None
+邑	yi4	封地 1.古代卿大夫的封地 2.皇后、公主的封地	None	None
+邑	yi4	古代土地面积单位 四井为邑	None	None
+邑	yi4	通=悒 愁闷不乐貌	None	悒
+邑	e4	[阿邑]迎合；曲从	None	None
+𨙨	None	同=邑	None	邑
+𨙩	shi2	[𨙩邡]旧县名 后作“=什邡” 在四川省德阳市西部 1995年改为什邡市	None	什
+邒	ting2	乡名	None	None
+邒	ting2	亭名	None	None
+䢳	ji3	古地名	None	None
+𨙪	None	=卬的讹字	None	卬
+邓	shan1	古地名	None	None
+邓	deng4	=鄧的简化字	None	鄧
+邕	yong1	四方被水环绕的都邑	None	None
+邕	yong1	通=雝(雍) 和睦	None	雝
+邕	yong1	古州名 唐贞观六年改南晋州置，因邕溪水得名，在今广西壮族自治区南部，约相当于今南宁市市区及南宁市邕宁区、武鸣县、隆安县等地	None	None
+邕	yong1	通=壅 堵塞	None	壅
+邕	yong1	同=擁	None	擁
+邕	yong1	古州名 指雍州	None	None
+邕	yong1	姓	None	None
+邗	han2	录入中	None	None
 邘	None	录入中	None	None
 𨙱	None	录入中	None	None
 𨙭	None	录入中	None	None
