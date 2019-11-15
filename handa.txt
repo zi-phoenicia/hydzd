@@ -37127,54 +37127,93 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𤔐	None	同=𤔔(亂)	None	𤔔
 𠭧	None	同=受	None	受
 𤔖	luo3	（搔痒）手指大动	None	None
-𤔗	None	同=攫	None	攫
-𤔘	None	录入中	None	None
-𤔙	None	录入中	None	None
-爲	None	录入中	None	None
-𤔚	None	录入中	None	None
-舜	None	录入中	None	None
-𤔔	None	录入中	None	None
-𤔕	None	录入中	None	None
-𤔜	None	录入中	None	None
-𤔝	None	录入中	None	None
-𤔞	None	录入中	None	None
-𤔣	None	录入中	None	None
-𤔟	None	录入中	None	None
-𤔠	None	录入中	None	None
-𤔢	None	录入中	None	None
-𤔦	None	录入中	None	None
-𤔥	None	录入中	None	None
-㸕	None	录入中	None	None
-𤔤	None	录入中	None	None
-𠄇	None	录入中	None	None
-𣁝	None	录入中	None	None
-𤔫	None	录入中	None	None
-𤔩	None	录入中	None	None
-爴	None	录入中	None	None
-𤔬	None	录入中	None	None
-𣩖	None	录入中	None	None
-𠾄	None	录入中	None	None
-𤔨	None	录入中	None	None
-𤔧	None	录入中	None	None
-𤔭	None	录入中	None	None
-𤔪	None	录入中	None	None
-𤔮	None	录入中	None	None
-𤔱	None	录入中	None	None
-𤔰	None	录入中	None	None
-𤔶	None	录入中	None	None
-爵	None	录入中	None	None
-𤔼	None	录入中	None	None
-𠄉	None	录入中	None	None
-𤔲	None	录入中	None	None
-𤔹	None	录入中	None	None
-𩰣	None	录入中	None	None
-𤔿	None	录入中	None	None
-𤕀	None	录入中	None	None
-𤕆	None	录入中	None	None
-𤕄	None	录入中	None	None
-𦨁	None	录入中	None	None
-𤕅	None	录入中	None	None
-𩰥	None	录入中	None	None
+⿰固爪	None	同=攫	None	攫
+𤔗	None	同=𤔩(攫)	None	𤔩
+𤔘	None	同=𦥝	None	𦥝
+𤔙	shua3	@	None	None
+爲	wei2	制作；创作	None	None
+爲	wei2	治理	None	None
+爲	wei2	治疗	None	None
+爲	wei2	学习；研究	None	None
+爲	wei2	种植；营作	None	None
+爲	wei2	设置；建立	None	None
+爲	wei2	取；谋求	None	None
+爲	wei2	演奏；吟唱	None	None
+爲	wei2	干；搞；办	None	None
+爲	wei2	充当；担任	None	None
+爲	wei2	成；变成；称为	None	None
+爲	wei2	行为	None	None
+爲	wei2	用	None	None
+爲	wei2	施；给与	None	None
+爲	wei2	有	None	None
+爲	wei2	通=謂(wei4) 1.认为 2.叫做；称为	None	謂
+爲	wei2	是	None	None
+爲	wei2	使	None	None
+爲	wei2	代词 表示第三人称，相当于“其”	None	None
+爲	wei2	介词 1.引出动作行为的主动者，相当于“被” 2.表示时间或处所，相当于“於”、“在” 3.表示对象或处所，相当于“於”、“对”、“向” 4.表示对象，相当于“与”、“同”	None	None
+爲	wei2	连词 1.表示并列关系，相当于“和” 2.表示承接关系，相当于“则”、“就” 3.表示假设关系，相当于“如”、“若” 4.表示选择关系，相当于“抑”、“或” 5.表示连接关系，相当于”和“、”与“	None	None
+爲	wei2	助词 1，用于名词性偏正结构中，相当于“之”、“的” 2.宾语前置的标志 3.附于单音形容词后，表示程度、范围的加深或扩大 如：大为高兴；广为流传 4.附于表示程度的单音副词后，加强语意 如：甚为重要；极为不满	None	None
+爲	wei2	语气词 1.用于句尾，表示反诘、疑问，多与“何”相配合使用 2.用于句尾，表示感叹	None	None
+爲	wei2	姓	None	None
+爲	wei4	佑助；帮助	None	None
+爲	wei4	副词 将	None	None
+爲	wei4	介词 1.表示原因，相当于“因”、“由于” 2.表示对象，相当于“替”、“给” 3.表示目的，相当于“为了”	None	None
+爲	wei4	通=偽 装作；假装	None	偽
+𤔚	shang4	@	None	None
+舜	shun4	一种蔓生植物	None	None
+舜	shun4	木槿 后作=蕣	None	蕣
+舜	shun4	上古帝王名	None	None
+舜	shun4	姓	None	None
+𤔔	None	同=亂	None	亂
+𤔕	None	同=經	None	經
+𤔜	None	同=福	None	福
+𤔝	luo3	@	None	None
+𤔞	None	@	None	None
+𤔣	bao4	姓	None	None
+𤔟	fen1	@	None	None
+𤔠	None	同=愛	None	愛
+𤔢	None	同=搔	None	搔
+𤔦	None	同=亂	None	亂
+𤔥	None	同=巢	None	巢
+㸕	None	同=攫	None	攫
+𤔤	None	同=愛	None	愛
+𠄇	None	同=酪	None	酪
+𣁝	None	同=彩	None	彩
+𤔫	xiong4	同=敻 远	None	敻
+𤔩	None	同=攫	None	攫
+爴	None	同=攫	None	攫
+𤔬	None	同=𤔔	None	𤔔
+𣩖	None	同=衰	None	衰
+𠾄	None	同=善	None	善
+𤔨	li4	以爪择物	None	None
+𤔧	None	同=辭	None	辭
+𤔭	None	同=𤔪	None	𤔪
+𤔪	None	同=䜌	None	䜌
+⿰⿱爫幸夬	None	同=斁	None	斁
+𤔮	None	同=殺	None	殺
+𤔱	None	同=𠚡	None	𠚡
+𤔰	None	同=觴	None	觴
+𤔶	dang1	@	None	None
+爵	jue2	古代酒器，青铜制，有流、鋬、两柱、三足，用以盛酒和温酒，盛行于商代和周初	None	None
+爵	jue2	代指酒	None	None
+爵	jue2	量词 用于酒的计量单位	None	None
+爵	jue2	舀酒器，竹筒制，有长柄	None	None
+爵	jue2	爵位	None	None
+爵	jue2	授予爵位	None	None
+爵	jue2	通=雀(que4) 鸟雀	None	雀
+爵	jue2	姓	None	None
+𤔼	None	=𠚡的讹字	None	𠚡
+𠄉	dong4	同=湩 乳汁	None	湩
+𤔲	None	同=辭	None	辭
+𤔹	None	同=爯	None	爯
+𩰣	None	=𩰥(爵)的讹字	None	𩰥
+𤔿	None	同=婚	None	婚
+𤕀	cheng4	降服	None	None
+𤕆	None	@	None	None
+𤕄	None	同=掌	None	掌
+𦨁	None	同=葟	None	葟
+𤕅	None	同=亂	None	亂
+𩰥	None	同=爵	None	爵
 䑟	None	录入中	None	None
 𤕇	None	录入中	None	None
 𤕉	None	录入中	None	None
