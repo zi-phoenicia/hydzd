@@ -37036,27 +37036,80 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𣃖	None	录入中	None	None
 斸	None	录入中	None	None
 𨑁	None	录入中	None	None
-爪	None	录入中	None	None
-𤓯	None	录入中	None	None
-𤓱	None	录入中	None	None
-𤓳	None	录入中	None	None
-𤓵	None	录入中	None	None
-𤓲	None	录入中	None	None
-𤓴	None	录入中	None	None
-采	None	录入中	None	None
-𤔋	None	录入中	None	None
-㸒	None	录入中	None	None
-𤓶	None	录入中	None	None
-𤓸	None	录入中	None	None
-爭	None	录入中	None	None
-𤓷	None	录入中	None	None
-爬	None	录入中	None	None
+爪	zhao3	鸟兽的脚趾或趾甲	None	None
+爪	zhao3	人的指甲、趾甲	None	None
+爪	zhao3	古代送终的一种礼制，为死者修剪手脚指甲	None	None
+爪	zhao3	龟	None	None
+爪	zhao3	像爪的东西	None	None
+爪	zhao3	抓；掐	None	None
+爪	zhao3	用同=笊(zhao3) “爪籬”即“笊籬”	None	笊
+爪	zhao3	寻找 后作=找	None	找
+爪	zhao3	古契丹语音译字 一百	None	None
+爪	zhua3	鸟兽的脚爪 多用于口语 如：爪尖儿；爪子	None	None
+𤓯	zhang3	同=掌	None	掌
+𤓯	ju2	覆手取物	None	None
+⿺爪乚	None	同=糺	None	糺
+𤓳	None	同=采	None	采
+𤓵	None	同=祖	None	祖
+𤓲	yin4	同=印	None	印
+𤓲	luan3	=卵的讹字	None	卵
+𤓴	None	同=𤓿	None	𤓿
+采	cai3	摘取	None	None
+采	cai3	采择；选取	None	None
+采	cai3	采集；搜集	None	None
+采	cai3	开采	None	None
+采	cai3	取得；获取	None	None
+采	cai3	采纳；采用	None	None
+采	cai3	事	None	None
+采	cai3	官，官职	None	None
+采	cai3	币帛	None	None
+采	cai3	坟墓	None	None
+采	cai3	彩色 后作=彩	None	彩
+采	cai3	彩色的丝织品 后作=綵	None	綵
+采	cai3	文彩	None	None
+采	cai3	光彩	None	None
+采	cai3	饰，文过其实	None	None
+采	cai3	神色；神态	None	None
+采	cai3	赌博时博具呈现的花色	None	None
+采	cai3	彩头；赌注	None	None
+采	cai3	旧指好运	None	None
+采	cai3	木名	None	None
+采	cai3	犹言拉、扯	None	None
+采	cai3	理睬，理会 后作=睬	None	睬
+采	cai3	藤蔓	None	None
+采	cai3	姓	None	None
+采	cai4	采地，古代卿大夫的封邑	None	None
+采	cai4	通=菜	None	菜
+𤔋	ju4	@	None	None
+⿺爪𢆰	None	同=𣏳	None	𣏳
+㸒	yin2	妄取；贪求	None	None
+㸒	jing1	织	None	None
+⿰片爪	None	同=劈	None	劈
+𤓶	None	同=𤓷	None	𤓷
+𤓸	None	同=為	None	為
+爭	zheng1	争夺；夺取	None	None
+爭	zheng1	争斗；较量	None	None
+爭	zheng1	辩讼；辩论	None	None
+爭	zheng1	竞争	None	None
+爭	zheng1	相差	None	None
+爭	zheng1	方言 欠，即借了别人的财物还没偿还	None	None
+爭	zheng1	代词 表示指示、疑问或感叹，相当于“怎”、“怎么”	None	None
+爭	zheng1	春秋时鲁国北护城城河名，又为北城门名 也作=淨	None	淨
+爭	zheng1	用同=睜 张开眼睛	None	睜
+爭	zheng1	姓	None	None
+爭	zheng4	通=諍 进谏，直言劝告	None	諍
+𤓷	na2	[爬𤓷]以收除	None	None
+爬	pa2	搔；爬梳	None	None
+爬	pa2	伏在地上向前移动；昆虫向前移动	None	None
+爬	pa2	抓着东西向上攀登	None	None
+爬	pa2	俯伏	None	None
+爬	pa2	一种带齿的器具，常做松散泥土之用 后作=耙	None	耙
 爰	None	录入中	None	None
-𤔁	None	录入中	None	None
-𤔇	None	录入中	None	None
-𤔈	None	录入中	None	None
-𤔉	None	录入中	None	None
-𤰰	None	录入中	None	None
+𤔁	None	同=平	None	平
+𤔇	None	同=事	None	事
+𤔈	None	同=祖	None	祖
+𤔉	pao2	@	None	None
+𤰰	None	=𠂽的讹字	None	𠂽
 爯	None	录入中	None	None
 爮	None	录入中	None	None
 𤓾	None	录入中	None	None
