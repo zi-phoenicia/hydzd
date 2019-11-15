@@ -37214,14 +37214,14 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𦨁	None	同=葟	None	葟
 𤕅	None	同=亂	None	亂
 𩰥	None	同=爵	None	爵
-䑟	None	录入中	None	None
-𤕇	None	录入中	None	None
-𤕉	None	录入中	None	None
-𩰨	None	录入中	None	None
-𤕋	None	录入中	None	None
-𤕊	None	录入中	None	None
-𤕍	None	录入中	None	None
-𤕌	None	录入中	None	None
+䑟	None	同=葟	None	葟
+𤕇	sou3	@	None	None
+𤕉	None	=𤬢(瓢)的讹字	None	𤬢
+𩰨	None	同=爵	None	爵
+𤕋	None	同=壽	None	壽
+𤕊	shen2	@ ……按：……“𤕊”为=神的讹俗字	None	神
+𤕍	None	同=𠧎(亂)	None	𠧎
+𤕌	None	同=緟	None	緟
 父	fu4	父亲	None	None
 父	fu4	对男性长辈的通称 如：伯父；叔父；舅父；姨夫；岳父	None	None
 父	fu4	古代天子、诸侯对同姓亲族的称呼	None	None
@@ -44549,20 +44549,44 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥗿	None	录入中	None	None
 𥘃	None	录入中	None	None
 𥘄	None	录入中	None	None
-目	None	录入中	None	None
-𥃤	None	录入中	None	None
-𥃪	None	录入中	None	None
-𥃭	None	录入中	None	None
-盯	None	录入中	None	None
-䀎	None	录入中	None	None
-𥃨	None	录入中	None	None
-𥃦	None	录入中	None	None
-𥃮	None	录入中	None	None
-䀏	None	录入中	None	None
-𥃩	None	录入中	None	None
-𥃯	None	录入中	None	None
-𥃰	None	录入中	None	None
-𥃧	None	录入中	None	None
+目	mu4	人的眼睛	None	None
+目	mu4	看；注视	None	None
+目	mu4	以目表示愤懑	None	None
+目	mu4	以目示意	None	None
+目	mu4	看待	None	None
+目	mu4	看法	None	None
+目	mu4	看重	None	None
+目	mu4	眼力；眼界	None	None
+目	mu4	孔眼	None	None
+目	mu4	要目；条目	None	None
+目	mu4	目录	None	None
+目	mu4	名；名目	None	None
+目	mu4	称，称呼	None	None
+目	mu4	标题	None	None
+目	mu4	品评；品题	None	None
+目	mu4	首领；头领	None	None
+目	mu4	树木枝干纹理纠结不顺的部位	None	None
+目	mu4	姓	None	None
+𥃤	None	同=𥃧	None	𥃧
+𥃪	jiao1	地名	None	None
+𥃭	None	=自的讹字	None	自
+盯	cheng2	[盯𥋝]同“𥋝盯” 1.直视 2.怒目视人	None	None
+盯	cheng2	同=瞠	None	瞠
+盯	cheng2	方言 睁	None	None
+盯	ding1	注视 如：盯梢；他两眼直盯着书	None	None
+䀎	None	同=眄	None	眄
+𥃨	bu4	目骨	None	None
+𥃦	None	同=目	None	目
+𥃮	wen4	@	None	None
+䀏	xuan4	目摇	None	None
+䀏	xun2	同=眴 目眩	None	眴
+𥃩	gen4	同=艮	None	艮
+𥃩	yan3	同=眼	None	眼
+𥃯	None	=𥄀的讹字	None	𥄀
+𥃰	bin1	@	None	None
+𥃧	chou1	同=䀺 目不正	None	䀺
+𥃧	jiao3	目重睑	None	None
+𥃧	yao3	同=窅 深目	None	窅
 𥃫	None	录入中	None	None
 盰	None	录入中	None	None
 盱	None	录入中	None	None
