@@ -37126,8 +37126,8 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𤔒	None	同=亂	None	亂
 𤔐	None	同=𤔔(亂)	None	𤔔
 𠭧	None	同=受	None	受
-𤔖	None	录入中	None	None
-𤔗	None	录入中	None	None
+𤔖	luo3	（搔痒）手指大动	None	None
+𤔗	None	同=攫	None	攫
 𤔘	None	录入中	None	None
 𤔙	None	录入中	None	None
 爲	None	录入中	None	None
