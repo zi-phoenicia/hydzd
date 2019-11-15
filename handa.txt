@@ -44908,14 +44908,27 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 眢	yuan1	枯井	None	None
 𥄹	bao4	目怒貌	None	None
 𥅖	None	同=眝	None	眝
-眩	None	录入中	None	None
-眫	None	录入中	None	None
-眝	None	录入中	None	None
-𥄴	None	录入中	None	None
-𥄻	None	录入中	None	None
-䀣	None	录入中	None	None
-眿	None	录入中	None	None
-𥄶	None	录入中	None	None
+眩	xuan4	眼睛昏花，视物摇晃不定	None	None
+眩	xuan4	乱，迷惑	None	None
+眩	xuan4	晕，晕旋	None	None
+眩	xuan4	通=炫 耀	None	炫
+眩	huan4	通=幻 幻术；变幻	None	幻
+眩	juan4	同=𧗳 行卖	None	𧗳
+眫	mi3	同=眯 杂物入目	None	眯
+眫	pan4	=胖的讹字	None	胖
+眝	zhu3	视；远视	None	None
+眝	zhu3	睁大眼睛	None	None
+𥄴	xue4	直视	None	None
+𥄴	xue4	同=瞲 惊视	None	瞲
+𥄴	jue2	同=𥈾 目深貌	None	𥈾
+𥄻	yi2	视	None	None
+⿰目训	None	=瞓的类推简化字	None	瞓
+䀣	bi4	直视	None	None
+䀣	bi4	惭愧	None	None
+䀣	ma4	恶视	None	None
+眿	mo4	同=眽 斜视；相视	None	眽
+⿱目永	None	同=𥄉	None	𥄉
+𥄶	si1	同=覗 看 一说偷看	None	覗
 𥄿	None	录入中	None	None
 眤	None	录入中	None	None
 眠	None	录入中	None	None
