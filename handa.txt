@@ -44765,55 +44765,108 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥄍	guo2	目貌	None	None
 ⿰目从	None	=瞛的类推简化字	None	瞛
 𥄘	shan3	姓	None	None
-𥄃	None	录入中	None	None
-盼	None	录入中	None	None
-眨	None	录入中	None	None
-眀	None	录入中	None	None
-𥄌	None	录入中	None	None
-眂	None	录入中	None	None
-𥄇	None	录入中	None	None
-䀛	None	录入中	None	None
-䀜	None	录入中	None	None
-盷	None	录入中	None	None
-䀚	None	录入中	None	None
-𥄈	None	录入中	None	None
-盿	None	录入中	None	None
-𥄐	None	录入中	None	None
-𥄦	None	录入中	None	None
-眆	None	录入中	None	None
-䀞	None	录入中	None	None
-𥄧	None	录入中	None	None
-𪾣	None	录入中	None	None
-𥄅	None	录入中	None	None
-眈	None	录入中	None	None
-䀗	None	录入中	None	None
-䀕	None	录入中	None	None
-𥄨	None	录入中	None	None
-眉	None	录入中	None	None
-𥄜	None	录入中	None	None
-𥄛	None	录入中	None	None
-𥄩	None	录入中	None	None
-𥄽	None	录入中	None	None
-眜	None	录入中	None	None
-眛	None	录入中	None	None
-眎	None	录入中	None	None
-眐	None	录入中	None	None
-䀦	None	录入中	None	None
-𥄵	None	录入中	None	None
-𥅏	None	录入中	None	None
-眪	None	录入中	None	None
-𥅙	None	录入中	None	None
-眘	None	录入中	None	None
-𥅐	None	录入中	None	None
-眓	None	录入中	None	None
-䀡	None	录入中	None	None
-𪾦	None	录入中	None	None
-䀠	None	录入中	None	None
-眒	None	录入中	None	None
-眏	None	录入中	None	None
-眖	None	录入中	None	None
-𥅑	None	录入中	None	None
-𥄲	None	录入中	None	None
+𬑆	None	=睔的类推简化字	None	睔
+𥄃	None	=㫘的讹字	None	㫘
+盼	pan4	眼睛黑白分明；美目流转	None	None
+盼	pan4	顾；看	None	None
+盼	pan4	看重；重视	None	None
+盼	pan4	企望	None	None
+盼	pan4	探望	None	None
+盼	pan4	通=眄(mian3) 斜视貌	None	眄
+盼	fen2	[瞵盼]天旦欲明	None	None
+眨	zha3	眼睛一闭一开	None	None
+眀	ming2	视；视瞭	None	None
+眀	ming2	同=明	None	明
+𥄌	None	同=睟	None	睟
+眂	shi4	视	None	None
+𥄇	shi4	同=眂 视	None	眂
+𥄇	hun1	同=睧 目暗	None	睧
+䀛	mei4	眯眼远视	None	None
+䀛	mei4	久视	None	None
+䀛	mei4	黎明	None	None
+䀛	mei4	不正视	None	None
+䀛	wu4	瞑；昏	None	None
+䀛	ma3	同=䀣 恶视	None	䀣
+䀜	None	同=䀛	None	䀛
+盷	tian2	目转视貌	None	None
+盷	tian2	古地名	None	None
+盷	xian2	目大貌	None	None
+盷	xian2	古代国名	None	None
+盷	min2	同=盿	None	盿
+䀚	ang2	举目视	None	None
+𥄈	None	同=睦	None	睦
+盿	min2	视貌	None	None
+𥄐	None	同=盿	None	盿
+𥄦	dan3	@	None	None
+眆	fang3	[眆佛]也作“眆䀟” 见似不真切	None	None
+眆	fang3	同=倣(仿) 仿效	None	倣
+䀞	tao1	目重睑 ……按：……当是=𥃧字俗讹	None	𥃧
+𥄧	None	同=𥃪	None	𥃪
+𪾣	None	=眝的类推简化字	None	眝
+𥄅	None	=昈的讹字	None	昈
+眈	dan1	视近而志远	None	None
+眈	dan1	乐	None	None
+眈	dan1	虎视；雄视	None	None
+眈	dan1	同=𧡪 徐视	None	𧡪
+眈	chen3	出头视貌	None	None
+䀗	jue2	目病	None	None
+䀗	jue2	美目	None	None
+䀗	xue4	同=瞲 惊视	None	瞲
+䀕	zhen3	怒目	None	None
+䀕	zhen3	眼珠	None	None
+𥄨	None	同=瞅	None	瞅
+眉	mei2	眉毛	None	None
+眉	mei2	题额	None	None
+眉	mei2	旁侧	None	None
+眉	mei2	老	None	None
+眉	mei2	指美女	None	None
+眉	mei2	通=媚 妩媚	None	媚
+眉	mei2	古州名 故地在今四川省眉山市	None	None
+眉	mei2	姓	None	None
+𥄜	qi4	视	None	None
+𥄛	None	=肸的讹字	None	肸
+𥄩	None	同=𥆎(𥃤)	None	𥆎
+𥄽	ni4	视	None	None
+眜	mo4	目不正	None	None
+眜	mo4	冒	None	None
+眜	mie4	春秋时地名 故地在今山东省泗水县东	None	None
+眛	mei4	目不明	None	None
+眛	mei4	昏昧；不明事理	None	None
+眎	shi4	同=視	None	視
+眎	shi4	同=示	None	示
+眎	shi4	语	None	None
+眎	shi4	呈	None	None
+眐	zheng1	[眐眐]独行貌	None	None
+眐	zheng1	独视貌；专视	None	None
+⿱𫇦目	None	=䁝的类推简化字	None	䁝
+䀦	gu3	方言 瞪	None	None
+𥄵	xu4	同=瞲 目深貌	None	瞲
+𥄵	yu3	目动	None	None
+𥅏	None	同=俟	None	俟
+眪	bing3	视	None	None
+眪	bing3	明；目明	None	None
+眪	fang3	同=眆 看不真切	None	眆
+𥅙	None	同=眪	None	眪
+眘	None	同=慎	None	慎
+𥅐	None	=䀾的讹字	None	䀾
+眓	huo4	视高貌	None	None
+䀡	chan4	同=覘 视，窥视	None	覘
+䀡	dian1	目垂	None	None
+䀡	dian1	[䀡䁠]淫乱人的目光	None	None
+䀡	dian1	目摇	None	None
+䀡	tan4	候视	None	None
+𪾦	None	=矑的类推简化字	None	矑
+䀠	ju4	同=瞿 左右惊视	None	瞿
+眒	shen1	张目	None	None
+眒	shen1	疾速貌	None	None
+眒	shen1	鸟兽惊貌	None	None
+眒	shun4	同=瞬	None	瞬
+眏	yang1	目不明	None	None
+眏	yang3	恨视	None	None
+眏	ying4	同=䁐 视	None	䁐
+眖	kuang4	视	None	None
+𥅑	dian4	@	None	None
+𥄲	mie2	目小	None	None
 眚	None	录入中	None	None
 眣	None	录入中	None	None
 䀢	None	录入中	None	None
