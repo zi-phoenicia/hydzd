@@ -44867,28 +44867,47 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 眖	kuang4	视	None	None
 𥅑	dian4	@	None	None
 𥄲	mie2	目小	None	None
-眚	None	录入中	None	None
-眣	None	录入中	None	None
-䀢	None	录入中	None	None
-𥅁	None	录入中	None	None
-𥅒	None	录入中	None	None
-𥅓	None	录入中	None	None
-𥅔	None	录入中	None	None
-𥅂	None	录入中	None	None
-𥅀	None	录入中	None	None
-𥅕	None	录入中	None	None
-𥄼	None	录入中	None	None
-𥄺	None	录入中	None	None
-㸔	None	录入中	None	None
-眕	None	录入中	None	None
-眡	None	录入中	None	None
-𥅘	None	录入中	None	None
-眗	None	录入中	None	None
-𥄸	None	录入中	None	None
-䀤	None	录入中	None	None
-眢	None	录入中	None	None
-𥄹	None	录入中	None	None
-𥅖	None	录入中	None	None
+𬑋	qiu3	方言 盯 如：𬑋住他	None	None
+眚	sheng3	眼睛生翳	None	None
+眚	sheng3	日月之蚀	None	None
+眚	sheng3	过失；罪孽	None	None
+眚	sheng3	灾异	None	None
+眚	sheng3	败，损坏	None	None
+眚	sheng3	消瘦；削弱	None	None
+眚	sheng3	赦免	None	None
+眚	sheng3	通=省 减省	None	省
+眣	die2	目不正	None	None
+眣	die2	目露貌	None	None
+眣	die2	目出	None	None
+眣	ti2	同=𥉈 失意视貌	None	𥉈
+䀢	shun4	同=瞬 以目示意	None	瞬
+𥅁	zuo4	眼睛	None	None
+𥅒	fan4	@	None	None
+𥅓	yi4	同=䝯 重物次第	None	䝯
+𥅔	None	同=眡(視)	None	眡
+⿳丿止目	None	同=䀽	None	䀽
+𥅂	None	人名用字	None	None
+𥅀	None	同=鼎	None	鼎
+𥅕	None	同=眉	None	眉
+𥄼	gua1	同=𥈓 眼睛	None	𥈓
+𥄺	None	同=眣	None	眣
+㸔	None	同=看	None	看
+眕	zhen3	自重，抑制	None	None
+眕	zhen3	视	None	None
+眡	shi3	同=視 1.办理（公事） 2.比，如	None	視
+𥅘	zhen3	明	None	None
+𥅘	mi2	同=瞇 眇目冒	None	瞇
+眗	ju1	同=䀠(瞿) 左右惊视	None	䀠
+眗	ju1	古代西南有的少数民族称盐为“眗”	None	None
+眗	xu1	[眗瞜]同“=𥈈瞜” 笑	None	𥈈
+眗	kou1	眼睛深凹	None	None
+𥄸	mao3	[𥅟𥄸]也作“𥄸𥅟” 邪视	None	None
+䀤	mao3	[䀤睮]嫉妒人的目光	None	None
+眢	yuan1	眼枯不明	None	None
+眢	yuan1	目空貌	None	None
+眢	yuan1	枯井	None	None
+𥄹	bao4	目怒貌	None	None
+𥅖	None	同=眝	None	眝
 眩	None	录入中	None	None
 眫	None	录入中	None	None
 眝	None	录入中	None	None
