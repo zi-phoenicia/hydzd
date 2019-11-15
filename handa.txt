@@ -44643,14 +44643,44 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 眃	yun2	[眩眃]视不明貌	None	None
 眃	hun4	[眩眃]疾貌 一说疾视貌	None	None
 𥄕	mo4	目不正	None	None
-相	None	录入中	None	None
-𥄚	None	录入中	None	None
-𥄙	None	录入中	None	None
-𥄪	None	录入中	None	None
-𥄝	None	录入中	None	None
-𥄔	None	录入中	None	None
-𥄏	None	录入中	None	None
-眄	None	录入中	None	None
+相	xiang1	共；互相；交互	None	None
+相	xiang1	表示一方对另一方有所动作	None	None
+相	xiang1	质，实质	None	None
+相	xiang1	姓	None	None
+相	xiang4	省视；察看	None	None
+相	xiang4	占视	None	None
+相	xiang4	形貌 如：聪明相；狼狈相	None	None
+相	xiang4	教导	None	None
+相	xiang4	辅佐；扶助	None	None
+相	xiang4	扶引盲人的人	None	None
+相	xiang4	赞勉	None	None
+相	xiang4	治，治理	None	None
+相	xiang4	古官名 1.古代辅佐帝王的大臣 后专指宰相 2.汉时诸侯王国的实际执政者，相当于郡太守	None	None
+相	xiang4	司仪赞礼	None	None
+相	xiang4	选择	None	None
+相	xiang4	跟随	None	None
+相	xiang4	古代的一种乐器	None	None
+相	xiang4	琵琶颈部所镶的四块或六块山形物，也称“相” 通常以牛角、红木或象牙制成，用以确定音位	None	None
+相	xiang4	古代劝勉劳动的歌曲	None	None
+相	xiang4	农历七月的别名	None	None
+相	xiang4	星名，在北极斗南	None	None
+相	xiang4	五星更王相休废内实称相	None	None
+相	xiang4	相位；周相；位相 某一物理量随时间（或空间位置）作正弦变化时，决定该量在任一时刻（或位置）的状态的一个数值	None	None
+相	xiang4	物理学名词 1.指具有相同成分及相同物理、化学性质的均匀物质部分 各相之间有明显可分的界面 如：空气是一个相；水和冰是两个相 2.交流电路中，多相系统的一个组成部分 如：三相交流发电机有三个绕组，每一个绕组称为一个“相” 发电时三个绕组的电动势变化频率相同，但各有120°相位差	None	None
+相	xiang4	佛教名词 对“性”而言 佛教把一切事物外观的形象状态称之为相	None	None
+相	xiang4	通=禳(rang2) 古代消除灾殃的祭祀名	None	禳
+相	xiang4	古地名 故址在今河南省安阳市西	None	None
+相	xiang4	姓	None	None
+𥄚	None	同=視	None	視
+𥄙	None	同=視	None	視
+𥄪	None	同=悟	None	悟
+𥄝	None	同=眄	None	眄
+𥄔	pei4	目不明貌	None	None
+𥄔	fei4	同=𥄱 目不明	None	𥄱
+𥄏	None	同=眵	None	眵
+眄	mian3	一只眼病	None	None
+眄	mian3	斜视，不正面看	None	None
+眄	mian3	看；望	None	None
 𥄊	None	录入中	None	None
 𥄓	None	录入中	None	None
 眍	None	录入中	None	None
