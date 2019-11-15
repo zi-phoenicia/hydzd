@@ -44681,28 +44681,82 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 眄	mian3	一只眼病	None	None
 眄	mian3	斜视，不正面看	None	None
 眄	mian3	看；望	None	None
-𥄊	None	录入中	None	None
-𥄓	None	录入中	None	None
-眍	None	录入中	None	None
-𥄷	None	录入中	None	None
-盹	None	录入中	None	None
-䀙	None	录入中	None	None
-𥄆	None	录入中	None	None
-𥄎	None	录入中	None	None
-眇	None	录入中	None	None
-省	None	录入中	None	None
-𥄋	None	录入中	None	None
-𪾢	None	录入中	None	None
-𥄞	None	录入中	None	None
-看	None	录入中	None	None
-眊	None	录入中	None	None
-𥄥	None	录入中	None	None
-𥄒	None	录入中	None	None
-盺	None	录入中	None	None
-盾	None	录入中	None	None
-𥄄	None	录入中	None	None
-眅	None	录入中	None	None
-𥄖	None	录入中	None	None
+𥄊	None	同=𭾡	None	𭾡
+𥄓	fou1	见	None	None
+眍	None	=瞘的简化字	None	瞘
+𥄷	ju3	视 ……一说为=䀠的讹字	None	䀠
+𥄷	ju3	同=𥈋 惊视貌	None	𥈋
+盹	dun3	闭目小睡	None	None
+盹	zhun1	同=𥇜	None	𥇜
+䀙	qi4	视	None	None
+䀙	qi4	同=𥉻	None	𥉻
+𥄆	None	同=眡	None	眡
+𥄎	xue4	举目使人	None	None
+𥄎	xue4	目不动	None	None
+𥄎	xue4	同=瞲	None	瞲
+𥄎	xue4	同=䀗	None	䀗
+眇	miao3	小目	None	None
+眇	miao3	偏盲，一目失明	None	None
+眇	miao3	详视，细视	None	None
+眇	miao3	小；低微	None	None
+眇	miao3	高远	None	None
+眇	miao3	通=訬 轻捷	None	訬
+眇	miao4	完成	None	None
+眇	miao4	妙；精微	None	None
+省	xing3	察看；察视	None	None
+省	xing3	检查；审查	None	None
+省	xing3	探望，问候	None	None
+省	xing3	周代天子使臣安抚邦国之礼，间岁一举	None	None
+省	xing3	明白；醒悟	None	None
+省	xing3	记得；记忆	None	None
+省	xing3	善	None	None
+省	sheng3	王宫禁署，禁中	None	None
+省	sheng3	行政区域名 元代中央置中书省，于各路设行中书省，改为行省 明代改行省为布政使司，自后即以省为地方行政区域的通称 如：河北省、四川省	None	None
+省	sheng3	减少	None	None
+省	sheng3	简；节约	None	None
+省	sheng3	废去；去掉	None	None
+省	sheng3	免去；休要	None	None
+省	sheng3	通=眚 灾害；过失	None	眚
+省	sheng3	副词 曾	None	None
+省	sheng3	姓	None	None
+省	xian3	通=獮 秋季狩猎	None	獮
+𥄋	nv4	视	None	None
+𪾢	None	=睍的类推简化字	None	睍
+𥄞	None	同=眪	None	眪
+看	kan4	以手加额遮目而望	None	None
+看	kan4	使视线接触人或物	None	None
+看	kan4	视，观察	None	None
+看	kan4	观赏	None	None
+看	kan4	估量	None	None
+看	kan4	访问；探望	None	None
+看	kan4	看待；对待 如：另眼相看；刮目相看	None	None
+看	kan4	照料，料理	None	None
+看	kan4	诊治	None	None
+看	kan4	听，闻	None	None
+看	kan4	决定于	None	None
+看	kan4	注意；小心	None	None
+看	kan4	助词 “看怎么样”的省略，用在动词或动次结构的后面，表示试一试	None	None
+看	kan4	姓	None	None
+看	kan1	守护；看守 如：看护；看门	None	None
+眊	mao4	眼睛昏浊，看不清楚	None	None
+眊	mao4	昏愦；惑乱	None	None
+眊	mao4	用同=旄 古代槊杆或旗杆顶上的毛饰	None	旄
+眊	mao4	通=耄 原指年满八十的老人，后泛指年老	None	耄
+眊	mei4	美好	None	None
+𥄥	None	同=𦒿(耆)	None	𦒿
+𥄒	xue1	目动	None	None
+盺	xin1	喜	None	None
+盺	xin1	视不明貌	None	None
+盾	dun4	盾牌，古代的一种防护兵器	None	None
+盾	dun4	像盾牌形状的物品 如：银盾；金盾	None	None
+盾	dun4	古星名，即牧夫座λ星	None	None
+盾	dun4	荷兰、印度尼西亚、越南等国的货币单位 1.荷兰“荷兰盾(Guilder)”的简称 2.印度尼西亚“卢比(Rupiah)”的通称 3.越南“越南盾(Dong)”的简称	None	None
+盾	yun3	[中盾]汉代官名 詹事一类的官	None	None
+𥄄	None	=眽的讹字	None	眽
+眅	pan1	白眼	None	None
+眅	pan1	大	None	None
+眅	pan1	转目视	None	None
+𥄖	xi1	视	None	None
 盻	None	录入中	None	None
 𥄍	None	录入中	None	None
 𥄘	None	录入中	None	None
