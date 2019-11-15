@@ -37110,21 +37110,22 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𤔈	None	同=祖	None	祖
 𤔉	pao2	@	None	None
 𤰰	None	=𠂽的讹字	None	𠂽
-爯	None	录入中	None	None
-爮	None	录入中	None	None
-𤓾	None	录入中	None	None
-𤓿	None	录入中	None	None
-𤓽	None	录入中	None	None
-𤔊	None	录入中	None	None
-𤔀	None	录入中	None	None
-𤔌	None	录入中	None	None
-𤔑	None	录入中	None	None
-𤰲	None	录入中	None	None
-爱	None	录入中	None	None
-𤔍	None	录入中	None	None
-𤔒	None	录入中	None	None
-𤔐	None	录入中	None	None
-𠭧	None	录入中	None	None
+爯	cheng1	手举物 后作=稱	None	稱
+爯	cheng4	大	None	None
+爮	pao2	扒；搔	None	None
+𤓾	dao4	姓	None	None
+𤓿	lie4	撮取	None	None
+𤓽	None	同=孚	None	孚
+𤔊	None	同=經	None	經
+𤔀	na2	[爬𤔀]搔 一说敛	None	None
+𤔌	None	同=隱	None	隱
+𤔑	None	同=礼	None	礼
+𤰲	None	同=畏	None	畏
+爱	None	=愛的简化字	None	愛
+𤔍	None	同=𠈃(保)	None	𠈃
+𤔒	None	同=亂	None	亂
+𤔐	None	同=𤔔(亂)	None	𤔔
+𠭧	None	同=受	None	受
 𤔖	None	录入中	None	None
 𤔗	None	录入中	None	None
 𤔘	None	录入中	None	None
