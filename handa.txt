@@ -44757,9 +44757,14 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 眅	pan1	大	None	None
 眅	pan1	转目视	None	None
 𥄖	xi1	视	None	None
-盻	None	录入中	None	None
-𥄍	None	录入中	None	None
-𥄘	None	录入中	None	None
+盻	xi4	恨视；怒视	None	None
+盻	xi4	视，看	None	None
+盻	xi4	勤苦不休息貌	None	None
+盻	pan3	动目	None	None
+盻	pan3	美目貌	None	None
+𥄍	guo2	目貌	None	None
+⿰目从	None	=瞛的类推简化字	None	瞛
+𥄘	shan3	姓	None	None
 𥄃	None	录入中	None	None
 盼	None	录入中	None	None
 眨	None	录入中	None	None
