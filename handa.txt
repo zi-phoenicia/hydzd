@@ -50142,40 +50142,81 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥪖	None	同=龍	None	龍
 竧	jing4	人名用字	None	None
 竧	zhen3	同=䠴	None	䠴
-𥪃	None	录入中	None	None
-𥩿	None	录入中	None	None
-竤	None	录入中	None	None
-竢	None	录入中	None	None
-竣	None	录入中	None	None
-𥪌	None	录入中	None	None
-𥪏	None	录入中	None	None
-䇎	None	录入中	None	None
-竪	None	录入中	None	None
-竨	None	录入中	None	None
-𠹧	None	录入中	None	None
-𥪍	None	录入中	None	None
-𥪕	None	录入中	None	None
-䇑	None	录入中	None	None
-𥪑	None	录入中	None	None
-𥪐	None	录入中	None	None
-亷	None	录入中	None	None
-䇏	None	录入中	None	None
-𥪗	None	录入中	None	None
-竩	None	录入中	None	None
-䇐	None	录入中	None	None
-𥪋	None	录入中	None	None
-𥪊	None	录入中	None	None
-𥪛	None	录入中	None	None
-𥪘	None	录入中	None	None
-𥪫	None	录入中	None	None
-𥪙	None	录入中	None	None
-竰	None	录入中	None	None
-𥪢	None	录入中	None	None
-竭	None	录入中	None	None
-端	None	录入中	None	None
-𥪚	None	录入中	None	None
-𡙶	None	录入中	None	None
-竬	None	录入中	None	None
+𥪃	None	同=䇓	None	䇓
+𥩿	None	同=望	None	望
+竤	None	同=竑	None	竑
+竢	si4	同=俟 等待	None	俟
+竣	jun4	退伏	None	None
+竣	jun4	事毕 如：竣工；竣事	None	None
+竣	jun4	改	None	None
+𥪌	tian3	恭敬	None	None
+𥪏	ju1	[佝𥪏]瘦弱	None	None
+䇎	que4	惊貌	None	None
+䇎	que4	恭敬	None	None
+竪	None	同=豎	None	豎
+⿰立歨	None	同=𡍍	None	𡍍
+竨	diao4	[竨𥪯]高危貌	None	None
+𠹧	None	同=商	None	商
+𥪍	wo4	瘦弱	None	None
+𥪍	wo4	弱立貌	None	None
+𥪕	None	旧指法国容量单位启罗立脱尔(法Kilolitre)，略记为“𥪕” 为一升的千倍	None	None
+䇑	ba4	矮人立貌	None	None
+䇑	pi1	行走不稳貌	None	None
+𥪑	None	同=龍	None	龍
+𥪐	None	同=龍	None	龍
+亷	None	同=廉	None	廉
+䇏	dui4	[磊䇏]重叠堆聚	None	None
+䇏	dui4	树木果实下垂貌	None	None
+𥪗	None	同=鬃	None	鬃
+竩	None	同=誼	None	誼
+䇐	li4	同=莅 临；至	None	莅
+䇐	li4	从	None	None
+䇐	li4	疏	None	None
+𥪋	fu2	见鬼怪惊惧貌	None	None
+𥪊	kui3	[𥪊然]独立貌	None	None
+𥪊	jue2	同=倔	None	倔
+𥪛	None	同=竪	None	竪
+𥪘	zhen1	坐立不移貌	None	None
+𥪫	ji4	@	None	None
+𥪙	None	同=䇓	None	䇓
+竰	None	旧指法国容量单位生的立脱尔(法Centilitre)，略记为“竰” 为一升的百分之一	None	None
+𥪢	None	同=竜(龍)	None	竜
+竭	jie2	承载	None	None
+竭	jie2	穷尽	None	None
+竭	jie2	干涸	None	None
+竭	jie2	败；坏	None	None
+竭	jie2	亡	None	None
+竭	jie2	祛除	None	None
+竭	jie2	遏止	None	None
+竭	jie2	姓	None	None
+端	duan1	直；正	None	None
+端	duan1	事物的一头或一方面	None	None
+端	duan1	首；顶端；开头	None	None
+端	duan1	征兆；缘由	None	None
+端	duan1	边际；头绪	None	None
+端	duan1	思绪；心绪	None	None
+端	duan1	事	None	None
+端	duan1	等差	None	None
+端	duan1	项目；种类	None	None
+端	duan1	详审 如：仔细端详	None	None
+端	duan1	手平举拿物 如：端茶；端碗	None	None
+端	duan1	应当；必须	None	None
+端	duan1	宫殿或都城的南面正门	None	None
+端	duan1	六朝时对幕僚之职的尊称	None	None
+端	duan1	周代礼服	None	None
+端	duan1	墨家指几何学上的点	None	None
+端	duan1	玄参的别名	None	None
+端	duan1	副词 1.正好 2.特地 3.真正；一定 4.究竟	None	None
+端	duan1	量词 古代布帛长度单位 其制不一 1.二丈 2.一丈六尺 3.五丈 4.六丈 5.八丈	None	None
+端	duan1	用同=鍛	None	鍛
+端	duan1	通=喘(chuan3) 轻声说话	None	喘
+端	duan1	通=專(zhuan1) 笏；手板	None	專
+端	duan1	姓	None	None
+⿱立重	None	同=童	None	童
+𥪚	fu4	邪	None	None
+𡙶	yan3	古代小国君主名	None	None
+竬	qu3	立	None	None
+⿱须立	None	=䇓的类推简化字	None	䇓
 䇒	None	录入中	None	None
 竮	None	录入中	None	None
 𥪣	None	录入中	None	None
