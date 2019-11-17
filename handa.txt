@@ -49982,25 +49982,43 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𤼣	None	录入中	None	None
 𤼤	None	录入中	None	None
 癵	None	录入中	None	None
-立	None	录入中	None	None
-䇂	None	录入中	None	None
-竍	None	录入中	None	None
-𥩖	None	录入中	None	None
-竌	None	录入中	None	None
-竎	None	录入中	None	None
-𥩗	None	录入中	None	None
-竏	None	录入中	None	None
-𥩘	None	录入中	None	None
-䇃	None	录入中	None	None
-𫁟	None	录入中	None	None
-亲	None	录入中	None	None
-竑	None	录入中	None	None
-䇅	None	录入中	None	None
-竖	None	录入中	None	None
-竗	None	录入中	None	None
-竒	None	录入中	None	None
-𥩝	None	录入中	None	None
-竓	None	录入中	None	None
+立	li4	站立	None	None
+立	li4	竖起 如：立竿见影	None	None
+立	li4	建树；成就	None	None
+立	li4	成熟	None	None
+立	li4	特指三十岁	None	None
+立	li4	设置；设立	None	None
+立	li4	制订；订立	None	None
+立	li4	存在	None	None
+立	li4	帝王或诸侯即位	None	None
+立	li4	确定；决定	None	None
+立	li4	坚定	None	None
+立	li4	副词 即刻 如：立候回音	None	None
+立	li4	通=粒 以谷米为食	None	粒
+立	li4	通=泣(qi4) 哭泣	None	泣
+立	li4	姓	None	None
+立	wei4	通=位	None	位
+䇂	qian1	罪过	None	None
+竍	None	旧指法国容量单位特卡立脱尔(法Decalitre)，略记为“竍” 为一升的十倍	None	None
+𥩖	yi4	@	None	None
+竌	chu4	正	None	None
+竎	fu4	登	None	None
+𥩗	ruan3	倚	None	None
+竏	None	旧指法国容量单位启罗立脱尔(法Kilolitre)，略记为“竏” 为一升的千倍	None	None
+𥩘	None	立约	None	None
+𥩘	None	旧指法国容量单位生的立脱尔(法Centilitre)，略记为“𥩘” 为一升的百分之一	None	None
+䇃	None	同=竢	None	竢
+𫁟	None	=竱的类推简化字	None	竱
+亲	None	同=親	None	親
+竑	hong2	量度	None	None
+竑	hong2	广大；博大	None	None
+竑	hong2	强壮	None	None
+䇅	fa2	同=𥩱 伫立	None	𥩱
+竖	None	=竪的简化字	None	竪
+竗	None	同=妙	None	妙
+竒	None	同=奇	None	奇
+𥩝	ca4	@	None	None
+竓	None	旧指法国容量单位密理立脱尔(法Millilitre)，略记为“竓” 为一升的千分之一	None	None
 竔	None	录入中	None	None
 𠱫	None	录入中	None	None
 竕	None	录入中	None	None
