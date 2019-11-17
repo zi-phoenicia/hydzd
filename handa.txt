@@ -45957,41 +45957,63 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥌍	hui1	[𥉓𥌍]面有垢	None	None
 𥌘	shui4	目明	None	None
 𥌌	None	同=瞵	None	瞵
-矉	None	录入中	None	None
-𥌀	None	录入中	None	None
-矃	None	录入中	None	None
-𥌏	None	录入中	None	None
-矅	None	录入中	None	None
-矊	None	录入中	None	None
-𥌚	None	录入中	None	None
-矒	None	录入中	None	None
-𥌱	None	录入中	None	None
-𥌞	None	录入中	None	None
-𥌟	None	录入中	None	None
-矍	None	录入中	None	None
-𥌰	None	录入中	None	None
-𥌡	None	录入中	None	None
-䁼	None	录入中	None	None
-𥌛	None	录入中	None	None
-𥌝	None	录入中	None	None
-𥌶	None	录入中	None	None
-𥌣	None	录入中	None	None
-䁻	None	录入中	None	None
-𥌩	None	录入中	None	None
-𥌤	None	录入中	None	None
-𥌜	None	录入中	None	None
-𥌨	None	录入中	None	None
-䁽	None	录入中	None	None
-𥍂	None	录入中	None	None
-𥌮	None	录入中	None	None
-矐	None	录入中	None	None
-矑	None	录入中	None	None
-𥌭	None	录入中	None	None
-䁿	None	录入中	None	None
-𧢛	None	录入中	None	None
-𥌲	None	录入中	None	None
-矓	None	录入中	None	None
-䂀	None	录入中	None	None
+矉	pin2	恨视	None	None
+矉	pin2	皱眉；蹙额 后作=顰	None	顰
+矉	pin2	通=頻 危急	None	頻
+𥌀	cha2	察视貌	None	None
+矃	ning2	同=聹 耳垢	None	聹
+矃	cheng1	同=瞠 瞪着眼睛看	None	瞠
+𥌏	ming2	眉阔	None	None
+矅	None	同=𧢢	None	𧢢
+矊	mian2	瞳子黑	None	None
+矊	mian2	含情欲吐貌	None	None
+矊	mian2	同=𥌗	None	𥌗
+𥌚	mai4	邪视	None	None
+𥌚	ya2	同=睚	None	睚
+𥌚	shu4	视貌	None	None
+矒	None	同=瞢	None	瞢
+𥌱	meng2	说梦话	None	None
+𥌞	shuo4	同=䁻 美目貌	None	䁻
+𥌟	yi2	视	None	None
+矍	jue2	惊惶四顾貌	None	None
+矍	jue2	急视貌	None	None
+矍	jue2	拏夺	None	None
+矍	jue2	通=衢(qu2) 四通八达的道路	None	衢
+矍	jue2	姓	None	None
+𥌰	wei2	@	None	None
+𥌡	None	同=䁵	None	䁵
+䁼	mo4	[䁼𥈽]视无所见	None	None
+𥌛	li2	[𥌛𥅪]敛容	None	None
+𥌛	li2	视	None	None
+𥌝	None	同=瞟	None	瞟
+𥌶	None	同=瞶	None	瞶
+𥌣	None	同=矊	None	矊
+䁻	shuo4	美目	None	None
+䁻	li4	目暂视	None	None
+𥌩	te4	[𥌩䁿]目欲卧貌	None	None
+𥌤	li4	方言 怒目视人	None	None
+𥌜	None	同=䁃	None	䁃
+𥌨	xie1	目不明	None	None
+𥌨	mie4	𥌨颉	None	None
+䁽	lie4	目暗	None	None
+䁽	lie4	病视	None	None
+𥍂	None	同=䁙	None	䁙
+𥌮	li4	[𥌮𥉶]视明貌	None	None
+矐	huo4	重目	None	None
+矐	huo4	使目失明	None	None
+矐	huo4	目开	None	None
+矐	huo4	同=䁨 骇视	None	䁨
+矐	huo4	用同=霍 迅速	None	霍
+矑	lu2	视	None	None
+矑	lu2	瞳子，眼珠子	None	None
+𥌭	xuan4	瞳仁	None	None
+䁿	mo4	[𥊸䁿]目欲卧貌	None	None
+䁿	mo4	惊	None	None
+⿰目篗	None	同=䂄	None	䂄
+𧢛	ying1	@ ……按：……疑为=甖的讹俗字	None	甖
+𥌲	None	同=𥇜	None	𥇜
+矓	long2	[矇矓]同“朦=朧” 模糊不清	None	朧
+䂀	xi1	目动	None	None
 矔	None	录入中	None	None
 𥍊	None	录入中	None	None
 𥌿	None	录入中	None	None
