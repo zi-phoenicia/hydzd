@@ -46014,42 +46014,64 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥌲	None	同=𥇜	None	𥇜
 矓	long2	[矇矓]同“朦=朧” 模糊不清	None	朧
 䂀	xi1	目动	None	None
-矔	None	录入中	None	None
-𥍊	None	录入中	None	None
-𥌿	None	录入中	None	None
-𥌼	None	录入中	None	None
-𥍄	None	录入中	None	None
-𥍈	None	录入中	None	None
-𥌽	None	录入中	None	None
-𥌻	None	录入中	None	None
-𥍃	None	录入中	None	None
-𥍅	None	录入中	None	None
-𥌺	None	录入中	None	None
-𥍀	None	录入中	None	None
-䂃	None	录入中	None	None
-䂁	None	录入中	None	None
-𥍆	None	录入中	None	None
-𥌾	None	录入中	None	None
-𥍉	None	录入中	None	None
-𥍐	None	录入中	None	None
-䂂	None	录入中	None	None
-𥍋	None	录入中	None	None
-𥍌	None	录入中	None	None
-𥍁	None	录入中	None	None
-矖	None	录入中	None	None
-矙	None	录入中	None	None
-𥍓	None	录入中	None	None
-𥍏	None	录入中	None	None
-矕	None	录入中	None	None
-矘	None	录入中	None	None
-䂄	None	录入中	None	None
-𥍗	None	录入中	None	None
-𥍕	None	录入中	None	None
-𥍔	None	录入中	None	None
-矚	None	录入中	None	None
-𥍜	None	录入中	None	None
-𥍚	None	录入中	None	None
-䂅	None	录入中	None	None
+矔	guan4	目光灌注	None	None
+矔	guan4	转目顾视	None	None
+矔	guan4	瞪视	None	None
+矔	guan4	闭一只眼	None	None
+矔	guan4	通=慣 习惯	None	慣
+矔	quan2	眼眶	None	None
+𥍊	None	同=觀	None	觀
+𥌿	li4	同=䚕 视	None	䚕
+𥌼	ling2	目光	None	None
+𥍄	None	同=觀	None	觀
+𥍈	None	=𥝋的讹字	None	𥝋
+𥌽	ying1	[𥌽𥊲]目无光	None	None
+𥌽	ying1	[𥌽𥇋]眼作媚	None	None
+𥌻	lan2	视貌	None	None
+𥌻	lan2	目相视	None	None
+𥍃	None	目不正	None	None
+⿰目篾	None	同=䁾	None	䁾
+𥍅	guan1	同=觀 视	None	觀
+𥌺	yao4	同=𧢢 眩	None	𧢢
+𥍀	jian3	笑貌	None	None
+䂃	jiao4	目冥	None	None
+䂃	jiao4	瞋目	None	None
+䂃	jiao4	贝名	None	None
+䂁	chan2	怒视	None	None
+䂁	chan2	目深貌	None	None
+𥍆	xie4	闭目	None	None
+𥌾	ying1	[𥌾睖]定视	None	None
+𥍉	she4	目动	None	None
+𥍐	None	同=䁻	None	䁻
+䂂	qu2	姓	None	None
+𥍋	zui1	[𥍋眭]视	None	None
+𥍋	xie2	同=眭 眼睛凶狠地看	None	眭
+𥍋	hui3	恚视	None	None
+𥍌	None	同=瞟	None	瞟
+𥍁	gui1	目	None	None
+𥍁	gui4	同=䁛 视貌	None	䁛
+矖	xi3	看；远看	None	None
+矖	li2	[矖瞜]也作“=離婁” 明目者	None	離
+矙	None	同=瞰	None	瞰
+𥍓	kan4	同=瞰 视	None	瞰
+𥍓	yan3	同=儼 矜庄貌	None	儼
+𥍏	None	=𥍆的讹字	None	𥍆
+矕	man3	视；视貌	None	None
+矕	man3	目美貌 又泛指美貌	None	None
+矕	man3	披；覆盖	None	None
+矕	man3	目生翳	None	None
+矕	man2	目光昏暗	None	None
+矘	tang3	眼睛无神，茫然直视貌	None	None
+矘	tang3	失志貌	None	None
+䂄	huo4	惊；惊视	None	None
+𥍗	None	同=瞫	None	瞫
+𥍕	None	同=觀	None	觀
+𥍔	lei2	视貌	None	None
+矚	zhu3	视；望	None	None
+矚	zhu3	极力地看	None	None
+𥍜	None	同=䂄	None	䂄
+𥍚	bian4	闭目	None	None
+䂅	xian1	[矇䂅]憨直人的目光	None	None
 田	None	打猎 后作=畋	None	畋
 田	None	耕种的土地	None	None
 田	None	耕种田地 后作=佃	None	佃
