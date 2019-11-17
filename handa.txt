@@ -50019,38 +50019,75 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 竒	None	同=奇	None	奇
 𥩝	ca4	@	None	None
 竓	None	旧指法国容量单位密理立脱尔(法Millilitre)，略记为“竓” 为一升的千分之一	None	None
-竔	None	录入中	None	None
-𠱫	None	录入中	None	None
-竕	None	录入中	None	None
-竐	None	录入中	None	None
-𥩞	None	录入中	None	None
-䇆	None	录入中	None	None
-𥩟	None	录入中	None	None
-𥩙	None	录入中	None	None
-𥩠	None	录入中	None	None
-𥩤	None	录入中	None	None
-䇉	None	录入中	None	None
-𥩭	None	录入中	None	None
-𥩡	None	录入中	None	None
-站	None	录入中	None	None
-𥩢	None	录入中	None	None
-竜	None	录入中	None	None
-竞	None	录入中	None	None
-𥩦	None	录入中	None	None
-竛	None	录入中	None	None
-竘	None	录入中	None	None
-𥩮	None	录入中	None	None
-𥩣	None	录入中	None	None
-竝	None	录入中	None	None
-竚	None	录入中	None	None
-𥩥	None	录入中	None	None
-䇇	None	录入中	None	None
-䇈	None	录入中	None	None
-𥩳	None	录入中	None	None
-𥩴	None	录入中	None	None
-竡	None	录入中	None	None
-𥩺	None	录入中	None	None
-章	None	录入中	None	None
+竔	None	旧指法国容量单位立脱尔(法Litre)，略记为竔 即升	None	None
+𠱫	e4	怒声相拒	None	None
+竕	None	旧指法国容量单位特西立脱尔(法Decilitre)，略记为“竕” 为一升的十分之一	None	None
+竐	None	同=䇍	None	䇍
+𥩞	None	同=竘	None	竘
+䇆	None	旧指法国容量单位特卡立脱尔(法Decalitre)，略记为䇆 为一升的十倍	None	None
+𥩟	None	同=竚	None	竚
+𥩙	pa3	矮貌	None	None
+𥩠	None	同=站	None	站
+𥩤	hai4	矮人	None	None
+䇉	None	旧指法国容量单位海克脱立脱尔(法Hectolitre)，略记为“䇉” 为一升的一百倍	None	None
+𥩭	None	同=𠱫	None	𠱫
+站	zhan4	直立不动	None	None
+站	zhan4	停留 如：不怕慢，只怕站	None	None
+站	zhan4	驿站，古时传递军政文书的人中途换马、食宿或转递之所 元代驿站称“站赤”，省称“站” 明改站为驿，清代驿、站并称	None	None
+站	zhan4	车站 如：船到码头车到站；火车出站了	None	None
+站	zhan4	为某种业务而设的机构 如：兵站；粮站；发电站；气象站	None	None
+站	zhan4	用同=顫	None	顫
+站	zhan4	古代放置饮器的用具	None	None
+站	zhan1	坐立不动貌	None	None
+𥩢	que4	恐惧	None	None
+竜	long2	宠	None	None
+竜	long2	起	None	None
+竜	long2	同=龍	None	龍
+竜	neng2	同=能	None	能
+竞	None	=競的简化字	None	競
+𥩦	None	=𥩱的讹字	None	𥩱
+竛	ling2	[竛竮]也作“=伶俜” 1.行走不稳貌 2.孤单貌	None	伶
+竘	qu3	雄健；雄壮	None	None
+竘	qu3	匠人	None	None
+竘	kou3	治	None	None
+竘	kou3	巧	None	None
+𥩮	None	同=𠱫	None	𠱫
+𥩣	zhu4	等待	None	None
+𥩣	zhu4	同=竚(佇)	None	竚
+竝	None	同=並	None	並
+竚	None	同=佇	None	佇
+𥩥	None	=埿、=泥的讹字	None	埿
+䇇	None	=氓的讹字	None	氓
+⿰立召	zhao1	人名用字	None	None
+䇈	hua4	置放；收藏	None	None
+𥩳	None	同=跱	None	跱
+𥩴	None	同=在	None	在
+竡	None	旧指法国容量单位海克脱立脱尔(法Hectolitre)，略记为“竡” 为一升的一百倍	None	None
+𥩺	None	同=𥪂	None	𥪂
+章	zhang1	音乐一曲为一章 也指诗、文的段落	None	None
+章	zhang1	法规；章程 如：党章；宪章；照章办事	None	None
+章	zhang1	条目	None	None
+章	zhang1	花纹；文彩	None	None
+章	zhang1	标记；徽章 如：肩章；臂章；领章	None	None
+章	zhang1	旌旗	None	None
+章	zhang1	印章 如：盖章；私章	None	None
+章	zhang1	大木材	None	None
+章	zhang1	夫之父称章 也作=嫜	None	嫜
+章	zhang1	指显赫的功业	None	None
+章	zhang1	显露；显著	None	None
+章	zhang1	表彰	None	None
+章	zhang1	辨别；区分	None	None
+章	zhang1	文体名 指臣下的奏章	None	None
+章	zhang1	古历法名 以十九年为一章，一章有七个闰月	None	None
+章	zhang1	章草的省称 流行于东汉时的一种字体	None	None
+章	zhang1	殷代章甫冠的省称	None	None
+章	zhang1	章服的省称 指有图文作为等级标志的礼服、官服	None	None
+章	zhang1	山形上部平正者称“章”	None	None
+章	zhang1	木名 后作=樟	None	樟
+章	zhang1	通=獐 兽名	None	獐
+章	zhang1	同=漳 水名	None	漳
+章	zhang1	姓	None	None
+章	zhang4	同=障	None	障
 竟	None	录入中	None	None
 𥩶	None	录入中	None	None
 𥩱	None	录入中	None	None
