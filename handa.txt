@@ -50088,28 +50088,60 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 章	zhang1	同=漳 水名	None	漳
 章	zhang1	姓	None	None
 章	zhang4	同=障	None	障
-竟	None	录入中	None	None
-𥩶	None	录入中	None	None
-𥩱	None	录入中	None	None
-𥩻	None	录入中	None	None
-𥩼	None	录入中	None	None
-䇋	None	录入中	None	None
-竫	None	录入中	None	None
-𥩲	None	录入中	None	None
-𥩵	None	录入中	None	None
-𥩽	None	录入中	None	None
-𥩾	None	录入中	None	None
-𥪀	None	录入中	None	None
-竦	None	录入中	None	None
-𥪂	None	录入中	None	None
-䇌	None	录入中	None	None
-童	None	录入中	None	None
-𥪎	None	录入中	None	None
-𥪁	None	录入中	None	None
-䇍	None	录入中	None	None
-𥪄	None	录入中	None	None
-𥪖	None	录入中	None	None
-竧	None	录入中	None	None
+⿱立⿻甲一	None	同=章	None	章
+竟	jing4	乐曲终止	None	None
+竟	jing4	终了；完毕 如：未竟之业	None	None
+竟	jing4	周遍；自始至终 如：竟日；汗流竟体	None	None
+竟	jing4	穷究（其事）	None	None
+竟	jing4	副词 1.终于；终究 2.表示出于意料之外 相当于“居然”、“竟然” 3.径直；直接	None	None
+竟	jing4	通=鏡	None	鏡
+竟	jing4	通=競 强劲	None	競
+竟	jing4	姓	None	None
+竟	jing4	疆界 后作=境	None	境
+𥩶	None	=啻的讹字	None	啻
+𥩱	fa2	伫立	None	None
+𥩻	None	旧指法国容量单位特西立脱尔(法Decilitre)，略记为“𥩻” 为一升的十分之一	None	None
+𥩼	None	=𥪯的讹字	None	𥪯
+䇋	hai4	神名	None	None
+竫	jing4	安；静	None	None
+竫	jing4	编撰	None	None
+竫	jing4	善	None	None
+竫	jing4	通=靖 谦恭	None	靖
+𥩲	hai3	[豎𥩲]神人名	None	None
+𥩲	hai3	起	None	None
+𥩵	None	同=竮	None	竮
+𥩽	None	同=竚	None	竚
+𥩾	None	同=䪬	None	䪬
+𥪀	bu1	物体的两端	None	None
+竦	song3	肃静；恭敬	None	None
+竦	song3	引颈举踵而立	None	None
+竦	song3	惊惧	None	None
+竦	song3	耸立	None	None
+竦	song3	向上	None	None
+竦	song3	振作；振动	None	None
+竦	song3	执；握	None	None
+竦	song3	通=慫 劝戒	None	慫
+𥪂	lie4	[𥪂䇔]行不正	None	None
+䇌	qiao4	立貌	None	None
+童	tong2	古代男子有罪为奴	None	None
+童	tong2	小孩 如：童工；牧童；学童	None	None
+童	tong2	愚昧；浅陋	None	None
+童	tong2	山无草木或草木伐光	None	None
+童	tong2	牛羊未长角或无角者	None	None
+童	tong2	顶秃	None	None
+童	tong2	通=瞳	None	瞳
+童	tong2	通=同	None	同
+童	tong2	通=重(chong2)	None	重
+童	tong2	姓	None	None
+童	zhong1	[夫童]古地名 一作“夫=鍾” 在今山东省汶上县北	None	鍾
+𥪎	None	同=䇑	None	䇑
+𥪁	ping1	使	None	None
+䇍	chu4	同=珿 整齐	None	珿
+䇍	qi4	人名用字	None	None
+𥪄	None	=端的讹字	None	端
+𥪖	None	同=龍	None	龍
+竧	jing4	人名用字	None	None
+竧	zhen3	同=䠴	None	䠴
 𥪃	None	录入中	None	None
 𥩿	None	录入中	None	None
 竤	None	录入中	None	None
