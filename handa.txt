@@ -44929,510 +44929,962 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 眿	mo4	同=眽 斜视；相视	None	眽
 ⿱目永	None	同=𥄉	None	𥄉
 𥄶	si1	同=覗 看 一说偷看	None	覗
-𥄿	None	录入中	None	None
-眤	None	录入中	None	None
-眠	None	录入中	None	None
-䀟	None	录入中	None	None
-𥄱	None	录入中	None	None
-𥄾	None	录入中	None	None
-𥄾	None	录入中	None	None
-𥅄	None	录入中	None	None
-眧	None	录入中	None	None
-𥅗	None	录入中	None	None
-眙	None	录入中	None	None
-眑	None	录入中	None	None
-眶	None	录入中	None	None
-𥅦	None	录入中	None	None
-𥅞	None	录入中	None	None
-𥅭	None	录入中	None	None
-眭	None	录入中	None	None
-𥆅	None	录入中	None	None
-𥅰	None	录入中	None	None
-眲	None	录入中	None	None
-䀧	None	录入中	None	None
-𥆇	None	录入中	None	None
-𥆈	None	录入中	None	None
-𥅨	None	录入中	None	None
-𥅜	None	录入中	None	None
-𥅛	None	录入中	None	None
-𥅡	None	录入中	None	None
-𥅚	None	录入中	None	None
-𥅮	None	录入中	None	None
-𥆏	None	录入中	None	None
-𥅴	None	录入中	None	None
-眱	None	录入中	None	None
-眰	None	录入中	None	None
-𥆆	None	录入中	None	None
-𥅶	None	录入中	None	None
-𥅵	None	录入中	None	None
-眦	None	录入中	None	None
-眥	None	录入中	None	None
-𥆊	None	录入中	None	None
-𥅷	None	录入中	None	None
-眮	None	录入中	None	None
-𥅸	None	录入中	None	None
-𥆑	None	录入中	None	None
-䀨	None	录入中	None	None
-𥅩	None	录入中	None	None
-䀽	None	录入中	None	None
-𥆉	None	录入中	None	None
-𥅧	None	录入中	None	None
-𥅠	None	录入中	None	None
-䀪	None	录入中	None	None
-眽	None	录入中	None	None
-䀬	None	录入中	None	None
-䀫	None	录入中	None	None
-眺	None	录入中	None	None
-𥅢	None	录入中	None	None
-𥅬	None	录入中	None	None
-眴	None	录入中	None	None
-𫞳	None	录入中	None	None
-䀩	None	录入中	None	None
-眳	None	录入中	None	None
-𥅹	None	录入中	None	None
-眵	None	录入中	None	None
-睁	None	录入中	None	None
-𥅺	None	录入中	None	None
-𥅟	None	录入中	None	None
-䀮	None	录入中	None	None
-䀭	None	录入中	None	None
-𥅻	None	录入中	None	None
-眻	None	录入中	None	None
-眹	None	录入中	None	None
-眷	None	录入中	None	None
-眯	None	录入中	None	None
-𥅼	None	录入中	None	None
-𥅥	None	录入中	None	None
-眼	None	录入中	None	None
-𥅣	None	录入中	None	None
-𥅪	None	录入中	None	None
-眸	None	录入中	None	None
-𥆭	None	录入中	None	None
-𥆥	None	录入中	None	None
-䀿	None	录入中	None	None
-䀸	None	录入中	None	None
-𥆔	None	录入中	None	None
-𥆮	None	录入中	None	None
-䀷	None	录入中	None	None
-𥆍	None	录入中	None	None
-䀯	None	录入中	None	None
-䀳	None	录入中	None	None
-𥆐	None	录入中	None	None
-𥆖	None	录入中	None	None
-䀼	None	录入中	None	None
-䀾	None	录入中	None	None
-䀹	None	录入中	None	None
-鿃	None	录入中	None	None
-𥆦	None	录入中	None	None
+⿰目㞋	cu1	目瞪	None	None
+𥄿	yi2	同=眱	None	眱
+𥄿	di4	同=睇 斜视	None	睇
+眤	ni4	小目	None	None
+眤	ni4	同=昵 亲热；亲近	None	昵
+眠	mian2	睡觉 也作=瞑	None	瞑
+眠	mian2	某些生物的一种生理状态，在一段时间内不食不动 如：冬眠	None	None
+眠	mian2	假死；装死	None	None
+眠	mian2	卧倒；平放	None	None
+眠	mian2	无知觉	None	None
+眠	mian2	药物反应，神志不清	None	None
+眠	mian2	姓	None	None
+眠	mian3	[眠娗]欺谩的话	None	None
+眠	min3	视	None	None
+䀟	None	同=𥄱	None	𥄱
+𥄱	fei4	目不明	None	None
+𥄾	None	同=省	None	省
+⿰出目	None	同=看	None	看
+𥅄	nu3	瞪着（眼）	None	None
+眧	chao3	用目光挑逗人	None	None
+𥅗	None	同=眼	None	眼
+眙	chi4	直视，目不转睛地看	None	None
+眙	chi4	惊貌	None	None
+眙	yi2	[盱眙]县名 在今江苏省	None	None
+眙	yi2	举目貌	None	None
+眑	yao3	幽静	None	None
+眑	yao3	视貌	None	None
+眑	ao1	面目不平	None	None
+眑	ao3	同=窅 凹眼睛	None	窅
+眶	kuang4	眼眶	None	None
+𥅦	lei4	目不正	None	None
+𥅞	shi4	目所记	None	None
+𥅭	None	同=視	None	視
+眭	hui1	深目	None	None
+眭	hui1	同=睢 仰目	None	睢
+眭	xie2	目深恶视	None	None
+眭	sui1	姓	None	None
+眭	wei4	同=𥉖 目小怒貌	None	𥉖
+𥆅	jiang1	[鉢羅𥆅]梵语，智慧	None	None
+𥅰	None	同=睵	None	睵
+眲	ne4	轻视	None	None
+䀧	hong3	[矇䀧]目不明	None	None
+𥆇	None	同=𥈄	None	𥈄
+𥆈	None	同=䀮	None	䀮
+𥅨	geng4	目起貌	None	None
+𥅜	None	同=瞲	None	瞲
+𥅛	None	同=瞲	None	瞲
+𥅡	er2	调；和	None	None
+𥅚	None	同=盱	None	盱
+𥅮	None	同=眉	None	眉
+𥆏	None	同=瞋	None	瞋
+⿰目⿱平一	None	同=䀴	None	䀴
+𥅴	None	同=䀹	None	䀹
+眱	di4	同=睇 斜视	None	睇
+眱	di4	熟视不言	None	None
+眰	die2	同=眣	None	眣
+眰	zhi4	同=𧠫 视	None	𧠫
+𥆆	mao4	同=貿 蒙昧不明	None	貿
+𥅶	None	同=聖	None	聖
+𥅵	None	同=睿	None	睿
+眦	zi4	同=眥 眼眶	None	眥
+眥	zi4	眼眶	None	None
+眥	zi4	视	None	None
+眥	zi4	衣领交接处	None	None
+眥	zi4	[眥睚]也作“睚=眦”、“眦睚” 恨视；瞋目	None	眦
+𥆊	None	同=𢌨	None	𢌨
+𥅷	None	同=首	None	首
+⿰目⿱日儿	None	同=睨	None	睨
+眮	tong2	瞋目	None	None
+眮	tong2	转目顾视	None	None
+眮	tong2	目眶	None	None
+𥅸	jing4	@	None	None
+𥆑	ting4	目出	None	None
+䀨	huo4	视	None	None
+䀨	huo4	怒视貌	None	None
+䀨	guo1	眼不明	None	None
+𥅩	None	=眓的讹字	None	眓
+䀽	yan2	相顾视而行	None	None
+𥆉	yu4	视	None	None
+𥅧	xue4	[𥉺𥅧]见“𥉺”	None	None
+𥅠	hou4	怒目视貌	None	None
+䀪	hang2	同=𦐄 鸟从高处往下飞	None	𦐄
+䀪	hang2	视	None	None
+眽	mo4	瞟，斜视	None	None
+眽	mo4	视	None	None
+眽	mi4	[眽蜴]欺慢	None	None
+䀬	quan2	一目眨；目瞬	None	None
+䀬	quan2	目眇视貌	None	None
+䀬	quan2	目不明	None	None
+䀫	jia2	眼细暗	None	None
+䀫	jia2	目睫动	None	None
+䀫	tun3	朦胧欲睡貌	None	None
+眺	tiao4	视不正	None	None
+眺	tiao4	远望	None	None
+眺	tiao4	视	None	None
+眺	tiao4	察	None	None
+眺	tiao4	眼睛	None	None
+眺	tiao4	避	None	None
+眺	tiao4	用同=跳	None	跳
+𥅢	None	=䁓的讹字	None	䁓
+⿰目兊	None	同=𥆟	None	𥆟
+⿰目⿺几王	None	录入中	None	None
+𥅬	juan1	清明	None	None
+眴	xuan4	同=䀏 目摇	None	䀏
+眴	shun4	同=瞚 以目示意	None	瞚
+眴	shun4	惊貌	None	None
+眴	xun2	目眩	None	None
+𫞳	None	同=䀱	None	䀱
+䀩	luo4	邪视	None	None
+䀩	luo4	视	None	None
+䀩	luo4	盼	None	None
+䀩	luo4	大目	None	None
+眳	ming2	[眳睛]不悦貌	None	None
+眳	ming2	眉睫之间	None	None
+眳	ming2	目暗	None	None
+𥅹	None	同=晞	None	晞
+眵	chi1	眼眶有病	None	None
+眵	chi1	目汁凝，俗称眼屎	None	None
+睁	zheng1	[眳睁]不悦视	None	None
+睁	zheng1	张开（眼）	None	None
+睁	zheng1	看；望	None	None
+𥅺	xu4	@	None	None
+⿱亦目	None	=矕的类推简化字	None	矕
+𥅟	jiao3	[𥄸𥅟]见“𥄸”	None	None
+𥅟	jiao3	视貌	None	None
+⿰目⿱丶平	None	同=睟	None	睟
+䀮	huang1	目不明	None	None
+䀭	gai1	目大卯	None	None
+𥅻	chong4	方言 困极小睡	None	None
+眻	yang2	美目	None	None
+眻	yang2	眉间	None	None
+眹	zhen4	眼珠，瞳仁	None	None
+眹	zhen4	征兆；迹象	None	None
+眹	zhen4	失意视貌	None	None
+眷	juan4	回视	None	None
+眷	juan4	向	None	None
+眷	juan4	恋，爱慕	None	None
+眷	juan4	顾念	None	None
+眷	juan4	爱重；恩宠	None	None
+眷	juan4	亲属	None	None
+眷	juan4	姓	None	None
+眯	mi2	物入目中，模糊视线	None	None
+眯	mi2	安	None	None
+眯	mi2	同=𥇎 眇目	None	𥇎
+眯	mi4	同=𡬍 梦魇	None	𡬍
+眯	mi1	眼皮微闭 如：眯起眼睛看	None	None
+𥅼	None	同=眯	None	眯
+𥅥	None	=䁙的讹字	None	䁙
+眼	yan3	眼珠；眼睛	None	None
+眼	yan3	眼神	None	None
+眼	yan3	目力；见识	None	None
+眼	yan3	监视	None	None
+眼	yan3	向导；线索	None	None
+眼	yan3	孔穴；窟窿	None	None
+眼	yan3	事物的关键和精要点	None	None
+眼	yan3	眼状花纹	None	None
+眼	yan3	喻嫩柳叶	None	None
+眼	yan3	水初沸时泛起的小气泡	None	None
+眼	yan3	曲子中的节拍 如：有板有眼；一板三眼	None	None
+眼	yan3	围棋术语 指布子留下的空隙，为对方不能下子处	None	None
+眼	yan3	量词	None	None
+眼	yan3	姓	None	None
+眼	wen2	突出貌	None	None
+𥅣	None	=𥄿的讹字	None	𥄿
+𥅪	shou1	[𥌛𥅪]见“𥌛”	None	None
+眸	mou2	眼珠	None	None
+眸	mou2	通=瞀 低目谨视	None	瞀
+𥆭	None	@	None	None
+𥆥	xie2	昏暗貌	None	None
+⿱𦒳目	None	同=𥄥	None	𥄥
+䀿	None	同=䀸	None	䀸
+䀸	chi4	瞥	None	None
+䀸	chi4	目光	None	None
+䀸	chi4	目美	None	None
+䀸	chi4	目明	None	None
+𥆔	xiao1	[𥆔瞎]眼睛干涩不明	None	None
+𥆮	None	同=眺	None	眺
+䀷	jie2	急视	None	None
+𥆍	None	同=𥍉	None	𥍉
+䀯	None	同=晡	None	晡
+䀳	None	同=𥈙	None	𥈙
+𥆐	None	同=䁩	None	䁩
+𥆖	dou1	[𥆖眵]眼中分泌物，俗称眼屎	None	None
+𥆖	dou1	同=𧡸 目蔽垢	None	𧡸
+⿰目丽	None	=矖的类推简化字	None	矖
+䀼	chen1	同=瞋 睁大眼睛	None	瞋
+䀼	ren4	[䀼眩]懑	None	None
+䀼	ren4	同=䀔	None	䀔
+䀾	None	同=䁈	None	䁈
+䀹	jie2	同=睫	None	睫
+䀹	zha3	同=眨 眼睛很快地一闭一开	None	眨
+䀹	she4	同=𥍉 眨眼	None	𥍉
+䀹	jia2	同=䀫 眇 一说目睫动	None	䀫
+䀹	ya4	[㛼䀹]戏谑貌	None	None
+鿃	shan3	[鿃鿃]眼睛眨动的样子	None	None
+𥆦	liu2	卧视	None	None
 𥆋	None	录入中	None	None
-𥆙	None	录入中	None	None
-睐	None	录入中	None	None
-𥆯	None	录入中	None	None
-䀴	None	录入中	None	None
-睄	None	录入中	None	None
-睅	None	录入中	None	None
-睈	None	录入中	None	None
-𥆘	None	录入中	None	None
-睍	None	录入中	None	None
-𥆢	None	录入中	None	None
-𥆣	None	录入中	None	None
-𥆤	None	录入中	None	None
-𥆰	None	录入中	None	None
-䀻	None	录入中	None	None
-睏	None	录入中	None	None
-睊	None	录入中	None	None
-𥆱	None	录入中	None	None
-睋	None	录入中	None	None
-䀲	None	录入中	None	None
-䀺	None	录入中	None	None
-𥆓	None	录入中	None	None
-𥆒	None	录入中	None	None
-𥇐	None	录入中	None	None
-𥆛	None	录入中	None	None
-睎	None	录入中	None	None
-睑	None	录入中	None	None
-睉	None	录入中	None	None
-睂	None	录入中	None	None
-䀰	None	录入中	None	None
-𥆡	None	录入中	None	None
-𥆠	None	录入中	None	None
-𥈉	None	录入中	None	None
-睌	None	录入中	None	None
-𥇅	None	录入中	None	None
-𥆲	None	录入中	None	None
-𥇃	None	录入中	None	None
-𥆌	None	录入中	None	None
-䀱	None	录入中	None	None
-𥆕	None	录入中	None	None
-𥆴	None	录入中	None	None
-𥆳	None	录入中	None	None
-𥆧	None	录入中	None	None
-𥇉	None	录入中	None	None
-𥇆	None	录入中	None	None
-𥆟	None	录入中	None	None
-𥆵	None	录入中	None	None
-𥆶	None	录入中	None	None
-睇	None	录入中	None	None
-𥆚	None	录入中	None	None
-𥇇	None	录入中	None	None
-𥆝	None	录入中	None	None
-睆	None	录入中	None	None
-䀶	None	录入中	None	None
-𥆷	None	录入中	None	None
-𥆸	None	录入中	None	None
-𥇄	None	录入中	None	None
-䀵	None	录入中	None	None
-睃	None	录入中	None	None
-𥆎	None	录入中	None	None
-睛	None	录入中	None	None
-䁃	None	录入中	None	None
-𥇔	None	录入中	None	None
-睹	None	录入中	None	None
-睦	None	录入中	None	None
-睖	None	录入中	None	None
-䁄	None	录入中	None	None
-睰	None	录入中	None	None
-瞄	None	录入中	None	None
-䁐	None	录入中	None	None
-睞	None	录入中	None	None
-𥇛	None	录入中	None	None
-𥇿	None	录入中	None	None
-𥇙	None	录入中	None	None
-䁂	None	录入中	None	None
-𥇑	None	录入中	None	None
-睚	None	录入中	None	None
-𥇚	None	录入中	None	None
-䁆	None	录入中	None	None
-𥇝	None	录入中	None	None
-睫	None	录入中	None	None
-𥇢	None	录入中	None	None
-𥇖	None	录入中	None	None
-督	None	录入中	None	None
-𥇍	None	录入中	None	None
-𥇞	None	录入中	None	None
-𥇫	None	录入中	None	None
-𥈀	None	录入中	None	None
-𥇬	None	录入中	None	None
-𥇊	None	录入中	None	None
-睗	None	录入中	None	None
-𥇏	None	录入中	None	None
-睤	None	录入中	None	None
-睓	None	录入中	None	None
-𥇘	None	录入中	None	None
-𥈓	None	录入中	None	None
-𥇕	None	录入中	None	None
-𥇭	None	录入中	None	None
-睡	None	录入中	None	None
-睝	None	录入中	None	None
-睨	None	录入中	None	None
-睢	None	录入中	None	None
-睥	None	录入中	None	None
-𥆜	None	录入中	None	None
-睔	None	录入中	None	None
-𥇮	None	录入中	None	None
-睬	None	录入中	None	None
-睭	None	录入中	None	None
-睧	None	录入中	None	None
-𥇌	None	录入中	None	None
-𥇯	None	录入中	None	None
-𥇰	None	录入中	None	None
-𥇠	None	录入中	None	None
-䁁	None	录入中	None	None
-𥇜	None	录入中	None	None
-𥈚	None	录入中	None	None
-睟	None	录入中	None	None
-𥇟	None	录入中	None	None
-𥇒	None	录入中	None	None
-𥇋	None	录入中	None	None
-𥇱	None	录入中	None	None
-睠	None	录入中	None	None
-睒	None	录入中	None	None
-𥇲	None	录入中	None	None
-𥇓	None	录入中	None	None
-睕	None	录入中	None	None
-䁇	None	录入中	None	None
-睙	None	录入中	None	None
-䁉	None	录入中	None	None
-䁈	None	录入中	None	None
-睷	None	录入中	None	None
-睩	None	录入中	None	None
-𥇳	None	录入中	None	None
-𥇵	None	录入中	None	None
-𥇗	None	录入中	None	None
-𥇎	None	录入中	None	None
-䁅	None	录入中	None	None
-𥇴	None	录入中	None	None
-𥈂	None	录入中	None	None
-䁊	None	录入中	None	None
-睶	None	录入中	None	None
-睵	None	录入中	None	None
-𥈻	None	录入中	None	None
-𥈩	None	录入中	None	None
-𥈄	None	录入中	None	None
-䁋	None	录入中	None	None
-𥉌	None	录入中	None	None
-𥉂	None	录入中	None	None
-𥈷	None	录入中	None	None
-𥈜	None	录入中	None	None
-𥈸	None	录入中	None	None
-𥈔	None	录入中	None	None
-𥈙	None	录入中	None	None
-䁏	None	录入中	None	None
-䁍	None	录入中	None	None
-𥈗	None	录入中	None	None
-𥈅	None	录入中	None	None
-𥈇	None	录入中	None	None
-睳	None	录入中	None	None
-𥈖	None	录入中	None	None
-睿	None	录入中	None	None
-𥈪	None	录入中	None	None
-瞁	None	录入中	None	None
-𥈫	None	录入中	None	None
-睼	None	录入中	None	None
-𥈏	None	录入中	None	None
-𥈍	None	录入中	None	None
-䁑	None	录入中	None	None
-煛	None	录入中	None	None
-䁒	None	录入中	None	None
-𥈆	None	录入中	None	None
-𥈬	None	录入中	None	None
-睲	None	录入中	None	None
-𥈎	None	录入中	None	None
-䁌	None	录入中	None	None
-瞆	None	录入中	None	None
-𥈭	None	录入中	None	None
-𥈮	None	录入中	None	None
-𥉄	None	录入中	None	None
-𥈊	None	录入中	None	None
-瞅	None	录入中	None	None
-瞍	None	录入中	None	None
-𥈌	None	录入中	None	None
-䁛	None	录入中	None	None
-𥈋	None	录入中	None	None
-睺	None	录入中	None	None
-瞂	None	录入中	None	None
-瞃	None	录入中	None	None
-睮	None	录入中	None	None
-𥈕	None	录入中	None	None
-𨤓	None	录入中	None	None
-䁔	None	录入中	None	None
-䁓	None	录入中	None	None
-𥈑	None	录入中	None	None
-𥈘	None	录入中	None	None
-䁎	None	录入中	None	None
-𥈛	None	录入中	None	None
-䁟	None	录入中	None	None
-瞇	None	录入中	None	None
-䁖	None	录入中	None	None
-睻	None	录入中	None	None
-𥈟	None	录入中	None	None
-睴	None	录入中	None	None
-睱	None	录入中	None	None
-䁕	None	录入中	None	None
-睯	None	录入中	None	None
-睸	None	录入中	None	None
-睽	None	录入中	None	None
-瞀	None	录入中	None	None
-𥈒	None	录入中	None	None
-𥉜	None	录入中	None	None
-𥉇	None	录入中	None	None
-䁥	None	录入中	None	None
-𥉖	None	录入中	None	None
-𥉊	None	录入中	None	None
-𥈿	None	录入中	None	None
-𥉙	None	录入中	None	None
-瞌	None	录入中	None	None
-𥉔	None	录入中	None	None
-瞱	None	录入中	None	None
-瞒	None	录入中	None	None
-䁳	None	录入中	None	None
-瞙	None	录入中	None	None
-𥊄	None	录入中	None	None
-瞢	None	录入中	None	None
-瞋	None	录入中	None	None
-𥉏	None	录入中	None	None
-𥊩	None	录入中	None	None
-𥊇	None	录入中	None	None
-𥉅	None	录入中	None	None
-𥉱	None	录入中	None	None
-𥉆	None	录入中	None	None
-𥈐	None	录入中	None	None
-𥉁	None	录入中	None	None
-瞐	None	录入中	None	None
-𥉦	None	录入中	None	None
-䁜	None	录入中	None	None
-䁙	None	录入中	None	None
-䁚	None	录入中	None	None
-䁗	None	录入中	None	None
-𥉀	None	录入中	None	None
-𥉞	None	录入中	None	None
-𥉉	None	录入中	None	None
-𥉈	None	录入中	None	None
-𥉚	None	录入中	None	None
-𥉒	None	录入中	None	None
-𥉘	None	录入中	None	None
-𥉎	None	录入中	None	None
-𥉨	None	录入中	None	None
-𥉟	None	录入中	None	None
-𥈼	None	录入中	None	None
-䁞	None	录入中	None	None
-䁘	None	录入中	None	None
-𥉰	None	录入中	None	None
-𥉐	None	录入中	None	None
-瞈	None	录入中	None	None
-𥊒	None	录入中	None	None
-𥉳	None	录入中	None	None
-瞓	None	录入中	None	None
-䁨	None	录入中	None	None
-瞝	None	录入中	None	None
-瞊	None	录入中	None	None
-䁠	None	录入中	None	None
-䁝	None	录入中	None	None
-瞎	None	录入中	None	None
-𥈽	None	录入中	None	None
-𥉛	None	录入中	None	None
-𪾸	None	录入中	None	None
-𥈾	None	录入中	None	None
-𥉕	None	录入中	None	None
-瞑	None	录入中	None	None
-𥉑	None	录入中	None	None
-𥉓	None	录入中	None	None
-𥉧	None	录入中	None	None
-𥉍	None	录入中	None	None
-𥉗	None	录入中	None	None
-𥉃	None	录入中	None	None
-𥉝	None	录入中	None	None
-瞔	None	录入中	None	None
-瞡	None	录入中	None	None
-𥊊	None	录入中	None	None
-𥊏	None	录入中	None	None
-𥊧	None	录入中	None	None
-䁧	None	录入中	None	None
-瞞	None	录入中	None	None
-𥊨	None	录入中	None	None
-䁪	None	录入中	None	None
-䁣	None	录入中	None	None
-瞘	None	录入中	None	None
-𥉸	None	录入中	None	None
-瞟	None	录入中	None	None
-瞖	None	录入中	None	None
-𥉷	None	录入中	None	None
-𥉿	None	录入中	None	None
-𥊱	None	录入中	None	None
-𥋀	None	录入中	None	None
-𥋖	None	录入中	None	None
-䁦	None	录入中	None	None
-瞠	None	录入中	None	None
-𥊐	None	录入中	None	None
-瞜	None	录入中	None	None
-𥊑	None	录入中	None	None
-𥉹	None	录入中	None	None
-𥊅	None	录入中	None	None
-𥊈	None	录入中	None	None
-𥊕	None	录入中	None	None
-𥉼	None	录入中	None	None
-𥊂	None	录入中	None	None
-瞛	None	录入中	None	None
-𥊃	None	录入中	None	None
-䁩	None	录入中	None	None
-𥉻	None	录入中	None	None
-𥉵	None	录入中	None	None
-𥊆	None	录入中	None	None
-𥉽	None	录入中	None	None
-𥉶	None	录入中	None	None
-瞕	None	录入中	None	None
-𥊓	None	录入中	None	None
-䁤	None	录入中	None	None
-𥊔	None	录入中	None	None
-䁢	None	录入中	None	None
-𥉋	None	录入中	None	None
-瞥	None	录入中	None	None
-𥊁	None	录入中	None	None
-瞚	None	录入中	None	None
-𥉺	None	录入中	None	None
-𥊉	None	录入中	None	None
-𥉴	None	录入中	None	None
-𥊵	None	录入中	None	None
-瞰	None	录入中	None	None
-𥉾	None	录入中	None	None
-𥊀	None	录入中	None	None
-𥊫	None	录入中	None	None
-𥊯	None	录入中	None	None
-𥋋	None	录入中	None	None
-䁱	None	录入中	None	None
-䁰	None	录入中	None	None
-瞦	None	录入中	None	None
-瞸	None	录入中	None	None
-𥋌	None	录入中	None	None
-𥋚	None	录入中	None	None
-𥊸	None	录入中	None	None
-𥋄	None	录入中	None	None
-瞫	None	录入中	None	None
-𥋃	None	录入中	None	None
-䁭	None	录入中	None	None
-瞭	None	录入中	None	None
-䁮	None	录入中	None	None
-瞨	None	录入中	None	None
-𥊲	None	录入中	None	None
-𥊼	None	录入中	None	None
-𥊰	None	录入中	None	None
-𥋇	None	录入中	None	None
-𥊴	None	录入中	None	None
-𥊿	None	录入中	None	None
-𥋁	None	录入中	None	None
-𥊬	None	录入中	None	None
-瞤	None	录入中	None	None
-𥊺	None	录入中	None	None
-瞷	None	录入中	None	None
-瞯	None	录入中	None	None
-瞶	None	录入中	None	None
-䁲	None	录入中	None	None
-𥊷	None	录入中	None	None
-䁫	None	录入中	None	None
-瞴	None	录入中	None	None
-瞧	None	录入中	None	None
-𥋍	None	录入中	None	None
-䁯	None	录入中	None	None
-𥋎	None	录入中	None	None
-𥊪	None	录入中	None	None
-瞬	None	录入中	None	None
-𥋂	None	录入中	None	None
-𥊶	None	录入中	None	None
-瞳	None	录入中	None	None
-𥋏	None	录入中	None	None
-瞮	None	录入中	None	None
-𥊳	None	录入中	None	None
-瞵	None	录入中	None	None
-𥊭	None	录入中	None	None
-䁬	None	录入中	None	None
-𣰍	None	录入中	None	None
-𥋐	None	录入中	None	None
-𥋰	None	录入中	None	None
-𥊮	None	录入中	None	None
-瞩	None	录入中	None	None
-𥋑	None	录入中	None	None
-瞪	None	录入中	None	None
-瞲	None	录入中	None	None
-𥊻	None	录入中	None	None
-瞽	None	录入中	None	None
-𥌋	None	录入中	None	None
-矆	None	录入中	None	None
-矇	None	录入中	None	None
+𥆙	mang2	目不明	None	None
+睐	None	=睞的简化字	None	睞
+𥆯	bi4	@	None	None
+䀴	ying3	直视	None	None
+䀴	ya4	视貌	None	None
+䀴	keng1	[䀴𥌯]也作“=𥉸𥌯” 视不明	None	𥉸
+⿰目坚	None	=𥉸的类推简化字	None	𥉸
+睄	shao4	小视；眼光掠过，匆匆一看	None	None
+睄	qiao2	同=瞧 看	None	瞧
+睄	xiao1	[睄窕]也作“=宵窕” 幽暗	None	宵
+睄	xiao1	通=眇(miao3) 一目盲	None	眇
+睅	han4	目鼓出貌	None	None
+睈	cheng3	[睈睈]照视	None	None
+睈	cheng3	意不尽	None	None
+𥆘	guo2	闭目貌	None	None
+睍	xian4	[睍睆]鸟色美好貌或鸣声清圆	None	None
+睍	xian4	眼睛突出貌	None	None
+睍	xian4	好视	None	None
+睍	xian4	视	None	None
+睍	xian4	小目貌	None	None
+睍	xian4	目小	None	None
+𥆢	None	同=眼	None	眼
+𥆣	shen1	引目	None	None
+𥆤	None	同=目	None	目
+𥆰	None	同=𥆈(䀮)	None	𥆈
+⿰目妟	None	同=䁙	None	䁙
+䀻	ping4	视	None	None
+睏	kun4	方言 睡	None	None
+睊	juan4	视；侧目相视貌	None	None
+𥆱	None	看	None	None
+睋	e2	视；望	None	None
+睋	e2	通=俄 俄顷，短时间	None	俄
+䀲	mu4	眼病	None	None
+䀺	chou1	目不正	None	None
+䀺	tao1	目通白	None	None
+䀺	tao1	眼睛不明	None	None
+䀺	tao1	双眼皮	None	None
+𥆓	None	同=眒	None	眒
+𥆒	None	同=睆	None	睆
+𥇐	None	同=眕	None	眕
+⿰目役	None	同=𥆛	None	𥆛
+𥆛	xu4	视	None	None
+睎	xi1	观；望	None	None
+睎	xi1	斜视	None	None
+睎	xi1	仰慕；爱慕	None	None
+睎	xi1	希望	None	None
+睑	None	=瞼的简化字	None	瞼
+睉	cuo2	目小	None	None
+睉	zhuai4	[睉䀑]目恶	None	None
+睂	None	同=眉	None	眉
+䀰	gu3	目开	None	None
+䀰	gu3	大目	None	None
+䀰	gu3	同=𥆌(jue2) 目动	None	𥆌
+𥆡	han2	@	None	None
+𥆠	None	同=䀨	None	䀨
+⿰目䀏	None	同=眴	None	眴
+𥈉	huan4	同=㬇 玺𥈉，古国名	None	㬇
+睌	mian3	[睌䁂]目视貌	None	None
+睌	mian3	视	None	None
+𥇅	None	同=睌	None	睌
+𥆲	nao4	@	None	None
+𥇃	None	=𦛡的讹字	None	𦛡
+𥆌	jue2	目动	None	None
+䀱	feng1	目𥉻	None	None
+⿰目𭣣	None	同=𥅪	None	𥅪
+𥆕	None	=膏的讹字	None	膏
+𥆴	None	同=督	None	督
+𥆳	None	同=督	None	督
+⿰目⿱亡日	mang2	眼作媚	None	None
+𥆧	None	=瞤的类推简化字	None	瞤
+𥇉	None	=瞷的类推简化字	None	瞷
+𥇆	None	=瞯的类推简化字	None	瞯
+𥇉	liang3	同=䀶 眼病	None	䀶
+𥇆	mi2	眇目	None	None
+𥆟	yue4	目玩	None	None
+𥆵	None	同=眹	None	眹
+𥆶	wan4	同=腕 手腕	None	腕
+睇	di4	斜视	None	None
+睇	ti1	看；望	None	None
+睇	ti2	同=睼 迎视	None	睼
+𥆚	wang1	[𥆚𥆚]眼眶里充满泪水的样子	None	None
+𥇇	suo1	偷视	None	None
+𥆝	suo1	偷视 *=𥇇	None	𥇇
+𥆝	suo1	略视	None	None
+睆	huan3	眼睛突出貌	None	None
+睆	huan3	大眼睛	None	None
+睆	huan3	视；穷视貌	None	None
+睆	huan3	微笑貌	None	None
+睆	huan3	明亮的样子	None	None
+睆	huan3	实貌；浑圆貌	None	None
+睆	huan3	目圆转	None	None
+睆	huan3	美好貌	None	None
+睆	huan3	小妩媚	None	None
+睆	huan3	汉县名 也作=皖 故地在今安徽省潜山县	None	皖
+睆	huan3	古侯国名	None	None
+䀶	liang4	目斜视病	None	None
+䀶	lang3	方言 明	None	None
+䀶	lang3	同=𥇑 目明	None	𥇑
+𥆷	jiu4	@	None	None
+𥆸	que1	[𥆸𥄎]目深貌	None	None
+𥇄	ni4	目深貌	None	None
+䀵	shun4	同=䀢 以目示意	None	䀢
+睃	zuo1	看；急速地看一眼	None	None
+睃	juan1	人名用字	None	None
+𥆎	None	同=𥃤(𥃧)	None	𥃤
+睛	jing1	眼珠	None	None
+睛	jing1	眼睛	None	None
+睛	jing1	视力	None	None
+睛	qing3	[眳睛]见“眳”	None	None
+䁃	biao1	注视	None	None
+⿰目规	None	=瞡的类推简化字	None	瞡
+𥇔	chang4	失志貌	None	None
+𥇔	chang4	同=悵 望恨	None	悵
+𥇔	zhang1	目大	None	None
+睹	du3	见，看见	None	None
+睹	du3	观察	None	None
+睹	du3	了解	None	None
+睹	du3	姓	None	None
+睦	mu4	目顺	None	None
+睦	mu4	和睦；亲厚	None	None
+睦	mu4	敬；敬和	None	None
+睦	mu4	调和	None	None
+睦	mu4	信	None	None
+睦	mu4	古州名 睦州的简称 1.隋置 故地在今湖北省长阳土家族自治县东 2.隋置 故地在今浙江省淳安县西	None	None
+睦	mu4	姓	None	None
+睖	leng1	[睖瞪]直视	None	None
+睖	leng1	发愣	None	None
+睖	leng1	瞪；怒视	None	None
+睖	leng1	用同=棱 棱角	None	棱
+䁄	xing4	瞑目貌	None	None
+⿰目取	qu3	精也	None	None
+睰	ma4	视睰	None	None
+瞄	miao2	注意看；视力集中在一点上 如：瞄准；远远地瞄着他	None	None
+䁐	ying1	深目	None	None
+䁐	ying4	视	None	None
+睞	lai4	瞳仁不正	None	None
+睞	lai4	旁视，邪视	None	None
+睞	lai4	望；游眺	None	None
+𥇛	ju1	怒目斜视	None	None
+𥇛	ju1	矢长六指	None	None
+𥇛	ju4	同=䀠 心惧向左右顾看	None	䀠
+𥇛	xi4	同=𥈜 邪视貌	None	𥈜
+𥇿	xu4	视𥇿	None	None
+𥇙	huo4	睡目貌	None	None
+䁂	xian4	大目	None	None
+𥇑	lang3	目明	None	None
+𥇑	lang3	同=朗	None	朗
+睚	ya2	[睚眦]1.恨视；怒视 2.怨	None	None
+睚	ya2	眼边	None	None
+睚	ya2	举目	None	None
+睚	ya2	捱，拖延	None	None
+𥇚	qi1	一只眼	None	None
+䁆	ye4	眼睛	None	None
+䁆	ye4	闭目	None	None
+𥇝	None	同=睪	None	睪
+睫	jie2	眼睑上下边所生的细毛	None	None
+睫	jie2	眨眼	None	None
+睫	she4	同=𥍉 目动貌	None	𥍉
+𥇢	None	=䁪的类推简化字	None	䁪
+𥇖	fei1	大目	None	None
+督	du1	察视	None	None
+督	du1	督促	None	None
+督	du1	理；料理；整理	None	None
+督	du1	责；责罚	None	None
+督	du1	劝	None	None
+督	du1	正；矫正	None	None
+督	du1	中；中央	None	None
+督	du1	中医学名词 督脉	None	None
+督	du1	指军帅或执监督权的官	None	None
+督	du1	率；领	None	None
+督	du1	目痛	None	None
+督	du1	方言 竖立	None	None
+督	du1	拾取	None	None
+督	du1	通=篤(du3) 厚	None	篤
+督	du1	姓	None	None
+𥇍	zhuo2	明；目明	None	None
+𥇞	None	同=䀡	None	䀡
+𥇫	None	同=𥆈(䀮)	None	𥆈
+𥈀	None	同=䀠	None	䀠
+𥇬	None	=𥉹的讹字	None	𥉹
+𥇊	None	同=睔	None	睔
+睗	shi4	赐；赏给	None	None
+睗	shi4	疾视	None	None
+𥇏	None	同=瞁	None	瞁
+睤	None	同=睥	None	睥
+睓	None	同=㥏	None	㥏
+⿰目黾	None	=𥋝的类推简化字	None	𥋝
+𥇘	jun4	大目	None	None
+𥈓	gua1	目	None	None
+𥈓	gua1	𥈓恨貌	None	None
+𥇕	zhi4	目明	None	None
+𥇭	chi2	同=踟	None	踟
+𥇭	zhi4	同=智	None	智
+⿱知目	zhi4	目明察	None	None
+睡	shui4	坐着打瞌睡	None	None
+睡	shui4	睡觉	None	None
+睡	shui4	躺；卧	None	None
+睝	li2	目闭	None	None
+睨	ni4	斜视	None	None
+睨	ni4	视；望	None	None
+睨	ni4	回视	None	None
+睨	ni4	窥伺	None	None
+睨	ni4	明	None	None
+睨	ni4	通=婗 小儿	None	婗
+睢	hui1	仰视	None	None
+睢	hui1	大视	None	None
+睢	hui1	自得貌	None	None
+睢	hui1	元气貌	None	None
+睢	sui1	水名 也名睢河	None	None
+睢	sui1	古州县名 今县名 春秋时宋地 秦置襄邑县 宋都开封，崇宁间建四辅州，以此为东辅，改名拱州 金天德三年改名睢州，因水经睢口而名 宋元皆以襄邑为州治 明省襄邑，并为睢州 明清皆属归德府 1913年改为睢县 在河南省商丘市西部	None	None
+睢	sui1	蒲笋的别名	None	None
+睢	sui1	姓	None	None
+睢	wei3	[天睢]星名	None	None
+⿲目亻⿱亠夫	None	同=睺	None	睺
+睥	pi4	[睥睨]1.视；斜视 2.窥视 3.城上的小墙 4.古代皇帝的仪仗	None	None
+⿰目⿱甶⿺儿丶	None	同=䁛	None	䁛
+𥆜	wang4	视	None	None
+睔	gun4	目圆大	None	None
+睔	huan2	同=䁵 大目貌	None	䁵
+睔	lan3	睔目貌	None	None
+𥇮	None	同=眉	None	眉
+睬	cai3	理会；答理	None	None
+睭	zhou3	深	None	None
+睧	hun1	目暗	None	None
+𥇌	han4	目深貌	None	None
+𥇌	qia4	同=䁍 眸子枯陷	None	䁍
+𥇯	mai4	@	None	None
+𥇰	hu1	方言 从入睡到醒来为一𥇰	None	None
+𥇠	ya1	媚	None	None
+䁁	liang4	同=䀶 目病	None	䀶
+𥇜	zhun1	目光迟钝	None	None
+𥇜	guo1	同=矌 目张貌	None	矌
+𥈚	shan3	[𥈚𥈚]目貌	None	None
+睟	sui4	视	None	None
+睟	sui4	润泽貌	None	None
+睟	sui4	颜色纯	None	None
+睟	sui4	眼睛清明	None	None
+睟	zui4	眼边	None	None
+⿰目⿱亠𠦏	None	同=睟	None	睟
+𥇟	jiao3	[拗𥇟]执拗倔强人的目光	None	None
+𥇒	jie2	同=䀹 眼睫毛	None	䀹
+𥇋	meng2	[𥌽𥇋]见“𥌽”	None	None
+𥇱	xie4	同=䁋 闭一目	None	䁋
+睠	None	同=眷	None	眷
+睒	shan3	暂视	None	None
+睒	shan3	窥视	None	None
+睒	shan3	闪烁	None	None
+睒	shan3	晶荧貌	None	None
+睒	tan4	候视	None	None
+𥇲	shi2	@	None	None
+𥇓	ding4	见，看	None	None
+睕	wan3	目开貌	None	None
+睕	wan3	妩媚	None	None
+睕	wan3	乖	None	None
+睕	wan4	[睕䀓]1.大目貌 2.转目	None	None
+睕	wan1	[睕睕]深目貌	None	None
+䁇	mi4	暂视	None	None
+䁇	mi4	细视	None	None
+睙	lie4	转视	None	None
+䁉	None	同=䁈	None	䁈
+䁈	qi4	视；省视	None	None
+䁈	qi4	窥	None	None
+䁈	qi4	姓	None	None
+睷	jian4	同=腱	None	腱
+睷	jian1	目数	None	None
+睩	lu4	谨视	None	None
+睩	lu4	善	None	None
+𥇳	None	同=𥍁	None	𥍁
+𥇵	None	同=𥇗	None	𥇗
+𥇗	jia2	[䀣𥇗]视貌	None	None
+⿰目𢏏	None	同=𥇎	None	𥇎
+𥇎	mi2	眇目	None	None
+䁅	meng3	[𥉔䁅]见“𥉔”	None	None
+䁅	meng3	目有余视	None	None
+䁅	meng3	恚貌	None	None
+䁅	meng4	[䁅盯]目怒貌	None	None
+𥇴	None	同=鼎	None	鼎
+𥈂	ji2	张目	None	None
+䁊	wo4	深目低视	None	None
+䁊	wo4	塞	None	None
+睶	chun3	大目	None	None
+睵	zai1	视	None	None
+睵	zai1	两目不能集中视线同视一物	None	None
+𥈻	xi1	姓	None	None
+𥈩	None	同=𥈄	None	𥈄
+𥈄	chuang4	直视	None	None
+䁋	xie2	闭一目	None	None
+䁋	xie2	闭目	None	None
+䁋	xie2	同=瞸 目眇视	None	瞸
+䁋	zhe2	视不正貌	None	None
+𥉌	da2	大垂目貌	None	None
+𥉂	None	同=䀮	None	䀮
+𥈷	ku1	目衮	None	None
+𥈜	xi4	邪视貌	None	None
+𥈸	gui1	农具名 臿	None	None
+𥈔	None	同=䁙	None	䁙
+𥈙	la4	目不正	None	None
+䁏	yao3	远视	None	None
+䁏	yao3	[䁏眇]远望貌 一说烟焰飞腾貌	None	None
+䁍	qia4	眸子枯陷，瞎眼	None	None
+䁍	qia4	陷	None	None
+䁍	kan3	视	None	None
+𥈗	bi4	眥	None	None
+𥈅	None	同=靦	None	靦
+𥈇	ruan2	目垂	None	None
+睳	hui1	瘦人视貌	None	None
+睳	hui1	瘦貌	None	None
+睳	hui1	健而无德	None	None
+睳	hui1	目瞢	None	None
+睳	hui1	顾盼不定	None	None
+𥈖	die2	同=眣	None	眣
+睿	rui4	通达；明智	None	None
+睿	rui4	古时臣对君的敬辞 如：睿览；睿化	None	None
+𥈪	None	同=尊	None	尊
+瞁	xu4	惊视	None	None
+𥈫	None	同=甖	None	甖
+睼	tian4	视	None	None
+睼	tian4	远视	None	None
+睼	tian4	坐见	None	None
+𥈏	kuang4	好；好貌	None	None
+𥈏	kuang4	举目貌	None	None
+𥈏	kuang4	=𥈀的讹字	None	𥈀
+𥈍	None	=嗅的讹字	None	嗅
+䁑	None	同=眻	None	眻
+煛	jiong3	大目	None	None
+煛	jiong3	目光	None	None
+䁒	ji2	目动	None	None
+䁒	zi3	同=𥊬 泪出貌	None	𥊬
+𥈆	mao4	低眼细看	None	None
+𥈆	mao4	同=瞀	None	瞀
+𥈬	ou1	眸子不正貌	None	None
+睲	xing3	视	None	None
+睲	xing4	目睛照	None	None
+𥈎	None	同=瞎	None	瞎
+䁌	yu4	暂见	None	None
+瞆	None	=瞶的类推简化字	None	瞶
+𥈭	None	同=愕	None	愕
+𥈮	leng2	方言 瞪	None	None
+𥉄	hua2	[䀣𥉄]直视貌	None	None
+𥈊	sha4	眨眼貌	None	None
+瞅	chou3	方言 看	None	None
+瞍	sou3	瞎；盲人	None	None
+瞍	sou3	缩	None	None
+瞍	sou3	对长者的称呼	None	None
+𥈌	None	=𥉈的讹字	None	𥉈
+䁛	gui4	大视	None	None
+𥈋	ju3	惊视貌	None	None
+睺	hou2	半盲	None	None
+瞂	fa2	古兵器名 盾	None	None
+瞃	wo4	恶视	None	None
+睮	yu2	[睮睮]媚貌	None	None
+𥈕	mi2	污面	None	None
+𨤓	None	同=眷	None	眷
+䁔	xuan1	大目	None	None
+䁔	xuan1	大目眥	None	None
+䁔	han4	同=睅 大目	None	睅
+䁓	zong1	视；小视	None	None
+䁓	zong3	窃视	None	None
+䁓	jie4	怒	None	None
+𥈑	hou2	半盲	None	None
+𥈑	hou2	深目	None	None
+𥈘	liang3	目病	None	None
+䁎	cheng2	审视貌	None	None
+䁎	ting2	目眵，俗称眼屎	None	None
+䁎	cheng1	同=瞠 直视	None	瞠
+𥈛	None	同=𥈾	None	𥈾
+䁟	cha1	用同=差 错	None	差
+瞇	mi2	同=眯 1.眇目 2.物入眼中，模糊视线	None	眯
+瞇	mi2	迷乱	None	None
+瞇	mi1	同=眯 眼睛微合	None	眯
+瞇	mi4	斜视	None	None
+䁖	None	=瞜的简化字	None	瞜
+⿰目恆	None	同=𥅨	None	𥅨
+⿰目𡧱	None	同=瞎	None	瞎
+睻	xuan1	大目	None	None
+𥈟	None	同=瞍	None	瞍
+睴	gun4	眼珠大而突出	None	None
+睴	gun4	视貌	None	None
+睴	gun4	困视貌	None	None
+睱	xia4	同=暇	None	暇
+睱	xia2	目白貌	None	None
+䁕	min2	同=盿 视貌	None	盿
+䁕	min2	俯视	None	None
+睯	hun1	闷	None	None
+睸	mei4	眼睛闭合	None	None
+睽	kui2	二目不能集中视线同视一物	None	None
+睽	kui2	目少精	None	None
+睽	kui2	六十四卦之一，卦形为x，兑下离上	None	None
+睽	kui2	乖离	None	None
+睽	kui2	反目；怒目而视貌	None	None
+睽	kui2	春秋时出国地名	None	None
+睽	ji4	[睽睢]张目貌	None	None
+瞀	mao4	低目谨视	None	None
+瞀	mao4	眼睛昏花	None	None
+瞀	mao4	乱；错乱	None	None
+瞀	mao4	闇，愚昧	None	None
+瞀	mao4	昏暗	None	None
+瞀	mao4	披发	None	None
+瞀	mao4	方言 看望	None	None
+瞀	mao4	通=鍪 古代武士的头盔	None	鍪
+瞀	mao4	通=悶 不爽；忧闷	None	悶
+瞀	mao4	姓	None	None
+瞀	wu2	[雊瞀]汉代县名 故地在今河北省蔚县东	None	None
+𥈒	guan1	[𥈒𥈒]视貌	None	None
+𥉜	chen4	[珉𥉜]淫乱人的目光	None	None
+𥉇	gou4	视	None	None
+䁥	ni4	小目	None	None
+䁥	ni4	同=眤(昵) 亲昵	None	眤
+𥉖	wei4	目小怒貌	None	None
+𥉊	ma4	视貌 ……一说=瞗的讹字	None	瞗
+𥈿	hong4	[瞢𥈿]不明	None	None
+𥉙	qi2	同=𧡺 视	None	𧡺
+瞌	ke1	困倦欲睡	None	None
+𥉔	geng3	[𥉔䁅]有余视 一说喜	None	None
+瞱	ye4	目动貌	None	None
+瞱	ye4	怒视	None	None
+瞱	ye4	目不记	None	None
+瞒	None	=瞞的简化字	None	瞞
+䁳	mang3	无一目	None	None
+瞙	mo4	目不明	None	None
+𥊄	None	同=瞢	None	瞢
+瞢	meng1	目不明	None	None
+瞢	meng1	昏暗不明	None	None
+瞢	meng1	闷	None	None
+瞢	meng1	惭愧	None	None
+瞢	meng1	昏愦；愚昧	None	None
+瞢	mang2	同=盲 目无眸子，瞎	None	盲
+瞢	meng4	同=夢 1.云梦，古泽名 2.睡梦	None	夢
+瞋	chen1	睁大眼睛	None	None
+瞋	chen1	怒；生气	None	None
+瞋	chen1	盛貌	None	None
+瞋	tian2	[眠瞋]低目貌	None	None
+瞋	tian1	同=䀖 视	None	䀖
+瞋	shen1	同=眒 张目	None	眒
+𥉏	None	同=看	None	看
+𥊩	None	同=睫	None	睫
+𥊇	jian1	视	None	None
+𥉅	ge2	目不正	None	None
+𥉱	None	同=䁆	None	䁆
+𥉆	li4	同=䚕 求 一说索视貌	None	䚕
+𥉆	li4	窃视	None	None
+𥈐	None	同=眦	None	眦
+⿰目党	None	=矘的类推简化字	None	矘
+𥉁	ju4	惊恐举目而视	None	None
+𥉁	ju4	放目而视	None	None
+𥉁	ju4	好貌	None	None
+𥉁	ju4	觉悟	None	None
+瞐	mo4	美目	None	None
+瞐	mo4	美的样子	None	None
+瞐	mo4	目深	None	None
+𥉦	None	同=眠	None	眠
+䁜	huang4	目大貌	None	None
+䁜	huang3	[䁳䁜]目疾	None	None
+⿰目𭥭	None	同⿰目𡧱(=瞎)	None	瞎
+䁙	yan4	目相戏	None	None
+䁙	yan4	视	None	None
+䁙	yan4	仰视	None	None
+䁚	sun3	目病	None	None
+䁚	qiong2	同=瞏	None	瞏
+䁗	kai3	明	None	None
+䁗	kai3	照	None	None
+𥉀	guan4	同=鰥 视貌	None	鰥
+𥉞	None	同=矒(瞢)	None	矒
+𥉉	None	=𥉈的讹字	None	𥉈
+𥉈	ti4	失意视	None	None
+𥉚	None	同=睡	None	睡
+𥉒	jiao3	明	None	None
+𥉘	ti2	视	None	None
+𥉘	ti2	同=𧡨 1.显 2.视貌	None	𧡨
+𥉎	None	=𧡬的讹字	None	𧡬
+𥉨	None	=𧡬的讹字	None	𧡬
+𥉟	None	同=𥈼	None	𥈼
+𥈼	pan2	转目视	None	None
+𥈼	pan1	同=眅 眼多白	None	眅
+䁞	None	同=省	None	省
+䁘	yao3	[眇䁘]视貌	None	None
+䁘	yao3	美目	None	None
+䁘	yao3	同=䁏	None	䁏
+𥉰	han4	目深貌	None	None
+𥉰	qia4	陷	None	None
+𥉐	qi1	目动	None	None
+瞈	weng3	[瞈矇]目不明	None	None
+𥊒	feng4	[𥊒𥊒]眼皮合而不闭	None	None
+𥉳	liu1	方言 扫视 如：他𥉳了大伙儿一眼	None	None
+瞓	None	方言 睡	None	None
+䁨	huo4	惊视	None	None
+瞝	chi1	视；历观	None	None
+瞊	dang4	不明	None	None
+⿱敉目	None	同=瞥	None	瞥
+䁠	lian2	[䁠䀡]（目）低垂	None	None
+䁝	ying2	迷惑	None	None
+䁝	ying3	清洁	None	None
+䁝	ying3	目光明净貌	None	None
+瞎	xia1	一目合	None	None
+瞎	xia1	目盲	None	None
+瞎	xia1	盲目地；胡乱地	None	None
+瞎	xia1	坏	None	None
+𥈽	se4	[䁼𥈽]视无所见	None	None
+𥉛	None	同=䁙	None	䁙
+𪾸	None	=矉的类推简化字	None	矉
+𥈾	jue4	目深貌	None	None
+𥉕	meng4	[𥉕䁓]视貌	None	None
+𥉕	meng2	同=矇 1.目翳 2.昏闷	None	矇
+瞑	ming2	闭眼	None	None
+瞑	ming2	眼睛昏花	None	None
+瞑	ming2	昏暗	None	None
+瞑	ming2	夕；傍晚	None	None
+瞑	meng2	同=𥌯	None	𥌯
+瞑	mian2	同=眠 睡	None	眠
+瞑	mian2	方言 饮药敷药而反应谓之瞑	None	None
+𥉑	yu4	望	None	None
+𥉑	yu4	眼睛明亮	None	None
+𥉑	huo2	挖眼珠	None	None
+𥉓	mie4	污脸	None	None
+𥉧	None	同=若	None	若
+𥉍	None	同=眵	None	眵
+𥉗	None	同=眊	None	眊
+𥉃	nai4	视不明	None	None
+𥉝	dou1	[𥉝瞘]目深	None	None
+𥉝	dou1	同=𧡸 目蔽垢	None	𧡸
+瞔	ze2	张目	None	None
+瞡	gui1	[瞡瞡]1.见识短浅 2.自得貌	None	None
+瞡	gui1	瞋貌	None	None
+瞡	gui1	同=𧡫 视	None	𧡫
+𥊊	xu4	目动	None	None
+⿱𭮰目	None	同=𥊧	None	𥊧
+𥊏	None	同=𥉙	None	𥉙
+𥊧	kou4	[𥊧瞀]无睱，目不明	None	None
+䁧	miao2	张目	None	None
+瞞	man2	眼睑低；闭目貌	None	None
+瞞	man2	欺骗；隐瞒	None	None
+瞞	man2	明清小说戏曲用语 越，翻越	None	None
+瞞	man2	=樠的讹字	None	樠
+瞞	man2	姓	None	None
+瞞	men1	惭愧	None	None
+瞞	men1	宋元俗语，相当于“辈”、“们”	None	None
+瞞	men3	暗	None	None
+⿰目𤲅	None	同=䁆	None	䁆
+𥊨	None	同=𥉆	None	𥉆
+䁪	zhan3	眨眼	None	None
+䁣	chuan2	目动	None	None
+瞘	kou1	眼珠深陷	None	None
+𥉸	keng1	[𥉸𥌯]也作“𥉸矒” 看不清楚	None	None
+瞟	piao3	斜视；窃视	None	None
+瞟	piao3	一目病	None	None
+瞟	piao3	目小貌	None	None
+瞟	piao3	眼边	None	None
+瞟	piao4	矖	None	None
+瞟	piao2	明察	None	None
+瞖	yi4	眼病 白内障，俗名白翳	None	None
+𥉷	qi1	见	None	None
+𥉿	mi4	邪视	None	None
+𥊱	None	=𥆏的讹字	None	𥆏
+𥋀	None	同=眒	None	眒
+𥋖	xu1	方言 眼睛眯成缝 如：𥋖起（着）眼睛看	None	None
+䁦	None	同=覰	None	覰
+瞠	cheng1	瞪着眼睛看	None	None
+瞠	cheng1	惊视貌	None	None
+瞠	zheng4	同=𥊼 定视	None	𥊼
+𥊐	None	同=照	None	照
+𥊷	None	=䁿的讹字	None	䁿
+瞜	lou1	视，看 如：让我䁖䁖	None	None
+瞜	lou5	[瞘瞜]眼窝深陷 如：一场辛苦下来，他脸瘦了，眼睛也眍䁖了	None	None
+瞜	lv2	[眗瞜]见“眗(xu1)”	None	None
+𥊑	man2	用同=瞞 欺骗	None	瞞
+𥊑	man4	眼花缭乱	None	None
+𥊑	man4	用同=曼 细长	None	曼
+𥊑	man4	用同=漫 不经意	None	漫
+𥉹	None	同=𥍔	None	𥍔
+𥊅	None	同=睚	None	睚
+𥊈	li2	同=𥌛 视	None	𥌛
+𥊈	li2	目𥃤	None	None
+𥊕	None	同=𥉈	None	𥉈
+𥉼	jiao1	视 ……一说=瞗的讹字	None	瞗
+𥊂	None	同=矖	None	矖
+瞛	cong1	目光；目生光	None	None
+𥊃	None	同=瞢	None	瞢
+䁩	yu2	同=魚 1.双目白的劣马 2.鱼	None	魚
+𥉻	qi4	察；视	None	None
+𥉻	qi4	斜视	None	None
+𥉵	ma2	缓视貌	None	None
+𥊆	None	同=睫	None	睫
+𥉽	kang1	[眏𥉽]目貌	None	None
+𥉶	lu4	[𥌮𥉶]见“𥌮”	None	None
+瞕	zhang4	目生暗翳	None	None
+𥊓	chan3	@ ……按：……疑为=鏟的讹俗字	None	鏟
+䁤	che4	泽眼	None	None
+䁤	zhe2	目竖	None	None
+䁤	hui3	恚视 ……按：……此字故宫本、敦煌本《王韵》作=瞲，《集韵》作=𥍋	None	瞲
+𥊔	hui3	恚视 ……按：……此字故宫《王韵》、《玉篇》、《新撰字镜》同 北宋本、巾箱本、黎本、元泰定本、明本均作=䁤，《集韵》作=𥍋	None	䁤
+䁢	xuan2	同=嫙 好貌	None	嫙
+䁢	xuan2	目好貌	None	None
+𥉋	teng2	美目貌	None	None
+⿰目⿳丷罒支	None	同=𥈉	None	𥈉
+⿰目⿳丷罒犬	None	同⿰目⿳丷罒支	None	None
+瞥	pie1	看；眼光掠过	None	None
+瞥	pie1	倏忽；忽然	None	None
+瞥	bi4	目翳	None	None
+𥊁	None	同=𥊴	None	𥊴
+瞚	shun4	目动；眨眼 也作=瞬	None	瞬
+𥉺	die2	[𥉺𥅧]恶貌	None	None
+𥊉	ke4	困闷欲睡的眼神	None	None
+𥉴	mi4	[𥉴𥉴]不可测量	None	None
+𥊵	None	=曃的讹字	None	曃
+瞰	kan4	视，看	None	None
+瞰	kan4	俯视	None	None
+瞰	kan4	窥伺，窥看	None	None
+瞰	kan4	鱼眼张而不合	None	None
+𥉾	qiao1	[窅𥉾]面不平	None	None
+𥊀	shan1	暂见	None	None
+𥊀	san3	视	None	None
+𬑧	None	=矊的类推简化字	None	矊
+𥊫	guan4	直视貌	None	None
+𥊯	xie2	[䁾𥊯]目赤	None	None
+𥋋	None	同=䁮	None	䁮
+䁱	kou1	同=眗 眼睛凹陷	None	眗
+䁰	None	同=𥊾	None	𥊾
+瞦	xi1	眼睛发光有神	None	None
+⿰目⿱𦒳目	None	同=𥊏	None	𥊏
+⿱⿰声皮目	None	同=瞽	None	瞽
+瞸	ye4	眼皮	None	None
+瞸	ye4	目眇视	None	None
+𥋌	sa1	以目示意	None	None
+𥋚	mie4	目眵	None	None
+𥋚	mie4	目眶红肿	None	None
+𥊸	te4	[𥊸䁿]目欲卧貌	None	None
+𥋄	None	同=瞟	None	瞟
+瞫	shen3	深视	None	None
+瞫	shen3	下视；低目视	None	None
+瞫	shen3	窃视	None	None
+瞫	shen3	平视	None	None
+瞫	shen3	括	None	None
+瞫	shen3	姓	None	None
+𥋃	None	同=瞤	None	瞤
+䁭	biao1	恶视貌	None	None
+䁭	biao1	望	None	None
+瞭	liao3	眼珠明亮	None	None
+瞭	liao3	明白	None	None
+瞭	liao4	瞭望；远看	None	None
+䁮	qian3	忧	None	None
+䁮	qian3	闭目思	None	None
+瞨	pu2	目暗	None	None
+𥊲	None	同=瞠	None	瞠
+𥊼	zheng4	定视	None	None
+𥊰	None	同=瞠	None	瞠
+𥋇	cheng1	方言 瞪 如：𥋇大只眼（瞪大眼睛）	None	None
+𥋇	cheng1	方言 睁 如：眼𥋇唔开（眼睛睁不开）	None	None
+𥊴	sui4	流盼	None	None
+𥊿	mian2	远视	None	None
+𥋁	xi4	罪止	None	None
+𥊬	ji2	泪出貌	None	None
+𥊬	ji2	目动	None	None
+瞤	shun4	眼皮跳动	None	None
+瞤	shun4	掣动；颤抖	None	None
+瞤	shun4	同=瞚 转睛；眨眼	None	瞚
+𥊺	None	同=瞯	None	瞯
+瞷	None	同=瞯	None	瞯
+瞯	xian2	斜视	None	None
+瞯	xian2	目上视，现白眼	None	None
+瞯	xian2	目病	None	None
+瞯	xian2	癫痫病	None	None
+瞯	xian2	同=撊 英武奋勇貌	None	撊
+瞯	xian2	马一目毛色白 也作=𩦂	None	𩦂
+瞯	xian2	姓	None	None
+瞯	jian4	窥视	None	None
+瞯	jian4	同=覵 视；看	None	覵
+瞶	gui4	极视；视	None	None
+瞶	gui4	盲人	None	None
+瞶	wei4	眼病	None	None
+瞶	kui4	同=聵 耳聋	None	聵
+瞶	kui4	同=憒 昏愦	None	憒
+䁲	mai2	窃视	None	None
+𥊷	None	=䁿的讹字	None	䁿
+䁫	hu2	浊垢	None	None
+䁫	meng2	同=瞢 目不明	None	瞢
+瞴	mou2	[瞴婁]微视	None	None
+瞴	wu3	微视貌	None	None
+瞴	wu3	美好	None	None
+瞴	mi2	美目貌	None	None
+⿰目棃	None	同=𥌛	None	𥌛
+瞧	qiao2	偷看	None	None
+瞧	qiao2	目昏	None	None
+瞧	qiao2	看	None	None
+𥋍	None	同=睡	None	睡
+䁯	xi1	同=翕 合，收歛	None	翕
+䁯	ye4	同=瞸 目眇视	None	瞸
+𥋎	None	同=睸	None	睸
+𥊪	wei3	[𥊪𥊪]目好貌	None	None
+瞬	shun4	眼珠转动；眨眼	None	None
+瞬	shun4	指一眨眼功夫，形容时间短暂	None	None
+瞬	shun4	视；注视	None	None
+瞬	shun4	同=眴 惊貌	None	眴
+𥋂	None	同=𥈉	None	𥈉
+𥊶	ruan3	形状乖劣	None	None
+瞳	tong2	瞳孔，俗称瞳仁	None	None
+瞳	tong2	无知的样子，懵懵懂懂地瞪着眼睛看的样子	None	None
+瞳	tong2	看见	None	None
+𥋏	None	=膱的讹字	None	膱
+瞮	che4	明	None	None
+𥊳	None	同=䁴	None	䁴
+瞵	lin2	目精	None	None
+瞵	lin2	视貌	None	None
+瞵	lin2	视；注视	None	None
+瞵	lin4	看不清楚	None	None
+瞵	lian2	[斑瞵]同“斑=斕” 文彩貌；色彩斑驳	None	斕
+瞵	lian2	怒目貌	None	None
+瞵	lian2	注目示意	None	None
+𥊭	zun4	赤目	None	None
+䁬	ceng2	[瞢䁬]1.目小作态 2.目不明	None	None
+𣰍	None	同=𥇒	None	𥇒
+𥋐	None	同=眇	None	眇
+𥋰	None	同=瞚	None	瞚
+⿰目運	None	同=睴	None	睴
+𥊮	huo4	目病	None	None
+瞩	None	同=矚	None	矚
+𥋑	None	同=睥	None	睥
+瞪	deng4	直视	None	None
+瞪	deng4	怒目而视	None	None
+瞪	deng4	用力睁大（眼） 如：他把眼睛都瞪圆了	None	None
+瞲	xu4	目深貌	None	None
+瞲	xue4	惊视	None	None
+𥊻	None	同=𥍔	None	𥍔
+瞽	gu3	眼瞎	None	None
+瞽	gu3	古代乐师	None	None
+瞽	gu3	不达事理；没有见识	None	None
+⿱鼔目	None	同=瞽	None	瞽
+𥌋	None	同=瞢	None	瞢
+矆	huo4	惊视	None	None
+矆	huo4	电光；光色	None	None
+矆	yue4	远视貌	None	None
+矆	wo4	视遽貌	None	None
+矇	meng1	眼失明；盲者	None	None
+矇	meng1	昏暗不明	None	None
+矇	meng1	愚昧	None	None
+矇	meng1	眯着，指眼半开半合	None	None
+矇	meng3	[瞈矇]目不明	None	None
 𥋢	None	录入中	None	None
-𥋠	None	录入中	None	None
-𥋣	None	录入中	None	None
-𥋞	None	录入中	None	None
-𥋙	None	录入中	None	None
-𥋤	None	录入中	None	None
-瞿	None	录入中	None	None
-𥋥	None	录入中	None	None
-𥋫	None	录入中	None	None
-瞾	None	录入中	None	None
-𥋬	None	录入中	None	None
-𥋡	None	录入中	None	None
-𥋝	None	录入中	None	None
+𥋠	None	同=瞟	None	瞟
+𥋣	jia4	视	None	None
+𥋞	None	同=𥌼	None	𥌼
+𥋙	e4	睡；睡貌	None	None
+⿰目甞	None	同=瞢	None	瞢
+𥋤	chang2	目	None	None
+⿰目當	None	同=瞢	None	瞢
+瞿	ju4	惊视貌	None	None
+瞿	ju4	雀鸟顾视，警惕地看	None	None
+瞿	ju4	同=懼 害怕；吃惊	None	懼
+瞿	qu2	同=戵 戟一类的兵器	None	戵
+瞿	qu2	通=衢 四通八达的道路	None	衢
+瞿	qu2	姓	None	None
+瞿	ji2	[瞿瞿]居丧视不审貌	None	None
+𥋥	ji2	见	None	None
+𥋫	None	同=照	None	照
+瞾	None	同=曌(照) 唐武则天为自己的名字造的字	None	曌
+𥋬	None	同=𥌂	None	𥌂
+𥋡	tang2	𥋡视	None	None
+𥋝	meng3	[𥋝盯]也作“=䁅盯” 1.直视貌 2.怒目而视貌	None	䁅
 䁸	None	录入中	None	None
-矂	None	录入中	None	None
+矂	sao3	[眊矂]失意；烦恼	None	None
 䁺	None	录入中	None	None
 䁵	None	录入中	None	None
 𥋭	None	录入中	None	None
