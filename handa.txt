@@ -50895,17 +50895,31 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥧲	jin4	同=浸 渐	None	浸
 𥧲	jin3	汉县名 故地在今河南省沈丘县境	None	None
 𥧶	None	同=𥨕	None	𥨕
-𥧵	None	录入中	None	None
-𥧴	None	录入中	None	None
-䆻	None	录入中	None	None
-窹	None	录入中	None	None
-𥨉	None	录入中	None	None
-𥨊	None	录入中	None	None
-窿	None	录入中	None	None
-𥧯	None	录入中	None	None
-䆯	None	录入中	None	None
-窼	None	录入中	None	None
-窾	None	录入中	None	None
+𥧵	None	同=䆿(寱)	None	䆿
+𥧴	mei4	寝	None	None
+䆻	None	=𥨄(竅)的讹字	None	𥨄
+窹	wu4	灶	None	None
+窹	wu4	同=寤 醒	None	寤
+𥨉	None	同=寣	None	寣
+𥨊	None	同=寢	None	寢
+窿	long2	[窿穹]也作“穹=隆” 即“穹窿” 中央高四周下垂的形状 也泛指隆起状	None	隆
+窿	long2	采矿的坑道 如：煤窿；老窿；窿门口	None	None
+⿱𥤨㘴	None	同=𥦊	None	𥦊
+𥧯	None	=寥的讹字	None	寥
+䆯	zhuo2	面短貌	None	None
+䆯	zhuo2	娇姿	None	None
+窼	zhao1	鸟窝	None	None
+窼	ke1	同=窠	None	窠
+窾	kuan3	孔穴；空隙	None	None
+窾	kuan3	空；不实	None	None
+窾	kuan3	使物中空	None	None
+窾	kuan3	空乏；穷困	None	None
+窾	kuan3	法则；规矩	None	None
+窾	kuan3	枯	None	None
+窾	kuan3	通=款 1.古代钟鼎彝器上铸刻的文字 2.泛指款识	None	款
+窾	kuan3	水名	None	None
+窾	kuan3	象声词	None	None
+窾	cuan4	同=𥨒 藏匿	None	𥨒
 竀	None	录入中	None	None
 𥨐	None	录入中	None	None
 𥨛	None	录入中	None	None
