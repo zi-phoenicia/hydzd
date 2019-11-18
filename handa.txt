@@ -50920,46 +50920,84 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 窾	kuan3	水名	None	None
 窾	kuan3	象声词	None	None
 窾	cuan4	同=𥨒 藏匿	None	𥨒
-竀	None	录入中	None	None
-𥨐	None	录入中	None	None
-𥨛	None	录入中	None	None
-𥨔	None	录入中	None	None
-𥨜	None	录入中	None	None
-𥨌	None	录入中	None	None
-𥨎	None	录入中	None	None
-竂	None	录入中	None	None
-𥨖	None	录入中	None	None
-竁	None	录入中	None	None
-𥨘	None	录入中	None	None
-䆶	None	录入中	None	None
-𥨩	None	录入中	None	None
-𥨍	None	录入中	None	None
-𥨝	None	录入中	None	None
-𥨑	None	录入中	None	None
-𥨓	None	录入中	None	None
-䆺	None	录入中	None	None
-䆹	None	录入中	None	None
-䆵	None	录入中	None	None
-𥧼	None	录入中	None	None
-𥨕	None	录入中	None	None
-𥨒	None	录入中	None	None
-𥨞	None	录入中	None	None
-䆸	None	录入中	None	None
-䆷	None	录入中	None	None
-𥨟	None	录入中	None	None
-𥨠	None	录入中	None	None
-𥨤	None	录入中	None	None
-𪚨	None	录入中	None	None
-䆽	None	录入中	None	None
-𥨢	None	录入中	None	None
-𥨥	None	录入中	None	None
-竄	None	录入中	None	None
-竆	None	录入中	None	None
-竅	None	录入中	None	None
-𥨡	None	录入中	None	None
-𥨦	None	录入中	None	None
-𥨮	None	录入中	None	None
-䆾	None	录入中	None	None
+竀	cheng1	正视	None	None
+竀	cheng1	深意	None	None
+竀	cheng1	通=赬 赤色	None	赬
+竀	cheng4	视；察视	None	None
+𥨐	gong3	挖	None	None
+𥨐	gong3	钻	None	None
+𥨛	None	同=竊	None	竊
+𥨔	None	同=𥥧	None	𥥧
+𥨜	None	同=𦔅	None	𦔅
+𥨌	liu4	穴	None	None
+𥨎	dan4	曲内	None	None
+竂	None	同=寮	None	寮
+𥨖	None	=窺的讹字	None	窺
+竁	cui4	挖地为墓穴	None	None
+竁	cui4	墓穴	None	None
+竁	cui4	孔；洞	None	None
+竁	cui4	象声词 小鼠声	None	None
+𥨘	None	同=䆿(寱)	None	䆿
+⿱穴喬	None	同=喬	None	喬
+䆶	jiu1	[䆶𥤥]象声词 穴中鼠声	None	None
+⿱穴⿰身㠯	None	同=窮	None	窮
+𥨩	None	同=𡪿(奥)	None	𡪿
+𥨍	fu4	土室；洞窟	None	None
+𥨍	fu4	挖建土室	None	None
+𥨝	shou4	卸	None	None
+𥨑	None	同=窱	None	窱
+𥨓	None	同=𥦄	None	𥦄
+䆺	pan1	洄漩的水流 也作=潘	None	潘
+䆹	chong1	空	None	None
+䆹	tong3	[䆹竉]暗	None	None
+䆵	cheng2	[䆵𥥈]也作“䆖䆵” 1.屋响 2.屋高深貌	None	None
+𥧼	None	同=竊	None	竊
+𥨕	xing3	醒悟	None	None
+⿱穴⿸尸䂞	None	同=柘	None	柘
+𥨒	None	同=㝮	None	㝮
+𥨞	None	同=𥧯(寥)	None	𥧯
+䆸	zheng1	[䆸䆖]1.阔大貌 2.屋响	None	None
+䆸	zheng1	同=㡧 画缯	None	㡧
+䆷	xue4	孔穴貌	None	None
+䆷	xue4	深貌	None	None
+𥨟	None	@	None	None
+𥨠	None	同=竈	None	竈
+𥨤	None	同=竂	None	竂
+⿱穴𤋯	None	同=竂	None	竂
+𪚨	None	同=龜	None	龜
+䆽	qu2	孔；穴	None	None
+𥨢	None	=𥨒的讹字	None	𥨒
+𥨥	None	同=竄	None	竄
+竄	cuan4	隐藏	None	None
+竄	cuan4	容纳	None	None
+竄	cuan4	放逐	None	None
+竄	cuan4	逃跑；逃亡 如：抱头鼠窜	None	None
+竄	cuan4	改易；修改	None	None
+竄	cuan4	掺杂	None	None
+竄	cuan4	放置；安放	None	None
+竄	cuan4	诛	None	None
+竄	cuan4	跳；往上冲 也作=躥	None	躥
+竄	cuan4	用药熏	None	None
+竄	cuan4	怂恿	None	None
+竄	cuan4	骚扰	None	None
+竄	cuan4	方言 房屋	None	None
+竄	cuan4	用同=篡 非法夺取权位	None	篡
+竄	cuan1	逃入穴中	None	None
+竆	None	同=窮	None	窮
+竅	qiao2	孔；洞	None	None
+竅	qiao2	穿孔；凿洞	None	None
+竅	qiao2	通；贯通	None	None
+竅	qiao2	指人或动物耳目口鼻等器官的孔 如：七窍	None	None
+竅	qiao2	迫阨	None	None
+竅	qiao2	翘起	None	None
+竅	qiao2	喻事情的关键或要害 如：窍门；诀窍	None	None
+⿱穴𣪧	None	同=竅	None	竅
+𥨡	None	=𥨝的讹字	None	𥨝
+⿱究敗	None	同=究	None	究
+𥨦	None	[𥨹𥨦]见“𥨹”	None	None
+𥨮	None	同=𥨔(𥥧)	None	𥨔
+䆾	lan2	[䆾䆱]薄而大	None	None
+䆾	lan4	[䆾䆱]1.不平 2.深穴	None	None
 𥨬	None	录入中	None	None
 𥨪	None	录入中	None	None
 𥨫	None	录入中	None	None
