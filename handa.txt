@@ -50881,17 +50881,20 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥧷	fu2	吹声	None	None
 𥨗	None	同=竄	None	竄
 窵	diao4	[窵窅]深邃貌	None	None
-窻	None	录入中	None	None
-𥧽	None	录入中	None	None
-窸	None	录入中	None	None
-𥧾	None	录入中	None	None
-䆲	None	录入中	None	None
-𥧱	None	录入中	None	None
-𥧮	None	录入中	None	None
-𥧸	None	录入中	None	None
-䆱	None	录入中	None	None
-𥧲	None	录入中	None	None
-𥧶	None	录入中	None	None
+窻	None	同=窗	None	窗
+𥧽	None	同=窱	None	窱
+窸	xi1	[窸窣]象声词 形容轻微细碎的声音	None	None
+窸	xi1	从穴出	None	None
+𥧾	None	同=窾	None	窾
+䆲	kang1	[䆲䆡]也作“=㝩㝗” 屋宇空阔	None	㝩
+𥧱	yong1	[窳𥧱]器物质量粗劣	None	None
+𥧮	zhe2	洞穴	None	None
+𥧮	zhe2	兔窟	None	None
+𥧸	None	=窹的讹字	None	窹
+䆱	tan1	[䆾䆱]见“䆾”	None	None
+𥧲	jin4	同=浸 渐	None	浸
+𥧲	jin3	汉县名 故地在今河南省沈丘县境	None	None
+𥧶	None	同=𥨕	None	𥨕
 𥧵	None	录入中	None	None
 𥧴	None	录入中	None	None
 䆻	None	录入中	None	None
