@@ -50998,24 +50998,33 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥨮	None	同=𥨔(𥥧)	None	𥨔
 䆾	lan2	[䆾䆱]薄而大	None	None
 䆾	lan4	[䆾䆱]1.不平 2.深穴	None	None
-𥨬	None	录入中	None	None
-𥨪	None	录入中	None	None
-𥨫	None	录入中	None	None
-𥨭	None	录入中	None	None
-𥨲	None	录入中	None	None
-䆿	None	录入中	None	None
-𥨱	None	录入中	None	None
-竇	None	录入中	None	None
-𥨴	None	录入中	None	None
-𥨳	None	录入中	None	None
-䇀	None	录入中	None	None
-𥨹	None	录入中	None	None
-𥨵	None	录入中	None	None
-𥨶	None	录入中	None	None
-𥨰	None	录入中	None	None
-𥨷	None	录入中	None	None
-𥨺	None	录入中	None	None
-𥩄	None	录入中	None	None
+𥨬	None	=竄的讹字	None	竄
+𥨪	qiong2	夏代诸侯羿所封的国名，故址在今山东省德州市南 后作=窮	None	窮
+𥨫	None	同=竈	None	竈
+𥨭	None	同=窯(窰)	None	窯
+𥨲	None	=𡫽的讹字	None	𡫽
+䆿	None	同=寱	None	寱
+𥨱	None	同=竊	None	竊
+竇	dou4	孔穴	None	None
+竇	dou4	门旁小户	None	None
+竇	dou4	地窖	None	None
+竇	dou4	水沟；水道口	None	None
+竇	dou4	溃决；穿通	None	None
+竇	dou4	人体某些器官或组织的内部凹入的部分 如：鼻窦；额窦	None	None
+竇	dou4	古州名 治今广东省信宜市西南	None	None
+竇	dou4	姓	None	None
+竇	du2	通=瀆 沟渠；大川	None	瀆
+𥨴	None	=𥩁的讹字	None	𥩁
+𥨳	rong2	除	None	None
+𥨳	rong2	同=䇀 毳饰	None	䇀
+䇀	None	同=𥨳(䩸)	None	𥨳
+𥨹	None	[𥨹𥨦]音义未详	None	None
+𥨵	None	=竊的讹字	None	竊
+𥨶	None	同=究	None	究
+𥨰	None	=㡧的讹字	None	㡧
+𥨷	None	同=竊	None	竊
+𥨺	None	同=𥨒	None	𥨒
+𥩄	None	@	None	None
 竈	None	录入中	None	None
 𥩀	None	录入中	None	None
 𥩂	None	录入中	None	None
