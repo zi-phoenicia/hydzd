@@ -50806,40 +50806,81 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 窱	tiao3	[杳窱]也作“䆞窱”、“窈窱”、“窅窱” 深远貌；深邃貌	None	None
 窮	qiong2	尽；完结	None	None
 窮	qiong2	极端；到达极点	None	None
-窳	None	录入中	None	None
-窰	None	录入中	None	None
-𥧹	None	录入中	None	None
-𥧗	None	录入中	None	None
-𥧖	None	录入中	None	None
-𥦹	None	录入中	None	None
-𥧠	None	录入中	None	None
-𥧥	None	录入中	None	None
-窯	None	录入中	None	None
-窲	None	录入中	None	None
-𥧕	None	录入中	None	None
-䆮	None	录入中	None	None
-𥧝	None	录入中	None	None
-𥧦	None	录入中	None	None
-𥧧	None	录入中	None	None
-𥧨	None	录入中	None	None
-𥧚	None	录入中	None	None
-窺	None	录入中	None	None
-𥨄	None	录入中	None	None
-𥨅	None	录入中	None	None
-𥧳	None	录入中	None	None
-窷	None	录入中	None	None
-𥧺	None	录入中	None	None
-䆰	None	录入中	None	None
-𥧬	None	录入中	None	None
-𥧰	None	录入中	None	None
-𥧻	None	录入中	None	None
-𥨇	None	录入中	None	None
-窶	None	录入中	None	None
-𥧭	None	录入中	None	None
-䆼	None	录入中	None	None
-𥧷	None	录入中	None	None
-𥨗	None	录入中	None	None
-窵	None	录入中	None	None
+窮	qiong2	彻底；极力 如：穷追猛打	None	None
+窮	qiong2	寻根究源	None	None
+窮	qiong2	理屈；辞屈	None	None
+窮	qiong2	揭穿；识破	None	None
+窮	qiong2	全部；自始至终	None	None
+窮	qiong2	止；息	None	None
+窮	qiong2	困厄；不得志	None	None
+窮	qiong2	贫困；缺少财物	None	None
+窮	qiong2	缺陷；不足	None	None
+窮	qiong2	荒僻；边远 如：穷乡僻壤	None	None
+窮	qiong2	空	None	None
+窮	qiong2	小	None	None
+窮	qiong2	指鳏寡孤独四种人	None	None
+窮	qiong2	不肖之人；恶人	None	None
+窮	qiong2	本不该如此而偏要如此 如：穷开心；穷叫唤；穷打扮；穷积极	None	None
+窮	qiong2	通=躬(gong1) 身体	None	躬
+窮	qiong2	通=穹	None	穹
+窮	qiong2	古国名	None	None
+窳	yu3	凹陷；低下	None	None
+窳	yu3	器物质量粗劣	None	None
+窳	yu3	败坏；腐败 如：窳敝；窳败	None	None
+窳	yu3	瘦弱	None	None
+窳	yu3	懒惰	None	None
+窳	yu3	器中空虚	None	None
+窳	yu3	兽名	None	None
+窳	yu2	古地名 在今山西省绛县境	None	None
+窰	yao2	同=窯 后作=窑	None	窯
+𥧹	None	=窞的讹字	None	窞
+𥧗	None	=𥩁的讹字	None	𥩁
+𥧖	None	=𡫄(究)的讹字	None	𡫄
+𥦹	None	同=窬	None	窬
+𥧠	None	同=𥨌	None	𥨌
+𥧥	None	同=𥨌	None	𥨌
+窯	yao2	烧制砖瓦和陶瓷器皿的灶 也作=窰、=窑	None	窰
+窯	yao2	特指古代名窑出产的陶瓷器	None	None
+窯	yao2	用土法采掘的煤窑	None	None
+窯	yao2	窑洞	None	None
+窯	yao2	方言 妓院 也指奸盗住所	None	None
+窯	yao4	烧穴	None	None
+窯	qiao1	[窯寥]空寂	None	None
+窲	chao2	[寥窲]幽深貌	None	None
+𥧕	liu4	窖	None	None
+䆮	None	同=𥧲	None	𥧲
+𥧝	None	同=窹	None	窹
+𥧦	None	同=窖	None	窖
+𥧧	None	同=蜜	None	蜜
+𥧨	None	同=賓	None	賓
+𥧚	None	同=穩	None	穩
+窺	kui1	从孔隙中或隐僻处偷看	None	None
+窺	kui1	泛指观看	None	None
+窺	kui1	暗中探伺	None	None
+窺	kui1	接近于某种境界	None	None
+窺	kui3	通=跬 半步	None	跬
+𥨄	None	同=竅	None	竅
+𥨅	None	同=寂	None	寂
+𥧳	None	同=窯	None	窯
+⿱穴⿰耳㠯	None	同=窮	None	窮
+窷	liao4	穿	None	None
+𥧺	None	同=窮	None	窮
+䆰	yu1	山洞	None	None
+䆰	yu1	山名	None	None
+𥧬	qian3	不动	None	None
+𥧰	hua4	同=摦 宽大	None	摦
+𥧻	qu2	洞穴	None	None
+𥨇	None	=𡫄(究)的讹字	None	𡫄
+窶	ju4	无财备礼	None	None
+窶	ju4	泛指贫穷	None	None
+窶	ju4	浅陋；鄙陋	None	None
+窶	ju4	器量小	None	None
+窶	lou2	[甌窶]同“甌=寠” 狭小的高地	None	寠
+𥧭	man2	穴黑貌	None	None
+䆼	None	同=窠	None	窠
+𥧷	fu2	吹声	None	None
+𥨗	None	同=竄	None	竄
+窵	diao4	[窵窅]深邃貌	None	None
 窻	None	录入中	None	None
 𥧽	None	录入中	None	None
 窸	None	录入中	None	None
