@@ -50737,44 +50737,68 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 ⿱穴⿰正见	None	=竀的类推简化字	None	竀
 𥧂	None	=𥨐的类推简化字	None	𥨐
 ⿱穴⿰耳弓	None	同=窮	None	窮
-𥧣	None	录入中	None	None
-𥦼	None	录入中	None	None
-䆪	None	录入中	None	None
-𥦽	None	录入中	None	None
-𥧆	None	录入中	None	None
-𥧀	None	录入中	None	None
-𥦻	None	录入中	None	None
-𥧇	None	录入中	None	None
-𥦸	None	录入中	None	None
-𥧈	None	录入中	None	None
-窬	None	录入中	None	None
-䆫	None	录入中	None	None
-𥦹	None	录入中	None	None
-𥧉	None	录入中	None	None
-窨	None	录入中	None	None
-窭	None	录入中	None	None
-窪	None	录入中	None	None
-𥦿	None	录入中	None	None
-𥧊	None	录入中	None	None
-𥧋	None	录入中	None	None
-𥧌	None	录入中	None	None
-𥧍	None	录入中	None	None
-𥨆	None	录入中	None	None
-𥧒	None	录入中	None	None
-𥧙	None	录入中	None	None
-𥧟	None	录入中	None	None
-𥧓	None	录入中	None	None
-𥧡	None	录入中	None	None
-𥧢	None	录入中	None	None
-窴	None	录入中	None	None
-䆭	None	录入中	None	None
-𥧜	None	录入中	None	None
-𥧘	None	录入中	None	None
-䆳	None	录入中	None	None
-𥧛	None	录入中	None	None
-𥧐	None	录入中	None	None
-𥧞	None	录入中	None	None
-𥧤	None	录入中	None	None
+⿱穴草	None	同=𥩀	None	𥩀
+𥧣	chu2	[窊𥧣]也作“窊=𥥸” 深貌	None	𥥸
+⿱穴匽	yan4	同=晏 姓	None	晏
+𥦼	None	同=柘	None	柘
+⿳穴一𦨉	None	同=窬	None	窬
+䆪	hong1	光色	None	None
+𥦽	None	同=寔	None	寔
+𥧆	ou3	@	None	None
+𥧀	None	同=𥥼(爵)	None	𥥼
+𥦻	None	同=竄	None	竄
+𥧇	ke1	@	None	None
+𥧇	chao2	=窲的讹字	None	窲
+𥦸	None	同=伏	None	伏
+𥧈	None	=窵的讹字	None	窵
+窬	yu2	门边像圭形的小洞	None	None
+窬	yu2	空；挖空	None	None
+窬	yu2	凿穿（墙壁）	None	None
+窬	yu2	通=踰 越过	None	踰
+窬	yu2	受粪便的木桶、木槽	None	None
+窬	dou1	[𨄅窬]深下	None	None
+䆫	None	同=窗	None	窗
+𥦹	None	=窬的讹字	None	窬
+𥧉	None	同=惌	None	惌
+窨	yin4	地室；地窖	None	None
+窨	yin4	窖藏；深藏	None	None
+窨	yin4	封闭使冷却	None	None
+窨	yin4	忍住	None	None
+窨	yin1	深黑貌	None	None
+窨	xun1	熏 把茉莉花等放在茶叶中，使茶叶染上花香	None	None
+窭	None	=窶的简化字	None	窶
+窪	wa1	清水	None	None
+窪	wa1	小水坑	None	None
+窪	wa1	凹陷；低下	None	None
+窪	wa1	深	None	None
+窪	wa1	水名	None	None
+𥦿	None	同=𥧦(窖)	None	𥧦
+𥧊	None	同=窟	None	窟
+𥧋	ku1	@	None	None
+𥧌	None	同=寐	None	寐
+𥧍	None	@	None	None
+𥨆	None	=𠅨的讹字 三国时吴王孙休第四子的名字	None	𠅨
+𥧒	gou4	穴	None	None
+𥧙	wei4	鱼名 也作=鮇	None	鮇
+𥧟	None	同=窰	None	窰
+𥧓	ma3	穴名 ……一说=窵的讹字	None	窵
+𥧡	gong4	从内向外钻或顶	None	None
+𥧢	None	同=㲨	None	㲨
+窴	tian2	同=填 1.填塞 2.满貌 3.加	None	填
+窴	tian2	同=闐	None	闐
+窴	tian2	置放	None	None
+窴	dian1	[窴軨]也作“=顛軨” 坂名 春秋时虞地 故地在今山西省平陆县东北	None	顛
+窴	yan3	[窴赧]迫窄	None	None
+窴	chan3	[窴赧]笛声缓	None	None
+䆭	xuan1	穴；穴中	None	None
+𥧜	None	=𥦸(伏)的讹字	None	𥦸
+𥧘	None	=䆞的讹字	None	䆞
+䆳	None	同=邃	None	邃
+𥧛	None	=𥧉的讹字	None	𥧉
+𥧐	None	=㼱的讹字	None	㼱
+𥧞	None	=𥨒的讹字	None	𥨒
+𥧤	ning2	大	None	None
+𥧤	ning2	明	None	None
 䆬	None	录入中	None	None
 𥨈	None	录入中	None	None
 𥧔	None	录入中	None	None
