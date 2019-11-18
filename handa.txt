@@ -50799,11 +50799,13 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥧞	None	=𥨒的讹字	None	𥨒
 𥧤	ning2	大	None	None
 𥧤	ning2	明	None	None
-䆬	None	录入中	None	None
-𥨈	None	录入中	None	None
-𥧔	None	录入中	None	None
-窱	None	录入中	None	None
-窮	None	录入中	None	None
+䆬	yun3	同=霣	None	霣
+䆬	yun3	同=殞	None	殞
+𥨈	None	同=𮄅(竈)	None	𮄅
+𥧔	None	同=屁	None	屁
+窱	tiao3	[杳窱]也作“䆞窱”、“窈窱”、“窅窱” 深远貌；深邃貌	None	None
+窮	qiong2	尽；完结	None	None
+窮	qiong2	极端；到达极点	None	None
 窳	None	录入中	None	None
 窰	None	录入中	None	None
 𥧹	None	录入中	None	None
