@@ -50672,31 +50672,71 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥦩	None	同=掩	None	掩
 ⿱穴叔	None	同=寂	None	寂
 𥦴	None	同=㝠	None	㝠
-䆩	None	录入中	None	None
-䆨	None	录入中	None	None
-窠	None	录入中	None	None
-窤	None	录入中	None	None
-𥦦	None	录入中	None	None
-𥦟	None	录入中	None	None
-窩	None	录入中	None	None
-𥦥	None	录入中	None	None
-䆧	None	录入中	None	None
-𥦧	None	录入中	None	None
-𥦨	None	录入中	None	None
-𥦵	None	录入中	None	None
-𥦜	None	录入中	None	None
-𥦶	None	录入中	None	None
-窞	None	录入中	None	None
-窣	None	录入中	None	None
-䆦	None	录入中	None	None
-𥦠	None	录入中	None	None
-𥦷	None	录入中	None	None
-𥧫	None	录入中	None	None
-窟	None	录入中	None	None
-窡	None	录入中	None	None
-𥦾	None	录入中	None	None
-窫	None	录入中	None	None
-𥧂	None	录入中	None	None
+䆩	None	同=冥	None	冥
+䆨	ning2	天	None	None
+䆨	ning2	大	None	None
+䆨	ning2	明	None	None
+窠	ke1	鸟类穴居处 又泛指动物栖息之所	None	None
+窠	ke1	居室	None	None
+窠	ke1	事物集聚成团成簇	None	None
+窠	ke1	衣物上织绣的团花	None	None
+窠	ke1	书写大字或刻制印章时划分的界格	None	None
+窠	ke1	孔穴；坑	None	None
+窠	ke1	用同=科 1.官；官职 2.章节	None	科
+窠	ke1	用同=棵	None	棵
+窠	ke1	用同=顆	None	顆
+窤	guan1	地名	None	None
+𥦦	None	同=弇	None	弇
+𥦟	dian4	山下穴	None	None
+⿱穴㘴	None	同⿱安㘴	None	None
+窩	wo1	鸟兽昆虫的巢穴 也作=䆧 如：鸟窝；蜂窝；狼窝	None	䆧
+窩	wo1	人居住或聚集之处	None	None
+窩	wo1	指人或物体所在或所占的地方 如：挪个窝	None	None
+窩	wo1	事物成团成簇 如：草长成窝	None	None
+窩	wo1	凹陷处；洞坑 如：酒窝；胳肢窝	None	None
+窩	wo1	卷；折转 如：窝腰；把铁丝窝个圈儿	None	None
+窩	wo1	藏匿	None	None
+窩	wo1	蜷伏	None	None
+窩	wo1	胡乱裹缠、蒙盖	None	None
+窩	wo1	郁积而得不到发作或发挥 如：窝火；窝工	None	None
+窩	wo1	量词 1.相当于=簇 2.用于一胎所生或一次孵出的动物 如：一窝鸡；一窝下了十二头猪崽	None	簇
+窩	wo1	用同=兀(wu4)	None	兀
+窩	wo1	用同=屙	None	屙
+𥦥	xiong4	老弱	None	None
+䆧	None	同=窩	None	窩
+𥦧	None	同=窬	None	窬
+𥦨	ke4	匝	None	None
+𥦵	None	同=究	None	究
+𥦜	beng4	同=堋 葬时下土	None	堋
+𥦶	xian4	同=臽 小陷穽	None	臽
+窞	dan4	坎中小坎；深坑	None	None
+窞	dan4	旁入	None	None
+窣	su1	从穴中猝出	None	None
+窣	su1	突然	None	None
+窣	su1	拂	None	None
+窣	su1	象声词 形容细小的声音	None	None
+䆦	None	=𥥍的讹字	None	𥥍
+𥦠	None	同=窳	None	窳
+𥦷	weng4	小水	None	None
+𮄆	None	同=寐	None	寐
+𥧫	lang2	[𥧫䆲]也作“=㝗㝩”、“=䆡䆲” 空虚貌	None	㝗
+窟	ku1	洞穴	None	None
+窟	ku1	土室	None	None
+窟	ku1	人或事物汇集之处	None	None
+窟	ku1	挖（洞）	None	None
+窟	ku1	穴居；作巢	None	None
+窡	zhuo3	穴中见	None	None
+窡	zhuo3	洞穴	None	None
+窡	zhuo3	橹脐，系橹的孔眼	None	None
+窡	zhuo3	满口吃食貌	None	None
+𥦾	None	同=窗	None	窗
+窫	ya4	[窫窳]1.古国名 2.古代传说中的一种吃人怪兽 3.喻残害	None	None
+窫	ya4	同=穵 空	None	穵
+窫	ye1	同=㝣 静	None	㝣
+⿱穴𡋣	None	同=窪	None	窪
+⿱穴⿰正见	None	=竀的类推简化字	None	竀
+𥧂	None	=𥨐的类推简化字	None	𥨐
+⿱穴⿰耳弓	None	同=窮	None	窮
 𥧣	None	录入中	None	None
 𥦼	None	录入中	None	None
 䆪	None	录入中	None	None
