@@ -50374,43 +50374,96 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 穽	jing3	陷入；陷害	None	None
 穽	jing3	通=刑(xing2)	None	刑
 𥤴	yan3	闭；掩	None	None
-𥤸	None	录入中	None	None
-穼	None	录入中	None	None
-𥤵	None	录入中	None	None
-突	None	录入中	None	None
-䆖	None	录入中	None	None
-穿	None	录入中	None	None
-窀	None	录入中	None	None
-𥤻	None	录入中	None	None
-窃	None	录入中	None	None
-𥥟	None	录入中	None	None
-䆔	None	录入中	None	None
-𥤼	None	录入中	None	None
-𥤺	None	录入中	None	None
-窂	None	录入中	None	None
-𥤶	None	录入中	None	None
-穾	None	录入中	None	None
-𥤹	None	录入中	None	None
-𥥄	None	录入中	None	None
-窆	None	录入中	None	None
-𥤿	None	录入中	None	None
-𥤽	None	录入中	None	None
-𥤷	None	录入中	None	None
-䆕	None	录入中	None	None
-𥥅	None	录入中	None	None
-𥤾	None	录入中	None	None
-䆓	None	录入中	None	None
-𥥆	None	录入中	None	None
-𥥘	None	录入中	None	None
-𥥓	None	录入中	None	None
-窍	None	录入中	None	None
-䆙	None	录入中	None	None
-𥥑	None	录入中	None	None
-𥥇	None	录入中	None	None
-窉	None	录入中	None	None
-𥥔	None	录入中	None	None
-𥥍	None	录入中	None	None
-𥥒	None	录入中	None	None
+𥤸	wan2	洞窟	None	None
+穼	shen1	同=𥥿 烟囱	None	𥥿
+穼	shen1	幽深	None	None
+穼	shen1	姓	None	None
+𥤵	mian4	同=𡧍 吻合	None	𡧍
+突	tu1	犬从穴中突然而出	None	None
+突	tu1	忽然；猝然	None	None
+突	tu1	袭击	None	None
+突	tu1	冲撞	None	None
+突	tu1	凌犯；触犯	None	None
+突	tu1	凸出；鼓起	None	None
+突	tu1	穿；破	None	None
+突	tu1	欺诈	None	None
+突	tu1	烟囱 也作=堗	None	堗
+突	tu1	洞穴；隧道	None	None
+突	tu1	恶马	None	None
+突	tu1	滑	None	None
+突	tu1	同=𣔻 门杠	None	𣔻
+突	tu1	通=塗(tu2) 涂抹	None	塗
+突	tu1	象声词	None	None
+䆖	hong2	[䆖䆵]1.大屋 2.屋内的回声	None	None
+䆖	hong2	同=宏	None	宏
+穿	chuan1	穿透；使破成孔洞	None	None
+穿	chuan1	开凿；挖掘	None	None
+穿	chuan1	通过（孔隙、空间等）	None	None
+穿	chuan1	开通	None	None
+穿	chuan1	孔；洞	None	None
+穿	chuan1	暮穴	None	None
+穿	chuan1	水道	None	None
+穿	chuan1	盛茶的器具	None	None
+穿	chuan1	着上衣物	None	None
+穿	chuan1	破败	None	None
+穿	chuan1	钻进；曲折而入	None	None
+穿	chuan1	用于动词后，表示揭出真相 如：看穿；说穿	None	None
+穿	chuan1	贯通	None	None
+穿	chuan4	同=串 串通；暗中勾结	None	串
+穿	yuan1	火起貌	None	None
+窀	zhun1	[窀穸]1.埋葬 2.暮穴	None	None
+窀	tun2	火现穴中	None	None
+窀	tun2	掩埋	None	None
+𥤻	pi2	器	None	None
+窃	None	竊的简化字	None	None
+𥥟	wa4	用瓦盖屋	None	None
+䆔	chong1	穿	None	None
+𥤼	sui4	深	None	None
+𥤺	wa1	穿	None	None
+窂	None	同=牢	None	牢
+𥤶	None	同=屁	None	屁
+穾	yao4	同=窔 室中东南角	None	窔
+穾	yao4	复室，结构重深之屋	None	None
+穾	yao4	幽深隐僻	None	None
+穾	yao4	喻修养或学问的高深境界	None	None
+穾	yao4	好	None	None
+穾	yao4	象声词	None	None
+穾	yao3	同=𡧮 门轴转动声	None	𡧮
+𥤹	yao4	同=窔	None	窔
+𥤹	yao3	同=𡧮 户枢声	None	𡧮
+𥥄	None	=𡧋(貧)的讹字	None	𡧋
+窆	bian3	葬时下棺于暮穴	None	None
+窆	bian3	泛指埋葬	None	None
+窆	bian3	暮穴；坟茔	None	None
+窆	bian3	窆石，古代用来牵引棺椁下暮穴	None	None
+窆	bian3	通=貶 减损	None	貶
+𥤿	None	同=窣	None	窣
+𥤽	None	同=寂	None	寂
+𥤷	yin2	深	None	None
+䆕	yue4	穿；通	None	None
+䆕	yue4	穷；极	None	None
+䆕	yue4	孔；洞 也作=䏐	None	䏐
+䆕	xue4	同=䆷 孔穴貌	None	䆷
+䆕	xue4	同=䦑 无门户 也作=䆢	None	䦑
+𥥅	kong3	[𥥅竉]洞窟	None	None
+𥤾	None	同=竅	None	竅
+䆓	e4	窟	None	None
+䆓	ruan3	柔皮革	None	None
+𥥆	None	同=窈	None	窈
+𥥘	None	同=寂	None	寂
+𥥓	None	同=屁	None	屁
+窍	None	=竅的简化字	None	竅
+䆙	None	同=窰	None	窰
+𥥑	None	同=窂(牢)	None	窂
+𥥇	None	同=𥤼	None	𥤼
+窉	bing3	农历三月的别称	None	None
+窉	bing3	同=寎 惊病	None	寎
+窉	bing3	穴	None	None
+𥥔	None	同=宕	None	宕
+𥥍	shen1	同=深	None	深
+𥥍	shen1	灶上烟囱	None	None
+𥥍	shen4	掩埋（死者棺木）	None	None
+𥥒	None	同=寂	None	寂
 𥥛	None	录入中	None	None
 𥥢	None	录入中	None	None
 窅	None	录入中	None	None
