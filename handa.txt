@@ -50282,32 +50282,98 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥫔	None	同=贛	None	贛
 𥫖	xiang1	击	None	None
 𥫕	None	=𥫓(𥫖)的讹字	None	𥫓
-穴	None	录入中	None	None
-穵	None	录入中	None	None
-䆑	None	录入中	None	None
-𥤥	None	录入中	None	None
-究	None	录入中	None	None
-𥤤	None	录入中	None	None
-𥤣	None	录入中	None	None
-穷	None	录入中	None	None
-𥤦	None	录入中	None	None
-𥤱	None	录入中	None	None
-穻	None	录入中	None	None
-𥤧	None	录入中	None	None
-空	None	录入中	None	None
-𥤲	None	录入中	None	None
-𥤮	None	录入中	None	None
-𥤫	None	录入中	None	None
-𥤭	None	录入中	None	None
-䆒	None	录入中	None	None
-穸	None	录入中	None	None
-𥤩	None	录入中	None	None
-穹	None	录入中	None	None
-𥤪	None	录入中	None	None
-𥤨	None	录入中	None	None
-𥤳	None	录入中	None	None
-穽	None	录入中	None	None
-𥤴	None	录入中	None	None
+穴	xue2	土室	None	None
+穴	xue2	洞窟	None	None
+穴	xue2	虫蚁鸟兽栖宿处	None	None
+穴	xue2	墓坑	None	None
+穴	xue2	窟窿；孔隙	None	None
+穴	xue2	水道；河流	None	None
+穴	xue2	人体可以进行针灸的部位 如：穴道；点穴	None	None
+穴	xue2	穴居；穴藏	None	None
+穴	xue2	挖凿；洞穿	None	None
+穴	xue2	喻钻研	None	None
+穴	xue2	侧；旁边	None	None
+穴	xue2	量词 计算洞穴数量的单位	None	None
+穴	xue2	姓	None	None
+穴	jue2	通=鐍	None	鐍
+穵	ya4	空	None	None
+穵	ya4	深	None	None
+穵	wa1	同=挖	None	挖
+䆑	cheng2	小突	None	None
+𥤥	qi1	[䆶𥤥]见“䆶”	None	None
+究	jiu1	穷尽	None	None
+究	jiu1	遍；遍及	None	None
+究	jiu1	达；贯彻	None	None
+究	jiu1	深入探求；钻研	None	None
+究	jiu1	谋划	None	None
+究	jiu1	清除；明白	None	None
+究	jiu1	山溪濑的尽头处	None	None
+究	jiu1	窟室	None	None
+究	jiu1	古代陆博戏（一种棋）用具“六箸”的别称	None	None
+究	jiu1	副词 毕竟；到底	None	None
+𥤤	zhen4	深	None	None
+𥤣	None	同=窈	None	窈
+穷	None	=窮的简化字	None	窮
+𥤦	ai4	@	None	None
+𥤱	kan3	@	None	None
+𥤱	han3	同=罕	None	罕
+穻	yu1	窗户	None	None
+穻	yu3	同=宇	None	宇
+𥤧	None	同=塞	None	塞
+空	kong1	空虚；内无所有	None	None
+空	kong1	空间；天空 如：晴空；长空；航空	None	None
+空	kong1	穷尽；罄其所有	None	None
+空	kong1	无；没有	None	None
+空	kong1	穿；通透	None	None
+空	kong1	使空虚；使罄尽	None	None
+空	kong1	浮泛而不切实际 如：空谈；空想	None	None
+空	kong1	廓大；广阔	None	None
+空	kong1	道家语 不执著于现实	None	None
+空	kong1	佛家语 佛家以为一切事物的现象都有它各自的因和缘，而没有实在的自体，即位“空”	None	None
+空	kong1	待	None	None
+空	kong1	副词 1.徒然；白白地 2.只；仅	None	None
+空	kong1	姓	None	None
+空	kong3	孔；穴 也作=孔	None	孔
+空	kong3	中医用语 指血脉	None	None
+空	kong3	暮穴	None	None
+空	kong3	通=孔 大	None	孔
+空	kong4	穷；贫乏	None	None
+空	kong4	缺少；短欠	None	None
+空	kong4	间隙；间隔	None	None
+空	kong4	空子；可乘之机	None	None
+空	kong4	闲暇时间 如：抽空；没空	None	None
+空	kong4	腾让出来 如：每段开头空两格	None	None
+𥤲	None	同=𡧯(寂)	None	𡧯
+𥤮	None	同=突	None	突
+𥤫	None	同=虐	None	虐
+𥤭	None	同=窀	None	窀
+䆒	None	=究的讹字	None	究
+穸	xi1	埋葬	None	None
+穸	xi1	暮穴	None	None
+穸	xi1	通=夕 夜；晚上	None	夕
+𥤩	mang3	[𥤩䆡]1.空 2.穴	None	None
+穹	qiong2	穷尽	None	None
+穹	qiong2	困乏；穷困	None	None
+穹	qiong2	大	None	None
+穹	qiong2	高	None	None
+穹	qiong2	深	None	None
+穹	qiong2	穹窿，中间隆起四边下垂貌	None	None
+穹	qiong2	田	None	None
+穹	qiong2	穹庐；毡帐	None	None
+穹	qiong2	孔；穴	None	None
+穹	qiong2	唐州名 属剑南道茂州都督府	None	None
+穹	kong1	[浪穹]县名	None	None
+𥤪	None	同=字	None	字
+𥤨	nu2	𥤨室	None	None
+𥤳	jiu1	同=究	None	究
+𥤳	cuan4	@	None	None
+穽	jing3	捕兽的陷坑 也作=阱	None	阱
+穽	jing3	泛指深坑	None	None
+穽	jing3	拘谨人畜的地牢	None	None
+穽	jing3	喻法网或圈套	None	None
+穽	jing3	陷入；陷害	None	None
+穽	jing3	通=刑(xing2)	None	刑
+𥤴	yan3	闭；掩	None	None
 𥤸	None	录入中	None	None
 穼	None	录入中	None	None
 𥤵	None	录入中	None	None
