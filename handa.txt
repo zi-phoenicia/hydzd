@@ -51025,29 +51025,46 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥨷	None	同=竊	None	竊
 𥨺	None	同=𥨒	None	𥨒
 𥩄	None	@	None	None
-竈	None	录入中	None	None
-𥩀	None	录入中	None	None
-𥩂	None	录入中	None	None
-𥨻	None	录入中	None	None
-𥨽	None	录入中	None	None
-𥩁	None	录入中	None	None
-𥨼	None	录入中	None	None
-𥩁	None	录入中	None	None
-𥩅	None	录入中	None	None
-𥩆	None	录入中	None	None
-𥨾	None	录入中	None	None
-竉	None	录入中	None	None
-𥨿	None	录入中	None	None
-竊	None	录入中	None	None
-䇁	None	录入中	None	None
-𥩊	None	录入中	None	None
-𥩋	None	录入中	None	None
-𥩐	None	录入中	None	None
-𥩌	None	录入中	None	None
-𥩑	None	录入中	None	None
-𥩓	None	录入中	None	None
-𥩒	None	录入中	None	None
-𥩔	None	录入中	None	None
+竈	zao4	生火炊煮食物的设备 也作=𫁘 如：锅灶；陶灶；行军灶；煤气灶	None	𫁘
+竈	zao4	烧炼或锻造的设备	None	None
+竈	zao4	灶神	None	None
+竈	zao4	通=造 1.建造 2.祭名	None	造
+𥩀	tuo4	穿	None	None
+𥩂	None	=𥨒的讹字	None	𥨒
+𥨻	li4	穿	None	None
+𥨽	None	同=竂	None	竂
+𥩁	None	同=𡫬	None	𡫬
+𥨼	None	同=𥩁	None	𥩁
+𥩁	None	同=𡫬	None	𡫬
+𥩅	None	=𥩁的讹字	None	𥩁
+𥩆	None	[𥩆豆]古代食器	None	None
+𥨾	None	同=窺	None	窺
+竉	long3	孔穴	None	None
+竉	long3	地名用字	None	None
+𥨿	ji1	回阸	None	None
+竊	qie4	偷盗	None	None
+竊	qie4	盗贼	None	None
+竊	qie4	非法占据	None	None
+竊	qie4	抄袭 如：剽窃	None	None
+竊	qie4	侵害；危害	None	None
+竊	qie4	男女私通	None	None
+竊	qie4	谦辞 1.私自；私下 2.表示卑下	None	None
+竊	qie4	穴	None	None
+竊	qie4	附着	None	None
+竊	qie4	切近	None	None
+竊	qie4	副词 1.表示情态，相当于“偷偷地”、“暗地里” 如：窃听；窃笑 2.表示自谦，相当于“私下”	None	None
+竊	qie4	通=察(cha2) 考察；观察	None	察
+竊	qie4	通=淺(qian3) 浅；淡	None	淺
+䇁	si1	穴	None	None
+⿱穴⿰爿夢	None	同=㝱	None	㝱
+𥩊	None	同=𥨔(𥥧)	None	𥨔
+𥩋	None	同=竈	None	竈
+𥩐	None	同=竇	None	竇
+𥩌	tong2	风声	None	None
+𥩑	None	=䇁的讹字	None	䇁
+𥩓	None	同=竊	None	竊
+𥩒	tan2	和衣睡觉	None	None
+𥩔	ling2	穴	None	None
 疋	None	录入中	None	None
 𤴓	None	录入中	None	None
 𤴕	None	录入中	None	None
