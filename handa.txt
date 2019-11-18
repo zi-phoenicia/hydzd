@@ -51065,14 +51065,26 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥩓	None	同=竊	None	竊
 𥩒	tan2	和衣睡觉	None	None
 𥩔	ling2	穴	None	None
-疋	None	录入中	None	None
-𤴓	None	录入中	None	None
-𤴕	None	录入中	None	None
-疌	None	录入中	None	None
-𤕟	None	录入中	None	None
-疍	None	录入中	None	None
-疎	None	录入中	None	None
-𤴙	None	录入中	None	None
+疋	shu1	脚	None	None
+疋	shu1	疏记 后作=疏	None	疏
+疋	shu1	小吏 后作=胥	None	胥
+疋	ya3	正 后作=雅	None	雅
+疋	ya3	平素；向来 后作=雅	None	雅
+疋	ya3	待	None	None
+疋	pi3	同=匹	None	匹
+𤴓	ya3	正 后作=雅 ……一说=正的古字	None	雅
+𤴕	None	=足的讹字	None	足
+疌	jie2	迅速 后作=捷	None	捷
+疌	qie4	姓	None	None
+⿰仌疋	None	同=𤕟	None	𤕟
+𤕟	shu1	通达 也作=疏	None	疏
+𤕟	shu1	疏远 也作=疏	None	疏
+𤕟	shu1	姓	None	None
+疍	dan4	[疍户]水上居民，古代主要分布在长江和东南沿海一带，后集中在两广和福建沿海 旧社会由于受歧视和迫害，多在水上生活，以船为家 又称“疍民”	None	None
+疎	None	同=疏	None	疏
+𤴙	shu1	门上雕刻的窗格	None	None
+𤴙	shu1	窗格稀疏的窗子	None	None
+𤴙	xu1	滤酒的器具	None	None
 疏	None	录入中	None	None
 𤴝	None	录入中	None	None
 㽰	None	录入中	None	None
