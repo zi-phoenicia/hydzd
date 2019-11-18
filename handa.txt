@@ -50688,7 +50688,7 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 窤	guan1	地名	None	None
 𥦦	None	同=弇	None	弇
 𥦟	dian4	山下穴	None	None
-⿱穴㘴	None	同⿱安㘴	None	None
+⿱穴㘴	None	同=𥧚	None	𥧚
 窩	wo1	鸟兽昆虫的巢穴 也作=䆧 如：鸟窝；蜂窝；狼窝	None	䆧
 窩	wo1	人居住或聚集之处	None	None
 窩	wo1	指人或物体所在或所占的地方 如：挪个窝	None	None
