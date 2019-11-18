@@ -51085,18 +51085,72 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𤴙	shu1	门上雕刻的窗格	None	None
 𤴙	shu1	窗格稀疏的窗子	None	None
 𤴙	xu1	滤酒的器具	None	None
-疏	None	录入中	None	None
-𤴝	None	录入中	None	None
-㽰	None	录入中	None	None
-疐	None	录入中	None	None
-疑	None	录入中	None	None
-𩰠	None	录入中	None	None
-𤴢	None	录入中	None	None
-𤴟	None	录入中	None	None
-𤴠	None	录入中	None	None
-𤴣	None	录入中	None	None
-𤴤	None	录入中	None	None
-皮	None	录入中	None	None
+疏	shu1	疏导；开通	None	None
+疏	shu1	通	None	None
+疏	shu1	分布；陈列	None	None
+疏	shu1	分散；分开	None	None
+疏	shu1	分赐；给予	None	None
+疏	shu1	稀；阔	None	None
+疏	shu1	疏远；不亲近	None	None
+疏	shu1	距事理远，不切实际	None	None
+疏	shu1	粗略；不细密 如：疏忽；疏漏；疏于防范	None	None
+疏	shu1	粗糙	None	None
+疏	shu1	蔬菜 后作=蔬	None	蔬
+疏	shu1	空虚；浅薄 如：空疏；志大才疏	None	None
+疏	shu1	不熟悉，不熟练 如：荒疏；人地生疏	None	None
+疏	shu1	清除；排除	None	None
+疏	shu1	撤退	None	None
+疏	shu1	雕刻；画饰	None	None
+疏	shu1	窗	None	None
+疏	shu1	同=梳 1.整理头发的用具 2.整理	None	梳
+疏	shu1	通=疋(shu1) 赤脚	None	疋
+疏	shu1	通=搜(sou1) 搜索；搜寻	None	搜
+疏	shu1	姓	None	None
+疏	shu1	分条记录或分条陈述	None	None
+疏	shu1	奏章 如：《論積貯疏》；《論貴粟疏》；《街亭自貶疏》	None	None
+疏	shu1	指为古书旧注所作的阐述或进一步发挥的文字 如：注疏；义疏；疏证	None	None
+疏	shu1	书信	None	None
+疏	shu1	僧道拜忏时所分化的祝告文	None	None
+𤴝	None	同=𤴛(疐)	None	𤴛
+㽰	None	=𤴙的讹字	None	𤴙
+⿳亡罒疋	None	同=夏	None	夏
+疐	zhi4	停滞；阻碍	None	None
+疐	zhi4	颠踬；倒仆 也作=躓	None	躓
+疐	di4	用同=蒂 去掉瓜果的蒂	None	蒂
+疐	di4	通=嚏 打喷嚏	None	嚏
+疑	yi2	迷惑；不明白	None	None
+疑	yi2	疑问 如：质疑问难	None	None
+疑	yi2	怀疑 如：半信半疑	None	None
+疑	yi2	犹豫；不果断 如：迟疑	None	None
+疑	yi2	疑忌；猜忌	None	None
+疑	yi2	估量；猜度	None	None
+疑	yi2	似；好像	None	None
+疑	yi2	怪；怪异	None	None
+疑	yi2	恐惧；害怕	None	None
+疑	yi2	古代官名 供天子咨询的官	None	None
+疑	yi2	通=擬(ni3) 比拟	None	擬
+疑	ning2	止息；安定	None	None
+疑	ning2	凝聚；集结	None	None
+𩰠	xu3	同=糈 粮食	None	糈
+𤴢	zhi4	@	None	None
+𤴟	zhi4	姓	None	None
+𤴠	None	同=𨄚	None	𨄚
+𤴣	pi3	@	None	None
+𤴤	None	同=靈	None	靈
+皮	pi2	剥（皮）	None	None
+皮	pi2	人或动植物体表面的一层组织	None	None
+皮	pi2	皮革，指制过的去毛兽皮 如：皮箱；皮鞋	None	None
+皮	pi2	裘衣	None	None
+皮	pi2	兽皮制成的箭靶	None	None
+皮	pi2	制皮革的工匠	None	None
+皮	pi2	物体的表层	None	None
+皮	pi2	某些薄而平的片状物 如：铁皮；粉皮	None	None
+皮	pi2	表面；从表面上；肤浅地	None	None
+皮	pi2	有韧性；不松脆 如：皮纸；皮糖	None	None
+皮	pi2	厚颜；讨嫌 今多指调皮或因多次责罚而感觉“无所谓” 如：这孩子真皮	None	None
+皮	pi2	指我国某些戏曲的唱词或声腔 如：西皮；皮黄	None	None
+皮	pi2	橡胶质的 如：皮球；皮辊；皮筋	None	None
+皮	pi2	方言 量词 相当于“片”	None	None
 𤿆	None	录入中	None	None
 𤿇	None	录入中	None	None
 皯	None	录入中	None	None
