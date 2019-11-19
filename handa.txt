@@ -51151,49 +51151,65 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 皮	pi2	指我国某些戏曲的唱词或声腔 如：西皮；皮黄	None	None
 皮	pi2	橡胶质的 如：皮球；皮辊；皮筋	None	None
 皮	pi2	方言 量词 相当于“片”	None	None
-𤿆	None	录入中	None	None
-𤿇	None	录入中	None	None
-皯	None	录入中	None	None
-𤿊	None	录入中	None	None
-𤿋	None	录入中	None	None
-𤿌	None	录入中	None	None
-𤿉	None	录入中	None	None
-𤿈	None	录入中	None	None
-㿪	None	录入中	None	None
-𤿐	None	录入中	None	None
-𤿎	None	录入中	None	None
-㿫	None	录入中	None	None
-𤿒	None	录入中	None	None
-𤿏	None	录入中	None	None
-𤿓	None	录入中	None	None
-𤿑	None	录入中	None	None
-𤿔	None	录入中	None	None
-㿬	None	录入中	None	None
-𤿗	None	录入中	None	None
-𤿖	None	录入中	None	None
-𤿜	None	录入中	None	None
-𤿛	None	录入中	None	None
-𤿞	None	录入中	None	None
-𤿝	None	录入中	None	None
-𤿚	None	录入中	None	None
-㿮	None	录入中	None	None
-㿭	None	录入中	None	None
-皱	None	录入中	None	None
-皰	None	录入中	None	None
-𤿕	None	录入中	None	None
-𤿘	None	录入中	None	None
-𤿠	None	录入中	None	None
-𤿙	None	录入中	None	None
-𤿣	None	录入中	None	None
-𤿤	None	录入中	None	None
-㿯	None	录入中	None	None
-𤿡	None	录入中	None	None
-𤿟	None	录入中	None	None
-𤿥	None	录入中	None	None
-㿰	None	录入中	None	None
-皲	None	录入中	None	None
-㿱	None	录入中	None	None
-皳	None	录入中	None	None
+皮	pi2	通=彼(bi3) 那；那个	None	彼
+皮	pi2	姓	None	None
+𤿆	zheng3	皮肤急貌	None	None
+𤿇	None	同=㓟	None	㓟
+皯	gan3	皮肤黧黑枯槁	None	None
+𤿊	None	同=皯	None	皯
+𤿋	que4	皮皴	None	None
+𤿌	None	同=皮	None	皮
+𤿉	None	同=𤿈(𦢊)	None	𤿈
+𤿈	bao4	同=𦣃(𦢊) 腐肉突起 一说皮破	None	𦣃
+𤿈	bao4	同=㿺 表皮凸起	None	㿺
+㿪	huan2	皮病	None	None
+𤿐	pi1	[𤿐䙹]开口貌	None	None
+𤿐	pi1	同=披 张开	None	披
+𤿎	pi1	同=㩺 器物出现裂纹，破损	None	㩺
+𤿎	pi1	同=披	None	披
+㿫	bi4	劈麻苧㿫头	None	None
+𤿒	bei3	同=𤿏 柔软的皮革	None	𤿏
+𤿏	nan3	柔软的皮革	None	None
+𤿓	fa1	@	None	None
+𤿑	bo3	同=跛 跛脚	None	跛
+𤿔	None	同=皰	None	皰
+㿬	ba1	[㿬皻]鼻病	None	None
+㿬	ba1	同=疤	None	疤
+㿬	ba1	同=巴 盼望	None	巴
+𤿗	wa4	同=韤(袜) 袜子	None	韤
+𤿖	mo4	皮	None	None
+𤿜	None	同=𧹞	None	𧹞
+𤿛	None	同=辜	None	辜
+𤿞	None	古国名用字	None	None
+𤿝	None	同=皷	None	皷
+𤿚	ou1	[皴𤿚]皮肤粗糙皴裂	None	None
+㿮	yang4	青貌	None	None
+㿮	yang4	面色青黑	None	None
+㿭	che4	皮肤皱裂	None	None
+㿭	le4	姓	None	None
+皱	None	=皺	None	皺
+皰	pao4	面疮	None	None
+皰	pao4	皮肤上起的像水泡的小疙瘩	None	None
+皰	pao4	眼皮	None	None
+𤿕	min3	皮纹理细	None	None
+𤿘	zhao1	皮肉上的薄膜	None	None
+𤿠	ji2	皮黑	None	None
+𤿙	zhi4	[𤿙皺]皮不展	None	None
+𤿙	pi2	[𤿙攋]方言 犹赖皮	None	None
+𤿣	cheng2	@	None	None
+𤿤	None	同=皮	None	皮
+㿯	da2	皮宽	None	None
+𤿡	gui4	同=攰(㩻) 疲倦	None	攰
+𤿡	qi2	同=㩻 不正	None	㩻
+𤿟	xun2	脚的皮肤裂开	None	None
+𤿥	None	同=皺	None	皺
+㿰	ao2	皮坚	None	None
+㿰	bi4	皮干声	None	None
+皲	None	=皸的简化字	None	皸
+㿱	xue2	干枯	None	None
+㿱	xue2	撮取皮；剥刮	None	None
+㿱	xue2	乱	None	None
+皳	qiu2	同=毬 古代习武用的球，用皮革做球皮，用毛填充，杖击或足踢 古称踘丸、皮丸	None	毬
 𤿭	None	录入中	None	None
 𤿨	None	录入中	None	None
 𤿧	None	录入中	None	None
