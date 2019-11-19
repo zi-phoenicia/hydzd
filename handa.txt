@@ -51459,22 +51459,29 @@
 務	mao4	通=瞀 昏乱；眩惑	None	瞀
 務	mao4	通=冃(冒) 冠	None	冃
 𥍤	None	同=矛	None	矛
-𥍰	None	录入中	None	None
-䂈	None	录入中	None	None
-𥍨	None	录入中	None	None
-𥍧	None	录入中	None	None
-𥍭	None	录入中	None	None
-矟	None	录入中	None	None
-矞	None	录入中	None	None
-𥍱	None	录入中	None	None
-𥍪	None	录入中	None	None
-𥍮	None	录入中	None	None
-𥍫	None	录入中	None	None
-𥍯	None	录入中	None	None
-𥍬	None	录入中	None	None
-矠	None	录入中	None	None
-𥍼	None	录入中	None	None
-𥍲	None	录入中	None	None
+𥍰	None	同=𥍠(䂆)	None	𥍠
+䂈	tong2	刺	None	None
+𥍨	gui3	短矛	None	None
+𥍧	None	同=𥍠(䂆)	None	𥍠
+𥍭	zhi4	矛	None	None
+矟	shuo4	同=槊 长矛	None	槊
+矞	yu4	以锥穿物	None	None
+矞	yu4	溢出	None	None
+矞	yu4	祥瑞的彩云	None	None
+矞	jue2	同=譎 诡诈	None	譎
+矞	xu4	惊惧貌	None	None
+𥍱	ze2	矛一类的兵器	None	None
+𥍪	zhai4	矛一类的兵器	None	None
+𥍮	feng2	[𥍮𥎂]矛的一种	None	None
+𥍮	feng1	矛一类的兵器	None	None
+𥍫	lang2	矛一类的兵器	None	None
+𥍯	qin1	锥	None	None
+𥍬	cuan1	矛	None	None
+矠	ze2	矛一类的兵器	None	None
+矠	ze2	以叉矛刺取鱼鳖等物	None	None
+矠	zhuo2	同=捔 刺	None	捔
+𥍼	ying1	同=英 以羽饰矛	None	英
+𥍲	na4	柔	None	None
 𥍳	None	录入中	None	None
 𥍴	None	录入中	None	None
 𥍵	None	录入中	None	None
