@@ -51406,22 +51406,59 @@
 𤼹	None	同=𤼺	None	𤼺
 𤼺	fei4	赋敛；征税	None	None
 𤳘	teng1	用力使物体伸长	None	None
-矛	None	录入中	None	None
-𥍝	None	录入中	None	None
-䂆	None	录入中	None	None
-𥍞	None	录入中	None	None
-𥍠	None	录入中	None	None
-矜	None	录入中	None	None
-𥍟	None	录入中	None	None
-䂇	None	录入中	None	None
-𥍥	None	录入中	None	None
-𥍣	None	录入中	None	None
-𥍦	None	录入中	None	None
-𥍢	None	录入中	None	None
-𥍡	None	录入中	None	None
-矝	None	录入中	None	None
-務	None	录入中	None	None
-𥍤	None	录入中	None	None
+矛	mao2	一种直刺兵器 长柄，有刃 殷、周时期矛头用青铜制成，汉代以后盛行铁矛	None	None
+矛	mao2	星名 又名招摇	None	None
+矛	mao2	方言 虫名 可入药	None	None
+矛	mao2	姓 今陕西省有此姓	None	None
+𥍝	shu3	@	None	None
+䂆	xu4	矛一类的兵器	None	None
+𥍞	None	同=䂇	None	䂇
+⿰矛攴	None	同=務	None	務
+𥍠	None	同=𥍟(䂆)	None	𥍟
+矜	qin2	矛或戈戟的柄，也指作兵器的杖	None	None
+矜	jin1	怜悯；同情	None	None
+矜	jin1	惜；惋惜	None	None
+矜	jin1	劳苦	None	None
+矜	jin1	凶险；危险	None	None
+矜	jin1	戒惧；谨慎	None	None
+矜	jin1	端庄；严肃	None	None
+矜	jin1	敬重；崇尚	None	None
+矜	jin1	骄傲；自负	None	None
+矜	jin1	夸大	None	None
+矜	jin1	文饰；美化	None	None
+矜	jin1	急遽；急躁	None	None
+矜	jin1	奋力振动	None	None
+矜	jin1	竦	None	None
+矜	jin1	禽	None	None
+矜	jin1	通=賢(xian2) 品德高尚	None	賢
+矜	jin1	通=慬(jin3) 勇	None	慬
+矜	guan1	同=鰥 无妻的老人 也泛指无妻的人	None	鰥
+矜	guan1	同=瘝 病	None	瘝
+𥍟	xu4	同=䂆 矛一类的兵器	None	䂆
+𥍟	yi4	同=鈠 小矛	None	鈠
+䂇	niu3	刺	None	None
+𥍥	None	同=矛	None	矛
+𥍣	hao4	矛一类的兵器	None	None
+𥍦	None	同=務	None	務
+𥍢	None	同=鍦	None	鍦
+𥍡	None	同=矠	None	矠
+矝	None	同=矜	None	矜
+務	wu4	专力从事	None	None
+務	wu4	追求；谋求 如：贪多务得	None	None
+務	wu4	紧要的事情	None	None
+務	wu4	事；事情 如：公务；税务；家务	None	None
+務	wu4	工作；职业	None	None
+務	wu4	古代官署名 多为掌管贸易和税收的机构	None	None
+務	wu4	方言 墟市；集市	None	None
+務	wu4	店铺 宋元俗语多指酒店	None	None
+務	wu4	必须；一定 如：务必；务须；务请出席	None	None
+務	wu4	姓	None	None
+務	wu3	通=侮	None	侮
+務	wu2	[務婁]古邑名	None	None
+務	mao2	同=嵍 山丘前高后低	None	嵍
+務	mao4	通=瞀 昏乱；眩惑	None	瞀
+務	mao4	通=冃(冒) 冠	None	冃
+𥍤	None	同=矛	None	矛
 𥍰	None	录入中	None	None
 䂈	None	录入中	None	None
 𥍨	None	录入中	None	None
