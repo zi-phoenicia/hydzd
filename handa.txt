@@ -51543,24 +51543,49 @@
 矡	jue2	锥	None	None
 𥎤	cuan4	同=鑹 小矟	None	鑹
 𥎥	None	同=𥎞(䂎)	None	𥎞
-耒	None	录入中	None	None
-𦓤	None	录入中	None	None
-耓	None	录入中	None	None
-𦓧	None	录入中	None	None
-𦓥	None	录入中	None	None
-𦓪	None	录入中	None	None
-䎢	None	录入中	None	None
-𦓨	None	录入中	None	None
-耔	None	录入中	None	None
-耕	None	录入中	None	None
-耘	None	录入中	None	None
-耟	None	录入中	None	None
-耖	None	录入中	None	None
-耗	None	录入中	None	None
-耙	None	录入中	None	None
-䎣	None	录入中	None	None
-𦓮	None	录入中	None	None
-𦓬	None	录入中	None	None
+耒	lei3	古代翻土农具耜的曲木柄	None	None
+耒	lei3	犁	None	None
+𦓤	lie4	禾麦知多少	None	None
+⿻丿耒	None	同=耒	None	耒
+耓	ting1	耜	None	None
+𦓧	ba1	同=朳 无齿耙	None	朳
+𦓥	lei3	[𨝀𦓥]墝埆	None	None
+𦓪	None	同=䎢	None	䎢
+䎢	qi3	用升斗量物	None	None
+䎢	qi3	耜一类农具	None	None
+𦓨	None	同=耜	None	耜
+耔	zi3	培土	None	None
+耔	zi3	植物种子	None	None
+耔	zi3	拥苗器	None	None
+耕	geng1	犁田	None	None
+耕	geng1	从事农业劳动	None	None
+耕	geng1	致力于某种事业	None	None
+耕	geng1	致力不怠	None	None
+耕	geng1	齐	None	None
+耘	yun2	除草	None	None
+耘	yun2	除掉；锄去	None	None
+耘	yun2	培土	None	None
+耟	None	同=秬	None	秬
+耖	chao4	农具名 似耙，齿密长，碎土更细	None	None
+耖	chao4	土壤耕翻后再进行的浅耕松土作业	None	None
+耗	hao4	同=秏 稻属	None	秏
+耗	hao4	凶；荒	None	None
+耗	hao4	亏损	None	None
+耗	hao4	消费	None	None
+耗	hao4	空虚	None	None
+耗	hao4	衰败；凋敝	None	None
+耗	hao4	瘠薄	None	None
+耗	hao4	音信；消息 如：音耗；噩耗	None	None
+耗	hao4	姓	None	None
+耗	mao2	独貌	None	None
+耗	mao2	无有；罄尽	None	None
+耗	mao4	通=眊 不明；混乱	None	眊
+耙	ba4	用于碎土和平地的农具 按工作部分不同分齿耙、无齿耙、圆盘耙等	None	None
+耙	ba4	用耙碎土平地 如：三犁三耙	None	None
+耙	pa2	扒翻谷物及聚散柴草等的用具，用木、铁、竹制成 如：木齿耙；铁齿耙；竹齿耙 也指用耙扒翻谷物或聚散柴草等 如：把谷子耙开晒晒	None	None
+䎣	None	同=耜	None	耜
+𦓮	None	同=耕	None	耕
+𦓬	cheng1	耒	None	None
 耝	None	录入中	None	None
 耜	None	录入中	None	None
 耞	None	录入中	None	None
