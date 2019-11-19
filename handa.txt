@@ -51283,55 +51283,87 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𥀗	None	同=㿸	None	㿸
 𥀖	zi1	手脚掌上所起的趼	None	None
 𥀙	None	同=皺	None	皺
-𥀔	None	录入中	None	None
-𥀝	None	录入中	None	None
-𥀘	None	录入中	None	None
-𥀢	None	录入中	None	None
-㿹	None	录入中	None	None
-𥀥	None	录入中	None	None
-𦡨	None	录入中	None	None
-𥀠	None	录入中	None	None
-𥀟	None	录入中	None	None
-𥀡	None	录入中	None	None
-𪔏	None	录入中	None	None
-𥀦	None	录入中	None	None
-𥀨	None	录入中	None	None
-𥀩	None	录入中	None	None
-𥀤	None	录入中	None	None
-𥀣	None	录入中	None	None
-皽	None	录入中	None	None
-𥀧	None	录入中	None	None
-𥀯	None	录入中	None	None
-𥀬	None	录入中	None	None
-𥀭	None	录入中	None	None
-𥀫	None	录入中	None	None
-𥀮	None	录入中	None	None
-𥀱	None	录入中	None	None
-𥀲	None	录入中	None	None
-皾	None	录入中	None	None
-㿺	None	录入中	None	None
-𥀰	None	录入中	None	None
-𥀵	None	录入中	None	None
-𥀴	None	录入中	None	None
-𥀸	None	录入中	None	None
-𥀶	None	录入中	None	None
-𥀹	None	录入中	None	None
-𥀺	None	录入中	None	None
-𥀻	None	录入中	None	None
-𥀼	None	录入中	None	None
-𥀽	None	录入中	None	None
-𥀾	None	录入中	None	None
-癶	None	录入中	None	None
-𤼦	None	录入中	None	None
-𤼥	None	录入中	None	None
-癸	None	录入中	None	None
-𤼧	None	录入中	None	None
-癹	None	录入中	None	None
-𤼩	None	录入中	None	None
-𤼪	None	录入中	None	None
-𤼬	None	录入中	None	None
-𤼮	None	录入中	None	None
-登	None	录入中	None	None
+𥀔	lu4	兽皮有纹貌	None	None
+𥀝	niu4	@	None	None
+𥀘	pi3	列名	None	None
+𥀢	None	同=鼖	None	鼖
+㿹	ta4	表皮凸起	None	None
+𥀥	la4	[𥀥㿴]也作“=𥀰㿴” 皮貌	None	𥀰
+𦡨	san3	杂肉	None	None
+𥀠	hui4	@	None	None
+𥀟	None	同=皵	None	皵
+𥀡	None	同=羆	None	羆
+𪔏	deng1	鼓声	None	None
+𥀦	None	同=羆	None	羆
+𥀨	None	同=孕	None	孕
+𥀩	None	同=𥀨(孕)	None	𥀨
+𥀤	None	同=㿸	None	㿸
+𥀣	xue2	[𥀣𤿩]干	None	None
+𥀣	qiao4	方言 黏物不熨帖	None	None
+皽	zhao1	同=𤿘 皮肉上的薄膜	None	𤿘
+皽	zhan3	皮离	None	None
+皽	dan3	面部皮肤病	None	None
+𥀧	None	同=羆	None	羆
+𥀯	None	同=袜	None	袜
+𥀬	yan3	疮痂	None	None
+𥀬	ye4	方言 鱼鳞	None	None
+𥀭	ran3	同=𡰫 柔皮	None	𡰫
+𥀫	nou2	柔革	None	None
+𥀫	ran3	柔皮	None	None
+𥀮	nao3	@	None	None
+𥀱	guang3	长大貌	None	None
+𥀲	du2	[𥀲丸]也作“𥀲㿪” 藏弓箭的器具	None	None
+皾	du2	同=韇 藏弓箭的器具	None	韇
+皾	du2	滑	None	None
+㿺	bao2	[㿺𤿈]表面凸起	None	None
+㿺	bao2	同=𦢊 腐肉突起	None	𦢊
+𥀰	la3	[𥀰㿴]1.皮瘦宽貌 2.腥羶	None	None
+𥀵	lu2	同=臚 1.皮肤 2.肚腹前部	None	臚
+𥀵	lu2	离	None	None
+𥀴	None	同=欹	None	欹
+𥀸	None	同=𥀝	None	𥀝
+𥀶	None	=𣀮的讹字	None	𣀮
+𥀹	jian3	同=趼 手足老皮	None	趼
+𥀺	xie4	和	None	None
+𥀻	qi4	鼓声	None	None
+𥀻	qi4	守夜鼓	None	None
+𥀼	None	同=𪔳	None	𪔳
+𥀽	None	同=𥀻	None	𥀻
+𥀾	xiang4	@	None	None
+癶	bo1	两足分张不正，行而不顺	None	None
+𤼦	None	同=發	None	發
+𤼥	None	同=躋	None	躋
+癸	gui3	估量；揆度	None	None
+癸	gui3	天干的末位，用以纪年、月、日	None	None
+癸	gui3	序数第十的代称	None	None
+癸	gui3	姓	None	None
+𤼧	None	同=癹	None	癹
+癹	ba2	用脚蹋除草	None	None
+𤼩	None	同=癸	None	癸
+𤼪	None	同=登	None	登
+𤼬	None	同=班	None	班
+𤼮	gui1	@	None	None
+登	deng1	升；自下而上	None	None
+登	deng1	高	None	None
+登	deng1	升迁；提拔	None	None
+登	deng1	成熟	None	None
+登	deng1	实现；完成	None	None
+登	deng1	增加	None	None
+登	deng1	进献	None	None
+登	deng1	上册；登载	None	None
+登	deng1	科举考试中选	None	None
+登	deng1	捕取	None	None
+登	deng1	祭祀时盛肉食的礼器	None	None
+登	deng1	副词 表示时态，相当于“当即”、“立刻”	None	None
+登	deng1	进入；放入	None	None
+登	deng1	呆；停留	None	None
+登	deng1	掂量	None	None
+登	deng1	姓	None	None
+登	deng1	踩；走过	None	None
+登	deng1	腿和脚向脚底的方向用力	None	None
+登	deng1	延长距离	None	None
+登	deng1	拉	None	None
+登	de2	通=得	None	得
 𤼯	None	录入中	None	None
 𤼰	None	录入中	None	None
 𤼲	None	录入中	None	None
