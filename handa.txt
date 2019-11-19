@@ -51586,32 +51586,52 @@
 䎣	None	同=耜	None	耜
 𦓮	None	同=耕	None	耕
 𦓬	cheng1	耒	None	None
-耝	None	录入中	None	None
-耜	None	录入中	None	None
-耞	None	录入中	None	None
-耚	None	录入中	None	None
-耛	None	录入中	None	None
-𦓯	None	录入中	None	None
-𦓳	None	录入中	None	None
-𦓰	None	录入中	None	None
-耠	None	录入中	None	None
-𦓱	None	录入中	None	None
-𦓺	None	录入中	None	None
-𦫎	None	录入中	None	None
-𦓷	None	录入中	None	None
-耢	None	录入中	None	None
-𦓴	None	录入中	None	None
-耡	None	录入中	None	None
-𦓵	None	录入中	None	None
-䎤	None	录入中	None	None
-耤	None	录入中	None	None
-𦔃	None	录入中	None	None
-𦓹	None	录入中	None	None
-䎨	None	录入中	None	None
-耥	None	录入中	None	None
-䎪	None	录入中	None	None
-𦓼	None	录入中	None	None
-𦓻	None	录入中	None	None
+耝	qu4	翻松土壤	None	None
+耝	qu4	古地名 故地在今河南省滑县东	None	None
+耝	chu2	同=耡	None	耡
+耜	si4	耒下端铲土的部分 装在犁上，用以翻土 先以木为之，后改用金属	None	None
+耞	jia1	农具名，即连枷 用以脱粒 也作=枷	None	枷
+耚	pi1	耕地	None	None
+耚	pi1	小高	None	None
+耛	yi2	同=枱 犁上的铧	None	枱
+耛	chi2	[耘耛]除草	None	None
+𦓯	gui1	农具名 多齿耙	None	None
+𦓯	gui1	耕地	None	None
+𦓳	gong3	@	None	None
+𦓰	quan2	耕	None	None
+耠	huo1	农具名 即耠子 比犁轻便，用以松土 如：锄耠子；耩花耠子	None	None
+耠	huo1	用耠子松土 如：耠地；耠青耘草	None	None
+𦓱	ge2	耕	None	None
+𦓺	zheng1	犁上木	None	None
+𦫎	gun3	再耕	None	None
+𦓷	None	同=耘	None	耘
+耢	None	=耢的简化字	None	耢
+𫅼	None	=𦔖的类推简化字	None	𦔖
+𦓴	shao4	遍种	None	None
+𦓴	shao2	种植	None	None
+耡	chu2	古代税法名	None	None
+耡	chu2	佐助	None	None
+耡	chu2	古代里宰治事处	None	None
+耡	chu2	锄头	None	None
+耡	chu2	挖土	None	None
+耡	chu2	铲除	None	None
+𦓵	None	同=耜	None	耜
+⿰耒困	None	同=稇	None	稇
+䎤	ju2	农具名	None	None
+䎤	ju2	耕	None	None
+耤	ji2	古代天子亲耕之田 亲耕劝农之后，借民力耕种 后作=藉	None	藉
+耤	ji2	同=藉 租税	None	藉
+耤	jie4	同=藉 1.古代祭祀所用衬垫之物 2.借助	None	藉
+𦔃	ying1	草茸	None	None
+𦓹	lai2	耕	None	None
+䎨	ye4	耕种	None	None
+䎨	an3	同=㽢 种田	None	㽢
+耥	tang1	农具名 1.耥耙 形状像木屐，底下有许多铁钉，上面有木柄 可在稻田行间推拉，松土除草 2.田耥 用于平整水田 耥耙上的柄端贯以横木，用以匀熟泥土，耥平田面	None	None
+耥	tang1	用耥松土、除草或弄平田地 如：把田面耥平	None	None
+䎪	ne4	稻类脱粒后的秸秆	None	None
+䎪	ne4	槌谷具	None	None
+𦓼	gun3	耕	None	None
+𦓻	yi4	同=𦔥 耕	None	𦔥
 𦓾	None	录入中	None	None
 𦓽	None	录入中	None	None
 𦓸	None	录入中	None	None
