@@ -51632,61 +51632,105 @@
 䎪	ne4	槌谷具	None	None
 𦓼	gun3	耕	None	None
 𦓻	yi4	同=𦔥 耕	None	𦔥
-𦓾	None	录入中	None	None
-𦓽	None	录入中	None	None
-𦓸	None	录入中	None	None
-耣	None	录入中	None	None
-䎧	None	录入中	None	None
-䎦	None	录入中	None	None
-𦔁	None	录入中	None	None
-䎩	None	录入中	None	None
-𦔋	None	录入中	None	None
-𦔆	None	录入中	None	None
-𦔄	None	录入中	None	None
-𦔂	None	录入中	None	None
-耦	None	录入中	None	None
-𦔈	None	录入中	None	None
-𦔉	None	录入中	None	None
-䎫	None	录入中	None	None
-耧	None	录入中	None	None
-𦔅	None	录入中	None	None
-耩	None	录入中	None	None
-𦔌	None	录入中	None	None
-𦔏	None	录入中	None	None
-𦔖	None	录入中	None	None
-𦔍	None	录入中	None	None
-耨	None	录入中	None	None
-𦔎	None	录入中	None	None
-𦔐	None	录入中	None	None
-䎬	None	录入中	None	None
-䎭	None	录入中	None	None
-𦔓	None	录入中	None	None
-耪	None	录入中	None	None
-𦔑	None	录入中	None	None
-耫	None	录入中	None	None
-䎯	None	录入中	None	None
-𦔠	None	录入中	None	None
-耬	None	录入中	None	None
-𦔔	None	录入中	None	None
-𦔜	None	录入中	None	None
-𦔕	None	录入中	None	None
-𦔗	None	录入中	None	None
-䎮	None	录入中	None	None
-𦔘	None	录入中	None	None
-䎰	None	录入中	None	None
-𦔡	None	录入中	None	None
-𦔟	None	录入中	None	None
-𦔛	None	录入中	None	None
-𦔝	None	录入中	None	None
-𦔞	None	录入中	None	None
-耮	None	录入中	None	None
-𦔢	None	录入中	None	None
-耭	None	录入中	None	None
-耯	None	录入中	None	None
-𦔨	None	录入中	None	None
-𦔥	None	录入中	None	None
-𦔦	None	录入中	None	None
-耰	None	录入中	None	None
+𦓾	lun3	[耣𦓾]束禾	None	None
+𦓾	lun3	同=耣 束	None	耣
+𦓾	lun3	同=稐 禾束	None	稐
+𦓾	kun3	同=稛 捆扎	None	稛
+𦓽	wei1	同=㮃 农具名	None	㮃
+𦓸	None	=𥱼的讹字	None	𥱼
+耣	lun3	束	None	None
+耣	lun3	同=稐 禾束	None	稐
+耣	lun2	耕	None	None
+䎧	bang4	耜一类的农具	None	None
+䎧	pou2	耕	None	None
+䎦	yan3	耕	None	None
+䎦	yan3	锋利的铧	None	None
+𦔁	None	同=䎤	None	䎤
+䎩	zi1	耕	None	None
+䎩	zi1	同=菑 第一年耕种的荒地	None	菑
+𦔋	rong3	同=茸 草初生貌	None	茸
+𦔆	bi4	禾	None	None
+𦔆	bi4	治黍豆	None	None
+𦔄	sheng3	麦	None	None
+𦔂	shi1	毒出虿尾	None	None
+耦	ou3	古农具名 耜类 耕广五寸为伐，二伐为耦	None	None
+耦	ou3	古代二人一组的耕作方法	None	None
+耦	ou3	一对，两个一组	None	None
+耦	ou3	双生	None	None
+耦	ou3	配偶	None	None
+耦	ou3	两者；双方	None	None
+耦	ou3	双数	None	None
+耦	ou3	合；和谐	None	None
+耦	ou3	与……匹敌	None	None
+耦	ou3	对着；相对 如：耦坐	None	None
+耦	ou3	同伴	None	None
+耦	ou3	流辈，同辈或同一流的人	None	None
+耦	ou3	同等；并列	None	None
+耦	ou3	淤积	None	None
+耦	ou3	贯通	None	None
+耦	ou3	偶像	None	None
+耦	ou3	姓	None	None
+𦔈	ze2	@	None	None
+𦔉	zhong4	同=種 种植	None	種
+䎫	zong1	同=堫 种	None	堫
+耧	None	=耬的简化字	None	耬
+𦔅	tu2	耕	None	None
+耩	jiang3	耕	None	None
+耩	jiang3	耘田除草	None	None
+耩	jiang3	培土	None	None
+耩	jiang3	用耧车播种或用粪耧施肥	None	None
+𦔌	qi2	种麦	None	None
+𦔌	shi4	同=蒔 分苗栽种	None	蒔
+𦔏	None	同=耠	None	耠
+𦔖	lian2	[𦔖耞]即=連耞 农具名 用以脱粒	None	連
+𦔍	fu4	农具名	None	None
+耨	nou4	农具名 像锄，用以除草	None	None
+耨	nou4	除草	None	None
+耨	nou4	骂	None	None
+耨	nou4	男女间纵情相悦的情态	None	None
+耨	nou4	呻吟	None	None
+耨	nou4	姓	None	None
+𦔎	ce4	犁上的铧	None	None
+𦔎	ce4	同=畟 耜利	None	畟
+𦔐	None	同=耘	None	耘
+䎬	None	=䎱的简化字	None	䎱
+䎭	cao1	农具名 以荆条等编成，用来平整耕地	None	None
+䎭	cao1	用䎭平整土地	None	None
+𦔓	li2	种植	None	None
+耪	pang3	松土	None	None
+𦔑	None	同=䎧	None	䎧
+耫	zha2	农具	None	None
+耫	ze2	种植	None	None
+耫	ze2	灰中种	None	None
+䎯	None	同=𤳉	None	𤳉
+𦔠	pai4	种植	None	None
+耬	lou2	农具名 耧犁 用于播种 由耧腿、耧斗及机架构成 也叫“耧子”、“耧车”、“耧子”、“耦犁”	None	None
+耬	lou3	同=䅹 松土	None	䅹
+𦔔	man2	遍种	None	None
+𦔔	man4	不莳田，即种子田	None	None
+𦔜	yi4	耕种	None	None
+𦔕	None	=䎫的讹字	None	䎫
+𦔗	biao1	同=𦔩(穮) 耘田除草	None	𦔩
+䎮	ti4	种植	None	None
+𦔘	None	同=耨	None	耨
+䎰	zuo4	同=䣢 1.古地名 在四川省 2.姓	None	䣢
+𦔡	None	同=耤	None	耤
+𦔟	None	同=𦔓	None	𦔓
+𦔛	chuang2	播种	None	None
+𦔝	None	同=䎮	None	䎮
+𦔞	None	同=徹	None	徹
+耮	lao4	农具名 又名“耱”或“盖” 长方形，用荆条或藤条编成，用来平整地面和松田保墒	None	None
+耮	lao4	用耢平整土地 如：耢地	None	None
+⿰耒尋	None	同=耨	None	耨
+𦔢	None	同=耤	None	耤
+耭	ji1	耕	None	None
+耯	huo4	同=穫 收割谷物	None	穫
+𦔨	None	同=𦔔	None	𦔔
+𦔥	yi4	耕	None	None
+𦔥	shi4	耕貌	None	None
+⿰耒𥇡	None	同=𦔥	None	𦔥
+𦔦	kuai4	农具名	None	None
+耰	you1	同=櫌 古农具 形如𨱍头，用来击碎土块，平整土地	None	櫌
 𦔪	None	录入中	None	None
 䎱	None	录入中	None	None
 𦔩	None	录入中	None	None
