@@ -51830,27 +51830,46 @@
 𧂕	None	同=𦽡	None	𦽡
 𦓋	wang4	@	None	None
 𦓍	che3	@	None	None
-耳	None	录入中	None	None
-耴	None	录入中	None	None
-𦔮	None	录入中	None	None
-耵	None	录入中	None	None
-𦔯	None	录入中	None	None
-𦔴	None	录入中	None	None
-𦔵	None	录入中	None	None
-𦔱	None	录入中	None	None
-𦔰	None	录入中	None	None
-耶	None	录入中	None	None
-𦔶	None	录入中	None	None
-𦔸	None	录入中	None	None
-耷	None	录入中	None	None
-𦔻	None	录入中	None	None
-𦔺	None	录入中	None	None
-𦔹	None	录入中	None	None
-𦔷	None	录入中	None	None
-䎴	None	录入中	None	None
-𦔾	None	录入中	None	None
-𦔿	None	录入中	None	None
-耺	None	录入中	None	None
+耳	er3	听觉和平衡的器官 人和哺乳动物的耳分外耳、中耳和内耳三部分 内耳主管听觉和全身平衡	None	None
+耳	er3	闻；听	None	None
+耳	er3	附在物体两旁便于提举的结构	None	None
+耳	er3	谷物在久雨后所生的芽	None	None
+耳	er3	日晕	None	None
+耳	er3	语气词 1.表示限止，相当于“而已”、“罢了” 2.表示肯定或语句的停顿与结束 相当于“了”、“啊”、“也”	None	None
+耳	er3	连词 表转折关系，相当于=而	None	而
+耳	er3	姓	None	None
+耳	reng2	[耳孫]古称从本身下数到八世孙为耳孙 也作“=仍孙”	None	仍
+耴	yi4	[聱耴]1.众多的声音 2.鱼鸟的状态	None	None
+𦔮	zhe2	耳朵下垂	None	None
+𦔮	zhe2	姓	None	None
+耵	ding1	[耵聹]耳孔后部有耵聍腺，常分泌一种黄色脂肪质蜡样物，名曰耵聍 通称耳垢，俗称耳屎	None	None
+𦔯	sha4	姓	None	None
+𦔴	None	同=聞	None	聞
+𦔵	None	同=聞	None	聞
+𦔱	None	=馗的讹字	None	馗
+𦔰	sha4	同=𦔯	None	𦔯
+𦔰	xu1	同=胥(須) 等待	None	胥
+耶	ye2	父亲 后作=爺	None	爺
+耶	ye2	语气词 表示疑问 相当于“吗”、“呢”	None	None
+耶	ye2	助词 用在句中起调整音节的作用，相当于“也”	None	None
+耶	xie2	同=邪 不正当	None	邪
+耶	ye1	耶稣或耶稣教的简称	None	None
+𦔶	None	同=耶	None	耶
+𦔸	gong1	迷信者所谓“耳闻鬼”	None	None
+耷	da1	大耳	None	None
+耷	da1	下垂 如：耷拉着脑袋	None	None
+耷	zhe2	同=𦔮 耳下垂	None	𦔮
+𦔻	None	同=聖	None	聖
+𦔺	None	同=恥	None	恥
+𦔹	nai4	[睉𦔹]同“睉=䀑” 见“睉”	None	䀑
+𦔷	yao1	[𦗖𦔷]耳鸣	None	None
+䎴	geng1	传说中的神名	None	None
+䎴	sheng4	同=聖	None	聖
+𦔾	None	=𥄑的讹字	None	𥄑
+𦔿	tian4	同=𦗁(瑱) 古时用玉器塞耳	None	𦗁
+耺	yun2	耳中声	None	None
+耺	yun2	钟鼓声	None	None
+耺	ying2	[耺耾]象声词	None	None
 耾	None	录入中	None	None
 𦕆	None	录入中	None	None
 聀	None	录入中	None	None
