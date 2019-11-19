@@ -51364,19 +51364,48 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 登	deng1	延长距离	None	None
 登	deng1	拉	None	None
 登	de2	通=得	None	得
-𤼯	None	录入中	None	None
-𤼰	None	录入中	None	None
-𤼲	None	录入中	None	None
-發	None	录入中	None	None
-𤼳	None	录入中	None	None
-𤼴	None	录入中	None	None
-𤼵	None	录入中	None	None
-𤼶	None	录入中	None	None
-𤼷	None	录入中	None	None
-𧶢	None	录入中	None	None
-𤼹	None	录入中	None	None
-𤼺	None	录入中	None	None
-𤳘	None	录入中	None	None
+𤼯	None	=癹的讹字	None	癹
+𤼰	None	=𤼺的讹字	None	𤼺
+𤼲	None	同=發	None	發
+發	fa1	发射 如：百发百中	None	None
+發	fa1	离去；启行	None	None
+發	fa1	派遣	None	None
+發	fa1	送出；交付	None	None
+發	fa1	出；生 如：发芽；发电	None	None
+發	fa1	发端；开始	None	None
+發	fa1	行；举事	None	None
+發	fa1	启动；震动	None	None
+發	fa1	开启；打开	None	None
+發	fa1	征召；征集	None	None
+發	fa1	启发；阐明	None	None
+發	fa1	发布；公布	None	None
+發	fa1	散发	None	None
+發	fa1	兴起；兴旺	None	None
+發	fa1	高扬	None	None
+發	fa1	张大；扩大 如：发展；发扬；发育	None	None
+發	fa1	揭露	None	None
+發	fa1	显现；呈现	None	None
+發	fa1	毁坏	None	None
+發	fa1	卸下；解开	None	None
+發	fa1	持举	None	None
+發	fa1	标示	None	None
+發	fa1	感到（多指不愉快的情况） 如：发痒；发晕；口里发苦	None	None
+發	fa1	中医学名词 痈疽之毒发于外者叫发 如：耳发；胸发；乳发	None	None
+發	fa1	量词 1.计量某些行动发生或作物（在同一块土地上）种植生长的次数 如：这发早稻；夺得这发丰收 2.计量箭或枪弹、炮弹的枚数，相当于“支”、“颗” 如：一发子弹；一发炮弹	None	None
+發	fa1	通=伐 功绩	None	伐
+發	fa1	通=廢(fei4) 弃置	None	廢
+發	fa1	通=旆(pei4) 旗帜	None	旆
+發	fa1	古代东方部族名，亦国名	None	None
+發	bo1	[發發]形容疾风或鱼跃的声音	None	None
+𤼳	ju2	两手托物	None	None
+𤼴	None	同=𤼳	None	𤼳
+𤼵	None	同=發	None	發
+𤼶	deng1	@	None	None
+𤼷	None	同=登	None	登
+𧶢	None	同=𤼺	None	𤼺
+𤼹	None	同=𤼺	None	𤼺
+𤼺	fei4	赋敛；征税	None	None
+𤳘	teng1	用力使物体伸长	None	None
 矛	None	录入中	None	None
 𥍝	None	录入中	None	None
 䂆	None	录入中	None	None
