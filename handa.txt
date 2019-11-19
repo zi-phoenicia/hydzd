@@ -51210,27 +51210,35 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 㿱	xue2	撮取皮；剥刮	None	None
 㿱	xue2	乱	None	None
 皳	qiu2	同=毬 古代习武用的球，用皮革做球皮，用毛填充，杖击或足踢 古称踘丸、皮丸	None	毬
-𤿭	None	录入中	None	None
-𤿨	None	录入中	None	None
-𤿧	None	录入中	None	None
-𤿮	None	录入中	None	None
-𤿩	None	录入中	None	None
-𤿪	None	录入中	None	None
-𤿯	None	录入中	None	None
-𤿫	None	录入中	None	None
-皴	None	录入中	None	None
-𥀁	None	录入中	None	None
-皵	None	录入中	None	None
-𤿳	None	录入中	None	None
-㿲	None	录入中	None	None
-𤿻	None	录入中	None	None
-𤿼	None	录入中	None	None
-𤿶	None	录入中	None	None
-𤿽	None	录入中	None	None
-𤿾	None	录入中	None	None
-𤿷	None	录入中	None	None
-𤿴	None	录入中	None	None
-𤿿	None	录入中	None	None
+𤿭	fu3	@	None	None
+𤿨	xiao4	同=韒(鞘) 刀鞘	None	韒
+𤿧	han4	古代射箭时套在左臂上的臂衣，多采用柔皮制成，如今之护袖，叫射𤿧或射韝	None	None
+𤿮	None	同=皺	None	皺
+𤿩	que4	[𥀣𤿩]见“𥀣”	None	None
+𤿪	None	同=𥀈	None	𥀈
+𤿯	None	同=攲	None	攲
+𤿫	chuo4	表皮破损、剥落	None	None
+皴	cun1	皮肤皱裂	None	None
+皴	cun1	物体表面粗糙、有皱褶	None	None
+皴	cun1	打皱；皱缩	None	None
+皴	cun1	中国画的一种技法，用淡干墨涂染以表现山石纹理，峰峦折痕及树身表皮的脉络、形态	None	None
+皴	cun1	方言 指皮肤上积存的泥垢或脱落的表皮 如：一脖子皴；满身是皴	None	None
+𥀁	du4	同=杜 桑皮	None	杜
+皵	que4	树皮粗糙而坼裂	None	None
+皵	que4	皮肤皴裂	None	None
+皵	que4	与人不睦	None	None
+𤿳	qin3	皮厚貌	None	None
+⿰皮卖	None	=𥀲的类推简化字	None	𥀲
+⿰卖皮	None	=皾的类推简化字	None	皾
+㿲	None	同=欹	None	欹
+𤿻	None	同=𤿓	None	𤿓
+𤿼	chang3	@	None	None
+𤿶	dian3	皮起	None	None
+𤿽	None	同=㿴	None	㿴
+𤿾	bei1	@	None	None
+𤿷	qian1	不平貌	None	None
+𤿴	lu4	[𤿴瘯]也作“𤿴癡” 皮肉瘦恶	None	None
+𤿿	None	同=皺	None	皺
 𤿵	None	录入中	None	None
 𥀂	None	录入中	None	None
 皷	None	录入中	None	None
