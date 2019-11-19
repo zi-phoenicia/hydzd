@@ -51239,40 +51239,50 @@ lu⿸𠂇乂丶	None	同=犮 按：此为“犮”的旧字形	None	犮
 𤿷	qian1	不平貌	None	None
 𤿴	lu4	[𤿴瘯]也作“𤿴癡” 皮肉瘦恶	None	None
 𤿿	None	同=皺	None	皺
-𤿵	None	录入中	None	None
-𥀂	None	录入中	None	None
-皷	None	录入中	None	None
-𥀀	None	录入中	None	None
-𥀇	None	录入中	None	None
-皶	None	录入中	None	None
-㿵	None	录入中	None	None
-㿴	None	录入中	None	None
-㿳	None	录入中	None	None
-𥀈	None	录入中	None	None
-𥀉	None	录入中	None	None
-𥀃	None	录入中	None	None
-𥀄	None	录入中	None	None
-㿷	None	录入中	None	None
-皹	None	录入中	None	None
-皸	None	录入中	None	None
-𥀊	None	录入中	None	None
-𥀋	None	录入中	None	None
-𥀐	None	录入中	None	None
-𥀕	None	录入中	None	None
-𥀒	None	录入中	None	None
-𥀓	None	录入中	None	None
-皺	None	录入中	None	None
-𥀏	None	录入中	None	None
-㿶	None	录入中	None	None
-𥀞	None	录入中	None	None
-𥀍	None	录入中	None	None
-𥀛	None	录入中	None	None
-皻	None	录入中	None	None
-𥀜	None	录入中	None	None
-㿸	None	录入中	None	None
-𥀗	None	录入中	None	None
-𥀖	None	录入中	None	None
-𥀙	None	录入中	None	None
+𤿵	que4	皮断	None	None
+𥀂	beng3	同=䋽 枲履 一说小儿皮履	None	䋽
+𥀂	bang1	同=鞤 皮履	None	鞤
+皷	None	同=鼓	None	鼓
+𥀀	None	同=㿹	None	㿹
+𥀇	None	=𥀏的讹字	None	𥀏
+皶	None	同=皻(齇)	None	皻
+㿵	None	同=𥀭	None	𥀭
+㿴	da1	宽皮貌	None	None
+㿳	zi1	手足皮肤黑	None	None
+𥀈	zha3	[皺𥀈]皮肤老化	None	None
+𥀉	zha3	破𥀉皮毛	None	None
+𥀉	zha3	同=𥀈 皮老	None	𥀈
+𥀃	hou4	石蜜膜 一说石蟆	None	None
+𥀄	None	同=𥀃	None	𥀃
+㿷	cuo4	皮肤起粟粒	None	None
+㿷	cao1	同=糙 粗米未舂	None	糙
+皹	None	同=皸	None	皸
+皸	jun1	皮肤受冻而破裂	None	None
+𥀊	None	同=韋	None	韋
+𥀋	None	同=𥀖	None	𥀖
+𥀐	han2	膜	None	None
+𥀕	None	同=韠	None	韠
+𥀒	None	同=𥀖	None	𥀖
+𥀓	None	同=瘤	None	瘤
+皺	zhou4	皮肤因松弛而起的纹路	None	None
+皺	zhou4	蹙；收缩 如：眉头一皱，计上心来	None	None
+皺	zhou4	泛指物体表面紧缩和揉弄而形成的纹路 如：皱褶；皱襞	None	None
+皺	zhou4	用同=㥮 固执	None	㥮
+皺	zhou2	同=𩌄 皮革皱纹	None	𩌄
+皺	zhou2	栗蓬，栗子的外壳	None	None
+𥀏	ma2	[𥀏㗩]闭口貌	None	None
+㿶	bang1	同=幫 鞋的边缘部分	None	幫
+𥀞	None	同=㿷	None	㿷
+𥀍	None	同=羆	None	羆
+𥀛	zao1	@	None	None
+皻	zha1	同=齇 鼻尖发暗红色疱点	None	齇
+皻	cu3	同=𤿚 皮肤粗糙皴裂	None	𤿚
+𥀜	None	=𥀒的讹字	None	𥀒
+㿸	wan3	皮脱离	None	None
+㿸	man1	皮	None	None
+𥀗	None	同=㿸	None	㿸
+𥀖	zi1	手脚掌上所起的趼	None	None
+𥀙	None	同=皺	None	皺
 𥀔	None	录入中	None	None
 𥀝	None	录入中	None	None
 𥀘	None	录入中	None	None
