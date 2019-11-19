@@ -51482,19 +51482,20 @@
 矠	zhuo2	同=捔 刺	None	捔
 𥍼	ying1	同=英 以羽饰矛	None	英
 𥍲	na4	柔	None	None
-𥍳	None	录入中	None	None
-𥍴	None	录入中	None	None
-𥍵	None	录入中	None	None
-𥍹	None	录入中	None	None
-𥎂	None	录入中	None	None
-𥍻	None	录入中	None	None
-𥎀	None	录入中	None	None
-𥍾	None	录入中	None	None
-𥍽	None	录入中	None	None
-䂉	None	录入中	None	None
-𥍿	None	录入中	None	None
-𥍺	None	录入中	None	None
-𥍶	None	录入中	None	None
+𥍳	niu3	[𠢢𥍳]见“𠢢”	None	None
+𥍴	yi4	@	None	None
+𥍵	None	同=𥎊(矜)	None	𥎊
+𥍹	jian3	矛一类的兵器	None	None
+𥎂	rong2	[𥍮𥎂]矛的一种	None	None
+𥎂	rong2	矛一类的兵器	None	None
+𥍻	yan3	三刃戟	None	None
+𥎀	ruan3	@	None	None
+𥍾	None	同=𥎂	None	𥎂
+𥍽	None	同=䂌	None	䂌
+䂉	hou2	矛一类的兵器	None	None
+𥍿	None	同=盾	None	盾
+𥍺	zong1	𬬺	None	None
+𥍶	None	同=䂉	None	䂉
 𥍷	None	录入中	None	None
 𥍸	None	录入中	None	None
 𥎇	None	录入中	None	None
