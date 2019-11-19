@@ -51745,37 +51745,91 @@
 𦔫	yui4	同=𦔜	None	𦔜
 𦔬	qu2	犁上的铧	None	None
 𦔭	mo4	耕	None	None
-老	None	录入中	None	None
-𦒱	None	录入中	None	None
-考	None	录入中	None	None
-𦒲	None	录入中	None	None
-𦒳	None	录入中	None	None
-𦒴	None	录入中	None	None
-耆	None	录入中	None	None
-者	None	录入中	None	None
-耄	None	录入中	None	None
-𦒷	None	录入中	None	None
-𦒸	None	录入中	None	None
-𦒶	None	录入中	None	None
-耉	None	录入中	None	None
-𦒾	None	录入中	None	None
-𦒻	None	录入中	None	None
-𦒿	None	录入中	None	None
-耈	None	录入中	None	None
-耇	None	录入中	None	None
-䎜	None	录入中	None	None
-耋	None	录入中	None	None
-耊	None	录入中	None	None
-𦓀	None	录入中	None	None
-䎝	None	录入中	None	None
-𦓂	None	录入中	None	None
-𦽡	None	录入中	None	None
-𦓄	None	录入中	None	None
-𦓆	None	录入中	None	None
-𦓈	None	录入中	None	None
-𧂕	None	录入中	None	None
-𦓋	None	录入中	None	None
-𦓍	None	录入中	None	None
+老	lao3	五十至七十岁的高龄	None	None
+老	lao3	古时对某些臣僚的尊称 1.指上公 2.指上卿 3.指大夫 4.指大夫的家臣 5.指群吏之尊者	None	None
+老	lao3	指父母或兄长	None	None
+老	lao3	衰弱；衰落	None	None
+老	lao3	老练；富有经验 如：老手；老干部	None	None
+老	lao3	致仕；年老退休	None	None
+老	lao3	敬老；养老	None	None
+老	lao3	历史长久的 1.旧 与“新”相对 如：老工厂；老问题 2.与“嫩”相对 如：老白菜；老枝嫩叶 3.（某些颜色）深 与“浅”相对 如：老绿；老红	None	None
+老	lao3	老子及其哲学的省称	None	None
+老	lao3	小，排行在最末的 如：老儿子；老妹子	None	None
+老	lao3	指六十四卦的变爻	None	None
+老	lao3	死的讳称 如：送老归山	None	None
+老	lao3	副词 1.表示动作、行为或状态在某一时间内持续不变，相当于“总”、“经常” 2.表示程度高，相当于“很” 如：老远；老高；老长	None	None
+老	lao3	前缀 1.加在称呼和某些名物上 2.表示排行 3.加在某些动物名称上 如：老虎；老鸦	None	None
+老	lao3	后缀 1.表示身体的某一部分 如：嗅老（鼻）；柴老（牙）；听老（耳） 2.代指人（含轻视意） 也作=佬 如：庄稼老；外国老	None	佬
+老	lao3	姓	None	None
+𦒱	None	同=考	None	考
+考	kao3	老；高寿	None	None
+考	kao3	引；延长	None	None
+考	kao3	古代宫庙落成时始祭庙主的一种仪式 后泛指建筑物落成	None	None
+考	kao3	终	None	None
+考	kao3	旧称已死的父亲	None	None
+考	kao3	考察	None	None
+考	kao3	考核；考试	None	None
+考	kao3	讯问	None	None
+考	kao3	拷问；刑讯	None	None
+考	kao3	配合；相应	None	None
+考	kao3	登；升起	None	None
+考	kao3	探索；研究	None	None
+考	kao3	校勘	None	None
+考	kao3	瑕衅；瑕疵	None	None
+考	kao3	学术著作的体裁之一 以研讨、考据、论证为主要手段的学术论文或专著，多以“考”名	None	None
+考	kao3	通=攷 扣；敲击	None	攷
+考	kao3	通=簋(gui3) 古代祭祀宴享时盛黍稷的器皿	None	簋
+考	kao3	通=巧(qiao3) 机巧	None	巧
+考	kao3	姓	None	None
+𦒲	None	同=𦒸(𦒶)	None	𦒸
+𦒳	None	同=老	None	老
+𦒴	None	同=老	None	老
+耆	qi2	六十岁的老人	None	None
+耆	qi2	长者；师傅	None	None
+耆	qi2	强横	None	None
+耆	qi2	厌恶；憎恨	None	None
+耆	qi2	走兽的背脊	None	None
+耆	qi2	中药名 黄耆的省称 如：参耆	None	None
+耆	qi2	古国名	None	None
+耆	qi2	姓	None	None
+耆	zhi3	达到；致使	None	None
+耆	shi4	特别爱好 后作=嗜	None	嗜
+者	zhe3	代词 相当于“這”	None	None
+者	zhe3	助词 1.与一系列词语构成“者”字结尾的短语，分别代表人、事、物、时间等 a.表人 b.表事 c.表物 d.表时间 2.用在复句前一分句之末 a.表示前后两分句有解释和被解释的关系，相当于“……的原因”、“是因为……” b.表示前后两分句有假设关系	None	None
+者	zhe3	语气词 1.用在句末，表示语气完毕 2.用在句末，与疑问词相配合表示疑问 3.表示祈使语气 4.表示商榷 5.表示比拟，相当于“……的样子” 6.用在句末，相当于“着(zhe3)”	None	None
+者	zhe3	象声词 表示应诺	None	None
+者	zhe3	借口	None	None
+者	zhe3	通=著(zhu4) 写；记载	None	著
+者	zhe3	通=諸(zhu1) 众	None	諸
+者	zhe3	姓	None	None
+耄	mao4	年老；高龄	None	None
+耄	mao4	年老昏乱	None	None
+耄	mao4	守义不进	None	None
+𦒷	None	同=耄	None	耄
+𦒸	None	同=𦒶	None	𦒶
+𦒶	shu4	老人走路迟缓	None	None
+耉	None	同=耇	None	耇
+𦒾	None	同=𦒻	None	𦒻
+𦒻	dian3	老人面部黑斑	None	None
+𦒻	dian3	老	None	None
+𦒿	None	同=耆	None	耆
+耈	None	同=耇	None	耇
+耇	gou3	老年人面部出现的色素沉淀，俗称寿斑	None	None
+耇	gou3	高龄	None	None
+耇	gou3	年老体瘦力弱	None	None
+䎜	hun1	年老；高龄	None	None
+耋	die2	七八十岁的年龄；泛指年老	None	None
+耊	None	同=耋	None	耋
+𦓀	None	同=耆	None	耆
+䎝	None	同=翥	None	翥
+𦓂	None	同=壽	None	壽
+𦽡	None	同=耄	None	耄
+𦓄	None	同=耄	None	耄
+𦓆	None	同=壽	None	壽
+𦓈	xiong4	老弱	None	None
+𧂕	None	同=𦽡	None	𦽡
+𦓋	wang4	@	None	None
+𦓍	che3	@	None	None
 耳	None	录入中	None	None
 耴	None	录入中	None	None
 𦔮	None	录入中	None	None
