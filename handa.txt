@@ -51496,48 +51496,53 @@
 𥍿	None	同=盾	None	盾
 𥍺	zong1	𬬺	None	None
 𥍶	None	同=䂉	None	䂉
-𥍷	None	录入中	None	None
-𥍸	None	录入中	None	None
-𥎇	None	录入中	None	None
-𥎅	None	录入中	None	None
-𥎃	None	录入中	None	None
-𥎄	None	录入中	None	None
-𥎌	None	录入中	None	None
-𥎈	None	录入中	None	None
-𥎉	None	录入中	None	None
-𥎆	None	录入中	None	None
-𥎍	None	录入中	None	None
-𥎊	None	录入中	None	None
-𥎋	None	录入中	None	None
-䂊	None	录入中	None	None
-𥎑	None	录入中	None	None
-𥎒	None	录入中	None	None
-𥎐	None	录入中	None	None
-𥎏	None	录入中	None	None
-䂌	None	录入中	None	None
-𥎔	None	录入中	None	None
-𥎙	None	录入中	None	None
-𥎓	None	录入中	None	None
-𥎕	None	录入中	None	None
-𥎗	None	录入中	None	None
-𥎎	None	录入中	None	None
-𥎚	None	录入中	None	None
-𥎛	None	录入中	None	None
-𥎖	None	录入中	None	None
-𥎘	None	录入中	None	None
-𥎜	None	录入中	None	None
-𥎟	None	录入中	None	None
-𥎞	None	录入中	None	None
-䂍	None	录入中	None	None
-𥎠	None	录入中	None	None
-𥎝	None	录入中	None	None
-𥎢	None	录入中	None	None
-𥎡	None	录入中	None	None
-𥎣	None	录入中	None	None
-䂎	None	录入中	None	None
-矡	None	录入中	None	None
-𥎤	None	录入中	None	None
-𥎥	None	录入中	None	None
+𥍷	cong1	同=鏦 短矛	None	鏦
+𥍸	shi1	同=鍦 短矛	None	鍦
+𥎇	None	同=𥍫	None	𥍫
+𥎅	guan1	同=矜(鰥) 寡	None	矜
+𥎃	xi4	同=鎎 弩战	None	鎎
+𥎃	xi4	战	None	None
+𥎃	xi4	弩具	None	None
+𥎄	None	同=槍	None	槍
+𥎌	None	同=𥍮	None	𥍮
+𥎈	wu4	@ ……按：疑即=𨡭的异体	None	𨡭
+𥎉	None	同=瞀	None	瞀
+𥎆	kai1	矛一类的兵器	None	None
+𥎍	ze2	矛一类的兵器	None	None
+𥎊	qin2	同=矜 矛柄	None	矜
+𥎋	cong1	同=鏦 矛	None	鏦
+䂊	yu4	[𥎎䂊]矛一类的兵器	None	None
+𥎑	zan4	@	None	None
+𥎒	chuang1	矛	None	None
+𥎐	yu4	出	None	None
+𥎏	None	同=矠	None	矠
+䂌	chong1	短矛	None	None
+𥎔	li3	小矛	None	None
+𥎙	None	同=𥍷	None	𥍷
+𥎓	li3	小矛	None	None
+𥎕	xu4	同=矞 惊惧貌	None	矞
+𥎗	xu4	矛一类的兵器	None	None
+𥎎	xie4	矛；𥍪矛	None	None
+𥎚	None	同=𥎊(矜)	None	𥎊
+𥎛	gui4	@	None	None
+𥎖	mi2	矛一类的兵器	None	None
+𥎘	ruan3	软弱	None	None
+𥎜	rong2	同=𣯍 毛盛	None	𣯍
+𥎟	mao2	@	None	None
+𥎞	None	同=䂎	None	䂎
+䂍	bo2	[䂍矟]也作“=犦矟”、“䂍槊”、“犦槊” 古代仪仗队执的一种兵器	None	犦
+𥎠	None	同=矛	None	矛
+𥎝	None	=䂎的类推简化字	None	䂎
+𥎢	None	同=䂎	None	䂎
+𥎡	qin2	矛一类的兵器	None	None
+𥎣	None	同=𥎞(䂎)	None	𥎞
+䂎	zuan3	小矛 制如戟，锋两旁微起	None	None
+䂎	zuan3	刺	None	None
+䂎	cuan1	遥投矛	None	None
+矡	jue2	矛一类的兵器	None	None
+矡	jue2	锥	None	None
+𥎤	cuan4	同=鑹 小矟	None	鑹
+𥎥	None	同=𥎞(䂎)	None	𥎞
 耒	None	录入中	None	None
 𦓤	None	录入中	None	None
 耓	None	录入中	None	None
