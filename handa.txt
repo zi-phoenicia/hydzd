@@ -51731,14 +51731,20 @@
 ⿰耒𥇡	None	同=𦔥	None	𦔥
 𦔦	kuai4	农具名	None	None
 耰	you1	同=櫌 古农具 形如𨱍头，用来击碎土块，平整土地	None	櫌
-𦔪	None	录入中	None	None
-䎱	None	录入中	None	None
-𦔩	None	录入中	None	None
-耲	None	录入中	None	None
-耱	None	录入中	None	None
-𦔫	None	录入中	None	None
-𦔬	None	录入中	None	None
-𦔭	None	录入中	None	None
+耰	you1	播种后用耰平土、覆盖种子	None	None
+耰	you1	锄把	None	None
+𦔪	None	同=耬	None	耬
+䎱	bei1	同=䥯	None	䥯
+䎱	ba4	同=耙	None	耙
+𦔩	biao1	同=穮 耘田锄草	None	穮
+𦔩	pao1	耕	None	None
+耲	huai4	[耲耙]东北地区一种翻土的农具	None	None
+耱	mo4	农具名 又名“耢”或“盖” 长方形，用荆条或藤条编成，用来平整地面和松田保墒	None	None
+耱	mo4	用耱平整土地	None	None
+𦔫	chi4	耕	None	None
+𦔫	yui4	同=𦔜	None	𦔜
+𦔬	qu2	犁上的铧	None	None
+𦔭	mo4	耕	None	None
 老	None	录入中	None	None
 𦒱	None	录入中	None	None
 考	None	录入中	None	None
