@@ -51924,43 +51924,75 @@
 聃	dan1	同=耽 玩乐	None	耽
 聃	dan1	古国名	None	None
 聃	dan1	姓	None	None
-聅	None	录入中	None	None
-𦕗	None	录入中	None	None
-聄	None	录入中	None	None
-聆	None	录入中	None	None
-𦕘	None	录入中	None	None
-𦕑	None	录入中	None	None
-𦕙	None	录入中	None	None
-聊	None	录入中	None	None
-𦕕	None	录入中	None	None
-𦕔	None	录入中	None	None
-聍	None	录入中	None	None
-䎵	None	录入中	None	None
-聉	None	录入中	None	None
-聈	None	录入中	None	None
-𦕴	None	录入中	None	None
-聐	None	录入中	None	None
-聑	None	录入中	None	None
-𦕠	None	录入中	None	None
-聏	None	录入中	None	None
-𦕡	None	录入中	None	None
-𦕢	None	录入中	None	None
-䎷	None	录入中	None	None
-聒	None	录入中	None	None
-聎	None	录入中	None	None
-聠	None	录入中	None	None
-联	None	录入中	None	None
-𦕰	None	录入中	None	None
-𦕱	None	录入中	None	None
-𦕷	None	录入中	None	None
-𦕶	None	录入中	None	None
-𦖅	None	录入中	None	None
-𦕿	None	录入中	None	None
-䎸	None	录入中	None	None
-𦕼	None	录入中	None	None
-聗	None	录入中	None	None
-聖	None	录入中	None	None
-𦕸	None	录入中	None	None
+聅	che4	古代军法以矢穿耳的刑罚	None	None
+𦕗	None	同=聄	None	聄
+聄	zhen4	听	None	None
+聄	zhen4	向鬼神告祭 也作=畛	None	畛
+聆	ling2	听；倾耳细听	None	None
+聆	ling2	听从	None	None
+聆	ling2	明白；了然	None	None
+𦕘	None	同=聽	None	聽
+𦕑	None	同=聄	None	聄
+𦕙	qu2	@	None	None
+聊	liao2	耳鸣	None	None
+聊	liao2	依赖；凭借	None	None
+聊	liao2	乐；慰藉	None	None
+聊	liao2	恐惧貌	None	None
+聊	liao2	苟且；轻率	None	None
+聊	liao2	谈；闲谈 如：聊天；闲聊	None	None
+聊	liao2	副词 1.表示动作行为是暂时或权宜性的 相当于“姑且”、“暂且” 2.表示程度轻微，相当于“略”、“略微”	None	None
+聊	liao2	地名 在今山东省聊城市西北	None	None
+聊	liao2	姓	None	None
+聊	liu2	木名 朹之别种	None	None
+𦕕	None	=𧵍(貿)的讹字	None	𧵍
+𦕔	None	同=卯	None	卯
+聍	None	=聹的简化字	None	聹
+䎵	None	=䀣的讹字	None	䀣
+聉	wa4	无知	None	None
+聉	tui3	[聉顡]痴癫貌	None	None
+聉	zhuo2	聋	None	None
+聈	you2	幽静深远	None	None
+𦕴	None	同=陲	None	陲
+聐	ya4	痴不能听	None	None
+聑	tie4	安适；妥帖	None	None
+聑	tie4	耳垂，耳朵的下端	None	None
+聑	zhe2	同=𦗑 耳竖貌	None	𦗑
+𦕠	hong1	耳鸣	None	None
+聏	er2	同=𦗂 调和	None	𦗂
+聏	er2	毛多	None	None
+聏	nv4	同=恧 羞愧	None	恧
+𦕡	sheng4	同=聖 无所不通	None	聖
+𦕢	ting4	同=聽 用耳朵接受声音	None	聽
+䎷	zhu4	𩕏	None	None
+䎷	zhu4	源	None	None
+䎷	zhu4	呼声	None	None
+聒	guo1	喧哗；嘈杂	None	None
+聎	tiao1	耳鸣	None	None
+聎	tiao1	耳疾	None	None
+聠	ping1	耳闭	None	None
+联	None	=聯的简化字	None	聯
+𦕰	duo5	[耳𦕰]即耳朵	None	None
+𦕱	None	同=聯	None	聯
+𦕷	hong3	[𦕷𦕷]耳鸣	None	None
+𦕶	None	同=䎺	None	䎺
+𦖅	None	同=聎	None	聎
+𦕿	None	同=𦔮	None	𦔮
+䎸	None	同=晤 聪明	None	晤
+𦕼	None	同=聊	None	聊
+聗	lie4	包头之巾，头巾	None	None
+聗	lie4	同=𦖩 耳垂	None	𦖩
+聖	sheng4	无所不通	None	None
+聖	sheng4	学识或技艺有极高成就的人 如：诗圣；圣手	None	None
+聖	sheng4	德行高尚的人	None	None
+聖	sheng4	聪明；才智胜人	None	None
+聖	sheng4	神通	None	None
+聖	sheng4	刁钻；精灵	None	None
+聖	sheng4	古时称清酒为圣人，简称圣	None	None
+聖	sheng4	封建时代对帝王的尊称 也用以称颂有关帝王及王朝的事物	None	None
+聖	sheng4	有关神明的事物	None	None
+聖	sheng4	佛教用语 证入正道	None	None
+聖	sheng4	姓	None	None
+𦕸	li3	地名	None	None
 聘	None	录入中	None	None
 聕	None	录入中	None	None
 𦕽	None	录入中	None	None
