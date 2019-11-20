@@ -52194,38 +52194,76 @@
 𦗠	None	同=䏆	None	䏆
 𦗦	None	同=聒	None	聒
 𦗯	None	同=瞻	None	瞻
-𦗤	None	录入中	None	None
-職	None	录入中	None	None
-𦗢	None	录入中	None	None
-𦗰	None	录入中	None	None
-䏈	None	录入中	None	None
-𦗺	None	录入中	None	None
-𦗿	None	录入中	None	None
-𦘃	None	录入中	None	None
-𦗴	None	录入中	None	None
-𦗳	None	录入中	None	None
-𦗵	None	录入中	None	None
-𦗼	None	录入中	None	None
-聸	None	录入中	None	None
-𦗷	None	录入中	None	None
-䏉	None	录入中	None	None
-𦗾	None	录入中	None	None
-𦘅	None	录入中	None	None
-𦘄	None	录入中	None	None
-聻	None	录入中	None	None
-聺	None	录入中	None	None
-聹	None	录入中	None	None
-𦘋	None	录入中	None	None
-𦘈	None	录入中	None	None
-𦘉	None	录入中	None	None
-聽	None	录入中	None	None
-𦘊	None	录入中	None	None
-𥽳	None	录入中	None	None
-𦘌	None	录入中	None	None
-䏊	None	录入中	None	None
-聾	None	录入中	None	None
-𦘍	None	录入中	None	None
-𥽳	None	录入中	None	None
+𦗤	None	同=聾	None	聾
+職	zhi2	识；记	None	None
+職	zhi2	主宰；掌管 如：职金；职方	None	None
+職	zhi2	职务；分内应做的事 如：任职；立足本职	None	None
+職	zhi2	职业	None	None
+職	zhi2	职责 如：尽职；失职	None	None
+職	zhi2	职能；功能	None	None
+職	zhi2	职位；执行事务所处的一定地位 如：调职；到职；在职；身居高职	None	None
+職	zhi2	旧时下属对上司的自称 如：职道；职等奉命	None	None
+職	zhi2	负责；承担	None	None
+職	zhi2	赋税；贡品	None	None
+職	zhi2	主要	None	None
+職	zhi2	常；正常	None	None
+職	zhi2	刚才；忽然	None	None
+職	zhi2	副词 表示范围，相当于“惟”、“只”	None	None
+職	zhi2	通=幟(zhi4) 旗帜	None	幟
+職	zhi2	姓	None	None
+職	te4	通=樴 小木桩	None	樴
+𦗢	zhan3	耳门	None	None
+𦗰	None	同=聹	None	聹
+䏈	lian2	同=聯	None	聯
+䏈	luan2	同=攣 联系	None	攣
+𦗺	None	=鼙的讹字	None	鼙
+𦗿	None	同=聵	None	聵
+𦘃	None	同=𦗿(聵)	None	𦗿
+𦗴	None	同=璫	None	璫
+𦗳	nang2	耳鸣	None	None
+𦗵	jiao3	耳鸣	None	None
+𦗼	er3	@	None	None
+聸	dan1	垂耳	None	None
+𦗷	None	同=聱	None	聱
+䏉	shi1	牛马动耳貌	None	None
+𦗾	None	同=懖	None	懖
+𦘅	None	同=𦗒	None	𦗒
+𦘄	None	同=聵	None	聵
+聻	ni3	指物称谓 约当于“那一”合音	None	None
+聻	ni3	语气词 用于句尾，表示疑问或陈述结束，相当于=呢	None	呢
+聻	jian4	迷信者称鬼死为聻	None	None
+聺	qie1	聪	None	None
+聹	ning2	[耵聹]见“耵”	None	None
+聹	ning2	耳聒	None	None
+𦘋	None	同=聵	None	聵
+𦘈	None	同=聮(聯)	None	聮
+𦘉	None	同=懖	None	懖
+聽	ting1	用耳朵接受声音	None	None
+聽	ting1	听取；听信	None	None
+聽	ting1	顺从；服从	None	None
+聽	ting1	允许	None	None
+聽	ting1	考察	None	None
+聽	ting1	治理	None	None
+聽	ting1	审理（诉讼案件）	None	None
+聽	ting1	商议	None	None
+聽	ting1	从事侦察活动的人员	None	None
+聽	ting1	古代官府办公处 后作=廳	None	廳
+聽	ting1	耳朵 如：闭目塞听	None	None
+聽	ting1	听凭；任凭	None	None
+聽	ting1	待；等候	None	None
+聽	ting1	学识	None	None
+聽	ting1	英语tin的译音 马口铁罐 也用作量名	None	None
+聽	ting1	通=聲(shegn1) 言	None	聲
+𦘊	li4	仔细听	None	None
+𥽳	None	同=𦗶	None	𦗶
+𦘌	guo1	无知貌	None	None
+䏊	None	同=聾	None	聾
+聾	long2	听觉失灵或迟钝	None	None
+聾	long2	糊涂；无知	None	None
+聾	long2	没有知觉	None	None
+𦘍	wai4	极聋	None	None
+𦘍	wa4	没有耳翼	None	None
+𥽳	qi4	以新谷汁渍旧谷	None	None
 臣	None	录入中	None	None
 卧	None	录入中	None	None
 臥	None	录入中	None	None
