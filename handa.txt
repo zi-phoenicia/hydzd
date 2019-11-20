@@ -52620,39 +52620,100 @@
 虎	hu4	[虎不拉]方言 鸟名，即伯劳	None	None
 䖌	yi4	虎貌	None	None
 䖌	yi4	一声	None	None
-虒	None	录入中	None	None
-䖋	None	录入中	None	None
-䖊	None	录入中	None	None
-𧆬	None	录入中	None	None
-虓	None	录入中	None	None
-䖈	None	录入中	None	None
-𧆡	None	录入中	None	None
-𧆢	None	录入中	None	None
-䖎	None	录入中	None	None
-虏	None	录入中	None	None
-䖉	None	录入中	None	None
-𧆜	None	录入中	None	None
-𧆯	None	录入中	None	None
-虐	None	录入中	None	None
-𧆞	None	录入中	None	None
-𧆫	None	录入中	None	None
-𧆦	None	录入中	None	None
-彪	None	录入中	None	None
-𧆰	None	录入中	None	None
-𧆝	None	录入中	None	None
-䖑	None	录入中	None	None
-䖐	None	录入中	None	None
-𧆷	None	录入中	None	None
-虝	None	录入中	None	None
-虔	None	录入中	None	None
-𧆸	None	录入中	None	None
-𧆹	None	录入中	None	None
-𧆣	None	录入中	None	None
-䖔	None	录入中	None	None
-甝	None	录入中	None	None
-𧆻	None	录入中	None	None
-𧆪	None	录入中	None	None
-虚	None	录入中	None	None
+虒	si1	[委虒]一种似虎而有角的兽，能行水中	None	None
+虒	ti2	[虒奚]古县名 在今北京市密云县东北	None	None
+虒	zhi4	[茈虒]不齐貌	None	None
+䖋	None	同=虐	None	虐
+䖊	yi4	虎貌	None	None
+䖊	yi4	虎息	None	None
+𧆬	None	同=虓	None	虓
+虓	xiao1	虎吼	None	None
+虓	xiao1	兽类叫声	None	None
+虓	xiao1	勇猛	None	None
+虓	xiao1	怒貌	None	None
+虓	xiao1	通=敲(qiao1) 击；打	None	敲
+䖈	None	同=虐	None	虐
+𧆡	xu4	@	None	None
+𧆢	None	同=𧆮(虎)	None	𧆮
+䖎	xia2	虎	None	None
+虏	None	=虜的简化字	None	虜
+䖉	None	同=𧆜	None	𧆜
+𧆜	xu1	虎吼	None	None
+𧆯	hu4	@	None	None
+虐	nve4	残害	None	None
+虐	nve4	残暴 如：虐杀；暴虐	None	None
+虐	nve4	暴烈	None	None
+虐	nve4	过分；无节制	None	None
+虐	nve4	轻率地对待	None	None
+虐	nve4	灾害	None	None
+虐	nve4	通=謔(xue4) 开玩笑	None	謔
+𧆞	None	同=虎	None	虎
+𧆫	None	同=𧆦	None	𧆦
+𧆦	yi4	虎貌	None	None
+彪	biao1	虎身上的斑纹	None	None
+彪	biao1	文；文彩鲜明	None	None
+彪	biao1	老虎；小老虎 如：彪口（即虎口）；彪尾	None	None
+彪	biao1	比喻人健壮魁梧	None	None
+彪	biao1	明悟	None	None
+彪	biao1	方言 喷射	None	None
+彪	biao1	量词 犹“队”	None	None
+彪	biao1	姓	None	None
+𧆰	zi3	清三合会旗号专用字	None	None
+𧆝	None	同=虐	None	虐
+䖑	mi4	白虎	None	None
+䖐	yin2	虎声	None	None
+𧆷	gong1	清三合会旗号专用字 参见“𧆰”	None	None
+虝	None	=𧇂的讹字	None	𧇂
+虔	qian2	虎行貌	None	None
+虔	qian2	杀害	None	None
+虔	qian2	劫掠；夺取	None	None
+虔	qian2	恭敬而有诚意 如：虔心；虔诚；虔敬	None	None
+虔	qian2	聪慧	None	None
+虔	qian2	狡黠	None	None
+虔	qian2	少；亏欠	None	None
+虔	qian2	截断；用东西垫着砍	None	None
+虔	qian2	虔婆的省称	None	None
+虔	qian2	古州名 隋开皇九年置，治赣县（今江西省赣州市）	None	None
+虔	qian2	姓	None	None
+𧆸	tui1	@	None	None
+𧆹	wu1	@	None	None
+⿰戋虎	None	=虦的类推简化字	None	虦
+𧆣	lu1	盛酒的小口瓦器	None	None
+𧆣	lu1	盛饭器	None	None
+䖔	kan3	䖑属，白虎的一种	None	None
+䖔	han4	虎怒貌	None	None
+䖔	han4	虎声	None	None
+甝	han2	白虎	None	None
+甝	han2	凶暴	None	None
+𧆻	gu1	姑息；休息	None	None
+𧆪	None	同=虖	None	虖
+虚	xu1	大丘，土山	None	None
+虚	xu1	古田制名	None	None
+虚	xu1	废墟	None	None
+虚	xu1	区域	None	None
+虚	xu1	市集	None	None
+虚	xu1	居住	None	None
+虚	xu1	空虚	None	None
+虚	xu1	空着	None	None
+虚	xu1	空隙；弱点	None	None
+虚	xu1	不足；缺损	None	None
+虚	xu1	饥饿	None	None
+虚	xu1	稀少	None	None
+虚	xu1	疏松	None	None
+虚	xu1	天空	None	None
+虚	xu1	方位	None	None
+虚	xu1	虚假，不真实	None	None
+虚	xu1	胆怯；怯懦（多用在理屈或没有把握的时候）	None	None
+虚	xu1	体质虚弱 如：虚症；气虚	None	None
+虚	xu1	中医脉象，指寸关尺三部脉举按皆无力，按之有空虚感	None	None
+虚	xu1	副词 徒然，白白地	None	None
+虚	xu1	道家用语 指清静无欲的内心境界	None	None
+虚	xu1	指抽象的理论 如：务虚	None	None
+虚	xu1	独木舟	None	None
+虚	xu1	古代阴阳五行家用语 指每旬的第五天和第六天 与“孤”相对	None	None
+虚	xu1	星名 二十八宿之一，北方玄武七宿的第四宿 有星四颗 又作“玄枵”次的标志星	None	None
+虚	xu1	春秋时地名 1.宋地名 2.晋地名	None	None
+虚	xu1	姓	None	None
 虘	None	录入中	None	None
 䖕	None	录入中	None	None
 𧆥	None	录入中	None	None
