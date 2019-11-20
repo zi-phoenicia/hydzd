@@ -52569,25 +52569,57 @@
 臸	zhi1	到达	None	None
 臸	zhi1	如一	None	None
 臸	jin4	前往	None	None
-臵	None	录入中	None	None
-䑓	None	录入中	None	None
-𦥁	None	录入中	None	None
-𦥂	None	录入中	None	None
-臺	None	录入中	None	None
-𥔊	None	录入中	None	None
-𦥆	None	录入中	None	None
-𦥈	None	录入中	None	None
-𦥅	None	录入中	None	None
-臻	None	录入中	None	None
-𦥍	None	录入中	None	None
-𦥋	None	录入中	None	None
-𦥉	None	录入中	None	None
-𦥊	None	录入中	None	None
-𦥎	None	录入中	None	None
-𦥏	None	录入中	None	None
-虍	None	录入中	None	None
-虎	None	录入中	None	None
-䖌	None	录入中	None	None
+臵	ge4	同=𢓜 至	None	𢓜
+䑓	None	同=臺	None	臺
+𦥁	None	同=誣	None	誣
+𦥂	ai3	屋舍	None	None
+臺	tai2	用土筑成的四方形的高而平的建筑物	None	None
+臺	tai2	高而平的场地	None	None
+臺	tai2	像台的家具 如：柜台；写字台	None	None
+臺	tai2	某些做座子用的器物 如：锅台；灯台；砚台	None	None
+臺	tai2	陵墓的古称	None	None
+臺	tai2	莎草	None	None
+臺	tai2	古代中央官署名	None	None
+臺	tai2	旧时对人的尊称 如僚属称长官为宪台；朋友相称曰台下，兄台	None	None
+臺	tai2	古代贱职之称	None	None
+臺	tai2	同等；辈	None	None
+臺	tai2	待，止	None	None
+臺	tai2	支；持	None	None
+臺	tai2	清代邮政驿站名	None	None
+臺	tai2	数学名词 立体之一部以平行于底之平面截去之，其所遗部分谓之台或平截体	None	None
+臺	tai2	我国古代南方一种少数民族	None	None
+臺	tai2	山名	None	None
+臺	tai2	台湾省的简称 如：台属；台胞	None	None
+臺	tai2	姓	None	None
+𥔊	None	同=砥	None	砥
+𦥆	None	同=握	None	握
+𦥈	ai3	屋舍	None	None
+𦥈	ai3	止	None	None
+𦥅	None	同=絰	None	絰
+臻	zhen1	至	None	None
+臻	zhen1	及；达到	None	None
+臻	zhen1	众	None	None
+臻	zhen1	周到；周全	None	None
+臻	zhen1	仍；重复	None	None
+臻	zhen1	加	None	None
+臻	zhen1	乃	None	None
+𦥍	jing4	@	None	None
+𦥋	None	同=𦥊	None	𦥊
+𦥉	yu3	[鉏𦥉]不协调 也作“鉏=鋙”、“齟=齬”	None	鋙
+𦥊	chi4	忿怒而乖戾	None	None
+𦥎	zhi4	同=輊 车前重	None	輊
+𦥏	zhi4	窒塞	None	None
+虍	hu1	虎皮上的斑纹	None	None
+虍	hu1	未见貌	None	None
+虎	hu3	猛兽名 猫科 头大而圆，前额有似“王”字斑纹，利牙巨口 体呈淡黄色或褐色，有黑色横纹，性凶猛，喜欢夜行，能游泳，捕食野猪、鹿、獐等动物，有时伤人 我国产有东北虎、华南虎	None	None
+虎	hu3	凡伤害物类之虫，也以虎名之 如：蝇虎；蝎虎	None	None
+虎	hu3	方言 脸色陡变而露出严厉或凶恶的表情	None	None
+虎	hu3	吓唬 也作=唬	None	唬
+虎	hu3	十二生肖之一 在干支纪年法中，凡地支“寅”的年份，即为虎年 凡在虎年出生的人即属虎	None	None
+虎	hu3	姓	None	None
+虎	hu4	[虎不拉]方言 鸟名，即伯劳	None	None
+䖌	yi4	虎貌	None	None
+䖌	yi4	一声	None	None
 虒	None	录入中	None	None
 䖋	None	录入中	None	None
 䖊	None	录入中	None	None
