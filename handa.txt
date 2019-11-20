@@ -52416,21 +52416,36 @@
 𧟯	None	同=虧	None	虧
 𧟰	None	同=覅	None	覅
 覅	fiao4	方言 “勿要”二字的合音，流行于江浙一带	None	None
-𧟲	None	录入中	None	None
-𧟳	None	录入中	None	None
-𧟴	None	录入中	None	None
-𧟱	None	录入中	None	None
-𧟹	None	录入中	None	None
-𧟼	None	录入中	None	None
-𧟽	None	录入中	None	None
-𧟿	None	录入中	None	None
-覆	None	录入中	None	None
-覇	None	录入中	None	None
-𧠂	None	录入中	None	None
-覈	None	录入中	None	None
-𧠄	None	录入中	None	None
-覉	None	录入中	None	None
-覊	None	录入中	None	None
+𧟲	None	同=霸	None	霸
+𧟳	None	同=霸	None	霸
+𧟴	None	同=庚	None	庚
+𧟱	bo2	古代南楚侮辱农民的话	None	None
+𧟹	None	同=覃	None	覃
+𧟼	wei1	同=烓 古时一种可随身携带的三角暖炉	None	烓
+𧟼	wei1	姓	None	None
+𧟽	None	同=罷	None	罷
+𧟿	None	同=聖	None	聖
+覆	fu4	翻转	None	None
+覆	fu4	颠覆；灭亡	None	None
+覆	fu4	覆盖；掩藏	None	None
+覆	fu4	伏击；埋伏	None	None
+覆	fu4	审察	None	None
+覆	fu4	重复	None	None
+覆	fu4	船的上板	None	None
+覆	fu4	回；回复 也作=復 如：覆信	None	復
+覆	fu4	反，反而	None	None
+覆	fu4	通=愎(bi4) 固执；乖戾	None	愎
+覇	None	同=霸	None	霸
+𧠂	ku4	哭声	None	None
+覈	he2	核实；检验	None	None
+覈	he2	翔实，不浮夸	None	None
+覈	he2	深刻；苛刻	None	None
+覈	he2	骨	None	None
+覈	he2	米麦舂余的粗屑 后作=籺	None	籺
+覈	he2	同=核 核果中的坚硬部分，里面有仁	None	核
+𧠄	None	同=覉	None	覉
+覉	None	同=羈	None	羈
+覊	None	同=羈	None	羈
 而	None	录入中	None	None
 𦓎	None	录入中	None	None
 𦓏	None	录入中	None	None
