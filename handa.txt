@@ -52300,42 +52300,122 @@
 𦣩	wang3	违背	None	None
 臦	guang4	乖违；违背	None	None
 臦	jiong3	同=囧 人名用字	None	囧
-臧	None	录入中	None	None
-𦣮	None	录入中	None	None
-𠽺	None	录入中	None	None
-𦣯	None	录入中	None	None
-𢨑	None	录入中	None	None
-𠿦	None	录入中	None	None
-𡒥	None	录入中	None	None
-臨	None	录入中	None	None
-臩	None	录入中	None	None
-𦣲	None	录入中	None	None
-䑑	None	录入中	None	None
-𠥸	None	录入中	None	None
-𦣴	None	录入中	None	None
-𦦶	None	录入中	None	None
-𦣷	None	录入中	None	None
-襾	None	录入中	None	None
-西	None	录入中	None	None
-𧟡	None	录入中	None	None
-𧟢	None	录入中	None	None
+臧	zang1	战争中被虏获为奴隶的人	None	None
+臧	zang1	供人使役者的贱称	None	None
+臧	zang1	以婢为妻及其所生之子	None	None
+臧	zang1	流亡的奴仆	None	None
+臧	zang1	成功	None	None
+臧	zang1	善，好	None	None
+臧	zang1	认为好；称许	None	None
+臧	zang1	演奏管乐的一种指法	None	None
+臧	zang1	厚	None	None
+臧	zang1	赃物 后作=贜	None	贜
+臧	zang1	通=葬 埋葬	None	葬
+臧	zang1	古地名 故地在今陕西省渭河附近	None	None
+臧	zang1	姓	None	None
+臧	cang2	隐藏；收存 后作=藏	None	藏
+臧	zang4	库藏，储存的东西 后作=藏	None	藏
+臧	zang4	内脏 后作=臟	None	臟
+𦣮	None	同=孤	None	孤
+𠽺	None	同=嚚	None	嚚
+𦣯	jia1	@	None	None
+𢨑	None	同=臧	None	臧
+𠿦	None	同=嚚	None	嚚
+𡒥	None	同=臧	None	臧
+臨	lin2	察视；居上视下	None	None
+臨	lin2	降临，从上面到下面去	None	None
+臨	lin2	统治；治理	None	None
+臨	lin2	守卫	None	None
+臨	lin2	进攻	None	None
+臨	lin2	来到；到达 如：双喜临门；大难临头	None	None
+臨	lin2	接近；靠近	None	None
+臨	lin2	面对 如：临危不惧	None	None
+臨	lin2	照耀	None	None
+臨	lin2	给予；加给	None	None
+臨	lin2	照着字画模仿 如：临摹；临帖	None	None
+臨	lin2	大	None	None
+臨	lin2	古代战车名	None	None
+臨	lin2	六十四卦之一 卦形为x，兑小坤上	None	None
+臨	lin2	副词 正当；将要 如：临走；临产；临别赠言	None	None
+臨	lin2	古称两船相连	None	None
+臨	lin2	地名 春秋时晋邑，故地在今河北省临城县境	None	None
+臨	lin2	姓	None	None
+臨	lin4	哭吊死者	None	None
+臨	lin4	偏向	None	None
+臩	guang3	惊跑	None	None
+臩	guang3	往来	None	None
+臩	jiong3	同=冏 人名用字	None	冏
+𦣲	None	同=臨	None	臨
+䑑	None	同=僕	None	僕
+𠥸	None	同=䖙	None	䖙
+𦣴	huan2	坚硬	None	None
+𦦶	None	同=壤	None	壤
+𦣷	None	同=臨	None	臨
+襾	ya4	覆盖；包裹	None	None
+西	xi1	鸟类歇宿 后作=棲	None	棲
+西	xi1	方位名 太阳落下的一方 与“东”相对	None	None
+西	xi1	向西；往西	None	None
+西	xi1	古称西边的邻国	None	None
+西	xi1	吸氧；内容或形式属于西洋的 如：西服；泰西	None	None
+西	xi1	西天的简称 佛经中指佛祖所在之处为极乐世界，也叫西天	None	None
+西	xi1	西班牙的简称	None	None
+西	xi1	古县名 在今甘肃省天水市西南	None	None
+西	xi1	姓	None	None
+西	xi1	西门子的简称 国际单位制中的电导单位 电阻为1欧的导体的电导 1西等于1欧^-1	None	None
+𧟡	ming4	同	None	None
+𧟢	None	山名	None	None
 𧟣	None	录入中	None	None
-𧟤	None	录入中	None	None
-䙲	None	录入中	None	None
-要	None	录入中	None	None
-𧟧	None	录入中	None	None
-𧟩	None	录入中	None	None
-𧟨	None	录入中	None	None
-覂	None	录入中	None	None
-䙳	None	录入中	None	None
-𧟪	None	录入中	None	None
-𧟬	None	录入中	None	None
-䙵	None	录入中	None	None
-䙴	None	录入中	None	None
-覃	None	录入中	None	None
-𧟯	None	录入中	None	None
-𧟰	None	录入中	None	None
-覅	None	录入中	None	None
+𧟤	None	=𧟨的讹字	None	𧟨
+䙲	None	同=䙴(遷)	None	䙴
+要	yao1	人体胯上胁下部分 后作=腰	None	腰
+要	yao1	系在腰间	None	None
+要	yao1	邀请	None	None
+要	yao1	相约；交往	None	None
+要	yao1	拦阻；截击	None	None
+要	yao1	约束；控制	None	None
+要	yao1	求取；求得	None	None
+要	yao1	要挟	None	None
+要	yao1	会合；符合	None	None
+要	yao1	察劾	None	None
+要	yao1	五服之一，古代称离都城一千五百里至二千里的地区	None	None
+要	yao1	古代群裳上端围在腰际的部分 后作=䙅	None	䙅
+要	yao1	姓	None	None
+要	yao4	纲要；关键	None	None
+要	yao4	少；简略	None	None
+要	yao4	会计；簿书	None	None
+要	yao4	想；希望	None	None
+要	yao4	讨；索取 如：要账	None	None
+要	yao4	叫；让	None	None
+要	yao4	须；应当	None	None
+要	yao4	将要；快要 表示事物发展的趋势	None	None
+要	yao4	表示比较、估计	None	None
+要	yao4	总括；总之	None	None
+要	yao4	连词 1.表示假设关系，相当于“如果”、“若是” 2.表示选择关系，相当于“要么……要么……” 如：要就去，要就不去，总得作一个决定	None	None
+要	yao3	[要褭]也作“騕褭” 骏马名	None	None
+𧟧	None	同=䙳	None	䙳
+𧟩	None	同=覃	None	覃
+𧟨	xuan2	人名用字 吴王孙休次子字	None	None
+覂	feng3	翻覆	None	None
+覂	feng3	缺乏	None	None
+覂	ban3	舍弃	None	None
+䙳	biao1	同=熛	None	熛
+䙳	e4	盖	None	None
+𧟪	None	同=珍	None	珍
+𧟬	None	同=虚	None	虚
+䙵	xie2	鄙	None	None
+䙵	xie2	姓	None	None
+䙴	None	同=遷	None	遷
+覃	tan2	滋味深长	None	None
+覃	tan2	长，悠长	None	None
+覃	tan2	蔓延；延及	None	None
+覃	tan2	广施（恩惠）	None	None
+覃	tan2	姓	None	None
+覃	yan3	通=剡 锐利	None	剡
+覃	yan3	深入	None	None
+覃	qin2	姓	None	None
+𧟯	None	同=虧	None	虧
+𧟰	None	同=覅	None	覅
+覅	fiao4	方言 “勿要”二字的合音，流行于江浙一带	None	None
 𧟲	None	录入中	None	None
 𧟳	None	录入中	None	None
 𧟴	None	录入中	None	None
