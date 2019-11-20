@@ -54240,28 +54240,63 @@
 罫	gua4	阻碍；绊住	None	None
 罫	guai3	棋盘上画的方格子	None	None
 罫	guai3	罗网的方孔	None	None
-署	None	录入中	None	None
-睪	None	录入中	None	None
-𦋊	None	录入中	None	None
-置	None	录入中	None	None
-𦋪	None	录入中	None	None
-罧	None	录入中	None	None
-罭	None	录入中	None	None
-睘	None	录入中	None	None
-罨	None	录入中	None	None
-𥇡	None	录入中	None	None
-𦋈	None	录入中	None	None
-罪	None	录入中	None	None
-罩	None	录入中	None	None
-𦋇	None	录入中	None	None
-𥆞	None	录入中	None	None
-䍛	None	录入中	None	None
-䍝	None	录入中	None	None
-𦋋	None	录入中	None	None
-𦋌	None	录入中	None	None
-䍜	None	录入中	None	None
-𦋉	None	录入中	None	None
-𦋅	None	录入中	None	None
+署	shu3	部署；布置	None	None
+署	shu3	官署；办公的处所 如：公署	None	None
+署	shu3	代理、暂任或试充官职	None	None
+署	shu3	签名；题字 如：署名	None	None
+睪	yi4	伺视；侦察	None	None
+睪	yi4	姓	None	None
+睪	ze2	同=擇	None	擇
+睪	ze2	通=澤 1.香草名，即泽兰 2.水边	None	澤
+睪	du4	同=殬 败	None	殬
+睪	gao1	同=睾 睾丸	None	睾
+睪	gao1	通=臯(皋)	None	臯
+睪	gao1	通=皞(hao4) 广大貌	None	皞
+𦋊	None	同=箕	None	箕
+置	zhi4	赦免；释放	None	None
+置	zhi4	废弃	None	None
+置	zhi4	搁置；停下	None	None
+置	zhi4	安置	None	None
+置	zhi4	栽植	None	None
+置	zhi4	树立；竖立	None	None
+置	zhi4	设立	None	None
+置	zhi4	确立	None	None
+置	zhi4	购置；备办	None	None
+置	zhi4	驿站	None	None
+置	zhi4	通=直(值) 价值；作价	None	直
+𦋪	None	同=誕	None	誕
+罧	shen4	积柴于水中以取鱼	None	None
+罭	yu4	捕小鱼的细眼网，通称“九罭”	None	None
+睘	None	同=瞏	None	瞏
+罨	yan3	从上盖下的一种网，俗称撒网 用以捕鱼或捕鸟	None	None
+罨	yan3	掩捕	None	None
+罨	yan3	掩盖；覆盖	None	None
+罨	yan3	淹渍	None	None
+罨	yan3	作遮蔽用的东西	None	None
+罨	yan3	用以盛东西的器物	None	None
+𥇡	None	同=睪	None	睪
+𦋈	xian4	鱼网	None	None
+罪	zui4	捕鱼竹网	None	None
+罪	zui4	作恶或犯法的行为 如：有罪；罪大恶极	None	None
+罪	zui4	过失；错误	None	None
+罪	zui4	惩罚；治罪	None	None
+罪	zui4	归罪	None	None
+罪	zui4	祸殃	None	None
+罩	zhao4	捕鱼灯笼	None	None
+罩	zhao4	用笼捕取	None	None
+罩	zhao4	指罩形的器物 如：灯罩	None	None
+罩	zhao4	覆盖；扣住；套在外面	None	None
+罩	zhao4	超越	None	None
+𦋇	None	同=罩	None	罩
+𥆞	juan4	眼圈	None	None
+𥆞	juan4	同=靦 惭愧	None	靦
+䍛	gu4	[𦌕䍛]见“𦌕”	None	None
+䍝	ta4	网	None	None
+𦋋	ji4	同=𦋺(罽) 毡类毛织品	None	𦋺
+𦋌	None	同=兜	None	兜
+䍜	zhao4	罩住家禽或野禽使不飞走 后作=罩	None	罩
+𦋉	bo2	网衣	None	None
+𦋅	xie2	姓	None	None
 蜀	None	录入中	None	None
 𦋓	None	录入中	None	None
 𦋔	None	录入中	None	None
