@@ -51892,19 +51892,38 @@
 䎳	wa4	呵	None	None
 𦕌	None	同=聞	None	聞
 𦕃	None	同=聃	None	聃
-耿	None	录入中	None	None
-耽	None	录入中	None	None
-𦕍	None	录入中	None	None
-𦕁	None	录入中	None	None
-聂	None	录入中	None	None
-聇	None	录入中	None	None
-𦕓	None	录入中	None	None
-𦕐	None	录入中	None	None
-聋	None	录入中	None	None
-𦕒	None	录入中	None	None
-䎶	None	录入中	None	None
-职	None	录入中	None	None
-聃	None	录入中	None	None
+耿	geng3	耳朵贴于脸颊	None	None
+耿	geng3	光明	None	None
+耿	geng3	照耀	None	None
+耿	geng3	正直；刚正不阿	None	None
+耿	geng3	清白	None	None
+耿	geng3	悲伤	None	None
+耿	geng3	联结	None	None
+耿	geng3	方言 高起；突出	None	None
+耿	geng3	地名 1.古邑名 在今河南省温县东 商代自祖乙到陽甲时的都城 2.周国名 在今山西省河津市南汾水南岸，本春秋小国，公元前661年为晋所灭	None	None
+耿	geng3	姓	None	None
+耽	dan1	耳垂在肩上	None	None
+耽	dan1	承受；担负	None	None
+耽	dan1	快乐	None	None
+耽	dan1	嗜；喜好	None	None
+耽	dan1	沉溺；迷恋	None	None
+耽	dan1	玩味；深研	None	None
+耽	dan1	滞留；延搁 如：耽搁；耽一会儿	None	None
+𦕍	None	同=耽	None	耽
+𦕁	None	同=聞	None	聞
+聂	None	=聶的简化字	None	聶
+聇	zheng1	[聇聇]独行	None	None
+𦕓	xu4	同=壻(婿) 女婿	None	壻
+𦕐	None	同=聃	None	聃
+聋	None	=聾的简化字	None	聾
+𦕒	dian1	较小的耳垂	None	None
+䎶	er4	用牲血祭神	None	None
+职	None	=職的简化字	None	職
+聃	dan1	耳长大	None	None
+聃	dan1	吐舌貌	None	None
+聃	dan1	同=耽 玩乐	None	耽
+聃	dan1	古国名	None	None
+聃	dan1	姓	None	None
 聅	None	录入中	None	None
 𦕗	None	录入中	None	None
 聄	None	录入中	None	None
