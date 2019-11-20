@@ -52797,68 +52797,103 @@
 虠	jiao1	虎声	None	None
 虠	hao2	同=號	None	號
 𧇅	None	同=䖑	None	䖑
-𧇑	None	录入中	None	None
-䖒	None	录入中	None	None
-虡	None	录入中	None	None
-虞	None	录入中	None	None
-𣘫	None	录入中	None	None
-虜	None	录入中	None	None
-𧇙	None	录入中	None	None
-𧇐	None	录入中	None	None
-𧇚	None	录入中	None	None
-𧮽	None	录入中	None	None
-𧇛	None	录入中	None	None
-虢	None	录入中	None	None
-𧇞	None	录入中	None	None
-𧇓	None	录入中	None	None
-𧆿	None	录入中	None	None
-𧇭	None	录入中	None	None
-虣	None	录入中	None	None
-𧇃	None	录入中	None	None
-𧇥	None	录入中	None	None
-𧇆	None	录入中	None	None
-𧇜	None	录入中	None	None
-𧇂	None	录入中	None	None
-虥	None	录入中	None	None
-虦	None	录入中	None	None
-𧇒	None	录入中	None	None
-𧇁	None	录入中	None	None
-𧇝	None	录入中	None	None
-虤	None	录入中	None	None
-𧇇	None	录入中	None	None
-𧇮	None	录入中	None	None
-𧇯	None	录入中	None	None
-𧇟	None	录入中	None	None
-䖘	None	录入中	None	None
-𧇢	None	录入中	None	None
-𧇰	None	录入中	None	None
-𧇈	None	录入中	None	None
-𡦨	None	录入中	None	None
-𧇦	None	录入中	None	None
-𧇄	None	录入中	None	None
-𧇶	None	录入中	None	None
-𧇘	None	录入中	None	None
-𧇔	None	录入中	None	None
-䖗	None	录入中	None	None
-𧇱	None	录入中	None	None
-𧇏	None	录入中	None	None
-𧇠	None	录入中	None	None
-𧇷	None	录入中	None	None
-𧇸	None	录入中	None	None
-𧇹	None	录入中	None	None
-䖛	None	录入中	None	None
-䖙	None	录入中	None	None
-𧈄	None	录入中	None	None
-虩	None	录入中	None	None
-𧇣	None	录入中	None	None
-䖚	None	录入中	None	None
-𧇧	None	录入中	None	None
-𧇡	None	录入中	None	None
-𧇤	None	录入中	None	None
-𧇻	None	录入中	None	None
-𧈋	None	录入中	None	None
-虨	None	录入中	None	None
-𧈇	None	录入中	None	None
+𧇑	None	同=虣	None	虣
+䖒	xi1	古代一种形状似豆的陶器	None	None
+虡	ju4	古代悬挂钟、磬架子两旁的柱子	None	None
+虡	ju4	高几	None	None
+虞	yu2	[騶虞]兽名	None	None
+虞	yu2	猜度；料想	None	None
+虞	yu2	准备；戒备	None	None
+虞	yu2	忧虑；忧患	None	None
+虞	yu2	候望	None	None
+虞	yu2	欺诈	None	None
+虞	yu2	亲爱；友好	None	None
+虞	yu2	惊	None	None
+虞	yu2	贻误	None	None
+虞	yu2	古官名 西周始置，掌管山泽禽兽之事 春秋战国时或称“虞人”	None	None
+虞	yu2	古代一种祭祀名	None	None
+虞	yu2	远古部落名，舜为其酋长，居于蒲阪（今山西省永济市附近）	None	None
+虞	yu2	专	None	None
+虞	yu2	助	None	None
+虞	yu2	挑选	None	None
+虞	yu2	通=娱 欢乐	None	娱
+虞	yu2	传说中的朝代名，舜所建	None	None
+虞	yu2	古国名 1.西虞，传说为舜祖先封地 故城在今山西省平陆县东北 周武王克殷，封虞仲于此 春秋时晋侯假道于虞以伐虢，回师时灭虞 2.夏禹封舜的儿子商均于虞 地在今河南省虞城县 夏少康自有仍奔虞，就是此地	None	None
+虞	yu2	姓	None	None
+𣘫	hao2	木名	None	None
+虜	lu3	俘获	None	None
+虜	lu3	抢劫；掠夺	None	None
+虜	lu3	战俘	None	None
+虜	lu3	奴隶；仆人	None	None
+虜	lu3	对敌人的蔑称	None	None
+虜	lu3	古代南方人对北方人的蔑称	None	None
+𧇙	nan2	清三合会旗号专用字 参见“𧆰”	None	None
+𧇐	None	同=虪	None	虪
+𧇚	bo2	清三合会旗号专用字 参见“𧆰”	None	None
+𧮽	qian4	虎怒貌	None	None
+𧇛	hu1	@	None	None
+虢	guo2	虎所攫画之迹	None	None
+虢	guo2	暴；勇猛	None	None
+虢	guo2	周代国名 1.西虢 周文王弟虢仲的封地，在今陕西省宝鸡市陈仓区东，公元前687年为秦所灭 2.南虢 周平王东迁，西虢徙于上阳，称南虢，地在今河南省陕县东南，春秋时灭于晋 3.东虢 周文王弟虢叔所封之地，在今河南省荥阳市东北，公元前767年为郑所灭 4.北虢 虢仲后代的封地，在今山西省平陆县	None	None
+虢	guo2	唐代州名 治今河南省灵宝市	None	None
+虢	guo2	姓 虢仲、虢叔之后，后改作郭	None	None
+𧇞	qiang1	虎类	None	None
+𧇓	yue4	虎睡	None	None
+𧇓	yue4	虎困	None	None
+𧆿	None	=庸的讹字	None	庸
+𧇭	None	同=虣	None	虣
+虣	bao4	猛兽	None	None
+虣	bao4	同=暴 暴虐	None	暴
+𧇃	None	同=虨	None	虨
+𧇥	ban1	虎纹	None	None
+𧇆	None	同=𧇽	None	𧇽
+𧇜	qi4	兽很不动貌	None	None
+𧇂	None	同=虎	None	虎
+虥	zhan4	同=虦 浅毛虎	None	虦
+虥	zhan4	猫	None	None
+虦	zhan3	[虦猫]浅毛虎	None	None
+𧇒	None	同=虣	None	虣
+𧇁	None	同=虍	None	虍
+𧇝	shu1	虎行入林	None	None
+虤	yan3	虎怒	None	None
+𧇇	None	同=䖕	None	䖕
+𧇮	he2	清三合会旗号专用字	None	None
+𧇯	ji4	清三合会旗号专用字 参见“𧆰”	None	None
+𧇟	zhou1	虎习貌	None	None
+䖘	tu2	[於䖘]虎	None	None
+𧇢	None	同=䖘	None	䖘
+𧇰	hu4	@	None	None
+𧇈	zu4	且往	None	None
+𡦨	dan3	@	None	None
+𧇦	kan3	甝属	None	None
+𧇄	lu2	同=𧆣 盛饭的器皿	None	𧆣
+𧇄	lu2	虎纹	None	None
+𧇶	chun1	清三合会旗号专用字 参见“𧆰”	None	None
+𧇘	None	同=詛	None	詛
+𧇔	None	同=凱	None	凱
+䖗	None	同=麙	None	麙
+𧇱	yan3	虎熊绝有力	None	None
+𧇏	None	同=𧆣	None	𧆣
+𧇠	yao3	[𠿕𧇠]不安；不平	None	None
+𧇷	ding3	@	None	None
+𧇸	qiu1	清三合会旗号专用字 参见“𧆰”	None	None
+𧇹	hou2	清三合会旗号专用字 参见“𧆰”	None	None
+䖛	suo3	虎貌	None	None
+䖙	ti1	卧	None	None
+䖙	ti1	虎卧息貌	None	None
+𧈄	xia4	清三合会旗号专用字 参见“𧆰”	None	None
+虩	xi4	[虩虩]恐惧貌	None	None
+虩	xi4	蝇虎	None	None
+虩	se4	虎受惊貌	None	None
+𧇣	None	=𧇿的讹字	None	𧇿
+䖚	wu1	[䖚䖘]虎	None	None
+𧇧	None	=虢的讹字	None	虢
+𧇡	gu1	息；姑息	None	None
+𧇤	None	同=處	None	處
+𧇻	None	同=䖑	None	䖑
+𧈋	None	同=菟	None	菟
+虨	bin1	虎皮上的斑纹	None	None
+𧈇	None	同=虨	None	虨
 𧈅	None	录入中	None	None
 𧇺	None	录入中	None	None
 𧇲	None	录入中	None	None
