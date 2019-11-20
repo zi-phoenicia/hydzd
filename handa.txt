@@ -52264,22 +52264,42 @@
 𦘍	wai4	极聋	None	None
 𦘍	wa4	没有耳翼	None	None
 𥽳	qi4	以新谷汁渍旧谷	None	None
-臣	None	录入中	None	None
-卧	None	录入中	None	None
-臥	None	录入中	None	None
-臤	None	录入中	None	None
-𠄱	None	录入中	None	None
-𦣟	None	录入中	None	None
-𦣢	None	录入中	None	None
-𦣣	None	录入中	None	None
-𦣠	None	录入中	None	None
-䑐	None	录入中	None	None
-𦣥	None	录入中	None	None
-𦣦	None	录入中	None	None
-𦣧	None	录入中	None	None
-𦣨	None	录入中	None	None
-𦣩	None	录入中	None	None
-臦	None	录入中	None	None
+臣	chen2	战俘	None	None
+臣	chen2	奴仆	None	None
+臣	chen2	国君所统属的众民	None	None
+臣	chen2	君主制时的官吏	None	None
+臣	chen2	古人自称 1.对君 2.对父 3.对一般人 表示自谦	None	None
+臣	chen2	泛指物的配属	None	None
+臣	chen2	尽臣的本分	None	None
+臣	chen2	役使；统属	None	None
+臣	chen2	认罪	None	None
+臣	chen2	姓	None	None
+卧	None	同=臥 “臥”，后作“卧”	None	臥
+臥	wo4	伏着休息	None	None
+臥	wo4	眠，睡	None	None
+臥	wo4	睡觉的地方 指寝室或床	None	None
+臥	wo4	停息	None	None
+臥	wo4	隐居	None	None
+臥	wo4	倒伏	None	None
+臥	wo4	横陈着	None	None
+臥	wo4	燠，暖	None	None
+臤	qian1	坚固	None	None
+臤	xian2	同=賢	None	賢
+臤	qin4	人名用字 也作=堅	None	堅
+𠄱	yi2	阳气	None	None
+𦣟	None	大山名	None	None
+𦣢	shui4	@	None	None
+𦣣	None	同=臧	None	臧
+𦣠	None	同=朢(望)	None	朢
+䑐	None	同=𥅘	None	𥅘
+𦣥	mi4	@ ……按：……疑𦣥是=𨸼的讹字	None	𨸼
+𦣦	wang2	@	None	None
+𦣧	ce4	@	None	None
+𦣨	jian1	@	None	None
+𦣨	sheng4	同=聖	None	聖
+𦣩	wang3	违背	None	None
+臦	guang4	乖违；违背	None	None
+臦	jiong3	同=囧 人名用字	None	囧
 臧	None	录入中	None	None
 𦣮	None	录入中	None	None
 𠽺	None	录入中	None	None
