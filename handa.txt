@@ -52472,38 +52472,103 @@
 耑	duan1	同=端	None	端
 耑	zhuan1	同=專	None	專
 耑	zhuan1	同=𦓚 古代盛酒器	None	𦓚
-耏	None	录入中	None	None
-䎠	None	录入中	None	None
-耍	None	录入中	None	None
-䎡	None	录入中	None	None
-㐡	None	录入中	None	None
-𦓔	None	录入中	None	None
-𦓕	None	录入中	None	None
-𦓖	None	录入中	None	None
-𦓗	None	录入中	None	None
-𦓘	None	录入中	None	None
-𦓚	None	录入中	None	None
-𦓙	None	录入中	None	None
-𦓞	None	录入中	None	None
-𦓝	None	录入中	None	None
-𦓠	None	录入中	None	None
-𦓟	None	录入中	None	None
-𦓢	None	录入中	None	None
-𦓣	None	录入中	None	None
-至	None	录入中	None	None
-𦤳	None	录入中	None	None
-𦤵	None	录入中	None	None
-𦤸	None	录入中	None	None
-𦤶	None	录入中	None	None
-𦤹	None	录入中	None	None
-致	None	录入中	None	None
-𦤻	None	录入中	None	None
-𦤽	None	录入中	None	None
-𦤿	None	录入中	None	None
-臷	None	录入中	None	None
-臶	None	录入中	None	None
-臹	None	录入中	None	None
-臸	None	录入中	None	None
+耏	nai4	剃除颊须 古代的一种轻刑	None	None
+耏	er2	同=而 颊须	None	而
+耏	er2	兽多毛；兽毛	None	None
+耏	er2	水名 在今山东省淄博市西北	None	None
+耏	er2	姓	None	None
+䎠	er2	手搓物使转动	None	None
+䎠	nuo4	同=愞 懦弱	None	愞
+耍	shua3	戏耍；玩耍	None	None
+耍	shua3	戏弄；捉弄	None	None
+耍	shua3	施展；使用 如：耍手段；耍两面派手法	None	None
+耍	shua3	赌博 如：耍钱	None	None
+䎡	ruan3	退缩	None	None
+䎡	ruan3	柔弱	None	None
+㐡	None	同=懦	None	懦
+𦓔	er2	连系	None	None
+𦓔	er2	用同=蠕(ru2)	None	蠕
+𦓔	xu1	同=需	None	需
+𦓕	None	nv2	None	None
+𦓕	None	@	None	None
+𦓖	nv4	忧愁貌	None	None
+𦓗	None	同=黻	None	黻
+𦓘	None	同=耏	None	耏
+𦓚	None	同=𦓝	None	𦓝
+𦓙	None	=𦓝的讹字	None	𦓝
+𦓞	None	同=黼	None	黼
+𦓝	zhuan3	小盛酒器	None	None
+𦓠	None	同=胹	None	胹
+𦓟	None	同=䵎	None	䵎
+𦓢	nuo4	@	None	None
+𦓣	None	同=䵎	None	䵎
+至	zhi4	鸟从高处飞到地上	None	None
+至	zhi4	到；来到	None	None
+至	zhi4	及；达到	None	None
+至	zhi4	极点；到极点	None	None
+至	zhi4	尽；穷尽	None	None
+至	zhi4	大	None	None
+至	zhi4	甚	None	None
+至	zhi4	善；善于	None	None
+至	zhi4	最好的 如：至德；至理	None	None
+至	zhi4	周密；周到	None	None
+至	zhi4	实，实质	None	None
+至	zhi4	导致	None	None
+至	zhi4	恰当	None	None
+至	zhi4	壅闭；堵塞 后作=窒	None	窒
+至	zhi4	节气名 指冬至、夏至	None	None
+至	zhi4	中医称脉搏跳动	None	None
+至	zhi4	须要；必定	None	None
+至	zhi4	连词 表示转折关系，相当于“至于”	None	None
+至	zhi4	副词 1.最；极 2.竟；竟至	None	None
+至	zhi4	介词 相当于“到……时候” 1.表时间 2.表达到的数量	None	None
+至	zhi4	同=致 给予	None	致
+至	zhi4	通=制 制度	None	制
+至	zhi4	通=志 志向；意志	None	志
+至	die2	[單至]轻发貌	None	None
+𦤳	None	同=至	None	至
+𦤵	None	同=至	None	至
+𦤸	chi4	@	None	None
+𦤶	None	同=致	None	致
+𦤹	None	同=致	None	致
+致	zhi4	送去；送到	None	None
+致	zhi4	达到	None	None
+致	zhi4	传达	None	None
+致	zhi4	施行；执行	None	None
+致	zhi4	招引；引来	None	None
+致	zhi4	致使；导致	None	None
+致	zhi4	求得；取得	None	None
+致	zhi4	委；给予	None	None
+致	zhi4	归还	None	None
+致	zhi4	竭尽；穷尽	None	None
+致	zhi4	详审，推究	None	None
+致	zhi4	周纳；纳入	None	None
+致	zhi4	就	None	None
+致	zhi4	志向；目标	None	None
+致	zhi4	意态；情趣 如：兴致；情致	None	None
+致	zhi4	事理	None	None
+致	zhi4	精密；周密 后作=緻 今为“緻”的简化字	None	緻
+致	zhi4	置；置办	None	None
+致	zhi4	副词 极，极其	None	None
+致	zhi4	通=制 控制	None	制
+致	zhi4	通=質 书券，契据	None	質
+致	zhui4	积累	None	None
+𦤻	zhi4	[𠍹𦤻]见“𠍹”	None	None
+𦤽	ni2	@	None	None
+𦤿	None	同=屋	None	屋
+臷	die2	同=耋 八十岁	None	耋
+臷	die2	同=迭 经常；累次	None	迭
+臷	die2	更替	None	None
+臷	die2	通=驖	None	驖
+臷	zhi4	古国名	None	None
+臶	jian4	人名用字	None	None
+臶	jian4	到；再到	None	None
+臶	jian4	重；再	None	None
+臹	xiu1	习	None	None
+臹	xiu1	进	None	None
+臸	zhi1	到达	None	None
+臸	zhi1	如一	None	None
+臸	jin4	前往	None	None
 臵	None	录入中	None	None
 䑓	None	录入中	None	None
 𦥁	None	录入中	None	None
