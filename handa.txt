@@ -52446,12 +52446,32 @@
 𧠄	None	同=覉	None	覉
 覉	None	同=羈	None	羈
 覊	None	同=羈	None	羈
-而	None	录入中	None	None
-𦓎	None	录入中	None	None
-𦓏	None	录入中	None	None
-耐	None	录入中	None	None
-耎	None	录入中	None	None
-耑	None	录入中	None	None
+而	er2	颊毛 凡鳞毛之下垂者都称而	None	None
+而	er2	如；像似	None	None
+而	er2	即，就是 常与“非”对用，构成“非……而……”	None	None
+而	er2	代词 1.表示对称，相当于“你” 2.表示领有，相当于“你的” 3.表示指示，相当于“此”	None	None
+而	er2	副词 1.表示时间，相当于“才” 2.表示范围，相当于“只”、“唯独” 3.表示继续，相当于“犹”、“还”	None	None
+而	er2	连词 1.表示并列，相当于“和”、“与” 2.表示承接 a.动作因循相继 b.相当于“就” 3.表示假设，相当于“如果” 4.表示因果，相当于“因而”、“所以” 5.表示转折，相当于“却”、“然而” 6.提出程度更甚的明显事例为衬托，下半句常用“何况”、“而况”相呼应，相当于“且”、“尚且” 7.连接修饰语与动词	None	None
+而	er2	助词 1.表示偏正关系，相当于“之”、“的” 2.与“上”、“下”、“前”、“后”、“来”、“往”连用，相当于“以”	None	None
+而	er2	语气词 1.用于句中，表示反问，相当于“岂”、“难道” 2.用于句末，近于“兮”，相当于“耳”、“哪”	None	None
+而	neng2	同=能 1.能够 2.安 3.才能	None	能
+𦓎	nai4	同=耏 剃除颊须 古代的一种轻刑	None	耏
+𦓏	None	=䎠的讹字	None	䎠
+耐	nai4	同=耏 剃除颊须 古代的一种轻刑	None	耏
+耐	nai4	禁得起；受得住	None	None
+耐	nai4	适合	None	None
+耐	nai4	宁；愿	None	None
+耐	nai4	同=奈	None	奈
+耐	nai4	方言 你	None	None
+耐	neng2	同=能	None	能
+耎	ruan3	物体前较大于后	None	None
+耎	ruan3	弱 与“强”相对	None	None
+耎	ruan3	软 与“硬”相对	None	None
+耎	ruan3	退缩	None	None
+耎	nuo4	同=懦	None	懦
+耑	duan1	同=端	None	端
+耑	zhuan1	同=專	None	專
+耑	zhuan1	同=𦓚 古代盛酒器	None	𦓚
 耏	None	录入中	None	None
 䎠	None	录入中	None	None
 耍	None	录入中	None	None
