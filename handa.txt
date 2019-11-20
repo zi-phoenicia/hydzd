@@ -54297,38 +54297,58 @@
 䍜	zhao4	罩住家禽或野禽使不飞走 后作=罩	None	罩
 𦋉	bo2	网衣	None	None
 𦋅	xie2	姓	None	None
-蜀	None	录入中	None	None
-𦋓	None	录入中	None	None
-𦋔	None	录入中	None	None
-𦋆	None	录入中	None	None
+蜀	shu3	蛾蝶类的幼虫 后作=蠋	None	蠋
+蜀	shu3	一；独	None	None
+蜀	shu3	大鸡	None	None
+蜀	shu3	祭器	None	None
+蜀	shu3	古族名、国名 在今四川省西部	None	None
+蜀	shu3	朝代名 1.三国时蜀汉的简称 旧地在今四川省、云南省、贵州省、重庆市一带 2.五代时，王建据有东西二川，在成都称帝，建国号曰蜀，为后唐所灭，史称前蜀 3.后堂孟知祥在蜀，封蜀王，自称帝，国号蜀，为宋所灭，史称后蜀	None	None
+蜀	shu3	地名 1.春秋时鲁地，在今山东省泰安市东南 2.郡名 秦置 汉、隋以来皆因之，地在今四川省西北部	None	None
+蜀	shu3	星名 十二宫星大火之一	None	None
+蜀	shu3	姓 帝喾封支子于蜀，其后以国为氏	None	None
+𦋓	None	同=㒽	None	㒽
+𦋔	lu4	[𦋔𦌊]也作“𦋔𦌉” 下垂的样子	None	None
+𦋆	gu1	同=罛 大鱼网	None	罛
 罬	None	录入中	None	None
-罴	None	录入中	None	None
-𦋡	None	录入中	None	None
-罱	None	录入中	None	None
-𦋞	None	录入中	None	None
-罳	None	录入中	None	None
-𦋢	None	录入中	None	None
-䍟	None	录入中	None	None
-罰	None	录入中	None	None
-罯	None	录入中	None	None
-𦋤	None	录入中	None	None
-𦋠	None	录入中	None	None
-𦋣	None	录入中	None	None
-𦋝	None	录入中	None	None
-𦋟	None	录入中	None	None
-𦋥	None	录入中	None	None
-𦋱	None	录入中	None	None
-𢆦	None	录入中	None	None
-瞏	None	录入中	None	None
-𡙷	None	录入中	None	None
-罼	None	录入中	None	None
-𦋳	None	录入中	None	None
-𦋹	None	录入中	None	None
-𦋯	None	录入中	None	None
-𦋴	None	录入中	None	None
-𦋲	None	录入中	None	None
-罶	None	录入中	None	None
-罸	None	录入中	None	None
+罴	None	=羆的简化字	None	羆
+𦋡	mou3	网	None	None
+罱	lan3	捕鱼或捞水草、河泥的工具 在两根平行的短竹竿上张一个网，再装两根交叉的长竹柄做成，两手握住柄使网开合	None	None
+罱	lan3	用罱捞 如：罱河泥；罱泥船	None	None
+𦋞	shuo4	[㩋𦋞]鸟网形	None	None
+罳	si1	[罘罳]1.古代宫门外的屏；也指一般的门屏 汉代称罘罳，后又叫照壁 2.古代宫殿城墙四角上的小楼，用于守望 因形状与门屏相似，故称 3.张在窗户或屋檐下以防鸟雀的网	None	None
+𦋢	None	同=𠕦	None	𠕦
+䍟	zong3	[䍟罟]同“=緵罟” 一种网眼细密的鱼网	None	緵
+罰	fa2	过错；罪过	None	None
+罰	fa2	处罚；惩治	None	None
+罰	fa2	伐；杀	None	None
+罰	fa2	出钱赎罪	None	None
+罰	fa2	星名 1.伐星，在参宿 2.火星，古称荧惑星，又称罚星	None	None
+罰	fa2	用同=發(fa1) 说出；表达	None	發
+罯	an3	覆盖	None	None
+罯	an3	鱼网	None	None
+𦋤	None	=㒾的讹字	None	㒾
+𦋠	None	同=𦌔	None	𦌔
+𦋣	han4	古代卿、大夫以上的人所戴的礼帽，后专指皇冠	None	None
+𦋝	None	同=羅	None	羅
+𦋟	None	同=网	None	网
+𦋥	yue1	[𦋥𦊲]鱼网	None	None
+𦋱	None	同=羈	None	羈
+𢆦	None	同=諫	None	諫
+瞏	qiong2	目惊视	None	None
+瞏	qiong2	忧愁	None	None
+瞏	qiong2	孤独无依貌	None	None
+瞏	huan2	同=還 复返	None	還
+𡙷	None	同=𡚇	None	𡚇
+罼	bi4	同=畢 古代用以掩捕鸟、兔的长柄网 也指用长柄网捕取鸟兽	None	畢
+罼	bi4	古代帝王的一种仪仗	None	None
+𦋳	gang1	网	None	None
+𦋹	None	同=瞐	None	瞐
+𦋯	shen4	同=罧 积柴于水中以取鱼	None	罧
+𦋯	yu2	网	None	None
+𦋴	None	同=𦋺(罽)	None	𦋺
+𦋲	None	同=置	None	置
+罶	liu3	捕鱼的竹器，即笱	None	None
+罸	None	同=罰	None	罰
 䍠	None	录入中	None	None
 𦋰	None	录入中	None	None
 𦋺	None	录入中	None	None
