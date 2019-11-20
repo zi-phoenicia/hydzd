@@ -52714,33 +52714,89 @@
 虚	xu1	星名 二十八宿之一，北方玄武七宿的第四宿 有星四颗 又作“玄枵”次的标志星	None	None
 虚	xu1	春秋时地名 1.宋地名 2.晋地名	None	None
 虚	xu1	姓	None	None
-虘	None	录入中	None	None
-䖕	None	录入中	None	None
-𧆥	None	录入中	None	None
-䖖	None	录入中	None	None
-號	None	录入中	None	None
-𧆨	None	录入中	None	None
-𧆭	None	录入中	None	None
-𧆮	None	录入中	None	None
-虗	None	录入中	None	None
-𧆽	None	录入中	None	None
-虖	None	录入中	None	None
-𧆺	None	录入中	None	None
-𧆩	None	录入中	None	None
-𧆧	None	录入中	None	None
-䖏	None	录入中	None	None
-處	None	录入中	None	None
-𧆼	None	录入中	None	None
-虙	None	录入中	None	None
-䖓	None	录入中	None	None
-𧆾	None	录入中	None	None
-𧆱	None	录入中	None	None
-虛	None	录入中	None	None
-𧇌	None	录入中	None	None
-𧇍	None	录入中	None	None
-𧇎	None	录入中	None	None
-虠	None	录入中	None	None
-𧇅	None	录入中	None	None
+虘	cuo2	虎刚暴矫诈	None	None
+虘	cuo2	虎纹	None	None
+䖕	zu3	生虎	None	None
+𧆥	xia2	虎习搏	None	None
+𧆥	xia2	同=狎	None	狎
+𧆥	xia2	同=柙	None	柙
+䖖	xia2	虎习貌	None	None
+䖖	xia2	同=𧆥	None	𧆥
+號	hao2	呼叫	None	None
+號	hao2	动物鸣叫	None	None
+號	hao2	风发出声音	None	None
+號	hao2	大声哭 如：号泣；号恸	None	None
+號	hao2	通=胡(hu2) 何；为什么	None	胡
+號	hao4	召唤；呼唤	None	None
+號	hao4	号令；命令 如：发号施令	None	None
+號	hao4	发令	None	None
+號	hao4	扬言；宣称	None	None
+號	hao4	称谓；给以称号	None	None
+號	hao4	名称 如：国号；年号；封号；谥号等	None	None
+號	hao4	别号，名字以外的别名	None	None
+號	hao4	旧指商店 如：兴隆号；宝号	None	None
+號	hao4	标志；记号 如：号衣；暗号	None	None
+號	hao4	做记号；登记	None	None
+號	hao4	用来识别敌我的口令、暗语	None	None
+號	hao4	某种处所 1.旅途住宿的地方 2.科举考场中考生的席舍号房的省称	None	None
+號	hao4	乐器名 1.号筒的略称 2.军队和乐队所用的喇叭 如：军号；圆号 也指用号吹出表示一定意义的声音 如：起床号；集合号；冲锋号	None	None
+號	hao4	种；类（含贬义）	None	None
+號	hao4	排定的次序或登记 如：挂号；编号；五号铅字	None	None
+號	hao4	中医术语 切脉的俗称	None	None
+號	hao4	量词 1.表示人数的单位 2.表示次序（多放在数目字之后） 如：五十四号文件；车牌108号 又特指一个月里的日子 如：十月一号	None	None
+號	hao4	姓	None	None
+𧆨	None	同=𧇄	None	𧇄
+𧆭	None	同=𧆨	None	𧆨
+𧆮	None	同=虎	None	虎
+虗	None	同=虚	None	虚
+𧆽	None	同=䖑	None	䖑
+虖	hu1	虎吼	None	None
+虖	hu1	同=呼	None	呼
+虖	hu1	同=乎 1.介词 相当于“于”、“於” 2.语气词	None	乎
+虖	hu1	姓	None	None
+虖	hu4	人名用字	None	None
+𧆺	ling2	兽名	None	None
+𧆩	None	同=虐	None	虐
+𧆧	None	同=虐	None	虐
+䖏	None	同=處	None	處
+處	chu3	暂止；休息	None	None
+處	chu3	中止；停止	None	None
+處	chu3	留，留下	None	None
+處	chu3	居住；栖息	None	None
+處	chu3	交往；在一道生活 如：处得来；和平共处	None	None
+處	chu3	女未嫁，士未出仕皆称处	None	None
+處	chu3	位置在（某处） 如：处心积虑；设身处地	None	None
+處	chu3	安顿	None	None
+處	chu3	自居	None	None
+處	chu3	享有；据有	None	None
+處	chu3	担任；委任	None	None
+處	chu3	审度；辨察	None	None
+處	chu3	分别	None	None
+處	chu3	决定；决断	None	None
+處	chu3	处置；办理	None	None
+處	chu3	惩罚 如：惩处	None	None
+處	chu3	姓	None	None
+處	chu4	处所；地方 如：住处；何处	None	None
+處	chu4	时刻；时间	None	None
+處	chu4	地位	None	None
+處	chu4	定准	None	None
+處	chu4	事物的方面或部分 如：长处；短处；不足之处；大处落墨	None	None
+處	chu4	政府中的机关或机关团体的部门 如：军机处；侍卫处；联络处；教务处；办事处	None	None
+處	ju4	人名用字 也作=據	None	據
+𧆼	zhong1	虎文赤黑	None	None
+𧆼	dong1	清三合会旗号专用字 参见“𧆰”	None	None
+虙	fu2	虎貌	None	None
+虙	fu2	通=伏 藏；埋伏	None	伏
+䖓	na4	虎行貌	None	None
+𧆾	None	同=𧇽	None	𧇽
+𧆱	None	同=虐	None	虐
+虛	None	同=虚	None	虚
+𧇌	tong2	清三合会旗号专用字	None	None
+𧇍	xia1	@	None	None
+𧇎	he2	清三合会旗号专用字	None	None
+虠	jiao1	虎声	None	None
+虠	hao2	同=號	None	號
+𧇅	None	同=䖑	None	䖑
 𧇑	None	录入中	None	None
 䖒	None	录入中	None	None
 虡	None	录入中	None	None
