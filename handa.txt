@@ -52105,46 +52105,95 @@
 䏃	mian2	听	None	None
 䏃	mian2	注意听	None	None
 䏃	ming2	行而上听	None	None
-𦗃	None	录入中	None	None
-聮	None	录入中	None	None
-𦗙	None	录入中	None	None
-聲	None	录入中	None	None
-聴	None	录入中	None	None
-𦗚	None	录入中	None	None
-䏆	None	录入中	None	None
-𦗛	None	录入中	None	None
-䏇	None	录入中	None	None
-鵈	None	录入中	None	None
-聰	None	录入中	None	None
-𦗜	None	录入中	None	None
-聳	None	录入中	None	None
-䏅	None	录入中	None	None
-𦗕	None	录入中	None	None
-𦗓	None	录入中	None	None
-𦗐	None	录入中	None	None
-𦗑	None	录入中	None	None
-𦗥	None	录入中	None	None
-𫆏	None	录入中	None	None
-䏄	None	录入中	None	None
-𦗗	None	录入中	None	None
-𦗖	None	录入中	None	None
-聯	None	录入中	None	None
-𦗔	None	录入中	None	None
-𦗭	None	录入中	None	None
-聶	None	录入中	None	None
-𦗟	None	录入中	None	None
-𦗩	None	录入中	None	None
-𦗡	None	录入中	None	None
-𦗮	None	录入中	None	None
-聵	None	录入中	None	None
-𦗻	None	录入中	None	None
-𦗣	None	录入中	None	None
-𦗨	None	录入中	None	None
-𦗧	None	录入中	None	None
-𦗶	None	录入中	None	None
-𦗠	None	录入中	None	None
-𦗦	None	录入中	None	None
-𦗯	None	录入中	None	None
+𦗃	None	同=𦖬	None	𦖬
+聮	None	同=䏈(聯)	None	䏈
+𦗙	None	同=𦖋	None	𦖋
+聲	sheng1	乐音	None	None
+聲	sheng1	声音	None	None
+聲	sheng1	鸣，发声	None	None
+聲	sheng1	听	None	None
+聲	sheng1	形声字的声旁	None	None
+聲	sheng1	声调，音的高低升降	None	None
+聲	sheng1	言，言语	None	None
+聲	sheng1	张扬	None	None
+聲	sheng1	音讯；消息	None	None
+聲	sheng1	名，名誉	None	None
+聲	sheng1	声势 如：先声夺人	None	None
+聲	sheng1	量词 表示声音发出次数的单位	None	None
+聲	sheng1	发语词 义同=噫	None	噫
+聲	sheng1	通=聖(sheng4) 无所不通	None	聖
+聲	sheng1	姓	None	None
+聴	None	同=聽	None	聽
+𦗚	None	=聻的讹字	None	聻
+䏆	cao2	耳鸣	None	None
+𦗛	qu3	目往	None	None
+䏇	piao4	听 仅仅可以听清除	None	None
+䏇	piao4	道听途说	None	None
+鵈	None	同=鳶	None	鳶
+聰	cong1	听而能审察是非真假	None	None
+聰	cong1	听；听觉	None	None
+聰	cong1	听觉灵敏	None	None
+聰	cong1	聪明；有才智	None	None
+聰	cong1	一种耳病	None	None
+𦗜	cong2	[𦗜𦗋]即“=從容”	None	從
+聳	song3	耳聋	None	None
+聳	song3	矗立；高起	None	None
+聳	song3	短暂而迅速地向上抬或向前移	None	None
+聳	song3	劝勉；奖励	None	None
+聳	song3	惊惧；惊动 如：危言耸听；毛骨悚然	None	None
+聳	song3	通=竦 恭敬，肃敬	None	竦
+䏅	qi4	听	None	None
+䏅	qi4	听觉灵敏	None	None
+𦗕	mi2	古代天子所乘车上的金饰车耳	None	None
+𦗕	mi2	同=䋙 辔盛貌	None	䋙
+𦗓	lu4	耳鸣	None	None
+𦗐	ai4	不听	None	None
+𦗑	zhe2	耳竖貌	None	None
+𦗥	pie1	暂时听到	None	None
+𫆏	None	=聻的类推简化字	None	聻
+䏄	di3	不听	None	None
+䏄	di3	耳病	None	None
+䏄	zhi4	听觉不灵敏	None	None
+𦗗	zhe2	耳朵	None	None
+𦗖	liao2	同=聊 耳鸣	None	聊
+聯	lian2	连，接续不绝	None	None
+聯	lian2	结合；联合 如：联欢；联盟	None	None
+聯	lian2	彼此交接发生关系 如：联系	None	None
+聯	lian2	缀连；缝	None	None
+聯	lian2	周代户口编制的单位	None	None
+聯	lian2	对偶；对联 如：楹联；挽联 又诗文每两句为联	None	None
+聯	lian2	量词 如：一联肥皂	None	None
+𦗔	zhao1	耳鸣	None	None
+𦗔	zhao1	噪音搅扰听觉	None	None
+𦗭	None	[聾𦗭]方言 耳聋的人	None	None
+聶	nie4	附耳小声说话 后作=囁	None	囁
+聶	nie4	古代地名 在今山东省聊城市东北	None	None
+聶	nie4	姓	None	None
+聶	zhe2	合拢；叠合	None	None
+聶	zhe2	通=䐑 切肉成薄片	None	䐑
+聶	she4	同=欇 虎櫐、虎豆，即紫藤	None	欇
+聶	she4	通=攝 1.握持 2.代理	None	攝
+聶	she4	通=㒤 恐惧	None	㒤
+聶	ye4	同=擛 动貌	None	擛
+𦗟	ting1	同=聽	None	聽
+𦗟	te4	=𥊸的讹字	None	𥊸
+𦗩	None	同=䏇	None	䏇
+𦗡	tan2	喧闹嘈杂	None	None
+𦗮	nao3	@	None	None
+聵	kui4	生而耳聋	None	None
+聵	kui4	糊涂；不明事理 如：昏聩	None	None
+聵	kui4	假装不知	None	None
+𦗻	ju4	@	None	None
+𦗣	hu2	耳鸣	None	None
+𦗣	hu2	耳朵上的黑斑	None	None
+𦗣	hu2	污垢	None	None
+𦗣	hu2	春秋时地名	None	None
+𦗨	None	同=茸	None	茸
+𦗧	da1	耳𦗧	None	None
+𦗶	None	=𥽳的讹字	None	𥽳
+𦗠	None	同=䏆	None	䏆
+𦗦	None	同=聒	None	聒
+𦗯	None	同=瞻	None	瞻
 𦗤	None	录入中	None	None
 職	None	录入中	None	None
 𦗢	None	录入中	None	None
