@@ -52894,39 +52894,60 @@
 𧈋	None	同=菟	None	菟
 虨	bin1	虎皮上的斑纹	None	None
 𧈇	None	同=虨	None	虨
-𧈅	None	录入中	None	None
-𧇺	None	录入中	None	None
-𧇲	None	录入中	None	None
-𧇽	None	录入中	None	None
-𧈐	None	录入中	None	None
-虧	None	录入中	None	None
-𫊣	None	录入中	None	None
-𧈆	None	录入中	None	None
-𧈈	None	录入中	None	None
-𧈊	None	录入中	None	None
-𧈌	None	录入中	None	None
-𧇿	None	录入中	None	None
-䖜	None	录入中	None	None
-𧇼	None	录入中	None	None
-𧈍	None	录入中	None	None
-𧈀	None	录入中	None	None
-𧇾	None	录入中	None	None
-𧈁	None	录入中	None	None
-𧈉	None	录入中	None	None
-𧈑	None	录入中	None	None
-𧈖	None	录入中	None	None
-𧈗	None	录入中	None	None
-𨼽	None	录入中	None	None
-𧈙	None	录入中	None	None
-𧈒	None	录入中	None	None
-𧈎	None	录入中	None	None
-𧈓	None	录入中	None	None
-𧈕	None	录入中	None	None
-𧈔	None	录入中	None	None
-𩦶	None	录入中	None	None
-虪	None	录入中	None	None
-𧈜	None	录入中	None	None
-𪛔	None	录入中	None	None
+𧈅	xi4	同=虩	None	虩
+𧈅	xi4	用同=隙 裂缝	None	隙
+𧇺	None	同=烘	None	烘
+𧇲	None	同=烘	None	烘
+𧇽	None	同=虡	None	虡
+𧈐	None	同=饕	None	饕
+虧	kui1	气损	None	None
+虧	kui1	缺损	None	None
+虧	kui1	减少	None	None
+虧	kui1	差欠	None	None
+虧	kui1	衰退；减弱	None	None
+虧	kui1	毁坏	None	None
+虧	kui1	伤害	None	None
+虧	kui1	违背	None	None
+虧	kui1	输；败	None	None
+虧	kui1	亏本；蚀本 如：自负盈亏	None	None
+虧	kui1	损失 如：吃亏	None	None
+虧	kui1	遮蔽	None	None
+虧	kui1	心虚；胆怯	None	None
+虧	kui1	辜负；对不起 如：亏负	None	None
+虧	kui1	去	None	None
+虧	kui1	少	None	None
+虧	kui1	侥幸之词，表示借以免除困难 如：多亏；幸亏；亏得	None	None
+虧	kui1	作反语用，表示斥责或讥讽	None	None
+𫊣	yu2	同=虞	None	虞
+𧈆	None	同=𧆼	None	𧆼
+𧈈	se4	虎受惊	None	None
+𧈈	xi4	虎声	None	None
+𧈊	None	同=𧈈	None	𧈈
+𧈌	ge2	虎声	None	None
+𧇿	zu4	姑且往	None	None
+𧇿	cu1	同=粗	None	粗
+䖜	yin2	两虎相争发出的声音	None	None
+𧇼	hao4	敞口陶锅	None	None
+𧈍	xi4	恐 ……按：……当是=虩的讹俗字	None	虩
+𧈀	None	同=靈	None	靈
+𧇾	None	同=虧	None	虧
+𧈁	xian2	虎声	None	None
+𧈉	None	同=霸	None	霸
+𧈑	ge2	同=𧈖 虎声	None	𧈖
+𧈑	ge2	虎搏物怒貌	None	None
+𧈖	ge2	虎声	None	None
+𧈗	ke4	虎声	None	None
+𨼽	qu2	帅 也作=渠	None	渠
+𧈙	shou4	清三合会旗号专用字	None	None
+𧈒	None	同=䖘	None	䖘
+𧈎	None	同=𧈑(𧈖)	None	𧈑
+𧈓	None	同=𧈖	None	𧈖
+𧈕	None	同=𧆣	None	𧆣
+𧈔	lv3	细切肉	None	None
+𩦶	None	同=𧈜	None	𧈜
+虪	shu4	黑虎	None	None
+𧈜	teng2	黑虎	None	None
+𪛔	None	=䶵(箎)	None	䶵
 虫	None	录入中	None	None
 𧈞	None	录入中	None	None
 虬	None	录入中	None	None
