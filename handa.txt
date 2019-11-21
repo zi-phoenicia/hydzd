@@ -54731,52 +54731,113 @@
 舌	she2	像舌的物体 如：帽舌；火舌；箭舌；笔舌 又箕口外伸的部分，即盛物处	None	None
 舌	she2	姓	None	None
 舌	gua1	同=𠯑 塞口	None	𠯑
-舍	None	录入中	None	None
-舏	None	录入中	None	None
-𦧇	None	录入中	None	None
-𦧏	None	录入中	None	None
-𦧉	None	录入中	None	None
-䑙	None	录入中	None	None
-𦧋	None	录入中	None	None
-𦧌	None	录入中	None	None
-敌	None	录入中	None	None
-𦧍	None	录入中	None	None
-𦧈	None	录入中	None	None
-𦧎	None	录入中	None	None
-䑚	None	录入中	None	None
-舐	None	录入中	None	None
-𦧐	None	录入中	None	None
-𦧊	None	录入中	None	None
-𦧒	None	录入中	None	None
-舑	None	录入中	None	None
-𦧓	None	录入中	None	None
-𦧔	None	录入中	None	None
-䑛	None	录入中	None	None
-𦧖	None	录入中	None	None
-𦧘	None	录入中	None	None
-𦧙	None	录入中	None	None
-𦧚	None	录入中	None	None
-𦧝	None	录入中	None	None
-𦧗	None	录入中	None	None
-𦧛	None	录入中	None	None
-舒	None	录入中	None	None
-𦧕	None	录入中	None	None
-𦧞	None	录入中	None	None
-舔	None	录入中	None	None
-𦧤	None	录入中	None	None
-舓	None	录入中	None	None
-𦧟	None	录入中	None	None
-𦧥	None	录入中	None	None
-𦧠	None	录入中	None	None
-𦧦	None	录入中	None	None
-𦧢	None	录入中	None	None
-舕	None	录入中	None	None
-𦧡	None	录入中	None	None
-䑜	None	录入中	None	None
-𦧩	None	录入中	None	None
-𦧧	None	录入中	None	None
-𦧪	None	录入中	None	None
-舖	None	录入中	None	None
+舍	she4	客馆	None	None
+舍	she4	处所；住宅	None	None
+舍	she4	古代服丧者所居	None	None
+舍	she4	宫府	None	None
+舍	she4	府库	None	None
+舍	she4	虚拟的宅舍	None	None
+舍	she4	对自己的家或亲属的谦称 如：舍间；舍侄	None	None
+舍	she4	养家畜的圈 如：猪舍；牛舍	None	None
+舍	she4	星次，星宿运行所到之处	None	None
+舍	she4	古代军行三十里为一舍	None	None
+舍	she4	军队住宿一夜	None	None
+舍	she4	止息	None	None
+舍	she4	居止；止宿	None	None
+舍	she4	保留	None	None
+舍	she4	安置	None	None
+舍	she4	中，正着目标	None	None
+舍	she4	“舍人”的简称 宋、元戏曲小说中称官家子弟，犹言“少爷”	None	None
+舍	she4	代词 表示疑问，相当于=啥	None	啥
+舍	she4	通=赦 免罪	None	赦
+舍	she4	通=予(yu3) 赞许；给予	None	予
+舍	she3	同=捨 放下；放弃	None	捨
+舍	she3	放出；释放	None	None
+舍	she3	罢，废止	None	None
+舍	she3	离开	None	None
+舍	she3	除开	None	None
+舍	she3	解；免	None	None
+舍	she3	布施	None	None
+舍	shi4	通=釋 1.放置 2.喜悦	None	釋
+舏	jiu3	以舌取物	None	None
+𦧇	None	同=舓(舐)	None	舓
+𦧏	tan1	吐舌	None	None
+𦧉	qi4	走路气喘	None	None
+䑙	tan1	[䑙舕]吐舌貌	None	None
+䑙	ran3	[舚䑙]见“舚”	None	None
+䑙	tian3	同=㐁 舔	None	㐁
+𦧋	qin4	@	None	None
+𦧌	None	同=𣁳	None	𣁳
+敌	hua2	尽	None	None
+敌	di2	=敵的简化字	None	敵
+𦧍	kuo4	@	None	None
+𦧈	jin4	同=𤘡 牛舌病	None	𤘡
+𦧈	jin4	同=噤 闭口	None	噤
+𦧎	None	同=𦧈	None	𦧈
+䑚	None	同=甜	None	甜
+舐	shi4	同=舓 以舌舔物 如：老牛舐犊	None	舓
+舐	shi4	像舌舔	None	None
+𦧐	xian1	牛舌	None	None
+𦧊	None	同=吮	None	吮
+𦧒	tian1	舌出貌	None	None
+𬜅	None	同=舚	None	舚
+舑	None	同=䑙	None	䑙
+𦧓	None	同=舓(舐)	None	舓
+𦧔	kua4	瓜	None	None
+䑛	None	同=舐	None	舐
+𦧖	tian4	同=㐁 舔	None	㐁
+⿰舌因	None	同=䑙	None	䑙
+𦧘	hu2	@	None	None
+𦧙	zhu1	@	None	None
+𦧚	tian4	同=𬜅(舚)	None	𬜅
+𦧚	hua4	同=𦧵(話)	None	𦧵
+𦧝	tian1	[𦧝𦧴]言语不正	None	None
+𦧗	None	同=憩	None	憩
+𦧛	ta4	@	None	None
+舒	shu1	伸展	None	None
+舒	shu1	展现	None	None
+舒	shu1	放纵；放出	None	None
+舒	shu1	启，开	None	None
+舒	shu1	散开	None	None
+舒	shu1	宽；广阔	None	None
+舒	shu1	迟缓；平缓	None	None
+舒	shu1	缓解	None	None
+舒	shu1	舒畅；调畅	None	None
+舒	shu1	安详	None	None
+舒	shu1	次叙	None	None
+舒	shu1	端绪	None	None
+舒	shu1	苏息	None	None
+舒	shu1	通=荼(tu2) 荼毒	None	荼
+舒	shu1	古国名 春秋时为徐所灭 后置县 故城在今安徽省庐江县西	None	None
+舒	shu1	姓	None	None
+舒	yu4	通=豫 怠惰，怠慢	None	豫
+𦧕	None	=詹的讹字	None	詹
+𦧞	ta4	饮	None	None
+舔	tian3	以舌取物 如：舔饭钵	None	None
+舔	tian3	以舌擦拭 如：舔笔；舔伤口	None	None
+舔	tian3	像用舌舔似的	None	None
+舔	tan1	[舔舕]也作“=䑙舕” 吐舌貌	None	䑙
+𦧤	tie4	血流	None	None
+舓	shi4	以舌舔物 后作=舐	None	舐
+𦧟	ta4	同=𦧥 喝；食	None	𦧥
+𦧟	ta4	同=㹺(狧) 狗吃食	None	㹺
+𦧥	ta4	喝	None	None
+𦧠	hua2	细绸	None	None
+𦧦	None	同=辞(辭)	None	辞
+𦧢	tie4	小舌	None	None
+⿰舌单	None	=𦧴的类推简化字	None	𦧴
+舕	tan4	[舕舑]吐舌貌	None	None
+𦧡	yan3	火光	None	None
+𦧡	yan3	[舚𦧡]见“舚”	None	None
+𦧡	tian4	火行	None	None
+䑜	ta4	犬食	None	None
+䑜	ta4	饮	None	None
+䑜	tie4	舐	None	None
+䑜	tie4	同=𦧢 小舌	None	𦧢
+𦧩	None	同=甜	None	甜
+𦧧	None	同=舓(舐)	None	舓
+𦧪	None	同=舐	None	舐
+舖	None	同=鋪	None	鋪
 𦧫	None	录入中	None	None
 𦧬	None	录入中	None	None
 𦧭	None	录入中	None	None
