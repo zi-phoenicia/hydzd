@@ -54645,43 +54645,57 @@
 𦈫	None	同=缺	None	缺
 𦈰	jie1	器好	None	None
 𦈬	zui3	瓶𦈬	None	None
-𦈯	None	同=-器	None	-
-缿	None	录入中	None	None
-䍊	None	录入中	None	None
-𦈱	None	录入中	None	None
-𦈲	None	录入中	None	None
-缾	None	录入中	None	None
-𦈶	None	录入中	None	None
-𦈵	None	录入中	None	None
-𦈴	None	录入中	None	None
-𦈷	None	录入中	None	None
-𦈸	None	录入中	None	None
-𦈻	None	录入中	None	None
-𦈹	None	录入中	None	None
-罂	None	录入中	None	None
-罁	None	录入中	None	None
-䍋	None	录入中	None	None
-𦈼	None	录入中	None	None
-𦈺	None	录入中	None	None
-䍌	None	录入中	None	None
-𦉆	None	录入中	None	None
-𦉁	None	录入中	None	None
-𦉂	None	录入中	None	None
-𩛕	None	录入中	None	None
-𦉇	None	录入中	None	None
-𦉍	None	录入中	None	None
-𦉈	None	录入中	None	None
-𦉉	None	录入中	None	None
-𦉐	None	录入中	None	None
-罃	None	录入中	None	None
-罄	None	录入中	None	None
-𦉏	None	录入中	None	None
-罅	None	录入中	None	None
-𦉎	None	录入中	None	None
-𦉔	None	录入中	None	None
-罆	None	录入中	None	None
-罈	None	录入中	None	None
-𦉕	None	录入中	None	None
+𦈯	None	同=器	None	器
+缿	xiang3	古代的储钱器，陶制或竹制，小口，可入而不可取出，类似后来的扑满或钱筒	None	None
+缿	xiang3	古代接受告密文书的器具 状如瓶，长颈，小孔，可入而不可出	None	None
+䍊	jiao1	古代土制的埙一类的吹奏乐器	None	None
+𦈱	None	同=瓷	None	瓷
+𦈲	kai1	器名	None	None
+𦈲	qu3	藏	None	None
+缾	None	同=瓶	None	瓶
+𦈶	bei1	同=桮(杯) 盛饮料的器皿	None	桮
+𦈶	bei1	缶	None	None
+𦈵	xing2	同=鈃(銒) 古代似盅而颈长的酒器	None	鈃
+𦈴	None	同=䍍	None	䍍
+𦈷	shu1	@	None	None
+𦈸	yu4	瓦器	None	None
+𦈻	zhan3	同=琖(盞) 酒器	None	琖
+𦈹	None	同=瓽	None	瓽
+罂	None	=罌的简化字	None	罌
+罁	gang1	同=㼚 盎、缶一类瓦器；大瓮	None	㼚
+罁	gang1	同=缸 用陶、瓷等制的容器，一般口大底小，较深	None	缸
+䍋	None	同=𦉈	None	𦉈
+𦈼	None	同=𦉈	None	𦉈
+𦈺	zhou3	器；器成	None	None
+䍌	None	同=瓿	None	瓿
+⿰缶贯	None	=罆的类推简化字	None	罆
+𦉆	None	同=碴	None	碴
+𦉁	None	同=㼵	None	㼵
+𦉂	zhong1	同=鍾 古容量单位	None	鍾
+𩛕	None	同=𩛊	None	𩛊
+𦉇	None	同=缾(瓶)	None	缾
+𦉍	None	同=罌	None	罌
+𦉈	chui2	小口瓮 后作=甀	None	甀
+𦉉	liu4	甑	None	None
+𦉐	zhu3	盛米	None	None
+罃	ying1	古代盛灯油的油壶	None	None
+罃	ying1	同=罌 古代瓶一类容器	None	罌
+罄	qing4	器中空	None	None
+罄	qing4	尽；用尽	None	None
+罄	qing4	严整	None	None
+罄	qing4	通=磬 1.古代一种打击乐器 2.古代的一种死刑，将人悬挂如磬而绞杀	None	磬
+罄	qing4	现，出现	None	None
+𦉏	None	同=罅	None	罅
+罅	xia4	裂，裂开	None	None
+罅	xia4	裂缝；缝隙 如：石罅；窗罅	None	None
+罅	xia4	漏洞；缺陷	None	None
+𦉎	sui1	瓦器名	None	None
+⿳丿⿻⿱一𠈌丨缶	None	同=䍋	None	䍋
+𦉔	None	@	None	None
+罆	None	同=罐	None	罐
+⿰缶⿱龷隹	None	同=罐	None	罐
+罈	None	同=罎(壜)	None	罎
+𦉕	None	同=𤮜	None	𤮜
 𦉖	None	录入中	None	None
 罇	None	录入中	None	None
 罊	None	录入中	None	None
