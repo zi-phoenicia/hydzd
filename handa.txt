@@ -55489,17 +55489,59 @@
 筤	lang2	竹丛	None	None
 筤	lang4	古代一种仪仗，即华盖 在帝王车后，由内臣马上执之	None	None
 䇹	None	同=箘	None	箘
-節	None	录入中	None	None
-䇻	None	录入中	None	None
-𥭜	None	录入中	None	None
-𥭫	None	录入中	None	None
-𥭝	None	录入中	None	None
-筩	None	录入中	None	None
-𥭟	None	录入中	None	None
-箐	None	录入中	None	None
-箦	None	录入中	None	None
-箧	None	录入中	None	None
-箝	None	录入中	None	None
+節	jie2	竹节	None	None
+節	jie2	草禾茎上生叶的部分；树木枝干交接处	None	None
+節	jie2	动物骨骼连接处 如：骨节；关节	None	None
+節	jie2	季节；节气	None	None
+節	jie2	节日；纪念日 如：六一儿童节；八一建军节	None	None
+節	jie2	时；时期	None	None
+節	jie2	礼节	None	None
+節	jie2	准则；法度	None	None
+節	jie2	节操；气节	None	None
+節	jie2	适度	None	None
+節	jie2	事件；事项 如：细节；生活小节	None	None
+節	jie2	量词 如：两节火车；上了三节课	None	None
+節	jie2	控制；限制	None	None
+節	jie2	俭省；节约 如：节电节煤；开源节流	None	None
+節	jie2	符节，古代用以证明身份的凭证	None	None
+節	jie2	征验	None	None
+節	jie2	敲击以控制乐曲节奏的乐器	None	None
+節	jie2	节奏；节拍	None	None
+節	jie2	删节；剪裁 如：节录；节选；节译	None	None
+節	jie2	六十四卦之一，卦形为x，兑下坎上	None	None
+節	jie2	国际通用的航海速度单位 一节等于每小时一海里	None	None
+節	jie2	船舰上用以划分锚链的长度单位 锚链每长2.5米为一节	None	None
+節	jie2	通=㮞 斗拱，柱上承梁的方木 也称=栭	None	㮞
+節	jie2	姓	None	None
+節	jie2	高峻貌	None	None
+節	jie1	用于“节骨眼”（比喻紧要的，能起决定作用的时机或环节）、“节子”（树木的分枝在干枝上留下的疤）等复音词中	None	None
+䇻	wei3	竹名	None	None
+䇻	wei3	帚	None	None
+𥭜	ji4	竹名	None	None
+𥭫	mi2	竹篾	None	None
+𥭝	miao4	乐名 也作=篎	None	篎
+𥭝	miao4	药名	None	None
+筩	tong3	竹筒 或作=筒	None	筒
+筩	tong3	桶状或筒状器具	None	None
+筩	tong3	小竹棍 中空，长寸许，内塞棉，先浸以水或蜜，插花其中，久不枯 旧时妇女戴在头上作为装饰	None	None
+筩	tong3	狭长	None	None
+筩	tong3	捕鱼具	None	None
+筩	yong3	装箭的器具	None	None
+筩	dong3	候管	None	None
+𥭟	None	同=梭	None	梭
+箐	jing1	小笼 也称笭箐	None	None
+箐	qing4	古代棺车上的覆盖物	None	None
+箐	qing4	把竹制的弓弩拉开	None	None
+箐	qing4	竹木丛生的山谷	None	None
+箐	qiang1	竹名	None	None
+箦	None	=簀的简化字	None	簀
+箧	None	同=篋	None	篋
+箝	qian2	夹住；控制	None	None
+箝	qian2	钳子，夹东西的工具	None	None
+箝	qian2	（口）禁闭	None	None
+箝	qian2	卜问；探测	None	None
+箝	qian2	同=鉗 古代刑具 束颈的铁圈	None	鉗
+箝	qian2	乖	None	None
 箍	None	录入中	None	None
 𥮠	None	录入中	None	None
 箉	None	录入中	None	None
