@@ -54838,25 +54838,30 @@
 𦧧	None	同=舓(舐)	None	舓
 𦧪	None	同=舐	None	舐
 舖	None	同=鋪	None	鋪
-𦧫	None	录入中	None	None
-𦧬	None	录入中	None	None
-𦧭	None	录入中	None	None
-𦧯	None	录入中	None	None
-𦧰	None	录入中	None	None
-舘	None	录入中	None	None
-𦧮	None	录入中	None	None
-𧱳	None	录入中	None	None
-𦧱	None	录入中	None	None
-𦧴	None	录入中	None	None
-舙	None	录入中	None	None
-𦧵	None	录入中	None	None
-𦧶	None	录入中	None	None
-舚	None	录入中	None	None
-𦧹	None	录入中	None	None
-𦧸	None	录入中	None	None
-𦧺	None	录入中	None	None
-𦧼	None	录入中	None	None
-𦧻	None	录入中	None	None
+𦧫	None	同=舐	None	舐
+𦧬	None	同=𧱳	None	𧱳
+𦧭	None	同=𦧟	None	𦧟
+𦧯	None	同=憩	None	憩
+𦧰	None	同=𦧯(憩)	None	𦧯
+舘	None	同=館	None	館
+𦧮	jia2	舌出貌	None	None
+⿰舌𪺏	None	同=𦧓	None	𦧓
+𧱳	huai4	[𧱘𧱳]顽恶	None	None
+𦧱	ta4	同=䑜 饮	None	䑜
+𦧴	tan1	[𦧴𦧝]言不正	None	None
+舙	hua4	同=𦧵(話)	None	𦧵
+舙	qi4	同=咠	None	咠
+𦧵	None	同=話	None	話
+𦧵	None	=lr舌翕	None	l
+𦧵	None	同=𦧟	None	𦧟
+⿰舌⿸厃⿱儿吉	None	同=舚	None	舚
+𦧶	None	同=舍	None	舍
+舚	tian4	[舚舑]也作“舚𦧡”、“舚舕”、“舚䑙” 吐舌貌	None	None
+𦧹	hua1	舌短貌	None	None
+𦧸	zhuan4	专	None	None
+𦧺	lai4	方言 舔 如：𦧺嘴唇	None	None
+𦧼	lan2	[𦧴𦧼]语不正	None	None
+𦧻	None	同=舚	None	舚
 竹	zhu2	竹子 禾本科多年生常绿植物，茎中空，有节 可供建筑和制器物用，也可作造纸原料 枝叶经冬不凋	None	None
 竹	zhu2	古代八音之一，指箫笛一类竹制乐器	None	None
 竹	zhu2	竹简	None	None
