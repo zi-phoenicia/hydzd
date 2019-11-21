@@ -54577,24 +54577,29 @@
 ⿵𮍏肉	None	同=藏	None	藏
 ⿸麻肉	None	同=腐	None	腐
 𦡛	None	同=膹	None	膹
-𦠩	None	录入中	None	None
-𦡭	None	录入中	None	None
-𦠪	None	录入中	None	None
-𦠫	None	录入中	None	None
-𦠬	None	录入中	None	None
-𦡇	None	录入中	None	None
-𦡝	None	录入中	None	None
-𦠕	None	录入中	None	None
-𦡈	None	录入中	None	None
-臋	None	录入中	None	None
-𦡜	None	录入中	None	None
-𦢆	None	录入中	None	None
-𦡼	None	录入中	None	None
-𦢰	None	录入中	None	None
-𦢻	None	录入中	None	None
-𦢽	None	录入中	None	None
-臡	None	录入中	None	None
-臠	None	录入中	None	None
+𦠩	None	同=𦠓	None	𦠓
+𦡭	yu4	𦝨膜 ……按：……疑为=䑁的讹俗字	None	䑁
+𦠪	xi1	同=腊 干肉	None	腊
+𦠫	None	同=嫩	None	嫩
+𦠬	None	同=臇	None	臇
+𦡇	None	同=䐾	None	䐾
+⿱𦥯肉	None	同=䑁	None	䑁
+𦡝	None	同=皧	None	皧
+𦠕	None	同=臍	None	臍
+𦡈	None	同=癰	None	癰
+臋	None	同=臀	None	臀
+𦡜	None	同=臂	None	臂
+⿱𨾱肉	None	同=臇	None	臇
+𦢆	ying3	喉大	None	None
+𦡼	ning2	肥	None	None
+𦢰	None	同=臖	None	臖
+𦢻	None	同=膺	None	膺
+𦢽	None	同=𦞦	None	𦞦
+臡	ni2	带骨的肉酱 也作=腝	None	腝
+臡	luan2	同=臠	None	臠
+臠	luan2	瘦	None	None
+臠	luan2	把肉切成块状	None	None
+臠	luan2	肉块	None	None
 缶	None	录入中	None	None
 𦈢	None	录入中	None	None
 䍂	None	录入中	None	None
