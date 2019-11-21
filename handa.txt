@@ -54600,37 +54600,52 @@
 臠	luan2	瘦	None	None
 臠	luan2	把肉切成块状	None	None
 臠	luan2	肉块	None	None
-缶	None	录入中	None	None
-𦈢	None	录入中	None	None
-䍂	None	录入中	None	None
-𦈣	None	录入中	None	None
-缸	None	录入中	None	None
-𦈤	None	录入中	None	None
-𦈨	None	录入中	None	None
-𢻂	None	录入中	None	None
-𦈧	None	录入中	None	None
-缻	None	录入中	None	None
-䍃	None	录入中	None	None
-䍇	None	录入中	None	None
-缼	None	录入中	None	None
-𦈦	None	录入中	None	None
-缹	None	录入中	None	None
-缺	None	录入中	None	None
-𦈩	None	录入中	None	None
-䓨	None	录入中	None	None
-缽	None	录入中	None	None
-𦈭	None	录入中	None	None
-𦈮	None	录入中	None	None
-𦈪	None	录入中	None	None
-䍈	None	录入中	None	None
-䍄	None	录入中	None	None
-䍉	None	录入中	None	None
-䍅	None	录入中	None	None
-䍆	None	录入中	None	None
-𦈫	None	录入中	None	None
-𦈰	None	录入中	None	None
-𦈬	None	录入中	None	None
-𦈯	None	录入中	None	None
+缶	fou3	盛酒浆的瓦器 大腹小口，有盖 也有铜制的	None	None
+缶	fou3	汲水的瓦器	None	None
+缶	fou3	古代一种瓦质打击乐器	None	None
+缶	fou3	量词 古容量单位，等于十六斗 一说三十二斗	None	None
+𦈢	None	同=缶	None	缶
+䍂	None	同=𦈣	None	𦈣
+𦈣	yu2	汲器	None	None
+缸	gang1	古代陶制容器 似罂的长颈瓶，腹大口小，容十升	None	None
+缸	gang1	用陶、瓷、搪瓷、玻璃等制的容器 一般口大底小，较深 如：水缸；酱缸；漱口缸	None	None
+缸	gang1	像缸的器物 如：汽缸；烟灰缸	None	None
+缸	gang1	油灯；灯盏	None	None
+缸	gang1	缸瓦，用沙子、陶土等混合而成的一种质料 如：缸砖；缸盆	None	None
+𦈤	xiong4	孔𦈤	None	None
+𦈨	xing2	同=鈃(銒) 酒器	None	鈃
+𢻂	gui1	器名	None	None
+𦈧	bei1	同=桮(杯) 称饮料的器皿	None	桮
+缻	fou3	同=缶 瓦器	None	缶
+䍃	you2	瓮瓶一类的瓦器	None	None
+䍇	ta4	平底缶	None	None
+缼	None	同=欠	None	欠
+𦈦	qi4	吹火	None	None
+缹	fou3	蒸煮	None	None
+缺	que1	破损；残缺 如：墙缺了一块	None	None
+缺	que1	缺口	None	None
+缺	que1	缺陷；过失 如：缺点	None	None
+缺	que1	不足；缺少 如：缺人；缺货；缺钱	None	None
+缺	que1	衰微；废弃	None	None
+缺	que1	旧指官职的空额，后亦泛指一般职务的空额 如：出缺；补缺；肥缺	None	None
+缺	que1	该到未到 如：缺席；缺勤；缺课	None	None
+缺	kui3	通=頍 古时用以固定帽子的一种头巾	None	頍
+𦈩	gong3	缻	None	None
+䓨	None	=罃的类推简化字	None	罃
+缽	None	同=鉢	None	鉢
+𦈭	None	同=越	None	越
+𦈮	None	同=䍇	None	䍇
+𦈪	None	同=缻	None	缻
+䍈	None	同=缾(瓶)	None	缾
+䍄	dian3	瓦器缺损	None	None
+𬙎	None	=罏的类推简化字	None	罏
+䍉	zhai3	残缺损伤的痕迹 如：碗上有点䍉儿；苹果没䍉儿	None	None
+䍅	None	同=𦉢	None	𦉢
+䍆	None	同=𤲑	None	𤲑
+𦈫	None	同=缺	None	缺
+𦈰	jie1	器好	None	None
+𦈬	zui3	瓶𦈬	None	None
+𦈯	None	同=-器	None	-
 缿	None	录入中	None	None
 䍊	None	录入中	None	None
 𦈱	None	录入中	None	None
