@@ -55596,15 +55596,34 @@
 箋	jian1	名片；名刺	None	None
 箋	jian1	把书简按一定的顺序排列起来	None	None
 箋	jian1	云	None	None
-箌	None	录入中	None	None
-䈇	None	录入中	None	None
-箎	None	录入中	None	None
-算	None	录入中	None	None
-𥮞	None	录入中	None	None
-箟	None	录入中	None	None
-𫂆	None	录入中	None	None
-𥮬	None	录入中	None	None
-箅	None	录入中	None	None
+箌	dao4	同=菿 大	None	菿
+箌	zhao4	同=罩 捕鱼器	None	罩
+䈇	None	同=罩	None	罩
+𥰽	None	同=箎	None	箎
+箎	hu3	竹名	None	None
+箎	chi2	同=篪	None	篪
+算	suan4	计算 如：心算；算账	None	None
+算	suan4	数目；数额	None	None
+算	suan4	衡量；称数	None	None
+算	suan4	计谋；谋略	None	None
+算	suan4	筹划	None	None
+算	suan4	谋害	None	None
+算	suan4	料想；推测 如：我算他明天该启程了	None	None
+算	suan4	旧时用阴阳五行之术以推知未来吉凶的一种迷信活动	None	None
+算	suan4	寿命	None	None
+算	suan4	汉代赋税的名称 有按人头征收的口钱和对商人、手工业者、高利贷者的资产征收的算缗钱，皆以“算”为计量单位	None	None
+算	suan4	竹制的食器	None	None
+算	suan4	通=筭 古代计算用的筹码	None	筭
+算	suan4	认为；当作	None	None
+算	suan4	作数，承认有效力	None	None
+算	suan4	作罢；不再计较（后面跟“了”）	None	None
+算	suan4	总算 如：最后算把这个问题弄清楚了	None	None
+⿱𥫗具	None	同=筭	None	筭
+𥮞	None	=匴的讹字	None	匴
+箟	jun4	[箟簬]也作“=菎蕗” 竹名，即=箘簬	None	菎
+𫂆	None	=簂的类推简化字	None	簂
+𥮬	None	同=䈪	None	䈪
+箅	bi4	蒸锅中的竹屉 后指有空隙而能起间隔作用的器具 如：竹箅子、铁箅子、纱箅子、炉箅子	None	None
 𥮏	None	录入中	None	None
 箇	None	录入中	None	None
 𥮭	None	录入中	None	None
