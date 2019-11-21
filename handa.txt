@@ -55892,11 +55892,19 @@
 𥯞	you2	竹名	None	None
 箷	shi1	竹名	None	None
 箷	yi2	同=椸 1.衣架；晾衣竿 2.床前的几案	None	椸
-𥰭	None	录入中	None	None
-篓	None	录入中	None	None
-箭	None	录入中	None	None
-䈘	None	录入中	None	None
-𥰂	None	录入中	None	None
+⿳𥫗𠫓冉	None	同=篝	None	篝
+𥰭	cuo1	一种盛物的竹器	None	None
+𥰭	zha3	装炭的篓子	None	None
+𥰭	ci1	[篸𥰭]也作“參=差” 1.竹管参差不齐的样子 2.箫名 古代箫由长短不齐的竹管组成，因以“篸𥰭”为箫名	None	差
+篓	None	=簍的简化字	None	簍
+箭	jian4	竹名	None	None
+箭	jian4	搭在弓上发射的武器 古代多用竹制，杆长二三尺，装上尖头，杆末梢附有羽毛 如：箭靶；一箭双雕	None	None
+箭	jian4	指箭能射到的距离 如：一箭之地；半箭多路	None	None
+箭	jian4	漏箭 古代滴漏计时用的标尺	None	None
+箭	jian4	古代博具	None	None
+箭	jian4	量词 指兰花的一茎	None	None
+䈘	ci2	竹名	None	None
+𥰂	None	同=篍	None	篍
 䈧	None	录入中	None	None
 篊	None	录入中	None	None
 𥱀	None	录入中	None	None
