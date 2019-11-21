@@ -55740,47 +55740,80 @@
 箢	wan3	竹器	None	None
 箢	wan3	竹名	None	None
 箢	yuan1	箢箕，竹篾等编成的盛东西的器具 或称“箢篼”	None	None
-䈆	None	录入中	None	None
-𥯼	None	录入中	None	None
-𥯦	None	录入中	None	None
-箫	None	录入中	None	None
-𥮤	None	录入中	None	None
-箓	None	录入中	None	None
-箒	None	录入中	None	None
-𥮝	None	录入中	None	None
-𥮜	None	录入中	None	None
-𥮢	None	录入中	None	None
-箛	None	录入中	None	None
-䈄	None	录入中	None	None
-𥮾	None	录入中	None	None
-𥯪	None	录入中	None	None
-箺	None	录入中	None	None
-篋	None	录入中	None	None
-𥯿	None	录入中	None	None
-篈	None	录入中	None	None
-䈣	None	录入中	None	None
-𥯒	None	录入中	None	None
-𥯹	None	录入中	None	None
-𥯓	None	录入中	None	None
-篏	None	录入中	None	None
-䈎	None	录入中	None	None
-箶	None	录入中	None	None
-䈒	None	录入中	None	None
-䈤	None	录入中	None	None
-篐	None	录入中	None	None
-箱	None	录入中	None	None
-𥯸	None	录入中	None	None
-範	None	录入中	None	None
-䈏	None	录入中	None	None
-𥯑	None	录入中	None	None
-箴	None	录入中	None	None
-𥯩	None	录入中	None	None
-𥯬	None	录入中	None	None
-𥯺	None	录入中	None	None
-𥯙	None	录入中	None	None
-䈛	None	录入中	None	None
-箵	None	录入中	None	None
-箾	None	录入中	None	None
+䈆	dai4	浅而长的竹篮	None	None
+𥯼	None	同=𥰦	None	𥰦
+𥯦	jian4	竹名	None	None
+𥯦	zha2	行书	None	None
+𥯦	zha2	悬肉的竿子	None	None
+箫	None	=簫的简化字	None	簫
+𥮤	nie4	竹名	None	None
+箓	None	同=簏 ……按：今为=籙的简化字	None	簏
+箒	None	同=帚	None	帚
+𥮝	gu3	同=䓛 刷子	None	䓛
+𥮜	None	同=䉲	None	䉲
+𥮢	None	同=篘	None	篘
+箛	gu1	古乐器名 一说即笳	None	None
+箛	gu1	竹名	None	None
+䈄	han2	[䈄𥶴]实心竹名	None	None
+𥮾	None	=篸的类推简化字	None	篸
+𥯪	sou4	小竹	None	None
+箺	chun1	竹名	None	None
+篋	qie4	小箱 如：书篋；藤篋	None	None
+𥯿	None	同=篝	None	篝
+篈	feng1	竹名	None	None
+䈣	zheng4	竹名	None	None
+𥯒	None	同=栽	None	栽
+𥯹	None	同=築	None	築
+𥯓	None	同=簪	None	簪
+篏	qian4	同=嵌 镶嵌	None	嵌
+䈎	ye4	书、画、纸等的张、页 后作=葉	None	葉
+箶	hu2	竹名	None	None
+箶	hu2	箶簏，盛箭器	None	None
+䈒	nan3	竹弱	None	None
+䈒	lan3	用同=罱 捞水草、河泥的工具	None	罱
+䈤	None	同=鉗	None	鉗
+篐	None	同=箍	None	箍
+箱	xiang1	车内可供人乘坐或装载物品的地方 又名牝服	None	None
+箱	xiang1	箱子 收藏衣物的方形器具	None	None
+箱	xiang1	像箱子的东西 如：风箱；镜箱	None	None
+箱	xiang1	古代居室前堂两旁的房屋 也称个或序 后作=廂	None	廂
+箱	xiang1	靠近城区的地方 或作=廂	None	廂
+箱	xiang1	量词 用于城池，相当于=座	None	座
+箱	xiang1	旁 后作=廂	None	廂
+𥯸	zhu4	竹名	None	None
+範	fan4	古时出行前祭路神的仪节	None	None
+範	fan4	模型；模子	None	None
+範	fan4	用模子制作；铸造	None	None
+範	fan4	典范；法则 如：规范；示范；范本	None	None
+範	fan4	约束；使合于法	None	None
+範	fan4	对他人容止仪表的尊称	None	None
+範	fan4	前	None	None
+範	fan4	姓	None	None
+䈏	bao3	竹名	None	None
+䈏	fu2	织具	None	None
+𥯑	jin3	[䇣𥯑]见“䇣”	None	None
+箴	zhen1	缝衣用的工具 后作=鍼(針)	None	鍼
+箴	zhen1	中医用来刺入一定穴位以达到医疗效果的针形器物 后作=鍼(針)	None	鍼
+箴	zhen1	插；刺 后作=鍼(針)	None	鍼
+箴	zhen1	规劝；告诫	None	None
+箴	zhen1	文体的一种 以规戒为表达的主题	None	None
+箴	zhen1	量词 用于计算鸟雀的羽数	None	None
+箴	zhen1	姓	None	None
+箴	jian3	同=𥳒	None	𥳒
+𥯩	zhuo2	漉米竹器	None	None
+𥯬	ruan3	竹名	None	None
+⿱𥫗盇	None	同=篕	None	篕
+𥯺	None	同=𥱩(𥷚)	None	𥱩
+𥯙	jing4	竹名	None	None
+䈛	kuai4	竹名 即篃竹	None	None
+箵	xing3	[箵笭]也作“笭箵” 1.竹笼或篮一类的器具 2.车笭，车前横木下纵横交错的竹条	None	None
+箵	xing1	[笭箵]装鱼的竹笼	None	None
+箵	sheng3	竹名	None	None
+箾	shuo4	以竿击人	None	None
+箾	shuo4	古代舞者所执之竿	None	None
+箾	xiao1	[韶箾]也作“箾韶”、“簫韶” 古乐曲名	None	None
+箾	xiao1	同=簫	None	簫
+箾	qiao4	刀剑套子 也作=鞘	None	鞘
 䈕	None	录入中	None	None
 篎	None	录入中	None	None
 䈟	None	录入中	None	None
