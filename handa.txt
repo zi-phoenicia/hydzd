@@ -55624,28 +55624,49 @@
 𫂆	None	=簂的类推简化字	None	簂
 𥮬	None	同=䈪	None	䈪
 箅	bi4	蒸锅中的竹屉 后指有空隙而能起间隔作用的器具 如：竹箅子、铁箅子、纱箅子、炉箅子	None	None
-𥮏	None	录入中	None	None
-箇	None	录入中	None	None
-𥮭	None	录入中	None	None
-𥮪	None	录入中	None	None
-箩	None	录入中	None	None
-箘	None	录入中	None	None
-𥮣	None	录入中	None	None
-箆	None	录入中	None	None
-䈋	None	录入中	None	None
-𥮫	None	录入中	None	None
-𥮦	None	录入中	None	None
-䈑	None	录入中	None	None
-𥯧	None	录入中	None	None
-箠	None	录入中	None	None
-𥮯	None	录入中	None	None
-𥯮	None	录入中	None	None
-𥯄	None	录入中	None	None
-箄	None	录入中	None	None
-𥮙	None	录入中	None	None
-䈁	None	录入中	None	None
-𥮡	None	录入中	None	None
-𥮍	None	录入中	None	None
+𥮏	dian3	同=典 经籍	None	典
+𥮏	dian3	大篋	None	None
+𥮏	dian3	竹名 又称钓丝竹	None	None
+箇	ge4	量词 1.用于计算长条形的东西，相当于“枚” 2.泛用以计物数，相当于=個	None	個
+箇	ge4	代词 1.表示指示，相当于“这”、“那” 2.表示泛指，相当于“什么”	None	None
+箇	ge4	助词 1.用在谓词后面，相当于“地” 2.用在量词“些（儿）”后面，相当于“的” 3.加在时间词后 4.与动词或短语结合构成名词性词组充当谓语	None	None
+箇	ge4	姓	None	None
+𥮭	None	同=𥭭	None	𥭭
+𥮪	xu1	同=䈝 竹名	None	䈝
+𥮪	ji2	覆	None	None
+箩	None	=籮的简化字	None	籮
+箘	jun4	[箘簬]一种细长节稀的美竹，可做箭干 也单称“箘”	None	None
+箘	jun4	箭	None	None
+箘	jun4	棋子	None	None
+箘	qun1	桂树的一种，通称箘桂	None	None
+𥮣	zhua1	马鞭	None	None
+箆	None	同=篦	None	篦
+䈋	ta4	竹名	None	None
+䈋	ta4	竹制覆盖物	None	None
+𥮫	None	同=笧	None	笧
+𥮦	None	同=𥱾(𥰠)	None	𥱾
+䈑	gua3	[䈅䈑]收丝具	None	None
+𥯧	None	同=笮	None	笮
+箠	chui2	鞭子；马鞭	None	None
+箠	chui2	刑杖	None	None
+箠	chui2	鞭打；击	None	None
+箠	chui2	竹名	None	None
+箠	zhui1	竹节	None	None
+𥮯	bo1	缴矢所用的石头 也作=碆	None	碆
+𥯮	yu2	黑竹	None	None
+𥯄	None	=箸的讹字	None	箸
+箄	bi3	笼篓之类的竹器	None	None
+箄	bi3	析	None	None
+箄	bei1	竹制的捕鱼具	None	None
+箄	bi1	冠饰	None	None
+箄	bi1	捕虾的竹器 也作=笓	None	笓
+箄	bi4	薄	None	None
+箄	bi4	同=箅 蒸锅中的竹屉，泛指有空隙而能起间隔作用的器具	None	箅
+箄	pai2	同=𥴖 大筏	None	𥴖
+𥮙	None	同=箭	None	箭
+䈁	lun2	[䈁子]船具	None	None
+𥮡	None	同=筌	None	筌
+𥮍	yin2	竹名	None	None
 𥮘	None	录入中	None	None
 𥮨	None	录入中	None	None
 䈈	None	录入中	None	None
