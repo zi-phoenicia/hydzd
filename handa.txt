@@ -54575,7 +54575,8 @@
 𦟴	None	同=膋	None	膋
 ⿱难肉	None	同=臡的类推简化字	None	臡
 ⿵𮍏肉	None	同=藏	None	藏
-𦡛	None	录入中	None	None
+⿸麻肉	None	同=腐	None	腐
+𦡛	None	同=膹	None	膹
 𦠩	None	录入中	None	None
 𦡭	None	录入中	None	None
 𦠪	None	录入中	None	None
