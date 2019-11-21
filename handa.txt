@@ -55814,52 +55814,84 @@
 箾	xiao1	[韶箾]也作“箾韶”、“簫韶” 古乐曲名	None	None
 箾	xiao1	同=簫	None	簫
 箾	qiao4	刀剑套子 也作=鞘	None	鞘
-䈕	None	录入中	None	None
-篎	None	录入中	None	None
-䈟	None	录入中	None	None
-𥯕	None	录入中	None	None
-箿	None	录入中	None	None
-篂	None	录入中	None	None
-𥯭	None	录入中	None	None
-䈓	None	录入中	None	None
-𥯜	None	录入中	None	None
-𥯡	None	录入中	None	None
-篑	None	录入中	None	None
-𥯨	None	录入中	None	None
-𥯳	None	录入中	None	None
-篅	None	录入中	None	None
-𥯟	None	录入中	None	None
-𥯥	None	录入中	None	None
-篍	None	录入中	None	None
-䈖	None	录入中	None	None
-箽	None	录入中	None	None
-箯	None	录入中	None	None
-𥰩	None	录入中	None	None
-𥰞	None	录入中	None	None
-篁	None	录入中	None	None
-䈭	None	录入中	None	None
-䈜	None	录入中	None	None
-𥯔	None	录入中	None	None
-篌	None	录入中	None	None
-箆	None	录入中	None	None
-䈗	None	录入中	None	None
-箻	None	录入中	None	None
-䈠	None	录入中	None	None
-篒	None	录入中	None	None
-䈦	None	录入中	None	None
-𥯷	None	录入中	None	None
-𥯗	None	录入中	None	None
-箰	None	录入中	None	None
-䈡	None	录入中	None	None
-䈥	None	录入中	None	None
-𥯲	None	录入中	None	None
-䈞	None	录入中	None	None
-𥯢	None	录入中	None	None
-𥯖	None	录入中	None	None
-𥯯	None	录入中	None	None
-𥯽	None	录入中	None	None
-𥯞	None	录入中	None	None
-箷	None	录入中	None	None
+䈕	shi2	簧属 簧管乐器上的簧	None	None
+䈕	shi2	钥匙 后作=匙	None	匙
+䈕	ti2	同=𥶛	None	𥶛
+䈕	ji1	同=笄 簪子	None	笄
+䈕	yi2	同=椸	None	椸
+篎	miao3	古代的一种管乐器	None	None
+䈟	ce4	断声	None	None
+䈟	zha3	断草	None	None
+𥯕	dang4	大竹筩 一种笙箫之属的乐器	None	None
+𥯕	dang4	盛酒的竹器	None	None
+𥯕	dang4	同=簜 大竹	None	簜
+箿	ji2	编织竹器边缘	None	None
+箿	ji2	覆	None	None
+篂	xing1	[箳篂]见“箳”	None	None
+𥯭	None	同=筰	None	筰
+䈓	ge2	[䈓䉈]竹名 即桃枝	None	None
+䈓	qia4	同=𥴭	None	𥴭
+𥯜	wei3	筐	None	None
+𥯡	pi2	笼	None	None
+篑	None	=簣的简化字	None	簣
+𥯨	si1	竹名 又名涩竹、𥯨簩竹	None	None
+𥯳	e4	竹名	None	None
+𥯳	e4	桂	None	None
+篅	chuan2	竹制圆形谷囤	None	None
+篅	duan1	同=𥵣	None	𥵣
+𥯟	pai4	竹片	None	None
+⿱𥫗钟	None	=籦的类推简化字	None	籦
+𥯥	che4	竹叶	None	None
+篍	qiu1	吹筩 古代用于警戒或督役的哨子	None	None
+䈖	ke1	竹名	None	None
+箽	dong3	竹器	None	None
+箽	dong3	竹名	None	None
+箽	dong3	姓	None	None
+箯	bian1	竹舆 竹制的便轿	None	None
+箯	bian1	盛饭用的竹器	None	None
+𥰩	None	同=籅	None	籅
+𥰞	chou1	同=篘 滤酒	None	篘
+𥰞	sou3	同=𥯴(籔)	None	𥯴
+篁	huang2	竹园	None	None
+篁	huang2	竹名	None	None
+篁	huang2	竹丛	None	None
+篁	huang2	泛指竹子	None	None
+篁	huang2	初发梢叶的竹苗	None	None
+篁	huang2	管乐器的通称	None	None
+䈭	sou1	竹名	None	None
+䈭	huai2	高竹节	None	None
+䈜	qin4	䈜墨工人的用具，墨线笔	None	None
+䈜	qin4	渗 后作=沁	None	沁
+𥯔	ju3	[𥯔簍]校正车轮的器具 也作“=萭蔞”	None	萭
+篌	hou2	[箜篌]见“箜”	None	None
+篌	hou2	竹名	None	None
+箆	None	同=篦	None	篦
+䈗	suo3	竹名	None	None
+䈗	suo3	席	None	None
+䈗	suo3	竹罩	None	None
+箻	None	同=𥭐	None	𥭐
+䈠	huan3	[𥲈䈠]见“𥲈”	None	None
+䈠	yuan4	断折；断竹	None	None
+篒	None	同=饐	None	饐
+䈦	zong1	竹箠	None	None
+䈦	zong1	木枝细	None	None
+𥯷	None	同=𥭖	None	𥭖
+⿱𥫗矦	None	同=篌	None	篌
+𥯗	None	同=簨	None	簨
+箰	sun3	同=筍 竹类的嫩茎、芽	None	筍
+䈡	cong1	竹名	None	None
+䈡	song1	同=檧 小笼	None	檧
+䈥	jin1	同=筋	None	筋
+䈥	jin1	竹名	None	None
+𥯲	None	同=䈢	None	䈢
+䈞	du3	同=竺(篤) 厚	None	竺
+𥯢	ding4	竹器	None	None
+𥯖	du4	连缀、固定衣物或冠发的细竹针	None	None
+𥯯	None	同=𥯮	None	𥯮
+𥯽	None	同=笴	None	笴
+𥯞	you2	竹名	None	None
+箷	shi1	竹名	None	None
+箷	yi2	同=椸 1.衣架；晾衣竿 2.床前的几案	None	椸
 𥰭	None	录入中	None	None
 篓	None	录入中	None	None
 箭	None	录入中	None	None
