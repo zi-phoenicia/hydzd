@@ -55542,31 +55542,60 @@
 箝	qian2	卜问；探测	None	None
 箝	qian2	同=鉗 古代刑具 束颈的铁圈	None	鉗
 箝	qian2	乖	None	None
-箍	None	录入中	None	None
-𥮠	None	录入中	None	None
-箉	None	录入中	None	None
-箸	None	录入中	None	None
-䈊	None	录入中	None	None
-箨	None	录入中	None	None
-箕	None	录入中	None	None
-𥯘	None	录入中	None	None
-箃	None	录入中	None	None
-𥯶	None	录入中	None	None
-箬	None	录入中	None	None
-𥮖	None	录入中	None	None
-箖	None	录入中	None	None
-𥯻	None	录入中	None	None
-𥮥	None	录入中	None	None
-箂	None	录入中	None	None
-𥮕	None	录入中	None	None
-𥮮	None	录入中	None	None
-䈅	None	录入中	None	None
-𥮔	None	录入中	None	None
-箣	None	录入中	None	None
-𥮩	None	录入中	None	None
-𥯃	None	录入中	None	None
-箑	None	录入中	None	None
-箋	None	录入中	None	None
+箍	gu1	用竹篾、金属条或其他东西束紧器物 如：箍木盆	None	None
+箍	gu1	围束器物的圈 如：铁箍；打箍	None	None
+𥮠	None	同=箝	None	箝
+箉	guai3	鱼笱上的竹具	None	None
+箉	guai3	竹杖	None	None
+箉	dai4	筛谷箉，一种竹制的农用器具	None	None
+箸	zhu4	筷子	None	None
+箸	zhu4	通=宁 古代宫室门和屏之间 也指一般士人家正门内两塾之间	None	宁
+箸	zhu4	明显 后作=著	None	著
+箸	zhu4	撰写；写作 后作=著	None	著
+箸	zhuo2	同=著 1.穿戴 2.附着	None	著
+䈊	ling2	竹名	None	None
+箨	None	=籜的简化字	None	籜
+箕	ji1	簸箕 扬米去糠的器具	None	None
+箕	ji1	扫除时盛垃圾的器具；粪箕	None	None
+箕	ji1	箕踞 古人席地而坐，两膝着地，腿部屈在臀下；如果臀部着地，腿部向前伸开，叫做“箕踞”，是很不礼貌的	None	None
+箕	ji1	星宿名 二十八宿之一 东方青龙七宿的末一宿 有星四颗	None	None
+箕	ji1	簸箕形的一种指纹 如：斗箕	None	None
+箕	ji1	木名	None	None
+箕	ji1	殷商时畿内侯国	None	None
+箕	ji1	地名 春秋晋地，在今山西省蒲县东北	None	None
+箕	ji1	姓	None	None
+𥯘	ye2	竹名	None	None
+箃	zou1	竹黄 也称竹柴	None	None
+𥯶	ku3	竹名	None	None
+箬	ruo4	竹皮	None	None
+箬	ruo4	竹名 禾本科 秆细柱形，高约1米，直径4~5毫米 叶片很大，可包粽子及做斗笠等	None	None
+箬	ruo4	箬竹的叶	None	None
+箬	na4	竹病	None	None
+𥮖	zhi2	笙	None	None
+箖	lin2	[箖箊]也作“=林箊” 竹名	None	林
+箖	lin2	竹名 出湖北省襄樊市卧龙山	None	None
+箖	lin3	古代供弋射用的掩体	None	None
+𥯻	None	同=策	None	策
+𥮥	zhuo4	筹策，古代计算用具	None	None
+𥮥	zhuo4	占卜用的蓍草	None	None
+箂	lai2	竹名	None	None
+𥮕	hang4	同=笐	None	笐
+𥮮	None	同=筞(策)	None	筞
+䈅	None	同=籆	None	籆
+𥮔	None	同=篿	None	篿
+箣	ce4	箣竹 又名大簕竹 秆丛生，高可达20米，节间长约30厘米，表面粗糙，每节生多枝 分布于我国福建省、台湾省、广东省、广西壮族自治区等近海地区	None	None
+箣	ce4	同=策	None	策
+𥮩	None	同=𥲈	None	𥲈
+𥯃	yan3	同=罨 编得较密的篾篓	None	罨
+箑	sha4	扇子	None	None
+箑	sha4	同=𥯦	None	𥯦
+箋	jian1	古书注释的一种	None	None
+箋	jian1	古代公文的一种体裁	None	None
+箋	jian1	书信	None	None
+箋	jian1	供题诗、写信等用的精美纸张	None	None
+箋	jian1	名片；名刺	None	None
+箋	jian1	把书简按一定的顺序排列起来	None	None
+箋	jian1	云	None	None
 箌	None	录入中	None	None
 䈇	None	录入中	None	None
 箎	None	录入中	None	None
