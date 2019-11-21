@@ -55667,34 +55667,79 @@
 䈁	lun2	[䈁子]船具	None	None
 𥮡	None	同=筌	None	筌
 𥮍	yin2	竹名	None	None
-𥮘	None	录入中	None	None
-𥮨	None	录入中	None	None
-䈈	None	录入中	None	None
-箙	None	录入中	None	None
-𥮐	None	录入中	None	None
-𥮛	None	录入中	None	None
-𥮚	None	录入中	None	None
-𥮑	None	录入中	None	None
-𥮗	None	录入中	None	None
-箤	None	录入中	None	None
-𫂈	None	录入中	None	None
-箁	None	录入中	None	None
-䈉	None	录入中	None	None
-䈍	None	录入中	None	None
-箊	None	录入中	None	None
-𥮧	None	录入中	None	None
-箞	None	录入中	None	None
-箪	None	录入中	None	None
-𥮒	None	录入中	None	None
-䈌	None	录入中	None	None
-箔	None	录入中	None	None
-䈃	None	录入中	None	None
-箥	None	录入中	None	None
-𥮓	None	录入中	None	None
-箈	None	录入中	None	None
-管	None	录入中	None	None
-箜	None	录入中	None	None
-箢	None	录入中	None	None
+𥮘	nian4	拉船的竹纤	None	None
+𥮨	cong4	竹诜	None	None
+䈈	fei2	竹名	None	None
+䈈	fei2	竹盛貌	None	None
+䈈	ba1	同=笆 用竹子或柳条编成的器物或障碍物	None	笆
+箙	fu2	用竹、木或兽皮等做成的盛箭器具	None	None
+箙	fu2	用具的外套	None	None
+𥮐	diao1	[祑𥮐]山名	None	None
+𥮛	None	=䈱的讹字	None	䈱
+𥮚	None	同=䈀	None	䈀
+𥮑	None	同=篙	None	篙
+𥮗	ju2	竹根	None	None
+箤	zu2	竹笼	None	None
+𫂈	None	=䉬的类推简化字	None	䉬
+箁	pou2	竹箨，即笋壳	None	None
+箁	bu4	竹叶	None	None
+箁	fu2	竹名	None	None
+箁	pu2	[箁箷]也作“=䈬箷” 小竹网	None	䈬
+䈉	sha4	同=箑 扇子	None	箑
+䈉	sha4	同=翣 棺羽饰	None	翣
+䈉	qie4	竹器	None	None
+䈍	meng2	竹名	None	None
+箊	yu2	[箖箊]见“箖”	None	None
+箊	yu2	竹名	None	None
+𥮧	ye4	竹	None	None
+𥮧	ye4	同=䈎 书、画、纸等的张、页	None	䈎
+箞	quan1	曲竹	None	None
+箪	None	=簞的简化字	None	簞
+𥮒	qian2	造纸漂浆用的竹帘	None	None
+𥮒	zhan1	汁	None	None
+䈌	qu1	竹名	None	None
+䈌	qu1	水泽	None	None
+箔	bo2	门帘	None	None
+箔	bo2	养蚕用的竹席之类	None	None
+箔	bo2	金属薄片；涂过金属粉的纸 如：金箔；锡箔	None	None
+䈃	zhao3	竹名	None	None
+䈃	zhao3	竹缘	None	None
+箥	bo3	同=簸	None	簸
+箥	po3	[箥羅]同“=笸籮”	None	笸
+𥮓	None	同=𥮒	None	𥮒
+箈	tai2	同=䈚 嫩笋	None	䈚
+箈	tai2	同=箈(苔) 苔藓类的隐花植物	None	箈
+箈	chi2	竹名	None	None
+管	guan3	古乐器 今已失传 传说似篪而小，长一尺，六孔，并两而吹	None	None
+管	guan3	律管	None	None
+管	guan3	管乐器的通称 如：黑管；双簧管	None	None
+管	guan3	管状物通称 如：钢管；气管；输油管；胶皮管	None	None
+管	guan3	旧指毛笔	None	None
+管	guan3	家畜外形部位名称 前肢管以掌骨为基础，位于前膝与球节之间；后肢管以跖骨为基础，位于飞节与球节之间 由于管部肌肉很少，从管的粗细可以测知家畜骨骼的发育程度	None	None
+管	guan3	见识短浅 源于《莊子·秋水》“用管闚天”句	None	None
+管	guan3	量词 用于细长圆筒形的东西	None	None
+管	guan3	钥匙	None	None
+管	guan3	古代车子的部件 施于毂，配合车辖，使车轮固着于车轴 也作“轄”	None	None
+管	guan3	统辖	None	None
+管	guan3	主管；管理	None	None
+管	guan3	看管；管教	None	None
+管	guan3	管制	None	None
+管	guan3	理会；顾及	None	None
+管	guan3	管理事务的机构	None	None
+管	guan3	定；保证 如：坏了管换	None	None
+管	guan3	关，牵涉	None	None
+管	guan3	穴道，腧	None	None
+管	guan3	方言 代词 谁	None	None
+管	guan3	介词 口语中与“叫”配合使用，用来称说人或事物，相当于“把” 如：大家都管他叫小胖子	None	None
+管	guan3	方言 连词 表示条件关系，相当于“不管”、“无论” 如：这十万棵果木树是社里的财产，管什么也不能让它受到病虫害；管他下不下雨，咱们都得马上出发	None	None
+管	guan3	古国名 旧址在今河南省郑州市 春秋时为郑邑，战国时属韩	None	None
+管	guan3	姓	None	None
+管	guan3	[管人]古代掌管舍的官	None	None
+箜	kong1	[箜篌]古拨弦乐器 有竖式、卧式两种 卧箜篌相传为汉武帝时乐人侯调所造 竖箜篌为竖琴前身，东汉时经西域传入 弦数因乐器大小而不同，最少五弦，最多二十五弦	None	None
+箜	kong1	篮	None	None
+箢	wan3	竹器	None	None
+箢	wan3	竹名	None	None
+箢	yuan1	箢箕，竹篾等编成的盛东西的器具 或称“箢篼”	None	None
 䈆	None	录入中	None	None
 𥯼	None	录入中	None	None
 𥯦	None	录入中	None	None
