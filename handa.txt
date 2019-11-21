@@ -54696,27 +54696,41 @@
 ⿰缶⿱龷隹	None	同=罐	None	罐
 罈	None	同=罎(壜)	None	罎
 𦉕	None	同=𤮜	None	𤮜
-𦉖	None	录入中	None	None
-罇	None	录入中	None	None
-罊	None	录入中	None	None
-𤕁	None	录入中	None	None
-𦉜	None	录入中	None	None
-𦉙	None	录入中	None	None
-罋	None	录入中	None	None
-𦉞	None	录入中	None	None
-罌	None	录入中	None	None
-𦉟	None	录入中	None	None
-罍	None	录入中	None	None
-𦉝	None	录入中	None	None
-䍎	None	录入中	None	None
-罏	None	录入中	None	None
-罎	None	录入中	None	None
-罐	None	录入中	None	None
-𦉢	None	录入中	None	None
-𦉣	None	录入中	None	None
-𦉥	None	录入中	None	None
-𦉧	None	录入中	None	None
-舌	None	录入中	None	None
+𦉖	None	同=𦈼(𦉈)	None	𦈼
+罇	zun1	同=樽 古代酒器	None	樽
+罇	zun1	姓	None	None
+罊	qi4	尽，器中尽	None	None
+𤕁	None	@	None	None
+𦉜	None	同=甔	None	甔
+𦉙	bian3	小缶	None	None
+𦉙	bian3	纺锤	None	None
+罋	None	同=瓮	None	瓮
+𦉞	None	同=㽉	None	㽉
+罌	ying1	瓶一类的容器，比缶大，腹大口小	None	None
+𦉟	ya4	器皿缺损 也指齿缺	None	None
+⿰缶畾	None	同=罍	None	罍
+罍	lei2	古代一种盛酒的容器 小口，广肩，深腹，圈足，有盖，多用青铜或陶制成	None	None
+罍	lei2	盥洗的器皿	None	None
+𦉝	xin4	瓦器坼裂	None	None
+䍎	cun4	纺锤 古代一种捻线的工具	None	None
+䍎	xian3	小缶	None	None
+罏	lu2	同=𧇄 古代一种盛酒的小口瓦器	None	𧇄
+罏	lu2	炉子	None	None
+罏	lu2	同=壚 酒店放置酒瓮的土台子，借指酒店	None	壚
+罎	None	同=壜	None	壜
+罐	guan4	用陶或金属制造的盛物、汲水或烹煮用的圆筒形器物	None	None
+罐	guan4	指封装食品或其他物品的圆筒形容器 如：罐头；香烟罐	None	None
+罐	guan4	煤矿装媒用的斗车	None	None
+𦉢	ling2	古代盛酒或水的容器，瓦制或青铜制 口微侈，有盖，束颈，宽身，有耳，无足 也作=瓴	None	瓴
+𦉣	None	同=𦉢	None	𦉢
+𦉥	None	同=瓮	None	瓮
+𦉧	ya4	缺	None	None
+𦉧	ya4	缶属	None	None
+舌	she2	人和动物嘴里辨别滋味、帮助咀嚼和发音的器官	None	None
+舌	she2	言语 如：舌战；舌锋	None	None
+舌	she2	像舌的物体 如：帽舌；火舌；箭舌；笔舌 又箕口外伸的部分，即盛物处	None	None
+舌	she2	姓	None	None
+舌	gua1	同=𠯑 塞口	None	𠯑
 舍	None	录入中	None	None
 舏	None	录入中	None	None
 𦧇	None	录入中	None	None
