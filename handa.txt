@@ -54423,37 +54423,68 @@
 𦌬	wu2	网	None	None
 𦌫	None	同=𦊔(罱)	None	𦊔
 䍤	ji3	滤酒，即酿酒成熟之后，用手挤压，使酒流出而去其糟 后泛指用手挤压使排出（汁液）	None	None
-羆	None	录入中	None	None
-𦌰	None	录入中	None	None
-羄	None	录入中	None	None
-羅	None	录入中	None	None
-𦌪	None	录入中	None	None
-𦌹	None	录入中	None	None
-𦌷	None	录入中	None	None
-𦌵	None	录入中	None	None
-𦌸	None	录入中	None	None
-𦌺	None	录入中	None	None
-𦌻	None	录入中	None	None
-𦌶	None	录入中	None	None
-䍥	None	录入中	None	None
-𦌼	None	录入中	None	None
-羇	None	录入中	None	None
-𦌽	None	录入中	None	None
-䍦	None	录入中	None	None
-𧭿	None	录入中	None	None
-𦍀	None	录入中	None	None
-羈	None	录入中	None	None
-𦌿	None	录入中	None	None
-𡚤	None	录入中	None	None
-𦍄	None	录入中	None	None
-𦍅	None	录入中	None	None
-𩼄	None	录入中	None	None
-羉	None	录入中	None	None
-𦍁	None	录入中	None	None
-𦌾	None	录入中	None	None
-𦍆	None	录入中	None	None
-𦍇	None	录入中	None	None
-𦍈	None	录入中	None	None
+羆	pi2	熊的一种，俗称人熊或马熊，毛通常呈褐色，能爬树，会游泳	None	None
+𦌰	ji1	@	None	None
+羄	zhao4	同=䍜(罩)	None	䍜
+羄	zhao4	小网	None	None
+羅	luo2	捕鸟的网	None	None
+羅	luo2	用网捕鸟 如：罗雀掘鼠	None	None
+羅	luo2	搜寻；招致	None	None
+羅	luo2	包罗，囊括	None	None
+羅	luo2	排列；分布 如：星罗棋布	None	None
+羅	luo2	遮拦；遮挡	None	None
+羅	luo2	遭遇	None	None
+羅	luo2	质地轻软经纬组织显现眼纹的丝织品 如：绫罗绸缎	None	None
+羅	luo2	一种密孔筛子 如：绢罗；铜丝罗	None	None
+羅	luo2	用罗筛东西	None	None
+羅	luo2	螺形或环状的	None	None
+羅	luo2	檖的别名 即鹿梨	None	None
+羅	luo2	量词 十二打为一罗	None	None
+羅	luo2	用同=蘿 萝卜	None	蘿
+羅	luo2	用同=鑼 打击乐器，铜制	None	鑼
+羅	luo2	用同=籮 竹制的盛物器	None	籮
+羅	luo2	国名 1.周代诸侯国名 熊姓 故址初在今湖北省宜城市西，为楚所迫多次迁徙，春秋时为楚所灭 2.罗马尼亚的简称	None	None
+羅	luo2	姓	None	None
+羅	luo2	同=邏 1.巡行；巡查 2.游兵	None	邏
+羅	luo2	用同=摞(luo4) 1.把东西重叠放置 如：把碗罗起来 2.量词，用于重叠放置着的东西 如：一罗资料	None	摞
+羅	luo1	[羅嗦]同“=囉嗦” 言语繁复或事情烦琐；麻烦	None	囉
+羅	luo5	语气词 用于句尾，相当于“哪”	None	None
+𦌪	tan3	鱼网	None	None
+𦌹	None	同=羈	None	羈
+𦌷	du2	[𦌷䍡]即“=罜䍡” 小鱼网	None	罜
+𦌵	None	同=䍣	None	䍣
+𦌸	kun1	网	None	None
+𦌺	jun1	宗	None	None
+𦌺	jun1	天群	None	None
+𦌻	None	同=𦌔	None	𦌔
+𦌶	None	同=羂(罥)	None	羂
+䍥	li4	[羃䍥]也作“冪=歷” 1.烟貌 2.披覆貌	None	歷
+䍥	li4	盖食巾	None	None
+𦌼	None	同=籠	None	籠
+羇	None	同=羈	None	羈
+𦌽	None	同=辯	None	辯
+䍦	li2	[羃䍦]头巾，古代的一种面罩	None	None
+𧭿	None	同=𧦬	None	𧦬
+𦍀	nan4	缊	None	None
+羈	ji1	马络头	None	None
+羈	ji1	系住；拘系	None	None
+羈	ji1	约束；拘束 如：狂放不羁	None	None
+羈	ji1	牵制；牵延	None	None
+羈	ji1	古代女孩的发髻	None	None
+羈	ji1	单的；孤单	None	None
+羈	ji1	寄居；旅寓 也指寄居作客的人	None	None
+羈	ji1	姓	None	None
+𦌿	shi1	同=釃 滤酒	None	釃
+𡚤	None	同=奰	None	奰
+𦍄	shu1	滤去酒渣，使酒流下	None	None
+𦍅	quan3	罺网	None	None
+𩼄	ji4	鯚鱼 即鳜鱼	None	None
+羉	luan2	捕捉野猪的网	None	None
+𦍁	po4	网	None	None
+𦌾	None	同=罥	None	罥
+𦍆	None	同=𦌾(罥)	None	𦌾
+𦍇	None	同=邊	None	邊
+𦍈	None	同=𦌭(羈)	None	𦌭
 肉	None	录入中	None	None
 肏	None	录入中	None	None
 𦘫	None	录入中	None	None
