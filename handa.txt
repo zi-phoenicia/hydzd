@@ -56000,39 +56000,63 @@
 篢	gan3	同=㔶 1.箱类 2.覆头	None	㔶
 篢	long3	方言 箱笼	None	None
 篢	long3	地名用字 广西壮族自治区荔浦县有花篢，广东省有织篢	None	None
-𥰟	None	录入中	None	None
-𥳉	None	录入中	None	None
-築	None	录入中	None	None
-篫	None	录入中	None	None
-𥰺	None	录入中	None	None
-𥱩	None	录入中	None	None
-篕	None	录入中	None	None
-𥰚	None	录入中	None	None
-𥱹	None	录入中	None	None
-𥰸	None	录入中	None	None
-䈯	None	录入中	None	None
-𥰰	None	录入中	None	None
-𥰜	None	录入中	None	None
-䈷	None	录入中	None	None
-𥰼	None	录入中	None	None
-𥰳	None	录入中	None	None
-𥰯	None	录入中	None	None
-䈪	None	录入中	None	None
-篥	None	录入中	None	None
-𥰡	None	录入中	None	None
-𥲁	None	录入中	None	None
-𥱇	None	录入中	None	None
-𥰫	None	录入中	None	None
-𥲩	None	录入中	None	None
-篴	None	录入中	None	None
-篮	None	录入中	None	None
-篡	None	录入中	None	None
-篳	None	录入中	None	None
-𥰻	None	录入中	None	None
-䈳	None	录入中	None	None
-篔	None	录入中	None	None
-𥰙	None	录入中	None	None
-𥯣	None	录入中	None	None
+⿳𥫗⿰工口木	None	同=築	None	築
+𥰟	yuan2	同=榬 古代络丝的器具	None	榬
+𥳉	du1	竹名	None	None
+築	zhu4	捣土用的杵	None	None
+築	zhu4	捣土使坚实	None	None
+築	zhu4	建造	None	None
+築	zhu4	居室；建筑物	None	None
+築	zhu4	捣；捅	None	None
+築	zhu4	蹴（只用于“筑毬”）	None	None
+築	zhu4	塞；装填	None	None
+築	zhu4	古代制造书刀的工匠	None	None
+築	zhu4	量词 一千二百片叶	None	None
+築	zhu4	拾取	None	None
+築	zhu4	通=祝 切断	None	祝
+築	zhu4	姓	None	None
+篫	zhu4	用手筑捣	None	None
+𥰺	None	同=築	None	築
+𥱩	None	同=𥷚	None	𥷚
+篕	he2	[篕棪]粗竹席子	None	None
+𥰚	None	同=篎	None	篎
+𥱹	mo4	[𥱹𥭕]竹名	None	None
+𥰸	None	同=箭	None	箭
+䈯	zhen1	竹名 箭竹的一种，可做箭矢	None	None
+䈯	zhen1	器名	None	None
+𥰰	shi4	同=筮	None	筮
+𥰰	she2	数蓍草占卦以卜吉凶 也作=揲	None	揲
+𥰜	tao2	[𥰜枝]竹名	None	None
+䈷	luo4	同=格 篱笆	None	格
+𥰼	suo4	竹索	None	None
+𥰼	suo4	烤肉用的竹签	None	None
+𥰳	xian4	竹名	None	None
+𥰯	None	同=𥰮	None	𥰮
+䈪	xi4	小而高的箩筐，用以盛谷物灌注于斗斛中	None	None
+篥	li4	[觱篥]我国古代西北地区少数民族的一种管乐器	None	None
+篥	li4	竹名	None	None
+𥰡	ce4	击	None	None
+𥲁	lie4	竹笒 用以晒干物品的竹器	None	None
+𥱇	None	同=𥯬	None	𥯬
+𥰫	None	同=筮	None	筮
+𥲩	None	同=𥷚	None	𥷚
+篴	di2	同=笛	None	笛
+篴	zhu2	竹名	None	None
+⿱𥫗辂	None	=簵的类推简化字	None	簵
+篮	None	=籃的简化字	None	籃
+篡	cuan4	劫夺	None	None
+篡	cuan4	旧称夺取君位为篡，今凡以非法的、非正义的手段夺取权力地位的行为也称篡	None	None
+篡	cuan4	取（特指巧取）	None	None
+篡	cuan4	以私意歪曲 如：篡改；篡易	None	None
+篡	cuan4	中医学上的人体部位名，与“会阴穴”部位相当	None	None
+篳	bi4	篱笆	None	None
+篳	bi4	以木条或竹编成的简陋屏蔽物	None	None
+𥰻	mu4	竹筥	None	None
+䈳	ta4	窗扇，一种用于遮挡阳光的篾织物	None	None
+篔	yun2	[篔簹]一种皮薄、节长而竿高的竹子 也称箄竹 有时也泛指一般的竹	None	None
+篔	xun1	用同=塤(壎) 古代土制乐器，有六孔	None	塤
+𥰙	None	同=䉠	None	䉠
+𥯣	None	同=篾	None	篾
 𥱁	None	录入中	None	None
 𥱅	None	录入中	None	None
 簉	None	录入中	None	None
