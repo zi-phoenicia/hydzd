@@ -56562,27 +56562,51 @@
 𥴣	None	同=篷	None	篷
 𥴴	gou1	[𥴴𥵣]也作“=鉤端” 竹名 桃枝竹的一种	None	鉤
 簽	qian1	在文件或单据上署名或题写文字以为标识	None	None
-簽	qian1	用简单的文字提出要点或意见	None	None
-𥴨	None	录入中	None	None
-簷	None	录入中	None	None
-䉏	None	录入中	None	None
-𥴶	None	录入中	None	None
-䉡	None	录入中	None	None
-簾	None	录入中	None	None
-𥴿	None	录入中	None	None
-𥴱	None	录入中	None	None
-𥴰	None	录入中	None	None
-䉝	None	录入中	None	None
-𥴺	None	录入中	None	None
-簿	None	录入中	None	None
-𥴽	None	录入中	None	None
-簺	None	录入中	None	None
-簫	None	录入中	None	None
-𥴳	None	录入中	None	None
-𥴫	None	录入中	None	None
-𥴬	None	录入中	None	None
-𥴲	None	录入中	None	None
-𥴳	None	录入中	None	None
+簽	qian1	用简单的文字提出要点或意见 如：签呈；签注	None	None
+簽	qian1	旧时官府交给差役拘捕犯人的片状凭证，多用竹、木做成 如：朱签；火签	None	None
+簽	qian1	同=籤	None	籤
+𥴨	ai4	隐蔽；遮掩	None	None
+簷	yan2	同=檐 屋檐	None	檐
+䉏	xie4	竹名	None	None
+𥴶	None	同=䉞	None	䉞
+䉡	tan2	竹名	None	None
+䉡	tan2	拉船的纤索	None	None
+簾	lian2	用竹、苇或布等做成的遮蔽门窗的用具	None	None
+簾	lian2	指某些形状像帘的设备	None	None
+簾	lian2	箨名	None	None
+簾	lian2	通=匳 小匣子	None	匳
+𥴿	yan2	竹	None	None
+𥴱	jian4	古代楚地称筏上的住室	None	None
+𥴰	None	同=𥶹	None	𥶹
+䉝	yi3	竹器	None	None
+䉤	None	=籔的类推简化字	None	籔
+𥴺	ci2	同=䈘 竹名	None	䈘
+簿	bu4	登记册 如：账簿；点名簿	None	None
+簿	bu4	造册登记；清查	None	None
+簿	bu4	文书	None	None
+簿	bu4	朝笏，手板	None	None
+簿	bu4	书写用的本子 如：习字簿；作文簿；练习簿	None	None
+簿	bu4	卤簿，天子外出时的仪仗队	None	None
+簿	bu4	资格；阅历	None	None
+簿	bu4	古代官职名，“主簿”的简称	None	None
+簿	bu4	领	None	None
+簿	bo2	同=薄 1.蚕帘，用竹篾或芦苇编制的养蚕用具 2.物体厚度小 3.迫近；接触	None	薄
+簿	bo2	同=箔 帘子	None	箔
+簿	bo2	壁柱	None	None
+𥴽	None	=篠的讹字	None	篠
+簺	sai4	古代的一种博戏，也称格五戏	None	None
+簺	sai4	用竹木编成的拦水捕鱼工具	None	None
+簫	xiao1	古代的一种竹管乐器，用一组长短不等的细竹管按音律编排而成	None	None
+簫	xiao1	直吹单管乐器，吹孔在顶端侧沿，正面五孔，背面一孔 相传出于西羌，初名长笛，也称洞箫	None	None
+簫	xiao1	弓的末端	None	None
+簫	xiao1	击	None	None
+簫	xiao3	通=篠 小竹	None	篠
+𥴫	tun2	揉制弓弩使其成形的工具	None	None
+𥴫	diao4	击	None	None
+𥴬	bi4	竹𥴬	None	None
+𥴬	bi4	捕鸟的工具	None	None
+𥴲	None	同=簢	None	簢
+𥴳	None	同=𥲅	None	𥲅
 籍	None	录入中	None	None
 𥶹	None	录入中	None	None
 𥵦	None	录入中	None	None
