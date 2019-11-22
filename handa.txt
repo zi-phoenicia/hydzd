@@ -56300,56 +56300,76 @@
 簇	cou4	集聚	None	None
 簇	cou4	靠；贴近	None	None
 簇	cou4	拼凑	None	None
-𥲬	None	录入中	None	None
-𥲠	None	录入中	None	None
-簖	None	录入中	None	None
-𥲫	None	录入中	None	None
-𥳆	None	录入中	None	None
-𥱼	None	录入中	None	None
-𥲄	None	录入中	None	None
-𥲚	None	录入中	None	None
-𥲌	None	录入中	None	None
-簗	None	录入中	None	None
-𥲃	None	录入中	None	None
-䈿	None	录入中	None	None
-䈹	None	录入中	None	None
-𥲡	None	录入中	None	None
-䈼	None	录入中	None	None
-簄	None	录入中	None	None
-𥲝	None	录入中	None	None
-簋	None	录入中	None	None
-𥳔	None	录入中	None	None
-䉃	None	录入中	None	None
-𥳜	None	录入中	None	None
-𥳲	None	录入中	None	None
-𥳌	None	录入中	None	None
-䉌	None	录入中	None	None
-𥲘	None	录入中	None	None
-𥱵	None	录入中	None	None
-篸	None	录入中	None	None
-𥲅	None	录入中	None	None
-𥲛	None	录入中	None	None
-䈺	None	录入中	None	None
-𥲀	None	录入中	None	None
-𥳧	None	录入中	None	None
-簮	None	录入中	None	None
-𥴐	None	录入中	None	None
-𥳡	None	录入中	None	None
-𥳳	None	录入中	None	None
-䉗	None	录入中	None	None
-簙	None	录入中	None	None
-𥳺	None	录入中	None	None
-𥳎	None	录入中	None	None
-簛	None	录入中	None	None
-䉈	None	录入中	None	None
-𥳯	None	录入中	None	None
-䉓	None	录入中	None	None
-𥴖	None	录入中	None	None
-簭	None	录入中	None	None
-𥳖	None	录入中	None	None
-䉘	None	录入中	None	None
-䉐	None	录入中	None	None
-䉖	None	录入中	None	None
+𥲬	None	=𥰠的讹字	None	𥰠
+𥲠	wang4	竹名	None	None
+𥲠	wang4	竹色	None	None
+簖	None	=籪的简化字	None	籪
+𥲫	None	同=箭	None	箭
+𥳆	bi4	簟衣车户	None	None
+𥳆	bi4	古代博戏所用的筹	None	None
+𥱼	pai2	筏子 以竹木编成的水上运载工具	None	None
+𥱼	pi4	水名	None	None
+𥲄	dan4	竹名，即淡竹	None	None
+𥲚	shuang4	用竹木刺物	None	None
+𥲌	None	同=筨(䈄)	None	筨
+簗	None	=築的讹字	None	築
+𥲃	kou4	织机机件之一 形状像梳子，用于确定经线的密度，保持经线的位置，并把纬线推向织口 也叫“杼”	None	None
+⿱𥫗㝡	None	同=𥳣	None	𥳣
+䈿	mi4	车篷带	None	None
+䈹	None	同=籔	None	籔
+𥲡	chuang1	篱笆	None	None
+䈼	mie4	同=篾	None	篾
+䈼	mi4	一种有瓤的小竹	None	None
+簄	hu4	江海捕鱼的竹器	None	None
+𥲝	None	同=𥶈	None	𥶈
+簋	gui3	古代盛食物的器皿，也用作礼器 或竹木制，或陶土烧制，或以青铜铸造 形状不一，一般为圆腹、侈口、圈足 商代的簋多无盖无耳，或为二耳 西周和春秋的簋常带盖，有二耳或四耳，间有带方座或附有三足者 战国以后主要用作宗庙礼器	None	None
+簋	gui3	陶瓷器皿的雅称 即碗、罐之类	None	None
+𥳔	duo4	同=𥬲 竹名	None	𥬲
+䉃	jiang3	剖开而未去节的竹子，用来作桨	None	None
+䉃	jiang3	古代小孩习字或记事的木制用具 有棱角，呈六角或八面体	None	None
+䉃	jiang3	席子	None	None
+䉃	jiang3	竹	None	None
+𥳜	yang2	[𥰧𥳜]见“𥰧”	None	None
+𥳲	du4	格笿	None	None
+𥳌	long2	篁	None	None
+䉌	sui4	籧篨，粗席	None	None
+䉌	sui4	竹径	None	None
+𥲘	None	同=笯	None	笯
+𥱵	hui4	同=彗	None	彗
+𥱵	xi2	修缮船的工具	None	None
+篸	cen1	[篸差]同“=參差”，不齐貌	None	參
+篸	zan1	缝衣针 ……一说同=鍼(針)	None	鍼
+篸	zan1	通=簪 别住发髻的条状物	None	簪
+篸	zan1	缀；插	None	None
+篸	can3	方言 一种竹制盛物器	None	None
+𥲅	chou2	[𥲅箸]同“=躊躇” 犹豫；徘徊	None	躊
+𥲛	fu4	篾	None	None
+䈺	zhong1	竹	None	None
+䈺	zhong1	篋	None	None
+𥲀	chao2	同=巢 大笙	None	巢
+𥳧	None	同=簁	None	簁
+簮	None	同=簪	None	簪
+𥴐	zhan3	@	None	None
+𥳡	fen2	[帥𥳡]弦	None	None
+𥳳	ti2	竹名	None	None
+䉗	yi1	杓	None	None
+簙	bo2	古时的一种棋戏	None	None
+𥳺	song3	箸桶，盛筷子的竹笼	None	None
+𥳎	qiong2	[𥳎籠]车弓，即古代车上的弓形车篷架	None	None
+簛	shai1	同=篩	None	篩
+簛	si1	竹枝	None	None
+簛	si1	竹节	None	None
+䉈	san3	[䈓䉈]见“䈓”	None	None
+𥳯	ce4	用竹篱围捕鱼	None	None
+𥳯	ce4	同=策	None	策
+䉓	luo4	床箦，用竹编成的床垫	None	None
+𥴖	pai2	同=𥱼 筏子	None	𥱼
+簭	shi4	同=筮	None	筮
+簭	shi4	通=噬 咬	None	噬
+𥳖	bu4	竹器	None	None
+䉘	None	同=𥲚	None	𥲚
+䉐	ku1	篾	None	None
+䉖	None	同=笭	None	笭
 簠	None	录入中	None	None
 𥱺	None	录入中	None	None
 簟	None	录入中	None	None
