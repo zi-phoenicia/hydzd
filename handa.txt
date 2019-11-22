@@ -56193,22 +56193,35 @@
 𥲊	liao2	竹名 似苦竹而细软	None	None
 ⿱𥫗⿰耳夘	None	同=𥲊	None	𥲊
 䈽	jin1	竹名 节短，皮白，大者如撑篙，根叶可以入药	None	None
-簕	None	录入中	None	None
-簧	None	录入中	None	None
-𥲈	None	录入中	None	None
-𥲐	None	录入中	None	None
-䈾	None	录入中	None	None
-簐	None	录入中	None	None
-篿	None	录入中	None	None
-𥲍	None	录入中	None	None
-簌	None	录入中	None	None
-𥲔	None	录入中	None	None
-𥱸	None	录入中	None	None
-篻	None	录入中	None	None
-𥲦	None	录入中	None	None
-簭	None	录入中	None	None
-𥱶	None	录入中	None	None
-𥳤	None	录入中	None	None
+簕	le4	竹名 一种有刺的竹子，俗称刺竹	None	None
+簧	huang2	乐器里用以振动发生的薄片，用竹、金属或其他材料制成	None	None
+簧	huang2	笙、竽	None	None
+簧	huang2	动听的语言	None	None
+簧	huang2	器物里有弹力的机件 如：弹簧；锁簧	None	None
+簧	huang2	古代妇女首饰 也称步摇	None	None
+簧	huang2	竹名	None	None
+𥲈	man3	[𥲈䈠]简牍	None	None
+𥲈	man3	竹器	None	None
+𥲐	wu2	竹名	None	None
+䈾	shao1	动	None	None
+䈾	shao1	同=梢 树尖或树枝的末端	None	梢
+䈾	shao1	船舵尾	None	None
+䈾	shuo4	饭帚	None	None
+簐	nian3	[恭簐弓]钓	None	None
+篿	tuan2	圆形竹器	None	None
+篿	zhuan1	古代的一种占卜法	None	None
+𥲍	cao2	竹名	None	None
+簌	su4	抖动；摇动	None	None
+𥲔	None	同=築	None	築
+𥱸	ou1	养蚕的竹器	None	None
+篻	piao3	筋竹的别名	None	None
+篻	piao3	竹笋	None	None
+篻	piao3	竹门	None	None
+篻	biao1	竹长貌	None	None
+𥲦	biao1	竹名	None	None
+簭	None	同=筮	None	筮
+𥱶	shuang3	竹貌	None	None
+𥳤	None	同=笛	None	笛
 𥲖	None	录入中	None	None
 𥱾	None	录入中	None	None
 𥲤	None	录入中	None	None
