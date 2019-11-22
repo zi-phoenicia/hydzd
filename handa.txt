@@ -56156,31 +56156,43 @@
 𥰢	shan4	同=扇 扇子	None	扇
 篧	zhuo2	捕鱼用的罩	None	None
 篧	huo4	同=䉟 取鱼竹器	None	䉟
-𥱂	None	录入中	None	None
-𥰦	None	录入中	None	None
-篛	None	录入中	None	None
-𥲎	None	录入中	None	None
-䉄	None	录入中	None	None
-𥲗	None	录入中	None	None
-篜	None	录入中	None	None
-𥰪	None	录入中	None	None
-𥰮	None	录入中	None	None
-𥲆	None	录入中	None	None
-𥰘	None	录入中	None	None
-䈫	None	录入中	None	None
-篲	None	录入中	None	None
-簀	None	录入中	None	None
-𥲙	None	录入中	None	None
-𥲪	None	录入中	None	None
-簎	None	录入中	None	None
-篶	None	录入中	None	None
-篺	None	录入中	None	None
-䉅	None	录入中	None	None
-𥲒	None	录入中	None	None
-簊	None	录入中	None	None
-䉁	None	录入中	None	None
-𥲊	None	录入中	None	None
-䈽	None	录入中	None	None
+𥱂	nu2	机𥱂	None	None
+𥰦	ji1	竹屐	None	None
+篛	None	同=箬	None	箬
+𥲎	lu4	竹名	None	None
+䉄	leng2	竹名	None	None
+𥲗	du4	格；笿	None	None
+篜	zheng1	竹名	None	None
+𥰪	hu2	被	None	None
+𥰮	ge3	竹笋 一说为用盐腌制的笋干	None	None
+𥲆	tong1	竹名 即通竹	None	None
+𥰘	None	同=𥶓	None	𥶓
+䈫	na4	同=笝 系船的竹索	None	笝
+篲	hui4	竹扫帚	None	None
+篲	hui4	扫；拂	None	None
+篲	hui4	同=彗 彗星	None	彗
+篲	hui4	竹名	None	None
+篲	hui4	同=蔧 地肤草	None	蔧
+簀	ze2	用竹子或木条编成的床垫 也称笫	None	None
+簀	ze2	粗篾席；芦席	None	None
+簀	ze2	堆积	None	None
+簀	zhai4	同=𨢦 压酒具	None	𨢦
+𥲙	None	同=篝	None	篝
+𥲪	li2	[笊𥲪]笊篱 竹杓	None	None
+簎	ce4	用叉刺取水中鱼鳖	None	None
+簎	ce4	捕鱼的竹帘	None	None
+簎	ji2	打	None	None
+篶	yan1	黑竹	None	None
+篺	pi2	人名用字 也作=猈	None	猈
+⿱筑𪠲	None	同=築	None	築
+䉅	None	箭竹、䉋竹一类的竹子	None	None
+𥲒	None	同=築	None	築
+簊	ji1	竹名	None	None
+䉁	ling2	竹名	None	None
+䉁	ling2	竹器	None	None
+𥲊	liao2	竹名 似苦竹而细软	None	None
+⿱𥫗⿰耳夘	None	同=𥲊	None	𥲊
+䈽	jin1	竹名 节短，皮白，大者如撑篙，根叶可以入药	None	None
 簕	None	录入中	None	None
 簧	None	录入中	None	None
 𥲈	None	录入中	None	None
