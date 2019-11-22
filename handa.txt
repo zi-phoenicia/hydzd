@@ -56222,35 +56222,54 @@
 簭	None	同=筮	None	筮
 𥱶	shuang3	竹貌	None	None
 𥳤	None	同=笛	None	笛
-𥲖	None	录入中	None	None
-𥱾	None	录入中	None	None
-𥲤	None	录入中	None	None
-𥲜	None	录入中	None	None
-𥲉	None	录入中	None	None
-𥱿	None	录入中	None	None
-𥳠	None	录入中	None	None
-簒	None	录入中	None	None
-篹	None	录入中	None	None
-𥲏	None	录入中	None	None
-𥲨	None	录入中	None	None
-𥲣	None	录入中	None	None
-簍	None	录入中	None	None
-𥲑	None	录入中	None	None
-𥲞	None	录入中	None	None
-䉂	None	录入中	None	None
-𥲢	None	录入中	None	None
-簂	None	录入中	None	None
-篾	None	录入中	None	None
-䉚	None	录入中	None	None
-𥱽	None	录入中	None	None
-簻	None	录入中	None	None
-𥲧	None	录入中	None	None
-簃	None	录入中	None	None
-𥲼	None	录入中	None	None
-𥳟	None	录入中	None	None
-𥲇	None	录入中	None	None
-䉆	None	录入中	None	None
-篼	None	录入中	None	None
+𥲖	None	同=𫂜	None	𫂜
+𥱾	None	同=𥰠(筥)	None	𥰠
+𥲤	None	同=𧇽(虡)	None	𧇽
+𥲜	ju4	竹	None	None
+𥲉	hu4	篓子	None	None
+𥱿	None	同=𥴧	None	𥴧
+𥳠	di4	[𥳠鐘]古乐器	None	None
+簒	None	同=篡	None	篡
+篹	suan3	古代笾一类的食器	None	None
+篹	suan3	同=匴 古代的冠箱	None	匴
+篹	suan3	竹木素器	None	None
+篹	zuan3	同=籫 筷子笼	None	籫
+篹	zuan3	同=纂 编撰	None	纂
+篹	zhuan3	同=撰 编写，著述	None	撰
+篹	zhuan3	同=饌 供设食物	None	饌
+𥲏	chuan4	同=𣀔 略舂	None	𣀔
+𥲨	None	同=𥲣	None	𥲣
+𥲣	tui4	断	None	None
+簍	lou3	用竹篾、荆条、苇篾儿等编成的盛物器具 一般为圆桶形 如：炭篓；鱼篓；字纸篓	None	None
+簍	lv3	车篷	None	None
+簍	ju4	[𥯔簍]见“𥯔”	None	None
+𥲑	man2	竹名 皮青内白，质地柔韧	None	None
+𥲞	None	同=甾	None	甾
+䉂	lei3	盛土笼	None	None
+䉂	lei3	法	None	None
+𥲢	qian1	竹名	None	None
+簂	gui4	同=槶 筐	None	槶
+簂	guo2	古代妇女首饰 也作=蔮	None	蔮
+簂	guo2	古代妇女的丧冠 也作=幗	None	幗
+篾	mie4	竹子剖成的长条薄片或细长条 也指藤类、苇子等剖下的茎皮	None	None
+篾	mie4	桃枝竹	None	None
+篾	mie4	古律历天文用语 分度的单位或仪器	None	None
+䉚	meng2	竹名	None	None
+䉚	meng2	竹笋	None	None
+䉚	meng2	竹筒	None	None
+𥱽	juan3	竹名	None	None
+𥱽	juan3	𥫱一类的盛谷物的竹制器具	None	None
+簻	zhua1	马鞭	None	None
+簻	zhua1	乐管	None	None
+𥲧	li2	竹名	None	None
+簃	yi2	楼阁旁边的小屋	None	None
+𥲼	None	同=箯	None	箯
+𥳟	jian3	竹名	None	None
+𥲇	dan4	竹名	None	None
+䉆	diao3	竹名	None	None
+篼	dou1	装饲料喂马的竹器	None	None
+篼	dou1	竹篾、藤条等编成的盛东西的器具 如：背篼	None	None
+篼	dou1	竹制的小轿 多用于行山路，通称篼子，也称篼笼	None	None
 簁	None	录入中	None	None
 篵	None	录入中	None	None
 𥲋	None	录入中	None	None
