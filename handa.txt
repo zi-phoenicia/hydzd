@@ -56370,36 +56370,73 @@
 䉘	None	同=𥲚	None	𥲚
 䉐	ku1	篾	None	None
 䉖	None	同=笭	None	笭
-簠	None	录入中	None	None
-𥱺	None	录入中	None	None
-簟	None	录入中	None	None
-𥴑	None	录入中	None	None
-簝	None	录入中	None	None
-䉔	None	录入中	None	None
-䉙	None	录入中	None	None
-簪	None	录入中	None	None
-𥳭	None	录入中	None	None
-𥲕	None	录入中	None	None
-𥳦	None	录入中	None	None
-䉎	None	录入中	None	None
-𥳶	None	录入中	None	None
-𥳣	None	录入中	None	None
-𥳐	None	录入中	None	None
-簡	None	录入中	None	None
-簢	None	录入中	None	None
-䉍	None	录入中	None	None
-𥴪	None	录入中	None	None
-簣	None	录入中	None	None
-𥳫	None	录入中	None	None
-簞	None	录入中	None	None
-簚	None	录入中	None	None
-簤	None	录入中	None	None
-𥳙	None	录入中	None	None
-𥳬	None	录入中	None	None
-䉑	None	录入中	None	None
-𥳈	None	录入中	None	None
-𥳱	None	录入中	None	None
-𥴒	None	录入中	None	None
+簠	fu3	古代食器，也用作祭器 出土青铜簠呈长方形，器与盖的形状相同，可分用，各有两耳 用以盛黍稷稻粱 西周晚期出现，沿用至战国	None	None
+⿳𥫗覀⿱太龴	None	同=𥱺	None	𥱺
+𥱺	qian1	[䇹𥱺]竹名	None	None
+簟	dian3	竹席 也指用芦苇编织的席	None	None
+簟	dian3	竹名	None	None
+𥴑	ting2	@	None	None
+⿱𥫗⿰㚔攵	None	同=𥷤	None	𥷤
+簝	liao2	古代宗庙盛肉的竹器	None	None
+簝	liao2	竹名	None	None
+䉔	can1	竹签	None	None
+䉔	can1	䉔笒	None	None
+䉔	can1	竹䉔定物	None	None
+䉙	yun2	[䉙簹]也作“=篔簹” 竹名	None	篔
+簪	zan1	古人用来绾住发髻或连冠于发的用品，后专指妇女插髻用的首饰	None	None
+簪	zan1	插戴在头上	None	None
+簪	zan1	古代农民插于发髻上用以散发汗气的用具	None	None
+簪	zan1	通=鐕 连缀	None	鐕
+簪	zan1	通=槮(san3) 置于水中捕鱼的积柴	None	槮
+簪	zan3	通=寁 急速	None	寁
+𥳭	None	同=箭	None	箭
+𥲕	zi3	竹名	None	None
+𥳦	None	同=筍	None	筍
+䉎	tang2	罩	None	None
+𥳶	zhang3	竹名	None	None
+𥳣	zui4	竹名	None	None
+𥳣	zui4	竹制的帚	None	None
+𥳐	qian3	[𥳐䉳]户板，户籍	None	None
+簡	jian3	古代用于书写的狭长竹片	None	None
+簡	jian3	泛指书籍	None	None
+簡	jian3	书信	None	None
+簡	jian3	笏 手板	None	None
+簡	jian3	古兵器 鞭类	None	None
+簡	jian3	简板 两根长约65厘米的竹片组成的扣击乐器，以左手夹击发声来显示节拍 常与渔鼓合用以伴奏“道情”	None	None
+簡	jian3	简单；简略	None	None
+簡	jian3	质朴；平易	None	None
+簡	jian3	怠惰；放荡	None	None
+簡	jian3	怠慢	None	None
+簡	jian3	轻视	None	None
+簡	jian3	检查；察阅	None	None
+簡	jian3	严；严肃	None	None
+簡	jian3	少	None	None
+簡	jian3	指狱讼的情实	None	None
+簡	jian3	大；多	None	None
+簡	jian3	通=諫 规劝	None	諫
+簡	jian3	通=柬 选择	None	柬
+簡	jian3	通=摜 习，操练	None	摜
+簡	jian3	通=籣(lan2) 盛弩箭用的器具	None	籣
+簡	jian3	水名 古黄河下游的支流之一，故道约在今山东省阳信县、乐陵市境	None	None
+簡	jian3	姓	None	None
+簢	min3	竹名 可以为席	None	None
+䉍	jian3	察阅	None	None
+𥴪	ju4	竹器	None	None
+簣	kui4	盛土的竹器	None	None
+𥳫	tian3	同=腆 食物丰盛	None	腆
+簞	dan1	盛饭食的竹器，圆形，有盖	None	None
+簞	dan1	小筐	None	None
+簞	dan1	瓢	None	None
+簞	dan1	盛谷竹器	None	None
+簞	dan1	竹名	None	None
+簚	mi4	车轼上的覆盖物 后作=幭	None	幭
+簤	None	同=䈆	None	䈆
+𥳙	None	同=篅	None	篅
+𥳬	an4	垢腐貌	None	None
+䉑	wu2	黑皮竹	None	None
+𥳈	cui4	舂；用力捣	None	None
+𥳱	shen1	簟	None	None
+𥴒	zhi4	@	None	None
 𥳓	None	录入中	None	None
 簥	None	录入中	None	None
 䉣	None	录入中	None	None
