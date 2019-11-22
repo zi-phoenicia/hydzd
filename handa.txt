@@ -56437,11 +56437,14 @@
 𥳈	cui4	舂；用力捣	None	None
 𥳱	shen1	簟	None	None
 𥴒	zhi4	@	None	None
-𥳓	None	录入中	None	None
-簥	None	录入中	None	None
-䉣	None	录入中	None	None
-簰	None	录入中	None	None
-䉛	None	录入中	None	None
+𥳓	shao1	筲箕 后作=筲	None	筲
+簥	jiao1	大管 古乐器	None	None
+簥	jiao1	田器	None	None
+簥	jiao1	用同=轎(jiao4)	None	轎
+䉣	xie4	古代供写字的一种竹简	None	None
+簰	None	同=𥴖	None	𥴖
+䉛	yu4	淘米的竹器 今称筲箕	None	None
+䉛	ao3	移蚕器具	None	None
 篽	None	录入中	None	None
 𥳇	None	录入中	None	None
 𥳗	None	录入中	None	None
