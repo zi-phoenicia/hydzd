@@ -56057,57 +56057,105 @@
 篔	xun1	用同=塤(壎) 古代土制乐器，有六孔	None	塤
 𥰙	None	同=䉠	None	䉠
 𥯣	None	同=篾	None	篾
-𥱁	None	录入中	None	None
-𥱅	None	录入中	None	None
-簉	None	录入中	None	None
-篟	None	录入中	None	None
-𥰧	None	录入中	None	None
-篠	None	录入中	None	None
-篗	None	录入中	None	None
-𥰝	None	录入中	None	None
-篩	None	录入中	None	None
-篦	None	录入中	None	None
-𥰽	None	录入中	None	None
-篪	None	录入中	None	None
-䈲	None	录入中	None	None
-𥱻	None	录入中	None	None
-䈱	None	录入中	None	None
-𫂖	None	录入中	None	None
-𥰥	None	录入中	None	None
-篬	None	录入中	None	None
-䈵	None	录入中	None	None
-𥰹	None	录入中	None	None
-𥰬	None	录入中	None	None
-𥰿	None	录入中	None	None
-𥰴	None	录入中	None	None
-𥱃	None	录入中	None	None
-篷	None	录入中	None	None
-𥰣	None	录入中	None	None
-𥰷	None	录入中	None	None
-篘	None	录入中	None	None
-簑	None	录入中	None	None
-篙	None	录入中	None	None
-篱	None	录入中	None	None
-篖	None	录入中	None	None
-篭	None	录入中	None	None
-𥰵	None	录入中	None	None
-篰	None	录入中	None	None
-䈮	None	录入中	None	None
-𥱆	None	录入中	None	None
-篣	None	录入中	None	None
-𥰠	None	录入中	None	None
-䈴	None	录入中	None	None
-𥰲	None	录入中	None	None
-𥰨	None	录入中	None	None
-䈬	None	录入中	None	None
-篞	None	录入中	None	None
-𥰛	None	录入中	None	None
-𥰤	None	录入中	None	None
-𥰶	None	录入中	None	None
-𥰾	None	录入中	None	None
-䈶	None	录入中	None	None
-𥰢	None	录入中	None	None
-篧	None	录入中	None	None
+𥱁	se4	见足	None	None
+𥱅	None	同=甚	None	甚
+簉	zao4	副；附属的	None	None
+簉	zao4	杂；杂厕	None	None
+簉	zao4	齐，并排	None	None
+簉	zao4	满，充满	None	None
+簉	zao4	量词 黄金百饼	None	None
+簉	zao4	冲	None	None
+簉	zao4	就	None	None
+篟	qian4	竹名	None	None
+篟	qian4	竹茂盛貌	None	None
+𥰧	yi3	[𥰧𥳜]也作“=倚陽” 即筕篖，直纹而粗的竹席	None	倚
+篠	xiao3	细竹	None	None
+篠	xiao3	竹器	None	None
+篠	xiao3	通=篠(diao4) 芸田器	None	篠
+篗	None	同=籆	None	籆
+𥰝	xi1	簨𥰝	None	None
+篩	shi1	竹名	None	None
+篩	shi1	传说中的一种异草	None	None
+篩	shai1	筛子，一种竹编器具 底面多小孔，可用来分离粗细颗粒	None	None
+篩	shai1	用筛子过物	None	None
+篩	shai1	从孔隙中透过、漏下 多用于风、月、光线等	None	None
+篩	shai1	比喻经过挑选后淘汰 如：考不好给筛下来	None	None
+篩	shai1	摇动；抖动	None	None
+篩	shai1	洒；分散地落下	None	None
+篩	shai1	斟；斟酒	None	None
+篩	shai1	把酒盛在容器里，放在火上使热	None	None
+篩	shai1	敲（锣）	None	None
+篩	shai1	胡言乱语	None	None
+篩	shai1	量词 用于酒	None	None
+篦	bi4	篦子，梳理鬓发的用具 古代妇女也用以插在头上作装饰	None	None
+篦	bi4	古代旌旗上的一种装饰物	None	None
+篦	bi4	同=鎞 古时医生用以治眼病的器械	None	鎞
+篦	bi4	用篦子梳	None	None
+篦	pi2	同=笓 捕虾的竹器	None	笓
+篦	pi2	古代用以打人的刑具	None	None
+篦	pi2	植物茎叶	None	None
+𥰽	None	同=篪	None	篪
+篪	chi2	古代的一种竹管乐器 久已失传，其制不详	None	None
+篪	chi2	竹名	None	None
+䈲	ban1	篾制的捕鱼具	None	None
+䈲	ban1	竹名	None	None
+䈲	pan2	竹篾 也称䈲筡	None	None
+𥱻	chi4	胡竹	None	None
+𥱻	chi4	杖	None	None
+𥱻	tu2	同=筡 剖取竹篾	None	筡
+䈱	tao1	喂牛用的筐子	None	None
+𫂖	None	=𥴨的类推简化字	None	𥴨
+𥰥	xi4	所以安重船	None	None
+篬	qiang2	竹名	None	None
+篬	cang1	竹色	None	None
+䈵	weng1	竹茂盛貌	None	None
+𥰹	None	同=䉰	None	䉰
+𥰬	None	同=𥷚	None	𥷚
+𥰿	None	同=筍(笋)	None	筍
+𥰴	None	同=筍(笋)	None	筍
+𥱃	yi4	置	None	None
+篷	peng2	遮蔽风雨和阳光的器具 用篾席或帆布等制成 如：车篷；帐篷	None	None
+篷	peng2	船帆 也代指船	None	None
+𥰣	liu2	竹名	None	None
+𥰷	None	同=𥰣	None	𥰣
+篘	chou1	用竹编成的滤酒器具	None	None
+篘	chou1	滤酒	None	None
+篘	chou1	酒	None	None
+篘	chou1	无底竹筐	None	None
+簑	None	同=蓑	None	蓑
+篙	gao1	撑船的竹竿或木杆	None	None
+篱	None	同=籬	None	籬
+篖	tang2	[筕篖]见“筕”	None	None
+篭	None	同=籠	None	籠
+𥰵	None	同=篰	None	篰
+篰	bu4	简册，简牍	None	None
+篰	bu4	竹篓	None	None
+篰	bu4	量词	None	None
+䈮	ju4	织具	None	None
+䈮	ju4	竹名	None	None
+𥱆	None	=籉的讹字	None	籉
+篣	peng2	笼	None	None
+篣	peng2	笞打；击打 也作=搒、=榜	None	搒
+篣	pang2	竹箕	None	None
+篣	pang2	竹名	None	None
+⿱𥫗⿰⿳亡一几攵	None	同=䉠	None	䉠
+𥰠	lv3	同=筥 圆形竹筐 也称𥬔𥰠	None	筥
+䈴	qian4	笼	None	None
+𥰲	hong4	烘烤东西的竹器	None	None
+𥰨	tan2	洗刷马用的篦子	None	None
+𥰨	tan2	去掉污垢	None	None
+䈬	pu2	[䈬箷]小竹网	None	None
+篞	nie4	古代管乐器名	None	None
+𥰛	fu2	一种有纹的竹，也叫浮竹	None	None
+𥰤	None	同=𥰣	None	𥰣
+𥰶	xia2	拾𥰶	None	None
+𥰾	zhai4	同=𨢦 压酒具	None	𨢦
+䈶	rong2	[䈶䇯]箭	None	None
+䈶	rong2	文竹	None	None
+𥰢	shan4	竹	None	None
+𥰢	shan4	同=扇 扇子	None	扇
+篧	zhuo2	捕鱼用的罩	None	None
+篧	huo4	同=䉟 取鱼竹器	None	䉟
 𥱂	None	录入中	None	None
 𥰦	None	录入中	None	None
 篛	None	录入中	None	None
