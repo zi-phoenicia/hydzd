@@ -55936,27 +55936,70 @@
 箼	wu1	竹密	None	None
 箳	ping2	[箳篂]也作“箳星” 1.古代车上遮挡灰尘的竹席 2.借指安有箳篂的别驾车	None	None
 ⿱𥫗𨹧	None	同=䉄	None	䉄
-𥯤	None	录入中	None	None
-篃	None	录入中	None	None
-䈝	None	录入中	None	None
-篨	None	录入中	None	None
-𥯰	None	录入中	None	None
-䈢	None	录入中	None	None
-䈚	None	录入中	None	None
-𥯫	None	录入中	None	None
-𥰱	None	录入中	None	None
-篆	None	录入中	None	None
-𥯵	None	录入中	None	None
-䈙	None	录入中	None	None
-箹	None	录入中	None	None
-𥱧	None	录入中	None	None
-𥱨	None	录入中	None	None
-篝	None	录入中	None	None
-𥱄	None	录入中	None	None
-篚	None	录入中	None	None
-篤	None	录入中	None	None
-䈰	None	录入中	None	None
-篢	None	录入中	None	None
+𥯤	wei3	竹名	None	None
+𥯤	wei3	同=葦 芦苇	None	葦
+篃	mei4	竹名	None	None
+䈝	xu1	竹名	None	None
+䈝	xu1	箕的一种	None	None
+篨	chu2	[籧篨]见“籧”	None	None
+𥯰	None	同=籝(籯)	None	籝
+䈢	sai3	竹名	None	None
+䈢	xi3	竹篾	None	None
+䈚	tai2	竹笋	None	None
+䈚	tai2	笋皮	None	None
+䈚	tai2	同=箈(苔) 苔藓类植物	None	箈
+𥯫	None	同=筀	None	筀
+𥰱	sao1	[𥰱𥰱]竹声	None	None
+篆	zhuan4	运笔书写	None	None
+篆	zhuan4	汉字的一种书体 包括大篆、小篆，一般称指小篆 如：篆文；真草隶篆	None	None
+篆	zhuan4	官印的代称 也借指官职	None	None
+篆	zhuan4	旧时私人印章常用篆书，因用作对别人名字的敬称 如：台篆；次篆	None	None
+篆	zhuan4	用篆体字书写	None	None
+篆	zhuan4	雕刻	None	None
+篆	zhuan4	毂约 古代车轮毂上的纹饰 也作=䡅	None	䡅
+篆	zhuan4	古代乐器钟钲上部位名	None	None
+篆	zhuan4	泛指弯曲的纹路	None	None
+篆	zhuan4	盘曲状的香	None	None
+篆	zhuan4	姓	None	None
+𥯵	None	同=蠡	None	蠡
+䈙	zhou4	竹枯死	None	None
+箹	yue1	古代的一种小管乐器	None	None
+箹	yao4	竹节	None	None
+箹	chuo4	车篷带	None	None
+𥱧	qin2	古乐器名 如筝，有七弦	None	None
+𥱧	qin2	小竹	None	None
+𥱨	qing4	@	None	None
+篝	gou1	熏笼	None	None
+篝	gou1	盛物的竹篓	None	None
+篝	gou1	臂篝 竹篾编成的农用袖套	None	None
+篝	gou1	通=構 在旷野架柴（烧火）	None	構
+篝	gou1	用笼罩住；用笼罩住的	None	None
+𥱄	None	同=𥳋	None	𥳋
+篚	fei3	车箱	None	None
+篚	fei3	盛物的圆形竹器	None	None
+篚	fei3	量词	None	None
+篤	du3	马行顿迟	None	None
+篤	du3	（病势）沉重	None	None
+篤	du3	坚实；牢固	None	None
+篤	du3	专一；忠诚	None	None
+篤	du3	真切；允当	None	None
+篤	du3	丰厚；深厚	None	None
+篤	du3	敦厚	None	None
+篤	du3	甚；深	None	None
+篤	du3	方言 安稳；确定 如：笃悠悠；笃定；笃笃定定	None	None
+篤	du3	方言 底	None	None
+篤	du3	方言 语气词 相当于“哩”	None	None
+篤	du3	象声词 如：笃笃的敲门声	None	None
+篤	du3	通=督(du1) 察视	None	督
+篤	du3	姓	None	None
+䈰	shao1	用竹丝做成的刷锅用具 即饭帚，也称炊帚	None	None
+䈰	shao1	同=𥳓 古代盛饭的竹器，即今之“筲箕”	None	𥳓
+䈰	shao1	盛筷子的器具 俗称“筷笼”或“筷篓”，南方又称“箸筒”	None	None
+篢	gong1	笠 又称篢笠	None	None
+篢	gan3	同=𥸡 竹名	None	𥸡
+篢	gan3	同=㔶 1.箱类 2.覆头	None	㔶
+篢	long3	方言 箱笼	None	None
+篢	long3	地名用字 广西壮族自治区荔浦县有花篢，广东省有织篢	None	None
 𥰟	None	录入中	None	None
 𥳉	None	录入中	None	None
 築	None	录入中	None	None
