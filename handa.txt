@@ -56270,19 +56270,36 @@
 篼	dou1	装饲料喂马的竹器	None	None
 篼	dou1	竹篾、藤条等编成的盛东西的器具 如：背篼	None	None
 篼	dou1	竹制的小轿 多用于行山路，通称篼子，也称篼笼	None	None
-簁	None	录入中	None	None
-篵	None	录入中	None	None
-𥲋	None	录入中	None	None
-𥲟	None	录入中	None	None
-𥲥	None	录入中	None	None
-𥱷	None	录入中	None	None
-䈻	None	录入中	None	None
-䈸	None	录入中	None	None
-𥲾	None	录入中	None	None
-䉀	None	录入中	None	None
-簏	None	录入中	None	None
-簅	None	录入中	None	None
-簇	None	录入中	None	None
+⿱𥫗悤	None	同=䈡	None	䈡
+簁	shai1	=筛子	None	筛
+簁	shai1	将物置于筛内摇动，使粗精分开或粗细分离	None	None
+簁	shai1	过滤	None	None
+篵	cong1	有病变而不能用的竹子	None	None
+𥲋	xian2	箭杆	None	None
+𥲟	diao4	竹名	None	None
+𥲥	None	=籢的讹字	None	籢
+𥱷	None	同=𥳹(𥸡)	None	𥳹
+䈻	pu2	沉在水底取鱼的竹笪	None	None
+䈸	hu2	箱，大箱	None	None
+䈸	hu2	箱䈸，盛米器	None	None
+𥲾	None	=𥰬的讹字	None	𥰬
+䉀	shu4	筐	None	None
+簏	lu4	竹篾编的盛物器，形制不一 多为圆筒形，较高，相当于今之竹箱、箩筐或竹篓	None	None
+簏	lu4	量词	None	None
+⿱𥫗𢉖	None	同=簏	None	簏
+簅	chan3	大籥 古代一种像笛的三孔短管乐器	None	None
+簇	cu4	丛生小竹	None	None
+簇	cu4	聚集	None	None
+簇	cu4	皱眉	None	None
+簇	cu4	丛，聚集在一起的人或物	None	None
+簇	cu4	量词 相当于“丛”	None	None
+簇	cu4	供蚕作茧的设备 多用草本植物的秆扎成，或名“蚕山”	None	None
+簇	cu4	副词 表示程度，相当于“很”、“全”、“崭”	None	None
+簇	chuo4	作饼具	None	None
+簇	chuo4	用同=鏃(zu2) 箭头	None	鏃
+簇	cou4	集聚	None	None
+簇	cou4	靠；贴近	None	None
+簇	cou4	拼凑	None	None
 𥲬	None	录入中	None	None
 𥲠	None	录入中	None	None
 簖	None	录入中	None	None
