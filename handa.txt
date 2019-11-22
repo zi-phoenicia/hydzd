@@ -56445,38 +56445,52 @@
 簰	None	同=𥴖	None	𥴖
 䉛	yu4	淘米的竹器 今称筲箕	None	None
 䉛	ao3	移蚕器具	None	None
-篽	None	录入中	None	None
-𥳇	None	录入中	None	None
-𥳗	None	录入中	None	None
-𥴓	None	录入中	None	None
-𥳕	None	录入中	None	None
-𥳹	None	录入中	None	None
-𥳸	None	录入中	None	None
-𥳴	None	录入中	None	None
-䉒	None	录入中	None	None
-𥴔	None	录入中	None	None
-䈧	None	录入中	None	None
-𥴤	None	录入中	None	None
-𥴕	None	录入中	None	None
-䉉	None	录入中	None	None
-𥳚	None	录入中	None	None
-𥳩	None	录入中	None	None
-𥳛	None	录入中	None	None
-𥴯	None	录入中	None	None
-𥳘	None	录入中	None	None
-𥳞	None	录入中	None	None
-𥳰	None	录入中	None	None
-𥳢	None	录入中	None	None
-𥴦	None	录入中	None	None
-䉕	None	录入中	None	None
-簩	None	录入中	None	None
-𥳒	None	录入中	None	None
-簜	None	录入中	None	None
-𥳷	None	录入中	None	None
-𥳥	None	录入中	None	None
-簶	None	录入中	None	None
-𥳝	None	录入中	None	None
-𥳍	None	录入中	None	None
+篽	yu4	禁苑 后作=籞	None	籞
+篽	yu4	囿养	None	None
+𥳇	fu4	竹实	None	None
+𥳗	xu1	捕鱼的竹笼 颈部装有竹篾倒须，鱼能入而不能出	None	None
+𥴓	None	同=箠	None	箠
+𥳕	shu1	竹名	None	None
+𥳹	dan3	竹名	None	None
+𥳸	None	同=𥳹	None	𥳹
+𥳴	jiao3	笋	None	None
+䉒	None	同=籓	None	籓
+𥴔	None	同=篃	None	篃
+䈧	wei3	笋皮	None	None
+𥴤	qian2	筋鸣	None	None
+⿱𥫗⿸厃⿱儿𢀛	None	同=簷	None	簷
+𥴕	you2	[𥴕𥭠]也作“=柚梧”、“=由梧” 竹名	None	柚
+䉉	gu1	古代用于写字的一种木牍 也作=觚	None	觚
+䉉	hu2	稜	None	None
+𥳚	ran2	竹名	None	None
+𥳩	None	同=䉧	None	䉧
+𥳛	None	同=𥷼	None	𥷼
+𥴯	hui4	一种高节竹	None	None
+𥳘	dong3	竹器	None	None
+𥳘	dong3	竹名	None	None
+𥳘	dong3	姓	None	None
+⿱𥫗阑	None	=籣的类推简化字	None	籣
+𥳞	lin4	实心竹	None	None
+𥳞	lin4	薄石	None	None
+𥳰	ding4	竹器	None	None
+𥳢	dian4	竹名	None	None
+𥴦	sui4	同=䉌	None	䉌
+𥴦	di2	同=篴(笛)	None	篴
+䉕	ceng2	[簦䉕]笠	None	None
+䉕	ceng2	竹名	None	None
+簩	lao2	竹名	None	None
+𥳒	jian3	竹名	None	None
+簜	dang4	大竹	None	None
+簜	dang4	笙箫之类的乐器	None	None
+簜	dang4	古代使者盛符节的竹函	None	None
+簜	tang1	水名 在今河南省汤阴县北 也作=湯	None	湯
+𥳷	jian3	竹名	None	None
+𥳥	ning3	[𥳥𥵝]籝，箱笼之类	None	None
+簶	lu4	[胡簶]也作“孤簶” 盛箭的器具	None	None
+𥳝	rui3	初生笋	None	None
+𥳝	rui3	竹叶再生	None	None
+𥳝	rui3	同=蕊	None	蕊
+𥳍	xun2	传说中的大竹	None	None
 𥳨	None	录入中	None	None
 簨	None	录入中	None	None
 𥴩	None	录入中	None	None
