@@ -55905,24 +55905,37 @@
 箭	jian4	量词 指兰花的一茎	None	None
 䈘	ci2	竹名	None	None
 𥰂	None	同=篍	None	篍
-䈧	None	录入中	None	None
-篊	None	录入中	None	None
-𥱀	None	录入中	None	None
-箲	None	录入中	None	None
-𥯠	None	录入中	None	None
-𥯛	None	录入中	None	None
-𥰅	None	录入中	None	None
-䈐	None	录入中	None	None
-𥯚	None	录入中	None	None
-箮	None	录入中	None	None
-𥯾	None	录入中	None	None
-𥯝	None	录入中	None	None
-𥯴	None	录入中	None	None
-篇	None	录入中	None	None
-䈔	None	录入中	None	None
-𥯱	None	录入中	None	None
-箼	None	录入中	None	None
-箳	None	录入中	None	None
+篊	hong2	引水	None	None
+篊	hong2	成捆的竹木	None	None
+篊	hong2	鱼梁，用竹篾编成的捕鱼器具	None	None
+𥱀	fu1	竹子的青皮	None	None
+箲	xian3	洗甑釜用的炊帚	None	None
+𥯠	None	同=𥯟	None	𥯟
+𥯛	luo4	[桮𥯛]盛杯的竹笼	None	None
+𥯛	luo4	篱笆	None	None
+𥰅	bing1	盛絮笼	None	None
+䈐	gui4	车弓，用竹或木作成的弓形骨架	None	None
+䈐	gui4	同=簂(槶) 筐	None	簂
+𥯚	ke4	杯	None	None
+𥯚	ke4	笼	None	None
+⿱𥫗𡧱	None	同=𥰶	None	𥰶
+箮	xuan1	竹花	None	None
+𥯾	xia2	拾	None	None
+𥯝	tu1	竹器	None	None
+𥯴	None	同=籔	None	籔
+⿱𥫗㧁	None	同=𥬔	None	𥬔
+篇	pian1	书；简册	None	None
+篇	pian1	首尾完整的诗文	None	None
+篇	pian1	成部著作中的一个组成部分	None	None
+篇	pian1	程	None	None
+篇	pian1	量词 用于文章	None	None
+篇	pian1	匾额	None	None
+篇	pian1	姓	None	None
+䈔	None	同=笳	None	笳
+𥯱	None	同=笥	None	笥
+箼	wu1	竹密	None	None
+箳	ping2	[箳篂]也作“箳星” 1.古代车上遮挡灰尘的竹席 2.借指安有箳篂的别驾车	None	None
+⿱𥫗𨹧	None	同=䉄	None	䉄
 𥯤	None	录入中	None	None
 篃	None	录入中	None	None
 䈝	None	录入中	None	None
