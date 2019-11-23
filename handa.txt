@@ -77345,35 +77345,73 @@
 钚	None	=鈈的简化字	None	鈈
 鈦	tai4	@	None	None
 鈦	tai4	化学元素 符号Ti，原子序数22 银白色金属，熔点高，强度高，低温韧性良好，有延展性 抗腐蚀性强，特别耐锈 钛合金是新型的结构材料，质硬而轻，主要用来制造飞机、轮船等和耐腐蚀化工设备及各种机械零件 也是良好的脱氧、除氮及除硫剂 医学上也可用钛来代替被损坏的骨骼 (新拉titanium)	None	None
-钛	None	录入中	None	None
-鈜	None	录入中	None	None
-䤞	None	录入中	None	None
-鉅	None	录入中	None	None
-釾	None	录入中	None	None
-䥺	None	录入中	None	None
-鈍	None	录入中	None	None
-钝	None	录入中	None	None
-鈛	None	录入中	None	None
-鈚	None	录入中	None	None
-𨥛	None	录入中	None	None
-𨱀	None	录入中	None	None
-䤠	None	录入中	None	None
-𨥑	None	录入中	None	None
-鈙	None	录入中	None	None
-鈔	None	录入中	None	None
-钞	None	录入中	None	None
-鈤	None	录入中	None	None
-鈡	None	录入中	None	None
-钟	None	录入中	None	None
-钡	None	录入中	None	None
-鈉	None	录入中	None	None
-钠	None	录入中	None	None
-钢	None	录入中	None	None
-𨥋	None	录入中	None	None
-鈝	None	录入中	None	None
-𨥊	None	录入中	None	None
-鈓	None	录入中	None	None
-𨥜	None	录入中	None	None
+钛	None	=鈦的简化字	None	鈦
+⿰钅区	None	=鏂的类推简化字	None	鏂
+⿰钅历	None	=䥶的类推简化字	None	䥶
+鈜	hong2	[鏗鈜]也作“鏘鈜”、“鏗=吰” 金属声	None	吰
+𮣳	None	=鈜的类推简化字	None	鈜
+䤞	you2	@	None	None
+䤞	yun3	=鈗的讹字	None	鈗
+鉅	ju4	坚硬的铁	None	None
+鉅	ju4	同=巨 大	None	巨
+鉅	ju4	钩	None	None
+鉅	ju4	通=虡 悬挂钟、磬的架子的立柱	None	虡
+鉅	ju4	通=距 距离	None	距
+鉅	ju4	通=詎 岂，怎么	None	詎
+鉅	ju4	姓	None	None
+釾	ye2	[鏌釾]见“鏌”	None	None
+釾	ya2	化学元素=鎄的旧译	None	鎄
+䥺	None	=釾的简化字	None	釾
+鈍	dun4	（刀剑）不锋利	None	None
+鈍	dun4	无棱角；无节操	None	None
+鈍	dun4	迟钝；迟滞	None	None
+鈍	dun4	指资质鲁钝 多用作谦辞	None	None
+鈍	dun4	田器	None	None
+钝	None	=鈍的简化字	None	鈍
+鈛	guo1	同=鍋	None	鍋
+鈛	guo1	戈	None	None
+鈚	pi1	铁	None	None
+鈚	pi1	犁刃	None	None
+鈚	pi1	鈚箭，镞较薄而阔、杆较长 又指箭镞	None	None
+鈚	pi1	斧属	None	None
+鈚	bi1	同=鎞 钗	None	鎞
+鈚	bi3	同=匕 古代的一种取食的器具 形状像汤勺	None	匕
+𬬫	None	=鈚的类推简化字	None	鈚
+𨥛	di1	[𨥛鉾]同“=鞮鍪” 兜鍪（头盔）之类	None	鞮
+𨱀	None	=𨥛的类推简化字	None	𨥛
+䤠	zhi3	化学元素=鍺的旧译	None	鍺
+⿰钅止	None	=䤠的类推简化字	None	䤠
+𨥑	kuang4	同=磺(礦) 矿石	None	磺
+鈙	qin2	持，以手按物	None	None
+鈔	chao1	叉取	None	None
+鈔	chao1	掠取；抢掠 后作=抄	None	抄
+鈔	chao1	誊写 也作=抄	None	抄
+鈔	chao1	纸币名	None	None
+鈔	chao1	古时官府征收钱物后所给的单据	None	None
+鈔	chao1	文学作品等经过选录而成的集子 如：《北堂書鈔》、《宋稗類鈔》、《章太炎文钞》等	None	None
+鈔	chao1	姓	None	None
+鈔	chao3	取	None	None
+鈔	chao3	通=眇(miao3) 微眇；深远	None	眇
+钞	None	=鈔的简化字	None	鈔
+鈤	ri4	化学元素=鍺的旧译	None	鍺
+鈤	ri4	化学元素=鐳的旧译	None	鐳
+⿰钅日	None	=鈤的类推简化字	None	鈤
+鈡	zhong1	@	None	None
+钟	None	=鐘、=鍾的简化字	None	鐘
+钡	None	=鋇的简化字	None	鋇
+鈉	na4	打铁；治铁	None	None
+鈉	na4	化学元素 符号Na，原子序数11 银白色软金属，燃烧时火焰呈黄色 化学性质极活泼，在空气中容易氧化 钠和它的化合物，如食盐、碱、硭硝等在工业上用途很大 是人体肌肉和神经组织中的主要成分之一 (新拉natrium)	None	None
+鈉	rui4	同=枘 榫头	None	枘
+鈉	rui4	同=𨧨 尖锐	None	𨧨
+钠	None	=鈉的简化字	None	鈉
+钢	None	=鋼的简化字	None	鋼
+⿰钅见	None	=鋧的类推简化字	None	鋧
+𨥋	None	同=杽	None	杽
+鈝	None	同=𤙣	None	𤙣
+⿰釒毛	None	[搭⿰釒毛傘]伞名	None	None
+𨥊	None	同=釳	None	釳
+鈓	None	同=銋	None	銋
+𨥜	None	人名用字	None	None
 鈋	None	录入中	None	None
 𨱂	None	录入中	None	None
 𨥐	None	录入中	None	None
