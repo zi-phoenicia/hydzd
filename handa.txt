@@ -56645,50 +56645,58 @@
 籃	lan2	篮球架上供投球用的带网的铁圈 如：投篮；进了篮	None	None
 籃	lan2	指篮球运动 如：男篮；女篮	None	None
 籃	lan2	竹轿子 也称篮舆	None	None
-籋	None	录入中	None	None
-𥵱	None	录入中	None	None
-𥵢	None	录入中	None	None
-𥶆	None	录入中	None	None
-𥵶	None	录入中	None	None
-𥵲	None	录入中	None	None
-𥵜	None	录入中	None	None
-𥵝	None	录入中	None	None
-𥵭	None	录入中	None	None
-籇	None	录入中	None	None
-𥵬	None	录入中	None	None
-𥵣	None	录入中	None	None
-𥵪	None	录入中	None	None
-𥶑	None	录入中	None	None
-𥶒	None	录入中	None	None
-𥵥	None	录入中	None	None
-𥶕	None	录入中	None	None
-𥵩	None	录入中	None	None
-𥵧	None	录入中	None	None
-𥶴	None	录入中	None	None
-𥶻	None	录入中	None	None
-𥶝	None	录入中	None	None
-𥶐	None	录入中	None	None
-𥶼	None	录入中	None	None
-籊	None	录入中	None	None
-𥵳	None	录入中	None	None
-𥵤	None	录入中	None	None
-𥵮	None	录入中	None	None
-䉭	None	录入中	None	None
-𥶬	None	录入中	None	None
-𥶙	None	录入中	None	None
-籒	None	录入中	None	None
-𥶪	None	录入中	None	None
-𥶭	None	录入中	None	None
-䉩	None	录入中	None	None
-𥶸	None	录入中	None	None
-䉯	None	录入中	None	None
-䉦	None	录入中	None	None
-𥶌	None	录入中	None	None
-籑	None	录入中	None	None
-𥶊	None	录入中	None	None
-籔	None	录入中	None	None
-䉪	None	录入中	None	None
-𥶚	None	录入中	None	None
+籋	nie4	镊子	None	None
+籋	nie4	用镊子钳取	None	None
+籋	nie4	通=躡 踏	None	躡
+籋	mi2	同=𥵨	None	𥵨
+𥵱	None	同=𡙳	None	𡙳
+𥵢	None	同=䈇(罩)	None	䈇
+𥶆	lv2	竹名	None	None
+𥵶	tian3	同=腆 食物丰盛	None	腆
+𥵲	None	同=𥶖(𥷙)	None	𥶖
+𥵜	po4	竹名	None	None
+𥵜	po4	箨名	None	None
+𥵝	ling3	[𥳥𥵝]见“𥳥”	None	None
+𥵭	None	同=築	None	築
+籇	hao2	同=篙	None	篙
+𥵬	chou2	竹相合	None	None
+𥵣	duan1	竹名	None	None
+𥵪	ping2	蚕箔	None	None
+𥶑	qiang3	竹名	None	None
+𥶒	lin4	竹名	None	None
+𥵥	None	同=𥲈	None	𥲈
+𥶕	zhan1	至	None	None
+𥵩	None	同=箙	None	箙
+𥵧	qin3	小竹	None	None
+𥶴	duo4	[䈄𥶴]见“䈄”	None	None
+𥶻	sui2	竹笼	None	None
+𥶝	None	同=𥷃(槳)	None	𥷃
+𥶐	tui2	竹笔	None	None
+𥶼	None	同=䉌	None	䉌
+籊	ti4	[籊籊]竹竿细长貌	None	None
+𥵳	None	同=箑	None	箑
+𥵤	zhao4	同=罩 捕鱼的灯笼	None	罩
+𥵮	None	同=𥮘	None	𥮘
+䉭	lie4	铺床的竹垫	None	None
+𥶬	None	同=熭	None	熭
+𥶙	None	同=彗	None	彗
+籒	None	同=籀	None	籀
+𥶪	None	同=簎	None	簎
+𥶭	None	=簳的讹字	None	簳
+䉩	None	同=䉱	None	䉱
+𥶸	None	同=甎	None	甎
+䉯	xian4	竹枯	None	None
+䉦	qian1	[䇹䉦]竹名	None	None
+䉦	qian1	收稻具	None	None
+𥶌	lv4	船中供人坐卧的垫子	None	None
+籑	zhuan4	同=饌 饮食	None	饌
+籑	zhuan4	同=撰 纂集	None	撰
+𥶊	None	同=篹	None	篹
+籔	sou3	淘米的竹器	None	None
+籔	shu3	古量名 十六斗	None	None
+䉪	lei4	用砻去掉稻壳	None	None
+䉪	lei4	去掉稻壳的工具 通称“礱(砻)”	None	None
+𥶚	None	同=𥵶(腆)	None	𥵶
 𥶟	None	录入中	None	None
 𥶖	None	录入中	None	None
 𥶓	None	录入中	None	None
