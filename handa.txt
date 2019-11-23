@@ -78299,34 +78299,68 @@
 鋡	han2	受，容纳	None	None
 ⿰钅含	None	=鋡的类推简化字	None	鋡
 𨧓	None	同=銍	None	銍
-銽	None	录入中	None	None
-鋔	None	录入中	None	None
-鋒	None	录入中	None	None
-锋	None	录入中	None	None
-𨧔	None	录入中	None	None
-𨧕	None	录入中	None	None
-𨧖	None	录入中	None	None
-鋅	None	录入中	None	None
-锌	None	录入中	None	None
-𨧗	None	录入中	None	None
-鋶	None	录入中	None	None
-锍	None	录入中	None	None
-锎	None	录入中	None	None
-锏	None	录入中	None	None
-錓	None	录入中	None	None
-𨧘	None	录入中	None	None
-鋭	None	录入中	None	None
-锐	None	录入中	None	None
-銻	None	录入中	None	None
-锑	None	录入中	None	None
-䤬	None	录入中	None	None
-鋈	None	录入中	None	None
-鋎	None	录入中	None	None
-鋐	None	录入中	None	None
-𨦭	None	录入中	None	None
-鋃	None	录入中	None	None
-锒	None	录入中	None	None
-𨧒	None	录入中	None	None
+銽	gua1	同=銛 断	None	銛
+鋔	wan3	同=挽 牵引	None	挽
+鋒	feng1	刀、剑等兵器的尖端	None	None
+鋒	feng1	器物的尖端	None	None
+鋒	feng1	军队的前列	None	None
+鋒	feng1	锐势；势头	None	None
+鋒	feng1	尖锐；锐利	None	None
+鋒	feng1	古农具	None	None
+鋒	feng1	用锋翻地	None	None
+鋒	feng1	地球物理学名词 性质不同的两种气团的狭窄过渡区域 附近的气流常较活跃，形成一定特点的云雨天气分布，有时伴有大风 锋面与平面的交线称为“锋线” 有时将锋线也称作“锋”	None	None
+鋒	feng1	喻成群	None	None
+锋	None	=鋒的简化字	None	鋒
+𨧔	None	=鑿的讹字	None	鑿
+𨧕	bian4	白金	None	None
+𨧖	chuang2	金声	None	None
+鋅	zi3	金貌	None	None
+鋅	zi3	同=釨 刚	None	釨
+鋅	xin1	化学元素 符号Zn，原子序数30 蓝白色金属，在潮湿的空气中容易氧化，表面形成白色保护层 质地脆，溶于酸和强碱中，大多用来制合金或者镀铁板 旧称亚铅 (新拉zincum)	None	None
+锌	None	=鋅的简化字	None	鋅
+𨧗	wu4	@	None	None
+鋶	liu3	有色金属冶炼过程中生产出的各种金属硫化物的互熔体 如熔炼硫化铜矿石所得的鋶，其主要成分为硫化亚铜和硫化亚铁，亦称“冰铜”；熔炼硫化镍矿石成镍鋶等 在冶炼过程中原料中的贵金属大部分都进入鋶中，故鋶中亦含有各种贵重金属	None	None
+鋶	liu3	有机化合物中含有四价硫(=S=)的，化学上命名为鋶	None	S
+锍	None	=鋶的类推简化字	None	鋶
+锎	None	=鐦的简化字	None	鐦
+锏	None	=鐧的简化字	None	鐧
+錓	kong1	器	None	None
+𨧘	None	同=絆	None	絆
+鋭	rui4	芒	None	None
+鋭	rui4	锋利	None	None
+鋭	rui4	锐利的兵器	None	None
+鋭	rui4	精锐	None	None
+鋭	rui4	细小	None	None
+鋭	rui4	精明；机灵	None	None
+鋭	rui4	疾速；急剧	None	None
+鋭	rui4	尖，上小下大	None	None
+鋭	rui4	急切	None	None
+鋭	rui4	进	None	None
+鋭	rui4	锐气，勇往直前的气势 如：养精蓄锐	None	None
+鋭	rui4	姓	None	None
+鋭	dui4	古兵器，矛属	None	None
+鋭	yue4	[銚鋭]盂	None	None
+锐	None	=鋭的简化字	None	鋭
+銻	ti2	[鎕銻]见“鎕”	None	None
+銻	ti1	化学元素 符号Sb，原子序数51 有两种类型，一种为无定形锑，呈灰色 另一种为普通锑，银灰色金属，质脆而硬，易碎成粉末，有冷胀性，多用于化学工业、电气工业和医药上 锑合金多用来制造铅字、轴承等 (新拉stibium)	None	None
+锑	None	=銻的简化字	None	銻
+䤬	sha1	[䤬鑼]也作“=篩鑼”、“=沙鑼”、“=廝鑼” 铜器 1.锣的一种 2.盥盆 3.酒器	None	篩
+⿰钅沙	None	=䤬的类推简化字	None	䤬
+鋈	wu4	白铜、白银之类的白色金属	None	None
+鋈	wu4	镀	None	None
+鋈	wu4	戴胫钳	None	None
+鋎	han4	刃	None	None
+鋎	han4	刀	None	None
+鋐	hong2	器	None	None
+鋐	hong2	宏大	None	None
+𬭎	None	=鋐的类推简化字	None	鋐
+𨦭	lao2	[𨦭鑪]箭镞的一种	None	None
+鋃	lang2	[鋃鐺]1.铁链；刑具 2.笨重；潦倒 3.钟声 4.钟	None	None
+鋃	lang2	化学元素=鑭的旧译	None	鑭
+锒	None	=鋃的简化字	None	鋃
+𨧒	None	人名用字	None	None
+𫒢	han4	=𨧀的旧称	None	𨧀
+⿰钅罕	None	=𫒢的类推简化字	None	𫒢
 鋟	None	录入中	None	None
 锓	None	录入中	None	None
 鋦	None	录入中	None	None
