@@ -77919,13 +77919,19 @@
 鈭	zi1	[鈭錍]短斧	None	None
 銧	guang1	化学元素“镭”的旧译	None	None
 ⿰钅光	None	=銧的类推简化字	None	銧
-铛	None	录入中	None	None
-𨦚	None	录入中	None	None
-𨦢	None	录入中	None	None
-𨦆	None	录入中	None	None
-鉵	None	录入中	None	None
-銅	None	录入中	None	None
-铜	None	录入中	None	None
+铛	None	=鐺的简化字	None	鐺
+𨦚	None	同=鋘	None	鋘
+𨦢	None	同=鎪	None	鎪
+𨦆	yin2	马饰器	None	None
+鉵	tong2	㭒属 大犁	None	None
+鉵	tong2	锄大貌	None	None
+鉵	zhuo2	同=鐲	None	鐲
+⿰钅虫	None	=鉵的类推简化字	None	鉵
+銅	tong2	化学元素 符号Cu，原子序数29 淡紫红色，延展性、导电性和导热性都很强 铜的合金是电器工业、机械工业、国防工业的重要原料 (新拉cuprum)为五金之一 古代称为赤金	None	None
+銅	tong2	铜所制器物的省称 1.铜制乐器 2.铜印 3.钱 4.铜镜	None	None
+銅	tong2	喻坚固、坚强	None	None
+銅	tong2	姓	None	None
+铜	None	=銅的简化字	None	銅
 鋁	None	录入中	None	None
 铝	None	录入中	None	None
 銱	None	录入中	None	None
