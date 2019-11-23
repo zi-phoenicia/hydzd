@@ -78149,33 +78149,77 @@
 𬭊	None	=𨧀的类推简化字	None	𨧀
 銶	qiu2	凿属 一说独头斧	None	None
 銶	qiu2	析	None	None
-𨱇	None	录入中	None	None
-鋍	None	录入中	None	None
-鋪	None	录入中	None	None
-铺	None	录入中	None	None
-鋉	None	录入中	None	None
-𨱈	None	录入中	None	None
-鋙	None	录入中	None	None
-铻	None	录入中	None	None
-鋀	None	录入中	None	None
-鋠	None	录入中	None	None
-𫓵	None	录入中	None	None
-𨦰	None	录入中	None	None
-鋏	None	录入中	None	None
-铼	None	录入中	None	None
-鋄	None	录入中	None	None
-鋱	None	录入中	None	None
-铽	None	录入中	None	None
-链	None	录入中	None	None
-鋞	None	录入中	None	None
-䤮	None	录入中	None	None
-𨦸	None	录入中	None	None
-铿	None	录入中	None	None
-𨧛	None	录入中	None	None
-銷	None	录入中	None	None
-销	None	录入中	None	None
-锁	None	录入中	None	None
-銲	None	录入中	None	None
+𨱇	None	=銶的类推简化字	None	銶
+鋍	bo2	同=𩱚 釜中沸水溢出	None	𩱚
+鋍	bo2	古乐器名	None	None
+鋍	bo2	化学元素=鈹的旧译	None	鈹
+鋍	bo2	=lr钅孛	None	l
+鋍	bo2	=鋍的类推简化字	None	鋍
+鋪	pu1	铺首 以铜为兽面，衔环著于门上	None	None
+鋪	pu1	陈设；安排	None	None
+鋪	pu1	展开；摊平	None	None
+鋪	pu1	普遍	None	None
+鋪	pu1	铜器名 豆属 其上为一平的直壁浅盘 铺与豆的区别在于它没有细长的把柄，在盘下连铸一较宽的高圈足，圈足多镂空以为装饰	None	None
+鋪	pu1	止	None	None
+鋪	pu1	水溢出	None	None
+鋪	pu1	量词 用于佛像、炕、褥子或垫子等 如：一铺炕	None	None
+鋪	pu1	通=痡 病；痛苦	None	痡
+鋪	pu4	商店	None	None
+鋪	pu4	驿站 古代传递公文和投递信件的地方 现多用于地名 如：五里铺；十里铺；沙河铺	None	None
+鋪	pu4	床铺 如：上铺；下铺	None	None
+铺	None	=鋪的简化字	None	鋪
+鋉	su3	金	None	None
+鋉	su3	镯子	None	None
+𨱈	None	=鋉的类推简化字	None	鋉
+鋙	yu3	[鉏鋙]见“鉏(ju3)”	None	None
+鋙	yu3	乐器名	None	None
+鋙	yu2	锄	None	None
+鋙	wu2	[錕鋙]见“錕”	None	None
+铻	None	=鋙的类推简化字	None	鋙
+鋀	tou1	同=鍮 黄铁矿、黄铜矿或自然铜一类黄色而有光泽的矿石	None	鍮
+鋀	dou3	同=𨪐 酒器	None	𨪐
+鋀	tu4	化学元素=釷的旧译	None	釷
+鋠	shen4	圆铁	None	None
+𫓵	None	=鋠的类推简化字	None	鋠
+𨦰	liu2	同=鏐	None	鏐
+鋏	jia2	夹取东西的金属工具	None	None
+鋏	jia2	剑把	None	None
+鋏	jia2	剑	None	None
+鋏	jia2	剑的两颊	None	None
+鋏	jia2	两刃铍	None	None
+鋏	jia2	用同=夾	None	夾
+铼	None	=錸的简化字	None	錸
+鋄	None	同=錽	None	錽
+鋱	te4	化学元素 符号Tb，原子序数65 稀土元素之一 银灰色金属，有毒，可用以制作杀虫剂和治疗某些皮肤病 主要性质和用途与镧相似 (新拉terbium)	None	None
+铽	None	=鋱的简化字	None	鋱
+链	None	=鏈的简化字	None	鏈
+鋞	xing2	湿器	None	None
+鋞	xing2	同=鈃 祭器	None	鈃
+鋞	xing4	长钟	None	None
+鋞	jing1	锁干	None	None
+䤮	she4	铁䤮	None	None
+䤮	she4	铁	None	None
+䤮	she4	金饰	None	None
+𨦸	None	同=鎮	None	鎮
+铿	None	=鏗的简化字	None	鏗
+𨧛	None	同=𨨚	None	𨨚
+銷	xiao1	熔化金属	None	None
+銷	xiao1	溶化	None	None
+銷	xiao1	同=消 1.除去，完全不存在 2.排遣；打发 3.削弱，衰退 4.需要 5.抵得，值得 6.禁受；禁得起	None	消
+銷	xiao1	耗尽；毁灭	None	None
+銷	xiao1	消费；耗费 如：开销	None	None
+銷	xiao1	注销 如：报销	None	None
+銷	xiao1	古代的一种刀	None	None
+銷	xiao1	生铁	None	None
+銷	xiao1	掘土削木用具	None	None
+銷	xiao1	小	None	None
+銷	xiao1	销钉，销子	None	None
+銷	xiao1	出售（货物） 如：供销；销售	None	None
+銷	xiao1	姓	None	None
+销	None	=銷的简化字	None	銷
+锁	None	=鎖的简化字	None	鎖
+銲	None	同=釬	None	釬
+𬭍	None	=銲的类推简化字	None	銲
 鋥	None	录入中	None	None
 锃	None	录入中	None	None
 鋇	None	录入中	None	None
