@@ -77615,18 +77615,37 @@
 钺	None	=鉞的简化字	None	鉞
 鉲	ka3	化学元素=鎘的旧译	None	鎘
 鉲	ka3	1905年德国科学家维斯巴赫从氧化镱中分离出的一种新元素，符号Cp，曾一度获得承认，译作鉲 后确定它就是镥，这个名称也就被舍弃了	None	None
-鉳	None	录入中	None	None
-鉆	None	录入中	None	None
-钻	None	录入中	None	None
-𨥵	None	录入中	None	None
-鉴	None	录入中	None	None
-鉬	None	录入中	None	None
-钼	None	录入中	None	None
-鉭	None	录入中	None	None
-钽	None	录入中	None	None
-鉏	None	录入中	None	None
-鉀	None	录入中	None	None
-钾	None	录入中	None	None
+鉳	bei3	化学元素=錇的旧译	None	錇
+鉆	chan1	铁銸，即今镊子	None	None
+鉆	chan1	古代在车毂上加油，使车轮润滑、转动灵便的器具	None	None
+鉆	qian2	古刑具	None	None
+鉆	qian2	同=鉗 1.夹取 2.古刑具 束颈部=的铁圈	None	鉗
+鉆	qian2	用铁片加固器物的两头交合或转角处	None	None
+鉆	qian2	楔子 也作=櫼	None	櫼
+鉆	qian2	楔物使出	None	None
+鉆	tie1	钻著物	None	None
+钻	None	=鑽的简化字	None	鑽
+𨥵	None	同=鎮	None	鎮
+鉴	None	=鑒的简化字	None	鑒
+鉬	mu4	化学元素 符号Mo，原子序数42 银白色金属或灰黑色粉末 熔点高，质硬而坚韧 抗腐蚀性强 可加在合金钢中提高钢的弹性极限和增加抗腐蚀性能等 可用来制造电子管，加热元件和半导体器件及宇宙飞行器的蒙皮、喷管和火焰挡板等 为生命必须的微量营养元素 也是农业上重要的微量元素肥料 (新拉molybdenum)	None	None
+钼	None	=鉬的简化字	None	鉬
+鉭	tan3	化学元素 符号Ta，原子序数73 银白色金属，熔点高，性质与铌相似 可制化工器材和真空管及超短波发射器等电工器材 钽合金用作超音速飞机燃烧室的结构材料 钽对人体内部组织无刺激作用，医疗上可用来代替被损坏的骨骼等 (新拉tantalum)	None	None
+钽	None	=鉭的简化字	None	鉭
+鉏	chu2	除草、翻土的农具	None	None
+鉏	chu2	用锄锄地	None	None
+鉏	chu2	诛灭；除去	None	None
+鉏	zu1	通=苴(蒩) 供祭祀用的草席	None	苴
+鉏	zhu4	同=耡 古代税法名 助藉税，即十一之税	None	耡
+鉏	ju3	[鉏鋙]也作“鉏䥏” 1.不想配合 2.不安貌 3.机具 4.釜属	None	None
+鉏	cha2	[鉏牙]物旁出 器物如锯齿般参差不齐的边缘	None	None
+鉏	xu2	古国名	None	None
+鉏	xu2	姓	None	None
+𬬺	None	=鉏的类推简化字	None	鉏
+鉀	jia3	同=甲 铠甲	None	甲
+鉀	jia3	盛酒的铜扁壶，即铜椑	None	None
+鉀	jia3	化学元素 符号K，原子序数19 银白色，蜡状，有延展性 化学性质活泼，在空气中容易氧化，与水相遇起剧烈反应，产生氢气，并燃烧起火 对动植物的生长和发育起很大作用 钾的化合物在工业上用途很广 (新拉kalium)	None	None
+鉀	ge2	[鉀鑪]箭头名	None	None
+钾	None	=鉀的简化字	None	鉀
 鉮	None	录入中	None	None
 鈿	None	录入中	None	None
 钿	None	录入中	None	None
