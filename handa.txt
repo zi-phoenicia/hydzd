@@ -77735,13 +77735,34 @@
 鉤	gou1	古代的游戏 1.施钩 2.藏钩	None	None
 鉤	gou1	汉字的一种笔形 有横钩、竖钩、弯钩等	None	None
 鉤	gou1	书法术语 用中指指尖钩压笔管，使笔尖向下	None	None
-鉛	None	录入中	None	None
-铅	None	录入中	None	None
-𨥸	None	录入中	None	None
-銏	None	录入中	None	None
-鉚	None	录入中	None	None
-铆	None	录入中	None	None
-鉖	None	录入中	None	None
+鉤	gou1	用笔钩出字形或画的轮廓	None	None
+鉤	gou1	一种缝纫法	None	None
+鉤	gou1	博具	None	None
+鉤	gou1	检察 也作=句	None	句
+鉤	gou1	量词	None	None
+鉤	gou1	水名	None	None
+鉤	gou1	象声词	None	None
+鉤	gou1	姓	None	None
+鉤	gou4	鉤梯，攻城具之一	None	None
+鉤	qu2	[鉤町]古国名	None	None
+⿰钅句	None	=鉤的类推简化字	None	鉤
+鉛	qian1	化学元素 符号Pb，原子序数82 青白色，质软而重，有延展性，熔点低，易氧化 可作耐硫酸腐蚀、防X射线、蓄电池等的材料 其蒸气和化合物有毒 其合金可制铅字、轴承和电线包皮等 (新拉plumbum)古代称为青金	None	None
+鉛	qian1	古时也指锡类	None	None
+鉛	qian1	喻资质鲁钝	None	None
+鉛	qian1	铅粉 1.用以搽脸的化妆品 系铅白与香料等汇制而成 2.古时用以点校书文或绘画的颜料	None	None
+鉛	qian1	用黑铅（石墨）或加入带颜料的黏土做的笔心 如：铅笔	None	None
+鉛	yan2	通=沿 顺着	None	沿
+鉛	yan2	姓	None	None
+铅	None	=鉛的简化字	None	鉛
+𨥸	nao2	𨥸子	None	None
+銏	shan3	铁器	None	None
+銏	shan3	精金	None	None
+銏	shuo4	同=矟(槊) 长矛	None	矟
+鉚	liu3	美金	None	None
+鉚	mao3	卯眼，器物接榫的地方凹入的部分	None	None
+鉚	mao3	铆接 用铆钉连接金属构件的一种方法 把要连接的器件打眼，用铆钉（一头有帽的金属圆杆）穿在一起，在没有帽的一端捶打出一个帽，使器件固定在一起	None	None
+铆	None	=鉚的简化字	None	鉚
+鉖	tong2	钓具	None	None
 鉋	None	录入中	None	None
 𨥹	None	录入中	None	None
 鉒	None	录入中	None	None
