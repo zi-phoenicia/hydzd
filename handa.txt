@@ -78240,21 +78240,30 @@
 鋤	chu2	除去；诛灭	None	None
 鋤	ju3	[鋤鋙]同“=鉏鋙” 相距貌	None	鉏
 锄	None	=鋤的简化字	None	鋤
-鋜	None	录入中	None	None
-鋗	None	录入中	None	None
-𫓶	None	录入中	None	None
-鋛	None	录入中	None	None
-锅	None	录入中	None	None
-䤱	None	录入中	None	None
-䤫	None	录入中	None	None
-𨦳	None	录入中	None	None
-鋯	None	录入中	None	None
-锆	None	录入中	None	None
-鋨	None	录入中	None	None
-锇	None	录入中	None	None
-鋓	None	录入中	None	None
-鋫	None	录入中	None	None
-鋵	None	录入中	None	None
+鋜	zhuo2	锁足	None	None
+鋜	zhuo2	足部拘锁具	None	None
+鋜	zhuo2	镯子 套在脚腕上的环形装饰品	None	None
+鋜	chuo4	同=鏃 锄	None	鏃
+⿰钅足	None	=鋜的类推简化字	None	鋜
+鋗	xuan1	小盆	None	None
+鋗	xuan1	一种盆形有环的温器	None	None
+鋗	xuan1	象声词 鸣玉声	None	None
+鋗	juan1	[鋗人]同“=涓人” 古侍从之臣	None	涓
+鋗	juan4	同=梋 车环	None	梋
+𫓶	None	=鋗的类推简化字	None	鋗
+鋛	None	同=鑛	None	鑛
+锅	None	=鍋的简化字	None	鍋
+䤱	None	同=誓	None	誓
+䤫	None	同=鑱	None	鑱
+𨦳	nan3	[𨦳鐵]打银具	None	None
+鋯	gao4	化学元素 符号Zr，原子序数40 银灰色金属 纯锆具延展性 耐腐蚀性强，抗酸、碱性能优于钛和不锈钢 用作原子能反应堆铀棒的外套和真空仪器的除气剂 锆基合金是重要的抗腐蚀性结构材料 (新拉zirconium)	None	None
+锆	None	=鋯的简化字	None	鋯
+鋨	tie3	同=鐵	None	鐵
+鋨	e2	化学元素 符号Os，原子序数76 存在于锇铱矿中，呈蓝灰色，在金属中比重最大 质硬而脆 铱锇合金可以做钟表和仪器的轴承 (新拉osmium)	None	None
+锇	None	=鋨的简化字	None	鋨
+鋓	chan1	锐	None	None
+鋫	li2	同=鑗 黑金	None	鑗
+鋵	tu1	化学元素=銩的旧译	None	銩
 銹	None	录入中	None	None
 锈	None	录入中	None	None
 鋂	None	录入中	None	None
