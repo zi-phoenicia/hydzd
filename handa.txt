@@ -77763,14 +77763,28 @@
 鉚	mao3	铆接 用铆钉连接金属构件的一种方法 把要连接的器件打眼，用铆钉（一头有帽的金属圆杆）穿在一起，在没有帽的一端捶打出一个帽，使器件固定在一起	None	None
 铆	None	=鉚的简化字	None	鉚
 鉖	tong2	钓具	None	None
-鉋	None	录入中	None	None
-𨥹	None	录入中	None	None
-鉒	None	录入中	None	None
-鈰	None	录入中	None	None
-铈	None	录入中	None	None
-鉝	None	录入中	None	None
-鉉	None	录入中	None	None
-铉	None	录入中	None	None
+鉋	bao4	木工刨平木材用的工具 后作=刨	None	刨
+鉋	bao4	用刨子刮平木料等 后作=刨	None	刨
+鉋	pao2	挖掘 后作=刨	None	刨
+鉋	pao2	鉋刷	None	None
+鉋	pao2	搔马具	None	None
+鉋	bao2	同=䥤 杵颈	None	䥤
+𨥹	None	同=鉋	None	鉋
+鉒	zhu4	古代送死者的器物	None	None
+鉒	zhu4	祭器	None	None
+鉒	zhu4	矿藏	None	None
+鉒	zhu4	通=注 赌注	None	注
+⿰钅主	None	=鉒的类推简化字	None	鉒
+鈰	shi4	剑名	None	None
+鈰	shi4	化学元素 稀土元素之一 符号Ce，原子序数58 灰色结晶，很亮，质地软，有延展性，化学性质活泼，是优良的还原剂，可用来制合金（如制造火石的镧铈合金） (新拉cerium)	None	None
+铈	None	=鈰的简化字	None	鈰
+鉝	li4	古扶南国的一种食器	None	None
+鉝	li4	意大利货币单位“里拉”的旧译名	None	None
+鉉	xuan4	举鼎具 横贯鼎两耳以举鼎的木棍 或为钩状，金属制，以提鼎两耳	None	None
+鉉	xuan4	喻三公等重臣	None	None
+鉉	xuan4	通=弦(xuan2) 1.弓弦 2.乐器上发声的线	None	弦
+鉉	xuan4	姓	None	None
+铉	None	=鉉的简化字	None	鉉
 鉡	None	录入中	None	None
 𨥪	None	录入中	None	None
 鉈	None	录入中	None	None
