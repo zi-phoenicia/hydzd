@@ -78220,16 +78220,26 @@
 锁	None	=鎖的简化字	None	鎖
 銲	None	同=釬	None	釬
 𬭍	None	=銲的类推简化字	None	銲
-鋥	None	录入中	None	None
-锃	None	录入中	None	None
-鋇	None	录入中	None	None
-鋘	None	录入中	None	None
-鋰	None	录入中	None	None
-锂	None	录入中	None	None
-鋧	None	录入中	None	None
-𨧏	None	录入中	None	None
-鋤	None	录入中	None	None
-锄	None	录入中	None	None
+鋥	zeng4	器物经磨擦后闪光发亮 如：锃光；锃亮	None	None
+鋥	zeng4	磨	None	None
+锃	None	=鋥的简化字	None	鋥
+鋇	bei4	铤，未经冶炼的铜铁矿石	None	None
+鋇	bei4	锋	None	None
+鋇	bei4	化学元素 符号Ba，原子序数56 银白色金属，质地柔软，有延展性 容易氧化，燃烧时发黄绿色的光 是精炼铜时的优良去氧剂 (新拉baryum)	None	None
+鋘	hua2	同=鏵 耕田翻土的农具	None	鏵
+鋘	wu1	同=杇 泥镘，泥工涂墙壁的工具	None	杇
+𬭌	None	=鋘的类推简化字	None	鋘
+鋰	li3	丽金	None	None
+鋰	li3	化学元素 符号Li，原子序数3 1817年发现 银白色金属，在所有金属中体积质量最小，质量热容最大，质柔软 化学活性强，很容易和氧、氮、硫等化合，故在冶金工业中用作脱氧剂或脱气剂 质量数为6的锂同位素在原子核反应堆中用中子照射后，可得到氚，而氚可用来实现热核反应 热核反应也可在锂核与氘核之间进行，故可用于原子能工业中作热核反应原料 锂也可与铝、镁、铍、铅等制成特种合金 (新拉lithium)	None	None
+锂	None	=鋰的简化字	None	鋰
+鋧	xian4	[銑鋧]小凿	None	None
+鋧	xian4	古兵器，小矛	None	None
+𨧏	None	同=銀	None	銀
+鋤	chu2	锄头 大锄又名“钁頭”、“鎬”、“鐝”等	None	None
+鋤	chu2	用锄头除草、松土	None	None
+鋤	chu2	除去；诛灭	None	None
+鋤	ju3	[鋤鋙]同“=鉏鋙” 相距貌	None	鉏
+锄	None	=鋤的简化字	None	鋤
 鋜	None	录入中	None	None
 鋗	None	录入中	None	None
 𫓶	None	录入中	None	None
