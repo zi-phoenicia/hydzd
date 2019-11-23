@@ -77821,16 +77821,29 @@
 鉊	zhao1	镰刀 一种轻便农具，多用于收割庄稼	None	None
 鉊	zhao1	用镰刀割	None	None
 𬬿	None	=鉊的类推简化字	None	鉊
-鈹	None	录入中	None	None
-铍	None	录入中	None	None
-䥽	None	录入中	None	None
-铎	None	录入中	None	None
-鈶	None	录入中	None	None
-𨥨	None	录入中	None	None
-鉧	None	录入中	None	None
-銇	None	录入中	None	None
-銭	None	录入中	None	None
-鉽	None	录入中	None	None
+鈹	pi1	中医用的长针，其下端如宝剑形，两面有刃，多用于外科，以刺破痈疽，排出脓血	None	None
+鈹	pi1	古兵器 剑属，形如刀而两边有刃	None	None
+鈹	pi1	大刀	None	None
+鈹	pi1	大矛	None	None
+鈹	pi1	镵，刨土具	None	None
+鈹	pi1	锄	None	None
+鈹	pi1	通=披 纷乱	None	披
+鈹	pi2	化学元素 符号Be，原子序数4 浅灰色，是最轻的金属之一 最易透X射线，可用来制造X射线管 铍铝合金坚硬而轻，应用于飞机、火箭制造业中 铍和青铜的合金弹性很强，用来制弹簧 也用在原子能工业中 (新拉beryllium)	None	None
+铍	None	=鈹的简化字	None	鈹
+䥽	None	=鏺的简化字	None	鏺
+铎	None	=鐸的简化字	None	鐸
+鈶	si4	同=枱 耒端	None	枱
+鈶	si4	矛属	None	None
+鈶	ci2	同=柌 柄，镰柄	None	柌
+鈶	tai2	化学元素=鉈的旧译	None	鉈
+𬭀	None	=鈶的类推简化字	None	鈶
+𨥨	mao2	同=矛 一种直刺兵器	None	矛
+鉧	mu3	[鈷鉧]见“鈷”	None	None
+𬭁	None	=鉧的类推简化字	None	鉧
+銇	lei4	銇钻	None	None
+銇	lei4	同=錑 平木器	None	錑
+銭	None	同=錢	None	錢
+鉽	shi4	录入中	None	None
 銢	None	录入中	None	None
 𨦕	None	录入中	None	None
 鉶	None	录入中	None	None
