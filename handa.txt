@@ -77646,16 +77646,26 @@
 鉀	jia3	化学元素 符号K，原子序数19 银白色，蜡状，有延展性 化学性质活泼，在空气中容易氧化，与水相遇起剧烈反应，产生氢气，并燃烧起火 对动植物的生长和发育起很大作用 钾的化合物在工业上用途很广 (新拉kalium)	None	None
 鉀	ge2	[鉀鑪]箭头名	None	None
 钾	None	=鉀的简化字	None	鉀
-鉮	None	录入中	None	None
-鈿	None	录入中	None	None
-钿	None	录入中	None	None
-鈾	None	录入中	None	None
-铀	None	录入中	None	None
-鉙	None	录入中	None	None
-鉠	None	录入中	None	None
-𫓭	None	录入中	None	None
-鉂	None	录入中	None	None
-鈻	None	录入中	None	None
+鉮	huan2	@	None	None
+鉮	shen2	化学名词 因含五价砷的有机衍生物被视作有机金属衍生物，故在命名上作鉮 如具有[R_4AsX]结构的含砷有机化合物[(CH_3)_4AsOH]称为氢氧化四甲鉮	None	None
+鉮	shen1	化学元素=砷的旧译	None	砷
+𬬹	None	=鉮的类推简化字	None	鉮
+鈿	tian2	用金宝镶成的花形首饰	None	None
+鈿	tian2	贴在鬓颊上的花形薄金片，也称花钿	None	None
+鈿	tian2	方言 硬币，钱	None	None
+鈿	dian4	以金宝介壳镶嵌器物	None	None
+鈿	dian4	衬垫	None	None
+钿	None	=鈿的简化字	None	鈿
+鈾	zhou4	同=胄 头盔，古代战士作战时保护头部的帽子	None	胄
+鈾	zhou4	同=宙	None	宙
+鈾	you2	化学元素 符号U，原子序数92 银白色金属，具有放射性 化学性质很活泼，最稳定的同位素半衰期为45亿年，铀-235是重要的核燃料 (新拉uranium)	None	None
+铀	None	=鈾的简化字	None	鈾
+鉙	zhai3	金	None	None
+鉠	yang1	[鉠鉠]象声词 铃声	None	None
+𫓭	None	=鉠的类推简化字	None	鉠
+鉂	shi3	环	None	None
+鉂	shi3	刺	None	None
+鈻	si4	箭头状如箭杆的部分 后作=釲	None	釲
 䤢	None	录入中	None	None
 䤡	None	录入中	None	None
 鉎	None	录入中	None	None
