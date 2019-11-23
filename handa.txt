@@ -77672,27 +77672,47 @@
 ⿰钅生	None	=鉎的类推简化字	None	鉎
 鉄	zhi2	同=紩 1.索 2.缝，用针线连缀	None	紩
 鉄	tie3	同=鐵	None	鐵
-铁	None	录入中	None	None
-鉃	None	录入中	None	None
-鈼	None	录入中	None	None
-鉌	None	录入中	None	None
-鉓	None	录入中	None	None
-鉇	None	录入中	None	None
-鉜	None	录入中	None	None
-𨥶	None	录入中	None	None
-鉑	None	录入中	None	None
-铂	None	录入中	None	None
-鈲	None	录入中	None	None
-𨱃	None	录入中	None	None
-鉩	None	录入中	None	None
-䤣	None	录入中	None	None
-鉁	None	录入中	None	None
-鈴	None	录入中	None	None
-铃	None	录入中	None	None
-𨥷	None	录入中	None	None
-𨥩	None	录入中	None	None
-铄	None	录入中	None	None
-鉨	None	录入中	None	None
+铁	None	=鐵的简化字	None	鐵
+鉃	shi3	箭头	None	None
+鉃	zu2	同=鏃	None	鏃
+鈼	zuo2	釜	None	None
+鈼	zuo2	甑	None	None
+鉌	he2	同=和 悬于轼、衡上的车铃	None	和
+⿰钅禾	None	=鉌的类推简化字	None	鉌
+鉓	chi4	饰	None	None
+鉇	shi1	同=鉈(鍦) 矛	None	鉈
+鉇	yi2	同=匜 古代一种盛水或酒的器具	None	匜
+鉜	fu2	[鉜鏂]1.镜匣上的装饰 2.大钉	None	None
+⿰钅付	None	=鉜的类推简化字	None	鉜
+𨥶	dai4	1841年有人认为镧土中含有一种新元素Didymium，命名为𨥶 后知其中成分复杂，这项发现未得到公认	None	None
+鉑	bo2	金属薄片	None	None
+鉑	bo2	化学元素 符号Pt，原子序数78 银白色，有光泽，富延展性，导热导电性能好，化学性质稳定 俗称白金 可以做坩埚、电极等，也用作催化剂 铂和铱的合金是制造自来水笔尖的材料 (新拉platinum)	None	None
+铂	None	=鉑的简化字	None	鉑
+鈲	gu1	铁鈲	None	None
+鈲	gu1	系纤具	None	None
+鈲	gu1	铁	None	None
+鈲	pi4	同=䤨	None	䤨
+鈲	zhao1	炼铜的初次生成物	None	None
+𨱃	None	=鈲的类推简化字	None	鈲
+鉩	xi3	印章 或作=璽	None	璽
+鉩	nie4	同=鑈 坚正	None	鑈
+鉩	nie4	同=籋 镊子	None	籋
+䤣	None	=鋝的讹字	None	鋝
+鉁	zhen1	同=珍	None	珍
+鉁	zhen4	同=鎮	None	鎮
+鈴	ling2	金属制响器 常见的有钟形和裂口球形两类，振动时与体内的金属舌或丸相撞击发音 无舌丸者则用单签敲击或两铃相碰发音 亦有其他形制者 如：碰铃；串铃；电铃	None	None
+鈴	ling2	铃状物 如：棉铃；杠铃	None	None
+鈴	ling2	喻小声	None	None
+鈴	ling2	铃下，旧指侍卫、门卒或仆役	None	None
+铃	None	=鈴的简化字	None	鈴
+𨥷	None	@	None	None
+𨥩	None	同=鈐	None	鈐
+铄	None	=鑠的简化字	None	鑠
+鉨	ni3	络丝	None	None
+鉨	ni3	同=鈮(檷) 络丝工具 俗名络子	None	鈮
+鉨	nie4	同=鑷	None	鑷
+鉨	xi3	同=鉩(璽) 印章	None	鉩
+鿭	None	=鑈的类推简化字	None	鑈
 鉤	None	录入中	None	None
 鉛	None	录入中	None	None
 铅	None	录入中	None	None
