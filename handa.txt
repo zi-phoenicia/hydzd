@@ -56746,25 +56746,40 @@
 𥷆	hu2	籰 络丝的器具	None	None
 𥶺	die2	簸	None	None
 𥷀	yan1	竹名	None	None
-𥷂	None	录入中	None	None
-𥷈	None	录入中	None	None
-籟	None	录入中	None	None
-𥷅	None	录入中	None	None
-𥽧	None	录入中	None	None
-籗	None	录入中	None	None
-籧	None	录入中	None	None
-籚	None	录入中	None	None
-䉮	None	录入中	None	None
-𥶿	None	录入中	None	None
-𥶛	None	录入中	None	None
-𥷇	None	录入中	None	None
-𥶵	None	录入中	None	None
-𥷉	None	录入中	None	None
-𥶽	None	录入中	None	None
-籛	None	录入中	None	None
-籙	None	录入中	None	None
-𥷄	None	录入中	None	None
-籘	None	录入中	None	None
+𥷂	None	同=筮	None	筮
+𥷈	zhong1	簳 箭竿	None	None
+籟	lai4	古代的管乐器 1.三孔乐器 2.箫	None	None
+籟	lai4	从孔穴中发出的声音 也指一般的声响	None	None
+𥷅	li4	竹火约刀	None	None
+𥽧	qu1	同=𥶶 酒曲	None	𥶶
+⿱𥫗𧱫	None	同=𧲗	None	𧲗
+籗	None	同=籱	None	籱
+籧	qu2	[籧篨]1.用竹篾、芦苇编的粗席 2.病名 不能俯者 3.谄佞	None	None
+籧	ju3	同=筥	None	筥
+籚	lu2	古代矛戟的柄	None	None
+籚	lu2	饭器，其形如筐	None	None
+籚	lu2	竹名	None	None
+籚	lu2	竹名 籚𥯨(西)竹	None	None
+籚	lu2	同=櫨 枓拱	None	櫨
+䉮	lin4	植	None	None
+䉮	lin4	损	None	None
+𥶿	yan2	竹病	None	None
+𥶛	ti2	竹名	None	None
+𥶛	ti2	竹器	None	None
+𥷇	qi4	气	None	None
+𥶵	hui3	同=毇 舂米（谷）使其精	None	毇
+𥷉	None	同=篽	None	篽
+𥶽	wei4	细竹名	None	None
+籛	jian3	竹名	None	None
+籛	jian3	姓	None	None
+籛	jian1	马具	None	None
+籛	jian1	姓	None	None
+籙	lu4	古代帝王自称其受命于天的神秘文书	None	None
+籙	lu4	簿籍	None	None
+籙	lu4	道教的秘文	None	None
+籙	lu4	竹箱	None	None
+𥷄	ni3	箱	None	None
+籘	None	同=籐	None	籐
 𥷁	None	录入中	None	None
 籠	None	录入中	None	None
 籝	None	录入中	None	None
