@@ -77232,31 +77232,71 @@
 釬	han4	戈矛柄下端圆锥形的金属帽 也叫=鐏	None	鐏
 釬	han4	通=悍 急	None	悍
 釬	gan1	器	None	None
-釪	None	录入中	None	None
-釫	None	录入中	None	None
-釷	None	录入中	None	None
-钍	None	录入中	None	None
-釭	None	录入中	None	None
-釮	None	录入中	None	None
-𨥇	None	录入中	None	None
-釱	None	录入中	None	None
-𨥃	None	录入中	None	None
-釴	None	录入中	None	None
-釥	None	录入中	None	None
-釦	None	录入中	None	None
-釺	None	录入中	None	None
-钎	None	录入中	None	None
-釳	None	录入中	None	None
-𨰿	None	录入中	None	None
-䤜	None	录入中	None	None
-釧	None	录入中	None	None
-钏	None	录入中	None	None
-釤	None	录入中	None	None
-钐	None	录入中	None	None
-釣	None	录入中	None	None
-钓	None	录入中	None	None
-釸	None	录入中	None	None
-釩	None	录入中	None	None
+𬬧	None	=釬的类推简化字	None	釬
+釪	hua2	同=㭉(鏵) 耕地翻土的农具	None	㭉
+釪	yu2	[錞釪]也作“錞=于” 古乐器 形如钟，用以和鼓	None	于
+釪	yu2	同=盂 饭器	None	盂
+⿰钅于	None	=釪的类推简化字	None	釪
+釫	hua2	同=㭉(鏵) 耕地翻土的农具	None	㭉
+釫	wu1	同=杇 泥镘 俗称瓦刀，泥工涂墙壁的工具	None	杇
+𬬨	None	=釫的类推简化字	None	釫
+釷	tu3	放射性化学元素 符号Th，原子序数90 银白色金属，在空气中渐变为灰色，质柔软，机械加工性能良好 化学性质较稳定 由中子轰击，可得铀-233，是潜在的核燃料 也可做耐火材料、电极等 在医学上的作用与镭相同 (新拉thorium)	None	None
+钍	None	=釷的简化字	None	釷
+釭	gnag1	车毂口穿轴用的金属圈	None	None
+釭	gnag1	古代宫室壁带上的环状金属饰物	None	None
+釭	gnag1	箭头	None	None
+釭	gnag1	（油）灯	None	None
+𮣲	None	=釭的类推简化字	None	釭
+釮	None	同=𨥳(𨥦)	None	𨥳
+𨥇	zhou3	@	None	None
+𨥇	zhu4	同=鑄 铸造	None	鑄
+釱	di4	古刑具，錔脚钳 后世用镣	None	None
+釱	di4	通=軑(dai4) 车辖	None	軑
+釱	di4	化学元素=釔的旧译	None	釔
+⿰钅大	None	=釱的类推简化字	None	釱
+𨥃	None	同=鋬	None	鋬
+釴	yi4	附耳在唇外的方鼎	None	None
+釴	yi4	姓	None	None
+𬬩	None	=釴的类推简化字	None	釴
+釥	qiao3	金之美者	None	None
+釥	qiao3	漂亮；俊俏	None	None
+釥	qiao3	微	None	None
+釥	qiao3	净	None	None
+釥	jiao3	利	None	None
+⿰钅小	None	=釥的类推简化字	None	釥
+釦	kou4	用金玉等缘饰器物	None	None
+釦	kou4	纽=扣	None	扣
+釦	kou4	通=叩 敲击	None	叩
+𬬪	None	=釦的类推简化字	None	釦
+釺	qian1	钎子，打凿孔眼的工具 常用于采掘工程	None	None
+钎	None	=釺的简化字	None	釺
+釳	xi4	马头上的金属饰物，用以割除网罗	None	None
+釳	xi4	器具名 结着辕两边，防马相突	None	None
+𨰿	None	=釳的类推简化字	None	釳
+䤜	None	同=鈍	None	鈍
+釧	chuan4	腕环 俗称为镯	None	None
+釧	chuan4	姓	None	None
+釧	chuan1	车钏	None	None
+钏	None	=釧的简化字	None	釧
+釤	shan4	长柄大镰，又叫钐刀，钐镰	None	None
+釤	shan4	割；砍	None	None
+釤	shan1	放射性化学元素 符号Sm，原子序数62 银白色金属，质硬，半衰期很长，能放出甲种射线而编成钕 可制永久磁性材料、激光材料、微波与红外线光学器材 在原子能工业方面也有重要用途 (新拉samarium)	None	None
+釤	shan1	姓	None	None
+釤	xian2	刀名	None	None
+釤	xian2	用同=銛 锋利；敏锐	None	銛
+钐	None	=釤的简化字	None	釤
+釣	diao4	用钓具获取（鱼虾等水生动物）	None	None
+釣	diao4	钓钩	None	None
+釣	diao4	用手段谋取	None	None
+釣	diao4	引诱	None	None
+釣	diao4	用同=吊 悬挂	None	吊
+釣	diao4	姓	None	None
+钓	None	=釣的简化字	None	釣
+釸	xi1	化学元素“硅”的旧译	None	None
+釩	fan3	拂	None	None
+釩	fan3	器皿	None	None
+釩	fan4	同=䀀 杯	None	䀀
+釩	fan2	化学元素 符号V，原子序数23 银白色，质坚硬，在常温中不易氧化 钒与钢的合金叫钒钢，工业上用途很广 (新拉vanadium)	None	None
 钒	None	录入中	None	None
 鈒	None	录入中	None	None
 钑	None	录入中	None	None
