@@ -77916,8 +77916,9 @@
 銍	zhi4	割下的禾穗	None	None
 銍	zhi4	古县名 在今安徽省宿州市西南	None	None
 铚	None	=銍的类推简化字	None	銍
-鈭	None	录入中	None	None
-銧	None	录入中	None	None
+鈭	zi1	[鈭錍]短斧	None	None
+銧	guang1	化学元素“镭”的旧译	None	None
+⿰钅光	None	=銧的类推简化字	None	銧
 铛	None	录入中	None	None
 𨦚	None	录入中	None	None
 𨦢	None	录入中	None	None
