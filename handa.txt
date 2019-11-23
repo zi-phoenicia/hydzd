@@ -77477,33 +77477,65 @@
 欽	qin4	按 后作=撳	None	撳
 欽	yin2	通=吟	None	吟
 钦	None	=欽的简化字	None	欽
-鈞	None	录入中	None	None
-钧	None	录入中	None	None
-𨥒	None	录入中	None	None
-钨	None	录入中	None	None
-䤝	None	录入中	None	None
-鈎	None	录入中	None	None
-钩	None	录入中	None	None
-鈠	None	录入中	None	None
-𨱁	None	录入中	None	None
-鈫	None	录入中	None	None
-鈧	None	录入中	None	None
-钪	None	录入中	None	None
-鈁	None	录入中	None	None
-钫	None	录入中	None	None
-鈥	None	录入中	None	None
-钬	None	录入中	None	None
-鈄	None	录入中	None	None
-钭	None	录入中	None	None
-䤟	None	录入中	None	None
-鈂	None	录入中	None	None
-鈊	None	录入中	None	None
-𨥠	None	录入中	None	None
-鈌	None	录入中	None	None
-鈏	None	录入中	None	None
-鈟	None	录入中	None	None
-鈕	None	录入中	None	None
-钮	None	录入中	None	None
+鈞	jun1	量词 古代重量单位 三十斤为钧	None	None
+鈞	jun1	制作陶器所用的转轮	None	None
+鈞	jun1	喻国政	None	None
+鈞	jun1	调节乐音的标准	None	None
+鈞	jun1	调；乐调	None	None
+鈞	jun1	和谐之音	None	None
+鈞	jun1	衡量轻重	None	None
+鈞	jun1	（马色）纯一	None	None
+鈞	jun1	喻天工	None	None
+鈞	jun1	旧时对尊长或上级的敬辞 如：钧安；钧座；钧局等	None	None
+鈞	jun1	通=均 1.同 2.相等 3.都，全 4.平均	None	均
+鈞	jun1	汉水支流之一 上、中游即今河南淅河，下游即汇合淅河以后的丹江	None	None
+鈞	jun1	姓	None	None
+钧	None	=鈞的简化字	None	鈞
+𨥒	None	同=鈞	None	鈞
+钨	None	=鎢的简化字	None	鎢
+䤝	ying4	@	None	None
+鈎	None	同=鉤	None	鉤
+钩	None	=鈎的简化字	None	鈎
+鈠	yi4	器	None	None
+鈠	yi4	小矛	None	None
+𨱁	None	=鈠的类推简化字	None	鈠
+鈫	None	同=鈙	None	鈙
+鈧	kang4	@	None	None
+鈧	kang4	化学元素 符号Sc，原子序数21 银白色金属，质软 易溶于酸和受湿空气腐蚀 用以制造特种玻璃和特质耐高温合金等 主要性质和用途与镧相似 (新拉scandium)	None	None
+钪	None	=鈧的简化字	None	鈧
+鈁	fang1	古方姓壶 断面方形，制有盖和纽、环，为青铜或陶制品，始于先秦而盛于西汉 又称为鑍	None	None
+鈁	fang1	锅类炊具	None	None
+鈁	fang1	放射性化学元素 符号Fr，原子序数87 质量数为223的同位素半衰期为22分钟 (新拉francium)	None	None
+钫	None	=鈁的简化字	None	鈁
+鈥	huo3	化学元素 稀土元素之一 符号Ho，原子序数67 银白色金属，质软 主要性质和用途与镧相似 用于制作磁性材料 (新拉holmium)	None	None
+钬	None	=鈥的简化字	None	鈥
+鈄	dou3	酒器 也作=𨪐	None	𨪐
+鈄	dou3	姓	None	None
+钭	None	=鈄的简化字	None	鈄
+䤟	None	同=鈂	None	鈂
+鈂	chen2	锸属；铁签；铁杵	None	None
+鈂	qin2	同=𣜣 掘	None	𣜣
+鈂	zhen4	重	None	None
+鈊	xin1	金名	None	None
+鈊	qin4	利	None	None
+𨥠	None	人名用字	None	None
+鈌	jue2	刺	None	None
+鈌	jue2	马饰	None	None
+鈌	jue2	用同=缺(que1) 缺损	None	缺
+⿰钅夬	None	=鈌的类推简化字	None	鈌
+鈏	yin3	锡的别名，或专指锡中坚白的一种	None	None
+鈏	yin3	铁鈏	None	None
+⿰钅引	None	=鈏的类推简化字	None	鈏
+鈟	None	同=釣	None	釣
+鈕	niu3	印鼻，即印把子 形式多样 如：瓦钮；环钮；龟钮；虎钮；狮钮等 古代用以区分官印的等级 也作=紐	None	紐
+鈕	niu3	器物上面可以提携或系绳带的部分	None	None
+鈕	niu3	衣扣	None	None
+鈕	niu3	器物上用手操作、转动的部分 如：电钮；旋钮	None	None
+鈕	niu3	扣	None	None
+鈕	niu3	量词 计量印的数目	None	None
+鈕	niu3	姓	None	None
+鈕	chou3	同=杽 械 刑具名	None	杽
+钮	None	=鈕的简化字	None	鈕
 鈀	None	录入中	None	None
 钯	None	录入中	None	None
 鉯	None	录入中	None	None
