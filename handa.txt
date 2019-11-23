@@ -78361,31 +78361,47 @@
 𨧒	None	人名用字	None	None
 𫒢	han4	=𨧀的旧称	None	𨧀
 ⿰钅罕	None	=𫒢的类推简化字	None	𫒢
-鋟	None	录入中	None	None
-锓	None	录入中	None	None
-鋦	None	录入中	None	None
-锔	None	录入中	None	None
-𨧙	None	录入中	None	None
-錒	None	录入中	None	None
-锕	None	录入中	None	None
-銺	None	录入中	None	None
-𨧯	None	录入中	None	None
-𨧦	None	录入中	None	None
-銿	None	录入中	None	None
-𨧚	None	录入中	None	None
-鋑	None	录入中	None	None
-錱	None	录入中	None	None
-𨨖	None	录入中	None	None
-錆	None	录入中	None	None
-锖	None	录入中	None	None
-錶	None	录入中	None	None
-鋹	None	录入中	None	None
-鍺	None	录入中	None	None
-锗	None	录入中	None	None
-錴	None	录入中	None	None
-錂	None	录入中	None	None
-𨱋	None	录入中	None	None
-𨧶	None	录入中	None	None
+鋟	qin3	刻	None	None
+鋟	qin3	特指雕刻书板	None	None
+鋟	jian1	尖锐	None	None
+鋟	qin1	同=𥍯	None	𥍯
+鋟	jin4	刻伤	None	None
+锓	None	=鋟的简化字	None	鋟
+鋦	ju1	锔子，又叫抓钉，用以加固建筑构件，或接补有裂缝的器物	None	None
+鋦	ju1	用锔子补接器物	None	None
+鋦	ju2	化学元素 符号Cm，原子序数96 1944年由人工获得 银白色，化学性质和稀土金属钆很相似 锔的某些同位素放射性极强，经常处于炽热状态，人造卫星和宇宙飞船上用它作热电源 其最稳定的同位素半衰期为1.56×10^7年 (新拉curium)	None	None
+鋦	ju2	用同=焗 方言 一种烹饪方法，利用蒸气使密闭容器中的食物变熟	None	焗
+锔	None	=鋦的简化字	None	鋦
+𨧙	ju1	同=鋦	None	鋦
+錒	e1	[錒䥈]也作“=鈳䥈” 小釜	None	鈳
+錒	a1	化学元素 符号Ac，原子序数89 银白色，有放射性 1899年发现 由铀衰变而成，又能衰变成一系列的放射性元素 质量数为227的同位素半衰期为22年 (新拉actinium)	None	None
+锕	None	=錒的简化字	None	錒
+銺	zang4	铃声	None	None
+銺	zang4	铃	None	None
+𨧯	None	同=䤩	None	䤩
+𨧦	pi1	锄	None	None
+𨧦	pi1	锯锄	None	None
+銿	zhong1	同=鐘 古代一种打击乐器	None	鐘
+銿	yong1	同=鏞	None	鏞
+𨧚	None	同=鏃	None	鏃
+鋑	cuan1	刀	None	None
+鋑	jian1	锥	None	None
+鋑	juan1	同=鐫	None	鐫
+錱	None	同=珍	None	珍
+𨨖	None	同=琴	None	琴
+錆	qiang1	粗大	None	None
+錆	qiang1	精	None	None
+锖	None	=錆的类推简化字	None	錆
+錶	biao3	计时器 一般比钟小，可以随身携带	None	None
+鋹	chang3	利	None	None
+鍺	duo3	车锏 在毂轴之间，用以减少毂与轴的摩擦	None	None
+鍺	du3	同=堵 古代编钟或磬的单位，指十六枚悬于一虡	None	堵
+鍺	zhe3	化学元素 符号Ge，原子序数32 银白色金属，质硬而脆 有单向导电性能，是重要的半导体材料 化学性质稳定，在空气中不氧化，与水、盐酸、稀硫酸不起反应 用制各种晶体管、整流器及其他电子器件 纯锗可制红外窗和红外透镜等 超高纯锗单晶可制作辐射探测器 (新拉germanium)	None	None
+锗	None	=鍺的简化字	None	鍺
+錴	lu4	化学元素=銠的旧译	None	銠
+錂	ling2	金名	None	None
+𨱋	None	=錂的类推简化字	None	錂
+𨧶	None	同=鉣	None	鉣
 錏	None	录入中	None	None
 錤	None	录入中	None	None
 𫓹	None	录入中	None	None
