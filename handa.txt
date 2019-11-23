@@ -77785,25 +77785,42 @@
 鉉	xuan4	通=弦(xuan2) 1.弓弦 2.乐器上发声的线	None	弦
 鉉	xuan4	姓	None	None
 铉	None	=鉉的简化字	None	鉉
-鉡	None	录入中	None	None
-𨥪	None	录入中	None	None
-鉈	None	录入中	None	None
-铊	None	录入中	None	None
-𨦂	None	录入中	None	None
-鉍	None	录入中	None	None
-铋	None	录入中	None	None
-鉰	None	录入中	None	None
-𨥻	None	录入中	None	None
-鈮	None	录入中	None	None
-铌	None	录入中	None	None
-鈱	None	录入中	None	None
-鉘	None	录入中	None	None
-𨥺	None	录入中	None	None
-𨥥	None	录入中	None	None
-鈯	None	录入中	None	None
-𨱄	None	录入中	None	None
-鉫	None	录入中	None	None
-鉊	None	录入中	None	None
+鉡	ban4	锹	None	None
+鉡	pan2	同=柈(盤)	None	柈
+𨥪	dou3	姓	None	None
+鉈	shi1	矛 也作=鍦	None	鍦
+鉈	yi2	同=匜 古代一种盛酒或水的器具	None	匜
+鉈	tuo2	一种装置在转轴上的铁质圆形工具 用于切割，碾磨玉料 如：铡铊；勾铊；轧铊	None	None
+鉈	tuo2	秤锤	None	None
+鉈	ta1	化学元素 稀土元素之一 符号Tl，原子序数81 白色，在空气中变成暗色，质地很软 易溶于硝酸，不溶于碱 用来制造光电管、低温温度计，光学玻璃等 铊的化合物有毒，用于医药 (新拉thallium)	None	None
+铊	None	=鉈的简化字	None	鉈
+𨦂	lai3	连丝钓	None	None
+鉍	bi4	同=柲 古代兵器的柄 也泛指器物的柄	None	柲
+鉍	bi4	用同=䀣 恶视	None	䀣
+鉍	bi4	化学元素 亦名苍铅，符号Bi，原子序数83 银白色 纯铋质柔软，不纯性脆 铋合金熔点很低，可作保险丝和汽锅上的安全塞等 (新拉bismuthum)	None	None
+鉍	se4	同=瑟 乐器名	None	瑟
+铋	None	=鉍的简化字	None	鉍
+鉰	si1	化学元素“钪”的旧译	None	None
+𨥻	None	同=鈌	None	鈌
+鈮	ni3	同=檷	None	檷
+鈮	ni2	化学元素 符号Nb，原子序数41 有光泽的灰白色高熔点金属，化学性质稳定 主要用于耐高温的合金钢及电子管，也可用以增强钢的硬度和防腐能力 (新拉niobium)	None	None
+铌	None	=鈮的简化字	None	鈮
+鈱	min2	同=鍲 算税	None	鍲
+鈱	min2	铁叶	None	None
+鈱	min3	自刎	None	None
+鉘	fu2	饰	None	None
+鉘	fu2	1926年，两个意大利化学家以为他们发现了第61号元素，并给它命名，译为鉘 后被否定	None	None
+⿰钅弗	None	=鉘的类推简化字	None	鉘
+𨥺	hong2	人名用字	None	None
+𨥥	None	同=礦	None	礦
+鈯	tu2	钝	None	None
+鈯	tu2	小刃	None	None
+𨱄	None	=鈯的类推简化字	None	鈯
+鉫	jia1	器具	None	None
+鉫	jia1	化学元素=鎵的旧译	None	鎵
+鉊	zhao1	镰刀 一种轻便农具，多用于收割庄稼	None	None
+鉊	zhao1	用镰刀割	None	None
+𬬿	None	=鉊的类推简化字	None	鉊
 鈹	None	录入中	None	None
 铍	None	录入中	None	None
 䥽	None	录入中	None	None
