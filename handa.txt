@@ -56780,32 +56780,52 @@
 籙	lu4	竹箱	None	None
 𥷄	ni3	箱	None	None
 籘	None	同=籐	None	籐
-𥷁	None	录入中	None	None
-籠	None	录入中	None	None
-籝	None	录入中	None	None
-𥷖	None	录入中	None	None
-䉱	None	录入中	None	None
-𥷚	None	录入中	None	None
-𥷘	None	录入中	None	None
-𥷕	None	录入中	None	None
-𥷥	None	录入中	None	None
-𥷢	None	录入中	None	None
-𥷬	None	录入中	None	None
-𥷗	None	录入中	None	None
-𥷣	None	录入中	None	None
-𥷤	None	录入中	None	None
-𥷦	None	录入中	None	None
-籣	None	录入中	None	None
-𥷙	None	录入中	None	None
-𥷟	None	录入中	None	None
-𥷞	None	录入中	None	None
-𥷔	None	录入中	None	None
-𥷜	None	录入中	None	None
-籞	None	录入中	None	None
-籦	None	录入中	None	None
-籥	None	录入中	None	None
-籢	None	录入中	None	None
-籨	None	录入中	None	None
+𥷁	ban4	箛	None	None
+籠	long2	盛土器	None	None
+籠	long2	古代装箭用的竹器	None	None
+籠	long2	鸟笼；也泛指畜养牲畜及昆虫的编竹器 如：鸡笼；兔笼；蝈蝈笼	None	None
+籠	long2	竹制的盛物器或罩物器 如：灯笼；蒸笼	None	None
+籠	long2	一种有孔的薄片	None	None
+籠	long2	竹的一种 又名慈竹、罗浮竹	None	None
+籠	long3	统；包罗	None	None
+籠	long3	笼罩	None	None
+籠	long3	藏，把手放在袖筒里	None	None
+籠	long3	生火	None	None
+籠	long3	竹箱	None	None
+籝	None	同=籯	None	籯
+𥷖	lin4	同=𥳞 实心竹	None	𥳞
+䉱	ou1	摇篮一类的竹器	None	None
+𥷚	ju1	审理罪犯	None	None
+𥷘	zhuo2	竹名	None	None
+𥷘	zhuo2	以竹伤物	None	None
+𥷕	die2	簸	None	None
+𥷥	None	同=鞠	None	鞠
+𥷢	None	同=䉧	None	䉧
+𥷬	guan1	旧时织布机上的竹梭	None	None
+𥷗	li4	䉉，古代小孩学写字的竹木牍	None	None
+𥷗	li4	竹鞭	None	None
+𥷣	None	同=𥷂(筮)	None	𥷂
+𥷤	None	同=𥷚	None	𥷚
+𥷦	None	同=簟	None	簟
+籣	lan2	古代背在身上盛弩箭的器具	None	None
+𥷙	li4	竹名	None	None
+𥷟	None	同=𥶎	None	𥶎
+𥷞	yu4	竹器	None	None
+𥷔	yu2	竹名	None	None
+𥷜	feng1	小竹名	None	None
+籞	yu4	古代帝王的禁苑	None	None
+籞	yu4	苑囿的墙垣；篱笆	None	None
+籞	yu4	遮蔽	None	None
+籞	yu4	池水中编竹篱养鱼	None	None
+籦	zhong1	竹名 也称籦笼或笼籦 可作笛	None	None
+籥	yue4	古时儿童习字的竹片	None	None
+籥	yue4	简册	None	None
+籥	yue4	古管乐器 像笛，短管，三孔或六孔	None	None
+籥	yue4	古代鼓风箱上的部件	None	None
+籥	yue4	闭	None	None
+籥	yue4	同=鑰 锁钥	None	鑰
+籢	None	同=匳(奩)	None	匳
+籨	None	同=籢(奩)	None	籢
 籤	None	录入中	None	None
 𥷮	None	录入中	None	None
 䉳	None	录入中	None	None
