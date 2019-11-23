@@ -78098,34 +78098,57 @@
 铵	None	=銨的简化字	None	銨
 銉	yu4	针	None	None
 銉	si4	同=肆 古代编悬乐器的单位 悬钟十六枚为一肆	None	肆
-銀	None	录入中	None	None
-银	None	录入中	None	None
-𨦃	None	录入中	None	None
-銣	None	录入中	None	None
-铷	None	录入中	None	None
-鉾	None	录入中	None	None
-𫓴	None	录入中	None	None
-铸	None	录入中	None	None
-䤯	None	录入中	None	None
-𨧐	None	录入中	None	None
-𨦶	None	录入中	None	None
-銾	None	录入中	None	None
-䤲	None	录入中	None	None
-𨦬	None	录入中	None	None
-銴	None	录入中	None	None
-鋬	None	录入中	None	None
-䤰	None	录入中	None	None
-鋆	None	录入中	None	None
-鋕	None	录入中	None	None
-𨧎	None	录入中	None	None
-𨦲	None	录入中	None	None
-銸	None	录入中	None	None
-𨧨	None	录入中	None	None
-錵	None	录入中	None	None
-铹	None	录入中	None	None
-𨨭	None	录入中	None	None
-𨧀	None	录入中	None	None
-銶	None	录入中	None	None
+銀	yin2	化学元素 符号Ag，原子序数47 色白而有光泽，质软，富延展性，是热和电的良导体 化学性质稳定，在空气中不易氧化 用于金镀、制造合金器皿等，亦用以制造货币 为五金之一，古称白金，即白银 (新拉argentum)	None	None
+銀	yin2	钱，货币	None	None
+銀	yin2	银印	None	None
+銀	yin2	像银子的颜色 如：银燕	None	None
+銀	yin2	廉锷，锋棱 一说犹“=齗齗”，分辨之意	None	齗
+銀	yin2	通=垠 界限	None	垠
+銀	yin2	古州名 1.州治在今陕西省横山县 2.州治在今辽宁省铁岭市境	None	None
+銀	yin2	姓	None	None
+银	None	=銀的简化字	None	銀
+𬭏	None	=鐊的类推简化字	None	鐊
+𨦃	duo3	缺	None	None
+𨦃	duo4	同=刴 坎，斩碎	None	刴
+銣	ru2	@	None	None
+銣	ru2	化学元素 符号Rb，原子序数37 银白色软金属，熔点低（38.89℃），性质与铯相似 化学性质极活泼，遇水发生爆炸，在氧和空气中能自燃 产生的辐射频率具有长时间的稳定性，可制准确度极高的原子钟 具有敏锐的光电性能，可制光电管 也是很有发展前途的宇宙飞行器燃料 (新拉rubidium)	None	None
+铷	None	=銣的简化字	None	銣
+⿰釒䏍	None	同=鋗	None	鋗
+鉾	mou2	剑锋	None	None
+鉾	mao2	同=矛 一种直刺兵器	None	矛
+𫓴	None	=鉾的类推简化字	None	鉾
+铸	None	=鑄的简化字	None	鑄
+鿏	None	=䥑的类推简化字	None	䥑
+䤯	None	同=鉶	None	鉶
+𨧐	tun1	化学元素“钇”的旧译	None	None
+𨦶	None	同=麩	None	麩
+銾	hong2	钟声	None	None
+銾	gong3	同=汞	None	汞
+䤲	chi4	化学元素=鍶的旧译	None	鍶
+𨦬	None	同=銴	None	銴
+銴	shi4	车樘结	None	None
+銴	shi4	铜锈	None	None
+銴	zhi4	小车耳钩	None	None
+銴	zhi4	指器物系绳之处	None	None
+鋬	pan4	器系，器物上备手提拿把握的部分	None	None
+䤰	ying2	治金	None	None
+鋆	yun2	金	None	None
+鋆	jun1	人名用字	None	None
+鋕	zhi4	记载；记录	None	None
+𨧎	None	同=銎	None	銎
+𨦲	None	同=鉣	None	鉣
+銸	zhe2	鉆，即铁钳、火夹之类	None	None
+銸	nie4	拔去头发 后作=鑷	None	鑷
+銸	nie4	同=𨯖(鑈)	None	𨯖
+𨧨	rui4	尖锐	None	None
+𨧨	zhui4	同=錣 赶马杖上端用来刺马的铁针	None	錣
+錵	hua1	化学元素=鈥的旧译	None	鈥
+铹	None	=鐒的简化字	None	鐒
+𨨭	kuang4	同=鑛(礦) 矿石	None	鑛
+𨧀	du4	旧称“𫒢” 放射性化学元素 符号Db 原子序数105 第二个发现的超锕系元素 具强放射性 化学性质近似钽 由重离子轰击法人工合成而得 寿命最长的同位素^262Db，半衰期为36秒 (新拉dubnium)	None	None
+𬭊	None	=𨧀的类推简化字	None	𨧀
+銶	qiu2	凿属 一说独头斧	None	None
+銶	qiu2	析	None	None
 𨱇	None	录入中	None	None
 鋍	None	录入中	None	None
 鋪	None	录入中	None	None
