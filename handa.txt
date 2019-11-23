@@ -77932,37 +77932,73 @@
 銅	tong2	喻坚固、坚强	None	None
 銅	tong2	姓	None	None
 铜	None	=銅的简化字	None	銅
-鋁	None	录入中	None	None
-铝	None	录入中	None	None
-銱	None	录入中	None	None
-铞	None	录入中	None	None
-銦	None	录入中	None	None
-铟	None	录入中	None	None
-銟	None	录入中	None	None
-䤧	None	录入中	None	None
-铠	None	录入中	None	None
-铡	None	录入中	None	None
-銖	None	录入中	None	None
-铢	None	录入中	None	None
-銑	None	录入中	None	None
-铣	None	录入中	None	None
-銩	None	录入中	None	None
-铥	None	录入中	None	None
-鋌	None	录入中	None	None
-铤	None	录入中	None	None
-銛	None	录入中	None	None
-铦	None	录入中	None	None
-𫓱	None	录入中	None	None
-銝	None	录入中	None	None
-𨦛	None	录入中	None	None
-𨦴	None	录入中	None	None
-䤦	None	录入中	None	None
-鋋	None	录入中	None	None
-銋	None	录入中	None	None
-铧	None	录入中	None	None
-銄	None	录入中	None	None
-銗	None	录入中	None	None
-䤨	None	录入中	None	None
+鋁	lv4	同=鑢 磋磨	None	鑢
+鋁	lv3	化学元素 符号Al，原子序数13 1825年发现 银白色金属，俗称“钢精”或“钢宗” 质轻而坚韧，易于加工 传热和导电性能良好 化学性质活泼，溶于酸或碱等 可以跟卤素直接化合，在空气中表面氧化形成薄薄的保护层 广泛用来制造日用器皿 纯铝用作超高压电缆 铝合金做飞机、汽车、船舶、火箭等的结构材料 (新拉alminium)	None	None
+铝	None	=鋁的简化字	None	鋁
+銱	diao3	铞子，煎药或烧水用的器皿	None	None
+铞	None	=銱的简化字	None	銱
+銦	yin1	化学元素 稀散元素之一 符号In，原子序数49 银白色金属，熔点低（156.61℃），沸点高（约2100℃） 比铅软，用指甲能刻痕 可塑性和延展性好，可压成极薄的薄片 在常温下不与空气起作用，但易溶于酸 多用作低熔合金和电子器件原料 也用作原子能工业和玻璃、陶瓷工业原料 (新拉indium)	None	None
+铟	None	=銦的简化字	None	銦
+銟	cha1	鱼器	None	None
+⿰钅岁	None	=鐬的类推简化字	None	鐬
+䤧	hui4	金䤧	None	None
+铠	None	=鎧的简化字	None	鎧
+铡	None	=鍘的简化字	None	鍘
+銖	zhu1	古衡制单位 一两的二十四分之一为一铢 1.重一百黍为一铢 2.重九十六黍为一铢	None	None
+銖	zhu1	钝，不锋利	None	None
+銖	zhu1	细微	None	None
+銖	zhu1	姓	None	None
+铢	None	=銖的简化字	None	銖
+銑	xian3	最有光泽的金属	None	None
+銑	xian3	古代钟口的两角	None	None
+銑	xian3	小凿	None	None
+銑	xian3	弓的两端用金装饰	None	None
+銑	xian3	初炼的铁 如：铣铁	None	None
+銑	xian3	姓	None	None
+銑	xian1	同=鍁 掘土或铲东西的工具	None	鍁
+銑	xi3	在铣床上，用一种圆的、能旋转的多刃刀具切削金属工件的方法 如：铣削	None	None
+铣	None	=銑的简化字	None	銑
+銩	diu1	化学元素 符号Tm，原子序数69 银白色金属，质软 可用于制造不需电源的手提简易X射线源 主要性质和用途与镧相似 (新拉thulium)	None	None
+铥	None	=銩的简化字	None	銩
+鋌	ding4	铜铁矿石	None	None
+鋌	ding4	铜铁质的坯料	None	None
+鋌	ding4	熔铸成条块等固定形状的金银，其重数两、数十两不等	None	None
+鋌	ding4	量词，用于块状物	None	None
+鋌	ding4	锭子，纺车或纺纱机上绕纱的机件	None	None
+鋌	ding4	通=莖 箭头装入箭干的部分	None	莖
+鋌	ting3	快跑貌	None	None
+鋌	ting3	空；尽	None	None
+铤	None	=鋌的简化字	None	鋌
+銛	xian1	臿属	None	None
+銛	xian1	捕鱼具	None	None
+銛	xian1	利器	None	None
+銛	xian1	锋利	None	None
+銛	xian1	姓	None	None
+銛	tian3	挑，挑取	None	None
+銛	gua1	断	None	None
+铦	None	=銛的类推简化字	None	銛
+𫓱	None	=鐈的类推简化字	None	鐈
+銝	xiu1	长针	None	None
+𨦛	None	=鈸的讹字	None	鈸
+𨦴	None	同=鋦	None	鋦
+䤦	None	同=鉞	None	鉞
+鋋	chan2	铁把小矛	None	None
+鋋	chan2	刺杀	None	None
+𮣴	None	=鋋的类推简化字	None	鋋
+銋	ren2	卷曲	None	None
+銋	ren2	弱	None	None
+銋	ren3	[鍖銋]见“鍖”	None	None
+⿰钅任	None	=銋的类推简化字	None	銋
+铧	None	=鏵的简化字	None	鏵
+銄	xiang3	同=餉 馈赠	None	餉
+銄	jiong1	同=𨩮(扃)	None	𨩮
+銗	hou2	[鏂銗]见“鏂”	None	None
+銗	xiang4	同=缿 古代接受告密文书的器具	None	缿
+𬭅	None	=銗的类推简化字	None	銗
+䤨	pi1	裁截；劈破	None	None
+䤨	pi1	分析	None	None
+䤨	pi1	剑锋	None	None
+⿰钅𠂢	None	=䤨的类推简化字	None	䤨
 𨦞	None	录入中	None	None
 銓	None	录入中	None	None
 铨	None	录入中	None	None
