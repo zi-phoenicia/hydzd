@@ -77536,25 +77536,45 @@
 鈕	niu3	姓	None	None
 鈕	chou3	同=杽 械 刑具名	None	杽
 钮	None	=鈕的简化字	None	鈕
-鈀	None	录入中	None	None
-钯	None	录入中	None	None
-鉯	None	录入中	None	None
-鈗	None	录入中	None	None
-𨥡	None	录入中	None	None
-𨥢	None	录入中	None	None
-𨥤	None	录入中	None	None
-鈺	None	录入中	None	None
-钰	None	录入中	None	None
-钱	None	录入中	None	None
-鉦	None	录入中	None	None
-钲	None	录入中	None	None
-𨥲	None	录入中	None	None
-鉣	None	录入中	None	None
-鉗	None	录入中	None	None
-钳	None	录入中	None	None
-鉪	None	录入中	None	None
-蓥	None	录入中	None	None
-鈷	None	录入中	None	None
+鈀	ba1	兵车	None	None
+鈀	ba1	候车	None	None
+鈀	ba1	铁	None	None
+鈀	ba1	箭头的一种	None	None
+鈀	pa2	古兵器	None	None
+鈀	pa2	平土除草的锄类农具	None	None
+鈀	pa2	用钯耕地	None	None
+鈀	ba3	化学元素 符号Pd，原子序数46 银白色，有吸收气体的特性，特别能吸收氢，制造纯氢时用做吸收剂，又可用做催化剂 钯的合金可用作牙科材料和装饰品 (新拉palladium)	None	None
+钯	None	=鈀的简化字	None	鈀
+鉯	yi3	未经证实的化学元素名 符号Il 1926年，美国化学家霍布津斯宣称发现了第61号元素，并将其实验地点伊利诺斯(Illinois)大学作为该元素的命名 (新拉illinium)	None	None
+鈗	yun3	古侍臣所执的矛类兵器	None	None
+鈗	dui4	同=鋭 古代矛类兵器	None	鋭
+𨥡	None	同=鈂	None	鈂
+𨥢	None	同=𨥍	None	𨥍
+𨥤	None	同=舒	None	舒
+鈺	yu4	珍宝	None	None
+鈺	yu4	坚硬的金属	None	None
+钰	None	=鈺的简化字	None	鈺
+钱	None	=錢的简化字	None	錢
+鉦	zheng1	古乐器 又名“丁寧” 形似钟而狭长，有长柄可执，击之而鸣 传世春秋晚期南方徐、吴等国的钲，自铭卫“征城”，是行军乐器 也有将商代的铙称为钲的	None	None
+鉦	zheng1	钟体正面偏上处	None	None
+鉦	zheng1	古乐器 形圆如铜锣，悬而击之	None	None
+钲	None	=鉦的简化字	None	鉦
+𨥲	None	=銎的讹字	None	銎
+鉣	jie2	组带铁	None	None
+鉗	qian2	古刑具 束颈的铁圈	None	None
+鉗	qian2	古刑罚，用铁圈束颈	None	None
+鉗	qian2	强制；胁迫	None	None
+鉗	qian2	缄，闭	None	None
+鉗	qian2	恶	None	None
+鉗	qian2	夹东西的工具 如：夹钳；老虎钳	None	None
+鉗	qian2	节肢动物的螯	None	None
+鉗	qian2	夹，夹取	None	None
+鉗	an1	刃	None	None
+钳	None	=鉗的简化字	None	鉗
+鉪	None	同=釱	None	釱
+蓥	None	=鎣的类推简化字	None	鎣
+鈷	gu3	[鈷䥈]也作“鈷鉧” 1.熨斗 2.大口的釜	None	None
+鈷	gu3	化学元素 符号Co，原子序数27 灰白色的结晶，物理性质和化学性质很像铁，可磁化，用来制造特种钢和超耐热合金，也可做玻璃和瓷器的蓝色颜料 放射性钴能代替镭来治疗恶性肿瘤 (新拉cobaltum)	None	None
 钴	None	录入中	None	None
 鉢	None	录入中	None	None
 钵	None	录入中	None	None
