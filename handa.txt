@@ -78054,29 +78054,50 @@
 錚	zheng1	象声词	None	None
 錚	zheng1	用同=鉦 古乐器，形圆如铜锣	None	鉦
 錚	zheng4	方言 形容器物表面光亮耀眼 如：铮光瓦亮；铮明瓦亮；刀擦得铮亮	None	None
-铮	None	录入中	None	None
-銫	None	录入中	None	None
-铯	None	录入中	None	None
-銮	None	录入中	None	None
-鉸	None	录入中	None	None
-铰	None	录入中	None	None
-𨦠	None	录入中	None	None
-銥	None	录入中	None	None
-铱	None	录入中	None	None
-铲	None	录入中	None	None
-䤤	None	录入中	None	None
-銃	None	录入中	None	None
-铳	None	录入中	None	None
-𨦡	None	录入中	None	None
-鉼	None	录入中	None	None
-銤	None	录入中	None	None
-銂	None	录入中	None	None
-𨦮	None	录入中	None	None
-铴	None	录入中	None	None
-䤩	None	录入中	None	None
-銨	None	录入中	None	None
-铵	None	录入中	None	None
-銉	None	录入中	None	None
+铮	None	=錚的简化字	None	錚
+銫	se4	化学元素 符号Cs，原子序数55 银白色金属 熔点低（28.5℃），仅次于汞 性质与铷相似 在所有金属中质最软 化学性质比铷更活泼，在氧即空气中能自燃，与水作用发声爆炸 产生的辐射频率具有长时间的稳定性，可制准确度极高的原子钟 在光的作用下易放出电子，可用制光电管 铯也是很有发展前途的宇宙飞行器燃料 (新拉caesium)	None	None
+铯	None	=銫的简化字	None	銫
+銮	None	同=鑾	None	鑾
+鉸	jiao3	剪刀	None	None
+鉸	jiao3	剪	None	None
+鉸	jiao3	钉铰，即补钉 又为铜匠之称	None	None
+鉸	jiao3	金属装饰	None	None
+鉸	jiao3	乐器	None	None
+鉸	jiao3	机械工业上的一种用铰刀切削修光孔的精加工方法	None	None
+铰	None	=鉸的简化字	None	鉸
+𨦠	None	同=鈭	None	鈭
+銥	yi1	化学元素 符号Ir，原子序数77 银白色金属 比重比锇稍小 熔点很高（2410℃），质硬而脆 化学性质很稳定，在王水中溶解缓慢，在氧化中加热到2300℃仍不发生严重损坏 铱合金坚硬耐磨，可用制科学仪器、热电阻、电阻线、笔尖等 放射性铱用于医学和射线照相 (新拉iridium)	None	None
+铱	None	=銥的简化字	None	銥
+铲	None	=鏟的简化字	None	鏟
+䤤	kai1	器名	None	None
+銃	chong4	斧头上受柄的孔	None	None
+銃	chong4	古代用火药发射弹丸的管形火器	None	None
+銃	chong4	用铳射击	None	None
+銃	chong4	金属制的打眼器具 即铳子	None	None
+銃	chong4	方言 扒窃	None	None
+銃	chong4	顶撞	None	None
+銃	chong4	同=衝 力量足或猛烈	None	衝
+铳	None	=銃的简化字	None	銃
+𨦡	rong2	同=鎔	None	鎔
+𨦡	yang2	[𨦡盐]醚分子中(R-O-R')氧原子上的未共用电子对接受强酸中的质子所生成的化合物	None	None
+鉼	bing3	饼状金银块	None	None
+鉼	bing3	量词，用于饼块状的金银	None	None
+鉼	bing3	釜	None	None
+鉼	ping2	壶类容器 后作=瓶	None	瓶
+鉼	ping2	古地名 春秋时郱邑，秦置县，在今山东省临朐县东南	None	None
+⿰钅并	None	=鉼的类推简化字	None	鉼
+銤	mi3	化学元素=鋨的旧译	None	鋨
+銤	mi3	化学元素=鎇的旧译	None	鎇
+銂	zhou1	金刀	None	None
+𨦮	ji2	锄属	None	None
+铴	None	=鐋的类推简化字	None	鐋
+䤩	cha2	[䤩尾]也作“獺尾” 古腰带端之饰	None	None
+𬭈	None	=䤩的类推简化字	None	䤩
+銨	an3	化学名词 由氨衍生而成的一种带阳电荷的基，即铵离子，也叫铵根 在化合物中的地位相当于具有金属性质的离子 含有此根的化合物有氯化铵、硫酸铵等 (英ammonium)	None	None
+銨	an3	化学元素“锑”的旧译	None	None
+铵	None	=銨的简化字	None	銨
+銉	yu4	针	None	None
+銉	si4	同=肆 古代编悬乐器的单位 悬钟十六枚为一肆	None	肆
 銀	None	录入中	None	None
 银	None	录入中	None	None
 𨦃	None	录入中	None	None
