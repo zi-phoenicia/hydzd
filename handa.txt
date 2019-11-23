@@ -77575,28 +77575,46 @@
 蓥	None	=鎣的类推简化字	None	鎣
 鈷	gu3	[鈷䥈]也作“鈷鉧” 1.熨斗 2.大口的釜	None	None
 鈷	gu3	化学元素 符号Co，原子序数27 灰白色的结晶，物理性质和化学性质很像铁，可磁化，用来制造特种钢和超耐热合金，也可做玻璃和瓷器的蓝色颜料 放射性钴能代替镭来治疗恶性肿瘤 (新拉cobaltum)	None	None
-钴	None	录入中	None	None
-鉢	None	录入中	None	None
-钵	None	录入中	None	None
-鉥	None	录入中	None	None
-𨥼	None	录入中	None	None
-鈳	None	录入中	None	None
-钶	None	录入中	None	None
-鉕	None	录入中	None	None
-钷	None	录入中	None	None
-𨥳	None	录入中	None	None
-鉔	None	录入中	None	None
-𫓬	None	录入中	None	None
-鈵	None	录入中	None	None
-鉟	None	录入中	None	None
-鉐	None	录入中	None	None
-𨥴	None	录入中	None	None
-鈽	None	录入中	None	None
-鈸	None	录入中	None	None
-钹	None	录入中	None	None
-鉞	None	录入中	None	None
-钺	None	录入中	None	None
-鉲	None	录入中	None	None
+鈷	hu2	同=鍸(瑚) 古代宗庙里盛黍稷的礼器	None	鍸
+鈷	gu4	断	None	None
+钴	None	=鈷的简化字	None	鈷
+鉢	bo1	一种盛东西的敞口器具 形似盆而较小，一般为陶制 如：乳钵；花钵	None	None
+鉢	bo1	特指僧人的食器 梵语钵多罗[pа̄tra]的省称 用泥或铁等制成 形圆稍扁，底平，口略小	None	None
+鉢	bo1	原指佛家世代相传之钵，后泛指前人传下来的思想、学术、技能等 如：衣钵相传	None	None
+钵	None	=鉢的简化字	None	鉢
+鉥	shu4	长针	None	None
+鉥	shu4	刺	None	None
+鉥	xu4	通=訹 引导	None	訹
+𬬸	None	=鉥的类推简化字	None	鉥
+𨥼	None	同=鍘	None	鍘
+鈳	e1	[鈳䥈]小釜	None	None
+鈳	ke1	化学元素“铌”的旧译	None	None
+钶	None	=鈳的简化字	None	鈳
+鉕	po1	[鉕鑼]也作“=叵羅” 酒卮，敞口浅杯	None	叵
+鉕	po3	化学元素 符号Pm，原子序数61 银白色金属 在自然界中尚未发现 是1947年发现的人工放射性元素 (新拉promethium)	None	None
+钷	None	=鉕的简化字	None	鉕
+𨥳	None	同=𨥦	None	𨥦
+鉔	za1	香球，金属制熏香器 球形，中镂空，内置燃烧香料的盂或提炉，以活轴和机环与球壁关连，球体虽转动也不致倾覆	None	None
+𫓬	None	=鉔的类推简化字	None	鉔
+鈵	bing3	坚固	None	None
+⿰钅丙	None	=鈵的类推简化字	None	鈵
+鉟	pi1	同=鈹 古兵器，形如刀而两边有刃	None	鈹
+鉟	pi1	同=銔 旌旗名	None	銔
+鉟	pi1	熔化	None	None
+⿰钅丕	None	=鉟的类推简化字	None	鉟
+鉐	shi2	[鍮鉐]同“鍮=石”	None	石
+鉐	zu2	姓	None	None
+𨥴	kou3	闭口声	None	None
+鈽	bu4	金版	None	None
+⿰钅龙	None	=鑨的类推简化字	None	鑨
+鈸	bo2	铃	None	None
+鈸	bo2	古称“铜钹”、“铜盘” 击乐器，铜制，圆形，中部隆起如半球状，其径约全径的二分之一 以两片为一副，相击发声 初流行于西域，南北朝时传至内地 唐代十部乐中有七部用钹 后被广泛采用于民间歌舞、戏曲、吹打乐、锣鼓乐中，并形成大小不同的多种形制，以及铙、镲、小镲等各种变体	None	None
+钹	None	=鈸的简化字	None	鈸
+鉞	yue4	古兵器，形似斧而较大，圆刃，金属制 也有玉石制的，多用于礼仪，以象征帝王的威权 本作=戉	None	戉
+鉞	yue4	星名	None	None
+钺	None	=鉞的简化字	None	鉞
+鉲	ka3	化学元素=鎘的旧译	None	鎘
+鉲	ka3	1905年德国科学家维斯巴赫从氧化镱中分离出的一种新元素，符号Cp，曾一度获得承认，译作鉲 后确定它就是镥，这个名称也就被舍弃了	None	None
 鉳	None	录入中	None	None
 鉆	None	录入中	None	None
 钻	None	录入中	None	None
