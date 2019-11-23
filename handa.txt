@@ -77886,26 +77886,36 @@
 銔	pi1	[靈姑銔]古旗名	None	None
 銔	pi1	圆鉟	None	None
 𬭃	None	=銔的类推简化字	None	銔
-銆	None	录入中	None	None
-銪	None	录入中	None	None
-铕	None	录入中	None	None
-銌	None	录入中	None	None
-𨦄	None	录入中	None	None
-銙	None	录入中	None	None
-𨦗	None	录入中	None	None
-𫟼	None	录入中	None	None
-𨦘	None	录入中	None	None
-𨦙	None	录入中	None	None
-銐	None	录入中	None	None
-鋮	None	录入中	None	None
-铖	None	录入中	None	None
-铗	None	录入中	None	None
-銕	None	录入中	None	None
-鋣	None	录入中	None	None
-铘	None	录入中	None	None
-铙	None	录入中	None	None
-銍	None	录入中	None	None
-铚	None	录入中	None	None
+銆	mo4	[銆刀]兵器	None	None
+銪	you3	铅	None	None
+銪	you3	化学元素 符号Eu，原子序数63 银白色，是稀土金属中活泼性很强的一个，亦是除钷以外稀土矿石中含量最少的一个 因其吸收热中子能力很强，故用于原子能反应堆中作吸收中子的材料 其他性质和用途与镧相似 (新拉europium)	None	None
+铕	None	=銪的简化字	None	銪
+銌	zun4	钻	None	None
+⿰钅页	None	=顉的类推简化字	None	顉
+𨦄	qian1	曲头凿	None	None
+銙	kua3	古代附于腰带上的扣板，作方、椭圆等形 原用来受环悬物，后纯用作装饰 其质料、数目随时代或饰者的身份而异	None	None
+銙	kua3	銙茶，形似带銙，故名	None	None
+銙	kua3	量词	None	None
+⿰钅夸	None	=銙的类推简化字	None	銙
+𨦗	hui1	化学元素“钾”的旧译	None	None
+𫟼	None	=鐽的类推简化字	None	鐽
+𨦘	None	同=銕	None	銕
+𨦙	None	同=銐	None	銐
+銐	chi4	除草器	None	None
+銐	li4	利	None	None
+鋮	cheng2	人名用字	None	None
+铖	None	=鋮的类推简化字	None	鋮
+铗	None	=鋏的简化字	None	鋏
+銕	tie3	同=鐵	None	鐵
+銕	yi2	[嵎銕]也作“禺銕”、“嵎=夷” 古地名	None	夷
+鋣	ye2	[鏌鋣]也作“鏌=釾” 古良剑名	None	釾
+铘	None	=鋣的类推简化字	None	鋣
+铙	None	=鐃的简化字	None	鐃
+銍	zhi4	短镰	None	None
+銍	zhi4	用镰刀割（谷物）	None	None
+銍	zhi4	割下的禾穗	None	None
+銍	zhi4	古县名 在今安徽省宿州市西南	None	None
+铚	None	=銍的类推简化字	None	銍
 鈭	None	录入中	None	None
 銧	None	录入中	None	None
 铛	None	录入中	None	None
