@@ -56607,22 +56607,44 @@
 𥴬	bi4	捕鸟的工具	None	None
 𥴲	None	同=簢	None	簢
 𥴳	None	同=𥲅	None	𥲅
-籍	None	录入中	None	None
-𥶹	None	录入中	None	None
-𥵦	None	录入中	None	None
-籉	None	录入中	None	None
-𥵞	None	录入中	None	None
-䉥	None	录入中	None	None
-𥵠	None	录入中	None	None
-籌	None	录入中	None	None
-𥵽	None	录入中	None	None
-𥵫	None	录入中	None	None
-𥵡	None	录入中	None	None
-𥵰	None	录入中	None	None
-𥵼	None	录入中	None	None
-籕	None	录入中	None	None
-籄	None	录入中	None	None
-籃	None	录入中	None	None
+籍	ji2	簿书 关于贡赋、人事及户口等的档案	None	None
+籍	ji2	门籍，一种写有当事人姓名的小牌子 汉代有事需要出入宫门者，皆有门籍悬于宫门，以备案验	None	None
+籍	ji2	代表个人的身份；代表个人对国家、组织的隶属关系 如：国籍；党籍；学籍	None	None
+籍	ji2	书籍	None	None
+籍	ji2	登记	None	None
+籍	ji2	记录	None	None
+籍	ji2	征集	None	None
+籍	ji2	古代的一种重刑，除对当事人施刑外，家财充公，亲属为奴 又称为“籍没”	None	None
+籍	ji2	籍贯	None	None
+籍	ji2	税；征税	None	None
+籍	ji2	古代的一种礼仪 春耕开始时，帝王亲耕于划定的田地，收获以奉祀宗庙，且寓劝农之意	None	None
+籍	ji2	通=藉(jie4) 1.垫着 2.凭借 3.连词 表示假设，相当于“如果” 4.践踏；欺凌	None	藉
+籍	ji2	通=阼(zuo4) 皇位	None	阼
+籍	ji2	姓	None	None
+籍	jie4	宽容，含蓄	None	None
+𥶹	jing4	竹名	None	None
+𥵦	shao3	竹枝长	None	None
+籉	tai2	笠的一种	None	None
+𥵞	jie2	竹契 ……一说=籤的讹字	None	籤
+䉥	None	同=檧	None	檧
+𥵠	gu3	簏 箱、篓一类编织物	None	None
+籌	chou2	壶矢 古代投壶所用的签子，形如箭笴	None	None
+籌	chou2	筹码	None	None
+籌	chou2	计谋，策划	None	None
+籌	chou2	量词 用以指人	None	None
+籌	tao2	戴	None	None
+𥵽	None	同=籌	None	籌
+𥵫	cong2	取鱼器 也称“籠𥵫”	None	None
+𥵡	None	同=篝	None	篝
+𥵰	None	同=𥴩	None	𥴩
+𥵼	None	=簭的讹字	None	簭
+籕	None	=籀的讹字	None	籀
+籄	kui4	土笼	None	None
+籃	lan2	笼	None	None
+籃	lan2	有提梁的盛物器 多用藤、竹、柳条等编成 如：网篮；菜篮	None	None
+籃	lan2	篮球架上供投球用的带网的铁圈 如：投篮；进了篮	None	None
+籃	lan2	指篮球运动 如：男篮；女篮	None	None
+籃	lan2	竹轿子 也称篮舆	None	None
 籋	None	录入中	None	None
 𥵱	None	录入中	None	None
 𥵢	None	录入中	None	None
