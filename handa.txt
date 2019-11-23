@@ -77713,7 +77713,28 @@
 鉨	nie4	同=鑷	None	鑷
 鉨	xi3	同=鉩(璽) 印章	None	鉩
 鿭	None	=鑈的类推简化字	None	鑈
-鉤	None	录入中	None	None
+鉤	gou1	形状弯曲，用于探取、连接、悬挂器物的用具 1.钓钩 2.挂钩 3.带钩	None	None
+鉤	gou1	古兵器，似剑而曲	None	None
+鉤	gou1	附于剑头的环	None	None
+鉤	gou1	车心木 连接车厢和轴的车具	None	None
+鉤	gou1	圆规，木匠用来画圆的工具	None	None
+鉤	gou1	镰刀	None	None
+鉤	gou1	马颔下带饰	None	None
+鉤	gou1	钩取；钩住	None	None
+鉤	gou1	弯曲	None	None
+鉤	gou1	改动	None	None
+鉤	gou1	绕，围绕	None	None
+鉤	gou1	扣留	None	None
+鉤	gou1	反；约束	None	None
+鉤	gou1	牵连	None	None
+鉤	gou1	引致	None	None
+鉤	gou1	探索；探讨	None	None
+鉤	gou1	中医脉象的一种	None	None
+鉤	gou1	植物名 1.王瓜 2.蓟类草	None	None
+鉤	gou1	病名	None	None
+鉤	gou1	古代的游戏 1.施钩 2.藏钩	None	None
+鉤	gou1	汉字的一种笔形 有横钩、竖钩、弯钩等	None	None
+鉤	gou1	书法术语 用中指指尖钩压笔管，使笔尖向下	None	None
 鉛	None	录入中	None	None
 铅	None	录入中	None	None
 𨥸	None	录入中	None	None
