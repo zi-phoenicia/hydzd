@@ -77999,29 +77999,61 @@
 䤨	pi1	分析	None	None
 䤨	pi1	剑锋	None	None
 ⿰钅𠂢	None	=䤨的类推简化字	None	䤨
-𨦞	None	录入中	None	None
-銓	None	录入中	None	None
-铨	None	录入中	None	None
-𨦅	None	录入中	None	None
-铩	None	录入中	None	None
-鉿	None	录入中	None	None
-铪	None	录入中	None	None
-銚	None	录入中	None	None
-铫	None	录入中	None	None
-𨦜	None	录入中	None	None
-𨦝	None	录入中	None	None
-𨦣	None	录入中	None	None
-䤥	None	录入中	None	None
-銁	None	录入中	None	None
-𫓲	None	录入中	None	None
-銞	None	录入中	None	None
-𨦟	None	录入中	None	None
-鉻	None	录入中	None	None
-铬	None	录入中	None	None
-銘	None	录入中	None	None
-铭	None	录入中	None	None
-鉹	None	录入中	None	None
-錚	None	录入中	None	None
+𨦞	zhou1	@	None	None
+銓	quan2	称重量的器具，即秤	None	None
+銓	quan2	度；衡量	None	None
+銓	quan2	平木器	None	None
+銓	quan2	选授官职	None	None
+銓	quan2	排列等第，评定高下	None	None
+銓	quan2	通=跧 卑屈	None	跧
+銓	quan2	姓	None	None
+铨	None	=銓的简化字	None	銓
+𨦅	None	同=鎩	None	鎩
+铩	None	=鎩的简化字	None	鎩
+鉿	jia1	陷声	None	None
+鉿	ge1	铤	None	None
+鉿	ke1	[鉿匝]同“=匼匝” 周匝；环绕	None	匼
+鉿	ha1	化学元素 符号Hf，原子序数72 银白色金属 熔点高 主要用作核反应堆的控制棒，也用作X射线管的阴极 铪和钨或钼的合金用作高压放电管的电极 (新拉hafnium)	None	None
+铪	None	=鉿的简化字	None	鉿
+銚	yao1	大锄	None	None
+銚	yao1	古国名	None	None
+銚	yao1	姓	None	None
+銚	diao4	一种大口、有柄、有流的烹煮器	None	None
+銚	diao4	盌；小瓮	None	None
+銚	tiao2	长毛	None	None
+銚	qiao1	同=𣂁 即锹	None	𣂁
+銚	qiao1	刈物器	None	None
+銚	yao4	[銚芅]植物名	None	None
+铫	None	=銚的简化字	None	銚
+𨦜	mao2	同=矛	None	矛
+𨦝	None	同=䤨	None	䤨
+𨦣	None	同=鈗	None	鈗
+䤥	gui3	农具，臿属	None	None
+䤥	gui3	有光泽的铁	None	None
+䤥	wei3	以捩锯齿	None	None
+⿰钅危	None	=䤥的类推简化字	None	䤥
+銁	None	同=鈞	None	鈞
+𫓲	None	=銁的类推简化字	None	銁
+銞	None	同=鈞	None	鈞
+𨦟	None	同=鋒	None	鋒
+鉻	luo4	剃发	None	None
+鉻	ge2	钩，古兵器	None	None
+鉻	ge4	化学元素 符号Cr，原子序数24 青灰色金属 有毒 质地坚硬，抗腐蚀性强 用于电镀和制造特种钢（如不锈钢等）、特种合金、电热丝、颜料等 为生命必需的微量营养元素 (新拉chromium)	None	None
+铬	None	=鉻的简化字	None	鉻
+銘	ming2	记载；镂刻	None	None
+銘	ming2	古代铸、刻在器物上的文字	None	None
+銘	ming2	文体的一种 古代常刻铭于碑版或器物，或以称功德，或以申明鉴戒，后成为一种文体	None	None
+銘	ming2	铭记，永志不忘	None	None
+銘	ming2	铭旌，即明旌 旧时竖在灵柩前标志死者官衔和姓名的旗幡	None	None
+铭	None	=銘的简化字	None	銘
+鉹	chi3	甑	None	None
+鉹	chi3	小刀	None	None
+⿰钅多	None	=鉹的类推简化字	None	鉹
+錚	zheng1	[錚錚]1.形容金属、玉器相撞击声 2.刚利	None	None
+錚	zheng1	磨光，擦亮	None	None
+錚	zheng1	象声词	None	None
+錚	zheng1	用同=鉦 古乐器，形圆如铜锣	None	鉦
+錚	zheng4	方言 形容器物表面光亮耀眼 如：铮光瓦亮；铮明瓦亮；刀擦得铮亮	None	None
 铮	None	录入中	None	None
 銫	None	录入中	None	None
 铯	None	录入中	None	None
