@@ -77150,8 +77150,29 @@
 𨽲	None	录入中	None	None
 𨽵	None	录入中	None	None
 𨽴	None	录入中	None	None
-金	None	录入中	None	None
-釓	None	录入中	None	None
+金	jin1	金属总名 如：五金；金属	None	None
+金	jin1	化学元素 符号Au 原子序数79 通称黄金或金子 为古代五金之一 黄色，常以粒状存于沙砾和岩石中，质柔软，延展性强，化学性质稳定，不溶于酸和碱，但溶于王水 多用来制造货币，装饰器物等，在工业上也有一定用途 (新拉aurum)	None	None
+金	jin1	钱财；货币	None	None
+金	jin1	量词 古代计算货币的单位 或以一镒为一金，或以一斤为一金，因时而异	None	None
+金	jin1	金属制的器物 1.刀、剑、箭等兵器 2.刑具 3.印；虎符 4.犁铧尖 5.钏、镯一类妆饰品	None	None
+金	jin1	古代军中一种金器，用以指挥停止	None	None
+金	jin1	八音之一，指钲、钟一类金属打击乐器	None	None
+金	jin1	五行之一 1.代表西方 2.指秋天	None	None
+金	jin1	中医学上指肺	None	None
+金	jin1	特指钟鼎 如：金文	None	None
+金	jin1	旧指佛金，今指铜粉，与胶质物合成，用以饰物	None	None
+金	jin1	比喻贵重	None	None
+金	jin1	比喻坚固	None	None
+金	jin1	金色的	None	None
+金	jin1	星名 金星的简称 水、金、火、木、土这五大行星，在古时有一组更为通行的名称，即辰星、太白、荧惑、岁星、镇星	None	None
+金	jin1	古州名 治所在今陕西省安康市	None	None
+金	jin1	山名 在江苏省镇江市北，长江南岸	None	None
+金	jin1	深	None	None
+金	jin1	朝代名 1115年女真族完颜部首领阿骨打创建，国号金，建都会宁（今黑龙江省阿城市南） 1125年（金太宗天会三年）灭辽，次年灭北宋，先后迁都中都（今北京市）、开封等地 疆域东到日本海，南至淮河，西接西夏，东北到外兴安岭，西北至蒙古 与南宋、西夏对峙，统治了整个中国北部 1234年（天兴三年）在蒙古和宋联合进攻下灭亡，共历九帝，统治一百二十年	None	None
+金	jin1	姓	None	None
+金	jin4	通=噤 闭口不言	None	噤
+釓	qiu2	同=釚	None	釚
+釓	ga2	化学元素 符号Gd，原子序数64 银白色金属，超导性能良好 原子能工业上用作反应堆的结构材料 (新拉gadolinium)	None	None
 钆	None	录入中	None	None
 釔	None	录入中	None	None
 钇	None	录入中	None	None
