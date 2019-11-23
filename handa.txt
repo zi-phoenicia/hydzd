@@ -77297,34 +77297,54 @@
 釩	fan3	器皿	None	None
 釩	fan4	同=䀀 杯	None	䀀
 釩	fan2	化学元素 符号V，原子序数23 银白色，质坚硬，在常温中不易氧化 钒与钢的合金叫钒钢，工业上用途很广 (新拉vanadium)	None	None
-钒	None	录入中	None	None
-鈒	None	录入中	None	None
-钑	None	录入中	None	None
-釯	None	录入中	None	None
-钔	None	录入中	None	None
-釲	None	录入中	None	None
-𨥂	None	录入中	None	None
-釨	None	录入中	None	None
-釶	None	录入中	None	None
-釹	None	录入中	None	None
-钕	None	录入中	None	None
-钖	None	录入中	None	None
-釰	None	录入中	None	None
-釵	None	录入中	None	None
-钗	None	录入中	None	None
-𨥙	None	录入中	None	None
-鈃	None	录入中	None	None
-钘	None	录入中	None	None
-鈇	None	录入中	None	None
-𫓧	None	录入中	None	None
-鈣	None	录入中	None	None
-钙	None	录入中	None	None
-鈢	None	录入中	None	None
-𨥚	None	录入中	None	None
-鈘	None	录入中	None	None
-鈈	None	录入中	None	None
-钚	None	录入中	None	None
-鈦	None	录入中	None	None
+钒	None	=釩的简化字	None	釩
+鈒	sa4	古兵器，铁把小矛	None	None
+鈒	sa4	戟	None	None
+鈒	sa4	用金银在器物上嵌饰花纹	None	None
+鈒	xi4	小锋	None	None
+钑	None	=鈒的类推简化字	None	鈒
+⿰钅广	None	=鑛的类推简化字	None	鑛
+釯	None	同=鋩	None	鋩
+钔	None	=鍆的简化字	None	鍆
+釲	si4	箭头装入箭杆的部分	None	None
+釲	si4	金子	None	None
+𨥂	jie2	戟，亦指无刃戟	None	None
+𨥂	jie2	矛	None	None
+釨	zi3	刚	None	None
+釶	shi1	同=鉈(鍦) 矛	None	鉈
+釶	yi2	同=匜 古代一种盛酒或水的器具	None	匜
+釶	ye3	化学元素=釔的旧译	None	釔
+釹	nv3	化学元素 稀土元素之一 符号Nd，原子序数60 银白色金属，较活泼，在空气中容易氧化，能分解水 主要性质和用途与镧相似 (新拉neodymium)	None	None
+钕	None	=釹的简化字	None	釹
+钖	None	=鍚的简化字	None	鍚
+釰	ri4	钝	None	None
+釰	ren4	剑刃	None	None
+釰	jian4	同=劒(劍) 古代兵器	None	劒
+釵	chai1	古代妇女的首饰，形似叉，用金、玉、铜等制作	None	None
+釵	chai1	借指妇女	None	None
+釵	cha1	兵器	None	None
+钗	None	=釵的简化字	None	釵
+𨥙	jing3	@	None	None
+鈃	xing2	古酒器，似钟而长颈	None	None
+鈃	xing2	通=鉶 古盛羹器	None	鉶
+鈃	xing2	同=鋞 温器	None	鋞
+鈃	xing2	山名	None	None
+鈃	jian1	人名	None	None
+钘	None	=鈃的简化字	None	鈃
+鈇	fu1	铡刀，用以切草 古代也用为斩人的刑具	None	None
+鈇	fu3	同=斧	None	斧
+𫓧	None	=鈇的类推简化字	None	鈇
+𬬬	None	=鍏的类推简化字	None	鍏
+鈣	gai4	化学元素 符号Ca，原子序数20 银白色轻金属，质软 化学性质活泼，容易氧化，能与水反应而放出氢气 可用作还原剂和脱硫剂 其化合物石灰石、萤石、生石灰、石膏等在建筑和医药上用途很广 是人体不可缺少的元素 (新拉calcium)	None	None
+钙	None	=鈣的简化字	None	鈣
+鈢	xi3	同=鉩(璽) 印章	None	鉩
+𨥚	None	同=鉔	None	鉔
+鈘	None	同=䰙	None	䰙
+鈈	pi1	同=鉟	None	鉟
+鈈	bu4	化学元素 符号Pu，原子序数94 具有放射性，化学性质与铀相似，是制造原子弹的重要材料 (新拉plutonium)	None	None
+钚	None	=鈈的简化字	None	鈈
+鈦	tai4	@	None	None
+鈦	tai4	化学元素 符号Ti，原子序数22 银白色金属，熔点高，强度高，低温韧性良好，有延展性 抗腐蚀性强，特别耐锈 钛合金是新型的结构材料，质硬而轻，主要用来制造飞机、轮船等和耐腐蚀化工设备及各种机械零件 也是良好的脱氧、除氮及除硫剂 医学上也可用钛来代替被损坏的骨骼 (新拉titanium)	None	None
 钛	None	录入中	None	None
 鈜	None	录入中	None	None
 䤞	None	录入中	None	None
