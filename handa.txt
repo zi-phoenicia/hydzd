@@ -77412,32 +77412,71 @@
 𨥊	None	同=釳	None	釳
 鈓	None	同=銋	None	銋
 𨥜	None	人名用字	None	None
-鈋	None	录入中	None	None
-𨱂	None	录入中	None	None
-𨥐	None	录入中	None	None
-釿	None	录入中	None	None
-釽	None	录入中	None	None
-𨥝	None	录入中	None	None
-鈑	None	录入中	None	None
-钣	None	录入中	None	None
-𨥞	None	录入中	None	None
-𨥟	None	录入中	None	None
-𨥏	None	录入中	None	None
-𨥎	None	录入中	None	None
-𫓩	None	录入中	None	None
-鈐	None	录入中	None	None
-钤	None	录入中	None	None
-𨥍	None	录入中	None	None
-鈖	None	录入中	None	None
-𨥧	None	录入中	None	None
-鈆	None	录入中	None	None
-𫓪	None	录入中	None	None
-鈅	None	录入中	None	None
-钥	None	录入中	None	None
-𨥌	None	录入中	None	None
-𨥦	None	录入中	None	None
-欽	None	录入中	None	None
-钦	None	录入中	None	None
+𬬮	None	=鋹的类推简化字	None	鋹
+鈋	e2	吪圜，去角变圆	None	None
+鈋	e2	圆	None	None
+鈋	e2	削	None	None
+鈋	e2	损坏	None	None
+𨱂	None	=鈋的类推简化字	None	鈋
+𨥐	None	同=釚	None	釚
+釿	jin1	同=斤 斧头	None	斤
+釿	jin1	古金属重量名，亦货币名 战国时期东方各国多以“釿”为单位，秦统一衡制时被废除	None	None
+釿	yin3	截断；扭断	None	None
+釿	yin2	平木器	None	None
+釿	yin2	器凹下处叫釿，凸起处叫锷	None	None
+𬬱	None	=釿的类推简化字	None	釿
+釽	pi1	破裂	None	None
+釽	pi1	分析	None	None
+釽	pi1	农具名	None	None
+釽	pi1	剑身出现的文采	None	None
+釽	zhao1	炼铜的初次生成物	None	None
+𬬲	None	=釽的类推简化字	None	釽
+𨥝	None	=䤨的讹字	None	䤨
+鈑	ban3	鉼金，饼状金银块	None	None
+鈑	ban3	板块状金属 如：铝鈑；钢鈑	None	None
+钣	None	=鈑的类推简化字	None	鈑
+𨥞	qian2	@	None	None
+𨥟	None	绊	None	None
+𨥏	None	同=釜	None	釜
+𨥎	None	同=鏦	None	鏦
+𫓩	None	=鏦的类推简化字	None	鏦
+𬬭	None	=錀的类推简化字	None	錀
+鈐	qian2	[鈐𨬍]古代农具 大犁	None	None
+鈐	qian2	车辖 车轴头上的铜键或铁键，用以管住车轮，使不脱落	None	None
+鈐	qian2	锁	None	None
+鈐	qian2	兵法	None	None
+鈐	qian2	祭器名	None	None
+鈐	qian2	用以炙干茶叶的器具	None	None
+鈐	qian2	星名	None	None
+鈐	qian2	“钤记”的简称 旧时较低级官吏所用的印	None	None
+鈐	qian2	盖章；盖印	None	None
+鈐	qian2	镇，管束	None	None
+鈐	qian2	用同=鉗 夹持；缄禁	None	鉗
+鈐	han1	釱	None	None
+钤	None	=鈐的简化字	None	鈐
+𨥍	xiong1	同=銎	None	銎
+鈖	fen1	玉名	None	None
+𨥧	wan1	同=錽 马头上的装饰，多作兽面形	None	錽
+𨥧	fan4	同=䀀 杯	None	䀀
+𨥧	bian1	用同=砭 以针刺治病	None	砭
+鈆	qian1	同=鉛	None	鉛
+鈆	qian1	通=沿(yan2) 循，沿	None	沿
+鈆	zhang1	铁	None	None
+𫓪	None	=鈆的类推简化字	None	鈆
+𬬰	None	=鎗的类推简化字	None	鎗
+鈅	yue4	兵器	None	None
+钥	None	=鑰的简化字	None	鑰
+𨥌	None	同=鉹	None	鉹
+𨥦	qi2	锋利	None	None
+欽	qin1	疲倦时张口打呵欠的样子	None	None
+欽	qin1	敬佩；仰慕	None	None
+欽	qin1	封建时代对皇帝所行之事的敬称	None	None
+欽	qin1	通=顉 下巴上曲	None	顉
+欽	qin1	通=廞 陈列	None	廞
+欽	qin1	姓	None	None
+欽	qin4	按 后作=撳	None	撳
+欽	yin2	通=吟	None	吟
+钦	None	=欽的简化字	None	欽
 鈞	None	录入中	None	None
 钧	None	录入中	None	None
 𨥒	None	录入中	None	None
