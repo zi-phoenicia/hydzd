@@ -77843,31 +77843,49 @@
 銇	lei4	銇钻	None	None
 銇	lei4	同=錑 平木器	None	錑
 銭	None	同=錢	None	錢
-鉽	shi4	录入中	None	None
-銢	None	录入中	None	None
-𨦕	None	录入中	None	None
-鉶	None	录入中	None	None
-铏	None	录入中	None	None
-銈	None	录入中	None	None
-𫓯	None	录入中	None	None
-銡	None	录入中	None	None
-銬	None	录入中	None	None
-铐	None	录入中	None	None
-銠	None	录入中	None	None
-铑	None	录入中	None	None
-銎	None	录入中	None	None
-鉺	None	录入中	None	None
-铒	None	录入中	None	None
-鉷	None	录入中	None	None
-𫟹	None	录入中	None	None
-𨦵	None	录入中	None	None
-鋩	None	录入中	None	None
-铓	None	录入中	None	None
-𨦖	None	录入中	None	None
-𫒖	None	录入中	None	None
-銊	None	录入中	None	None
-𫓰	None	录入中	None	None
-銔	None	录入中	None	None
+鉽	shi4	鼎属	None	None
+銢	pi3	器	None	None
+𨦕	None	同=鉶	None	鉶
+鉶	xing2	古代盛羹的小鼎，两耳三足，有盖，常用于祭祀	None	None
+鉶	xing2	肉菜羹	None	None
+鉶	xing2	用同=硎 磨刀石	None	硎
+铏	None	=鉶的简化字	None	鉶
+銈	ji1	金圭	None	None
+𫓯	None	=銈的类推简化字	None	銈
+銡	ji2	轧轹	None	None
+銬	kao4	锁手腕的刑具 如：手铐	None	None
+銬	kao4	加上手铐	None	None
+铐	None	=銬的简化字	None	銬
+銠	lao3	[銠𠠻]古铁钱名	None	None
+銠	lao3	化学元素 符号Rh，原子序数45 银白色金属，质硬耐磨 常镀在探照灯及反射镜上 它的合金可制化学仪器和测量高温的仪器 (新拉rhodium)	None	None
+铑	None	=銠的简化字	None	銠
+銎	qiong1	斧头上装柄的孔	None	None
+銎	qiong1	戈、矛之类刃下口	None	None
+銎	qiong1	惧	None	None
+鉺	er4	钩	None	None
+鉺	er4	钩形饰物	None	None
+鉺	er4	通=餌(er3) 钓鱼食	None	餌
+鉺	keng1	同=鏗	None	鏗
+鉺	er3	金属元素 符号Er，原子序数68 稀土金属，有银色光泽，质软，能使水分解 (新拉erbium)	None	None
+铒	None	=鉺的简化字	None	鉺
+鉷	hong2	弩上钩弦发矢的部件	None	None
+𫟹	None	=鉷的类推简化字	None	鉷
+𨦵	None	同=鋩	None	鋩
+鋩	mang2	刀、剑等的尖端	None	None
+鋩	mang2	光芒	None	None
+鋩	mang2	一种民间敲击乐器，流行于云南省傣族和景颇族地区	None	None
+铓	None	=鋩的简化字	None	鋩
+铔	None	=錏的类推简化字	None	錏
+⿰钅过	None	=鐹的类推简化字	None	鐹
+𨦖	lou4	化学元素=銠(錴)的旧译	None	銠
+𫒖	xi3	化学用字 四价硒的阳离子	None	None
+銊	xu4	锯声	None	None
+銊	hui4	[銊銊]也作“=噦噦” 象声词 车铃声	None	噦
+銊	hui4	鸟声	None	None
+𫓰	None	=銊的类推简化字	None	銊
+銔	pi1	[靈姑銔]古旗名	None	None
+銔	pi1	圆鉟	None	None
+𬭃	None	=銔的类推简化字	None	銔
 銆	None	录入中	None	None
 銪	None	录入中	None	None
 铕	None	录入中	None	None
