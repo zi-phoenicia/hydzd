@@ -56826,12 +56826,23 @@
 籥	yue4	同=鑰 锁钥	None	鑰
 籢	None	同=匳(奩)	None	匳
 籨	None	同=籢(奩)	None	籢
-籤	None	录入中	None	None
-𥷮	None	录入中	None	None
-䉳	None	录入中	None	None
-𥷛	None	录入中	None	None
-䉴	None	录入中	None	None
-𥷝	None	录入中	None	None
+籤	qian1	标识	None	None
+籤	qian1	签署意见或题写姓名于简札 其简札亦称签	None	None
+籤	qian1	用竹片制成的卜具，置神像前，抽出以占吉凶	None	None
+籤	qian1	竹签，削尖了的小竹棍	None	None
+籤	qian1	刺入；插入	None	None
+籤	qian1	锐利	None	None
+籤	qian1	漏箭，古代漏壶上记时的竹签，上有刻度	None	None
+籤	qian1	古代官府拘捕、惩罚犯人的凭证 以竹片制成，上有文字等标记	None	None
+𥷮	zhuo2	鱼罩	None	None
+𥷮	zhao1	撩罟 也叫抄网	None	None
+䉳	xian1	竹名	None	None
+䉳	xian3	[𥳐䉳]见“𥳐”	None	None
+𥷛	None	同=𥷼	None	𥷼
+䉴	rang2	收藏东西的竹器	None	None
+䉴	rang2	漉米竹器	None	None
+⿱𥫗赢	None	=籯的类推简化字	None	籯
+𥷝	None	同=𥴫	None	𥴫
 䉲	None	录入中	None	None
 𥷸	None	录入中	None	None
 𥷪	None	录入中	None	None
