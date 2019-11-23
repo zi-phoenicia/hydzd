@@ -77173,30 +77173,65 @@
 金	jin4	通=噤 闭口不言	None	噤
 釓	qiu2	同=釚	None	釚
 釓	ga2	化学元素 符号Gd，原子序数64 银白色金属，超导性能良好 原子能工业上用作反应堆的结构材料 (新拉gadolinium)	None	None
-钆	None	录入中	None	None
-釔	None	录入中	None	None
-钇	None	录入中	None	None
-針	None	录入中	None	None
-针	None	录入中	None	None
-釘	None	录入中	None	None
-钉	None	录入中	None	None
-釗	None	录入中	None	None
-钊	None	录入中	None	None
-釙	None	录入中	None	None
-钋	None	录入中	None	None
-釟	None	录入中	None	None
-釞	None	录入中	None	None
-釚	None	录入中	None	None
-𫟲	None	录入中	None	None
-𨤽	None	录入中	None	None
-釠	None	录入中	None	None
-䤛	None	录入中	None	None
-釕	None	录入中	None	None
-钌	None	录入中	None	None
-釢	None	录入中	None	None
-釖	None	录入中	None	None
-釛	None	录入中	None	None
-釬	None	录入中	None	None
+钆	None	=釓的简化字	None	釓
+釔	yi3	化学元素 符号Y，原子序数39 灰色金属 主要性质和用途与镧相似 用来制合金、特种玻璃和光学器件等 (新拉yttrium)	None	None
+釔	yi3	化学元素=錷的旧译	None	錷
+钇	None	=釔的简化字	None	釔
+針	zhen1	同=鍼 1.缝织引线用的工具 2.指针刺疗法用的针 3.针形物	None	鍼
+針	zhen1	姓	None	None
+針	zhen1	同=鍼 1.缝 2.刺 3.以针刺治病	None	鍼
+针	None	=針的简化字	None	針
+釘	ding1	冶炼而成的黄金饼块	None	None
+釘	ding1	钉子	None	None
+釘	ding1	钉状物	None	None
+釘	ding1	紧跟，监视 如：钉梢	None	None
+釘	ding1	催促；紧迫	None	None
+釘	ding1	专注地看 也作=盯	None	盯
+釘	ding1	蚊子、蜜蜂等螫刺（人或其他动物） 也作=叮	None	叮
+釘	ding1	灯	None	None
+釘	ding4	黄金	None	None
+釘	ding4	计量单位	None	None
+釘	ding4	以钉钉物	None	None
+釘	ding4	缝缀	None	None
+釘	ling2	=𠄖的讹字	None	𠄖
+钉	None	=釘的简化字	None	釘
+釗	zhao1	磨损；削损	None	None
+釗	zhao1	弩牙 或谓弩机	None	None
+釗	zhao1	劝勉	None	None
+釗	zhao1	见	None	None
+釗	zhao1	远	None	None
+釗	zhao1	姓	None	None
+钊	None	=釗的简化字	None	釗
+釙	po4	金矿	None	None
+釙	po1	放射性化学元素 符号Po，原子序数84 铀矿及锡石中有微量钋存在 它的质量数为210，半衰期约138天 人工合成的钋，以质量数为209的最为稳定，半衰期为103年 钋-210和铍混合可作为中子源 (新拉polonium)	None	None
+钋	None	=釙的简化字	None	釙
+釟	ba1	冶金	None	None
+釞	zhi2	铁器	None	None
+釞	zhi2	锋利	None	None
+釚	qiu2	弩机上钩弦发箭的机具	None	None
+釚	qiu2	同=銶 凿属	None	銶
+𫟲	None	=釚的类推简化字	None	釚
+𨤽	pi1	同=錍 箭镞名	None	錍
+釠	None	同=乱(亂)	None	乱
+⿰钅几	None	=鐖的类推简化字	None	鐖
+䤛	None	同=釚	None	釚
+釕	liao3	钌鈌，带头饰	None	None
+釕	liao3	化学元素 符号Ru，原子序数44 银灰色，性脆而硬，熔点很高 不溶于王水 用作金属阳极涂层，制备耐磨硬质合金和催化剂 (新拉ruthenium)	None	None
+釕	liao4	[釕吊]也作“釕銱兒”、“釕鈟” 扣住门窗等的铁扣儿	None	None
+钌	None	=釕的简化字	None	釕
+釢	nai3	化学元素=釹的旧译	None	釹
+釢	nai3	化学元素=鎿的旧译	None	鎿
+釖	dao1	同=刀 用于切、割、砍、削的器具的总名 也用作兵器名	None	刀
+釖	dao1	化学元素=釷的旧译	None	釷
+釛	bo1	金	None	None
+⿰钅力	None	=釛的类推简化字	None	釛
+釬	han4	臂铠	None	None
+釬	han4	古代射者所著的一种革制袖套，又名捍、拾、遂	None	None
+釬	han4	焊药	None	None
+釬	han4	焊接	None	None
+釬	han4	戈矛柄下端圆锥形的金属帽 也叫=鐏	None	鐏
+釬	han4	通=悍 急	None	悍
+釬	gan1	器	None	None
 釪	None	录入中	None	None
 釫	None	录入中	None	None
 釷	None	录入中	None	None
