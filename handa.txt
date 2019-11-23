@@ -77666,10 +77666,12 @@
 鉂	shi3	环	None	None
 鉂	shi3	刺	None	None
 鈻	si4	箭头状如箭杆的部分 后作=釲	None	釲
-䤢	None	录入中	None	None
-䤡	None	录入中	None	None
-鉎	None	录入中	None	None
-鉄	None	录入中	None	None
+䤢	None	同=釛	None	釛
+䤡	ran3	铁	None	None
+鉎	sheng1	铁锈	None	None
+⿰钅生	None	=鉎的类推简化字	None	鉎
+鉄	zhi2	同=紩 1.索 2.缝，用针线连缀	None	紩
+鉄	tie3	同=鐵	None	鐵
 铁	None	录入中	None	None
 鉃	None	录入中	None	None
 鈼	None	录入中	None	None
