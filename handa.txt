@@ -78264,25 +78264,41 @@
 鋓	chan1	锐	None	None
 鋫	li2	同=鑗 黑金	None	鑗
 鋵	tu1	化学元素=銩的旧译	None	銩
-銹	None	录入中	None	None
-锈	None	录入中	None	None
-鋂	None	录入中	None	None
-𨦷	None	录入中	None	None
-鋚	None	录入中	None	None
-銵	None	录入中	None	None
-𨦱	None	录入中	None	None
-𨦯	None	录入中	None	None
-䤭	None	录入中	None	None
-銼	None	录入中	None	None
-锉	None	录入中	None	None
-鋊	None	录入中	None	None
-𨧑	None	录入中	None	None
-鋝	None	录入中	None	None
-锊	None	录入中	None	None
-鋢	None	录入中	None	None
-鋖	None	录入中	None	None
-鋡	None	录入中	None	None
-𨧓	None	录入中	None	None
+銹	xiu4	铜、铁等金属的表面在含有酸性气体（如二氧化碳）的潮湿空气、水或泥土中，或在其他条件下被氧化而在其表面上形成的物质 铁锈是红黄色的氧化铁，铜锈是绿色的碱式碳酸铜	None	None
+銹	xiu4	生锈	None	None
+銹	xiu4	锈病 植物受真菌类锈菌寄生而引起的一种病害，此病害对农林生产危害很大 症状复杂，一般发生黄色、黑色和橙色小斑，尤其多黄色疱状斑，其中生铁锈粉状孢子，所以称锈病	None	None
+銹	you4	用石英、长石、硼砂、黏土等为原料，磨成粉末，加水调制而成的物质 用来涂在瓷器、陶器外面堵塞气孔并使瓷器、陶器烧制后发出光泽，增加机械强度和绝缘性能	None	None
+锈	None	=銹的简化字	None	銹
+鋂	mei2	大连环 犬项圈绳索饰，短管状，一绳索贯入许多铜管中，围于犬颈，故旧训鋂为“一環貫二也”，实则一项圈所贯决不止二枚	None	None
+鋂	meng2	同=萌	None	萌
+⿰钅每	None	=鋂的类推简化字	None	鋂
+𨦷	None	同=鋚	None	鋚
+鋚	tiao2	铁	None	None
+鋚	tiao2	辔首铜饰	None	None
+銵	keng1	撞也	None	None
+銵	keng1	同=鏗 象声词	None	鏗
+𨦱	cong1	同=鏦 矛；小矛	None	鏦
+𨦯	yi4	同=鈠 小矛	None	鈠
+䤭	shi4	饰	None	None
+䤭	shi4	推	None	None
+銼	cuo4	[銼𨯤]小锅 又名“鎢錥”、“鈷䥈” 单用为“銼”	None	None
+銼	cuo4	磨削金属或竹木的钢制工具 也叫锉刀 如：板锉；圆锉	None	None
+銼	cuo4	用锉磋磨 如：锉锯齿	None	None
+銼	cuo4	通=挫 1.折伤 2.挫败	None	挫
+锉	None	=銼的简化字	None	銼
+鋊	yu4	钩鼎耳和出炉炭的器具	None	None
+鋊	yu4	铜屑	None	None
+鋊	yu4	器物用久渐渐磨光	None	None
+⿰钅谷	None	=鋊的类推简化字	None	鋊
+𨧑	xing4	似钟而长	None	None
+鋝	lve4	量词 古重量单位 一鋝重六两又大半两，二十两为三鋝	None	None
+锊	None	=鋝的类推简化字	None	鋝
+鋢	None	=鋝的讹字	None	鋝
+鋖	si1	平木器 也作=鐁	None	鐁
+鋖	tuo2	化学元素“钕”的旧译	None	None
+鋡	han2	受，容纳	None	None
+⿰钅含	None	=鋡的类推简化字	None	鋡
+𨧓	None	同=銍	None	銍
 銽	None	录入中	None	None
 鋔	None	录入中	None	None
 鋒	None	录入中	None	None
