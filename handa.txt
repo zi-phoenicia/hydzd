@@ -56907,7 +56907,9 @@
 𥸡	gan3	竹名	None	None
 𥸡	gan3	箱类	None	None
 𥸣	shan4	竹名	None	None
-籲	None	录入中	None	None
+籲	yu4	呼喊；呼告	None	None
+籲	yu4	和谐；和顺	None	None
+⿰籥虒	None	同=篪	None	篪
 臼	jiu4	中部小凹的舂米器具	None	None
 臼	jiu4	臼状物 如：臼齿	None	None
 臼	jiu4	木名 乌桕 后作=桕	None	桕
@@ -57111,13 +57113,20 @@
 𦦽	fan4	量	None	None
 𦦽	fan4	盂	None	None
 𦧁	feng3	鬲的足架或支撑臼的架子 也作=𦦧	None	𦦧
-自	None	录入中	None	None
-𦣻	None	录入中	None	None
-𦣺	None	录入中	None	None
-臫	None	录入中	None	None
-𦣽	None	录入中	None	None
-𦣾	None	录入中	None	None
-𦣿	None	录入中	None	None
+自	zi4	鼻 呼吸和嗅觉器官	None	None
+自	zi4	始；开头	None	None
+自	zi4	代词 表示第一人称，相当于“自己”、“本身” 如：自爱；自给自足；自以为是	None	None
+自	zi4	因为，由于	None	None
+自	zi4	副词 1.本是；本来 2.另自 3.自然地，不借助外物 4.仍旧；依然	None	None
+自	zi4	介词 表示时间或方位的由始，相当于“从”、“由”	None	None
+自	zi4	连词 1.表示假设关系，相当于“如”、“若” 多与表示否定的词“非”、“不”连用 2.表示让步关系，相当于“虽”、“即使” 3.表示转折关系，相当于“却”、“可是”	None	None
+𦣻	shou3	同=首	None	首
+𦣻	bai3	同=百	None	百
+𦣺	None	同=白 禀告；陈述	None	白
+臫	None	同=𥃤(𥃧)	None	𥃤
+𦣽	None	同=惠	None	惠
+𦣾	wan3	姓	None	None
+𦣿	None	同=京	None	京
 𦤃	None	录入中	None	None
 𦤆	None	录入中	None	None
 臬	None	录入中	None	None
