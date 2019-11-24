@@ -79161,10 +79161,21 @@
 鎩	se4	铁把小矛 也作=鈒	None	鈒
 鎿	na2	放射性化学元素 符号Np，原子序数93，用中子轰击铀而得 银白色金属，化学性质与铀相似 最稳定的同位素^237Np的半衰期为214万年 (新拉neptunium)	None	None
 镎	None	=鎿的简化字	None	鎿
-鎐	None	录入中	None	None
-䤾	None	录入中	None	None
-鎗	None	录入中	None	None
-鎓	None	录入中	None	None
+鎐	yao2	酒器	None	None
+鎐	zu2	姓	None	None
+䤾	tao1	函	None	None
+⿰钅爱	None	=鑀的类推简化字	None	鑀
+鎗	cheng1	金、钟之声 字也作=鏘	None	鏘
+鎗	cheng1	鼎类	None	None
+鎗	cheng1	酒器	None	None
+鎗	qiang1	古代兵器，在长柄的一端装有金属尖头	None	None
+鎗	qiang1	火器，发射弹药的武器	None	None
+鎗	qiang1	茶叶的嫩芽	None	None
+鎗	qiang1	旧指考试时作弊，替别人做文章或答题	None	None
+鎗	qiang1	同=瑲 玉声	None	瑲
+鎗	qiang4	髹漆工艺的一种 如：鎗金，鎗银	None	None
+鎓	weng1	锹	None	None
+𬭩	None	=鎓的类推简化字	None	鎓
 鏠	None	录入中	None	None
 鎦	None	录入中	None	None
 镏	None	录入中	None	None
