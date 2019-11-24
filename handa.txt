@@ -78475,29 +78475,53 @@
 䤶	ye4	田器	None	None
 䤶	ye4	治甲器	None	None
 䤶	an1	温器	None	None
-𨧴	None	录入中	None	None
-𨧧	None	录入中	None	None
-錽	None	录入中	None	None
-𨧬	None	录入中	None	None
-錾	None	录入中	None	None
-錢	None	录入中	None	None
-𨨙	None	录入中	None	None
-䤵	None	录入中	None	None
-錖	None	录入中	None	None
-錹	None	录入中	None	None
-𨧥	None	录入中	None	None
-鋽	None	录入中	None	None
-𫓺	None	录入中	None	None
-𨨚	None	录入中	None	None
-鋿	None	录入中	None	None
-鍀	None	录入中	None	None
-锝	None	录入中	None	None
-錁	None	录入中	None	None
-锞	None	录入中	None	None
-錕	None	录入中	None	None
-锟	None	录入中	None	None
-錩	None	录入中	None	None
-鍆	None	录入中	None	None
+𨧴	None	=鋄的讹字	None	鋄
+𨧧	zhuo2	同=椓 敲；捶	None	椓
+錽	wan4	马头上的装饰，多作兽面形	None	None
+錽	jian3	在铜铁器上錾阴文，捶入金银丝	None	None
+𫓸	None	=錽的类推简化字	None	錽
+𨧬	None	同=𨥦	None	𨥦
+錾	None	=鏨的简化字	None	鏨
+⿰钅斩	None	=鏩的类推简化字	None	鏩
+錢	jian3	古农具名 臿属，似今之铁铲	None	None
+錢	qian2	金属货币 特指铜钱	None	None
+錢	qian2	货币	None	None
+錢	qian2	费用，款子 如：车钱；一笔钱	None	None
+錢	qian2	像铜钱的东西	None	None
+錢	qian2	量词 衡名 1.公制重量单位 一公斤的十分之一为一公两 一公两的十分之一为一公钱 2.市制重量单位 中国市制中计算质量和重量的一种单位 以前是一市斤的十六分之一（现在是十分之一）为一市两，一市两的十分之一为一市钱 3.旧营造库平制 两的十分之一为钱 一钱合三·七三〇一公分，合一·一九三六市钱	None	None
+錢	qian2	酒器 也作=盞	None	盞
+錢	qian2	姓	None	None
+𨨙	ya1	[𨨙鍜]也作“=錏鍜” 颈铠	None	錏
+䤵	fei4	小钉	None	None
+䤵	pi1	中医九针之一，即铍针	None	None
+䤵	fei1	同=扉 门扇	None	扉
+錖	du2	觼舌	None	None
+錹	ken3	化学元素=鈧的旧译	None	鈧
+𬭔	None	=鑡的类推简化字	None	鑡
+𨧥	xie1	化学元素“锆”的旧译	None	None
+鋽	diao4	烧器	None	None
+鋽	diao4	鉎鋽	None	None
+鋽	diao4	未炼的铁	None	None
+鋽	diao4	同=銚 小锅	None	銚
+𫓺	None	=鐪的类推简化字	None	鐪
+𨨚	chao3	鏊 烙饼的平底锅	None	None
+鋿	chang2	磨	None	None
+鋿	chang2	车轮绕铁	None	None
+鍀	de2	化学元素 符号Tc，原子序数43 银灰色金属 第一个人共获得的放射性元素（1937年） 最稳定的同位素半衰期为190万年，化学性质与铼相似 是良好的超导体，也用作钢铁的防锈材料 (新拉technetium)	None	None
+锝	None	=鍀的简化字	None	鍀
+錁	guo3	同=輠 车上盛润滑油的器具	None	輠
+錁	guo3	镰	None	None
+錁	guo3	车锞角	None	None
+錁	guo3	化学元素=鎵的旧译	None	鎵
+錁	kua3	同=銙 古代附于腰带上的扣板	None	銙
+錁	ke4	金银铸成的小锭，形状像小馒头，重量一二两到三五两不等	None	None
+锞	None	=錁的简化字	None	錁
+錕	kun1	[錕鋙]又作“=昆吾”、“錕鋘”	None	昆
+錕	gun3	车釭	None	None
+錕	gun3	滚边	None	None
+锟	None	=錕的简化字	None	錕
+錩	chang1	器名	None	None
+鍆	men2	化学元素 符号Md，原子序数101 1955年由人工获得 具强放射性 最稳定的同位素半衰期为55天 (新拉mendelevium)	None	None
 錫	None	录入中	None	None
 锡	None	录入中	None	None
 錪	None	录入中	None	None
