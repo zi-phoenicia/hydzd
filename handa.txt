@@ -78578,35 +78578,73 @@
 錗	nei4	侧意	None	None
 錗	zhui4	器名	None	None
 錗	wei4	悬	None	None
-錐	None	录入中	None	None
-锥	None	录入中	None	None
-錦	None	录入中	None	None
-锦	None	录入中	None	None
-錍	None	录入中	None	None
-锧	None	录入中	None	None
-鍁	None	录入中	None	None
-锨	None	录入中	None	None
-𨨝	None	录入中	None	None
-鍂	None	录入中	None	None
-錀	None	录入中	None	None
-𨨞	None	录入中	None	None
-𨨜	None	录入中	None	None
-錜	None	录入中	None	None
-𫓻	None	录入中	None	None
-𨨟	None	录入中	None	None
-錋	None	录入中	None	None
-錭	None	录入中	None	None
-錉	None	录入中	None	None
-鋾	None	录入中	None	None
-錎	None	录入中	None	None
-鍃	None	录入中	None	None
-锪	None	录入中	None	None
-𨨠	None	录入中	None	None
-鍄	None	录入中	None	None
-𨱉	None	录入中	None	None
-錞	None	录入中	None	None
-䤳	None	录入中	None	None
-錊	None	录入中	None	None
+錐	zhui1	锐，利	None	None
+錐	zhui1	锥子，钻孔的工具	None	None
+錐	zhui1	用锥刺	None	None
+錐	zhui1	针	None	None
+錐	zhui1	锥形物	None	None
+錐	zhui1	数学名词 锥面与截锥面之平面间之立体，谓之锥	None	None
+锥	None	=錐的简化字	None	錐
+錦	jin3	用彩色经纬丝织出各种图案花纹的丝织品	None	None
+錦	jin3	鲜艳华美 如：锦霞；锦藻	None	None
+錦	jin3	古指锦袍，引申为奖赏	None	None
+錦	jin3	旧时书信中的敬辞 如：锦念	None	None
+錦	jin3	古州名 辽太祖置，治所在永乐县（今辽宁省锦州市）	None	None
+錦	jin3	旧县名 在辽宁省西南部 1993年撤销，改设凌海市	None	None
+錦	jin3	姓	None	None
+锦	None	=錦的简化字	None	錦
+錍	bei1	短斧	None	None
+錍	pi1	箭镞名 也作=鈚	None	鈚
+錍	pi1	古酒器 形似壶，敞口，短颈，鼓腹扁圆	None	None
+錍	pi1	同=鈚 犁刃	None	鈚
+錍	bi1	同=鎞 钗	None	鎞
+錍	pi2	臿属	None	None
+⿰钅卑	None	=錍的类推简化字	None	錍
+锧	None	=鑕的简化字	None	鑕
+鍁	xian1	掘土或铲东西用的工具 如：铁锹；木锹	None	None
+锨	None	=鍁的简化字	None	鍁
+𨨝	None	人名用字	None	None
+鍂	None	同=鉛	None	鉛
+錀	lun2	金	None	None
+錀	lun2	放射性化学元素 符号Rg 原子序数111 用重离子轰击法人工合成而得 (新拉roentgenium)	None	None
+錀	fen1	兔奄錀	None	None
+𨨞	None	同=斧	None	斧
+𨨜	ru3	钝	None	None
+錜	nie4	小钗 插在鬓边的首饰	None	None
+錜	nie4	小钉	None	None
+𫓻	None	=錜的类推简化字	None	錜
+𨨟	None	同=鍯(鏓)	None	鍯
+錋	peng2	兵器	None	None
+錋	beng4	方言 錋子 旧时用的一种黄铜币，也指小形的硬币	None	None
+𬭖	None	=錋的类推简化字	None	錋
+錭	tao1	钝	None	None
+錭	diao1	同=雕(彫) 雕刻	None	雕
+𬭕	None	=錭的类推简化字	None	錭
+錉	min2	同=鍲 业，今所谓本钱	None	鍲
+鋾	tao2	鋾铸	None	None
+鋾	tao2	𨪈钝	None	None
+鋾	tao2	同=錭 钝	None	錭
+⿰钅匋	None	=鋾的类推简化字	None	鋾
+錎	xian4	连镮	None	None
+錎	xian4	陷，沉下	None	None
+錎	gan4	炉属	None	None
+錎	qian4	金银丝饰铁	None	None
+鍃	huo4	[鍃孔]简称“鍃” 在车床、钻床等机床上涌鍃钻或鍃刀对工件上已加工的孔刮平端面或切出锥形、圆柱形沉孔的加工方法	None	None
+锪	None	=鍃的类推简化字	None	鍃
+𨨠	ju1	同=鋦 用锔子补接器物	None	鋦
+鍄	liang4	一种打击乐器	None	None
+𨱉	None	=鍄的类推简化字	None	鍄
+錞	dui4	矛㦸柄下端的平底金属套	None	None
+錞	dui4	古祭器 器盖相合如球状，各有二环为耳，三环为足，俗称“西瓜鼎” 传世有陈侯午錞等	None	None
+錞	dui4	低下	None	None
+錞	chun2	錞于，古乐器 青铜制，形如圆筒，上大下小，顶上多虎形钮，可悬挂，以物击之而鸣 常与鼓配合，用于战争中指挥进退 盛行于东周至汉代	None	None
+錞	chun2	依附	None	None
+錞	chun2	通=準(zhun3) 依据	None	準
+錞	duo4	通=幬 覆盖	None	幬
+𬭚	None	=錞的类推简化字	None	錞
+䤳	ye4	镜	None	None
+錊	zui4	炼；炼铁	None	None
+錊	zu2	姓	None	None
 錇	None	录入中	None	None
 锫	None	录入中	None	None
 𨨡	None	录入中	None	None
