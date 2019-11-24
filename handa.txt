@@ -78522,25 +78522,62 @@
 锟	None	=錕的简化字	None	錕
 錩	chang1	器名	None	None
 鍆	men2	化学元素 符号Md，原子序数101 1955年由人工获得 具强放射性 最稳定的同位素半衰期为55天 (新拉mendelevium)	None	None
-錫	None	录入中	None	None
-锡	None	录入中	None	None
-錪	None	录入中	None	None
-錮	None	录入中	None	None
-锢	None	录入中	None	None
-錌	None	录入中	None	None
-锣	None	录入中	None	None
-錔	None	录入中	None	None
-鋼	None	录入中	None	None
-鍋	None	录入中	None	None
-𨧳	None	录入中	None	None
-錘	None	录入中	None	None
-锤	None	录入中	None	None
-𨧰	None	录入中	None	None
-𨧭	None	录入中	None	None
-𨨛	None	录入中	None	None
-𫓼	None	录入中	None	None
-錅	None	录入中	None	None
-錗	None	录入中	None	None
+錫	xi1	化学元素 符号Sn，原子序数50 纯锡为银白色，富有延展性，在空气中不易其变化，多用来镀铁、焊接金属或制造合金 (新拉stannum)	None	None
+錫	xi1	僧人所用锡杖的省称	None	None
+錫	xi1	与	None	None
+錫	xi1	通=賜(ci4) 赐予	None	賜
+錫	xi1	通=緆 细布	None	緆
+錫	xi1	姓	None	None
+錫	ti4	通=鬄 假发	None	鬄
+锡	None	=錫的简化字	None	錫
+錪	tian3	炊器，釜	None	None
+錪	tun3	重	None	None
+錮	gu4	用金属熔液填塞空隙	None	None
+錮	gu4	禁止（出任官职）	None	None
+錮	gu4	囚禁；监禁	None	None
+錮	gu4	封闭；关闭	None	None
+錮	gu4	束缚；闭塞	None	None
+錮	gu4	坚固	None	None
+錮	gu4	专取；独占	None	None
+錮	gu4	通=痼 1.顽疾 2.长期养成难以改掉的（癖好或习惯）	None	痼
+锢	None	=錮的简化字	None	錮
+錌	an4	柔铁	None	None
+锣	None	=鑼的简化字	None	鑼
+錔	ta4	金属套	None	None
+錔	ta4	套；裹	None	None
+⿰钅沓	None	=錔的类推简化字	None	錔
+鋼	gang1	铁和碳的合金 比生铁坚韧，比熟铁质硬	None	None
+鋼	gang4	坚，精	None	None
+鋼	gang4	把刀放在布、皮、石头等上面磨，使其锋利 如：钢刀布；把刀钢一钢	None	None
+鋼	gang4	在用钝了的刀口上加上钢，重新打造，使更锋利	None	None
+鍋	guo1	车釭	None	None
+鍋	guo1	盛膏器	None	None
+鍋	guo1	烹煮食物的器具 如：铁锅；铝锅；沙锅等	None	None
+鍋	guo1	形状像锅的东西	None	None
+鍋	guo3	同=鐹 镰刀	None	鐹
+𨧳	chi4	同=銐 除草器	None	銐
+錘	chui2	古重量单位 1.八铢 2.十二两 3.六铢	None	None
+錘	chui2	同=鎚 古兵器名 柄的上头有一个金属圆球 如：铜锤	None	鎚
+錘	chui2	秤砣	None	None
+錘	chui2	锤形物	None	None
+錘	chui2	捶击具 如：钉锤	None	None
+錘	chui2	锻打；敲击	None	None
+錘	chui2	垂挂	None	None
+錘	chui2	重	None	None
+錘	chui2	侧意	None	None
+錘	chui2	铜半熟	None	None
+錘	chui2	晖	None	None
+錘	chui2	古县名 在今山东省文登市西	None	None
+锤	None	=錘的简化字	None	錘
+𨧰	zu2	姓	None	None
+𨧭	zheng4	同=證 验证	None	證
+𨨛	he2	饮酒器 形似敛口的椭圆形或椭方形罐，平底，一侧有耳可执，流行于春秋、战国时期	None	None
+𨨛	he2	战国时代田氏代齐以后齐国的铜制官定量器 1857年出土于山东省胶州市灵山卫古城 器作半球形，口上有流 器腹外有铭文“左關之𨨛”两行四字	None	None
+𫓼	None	=𨨛的类推简化字	None	𨨛
+錅	None	同=鑗	None	鑗
+錗	nei4	侧意	None	None
+錗	zhui4	器名	None	None
+錗	wei4	悬	None	None
 錐	None	录入中	None	None
 锥	None	录入中	None	None
 錦	None	录入中	None	None
