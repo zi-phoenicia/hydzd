@@ -79580,29 +79580,51 @@
 䥘	None	同=錯	None	錯
 䥚	None	同=初	None	初
 镥	None	=鑥的简化字	None	鑥
-鐓	None	录入中	None	None
-镦	None	录入中	None	None
-鐜	None	录入中	None	None
-𨭉	None	录入中	None	None
-鐘	None	录入中	None	None
-𨬙	None	录入中	None	None
-镧	None	录入中	None	None
-鐥	None	录入中	None	None
-䦅	None	录入中	None	None
-鐠	None	录入中	None	None
-镨	None	录入中	None	None
-鏻	None	录入中	None	None
-鐏	None	录入中	None	None
-𨱔	None	录入中	None	None
-䥖	None	录入中	None	None
-鐩	None	录入中	None	None
-鏳	None	录入中	None	None
-𨭊	None	录入中	None	None
-鐒	None	录入中	None	None
-鐋	None	录入中	None	None
-𨭋	None	录入中	None	None
-镩	None	录入中	None	None
-鐞	None	录入中	None	None
+鐓	dui4	同=錞 矛㦸柄末的平底金属套	None	錞
+鐓	dui4	置物地上	None	None
+鐓	dui1	下垂	None	None
+鐓	dui1	打夯用的重锤	None	None
+鐓	dun1	同=驐 阉割	None	驐
+鐓	dun1	冲压金属板，使其变形，不加热叫冷镦，加热叫热镦	None	None
+镦	None	=鐓的简化字	None	鐓
+鐜	dui1	同=鐓	None	鐓
+鐜	dun1	同=驐 阉割	None	驐
+𨭉	ban1	文武全才	None	None
+鐘	zhong1	古代的一种打击乐器 中空，用铜或铁制成 悬挂在架上用槌叩击发音 钟的形制，从商钲衍变而来，开始用手持而击，故柄在下而口在上；后悬之于虡，以槌击之，故甬在上而口在下 也作=鍾	None	鍾
+鐘	zhong1	专指佛寺悬挂的钟，梵语叫“犍椎”、“犍稚” 用以作报时、报警、集合的信号	None	None
+鐘	zhong1	计时器，报时器 有挂在墙上的，如挂钟；有放在桌上的，如座钟	None	None
+鐘	zhong1	指时间、钟点	None	None
+鐘	zhong1	古容量单位	None	None
+鐘	zhong1	姓 也作=鍾	None	鍾
+𨬙	None	同=鏑	None	鏑
+镧	None	=鑭的简化字	None	鑭
+鐥	shan4	齐头䦅，淮北地区捻军仿照䦅刀形式所改制的一种兵器	None	None
+鐥	shan4	同=釤 一种长把大镰刀 如：䦅子；䦅刀	None	釤
+鐥	shan4	抡开镰刀或钐镰大片地割 如：䦅草；䦅麦	None	None
+䦅	None	=鐥的简化字	None	鐥
+鐠	pu1	化学元素 稀土元素之一 符号Pr，原子序数59 银灰色金属，易溶于盐酸和硝酸 用于制造特种合金和特种玻璃 (新拉praseodymium)	None	None
+镨	None	=鐠的简化字	None	鐠
+鏻	lin2	同=獜 健	None	獜
+鏻	lin2	化学名词 一类具有R_4PX通式的含磷有机化合物的总称（R为烃基，X为羟基等），如(CH_3)_4POH（氢氧化四𬭸）等 (拉丁phosphonium)	None	None
+𬭸	None	=鏻的类推简化字	None	鏻
+鐏	zun1	戈柄下端圆锥形的金属套，可以插入地中 矛㦸柄末的金属套也通称鐏	None	None
+鐏	zun1	盛酒器	None	None
+鐏	zun1	农器	None	None
+鐏	zun1	姓	None	None
+𨱔	None	=鐏的类推简化字	None	鐏
+䥖	None	同=鈿	None	鈿
+⿰钅奠	None	=䥖的类推简化字	None	䥖
+鐩	None	同=鐆(䥙)	None	鐆
+鏳	cheng1	象声词 金属或玉器相撞击的声音 也作=琤、=錚	None	琤
+𨭊	None	@	None	None
+鐒	lao2	同=𨦭	None	𨦭
+鐒	lao2	化学元素 符号Lr，原子序数103 具强放射性 1961年由人工获得的放射性元素 寿命最长的同位数^260Lr，半衰期约3分钟 (新拉lawrencium)	None	None
+鐋	tang4	平木石器	None	None
+鐋	tang4	热酒	None	None
+鐋	tang1	乐器，小铜锣	None	None
+𨭋	None	同=鑏	None	鑏
+镩	None	=鑹的简化字	None	鑹
+鐞	None	同=鎒	None	鎒
 𨬖	None	录入中	None	None
 鏹	None	录入中	None	None
 镪	None	录入中	None	None
