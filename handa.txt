@@ -79763,10 +79763,13 @@
 ⿰钅麀	None	=䥝的类推简化字	None	䥝
 鐿	yi4	化学元素 稀土元素之一 符号Yb，原子序数70 银白色金属，质软，用制特种合金 主要性质和用途与镧相似 (新拉ytterbium)	None	None
 镱	None	=鐿的简化字	None	鐿
-𨭙	None	录入中	None	None
-𨮄	None	录入中	None	None
-鏽	None	录入中	None	None
-鐴	None	录入中	None	None
+䥥	None	同=鐮	None	鐮
+𨭙	None	同=鍵	None	鍵
+𨮄	None	=鑣的讹字	None	鑣
+鏽	xiu4	金属表面所生的氧化物 后作=銹	None	銹
+鏽	xiu4	通=肅(su4) 恭敬	None	肅
+鐴	bi4	犁耳 装在铧或鑱上的铁板，使被耕开的土壤破碎和翻转 汉代铁犁鐴，有菱形、板瓦形、马鞍形等	None	None
+鐴	bei4	把刀在布、皮、石头等上面反复磨擦，使锋利 如：鐴刀；鐴刀布	None	None
 鐾	None	录入中	None	None
 𨮅	None	录入中	None	None
 䥫	None	录入中	None	None
