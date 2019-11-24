@@ -79654,21 +79654,34 @@
 鐖	ji1	钩上的倒刺	None	None
 鐖	ji1	机括	None	None
 鐖	qi2	大镰刀	None	None
-𨭟	None	录入中	None	None
-鐵	None	录入中	None	None
-𨭸	None	录入中	None	None
-䥢	None	录入中	None	None
-鑉	None	录入中	None	None
-䥬	None	录入中	None	None
-𨮒	None	录入中	None	None
-鑊	None	录入中	None	None
-镬	None	录入中	None	None
-鑝	None	录入中	None	None
-𨭹	None	录入中	None	None
-𨭺	None	录入中	None	None
-𨭻	None	录入中	None	None
-𨭚	None	录入中	None	None
-𨭼	None	录入中	None	None
+𨭟	None	同=鏚	None	鏚
+鐵	tie3	化学元素 符号Fe 原子序数26 质坚硬，有光泽，延展性良好，磁化和去磁都很快 化合价一般为+2价和+3价 含有杂质的铁在潮湿空气中易生锈 纯铁灰白色，受氧化后表面可产生一层四氧化三铁薄膜，呈蓝黑色，故古人称为“黑金”，为“五金”之一 铁用途极广，可以炼钢，制造各种器械、用具等 (新拉ferrum)	None	None
+鐵	tie3	铁制器物 多指兵器、农具	None	None
+鐵	tie3	像铁的颜色	None	None
+鐵	tie3	喻确定不移 如：铁定；铁证	None	None
+鐵	tie3	喻坚硬；刚劲；强暴 如：铁拳；铁骑	None	None
+鐵	tie3	赤黑色的马 后作=驖	None	驖
+鐵	tie3	古丘名 春秋时卫地 在今河南省濮阳市北	None	None
+鐵	tie3	姓	None	None
+鐵	die2	利铁	None	None
+𨭸	None	@	None	None
+䥢	long2	同=𪔳 鼓声	None	𪔳
+䥢	qi1	守夜鼓	None	None
+鑉	he2	[鑉鑪]即“=鉀鑪” 箭名	None	鉀
+鑉	he2	化学元素“铍”的旧译	None	None
+䥬	None	同=鑮	None	鑮
+𨮒	meng4	重环	None	None
+鑊	huo2	古时指无足的鼎，用以煮肉及鱼腊等物	None	None
+鑊	huo2	锅	None	None
+鑊	huo2	煮 也作=濩	None	濩
+镬	None	=鑊的简化字	None	鑊
+鑝	peng2	首著兜𫓴	None	None
+𨭹	None	同=钀	None	钀
+𨭺	jin1	箭头	None	None
+𨭻	None	同=證	None	證
+𨭚	None	同=鏢	None	鏢
+𬭺	None	=𨭚的类推简化字	None	𨭚
+𨭼	None	同=鐐	None	鐐
 鐳	None	录入中	None	None
 镭	None	录入中	None	None
 䥤	None	录入中	None	None
