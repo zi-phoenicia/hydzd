@@ -79077,56 +79077,90 @@
 鏈	lian2	量词 国际上通用的海上长度单位 1链等于185.2米，10链为一海里	None	None
 鏈	lian2	矿	None	None
 鏈	lian4	用金属环连结而成的长条 如：表链；锁链	None	None
-鎛	None	录入中	None	None
-镈	None	录入中	None	None
-𨪎	None	录入中	None	None
-鎶	None	录入中	None	None
-鎘	None	录入中	None	None
-镉	None	录入中	None	None
-鎒	None	录入中	None	None
-䥄	None	录入中	None	None
-𨪳	None	录入中	None	None
-𨪴	None	录入中	None	None
-𨪑	None	录入中	None	None
-鎼	None	录入中	None	None
-鎖	None	录入中	None	None
-鎲	None	录入中	None	None
-镋	None	录入中	None	None
-鏎	None	录入中	None	None
-𨪵	None	录入中	None	None
-鎤	None	录入中	None	None
-𨪶	None	录入中	None	None
-鎉	None	录入中	None	None
-𨪒	None	录入中	None	None
-鎧	None	录入中	None	None
-鎠	None	录入中	None	None
-𫔆	None	录入中	None	None
-䤽	None	录入中	None	None
-鎎	None	录入中	None	None
-𨪔	None	录入中	None	None
-𨪹	None	录入中	None	None
-𨪺	None	录入中	None	None
-𨪗	None	录入中	None	None
-鎥	None	录入中	None	None
-鏅	None	录入中	None	None
-𨪼	None	录入中	None	None
-鎨	None	录入中	None	None
-鎸	None	录入中	None	None
-镌	None	录入中	None	None
-𨪽	None	录入中	None	None
-鎳	None	录入中	None	None
-镍	None	录入中	None	None
-鎴	None	录入中	None	None
-鎢	None	录入中	None	None
-鎞	None	录入中	None	None
-𫔇	None	录入中	None	None
-鎫	None	录入中	None	None
-𨪾	None	录入中	None	None
-𨪉	None	录入中	None	None
-鎜	None	录入中	None	None
-鎩	None	录入中	None	None
-鎿	None	录入中	None	None
-镎	None	录入中	None	None
+鎛	bo2	锄类农具	None	None
+鎛	bo2	古代乐器 青铜制 形似钟而口缘平，有纽，单独悬挂，以槌叩之而鸣 盛行于东周时代 文献中也称为=鑮 自铭卫鎛的有“𦅫鎛”、“曾侯鎛”	None	鑮
+鎛	bo2	小钟	None	None
+鎛	bo2	古代悬钟横木上所雕龙蛇之类涂金的饰物	None	None
+鎛	bo2	铺饰；涂饰	None	None
+镈	None	=鎛的类推简化字	None	鎛
+𨪎	yu4	温器 也作=䥝	None	䥝
+鎶	ge1	化学元素“铌”的旧译	None	None
+鎘	li4	同=鬲 古代炊具	None	鬲
+鎘	ge2	化学元素 符号Cd，原子序数48 银白色，延展性强，溶于酸，易吸收中子，可做成棒，用来控制反应堆 和铅、锡等制成的易熔合金，可做电路的保险丝等 镉的烟尘和化合物毒性均大 (新拉cadmium)	None	None
+镉	None	=鎘的简化字	None	鎘
+鎒	nou4	同=槈(耨)	None	槈
+鎒	hao1	薅，除草	None	None
+𬭦	None	=鎒的类推简化字	None	鎒
+䥄	cu4	金涂	None	None
+䥄	cu4	地名	None	None
+䥄	cu4	姓	None	None
+𨪳	None	同=𨨰	None	𨨰
+𨪴	None	同=鑙	None	鑙
+𨪑	chan3	平木器	None	None
+𨪑	chan3	同=鏟	None	鏟
+鎼	None	同=罅	None	罅
+𮣶	None	=鑢的类推简化字	None	鑢
+⿰钅监	None	=鑑的类推简化字	None	鑑
+鎖	suo3	置于可启闭的器物上，以钥匙或暗码打开的封缄器	None	None
+鎖	suo3	链子	None	None
+鎖	suo3	以铁环勾连而成的刑具	None	None
+鎖	suo3	束缚	None	None
+鎖	suo3	锁上；套上	None	None
+鎖	suo3	封闭	None	None
+鎖	suo3	紧皱（眉头）	None	None
+鎖	suo3	一种缝纫法 如：锁边；锁扣眼	None	None
+鎖	suo3	姓	None	None
+鎲	None	同=钂	None	钂
+镋	None	=钂的简化字	None	钂
+鏎	bi4	同=畢 古代写信的竹简	None	畢
+𨪵	None	人名用字	None	None
+鎤	huang3	钟声	None	None
+𨪶	yan4	化学元素=銦的旧译	None	銦
+鎉	da2	金鎉	None	None
+鎉	da2	鎉钩	None	None
+鎉	ta4	化学元素=鉈的旧译	None	鉈
+𨪒	tuan2	酒器	None	None
+鎧	kai3	古代军用护身服，以金属薄片缀成	None	None
+鎧	kai3	化学元素=銫的旧译	None	銫
+鎠	None	同=鋼	None	鋼
+𫔆	None	=䥯的类推简化字	None	䥯
+䤽	guan1	犁铧	None	None
+鎎	kai4	怒战；愤怒	None	None
+𨪔	None	同=證	None	證
+𨪹	li4	@	None	None
+𨪺	cha1	鍫	None	None
+𨪗	zhui4	曲刀	None	None
+鎥	tiao2	金石	None	None
+鏅	xiu1	铤	None	None
+鏅	xiu4	锻	None	None
+𨪼	None	同=錘	None	錘
+鎨	sun3	金之萌生	None	None
+鎸	None	同=鐫	None	鐫
+镌	None	=鎸的简化字	None	鎸
+𨪽	None	同=鍠	None	鍠
+鎳	nie4	化学元素 符号Ni，原子序数28 银白色金属，质坚硬，可塑性良好，稍有磁性 在空气中不被氧化，但溶于硝酸 主要用于制不锈钢、铬镍钢、镍钢及各种有色金属合金 也用于电镀，制碱性蓄电池、变阻器和电热器等 我国在公元前1世纪已使用镍的合金——白铜 (新拉niccolum)	None	None
+镍	None	=鎳的简化字	None	鎳
+鎴	xi2	化学元素=鍶的旧译	None	鍶
+鎢	wu1	[鎢錥]小釜	None	None
+鎢	wu1	化学元素 符号W，原子序数74 灰色或棕黑色，硬度高，延性强，常温下不受空气侵蚀，是最难熔的金属（熔点3410℃±20℃），主要用途是制造灯丝和高速切削合金钢，也用于光学仪器、化学仪器方面 (新拉wolfram)	None	None
+鎞	bi1	钗	None	None
+鎞	bi1	古时医生用以治眼病的器械	None	None
+鎞	pi1	同=鈚 犁刃	None	鈚
+鎞	pi1	同=錍(鈚) 箭镞的一种	None	錍
+𫔇	None	=鎞的类推简化字	None	鎞
+鎫	None	同=鋄	None	鋄
+𨪾	None	同=𨪉	None	𨪉
+𨪉	ti2	器	None	None
+𨪉	ti2	釜属	None	None
+鎜	pan2	承盘；盘子 后作=槃(盤)	None	槃
+鎩	sha1	铍有镡	None	None
+鎩	sha1	长刃矛	None	None
+鎩	sha1	摧残；伤害（羽翅）	None	None
+鎩	sha1	（飞鸟）张翼	None	None
+鎩	sha1	化学元素=釤的旧译	None	釤
+鎩	se4	铁把小矛 也作=鈒	None	鈒
+鎿	na2	放射性化学元素 符号Np，原子序数93，用中子轰击铀而得 银白色金属，化学性质与铀相似 最稳定的同位素^237Np的半衰期为214万年 (新拉neptunium)	None	None
+镎	None	=鎿的简化字	None	鎿
 鎐	None	录入中	None	None
 䤾	None	录入中	None	None
 鎗	None	录入中	None	None
