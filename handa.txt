@@ -78648,16 +78648,20 @@
 錇	pou2	[錇鏂]钉名	None	None
 錇	fu2	[錇鏂]也作“=鉜鏂” 大钉	None	鉜
 錇	pei2	化学元素 符号Bk，原子序数97 1949年由人工获得，具强放射性 最稳定的同位素的半衰期为1.4×10^3年 (新拉berkelium)	None	None
-锫	None	录入中	None	None
-𨨡	None	录入中	None	None
-𨧲	None	录入中	None	None
-錥	None	录入中	None	None
-𫓾	None	录入中	None	None
-錈	None	录入中	None	None
-锩	None	录入中	None	None
-𨨢	None	录入中	None	None
-錟	None	录入中	None	None
-锬	None	录入中	None	None
+锫	None	=錇的简化字	None	錇
+𨨡	wu1	=鎢的讹字	None	鎢
+𨨡	wu1	化学元素=鈾的旧译	None	鈾
+𨧲	None	同=鍱	None	鍱
+錥	yu4	[鎢錥]见“鎢”	None	None
+𫓾	None	=錥的类推简化字	None	錥
+錈	juan3	刀剑锋屈	None	None
+锩	None	=錈的类推简化字	None	錈
+𨨢	None	人名用字	None	None
+錟	tan2	长矛	None	None
+錟	xian1	同=銛 锸属	None	銛
+錟	xian1	通=剡 锋利	None	剡
+錟	yan3	利刃	None	None
+锬	None	=錟的类推简化字	None	錟
 𨨏	None	录入中	None	None
 錃	None	录入中	None	None
 錝	None	录入中	None	None
