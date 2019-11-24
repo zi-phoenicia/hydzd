@@ -78662,7 +78662,8 @@
 錟	xian1	通=剡 锋利	None	剡
 錟	yan3	利刃	None	None
 锬	None	=錟的类推简化字	None	錟
-𨨏	None	录入中	None	None
+𨨏	bo1	放射性化学元素 符号Bh，原子序数107 化学性质应近似铼 由重离子轰击法人工合成而得 质量数为262的同位素，半衰期为4.7毫秒 (新拉bohrium)	None	None
+𬭛	None	=𨨏的类推简化字	None	𨨏
 錃	None	录入中	None	None
 錝	None	录入中	None	None
 𫓽	None	录入中	None	None
