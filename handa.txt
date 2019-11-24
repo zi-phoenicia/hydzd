@@ -79478,15 +79478,26 @@
 鐽	da2	放射性化学元素 符号Ds 原子序数110 由重离子轰击法人工合成而得 质量数为280的同位素，半衰期为7.4秒 (新拉darmstadtium)	None	None
 鐚	ya1	[鐚鍜]也作“=錏鍜” 颈铠	None	錏
 鐁	si1	平木器	None	None
-𨭀	None	录入中	None	None
-鐷	None	录入中	None	None
-鏾	None	录入中	None	None
-𫔌	None	录入中	None	None
-䥠	None	录入中	None	None
-鐂	None	录入中	None	None
-𨭛	None	录入中	None	None
-𨬟	None	录入中	None	None
-鏸	None	录入中	None	None
+⿰钅斯	None	=鐁的类推简化字	None	鐁
+𨭀	None	同=鎘	None	鎘
+鐷	None	同=鍱	None	鍱
+鏾	san3	弩	None	None
+鏾	san3	弩机松弛	None	None
+鏾	xian3	阉割雄鸡的睾丸	None	None
+鏾	sa4	化学元素=釤的旧译	None	釤
+𫔌	None	=鏾的类推简化字	None	鏾
+䥠	None	同=鍼(針)	None	鍼
+鐂	None	同=鎦	None	鎦
+𨭛	la4	同=鑞	None	鑞
+𨭛	ge3	化学元素=釓的旧译	None	釓
+⿰钅葛	None	=𨭛的类推简化字	None	𨭛
+𨬟	gu1	[鏷𨬟]箭名 亦作“僕=姑”、“僕𨬟”	None	姑
+⿰钅辜	None	=𨬟的类推简化字	None	𨬟
+鏸	hui4	锐	None	None
+鏸	hui4	同=惠 三棱矛	None	惠
+鏸	sui4	大鼎 也作=鏏	None	鏏
+鏸	rui4	古代侍臣所执的兵器 矛属 也作=鈗	None	鈗
+⿰钅惠	None	=鏸的类推简化字	None	鏸
 鐔	None	录入中	None	None
 镡	None	录入中	None	None
 䥔	None	录入中	None	None
