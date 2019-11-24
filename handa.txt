@@ -79317,34 +79317,50 @@
 鏜	tang1	以铁贯物	None	None
 鏜	tang1	乐器名，即小镗锣	None	None
 鏜	tang2	加工机械零件内孔的一种方法，工件固定在工作台上，刀具装在镗杆上伸入孔内旋转切削	None	None
-镗	None	录入中	None	None
-鏛	None	录入中	None	None
-𨭄	None	录入中	None	None
-鏤	None	录入中	None	None
-鏝	None	录入中	None	None
-镘	None	录入中	None	None
-鏍	None	录入中	None	None
-𨫘	None	录入中	None	None
-𨫑	None	录入中	None	None
-鏙	None	录入中	None	None
-鏰	None	录入中	None	None
-镚	None	录入中	None	None
-鐹	None	录入中	None	None
-鏫	None	录入中	None	None
-𨫙	None	录入中	None	None
-𨫖	None	录入中	None	None
-鏓	None	录入中	None	None
-鏦	None	录入中	None	None
-鏭	None	录入中	None	None
-𨪐	None	录入中	None	None
-𨫗	None	录入中	None	None
-鐌	None	录入中	None	None
-𨭈	None	录入中	None	None
-𨬇	None	录入中	None	None
-𨫚	None	录入中	None	None
-䥋	None	录入中	None	None
-鏣	None	录入中	None	None
-鏮	None	录入中	None	None
+鏛	None	同=鋿	None	鋿
+𨭄	None	同=飴 ……按：……疑为=𩞫	None	飴
+鏤	lou4	刚铁	None	None
+鏤	lou4	雕刻	None	None
+鏤	lou4	雕金为饰	None	None
+鏤	lou4	釜 烹饪用的锅	None	None
+鏤	lou4	疏通	None	None
+鏤	lou4	通=漏 孔穴	None	漏
+鏤	lou4	姓	None	None
+鏤	lv2	[屬鏤]剑名	None	None
+鏝	man4	泥工涂墙的工具	None	None
+鏝	man4	涂饰	None	None
+鏝	man4	钱币的背面	None	None
+鏝	man4	铜钱；钱钞	None	None
+镘	None	=鏝的简化字	None	鏝
+鏍	None	同=𨰠	None	𨰠
+𨫘	None	同=鍔	None	鍔
+𨫑	None	同=鐶	None	鐶
+鏙	cui1	[鏙錯]1.间杂貌 2.鳞甲貌	None	None
+⿰钅崔	None	=鏙的类推简化字	None	鏙
+鏰	beng4	[鏰子]方言，原指清末不带孔的小铜币，十个当一个铜元，现在把小形的硬币叫钢镚子或钢镚儿 也说镚儿	None	None
+镚	None	=鏰的简化字	None	鏰
+鐹	guo3	刈𠛎，即镰刀	None	None
+鐹	guo1	见=鍋	None	鍋
+鏫	li2	[𨪏鏫]见“𨪏”	None	None
+𨫙	None	同=鍑	None	鍑
+𨫖	None	=鐋的讹字	None	鐋
+鏓	zong3	[鎗鏓]钟声	None	None
+鏓	zong3	大凿中木	None	None
+⿰钅悤	None	=鏓的类推简化字	None	鏓
+鏦	cong1	矛；小矛	None	None
+鏦	cong1	用矛戟撞刺	None	None
+鏦	cong1	古代一种有方形柄孔的斧子	None	None
+鏦	cong1	通=摐(chuang1) 撞击（钟鼓）	None	摐
+鏭	xi1	化学元素=銫的旧译	None	銫
+𨫗	None	佛名	None	None
+鐌	xiang3	鐌鼻，器饰 一说器钮	None	None
+鐌	xiang3	锦名	None	None
+𨭈	None	同=錨	None	錨
+𨬇	None	同=䥍	None	䥍
+𨫚	None	同=錞	None	錞
+䥋	peng1	炼金	None	None
+鏣	shu4	器名	None	None
+鏮	kang1	化学元素=鈧的旧译	None	鈧
 鏞	None	录入中	None	None
 镛	None	录入中	None	None
 鏕	None	录入中	None	None
