@@ -79977,34 +79977,48 @@
 鑱	chan2	雕刻；錾凿	None	None
 鑱	chan2	掘	None	None
 镵	None	=鑱的类推简化字	None	鑱
-鑲	None	录入中	None	None
-镶	None	录入中	None	None
-𨰅	None	录入中	None	None
-鑳	None	录入中	None	None
-𨰆	None	录入中	None	None
-𨰋	None	录入中	None	None
-䥸	None	录入中	None	None
-鑷	None	录入中	None	None
-𨰌	None	录入中	None	None
-𨰤	None	录入中	None	None
-𨰒	None	录入中	None	None
-𨰛	None	录入中	None	None
-鑺	None	录入中	None	None
-𨰎	None	录入中	None	None
-𨰏	None	录入中	None	None
-鑸	None	录入中	None	None
-𨰍	None	录入中	None	None
-鑴	None	录入中	None	None
-𫔔	None	录入中	None	None
-𨰉	None	录入中	None	None
-𨰓	None	录入中	None	None
-𨯺	None	录入中	None	None
-𨰐	None	录入中	None	None
-𨰊	None	录入中	None	None
-鑹	None	录入中	None	None
-鑻	None	录入中	None	None
-𨰟	None	录入中	None	None
-鑼	None	录入中	None	None
+鑲	rang2	铸铜铁器模型的瓤子	None	None
+鑲	xiang1	古兵器名	None	None
+鑲	xiang1	把东西嵌入另一物体，或围在另一物体的边缘 如镶牙；镶边 古通作=相、=廂	None	相
+镶	None	=鑲的简化字	None	鑲
+𨰅	None	同=䥝	None	䥝
+鑳	None	同=鍵	None	鍵
+𨰆	chuo4	@	None	None
+𨰋	None	同=𨦂	None	𨦂
+䥸	mi2	镰刀	None	None
+鑷	nie4	拔除头发或夹取细小东西的器具 也作=籋	None	籋
+鑷	nie4	拔除毛发 也指理发	None	None
+鑷	nie4	古簪端垂饰	None	None
+鑷	nie4	古代织机上的提花装置 也指用镊提花	None	None
+𨰌	None	同=鍧	None	鍧
+𨰤	None	同=鑠	None	鑠
+𨰒	None	同=鑿	None	鑿
+𨰛	zhi3	钻	None	None
+鑺	qu2	古兵器名 戟属 一说戈属	None	None
+𨰎	None	同=鈿	None	鈿
+𨰏	ta3	象声词 物体坠落的声音 也作=塔	None	塔
+鑸	lei3	[鍡鑸]见“鍡”	None	None
+⿰钅壘	None	=鑸的类推简化字	None	鑸
+𨰍	None	同=鉵	None	鉵
+鑴	xi1	瓽，大盆	None	None
+鑴	xi1	大镬；鼎属	None	None
+鑴	xi1	大钟	None	None
+鑴	xi1	日旁云气	None	None
+鑴	xi1	同=觿 古代解结的用具，形状像锥 也用为佩饰	None	觿
+𫔔	None	=鑴的类推简化字	None	鑴
+𨰉	None	同=䥷(鍘)	None	䥷
+𨰓	jian3	同=鐧 古兵器 鞭类，四棱，长而无刃	None	鐧
+𨯺	None	=𨰐的讹字	None	𨰐
+𨰐	None	同=鏢	None	鏢
+𨰊	None	=𨰠的讹字	None	𨰠
+鑹	cuan4	小矟，短矛	None	None
+鑹	cuan4	短	None	None
+鑹	cuan1	冰镩，一种铁制凿冰工具，尖头如锥，有倒钩	None	None
+鑹	cuan1	用冰镩凿（冰） 如：镩冰	None	None
+鑻	None	同=襻	None	襻
+𨰟	None	同=䥯	None	䥯
+鑼	luo2	[䤬鑼]见“䤬”	None	None
+鑼	luo2	一种击乐器 铜制，形似平而浅的铜盘 边穿小孔，系绳以提 无固定音高，用槌敲击发音	None	None
 鑽	None	录入中	None	None
 鑾	None	录入中	None	None
 𨰞	None	录入中	None	None
