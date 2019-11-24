@@ -79260,36 +79260,59 @@
 𨫔	xie4	理苗除草的农具	None	None
 𨫔	xie4	椹	None	None
 䥍	None	=𨫔的讹字	None	𨫔
-鏧	None	录入中	None	None
-䥓	None	录入中	None	None
-鐯	None	录入中	None	None
-䦃	None	录入中	None	None
-鐄	None	录入中	None	None
-𨱑	None	录入中	None	None
-鏋	None	录入中	None	None
-𨬛	None	录入中	None	None
-𨬘	None	录入中	None	None
-䥑	None	录入中	None	None
-𨫓	None	录入中	None	None
-鏩	None	录入中	None	None
-鏨	None	录入中	None	None
-鏄	None	录入中	None	None
-鏪	None	录入中	None	None
-𨫾	None	录入中	None	None
-鏉	None	录入中	None	None
-𨱒	None	录入中	None	None
-鏂	None	录入中	None	None
-鏗	None	录入中	None	None
-鏢	None	录入中	None	None
-镖	None	录入中	None	None
-䥎	None	录入中	None	None
-鏚	None	录入中	None	None
-𨫿	None	录入中	None	None
-鏯	None	录入中	None	None
-𨬆	None	录入中	None	None
-𨬀	None	录入中	None	None
-鏀	None	录入中	None	None
-鏬	None	录入中	None	None
+鏧	long2	[鏧鏧]鼓声	None	None
+䥓	ji1	[鎡䥓]锄	None	None
+鐯	zhuo2	大锄 也作=櫡	None	櫡
+鐯	zhuo2	方言 用镐刨地，或刨茬儿 如：鐯玉米；鐯高粱	None	None
+䦃	None	=鐯的简化字	None	鐯
+鐄	huang2	象声词 也作=鍠	None	鍠
+鐄	huang2	大钟	None	None
+鐄	huang2	大镰	None	None
+鐄	huang2	锁簧 也作=簧	None	簧
+𨱑	None	=鐄的类推简化字	None	鐄
+鏋	man3	金	None	None
+鏋	man3	金精	None	None
+鏋	man3	化学元素=鎇的旧译	None	鎇
+𨬛	None	=𤪉(證)的讹字	None	𤪉
+𨬘	None	同=鍱	None	鍱
+䥑	wan4	=鋄(錽)的讹字	None	鋄
+䥑	mai4	化学元素 符号Mt，原子序数109 具强放射性，由人工合成 而得	None	None
+𨫓	None	同=鐵	None	鐵
+鏩	jian4	[鏩鏩]1.锐进貌 2.火炎上貌	None	None
+鏩	zan4	同=鏨	None	鏨
+鏨	zan4	小凿，雕凿金石的工具	None	None
+鏨	zan4	在金石上雕刻 如：錾字，錾花	None	None
+鏨	zan4	磨刀出锋	None	None
+鏄	tuan2	铁块	None	None
+鏪	cao2	穿	None	None
+𨫾	None	同=鏉	None	鏉
+鏉	shou4	锋利	None	None
+鏉	shou4	箭镞	None	None
+鏉	shou4	锈	None	None
+鏉	sou1	刻镂	None	None
+𨱒	None	=鏉的类推简化字	None	鏉
+鏂	ou1	[鏂銗]1.门铺，浮沤钉 2.颈铠	None	None
+鏂	ou1	[鉜鏂]见“鉜”	None	None
+鏂	ou1	量词 古代容量单位 也作=區	None	區
+鏂	ou1	盛酒器 形同簋，敞口，圆唇，圆腹，平地，圈足	None	None
+鏂	kou1	同=剾	None	剾
+鏗	keng1	象声词 1.瑟声 2.金石声 3.咳声	None	None
+鏗	keng1	撞击	None	None
+鏢	biao1	刀剑鞘末端的铜饰物	None	None
+鏢	biao1	同=𨭚 刀锋	None	𨭚
+鏢	biao1	标枪，多用木或竹杆为柄，铁镞	None	None
+鏢	biao1	旧时一种金属制的投掷暗器，形如矛头，长短轻重不一，通常长三寸六分，重六至七两 如：飞镖；毒药镖	None	None
+鏢	biao1	旧时称保护运送的财物	None	None
+镖	None	=鏢的简化字	None	鏢
+䥎	chun2	器名	None	None
+鏚	qi1	古代兵器名，斧属	None	None
+𬭭	None	=鏚的类推简化字	None	鏚
+𨫿	None	同=盔	None	盔
+鏯	None	同=鐵	None	鐵
+𨬆	None	同=鍔	None	鍔
+𨬀	None	同=鐻	None	鐻
+鏀	None	同=鐪	None	鐪
+鏬	None	=罅的讹字	None	罅
 鏜	None	录入中	None	None
 镗	None	录入中	None	None
 鏛	None	录入中	None	None
