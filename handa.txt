@@ -79682,49 +79682,87 @@
 𨭚	None	同=鏢	None	鏢
 𬭺	None	=𨭚的类推简化字	None	𨭚
 𨭼	None	同=鐐	None	鐐
-鐳	None	录入中	None	None
-镭	None	录入中	None	None
-䥤	None	录入中	None	None
-鐬	None	录入中	None	None
-鐻	None	录入中	None	None
-𨮗	None	录入中	None	None
-鐪	None	录入中	None	None
-鐺	None	录入中	None	None
-𨭘	None	录入中	None	None
-𨭜	None	录入中	None	None
-鏴	None	录入中	None	None
-鐰	None	录入中	None	None
-鐸	None	录入中	None	None
-鐶	None	录入中	None	None
-镮	None	录入中	None	None
-鐲	None	录入中	None	None
-镯	None	录入中	None	None
-𨭽	None	录入中	None	None
-𨮔	None	录入中	None	None
-𨮖	None	录入中	None	None
-䥣	None	录入中	None	None
-𨭾	None	录入中	None	None
-𨭿	None	录入中	None	None
-䥡	None	录入中	None	None
-𨮀	None	录入中	None	None
-䥞	None	录入中	None	None
-䥩	None	录入中	None	None
-𨱖	None	录入中	None	None
-鐱	None	录入中	None	None
-𨭗	None	录入中	None	None
-鑀	None	录入中	None	None
-鑁	None	录入中	None	None
-𨮂	None	录入中	None	None
-𨱕	None	录入中	None	None
-𨮃	None	录入中	None	None
-𨭕	None	录入中	None	None
-𨭝	None	录入中	None	None
-𨭖	None	录入中	None	None
-鐮	None	录入中	None	None
-镰	None	录入中	None	None
-䥝	None	录入中	None	None
-鐿	None	录入中	None	None
-镱	None	录入中	None	None
+鐳	lei2	瓶、壶之属	None	None
+鐳	lei2	化学元素 符号Ra，原子序数88 银白色金属，质软，有光泽，具有很强的放射性，并能不断放出大量的热 最稳定的同位素半衰期为1622年，衰变过程中形成放射性气体氡 镭的放射性穿透力很强，能破坏动物体的组织并杀死细菌，在医疗上用来治疗癌症或皮肤病 (新拉radium)	None	None
+镭	None	=鐳的简化字	None	鐳
+䥤	bao2	杵颈	None	None
+鐬	hui4	[鐬鐬]1.盛貌 2.也作“=銊銊”、“=噦噦” 车铃声	None	銊
+鐻	ju4	同=𧇽(虡) 古代悬挂钟、磬的架子两侧的柱子	None	𧇽
+鐻	ju4	古代一种乐器，夹置钟旁，为猛兽形，本为木制，后改用铜铸	None	None
+鐻	ju4	通=鋸 锯子；锯开	None	鋸
+鐻	qu2	金银制成的耳环，也指金银器	None	None
+𮣷	None	=鐻的类推简化字	None	鐻
+𨮗	None	同=虡	None	虡
+鐪	lu3	煎胶器，釜属	None	None
+鐪	lu3	刀柄	None	None
+鐪	lu3	化学元素=鈈的旧译	None	鈈
+鐺	cheng1	温器，似锅，三足 如：酒铛；茶铛；药铛	None	None
+鐺	cheng1	烙饼或做菜用的平底浅锅	None	None
+鐺	dang1	[鋃鐺]见“鋃(lang2)”	None	None
+鐺	dang1	女子的耳饰	None	None
+鐺	dang1	象声词	None	None
+鐺	tang1	[鐺䶀]象声词 鼓声	None	None
+鐺	tang1	铜鼓之小者，大仅五六寸	None	None
+鐺	tang1	古兵器 形如半月，有柄	None	None
+𨭘	None	同=繩	None	繩
+𨭜	None	同=鏝	None	鏝
+鏴	lu4	金路 金饰之车	None	None
+鏴	lu4	化学元素=鑥的旧译	None	鑥
+鐰	qiao1	同=鍫(鍬)	None	鍫
+鐰	sao4	金铁大刚	None	None
+鐰	sao4	干燥	None	None
+鐰	cao2	铁刚折	None	None
+鐸	duo2	古乐器，一种大铃 形如铙、钲而有舌，振舌发声 宣布教令时或有战事时用之	None	None
+鐸	duo2	挂在牛马颈下或屋檐下的小铃	None	None
+鐸	duo2	铎舞的省称	None	None
+鐸	duo2	姓	None	None
+鐶	huan2	泛指圆圈形物 也作=環	None	環
+鐶	huan2	钱量名	None	None
+鐶	huan2	书法用语 转	None	None
+鐶	xuan4	车环 也作=梋	None	梋
+镮	None	=鐶的简化字	None	鐶
+鐲	zhuo2	钟状的铃，古代军中乐器	None	None
+鐲	zhuo2	套在手腕或脚腕上的环形装饰品，一般指手镯	None	None
+鐲	shu3	温器	None	None
+镯	None	=鐲的简化字	None	鐲
+𨭽	None	同=鐫	None	鐫
+𨮔	yu4	钿	None	None
+𨮖	None	同=𨮔	None	𨮔
+䥣	None	同=鑿	None	鑿
+𨭾	None	同=鑹	None	鑹
+𨭿	None	同=𨭾(鑹)	None	𨭾
+䥡	None	同=鍱	None	鍱
+𨮀	None	同=鎚	None	鎚
+䥞	dun1	@	None	None
+䥞	jiao3	䥞耳	None	None
+䥩	wei2	悬物钩	None	None
+𨱖	None	=䥩的类推简化字	None	䥩
+鐱	jian4	金	None	None
+鐱	jian4	同=劍	None	劍
+鐱	qian1	臿	None	None
+𨭗	gua3	铁器	None	None
+𨭗	gua3	青铜食器	None	None
+鑀	ai4	化学元素=鎄的旧译	None	鎄
+鑁	None	同=鍐	None	鍐
+𨮂	gai3	方言 锯开（木料）	None	None
+𨱕	None	=𨮂的类推简化字	None	𨮂
+𨮃	None	同=𨪐	None	𨪐
+𨭕	None	同=鐙	None	鐙
+𨭝	None	同=鎩	None	鎩
+𨭖	zhan3	击；伐击	None	None
+𨭖	zhan3	割	None	None
+𨭖	zhan3	相箠	None	None
+鐮	lian2	镰刀，形曲如钩，收割用的农具	None	None
+鐮	lian2	箭镞的棱角	None	None
+鐮	lian2	古代的一种医疗器具	None	None
+镰	None	=鐮的简化字	None	鐮
+䥝	ao2	温器	None	None
+䥝	ao2	金器	None	None
+䥝	ao2	用慢火烂煮肉物	None	None
+䥝	ao2	苦战；激战 后作=鏖	None	鏖
+⿰钅麀	None	=䥝的类推简化字	None	䥝
+鐿	yi4	化学元素 稀土元素之一 符号Yb，原子序数70 银白色金属，质软，用制特种合金 主要性质和用途与镧相似 (新拉ytterbium)	None	None
+镱	None	=鐿的简化字	None	鐿
 𨭙	None	录入中	None	None
 𨮄	None	录入中	None	None
 鏽	None	录入中	None	None
