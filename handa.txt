@@ -79498,20 +79498,32 @@
 鏸	sui4	大鼎 也作=鏏	None	鏏
 鏸	rui4	古代侍臣所执的兵器 矛属 也作=鈗	None	鈗
 ⿰钅惠	None	=鏸的类推简化字	None	鏸
-鐔	None	录入中	None	None
-镡	None	录入中	None	None
-䥔	None	录入中	None	None
-𨬜	None	录入中	None	None
-𨬑	None	录入中	None	None
-鐝	None	录入中	None	None
-镢	None	录入中	None	None
-𨬐	None	录入中	None	None
-鐐	None	录入中	None	None
-镣	None	录入中	None	None
-𨭁	None	录入中	None	None
-𨭂	None	录入中	None	None
-鐕	None	录入中	None	None
-鏷	None	录入中	None	None
+鐔	xin2	剑柄与剑身连接处两旁突出的部分 旧亦称剑鼻、剑口、剑首、剑环等	None	None
+鐔	xin2	兵器名，形似剑而小	None	None
+鐔	xin2	比喻地势险要	None	None
+鐔	chan2	姓	None	None
+鐔	tan2	姓	None	None
+镡	None	=鐔的类推简化字	None	鐔
+䥔	su4	金	None	None
+𨬜	None	人名用字	None	None
+𨬑	li4	同=鬲 古代炊具	None	鬲
+鐝	jue2	挖土和锄草的农具	None	None
+鐝	jue2	同=𨬐	None	𨬐
+镢	None	=鐝的简化字	None	鐝
+𨬐	jue2	磨	None	None
+鐐	liao2	纯美的银子	None	None
+鐐	liao2	上等金	None	None
+鐐	liao2	有孔炉	None	None
+鐐	liao4	套在脚腕上的刑具	None	None
+镣	None	=鐐的简化字	None	鐐
+𨭁	xue4	@	None	None
+𨭂	None	同=剥	None	剥
+鐕	zan1	缀器物的钉子	None	None
+鐕	zan1	缀物	None	None
+鐕	zan1	通=鬵(xin2) 釜类烹器	None	鬵
+⿰钅朁	None	=鐕的类推简化字	None	鐕
+鏷	pu2	未经炼制的铜铁	None	None
+鏷	pu2	放射性化学元素 符号Pa，原子序数91 具放射性 银白色，有光泽，寿命最长的同位素^231Pa半衰期约3.2万年 (新拉pratactinium)	None	None
 镤	None	录入中	None	None
 𨬚	None	录入中	None	None
 鏿	None	录入中	None	None
