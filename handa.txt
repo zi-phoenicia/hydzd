@@ -79862,21 +79862,44 @@
 䥳	you1	化学元素=銪的旧译	None	銪
 鑡	chuo4	鉼鑡	None	None
 鑢	lv4	磋磨	None	None
-鑢	lv4	录入中	None	None
-鑜	None	录入中	None	None
-鑤	None	录入中	None	None
-鑘	None	录入中	None	None
-𨯔	None	录入中	None	None
-䥯	None	录入中	None	None
-䥴	None	录入中	None	None
-𨯕	None	录入中	None	None
-𨮺	None	录入中	None	None
-鑗	None	录入中	None	None
-𨮼	None	录入中	None	None
-𨯜	None	录入中	None	None
-鑠	None	录入中	None	None
-鑕	None	录入中	None	None
-𨯖	None	录入中	None	None
+鑢	lv4	磋磨骨角铜铁等的工具	None	None
+鑢	lv4	修省	None	None
+鑢	lv4	姓	None	None
+鑜	shang3	磨 也作=鋿	None	鋿
+鑤	bao4	刮；刮削 也指刮削器 后作=刨	None	刨
+鑘	lei2	剑首饰	None	None
+鑘	lei2	同=櫑(罍) 古代盛酒的容器	None	櫑
+鑘	lei3	[鍡鑘]见“鍡”	None	None
+⿰钅畾	None	=鑘的类推简化字	None	鑘
+𨯔	None	同=鑘	None	鑘
+䥯	bei1	轧碎泥块使田地平整的农具	None	None
+䥯	ba4	大铁杖	None	None
+䥯	ba4	耕；耙地	None	None
+䥴	None	同=鑴	None	鑴
+⿰钅嶲	None	=䥴的类推简化字	None	䥴
+𨯕	None	同=銬	None	銬
+𨮺	ji1	坚	None	None
+鑗	li2	金属 一说黑金	None	None
+鑗	li2	剥；裂	None	None
+鑗	li2	釜属	None	None
+𨮼	None	同=鍼	None	鍼
+𨯜	None	同=璺	None	璺
+鑠	shuo4	销熔；熔化	None	None
+鑠	shuo4	消毁；削弱	None	None
+鑠	shuo4	磨	None	None
+鑠	shuo4	毁谤	None	None
+鑠	shuo4	渗入	None	None
+鑠	shuo4	美，美盛	None	None
+鑠	shuo4	美目貌	None	None
+鑠	shuo4	同=爍 灼烁，光彩貌	None	爍
+鑠	yue4	烙；烧	None	None
+鑠	li4	同=鬲 古代炊具	None	鬲
+鑕	zhi4	铁砧	None	None
+鑕	zhi4	古腰斩刑具的垫座	None	None
+鑕	zhi4	斧 多指古腰斩刑具，两斤相合，如后之铡刀	None	None
+鑕	zhi4	斩杀	None	None
+鑕	zhi4	星名	None	None
+𨯖	None	同=鑈	None	鑈
 鑥	None	录入中	None	None
 𨮸	None	录入中	None	None
 𨮻	None	录入中	None	None
