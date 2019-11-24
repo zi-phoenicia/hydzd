@@ -79176,52 +79176,90 @@
 鎗	qiang4	髹漆工艺的一种 如：鎗金，鎗银	None	None
 鎓	weng1	锹	None	None
 𬭩	None	=鎓的类推简化字	None	鎓
-鏠	None	录入中	None	None
-鎦	None	录入中	None	None
-镏	None	录入中	None	None
-𨪿	None	录入中	None	None
-𨪕	None	录入中	None	None
-䥆	None	录入中	None	None
-鎬	None	录入中	None	None
-镐	None	录入中	None	None
-𨪏	None	录入中	None	None
-鎕	None	录入中	None	None
-鎊	None	录入中	None	None
-镑	None	录入中	None	None
-鎰	None	录入中	None	None
-镒	None	录入中	None	None
-鎌	None	录入中	None	None
-鎙	None	录入中	None	None
-鎣	None	录入中	None	None
-𨪍	None	录入中	None	None
-鎏	None	录入中	None	None
-鎋	None	录入中	None	None
-鎵	None	录入中	None	None
-镓	None	录入中	None	None
-镔	None	录入中	None	None
-鎔	None	录入中	None	None
-镕	None	录入中	None	None
-𨫂	None	录入中	None	None
-䥂	None	录入中	None	None
-𨬅	None	录入中	None	None
-䥇	None	录入中	None	None
-䦂	None	录入中	None	None
-䥃	None	录入中	None	None
-𨫀	None	录入中	None	None
-䥀	None	录入中	None	None
-䥁	None	录入中	None	None
-𨫁	None	录入中	None	None
-䥐	None	录入中	None	None
-鎟	None	录入中	None	None
-𨪐	None	录入中	None	None
-鎻	None	录入中	None	None
-𨫹	None	录入中	None	None
-鏏	None	录入中	None	None
-䥊	None	录入中	None	None
-𨫺	None	录入中	None	None
-𨫻	None	录入中	None	None
-𨫔	None	录入中	None	None
-䥍	None	录入中	None	None
+鏠	None	同=鋒	None	鋒
+鎦	liu2	同=劉 杀	None	劉
+鎦	liu2	镏金，用溶解在水银里的金子涂刷在银胎或铜胎器物上，是我国特有的一种镀金方法	None	None
+鎦	liu2	化学元素=鑥的旧译	None	鑥
+鎦	liu2	姓	None	None
+鎦	liu4	釜	None	None
+鎦	liu4	甑	None	None
+鎦	liu4	方言 镏子，戒指	None	None
+镏	None	=鎦的简化字	None	鎦
+𨪿	liu2	金名	None	None
+𨪿	liu2	杀	None	None
+𨪕	None	刺	None	None
+䥆	None	同=琴	None	琴
+鎬	hao4	温器	None	None
+鎬	hao4	西周初年的国都，即镐京，故址在今陕西省西安市西南	None	None
+鎬	hao4	周代北方地名，在今宁夏回族自治区灵武市一带	None	None
+鎬	hao4	水名，在今陕西省境	None	None
+鎬	hao4	姓	None	None
+鎬	gao3	掘土工具，又称钁、镢和十字镐	None	None
+鎬	gao3	化学元素=鈷的旧译	None	鈷
+镐	None	=鎬的简化字	None	鎬
+𨪏	ji2	[𨪏⿰釒犂]铁挝	None	None
+𨪏	ji2	[𨪏𬬁]古代作战用具 铁制，像蒺藜子	None	None
+鎕	tang2	[鎕銻]也作“=唐銻” 古称火齐、火齐珠	None	唐
+鎊	pang1	削	None	None
+鎊	pang1	铲的别名	None	None
+鎊	bang4	英国、爱尔兰、埃及等国的货币单位 镑前冠以国名以示区别 如英镑、埃及镑等 (英pound)	None	None
+镑	None	=鎊的简化字	None	鎊
+鎰	yi4	量词 古代重量单位，合二十两 也作=溢	None	溢
+鎰	yi4	米一升二十四分之一	None	None
+镒	None	=鎰的简化字	None	鎰
+鎌	None	同=鐮	None	鐮
+⿰钅兼	None	=鎌的类推简化字	None	鎌
+鎙	shuo4	同=矟 长矛	None	矟
+鎣	ying1	古代的一种长颈瓶 形制特征为短足、长管流、类盉 也作=罃	None	罃
+鎣	ying1	磨锃器	None	None
+鎣	ying1	磨拭使发光	None	None
+鎣	ying1	鎣饰	None	None
+鎣	ying2	采铁	None	None
+鎣	jiong3	锻冶器	None	None
+𨪍	sha1	[𨪍鑼]也作“=䤬鑼” 铜器	None	䤬
+鎏	liu2	美金	None	None
+鎏	liu2	将金汞合金涂在器物表面，经过火烘烤，汞蒸发，金滞留的一种传统工艺	None	None
+鎏	liu2	同=旒(瑬) 古代冠冕悬垂的玉串	None	旒
+鎋	xia2	同=轄 1.车键 2.车声	None	轄
+𬭪	None	=鎋的类推简化字	None	鎋
+鎵	jia1	化学元素 稀散元素之一 符号Ga，原子序数31 1875年发现 银白色金属，熔点低，沸点高，质软 熔融后，在室温下可保持液态达数日之久，凝固时体积膨胀 溶于王水、稀盐酸等 可用来制低温合金、高温计和电子器件等 在微博器件领域也有用途 (新拉gallium)	None	None
+镓	None	=鎵的简化字	None	鎵
+镔	None	=鑌的简化字	None	鑌
+鎔	rong2	铸器的模型	None	None
+鎔	rong2	销熔	None	None
+鎔	rong2	熔化	None	None
+鎔	rong2	喻陶冶（思想品质）	None	None
+鎔	rong2	矛属	None	None
+镕	None	=鎔的类推简化字	None	鎔
+𨫂	None	同=䤹	None	䤹
+䥂	meng4	[鏵䥂]臿头金	None	None
+䥂	meng4	凿刀	None	None
+𨬅	luo3	曳钓	None	None
+䥇	shan4	化学元素“铽”的旧译	None	None
+䥇	shan4	同=釤 长柄的镰刀，抡开镰刀或钐镰大片地割	None	釤
+䦂	None	=䥇的简化字	None	䥇
+䥃	yue4	大椎	None	None
+𨫀	zhan3	旧时油灯盛油的浅盆，即灯盘 釭𨫀是铜灯的一种，由釭、𨫀、罩、盖四部分组成 𨫀即灯盘，底部又圈足嵌入𨫀口 后作=盞	None	盞
+𨫀	zhan3	炭挝上饰物	None	None
+䥀	None	=𨩪的讹字	None	𨩪
+䥁	None	同=䤴	None	䤴
+𨫁	po1	两刃刈	None	None
+䥐	None	=鍪的讹字	None	鍪
+鎟	sang3	铃声	None	None
+𨪐	dou4	盛酒器	None	None
+𨪐	tou1	同=鍮	None	鍮
+鎻	None	同=鎖	None	鎖
+𨫹	None	同=琴	None	琴
+鏏	wei4	鼎的一种 形制不一	None	None
+鏏	wei4	小貌	None	None
+𬭬	None	=鏏的类推简化字	None	鏏
+䥊	None	同=錆	None	錆
+𨫺	None	同=鏊	None	鏊
+𨫻	None	同=錘	None	錘
+𨫔	zhi4	古代羊车棰端的针	None	None
+𨫔	xie4	理苗除草的农具	None	None
+𨫔	xie4	椹	None	None
+䥍	None	=𨫔的讹字	None	𨫔
 鏧	None	录入中	None	None
 䥓	None	录入中	None	None
 鐯	None	录入中	None	None
