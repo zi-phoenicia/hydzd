@@ -79832,30 +79832,37 @@
 𨮲	None	=𨫔的讹字	None	𨫔
 鑛	kuang3	同=礦 矿石 也指采矿的场所	None	礦
 鑛	kuang3	用同=壙 坟墓	None	壙
-𨮹	None	录入中	None	None
-鑇	None	录入中	None	None
-鑅	None	录入中	None	None
-鑧	None	录入中	None	None
-鑌	None	录入中	None	None
-鑔	None	录入中	None	None
-镲	None	录入中	None	None
-鑏	None	录入中	None	None
-𨮘	None	录入中	None	None
-𨯝	None	录入中	None	None
-鑃	None	录入中	None	None
-𨮳	None	录入中	None	None
-𨮴	None	录入中	None	None
-𨮕	None	录入中	None	None
-鑚	None	录入中	None	None
-𨯒	None	录入中	None	None
-鑟	None	录入中	None	None
-𨮾	None	录入中	None	None
-𨯠	None	录入中	None	None
-𨮽	None	录入中	None	None
-䥲	None	录入中	None	None
-䥳	None	录入中	None	None
-鑡	None	录入中	None	None
-鑢	None	录入中	None	None
+𨮹	di2	龙锁	None	None
+𨮹	di2	同=鏑 箭；箭头	None	鏑
+鑇	ji1	切	None	None
+鑇	ji1	同=劑	None	劑
+鑇	ji1	齐整	None	None
+鑅	heng2	钟声	None	None
+鑧	None	同=鋧	None	鋧
+鑌	bin1	镔铁，精炼的铁	None	None
+鑔	cha3	一种打击乐器，即小钹 或称镲子、铰子等	None	None
+镲	None	=鑔的简化字	None	鑔
+鑏	ning2	铁鑏	None	None
+鑏	ning2	刃柄	None	None
+鑏	ning3	刀柄入处	None	None
+𨮘	None	同=鑌	None	鑌
+𨯝	None	同=𨬍	None	𨬍
+鑃	diao4	[句鑃]古代祭祀和宴飨时用的乐器，形似铎，使用时口朝上，以槌敲击	None	None
+鑃	diao4	同=銚 一种大口有柄的烹煮器	None	銚
+𨮳	None	人名用字	None	None
+𨮴	deng4	同=鐙 马鞍两侧的脚踏	None	鐙
+𨮕	None	同=斲	None	斲
+鑚	None	同=鑽	None	鑽
+𨯒	None	同=鑯	None	鑯
+鑟	du2	印匣	None	None
+𨮾	None	同=鑄	None	鑄
+𨯠	None	同=𨮒	None	𨮒
+𨮽	None	同=𨫼(鏊)	None	𨫼
+䥲	ou1	化学元素=銪的旧译	None	銪
+䥳	you1	化学元素=銪的旧译	None	銪
+鑡	chuo4	鉼鑡	None	None
+鑢	lv4	磋磨	None	None
+鑢	lv4	录入中	None	None
 鑜	None	录入中	None	None
 鑤	None	录入中	None	None
 鑘	None	录入中	None	None
