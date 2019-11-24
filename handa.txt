@@ -78862,9 +78862,10 @@
 鍴	duan1	锁	None	None
 鍴	duan1	觶，古饮酒器 形似瓶，侈口，圈足	None	None
 𨩪	chan3	拉扯长	None	None
-𨪷	None	录入中	None	None
-𨨶	None	录入中	None	None
-𨪸	None	录入中	None	None
+𨪷	gu3	[𨪷䤪]即“=骨朵” 古兵器 由西羌传入 为一长棒，棒端缀一蒜形或蒺藜形的头，以铁或坚木制成 后用为仪仗 俗称“金瓜”	None	骨
+𨪷	gu3	化学元素“钙”的旧译	None	None
+𨨶	yu3	古乐器	None	None
+𨪸	None	同=鍤	None	鍤
 鍤	None	录入中	None	None
 锸	None	录入中	None	None
 鍬	None	录入中	None	None
