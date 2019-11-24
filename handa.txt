@@ -79361,11 +79361,18 @@
 䥋	peng1	炼金	None	None
 鏣	shu4	器名	None	None
 鏮	kang1	化学元素=鈧的旧译	None	鈧
-鏞	None	录入中	None	None
-镛	None	录入中	None	None
-鏕	None	录入中	None	None
-鏖	None	录入中	None	None
-鏱	None	录入中	None	None
+鏞	yong1	古乐器，大钟 又名鑮 悬吊，敲击发声 庙堂祭祀时放在西边的位置上	None	None
+镛	None	=鏞的简化字	None	鏞
+鏕	lu4	[鉅鏕]也作“鉅=鹿” 古郡、县名 秦置 治所在今河北省平乡县境	None	鹿
+鏕	lu4	釜名	None	None
+鏕	ao2	同=鏖	None	鏖
+鏖	ao2	温器，亦铜盆	None	None
+鏖	ao2	激战；苦战	None	None
+鏖	ao2	激烈	None	None
+鏖	ao2	熬，久煎	None	None
+鏖	ao2	喧扰；吵闹	None	None
+鏖	biao1	津名	None	None
+鏱	None	同=錦	None	錦
 鏡	None	录入中	None	None
 镜	None	录入中	None	None
 鏟	None	录入中	None	None
