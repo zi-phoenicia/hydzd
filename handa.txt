@@ -79770,22 +79770,41 @@
 鏽	xiu4	通=肅(su4) 恭敬	None	肅
 鐴	bi4	犁耳 装在铧或鑱上的铁板，使被耕开的土壤破碎和翻转 汉代铁犁鐴，有菱形、板瓦形、马鞍形等	None	None
 鐴	bei4	把刀在布、皮、石头等上面反复磨擦，使锋利 如：鐴刀；鐴刀布	None	None
-鐾	None	录入中	None	None
-𨮅	None	录入中	None	None
-䥫	None	录入中	None	None
-𨮩	None	录入中	None	None
-鑄	None	录入中	None	None
-鑖	None	录入中	None	None
-𨯓	None	录入中	None	None
-䥭	None	录入中	None	None
-𨮫	None	录入中	None	None
-鑋	None	录入中	None	None
-鑎	None	录入中	None	None
-鑑	None	录入中	None	None
-鑒	None	录入中	None	None
-𨮬	None	录入中	None	None
-䥮	None	录入中	None	None
-𨮭	None	录入中	None	None
+𬭽	None	=鐴的类推简化字	None	鐴
+鐾	None	同=鐴	None	鐴
+𨮅	None	人名用字	None	None
+䥫	None	同=鐵	None	鐵
+𨮩	None	同=鑄	None	鑄
+鑄	zhu4	熔金属或以液态非金属材料入模冷凝成器 如：铸钢；铸塑法	None	None
+鑄	zhu4	造就（人才）	None	None
+鑄	zhu4	熔炼（词句）；塑造（形象）	None	None
+鑄	zhu4	古国名 武王克殷后所封，黄帝之后，一说尧之后 今山东省肥城市南有铸乡，即其故城	None	None
+鑄	zhu4	姓	None	None
+鑖	mie4	铤；小铤	None	None
+鑖	mie4	小锥	None	None
+鑖	mi4	小釜	None	None
+⿰钅蔑	None	=鑖的类推简化字	None	鑖
+𨯓	cai4	同=𥻦	None	𥻦
+䥭	None	同=證	None	證
+𨮫	None	同=鑋	None	鑋
+鑋	qing1	金声	None	None
+鑋	qing1	断	None	None
+鑋	qing1	一足行 后作=𨆪	None	𨆪
+鑎	None	同=鐀	None	鐀
+鑑	jian4	古代盛水的大盆 金属制 巨大的也用作浴器 一说似瓮而大口，陶制，用以盛冰存放食物	None	None
+鑑	jian4	方诸，古代在月下承露取水的器具	None	None
+鑑	jian4	镜	None	None
+鑑	jian4	照	None	None
+鑑	jian4	儆戒，借鉴	None	None
+鑑	jian4	察；见	None	None
+鑑	jian4	指察照的能力，即见识 如：知人之鑑	None	None
+鑑	jian4	明，光泽	None	None
+鑑	jian4	形	None	None
+鑑	jian4	姓	None	None
+鑒	None	同=鑑	None	鑑
+𨮬	None	同=鏢	None	鏢
+䥮	zhu4	扑	None	None
+𨮭	si1	[𨮭鑼]也作“=䤬鑼” 洗具	None	䤬
 𨮮	None	录入中	None	None
 𨮯	None	录入中	None	None
 鑈	None	录入中	None	None
