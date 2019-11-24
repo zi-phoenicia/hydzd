@@ -78866,13 +78866,32 @@
 𨪷	gu3	化学元素“钙”的旧译	None	None
 𨨶	yu3	古乐器	None	None
 𨪸	None	同=鍤	None	鍤
-鍤	None	录入中	None	None
-锸	None	录入中	None	None
-鍬	None	录入中	None	None
-锹	None	录入中	None	None
-鍫	None	录入中	None	None
-鍾	None	录入中	None	None
-鍑	None	录入中	None	None
+鍤	cha1	一种长针 类似今之行针	None	None
+鍤	cha1	铁锹 挖土的工具	None	None
+鍤	cha1	同=臿 舂捣	None	臿
+锸	None	=鍤的简化字	None	鍤
+鍬	qiao1	一种开沟掘土、铲取什物的手工工具 又名=臿	None	臿
+鍬	qiao1	锹形器	None	None
+鍬	qiao1	窍门	None	None
+鍬	qiao1	一种缝纫法 把布帛的边向里卷，然后缝起来，外面不露针脚	None	None
+锹	None	=鍬的简化字	None	鍬
+鍫	None	同=鍬	None	鍬
+鍾	zhong1	一种器皿，常用以盛酒或茶	None	None
+鍾	zhong1	量词 古容器单位 1.春秋时齐国的公量 以四升为豆，四豆为区，四区为釜，十釜为钟 合六斛四斗 2.陈氏（即田氏）的“家量” 田氏代齐后，这种“家量”就成为齐国的标准量器 3.合十斛	None	None
+鍾	zhong1	古乐器 以槌叩击发声	None	None
+鍾	zhong1	集聚	None	None
+鍾	zhong1	专一；专注	None	None
+鍾	zhong1	当	None	None
+鍾	zhong1	天所赋予	None	None
+鍾	zhong1	寄托	None	None
+鍾	zhong1	畚，草器名	None	None
+鍾	zhong1	古代染鸟羽的人	None	None
+鍾	zhong1	古南诏（今云南省大理市一带）少数民族对弟弟的称呼	None	None
+鍾	zhong1	古代妻称夫之兄	None	None
+鍾	zhong1	古地名	None	None
+鍾	zhong1	山名	None	None
+鍾	zhong1	姓	None	None
+鍑	fu4	釜属，形制不一	None	None
 𨪻	None	录入中	None	None
 鍛	None	录入中	None	None
 锻	None	录入中	None	None
