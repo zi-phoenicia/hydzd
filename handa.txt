@@ -79900,27 +79900,37 @@
 鑕	zhi4	斩杀	None	None
 鑕	zhi4	星名	None	None
 𨯖	None	同=鑈	None	鑈
-鑥	None	录入中	None	None
-𨮸	None	录入中	None	None
-𨮻	None	录入中	None	None
-鑣	None	录入中	None	None
-镳	None	录入中	None	None
-䥰	None	录入中	None	None
-䥱	None	录入中	None	None
-鑞	None	录入中	None	None
-镴	None	录入中	None	None
-𨯱	None	录入中	None	None
-𨰂	None	录入中	None	None
-鑮	None	录入中	None	None
-鑩	None	录入中	None	None
-鑬	None	录入中	None	None
-𨯲	None	录入中	None	None
-䥶	None	录入中	None	None
-𨯟	None	录入中	None	None
-鑪	None	录入中	None	None
-𨯳	None	录入中	None	None
-䥵	None	录入中	None	None
-𪆷	None	录入中	None	None
+鑥	lu3	化学元素，稀土元素之一 符号Lu 原子序数71 银白色金属，质软，在空气中比较稳定 (新拉lutecium)	None	None
+𨮸	chuo1	铁𨮸	None	None
+𨮻	chan2	𨮻钏	None	None
+鑣	biao1	勒马口具 与衔连用，衔在口内，镳在口旁 殷周时代有青铜制的，作圆形或方形，中央有孔；也有骨、角制的，多作长形	None	None
+鑣	biao1	指代乘骑	None	None
+鑣	biao1	同=鏢 旧时投掷用的武器，像矛头	None	鏢
+镳	None	=鑣的简化字	None	鑣
+䥰	meng2	销	None	None
+䥰	meng2	飞矛	None	None
+䥱	xie3	用模子浇筑金属器 也作=寫	None	寫
+鑞	la4	锡和铅的合金，又称白镴、锡镴 亦为锡的别称 用以焊接金属，也可制作器皿等	None	None
+镴	None	=鑞的简化字	None	鑞
+𨯱	None	同=𨬑	None	𨬑
+𨰂	qian4	纺锤	None	None
+鑮	bo2	古乐器，单独悬挂的大钟 用于应和或节奏 也作=鎛	None	鎛
+鑮	bo2	十二辰头铃钟	None	None
+鑮	bo2	锄类农具	None	None
+𬮁	None	=鑮的类推简化字	None	鑮
+鑩	e4	钩	None	None
+鑬	None	同=鑑	None	鑑
+𨯲	tou2	化学元素=鋱的旧译	None	鋱
+䥶	li4	同=鬲 古代炊具	None	鬲
+𨯟	None	同=鑊	None	鑊
+鑪	lu2	同=爐 盛火的器具，可作冶炼、取暖、烹饪等用	None	爐
+鑪	lu2	酒肆，古时酒店前放置酒坛的炉形土墩 也用为酒店的代称	None	None
+鑪	lu2	酒盆	None	None
+鑪	lu2	放射性化学元素 符号Rf 原子序数104 第一个被发现的超锕系元素 化学性质近似铪 由重离子轰击法人工合成而得寿命最长的同位素^261Rf，半衰期为65秒 (新拉rutherfordium)	None	None
+鑪	lu2	姓 也作=鑢	None	鑢
+𨯳	None	同=鑿	None	鑿
+䥵	xiao3	铁的纹理	None	None
+𪆷	chu2	[舂𪆷]鸟名 白鹭 也作“𪅖𪆷”、“舂=鉏”	None	鉏
 𨰄	None	录入中	None	None
 𨯴	None	录入中	None	None
 䥷	None	录入中	None	None
