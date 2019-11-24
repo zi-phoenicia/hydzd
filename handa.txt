@@ -78690,19 +78690,54 @@
 錑	lei4	平木器	None	None
 錑	li4	钻	None	None
 錑	li4	锯	None	None
-鍵	None	录入中	None	None
-键	None	录入中	None	None
-録	None	录入中	None	None
-𨧪	None	录入中	None	None
-鋸	None	录入中	None	None
-锯	None	录入中	None	None
-𨧱	None	录入中	None	None
-𨱊	None	录入中	None	None
-𨨮	None	录入中	None	None
-𨧮	None	录入中	None	None
-錳	None	录入中	None	None
-锰	None	录入中	None	None
-䤴	None	录入中	None	None
+鍵	jian4	鼎上贯通两耳的横杠	None	None
+鍵	jian4	车辖 安在车轴两端，管住车轮不脱离轴的铁棍	None	None
+鍵	jian4	门闩	None	None
+鍵	jian4	锁簧，也称锁须 旧式锁可插入或拔出的部分	None	None
+鍵	jian4	钥匙	None	None
+鍵	jian4	闩门	None	None
+鍵	jian4	折	None	None
+鍵	jian4	星名 键闭星的简称	None	None
+鍵	jian4	一种机械零件 剖面一般为矩形 使轴与齿轮、皮带轮等连接并固定在一起 多用钢制的长方块，装在被连接的两个机件上预先制成的小槽中	None	None
+鍵	jian4	乐器、计算机、打字机等上使用时按动的部分 在键盘乐器上，按键能使槌击弦或金属片而发音者，如钢琴或钢片琴；按键并鼓风能使管或簧片振动而发音者，如管风琴、排笙、风琴、手风琴	None	None
+鍵	jian4	在化学结构式中表示元素原子价的短横线	None	None
+键	None	=鍵的简化字	None	鍵
+録	lu4	金色，青黄之间	None	None
+録	lu4	贝文	None	None
+録	lu4	记载；登记	None	None
+録	lu4	簿籍	None	None
+録	lu4	誊写	None	None
+録	lu4	采纳；采取	None	None
+録	lu4	收藏；收集	None	None
+録	lu4	次第	None	None
+録	lu4	逮捕；束缚	None	None
+録	lu4	总领	None	None
+録	lu4	登记以便存查	None	None
+録	lu4	检束	None	None
+録	lu4	收拾	None	None
+録	lu4	谈到	None	None
+録	lu4	剑名	None	None
+録	lu4	姓	None	None
+録	lv4	省察并记录（囚犯的罪状）	None	None
+𨧪	sao4	碎铁	None	None
+鋸	ju4	析解木石等的工具 如：手锯；圆盘锯	None	None
+鋸	ju4	用锯截断	None	None
+鋸	ju4	往复相拉的动作	None	None
+鋸	ju4	锯形物	None	None
+鋸	ju4	古刑具	None	None
+鋸	ju4	大锄	None	None
+鋸	ju4	古郾(燕)国戈㦸名	None	None
+鋸	ju1	用锔子补接器物 如：鋸碗；鋸锅	None	None
+锯	None	=鋸的简化字	None	鋸
+𨧱	qu1	[𨧱銊]也作“=屈膝”、“屈戌” 1.门窗箱柜等器物上的环纽，搭扣 2.金未炼	None	屈
+𨧱	qu1	小钺	None	None
+𨱊	None	=𨧱的类推简化字	None	𨧱
+𨨮	None	同=𨧮(䥸)	None	𨧮
+𨧮	None	同=䥸	None	䥸
+錳	meng3	化学元素 符号Mn，原子序数25 银白色金属，质硬而脆 在空气中易氧化，易溶于稀酸而放出氢气 多用来制造锰钢、锰铜等合金 为生命必需的微量元素 (新拉manganum)	None	None
+锰	None	=錳的简化字	None	錳
+䤴	han2	铠甲	None	None
+䤴	han2	同=函 1.匣子 2.杯	None	函
 𨧵	None	录入中	None	None
 錣	None	录入中	None	None
 𨱌	None	录入中	None	None
