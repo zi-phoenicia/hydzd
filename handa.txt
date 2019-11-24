@@ -78645,7 +78645,9 @@
 䤳	ye4	镜	None	None
 錊	zui4	炼；炼铁	None	None
 錊	zu2	姓	None	None
-錇	None	录入中	None	None
+錇	pou2	[錇鏂]钉名	None	None
+錇	fu2	[錇鏂]也作“=鉜鏂” 大钉	None	鉜
+錇	pei2	化学元素 符号Bk，原子序数97 1949年由人工获得，具强放射性 最稳定的同位素的半衰期为1.4×10^3年 (新拉berkelium)	None	None
 锫	None	录入中	None	None
 𨨡	None	录入中	None	None
 𨧲	None	录入中	None	None
