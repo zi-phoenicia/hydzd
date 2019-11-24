@@ -78969,67 +78969,114 @@
 鎈	cha1	钱的异名	None	None
 鎈	cha1	锉子，一种使工件平滑的工具	None	None
 鎈	cha1	磨擦使平滑	None	None
-鎂	None	录入中	None	None
-镁	None	录入中	None	None
-镂	None	录入中	None	None
-鎆	None	录入中	None	None
-𨩳	None	录入中	None	None
-鎡	None	录入中	None	None
-镃	None	录入中	None	None
-鍙	None	录入中	None	None
-鍌	None	录入中	None	None
-𨨱	None	录入中	None	None
-鎃	None	录入中	None	None
-鍹	None	录入中	None	None
-𨨷	None	录入中	None	None
-𨩴	None	录入中	None	None
-𨩵	None	录入中	None	None
-䤹	None	录入中	None	None
-𨩶	None	录入中	None	None
-鍕	None	录入中	None	None
-鍽	None	录入中	None	None
-𨩮	None	录入中	None	None
-𨩷	None	录入中	None	None
-鍜	None	录入中	None	None
-鍲	None	录入中	None	None
-镄	None	录入中	None	None
-𨩸	None	录入中	None	None
-鍏	None	录入中	None	None
-鎇	None	录入中	None	None
-镅	None	录入中	None	None
-鍨	None	录入中	None	None
-𨨻	None	录入中	None	None
-𨪊	None	录入中	None	None
-𨩹	None	录入中	None	None
-鍒	None	录入中	None	None
-𫔄	None	录入中	None	None
-𨩺	None	录入中	None	None
-鍪	None	录入中	None	None
-𨩻	None	录入中	None	None
-䤸	None	录入中	None	None
-䤿	None	录入中	None	None
-𨪖	None	录入中	None	None
-𨫼	None	录入中	None	None
-鏊	None	录入中	None	None
-𨪋	None	录入中	None	None
-鎷	None	录入中	None	None
-𨪱	None	录入中	None	None
-鎱	None	录入中	None	None
-𨪌	None	录入中	None	None
-鎑	None	录入中	None	None
-镊	None	录入中	None	None
-鏵	None	录入中	None	None
-䥈	None	录入中	None	None
-𨪇	None	录入中	None	None
-鏌	None	录入中	None	None
-镆	None	录入中	None	None
-𨫽	None	录入中	None	None
-鎮	None	录入中	None	None
-镇	None	录入中	None	None
-𨪲	None	录入中	None	None
-鎍	None	录入中	None	None
-𫔅	None	录入中	None	None
-鏈	None	录入中	None	None
+鎂	mei3	化学元素 符号Mg，原子序数12 银白色金属，质轻，有延展性 燃烧时发出强烈的白光 与热水、酸反应放出氢气，能直接与氮、硫、卤素等化合 可用来制造合金 含5%~30%镁的铝镁合金广泛应用于航空器材方面 镁粉可制闪光粉、烟火等 为生命必需的大量营养元素 (新拉magnesium)	None	None
+镁	None	=鎂的简化字	None	鎂
+镂	None	=鏤的简化字	None	鏤
+鎆	None	同=剪	None	剪
+𨩳	None	同=銓	None	銓
+鎡	zi1	同=鼒 一种口小的鼎	None	鼒
+鎡	zi1	锄田器 也称“鎡錤”	None	None
+鎡	zi1	资，有利	None	None
+镃	None	=鎡的简化字	None	鎡
+鍙	hu4	银	None	None
+鍌	xian3	人名用字	None	None
+鍌	xian3	同=銑 古代钟口的两角	None	銑
+𨨱	kuo4	无知貌	None	None
+鎃	pai3	化学元素=鏷的旧译	None	鏷
+鍹	xuan1	锅	None	None
+𨨷	tu2	同=鍎 枪	None	鍎
+𨩴	None	同=釧	None	釧
+𨩵	wan4	马头上的一种装饰	None	None
+䤹	sou1	刻镂	None	None
+䤹	sou1	文辞的雕琢	None	None
+䤹	sou1	鏉𨫒，铁锈	None	None
+𨩶	wa1	剜取	None	None
+鍕	jun1	[鍕𨨲]亦作“=軍持” 梵语，净瓶，亦称双口澡罐	None	軍
+鍕	jun1	金符	None	None
+鍽	bian1	金鍽	None	None
+𨩮	None	同=扃	None	扃
+𨩷	None	=鍛的讹字	None	鍛
+鍜	xia2	[錏鍜]见“錏”	None	None
+⿰钅叚	None	=鍜的类推简化字	None	鍜
+鍲	min2	本钱	None	None
+鍲	min2	算税	None	None
+镄	None	=鐨的简化字	None	鐨
+𨩸	quan1	同=鐉	None	鐉
+𨩸	juan1	同=鐫	None	鐫
+鍏	wei2	臿，耕地的农具	None	None
+鎇	mei2	放射性化学元素 符号Am，原子序数95 1944年由人工获得 银白色，软而韧 具强放射性 化学性质活泼 最稳定的同位素半衰期为七千多年 (新拉americium)	None	None
+镅	None	=鎇的简化字	None	鎇
+鍨	None	同=戣	None	戣
+⿰钅癸	None	=鍨的类推简化字	None	鍨
+𨨻	None	同=鏺	None	鏺
+𨪊	sao1	[𨪊𨦭]铜器	None	None
+𨩹	None	同=銎	None	銎
+鍒	rou2	软铁，即熟铁	None	None
+𫔄	None	=鍒的类推简化字	None	鍒
+𨩺	None	同=鍪	None	鍪
+鍪	mou2	古代炊器 青铜制 圆底，腹大颈小，敛口反唇 流行于汉代	None	None
+鍪	mou2	古代武士的头盔 秦、汉以前称“胄”，后来称“兜鍪”	None	None
+鍪	mou2	古指形似兜鍪的帽子	None	None
+鍪	mou2	放发	None	None
+𨩻	wan3	@	None	None
+䤸	zuan3	同=䂎 小矛	None	䂎
+⿰钅彖	None	=䤸的类推简化字	None	䤸
+䤿	None	同=鍥	None	鍥
+𨪖	None	同=琴	None	琴
+𨫼	None	同=鏊	None	鏊
+⿰钅敖	None	=𨫼的类推简化字	None	𨫼
+鏊	ao4	一种烙饼用的平底锅	None	None
+鏊	ao4	烧器	None	None
+𨪋	None	同=鉤	None	鉤
+鎷	ma3	错认的第43号化学元素 1925年，德国化学工作者诺达克宣布他发现了第43号元素，译名为鎷(英masurium) 1937年美国科学家伯利埃等人以人工蜕变钼原子的方法，真正发现了第43号元素，即化学元素锝 (新拉technetium)	None	None
+鎷	ma3	化学元素“钐”的旧译	None	None
+𨪱	None	人名用字	None	None
+鎱	yuan2	人名用字	None	None
+𨪌	qi2	轴端铁	None	None
+鎑	ye4	金坚	None	None
+鎑	ye4	铁器	None	None
+鎑	ye4	鞍䪌貌	None	None
+鎑	ta4	鎑鑪	None	None
+鎑	ge2	[鎑䥈]温器	None	None
+镊	None	=鑷的简化字	None	鑷
+鏵	hua2	锸，今称犁铧 耕地的农具	None	None
+𬭮	None	=鏋的类推简化字	None	鏋
+䥈	mu3	[鈷䥈]见“鈷(gu3)”	None	None
+𨪇	None	同=鍛	None	鍛
+鏌	mo4	[鏌釾]也作“=莫邪”、“鏌鋣”、“鏌釾” 大㦸，又宝剑名	None	莫
+镆	None	=鏌的类推简化字	None	鏌
+𨫽	None	同=鏵	None	鏵
+鎮	zhen4	重，压	None	None
+鎮	zhen4	安定；安抚	None	None
+鎮	zhen4	抑制；压制	None	None
+鎮	zhen4	镇服	None	None
+鎮	zhen4	静	None	None
+鎮	zhen4	压东西的用具	None	None
+鎮	zhen4	喻根本；基础	None	None
+鎮	zhen4	山名 古称一方的主山为镇	None	None
+鎮	zhen4	重要或险要的地方	None	None
+鎮	zhen4	镇圭之属	None	None
+鎮	zhen4	古代在边塞设镇，派重兵驻守 北魏时设镇的地方有二类：一类设在全不立州郡的地方，镇将兼理军民政务；一类和州、郡同设在一个地方，镇将绾军，刺史、太守管理民政，但一般都以镇将兼刺史、太守 后来，北边诸镇都改为州 唐代镇戍的权力减轻 唐末五代时期，节度使在自己的境内设镇，置镇使、镇将等，除管理和防御外，还向人民征收器甲粮饷，掌握地方实权 到宋初，为了加强中央集权，除人口众多、商业繁荣的镇以外豆将镇使、镇将罢免，收权归知县	None	None
+鎮	zhen4	用武力据守	None	None
+鎮	zhen4	市镇，集镇 宋代以后称县以下的小商业都市，现多为基层行政区域单位	None	None
+鎮	zhen4	经常；总是	None	None
+鎮	zhen4	明、清时军队的编制单位 清末编练新军，也称为镇 一镇统步队两协，马炮队各一标，二辎队各一营，以及军乐队等，后也偶用之	None	None
+鎮	zhen4	将食物或饮料置于冰或冷水之中使之变凉 如：冰镇西瓜；冰镇汽水	None	None
+鎮	zhen4	古州名 唐元和十五年（820年）改恒州置 治真是（今河北省正定县）	None	None
+鎮	zhen4	姓	None	None
+鎮	zhen4	土星的别名 亦作=填	None	填
+鎮	zhen4	笮，压榨	None	None
+鎮	tian2	同=填	None	填
+镇	None	=鎮的简化字	None	鎮
+𨪲	None	同=錙	None	錙
+鎍	suo3	铁绳	None	None
+鎍	se4	铁丳	None	None
+𫔅	None	=鎍的简化字	None	鎍
+鏈	lian2	铜属	None	None
+鏈	lian2	铅矿	None	None
+鏈	lian2	量词 国际上通用的海上长度单位 1链等于185.2米，10链为一海里	None	None
+鏈	lian2	矿	None	None
+鏈	lian4	用金属环连结而成的长条 如：表链；锁链	None	None
 鎛	None	录入中	None	None
 镈	None	录入中	None	None
 𨪎	None	录入中	None	None
