@@ -79429,31 +79429,55 @@
 𨫒	lou4	[鏉𨫒]铁锈	None	None
 𨱐	None	=𨫒的类推简化字	None	𨫒
 䥒	jiang3	铅属	None	None
-𨬍	None	录入中	None	None
-鏘	None	录入中	None	None
-鐊	None	录入中	None	None
-䥙	None	录入中	None	None
-鐆	None	录入中	None	None
-鏐	None	录入中	None	None
-镠	None	录入中	None	None
-鏒	None	录入中	None	None
-鏆	None	录入中	None	None
-鏁	None	录入中	None	None
-䥛	None	录入中	None	None
-鐟	None	录入中	None	None
-䥗	None	录入中	None	None
-𫔋	None	录入中	None	None
-鐃	None	录入中	None	None
-𨭓	None	录入中	None	None
-𨬿	None	录入中	None	None
-𨬓	None	录入中	None	None
-鐼	None	录入中	None	None
-䥟	None	录入中	None	None
-𨭎	None	录入中	None	None
-𨬝	None	录入中	None	None
-鐽	None	录入中	None	None
-鐚	None	录入中	None	None
-鐁	None	录入中	None	None
+𨬍	duo4	[鈐𨬍]见“鈐”	None	None
+𨬍	dui4	[鍊𨬍]见“鍊”	None	None
+鏘	qiang1	[鏘鏘]1.象声词 a.銮铃声 b.凤凰鸣声 c.乐声 2.盛貌 3.高貌 4.通“=蹡蹡” 行走貌	None	蹡
+鐊	None	同=鍚	None	鍚
+䥙	sui4	阳燧，古人就日下取火的铜杯或铜镜 后作=燧	None	燧
+鐆	None	同=䥙	None	䥙
+鏐	liu2	精美的金	None	None
+鏐	liu2	弩眉	None	None
+鏐	liu4	弩上钩弦发矢的机件	None	None
+鏐	liao2	同=鐐 纯美的银子	None	鐐
+镠	None	=鏐的类推简化字	None	鏐
+鏒	san3	用金泥涂抹于器物表面	None	None
+鏒	san3	铁器貌	None	None
+鏒	qiao2	一种缝纫法	None	None
+鏒	can4	锄	None	None
+鏆	guan4	穿	None	None
+鏆	guan4	钏，臂镮	None	None
+鏁	None	同=鎖	None	鎖
+𬭲	None	=鏁的类推简化字	None	鏁
+䥛	jie2	镰刀的一种	None	None
+䥛	jie2	化学元素“镍”的旧译	None	None
+䥛	qi4	刻	None	None
+𬭴	None	=䥛的类推简化字	None	䥛
+鐟	zan1	同=鐕	None	鐕
+鐟	ti4	化学元素=鈦的旧译	None	鈦
+䥗	kuan3	烧铁久	None	None
+䥗	kuan3	灼铁烙印，以记简编的次第	None	None
+䥗	kuan3	署记	None	None
+𫔋	None	=䥗的类推简化字	None	䥗
+鐃	nao2	古军乐器名 青铜制 体短而阔，有中空的短柄，插入木柄后可执 使用时口向上，以锤击之而鸣 三个或五个大小相次的为一组 盛行于商代	None	None
+鐃	nao2	打击乐器 形制与钹相似，唯中间隆起部分较小 以两篇为一副，相击发声 大小相当的铙与钹，铙所发的音低于钹而余音较长 铙较钹晚出，宋时始有 后形成大小不一的多种形制，被广泛采用于民间歌舞、戏曲、吹打乐、锣鼓乐中	None	None
+鐃	nao4	通=撓 扰乱	None	撓
+𨭓	None	同=𨬿(鐵)	None	𨬿
+𨬿	None	同=鐵	None	鐵
+𨬓	None	同=鉞	None	鉞
+鐼	fen2	铁属	None	None
+鐼	fen2	饰	None	None
+鐼	fen2	佛教用具，小钵	None	None
+鐼	ben1	同=𨪻(錛)	None	𨪻
+䥟	ye4	以铁为楬	None	None
+䥟	ye4	同=楬 凡有所表识，揭而竖之	None	楬
+𨭎	xi3	放射性化学元素 符号Sg 原子序数106 化学性质近似钨 由重离子轰击法人工合成而得，质量数为259的同位素，半衰期为4~10毫秒 质量数为263的同位素，半衰期为0.9±0.2秒 (新拉seaborgium)	None	None
+𬭳	None	=𨭎的类推简化字	None	𨭎
+𨬝	None	同=𨫔	None	𨫔
+鐽	xxx	@	None	None
+鐽	da2	化学元素=鉭的旧译	None	鉭
+鐽	da2	放射性化学元素 符号Ds 原子序数110 由重离子轰击法人工合成而得 质量数为280的同位素，半衰期为7.4秒 (新拉darmstadtium)	None	None
+鐚	ya1	[鐚鍜]也作“=錏鍜” 颈铠	None	錏
+鐁	si1	平木器	None	None
 𨭀	None	录入中	None	None
 鐷	None	录入中	None	None
 鏾	None	录入中	None	None
