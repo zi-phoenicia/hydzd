@@ -79625,18 +79625,35 @@
 𨭋	None	同=鑏	None	鑏
 镩	None	=鑹的简化字	None	鑹
 鐞	None	同=鎒	None	鎒
-𨬖	None	录入中	None	None
-鏹	None	录入中	None	None
-镪	None	录入中	None	None
-鐨	None	录入中	None	None
-鐉	None	录入中	None	None
-鐙	None	录入中	None	None
-镫	None	录入中	None	None
-鏺	None	录入中	None	None
-鐍	None	录入中	None	None
-𫔎	None	录入中	None	None
-鐑	None	录入中	None	None
-鐖	None	录入中	None	None
+⿰钅属	None	=钃的类推简化字	None	钃
+𨬖	chan2	小凿	None	None
+鏹	qiang3	同=繦 成串的线 也泛指钱币	None	繦
+鏹	qiang3	指银子或银锭	None	None
+鏹	qiang1	[鏹水]盐酸和氯化锌混合溶液的俗称，用于焊接 也泛指具有强烈腐蚀性的浓硝酸（硝镪水）和浓盐酸（盐镪水）	None	None
+镪	None	=鏹的简化字	None	鏹
+鐨	fei4	化学元素 符号Fm 原子序数100 具强放射性 人工获得的放射性元素 寿命最长的同位素^257Fm半衰期为100.5天 (新拉fermium)	None	None
+鐉	quan1	门框上承受门枢的铁环 一说治门户器	None	None
+鐉	quan1	通=鑽(zuan1) 钻凿	None	鑽
+⿰钅巽	None	=鐉的类推简化字	None	鐉
+鐙	deng4	古代盛熟食器	None	None
+鐙	deng4	马鞍两旁的脚踏	None	None
+鐙	deng1	膏镫，也叫=錠 古代照明的器具 青铜制，上有盘，中有柱，下有底 盘用来盛膏或插烛 也有盘下为三足，旁有柄可执者	None	錠
+鐙	deng1	油灯 也作=燈	None	燈
+镫	None	=鐙的简化字	None	鐙
+鏺	po1	一种两边有刃、装有长木柄的镰刀	None	None
+鏺	po1	芟除	None	None
+鏺	po1	讨平	None	None
+鐍	jue2	同=觼 有舌的环，用来系辔 一说为缺环	None	觼
+鐍	jue2	锁钥	None	None
+鐍	jue2	锁闭	None	None
+鐍	jue2	喻枢要	None	None
+鐍	jue2	戳伤	None	None
+鐍	yu4	锥	None	None
+𫔎	None	=鐍的类推简化字	None	鐍
+鐑	qie4	同=鍥 镰一类农具	None	鍥
+鐖	ji1	钩上的倒刺	None	None
+鐖	ji1	机括	None	None
+鐖	qi2	大镰刀	None	None
 𨭟	None	录入中	None	None
 鐵	None	录入中	None	None
 𨭸	None	录入中	None	None
