@@ -79931,30 +79931,52 @@
 𨯳	None	同=鑿	None	鑿
 䥵	xiao3	铁的纹理	None	None
 𪆷	chu2	[舂𪆷]鸟名 白鹭 也作“𪅖𪆷”、“舂=鉏”	None	鉏
-𨰄	None	录入中	None	None
-𨯴	None	录入中	None	None
-䥷	None	录入中	None	None
-𨯽	None	录入中	None	None
-𨯵	None	录入中	None	None
-鑫	None	录入中	None	None
-𨯡	None	录入中	None	None
-𨯢	None	录入中	None	None
-鑨	None	录入中	None	None
-𨯤	None	录入中	None	None
-𨯞	None	录入中	None	None
-鑶	None	录入中	None	None
-鑵	None	录入中	None	None
-𨰑	None	录入中	None	None
-𨯻	None	录入中	None	None
-𨯼	None	录入中	None	None
-𨰃	None	录入中	None	None
-鑭	None	录入中	None	None
-𨯣	None	录入中	None	None
-鑰	None	录入中	None	None
-鑯	None	录入中	None	None
-𨰜	None	录入中	None	None
-鑱	None	录入中	None	None
-镵	None	录入中	None	None
+𨰄	None	同=環	None	環
+𨯴	None	同=𨮕(斲)	None	𨮕
+⿰钅赞	None	=鑽的类推简化字	None	鑽
+䥷	zha2	同=𠝝(鍘)	None	𠝝
+⿰钅㔍	None	=䥷的类推简化字	None	䥷
+𨯽	li2	化学元素“铈”的旧译	None	None
+𨯵	None	人名用字	None	None
+鑫	xin1	多金、财富兴旺（多用于人名、商店字号）	None	None
+鑫	xun4	盂器	None	None
+𨯡	None	=鑈的讹字	None	鑈
+𨯢	None	同=錞	None	錞
+鑨	long2	器	None	None
+鑨	long2	同=礱 磨；磨砺	None	礱
+𨯤	None	=𨰠的讹字	None	𨰠
+𨯞	jiang4	铅属	None	None
+鑶	cang2	铃声	None	None
+鑵	guan4	同=罐 盛物或汲水用的圆形器皿	None	罐
+𨰑	diao4	銚 一种有柄有流的烹煮器	None	None
+𨯻	None	=𦉢的讹字	None	𦉢
+𨯼	None	同=𧇽(虡)	None	𧇽
+𨰃	None	@	None	None
+鑭	lan4	金光灿烂的样子	None	None
+鑭	lan2	化学元素，稀土元素之一 符号La，原子序数57 银白色软金属 镧、铈和铁的合金可用来制造火石 氧化镧用于制造光学玻璃 六硼化镧可用作制造电子管的阴极材料 (新拉lanthanum)	None	None
+𨯣	None	同=䥏	None	䥏
+鑰	yue4	同=𨷲 门直闩 上穿横𠔼下插地上的直木	None	𨷲
+鑰	yue4	锁	None	None
+鑰	yue4	钥匙，开锁的器具	None	None
+鑰	yue4	锁闭；关闭	None	None
+鑰	yue4	入	None	None
+鑰	yue4	镇守	None	None
+鑰	yue4	枢要，喻重要之处	None	None
+鑰	yue4	姓	None	None
+鑰	yao4	[钥匙]开锁用的东西 如：开门钥匙；汽车钥匙	None	None
+鑯	jian1	铁器	None	None
+鑯	jian1	尖锐 后作=尖	None	尖
+鑯	qian1	刻 也作=鋟	None	鋟
+⿰钅韱	None	=鑯的类推简化字	None	鑯
+𨰜	None	同=爵	None	爵
+鑱	chan2	锐 也作=攙	None	攙
+鑱	chan2	中医“九针”之一，头大末尖，形如箭头	None	None
+鑱	chan2	犁铁，即犁头 与铧相类而形制不同，锐利厚重，适宜开垦生地 也指装有弯曲长柄的长鑱 用以掘土	None	None
+鑱	chan2	用来掘凿砍斫的工具	None	None
+鑱	chan2	刺	None	None
+鑱	chan2	雕刻；錾凿	None	None
+鑱	chan2	掘	None	None
+镵	None	=鑱的类推简化字	None	鑱
 鑲	None	录入中	None	None
 镶	None	录入中	None	None
 𨰅	None	录入中	None	None
