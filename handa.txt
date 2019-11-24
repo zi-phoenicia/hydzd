@@ -78664,17 +78664,32 @@
 锬	None	=錟的类推简化字	None	錟
 𨨏	bo1	放射性化学元素 符号Bh，原子序数107 化学性质应近似铼 由重离子轰击法人工合成而得 质量数为262的同位素，半衰期为4.7毫秒 (新拉bohrium)	None	None
 𬭛	None	=𨨏的类推简化字	None	𨨏
-錃	None	录入中	None	None
-錝	None	录入中	None	None
-𫓽	None	录入中	None	None
-錠	None	录入中	None	None
-锭	None	录入中	None	None
-𨧩	None	录入中	None	None
-錧	None	录入中	None	None
-鋺	None	录入中	None	None
-鎯	None	录入中	None	None
-𨱍	None	录入中	None	None
-錑	None	录入中	None	None
+錃	None	同=𨧦	None	𨧦
+錝	zong4	金毛	None	None
+𫓽	None	=錝的类推简化字	None	錝
+錠	ding4	古代盛熟食有足的蒸器	None	None
+錠	ding4	膏灯	None	None
+錠	ding4	同=定 锄的一种	None	定
+錠	ding4	锡属	None	None
+錠	ding4	旧时用作货币的金银块，每块重五十两、十两、五两等 ……又指纸币票面金额	None	None
+錠	ding4	做成块状的金属或药物 如：铝锭；万应锭	None	None
+錠	ding4	量词 计量金、银、墨等物数的单位	None	None
+錠	ding4	锭子，纺车或纺纱机上线绕的主要机件 如：纱锭	None	None
+锭	None	=錠的简化字	None	錠
+𨧩	None	人工治木器	None	None
+錧	guan3	同=輨 车毂端包的冒盖	None	輨
+錧	guan3	田器名 犁刃	None	None
+⿰钅官	None	=錧的类推简化字	None	錧
+鋺	yuan3	秤鋺	None	None
+鋺	yuan2	同=䥉 锄头曲铁	None	䥉
+鋺	wan3	同=碗 盛饮食的器具	None	碗
+鋺	wan1	同=剜	None	剜
+鎯	luo3	同=𨬅	None	𨬅
+鎯	lang2	[鎯頭]锤子	None	None
+𨱍	None	=鎯的类推简化字	None	鎯
+錑	lei4	平木器	None	None
+錑	li4	钻	None	None
+錑	li4	锯	None	None
 鍵	None	录入中	None	None
 键	None	录入中	None	None
 録	None	录入中	None	None
