@@ -79313,7 +79313,10 @@
 𨬀	None	同=鐻	None	鐻
 鏀	None	同=鐪	None	鐪
 鏬	None	=罅的讹字	None	罅
-鏜	None	录入中	None	None
+鏜	tang1	象声词 钟鼓声或锣声	None	None
+鏜	tang1	以铁贯物	None	None
+鏜	tang1	乐器名，即小镗锣	None	None
+鏜	tang2	加工机械零件内孔的一种方法，工件固定在工作台上，刀具装在镗杆上伸入孔内旋转切削	None	None
 镗	None	录入中	None	None
 鏛	None	录入中	None	None
 𨭄	None	录入中	None	None
