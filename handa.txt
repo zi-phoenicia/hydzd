@@ -78892,47 +78892,83 @@
 鍾	zhong1	山名	None	None
 鍾	zhong1	姓	None	None
 鍑	fu4	釜属，形制不一	None	None
-𨪻	None	录入中	None	None
-鍛	None	录入中	None	None
-锻	None	录入中	None	None
-𨩫	None	录入中	None	None
-鎪	None	录入中	None	None
-锼	None	录入中	None	None
-鎀	None	录入中	None	None
-鍠	None	录入中	None	None
-锽	None	录入中	None	None
-䤼	None	录入中	None	None
-𨩁	None	录入中	None	None
-𨪈	None	录入中	None	None
-鍭	None	录入中	None	None
-鎚	None	录入中	None	None
-𨩬	None	录入中	None	None
-鍎	None	录入中	None	None
-鍮	None	录入中	None	None
-𨱎	None	录入中	None	None
-鍰	None	录入中	None	None
-锾	None	录入中	None	None
-𨩭	None	录入中	None	None
-鍐	None	录入中	None	None
-𨩀	None	录入中	None	None
-𨩯	None	录入中	None	None
-鍯	None	录入中	None	None
-鍧	None	录入中	None	None
-𨩰	None	录入中	None	None
-𨨳	None	录入中	None	None
-𨨽	None	录入中	None	None
-𨨼	None	录入中	None	None
-锵	None	录入中	None	None
-鎄	None	录入中	None	None
-锿	None	录入中	None	None
-鍍	None	录入中	None	None
-镀	None	录入中	None	None
-𨩲	None	录入中	None	None
-𨩱	None	录入中	None	None
-鍗	None	录入中	None	None
-𨨸	None	录入中	None	None
-鍦	None	录入中	None	None
-鎈	None	录入中	None	None
+⿰钅复	None	=鍑的类推简化字	None	鍑
+𨪻	None	同=錛	None	錛
+鍛	duan4	打铁 以金入火，焠而锤打成形 今锻造方法有大发展，系金属压力加工方法之一	None	None
+鍛	duan4	锤击	None	None
+鍛	duan4	锻铁用的砧石	None	None
+鍛	duan4	喻罗织罪状，陷人于罪	None	None
+鍛	duan4	文句的加工	None	None
+鍛	duan4	通=腶 脯	None	腶
+锻	None	=鍛的简化字	None	鍛
+𨩫	bian1	兵器	None	None
+鎪	sou1	同=鏉 刻镂	None	鏉
+鎪	sou1	蚀，侵削	None	None
+鎪	sou1	同=䤹 铁锈	None	䤹
+锼	None	=鎪的简化字	None	鎪
+鎀	xiu1	鋌，铜铁矿石	None	None
+鍠	huang2	象声词	None	None
+鍠	huang2	一种似钺的古兵器	None	None
+锽	None	=鍠的类推简化字	None	鍠
+䤼	xian4	金属线	None	None
+𬭣	None	=䤼的类推简化字	None	䤼
+𨩁	dou1	[𨩁鍪]同“=兜鍪” 古代战士戴的头盔	None	兜
+𨪈	wei3	金𨪈	None	None
+鍭	hou2	古代用于田猎、射礼的一种金镞齐羽的箭	None	None
+鍭	hou2	箭	None	None
+鍭	hou2	箭镞	None	None
+鍭	hou2	通=翭 羽根 也用作量词	None	翭
+𬭤	None	=鍭的类推简化字	None	鍭
+鎚	chui2	槌子，俗称鎯头 也作=錘	None	錘
+鎚	chui2	古兵器，柄端有一金属圆球	None	None
+鎚	chui2	打；击	None	None
+鎚	chui2	同=錘 秤砣	None	錘
+鎚	dui1	锻	None	None
+鎚	dui1	治玉 也作=追	None	追
+鎚	zhui4	好铜半熟	None	None
+𬭨	None	=鎚的类推简化字	None	鎚
+𨩬	yu4	温器	None	None
+鍎	tu2	覆鍎	None	None
+鍎	tu2	枪	None	None
+鍮	tou1	鍮石，又简称鍮 一种黄色有光泽的矿石，即黄铜矿或自然铜	None	None
+鍮	tou1	指人造鍮 即以炉甘石（菱锌矿）与铜共炼而得的一种铜锌合金	None	None
+鍮	tou1	姓	None	None
+𨱎	None	=鍮的类推简化字	None	鍮
+鍰	huan2	量词 古代重量单位	None	None
+鍰	huan2	钱	None	None
+鍰	huan2	通=環 圆环	None	環
+锾	None	=鍰的简化字	None	鍰
+𨩭	None	=𩛒的讹字	None	𩛒
+鍐	zong1	马头饰	None	None
+⿰钅㚇	None	=鍐的类推简化字	None	鍐
+𨩀	None	同=鍭	None	鍭
+⿰钅𫥎	None	=鑱的类推简化字	None	鑱
+𨩯	chan2	@ ……按：……疑即=鑱的讹字	None	鑱
+鍯	None	同=鏓	None	鏓
+鍧	hong1	[鏗鍧]象声词 钟声或钟鼓相杂之声	None	None
+⿰钅訇	None	=鍧的类推简化字	None	鍧
+𨩰	zu2	姓	None	None
+𨨳	zu2	姓	None	None
+𨨽	None	同=鎩	None	鎩
+𨨼	None	同=證	None	證
+锵	None	=鏘的简化字	None	鏘
+鎄	ai1	化学元素 符号Es，原子序数99 1952年由人工获得，具强放射性 最稳定的同位素的半衰期为276天 (新拉einsteinium)	None	None
+鎄	ai1	化学元素=銥的旧译	None	銥
+锿	None	=鎄的简化字	None	鎄
+鍍	du4	以光泽较强的金属涂在别的金属或物体的表面	None	None
+镀	None	=鍍的简化字	None	鍍
+𨩲	zi1	[鍵𨩲]浅铁钵，僧侣食具	None	None
+𨩱	None	同=鏟	None	鏟
+鍗	ti2	金名	None	None
+鍗	ti2	同=𨪉	None	𨪉
+𨨸	meng2	同=䥰 销	None	䥰
+𨨸	meng2	削	None	None
+鍦	shi1	短矛	None	None
+⿰钅施	None	=鍦的类推简化字	None	鍦
+鎈	suo3	金光	None	None
+鎈	cha1	钱的异名	None	None
+鎈	cha1	锉子，一种使工件平滑的工具	None	None
+鎈	cha1	磨擦使平滑	None	None
 鎂	None	录入中	None	None
 镁	None	录入中	None	None
 镂	None	录入中	None	None
