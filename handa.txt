@@ -79805,25 +79805,33 @@
 𨮬	None	同=鏢	None	鏢
 䥮	zhu4	扑	None	None
 𨮭	si1	[𨮭鑼]也作“=䤬鑼” 洗具	None	䤬
-𨮮	None	录入中	None	None
-𨮯	None	录入中	None	None
-鑈	None	录入中	None	None
-𨮪	None	录入中	None	None
-鑐	None	录入中	None	None
-𨮷	None	录入中	None	None
-䥧	None	录入中	None	None
-鑆	None	录入中	None	None
-鑍	None	录入中	None	None
-䥨	None	录入中	None	None
-䥪	None	录入中	None	None
-鑂	None	录入中	None	None
-𨮿	None	录入中	None	None
-𨮰	None	录入中	None	None
-𨮱	None	录入中	None	None
-𨮆	None	录入中	None	None
-𨮓	None	录入中	None	None
-𨮲	None	录入中	None	None
-鑛	None	录入中	None	None
+𨮮	None	同=𨭖	None	𨭖
+𨮯	None	同=鐵	None	鐵
+鑈	nie4	正 一说当作止	None	None
+鑈	nie4	镊子 也作=籋、=鑷	None	籋
+鑈	ni3	同=檷(柅) 1.络丝工具 2.塞于车轮下的制动装置	None	檷
+𨮪	xi3	金印 太平天国新造字	None	None
+鑐	xu1	锁牡，锁簧装置	None	None
+鑐	ru2	铁水 也作=濡	None	濡
+鑐	ru2	短衣	None	None
+鑐	rou2	同=鍒 熟铁	None	鍒
+⿰钅需	None	=鑐的类推简化字	None	鑐
+𨮷	None	同=鑡	None	鑡
+䥧	None	同=璿	None	璿
+鑆	zhui4	铜半熟	None	None
+鑍	ying1	钫，方形壶	None	None
+䥨	lv4	同=鑢 蹉磨	None	鑢
+䥨	lu2	矛戟受柄处	None	None
+䥪	None	同=𠠁	None	𠠁
+鑂	xun4	金色渝	None	None
+𨮿	zhuo2	同=櫡 大锄、斧头之类的工具  	None	櫡
+𨮰	None	刀名	None	None
+𨮱	None	=𨪗的讹字	None	𨪗
+𨮆	None	同=璺	None	璺
+𨮓	None	同=鏷	None	鏷
+𨮲	None	=𨫔的讹字	None	𨫔
+鑛	kuang3	同=礦 矿石 也指采矿的场所	None	礦
+鑛	kuang3	用同=壙 坟墓	None	壙
 𨮹	None	录入中	None	None
 鑇	None	录入中	None	None
 鑅	None	录入中	None	None
