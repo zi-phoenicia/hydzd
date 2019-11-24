@@ -78816,15 +78816,18 @@
 𨨹	da1	钩，搭钩 也作=𠞈	None	𠞈
 𨨹	da1	相箸声 也作=𠞈	None	𠞈
 ⿱轻金	None	=鑋的类推简化字	None	鑋
-鍇	None	录入中	None	None
-锴	None	录入中	None	None
-鍿	None	录入中	None	None
-𨨾	None	录入中	None	None
-鍞	None	录入中	None	None
-𨩼	None	录入中	None	None
-𨩽	None	录入中	None	None
-𨨺	None	录入中	None	None
-𨨴	None	录入中	None	None
+鍇	kai3	铁的别称	None	None
+鍇	kai3	好铁	None	None
+鍇	jie3	坚，坚硬	None	None
+锴	None	=鍇的简化字	None	鍇
+鍿	None	同=錙	None	錙
+𨨾	None	同=證	None	證
+鍞	keng1	[鍞鏘]也作“=銵鎗”、“=鏗鏘” 象声词	None	銵
+𨩼	None	同=鍵	None	鍵
+𨩽	xia4	同=罅 裂缝	None	罅
+𨨺	shuo4	镮	None	None
+𨨺	xue1	同=削	None	削
+𨨴	jiao1	㦸属	None	None
 鍉	None	录入中	None	None
 𫔂	None	录入中	None	None
 鍘	None	录入中	None	None
