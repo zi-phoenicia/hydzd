@@ -78828,22 +78828,40 @@
 𨨺	shuo4	镮	None	None
 𨨺	xue1	同=削	None	削
 𨨴	jiao1	㦸属	None	None
-鍉	None	录入中	None	None
-𫔂	None	录入中	None	None
-鍘	None	录入中	None	None
-鍚	None	录入中	None	None
-鍓	None	录入中	None	None
-𨩩	None	录入中	None	None
-鍝	None	录入中	None	None
-鍟	None	录入中	None	None
-鍻	None	录入中	None	None
-鍡	None	录入中	None	None
-鍶	None	录入中	None	None
-锶	None	录入中	None	None
-鍔	None	录入中	None	None
-锷	None	录入中	None	None
-鍴	None	录入中	None	None
-𨩪	None	录入中	None	None
+鍉	di1	歃血器	None	None
+鍉	di1	中医九针之一 针体粗大而针锋钝尖 多用于治疗血脉病及热病	None	None
+鍉	chi2	钥匙	None	None
+鍉	di2	唾器	None	None
+鍉	di2	通=鏑 箭镞	None	鏑
+鍉	shi4	化学元素“铥”的旧译	None	None
+𫔂	None	=鍉的类推简化字	None	鍉
+鍘	zha2	一种装着枢纽可以扳转的刀具 即莝草刀 古谓之鈇，今谓之铡 也用作刑具	None	None
+鍘	zha2	用铡刀切	None	None
+鍚	yang2	马额上的金属饰物 马走动时发出声响	None	None
+鍚	yang2	车上的镂金饰物	None	None
+鍚	yang2	盾背的金属饰物	None	None
+鍚	yang2	赤铜	None	None
+鍚	yang2	包车轮的铁片	None	None
+鍚	yang2	古地名 在今河南省杞县附近	None	None
+鍚	yang2	古县名 故城在今陕西省白河县东	None	None
+鍓	None	同=鏶	None	鏶
+𨩩	mao4	化学元素=鉬的旧译	None	鉬
+鍝	yu2	锯	None	None
+⿰钅禺	None	=鍝的类推简化字	None	鍝
+鍟	None	同=鉎	None	鉎
+鍻	jie2	金鍻	None	None
+鍡	wei3	[鍡鑸]不平 也作“鍡鑘”	None	None
+⿰钅畏	None	=鍡的类推简化字	None	鍡
+𬭢	None	=鐀的类推简化字	None	鐀
+鍶	song1	铁器	None	None
+鍶	si1	化学元素 符号Sr 原子序数38 银白色软金属，化学性质活泼（与钙相似），在空气中容易氧化，能分解冷水而放出氢 锶的化合物燃烧时呈红色火焰，是制造焰火的原料 (新拉strontium)	None	None
+锶	None	=鍶的简化字	None	鍶
+鍔	e4	剑端，刀剑的刃	None	None
+锷	None	=鍔的简化字	None	鍔
+鍴	duan1	钻，小矛	None	None
+鍴	duan1	锁	None	None
+鍴	duan1	觶，古饮酒器 形似瓶，侈口，圈足	None	None
+𨩪	chan3	拉扯长	None	None
 𨪷	None	录入中	None	None
 𨨶	None	录入中	None	None
 𨪸	None	录入中	None	None
