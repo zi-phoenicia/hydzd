@@ -78776,22 +78776,46 @@
 ⿰钅枼	None	=鍱的类推简化字	None	鍱
 鎝	sa4	镂	None	None
 鎝	da1	翻土农具	None	None
-𨱏	None	录入中	None	None
-𨪓	None	录入中	None	None
-鍸	None	录入中	None	None
-𨩧	None	录入中	None	None
-𨩨	None	录入中	None	None
-䤷	None	录入中	None	None
-鍢	None	录入中	None	None
-鍳	None	录入中	None	None
-鍊	None	录入中	None	None
-䤻	None	录入中	None	None
-鍼	None	录入中	None	None
-𨨵	None	录入中	None	None
-䤺	None	录入中	None	None
-𨨰	None	录入中	None	None
-鍷	None	录入中	None	None
-𨨹	None	录入中	None	None
+𨱏	None	=鎝的类推简化字	None	鎝
+𨪓	None	=鍣的讹字	None	鍣
+鍸	hu2	同=瑚 古代宗庙里盛黍稷的礼器	None	瑚
+𨩧	dong4	美金	None	None
+𨩨	cha3	明人创制的一种兵器	None	None
+𨩨	cha3	戳；刺	None	None
+𨩨	cha3	同=鑔 打击乐器	None	鑔
+䤷	yan3	同=𥍻 1.三刃㦸 2.两刃㦸	None	𥍻
+䤷	yan3	器物的边沿	None	None
+鍢	None	同=鍑	None	鍑
+鍳	None	同=鑒(鑑)	None	鑒
+鍊	lian4	同=煉 熔炼金属使其纯净或坚韧	None	煉
+鍊	lian4	治	None	None
+鍊	lian4	精研	None	None
+鍊	lian4	修炼；陶冶	None	None
+鍊	lian4	精金	None	None
+鍊	lian4	酷吏枉法陷人于罪	None	None
+鍊	lian4	链条 后作=鏈 如：项鍊、表鍊 又，一种用铁环钩连而成的刑具	None	鏈
+鍊	jian4	[鍊𨬍]1.包裹在车毂上的铁套子 2.辖，插于车轴端孔内的销钉	None	None
+䤻	duo4	同=𨬍	None	𨬍
+䤻	duo4	秤锤	None	None
+⿰钅⿱左月	None	=䤻的类推简化字	None	䤻
+鍼	zhen1	缝衣物的用具	None	None
+鍼	zhen1	用针缝	None	None
+鍼	zhen1	医疗用具 即针刺疗法所用的针 古代先以砭石为针，后来改用金属针	None	None
+鍼	zhen1	刺	None	None
+鍼	zhen1	针形物	None	None
+鍼	zhen1	以针治病	None	None
+鍼	qian2	用铁钳镊取 也作=鉆	None	鉆
+鍼	qian2	古地名 春秋时卫国之地，在今河南省濮阳市附近	None	None
+鍼	qian2	姓	None	None
+⿰钅咸	None	=鍼的类推简化字	None	鍼
+𨨵	None	同=鈃	None	鈃
+䤺	jin1	同=釿(斤) 斧头	None	釿
+䤺	yin3	同=釿 截断	None	釿
+𨨰	ruan4	柔银	None	None
+鍷	kui2	铲	None	None
+𨨹	da1	钩，搭钩 也作=𠞈	None	𠞈
+𨨹	da1	相箸声 也作=𠞈	None	𠞈
+⿱轻金	None	=鑋的类推简化字	None	鑋
 鍇	None	录入中	None	None
 锴	None	录入中	None	None
 鍿	None	录入中	None	None
