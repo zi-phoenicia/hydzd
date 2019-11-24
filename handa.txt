@@ -79524,37 +79524,62 @@
 ⿰钅朁	None	=鐕的类推简化字	None	鐕
 鏷	pu2	未经炼制的铜铁	None	None
 鏷	pu2	放射性化学元素 符号Pa，原子序数91 具放射性 银白色，有光泽，寿命最长的同位素^231Pa半衰期约3.2万年 (新拉pratactinium)	None	None
-镤	None	录入中	None	None
-𨬚	None	录入中	None	None
-鏿	None	录入中	None	None
-𨭃	None	录入中	None	None
-鐤	None	录入中	None	None
-𨬔	None	录入中	None	None
-鐦	None	录入中	None	None
-鐧	None	录入中	None	None
-鐗	None	录入中	None	None
-鐛	None	录入中	None	None
-鐀	None	录入中	None	None
-𨭅	None	录入中	None	None
-𨭆	None	录入中	None	None
-𨬏	None	录入中	None	None
-鐈	None	录入中	None	None
-鏼	None	录入中	None	None
-𨬎	None	录入中	None	None
-鏶	None	录入中	None	None
-鐫	None	录入中	None	None
-鐎	None	录入中	None	None
-𨱓	None	录入中	None	None
-𨮁	None	录入中	None	None
-鐭	None	录入中	None	None
-䥏	None	录入中	None	None
-𨬗	None	录入中	None	None
-𨭇	None	录入中	None	None
-鐇	None	录入中	None	None
-𫔍	None	录入中	None	None
-䥘	None	录入中	None	None
-䥚	None	录入中	None	None
-镥	None	录入中	None	None
+镤	None	=鏷的简化字	None	鏷
+𨬚	zhi3	钻	None	None
+𨬚	zhi3	𮉢衣	None	None
+鏿	cheng1	同=鎗 1.钟声 2.鼎类	None	鎗
+𨭃	cheng1	烙饼用的平底锅	None	None
+鐤	None	同=鼎	None	鼎
+𨬔	ruan3	银	None	None
+鐦	kui2	同=魁	None	魁
+鐦	kai1	化学元素 符号Cf，原子序数98 1950年由人工获得的放射性元素 是用甲种粒子轰击质量数为242的锔制得的 有十种同位素，其中半衰期最长的同位素^251Cf半衰期约800年 另一同位素^252Cf半衰期为2.64年，能自发裂变产生中子，用作高通量中子源 锎的化合物性质稳定，不易氧化或还原 (新拉californium)	None	None
+鐧	jian4	嵌在车轴、车毂间的铁，可以保护车轴并减少摩擦	None	None
+鐧	jian3	古兵器 鞭类，四棱，长而无刃，上端略小，下端有柄	None	None
+鐗	None	同=鐧	None	鐧
+鐛	None	=䭘的讹字	None	䭘
+鐀	kui4	同=匱	None	匱
+鐀	kui4	栏	None	None
+鐀	kui4	姓	None	None
+𨭅	None	同=鉒	None	鉒
+𨭆	hei1	放射性化学元素 符号Hs 原子序数108 具强放射性 化学性质近似锇 由重离子轰击法人工合成而得 质量数为265的同位素，半衰期为1.8毫秒 (新拉hassium)	None	None
+𨭆	hei1	化学元素“锰”的旧译	None	None
+𬭶	None	=𨭆的类推简化字	None	𨭆
+𨬏	None	同=鑗	None	鑗
+鐈	qiao2	长足的鼎	None	None
+鐈	qiao2	釜	None	None
+鐈	qiao2	用铁片钩牢两缝或转角处	None	None
+鏼	se4	铁枪	None	None
+𨬎	None	=𨪗的讹字	None	𨪗
+鏶	ji2	金属薄片	None	None
+鏶	ji2	炙铁	None	None
+鐫	juan1	破木器	None	None
+鐫	juan1	凿	None	None
+鐫	juan1	雕刻	None	None
+鐫	juan1	喻深刻记住	None	None
+鐫	juan1	规劝，晓喻	None	None
+鐫	juan1	指官吏降级	None	None
+鐫	juan1	削减；降低	None	None
+⿰钅雋	None	=鐫的类推简化字	None	鐫
+鐎	jiao1	刁斗 古代炊器，多用于温羹 器身作盆形，下有三足，附长柄，柄端常作兽头形，也有带流的 在古代军中亦用以打更，称刁斗 盛行于汉、晋	None	None
+鐎	jiao1	温酒器	None	None
+𨱓	None	=鐎的类推简化字	None	鐎
+𨮁	None	人名用字	None	None
+𨮁	None	@	None	None
+鐭	yu4	温器 也作=䥝	None	䥝
+鐭	yu4	化学元素=鋨的旧译	None	鋨
+䥏	yu3	[鉏䥏]见“鉏”	None	None
+䥏	yu3	同=鋙 乐器	None	鋙
+䥏	yu3	白锡	None	None
+𨬗	xu1	同=鑐 锁牡，锁簧装置	None	鑐
+𨭇	None	同=錘	None	錘
+鐇	fan2	宽刃斧	None	None
+鐇	fan2	铲 引申为铲除	None	None
+鐇	fan2	铁椎	None	None
+鐇	fan2	化学元素=釩的旧译	None	釩
+𫔍	None	=鐇的类推简化字	None	鐇
+䥘	None	同=錯	None	錯
+䥚	None	同=初	None	初
+镥	None	=鑥的简化字	None	鑥
 鐓	None	录入中	None	None
 镦	None	录入中	None	None
 鐜	None	录入中	None	None
