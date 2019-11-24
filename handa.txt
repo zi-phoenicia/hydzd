@@ -80019,28 +80019,59 @@
 𨰟	None	同=䥯	None	䥯
 鑼	luo2	[䤬鑼]见“䤬”	None	None
 鑼	luo2	一种击乐器 铜制，形似平而浅的铜盘 边穿小孔，系绳以提 无固定音高，用槌敲击发音	None	None
-鑽	None	录入中	None	None
-鑾	None	录入中	None	None
-𨰞	None	录入中	None	None
-𨰠	None	录入中	None	None
-𨰥	None	录入中	None	None
-𨰦	None	录入中	None	None
-钀	None	录入中	None	None
-鑿	None	录入中	None	None
-钂	None	录入中	None	None
-钁	None	录入中	None	None
-䦆	None	录入中	None	None
-𨰭	None	录入中	None	None
-𨰮	None	录入中	None	None
-𨰯	None	录入中	None	None
-𨰩	None	录入中	None	None
-𨰵	None	录入中	None	None
-𨰲	None	录入中	None	None
-𨰳	None	录入中	None	None
-钃	None	录入中	None	None
-𨰷	None	录入中	None	None
-𨰸	None	录入中	None	None
-𨰻	None	录入中	None	None
+鑽	zuan4	穿孔的器具 如：电钻；钻头	None	None
+鑽	zuan4	古代施行膑刑的刑具，因指膑刑，即钻取膑骨	None	None
+鑽	zuan4	金刚钻（即钻石）的简称	None	None
+鑽	zuan1	穿刺；打孔	None	None
+鑽	zuan1	引申为朝前冲；进入；穿过	None	None
+鑽	zuan1	钻研；穷究义理	None	None
+鑽	zuan1	投机钻营	None	None
+鑽	zuan1	矛；矢镞	None	None
+鑽	zuan1	用火爇荆菙灼，特指钻龟甲卜吉凶	None	None
+鑽	zuan1	通=攢(cuan2) 聚	None	攢
+鑽	zuan1	通=劗 剪	None	劗
+鑽	zuan1	姓	None	None
+鑾	luan2	古代人君车上的仪铃，安装在轭首或车衡上方 上部一般为扁圆形的铃，铃内有弹丸，铃上有辐射状的镂孔	None	None
+鑾	luan2	皇帝的车驾，因用作帝王的代称	None	None
+𨰞	mo2	金	None	None
+𨰠	luo2	[銼𨰠]见“銼”	None	None
+𨰥	None	人名用字	None	None
+𨰦	bao3	@	None	None
+钀	nie4	镳，马勒旁铁	None	None
+钀	yi3	同=轙 车衡上贯穿缰绳的大环	None	轙
+鑿	zao2	凿子 挖槽或穿孔用的手工具 杆状，下端为楔形或锥形，端末有刃口 用锤敲击上端，使下端刃部楔入工件，以切去材料 如：平凿；圆弧凿；菱形凿	None	None
+鑿	zao2	古代用以施行黥刑的刑具 因指黥刑	None	None
+鑿	zao2	穿；穿空；打孔	None	None
+鑿	zao2	挖掘	None	None
+鑿	zao2	开拓	None	None
+鑿	zao2	穿凿附会	None	None
+鑿	zao2	更造，改	None	None
+鑿	zao2	（耳目口鼻等）孔窍	None	None
+鑿	zao2	情	None	None
+鑿	zao2	敲，敲击	None	None
+鑿	zao2	（容纳枘的）孔穴，榫眼	None	None
+鑿	zao2	隧道	None	None
+鑿	zao2	[鑿鑿]1.鲜明貌 也可单用 2.明确；真实	None	None
+鑿	zao2	通=𥽿 精米，又指舂糙米为精米	None	𥽿
+鑿	zu2	刻镂	None	None
+鑿	zu2	箭，箭头	None	None
+钂	tang3	古兵器 或谓形如半月，或谓当中有枪尖，两边出翅，略似叉	None	None
+钁	jue2	大锄	None	None
+钁	jue2	铲除；挖掘	None	None
+䦆	None	=钁的简化字	None	钁
+𨰭	zuan3	指刀、矛、杖下头的铜、铁等饰物，义同=鐏	None	鐏
+𬮃	None	=𨰭的类推简化字	None	𨰭
+𨰮	None	同=鐓	None	鐓
+𨰯	None	同=𨰩(鐓)	None	𨰩
+𨰩	None	同=鐜(鐓)	None	鐜
+𨰵	zhe1	[𨰵𨐃]也作“𨐃𨰵” 1.有仪表 2.作事轩昂太过	None	None
+𨰲	None	同=鑑	None	鑑
+𨰳	None	同=鐔	None	鐔
+钃	zhu2	同=斸	None	斸
+钃	zhu2	旧时对化学名词金属元素的省称	None	None
+𨰷	None	人名用字	None	None
+𨰸	yu2	祭名	None	None
+𨰻	bao3	@	None	None
 隶	dai3	及；捕获 后作=逮	None	逮
 隶	dai3	本	None	None
 隶	dai3	与	None	None
