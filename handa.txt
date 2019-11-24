@@ -78402,34 +78402,79 @@
 錂	ling2	金名	None	None
 𨱋	None	=錂的类推简化字	None	錂
 𨧶	None	同=鉣	None	鉣
-錏	None	录入中	None	None
-錤	None	录入中	None	None
-𫓹	None	录入中	None	None
-鎁	None	录入中	None	None
-鋷	None	录入中	None	None
-錯	None	录入中	None	None
-错	None	录入中	None	None
-鍩	None	录入中	None	None
-锘	None	录入中	None	None
-錨	None	录入中	None	None
-锚	None	录入中	None	None
-鍈	None	录入中	None	None
-𨩦	None	录入中	None	None
-鍣	None	录入中	None	None
-𨨗	None	录入中	None	None
-錸	None	录入中	None	None
-錰	None	录入中	None	None
-錷	None	录入中	None	None
-錬	None	录入中	None	None
-𨨘	None	录入中	None	None
-鋻	None	录入中	None	None
-𨧫	None	录入中	None	None
-錼	None	录入中	None	None
-錛	None	录入中	None	None
-锛	None	录入中	None	None
-錡	None	录入中	None	None
-锜	None	录入中	None	None
-䤶	None	录入中	None	None
+錏	ya1	[錏鍜]1.保护颈项的铠甲 2.锢闭	None	None
+錏	ya4	柔刚铁	None	None
+錏	ya4	化学元素“锑”的旧译	None	None
+錤	ji1	[鎡錤]锄名 也作“鎡=基”、“鎡=其”、“兹其”	None	基
+𫓹	None	=錤的类推简化字	None	錤
+鎁	ye2	[鏌鎁]也作“鏌=釾” 剑名	None	釾
+鋷	zui4	锥属	None	None
+鋷	nie4	镊子	None	None
+錯	cuo4	琢玉用的粗磨石	None	None
+錯	cuo4	锉刀，即“鑢” 蹉治骨角铜铁的工具	None	None
+錯	cuo4	用锉子锉物	None	None
+錯	cuo4	磨，琢磨	None	None
+錯	cuo4	治（玉）	None	None
+錯	cuo4	用金涂饰	None	None
+錯	cuo4	镶嵌或绘绣花纹	None	None
+錯	cuo4	隐藏	None	None
+錯	cuo4	间杂	None	None
+錯	cuo4	相互交错	None	None
+錯	cuo4	乱；杂乱	None	None
+錯	cuo4	物体表面粗糙	None	None
+錯	cuo4	敬慎貌	None	None
+錯	cuo4	错误；乖谬	None	None
+錯	cuo4	更迭	None	None
+錯	cuo4	违背，不合	None	None
+錯	cuo4	餕余	None	None
+錯	cuo4	分开；岔开	None	None
+錯	cuo4	转动；移动	None	None
+錯	cuo4	坏；差（用于否定式）	None	None
+錯	cuo4	加；施为	None	None
+錯	cuo4	絣	None	None
+錯	cuo4	小鼎	None	None
+錯	cuo4	姓	None	None
+錯	cu4	通=措 1.放置；处置 2.安 3.施行 4.弃置；停止 5.废弃	None	措
+錯	cu4	过，过去	None	None
+錯	xi1	化学元素“铈”的旧译	None	None
+错	None	=錯的简化字	None	錯
+鍩	tian3	取	None	None
+鍩	tian3	农具	None	None
+鍩	nuo4	放射性化学元素 符号No，原子序数102 是用碳离子轰击锔得到的 最稳定的同位素半衰期为58分钟 (新拉nobelium)	None	None
+锘	None	=鍩的简化字	None	鍩
+錨	mao2	铁制或钢制的停船用具，一头有钩爪，另一头用铁链连在船上，抛到水底，可以使船停稳	None	None
+锚	None	=錨的简化字	None	錨
+鍈	None	同=鉠	None	鉠
+𨩦	gou4	@	None	None
+鍣	zhao1	锥	None	None
+𨨗	juan4	人名用字 明末清初书画家朱耷，别号八大山人，谱名统𨨗	None	None
+錸	lai2	化学元素 符号Re，原子序数75 银白色金属，熔点3180℃，机械性能良好，电阻高 耐腐蚀性强，在干燥的大气中不氧化 铼合金是优良的耐磨、耐腐蚀和耐高温材料，可用来制造电灯灯丝，火箭、人造卫星和宇宙飞船的外壳，原子反应堆的防护板和测量高温的热电偶 也可用作催化剂 (新拉rhenium)	None	None
+錰	shu4	同=鉥 长针	None	鉥
+錷	ga2	化学元素=釓的旧译	None	釓
+錬	None	=鍊的讹字	None	鍊
+𨨘	qian1	钻空	None	None
+鋻	jian4	刚	None	None
+鋻	jian4	淬刀剑使坚硬	None	None
+鋻	jian4	直	None	None
+鋻	jian1	刚铁，坚铁	None	None
+鋻	jian1	农具名 割禾器	None	None
+𨧫	zi4	同=剚 用刀刺入	None	剚
+𨧫	zi4	刃	None	None
+錼	nai4	化学元素=鎿的旧译	None	鎿
+錛	ben1	平木器，削平木料的平头斧	None	None
+錛	ben1	用锛子一类工具砍削 如：锛木头；用镐锛地	None	None
+锛	None	=錛的简化字	None	錛
+錡	qi2	鉏䥏，锯	None	None
+錡	qi2	古代一种凿木工具	None	None
+錡	qi2	古代一种三脚锅	None	None
+錡	qi2	山石嵌空如錡	None	None
+錡	yi3	悬挂弓弩的兵器架	None	None
+錡	yi3	姓	None	None
+锜	None	=錡的类推简化字	None	錡
+䤶	ye4	椎	None	None
+䤶	ye4	田器	None	None
+䤶	ye4	治甲器	None	None
+䤶	an1	温器	None	None
 𨧴	None	录入中	None	None
 𨧧	None	录入中	None	None
 錽	None	录入中	None	None
