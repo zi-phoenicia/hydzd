@@ -80167,22 +80167,43 @@
 𩉪	None	同=䩸	None	䩸
 𩉩	None	同=鼓	None	鼓
 𩉳	None	同⿰革亢	None	None
-靴	None	录入中	None	None
-靳	None	录入中	None	None
-𩉡	None	录入中	None	None
-𩉤	None	录入中	None	None
-靲	None	录入中	None	None
-𩉵	None	录入中	None	None
-𩉭	None	录入中	None	None
-䩗	None	录入中	None	None
-𩉬	None	录入中	None	None
-𩉢	None	录入中	None	None
-䩕	None	录入中	None	None
-䩓	None	录入中	None	None
-䩔	None	录入中	None	None
-𩉥	None	录入中	None	None
-靷	None	录入中	None	None
-靵	None	录入中	None	None
+靴	xue1	靴子 如：马靴；雨靴	None	None
+靴	xue1	靸	None	None
+靳	jin4	服马当胸的皮革 因作服马的代称	None	None
+靳	jin4	游环 在服马背上的皮环，骖马的外辔穿过它，以便起到控制骖马奔离车辕的作用	None	None
+靳	jin4	吝惜	None	None
+靳	jin4	取	None	None
+靳	jin4	嘲弄	None	None
+靳	jin4	姓	None	None
+𩉡	jia2	衬马鞍的垫	None	None
+𩉤	None	同=𩎔	None	𩎔
+靲	qin2	皮制鞋带	None	None
+靲	qin2	有带子的皮鞋	None	None
+靲	qin2	皮带子	None	None
+靲	qin2	竹篾	None	None
+𩉵	fen2	@	None	None
+𩉭	None	同=䩺	None	䩺
+䩗	ba4	同=霸 春秋时势力最强，处于首领地位的诸侯	None	霸
+𩉬	qi2	同=軝 车毂两端有皮带装饰的部分 	None	軝
+𩉬	qi2	靷	None	None
+𩉬	qi2	靴	None	None
+𩉬	chi2	纣馀靼	None	None
+𩉢	ji3	马鞍	None	None
+䩕	ang2	[䩕角]木屐 也单用作“䩕”	None	None
+䩕	ying4	同=硬 坚	None	硬
+䩓	qi2	靴 也作=𩉬	None	𩉬
+䩓	qi2	同=𩉬 车毂两端有皮带装饰的部分	None	𩉬
+䩔	duo4	鞋跟的缘边	None	None
+䩔	shan1	鞍鞘垂貌	None	None
+䩔	shan1	皮绳	None	None
+䩔	shan1	旒	None	None
+䩔	pan2	同=鞶	None	鞶
+⿰革亢	None	[鞕⿰革亢]风名	None	None
+𩉥	xuan4	大车上悬缚轭的皮带 也作=鞙	None	鞙
+𩉥	xuan4	同=𨊼 车弓	None	𨊼
+靷	yin3	引车前行的皮带 骖马的外辔，穿过服马背上的游环系于车轴，以引车前进	None	None
+靷	yin3	牛鼻绳 也作=紖	None	紖
+靵	None	同=紐	None	紐
 靶	None	录入中	None	None
 𩉶	None	录入中	None	None
 𩉷	None	录入中	None	None
