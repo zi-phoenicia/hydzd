@@ -80363,43 +80363,78 @@
 鞕	ying4	通=鯁(geng3) 哽塞	None	鯁
 鞕	bian1	同=鞭	None	鞭
 𩊯	se4	坚硬	None	None
-𩊪	None	录入中	None	None
-𩊵	None	录入中	None	None
-䩡	None	录入中	None	None
-𩊰	None	录入中	None	None
-𩊶	None	录入中	None	None
-鞘	None	录入中	None	None
-鞓	None	录入中	None	None
-䩤	None	录入中	None	None
-𩊷	None	录入中	None	None
-鞙	None	录入中	None	None
-𩊸	None	录入中	None	None
-䩦	None	录入中	None	None
-𩊹	None	录入中	None	None
-䩣	None	录入中	None	None
-鞖	None	录入中	None	None
-鞔	None	录入中	None	None
-𩊺	None	录入中	None	None
-𩊩	None	录入中	None	None
-䩧	None	录入中	None	None
-𩊭	None	录入中	None	None
-𩋇	None	录入中	None	None
-𩊮	None	录入中	None	None
-𩊫	None	录入中	None	None
-𩊻	None	录入中	None	None
-𩊼	None	录入中	None	None
-䩬	None	录入中	None	None
-𩋅	None	录入中	None	None
-䩨	None	录入中	None	None
-𩋵	None	录入中	None	None
-鞡	None	录入中	None	None
-𩋄	None	录入中	None	None
-𩋞	None	录入中	None	None
-𩊿	None	录入中	None	None
-𩋪	None	录入中	None	None
-𩋉	None	录入中	None	None
-𩋆	None	录入中	None	None
-䩫	None	录入中	None	None
+𩊪	dou4	驾车的器具 此指马腹带系辔环中的舌	None	None
+𩊪	dou4	车鼓名	None	None
+𩊵	zhe2	@	None	None
+䩡	jia2	[䩡沙]古代的一种缺前壅的靴子	None	None
+䩡	jia2	履根	None	None
+䩡	ge2	橐	None	None
+䩡	ge2	同=鞈 古代革制的胸甲	None	鞈
+𩊰	bi4	𩊰鞋，鞋	None	None
+𩊶	None	同=鞴	None	鞴
+鞘	qiao4	刀剑套	None	None
+鞘	qiao4	古时贮银以便转运的空心木筒	None	None
+鞘	shao1	鞭梢，拴在鞭子头上的细皮条	None	None
+鞘	shao1	马鞍的绦饰	None	None
+鞘	shao1	用同=簫(xiao1) 弓末梢	None	簫
+鞓	ting1	腰带的带身	None	None
+鞓	ting1	腰带	None	None
+鞓	ting1	同=綎 绶带	None	綎
+鞓	ting1	（人和物体的）杆状部分	None	None
+䩤	xie2	系牛胫	None	None
+䩤	xie2	紧捆	None	None
+䩤	xie2	急	None	None
+𩊷	None	同=鞎	None	鞎
+鞙	xuan4	大车上悬缚轭的皮带	None	None
+鞙	xuan4	悬挂	None	None
+鞙	xuan4	刀鞘	None	None
+鞙	xuan4	佩玉貌 后作=琄	None	琄
+鞙	juan1	有嚼口的马络头	None	None
+鞙	juan1	马尾	None	None
+𩊸	None	同=鞠	None	鞠
+䩦	tiao2	古代马辔首的铜饰，即连接缰绳和嚼子的小铜环 因指辔，即马缰绳	None	None
+𩊹	None	同=鞱	None	鞱
+䩣	tu2	[𩍿䩣]鞋垫 也叫“屧䪇”	None	None
+鞖	sui1	同=䪎 马鞍的絛饰	None	䪎
+鞔	man2	鞋帮	None	None
+鞔	man2	鞋子	None	None
+鞔	man2	鞔鞋，把布蒙在鞋帮上，或以皮革补鞋头	None	None
+鞔	man2	蒙鼓 把皮革绷紧，固定在鼓框的周围，做成鼓面	None	None
+鞔	man2	蒙上；连缀	None	None
+鞔	men4	通=懣 闷胀	None	懣
+𩊺	jue2	@	None	None
+𩊩	feng1	[𩊩䩸]也作“=𩉧䩸” 鞍饰	None	𩉧
+𩊩	feng2	同=䩼	None	䩼
+䩧	xie4	急系	None	None
+𩊭	dui4	纳；钉	None	None
+𩊭	dui4	蒙上；粘上	None	None
+𩊭	dui4	纳在鞋帮上的饰物	None	None
+𩋇	None	同=珌	None	珌
+𩊮	sha1	[𩌍𩊮]也作“䩡=沙” 古代一种缺前壅的靴子	None	沙
+𩊮	suo1	[𩊮鞄]乐器 也称马尾	None	None
+𩊫	nian3	车𩊫	None	None
+𩊻	xun4	@	None	None
+𩊼	None	同=𩋈	None	𩋈
+䩬	beng3	同=琫 佩刀鞘上的装饰	None	琫
+䩬	beng3	用皮制的鞋	None	None
+䩬	feng4	军器	None	None
+𩋅	ta4	同=撻 鞭打	None	撻
+䩨	chang4	同=韔	None	韔
+䩨	zhang1	弓发 也作=張	None	張
+𩋵	None	同=猪	None	猪
+鞡	la5	[靰鞡]见“靰”	None	None
+𩋄	chou3	𩋄束	None	None
+𩋄	xxx	[𩋄𩌁]@	None	None
+𩋞	die2	古时缝纫时戴在手指上用皮革制成以防针刺的指环，类似后来的顶针	None	None
+𩊿	xi4	同=舄 加木底的鞋 又泛指鞋	None	舄
+𩋪	ni3	同=𩍦(𩉹) 辔垂貌	None	𩍦
+𩋪	ni3	同=𩉹 软	None	𩉹
+𩋉	yu4	同=緎 羔裘的接缝	None	緎
+𩋆	qian2	坚	None	None
+𩋆	qian2	坚破声	None	None
+𩋆	qian2	同=慳	None	慳
+䩫	liang3	同=緉 量词 古代计算鞋子的单位 相当于“双”	None	緉
+⿰革卖	None	=韇的类推简化字	None	韇
 䩭	None	录入中	None	None
 𩋊	None	录入中	None	None
 𩋋	None	录入中	None	None
