@@ -80717,47 +80717,64 @@
 𩍋	None	同=繩	None	繩
 䪂	None	同=𩎎	None	𩎎
 𩍄	None	同=𦏌(羺)	None	𦏌
-𩍠	None	录入中	None	None
-䪁	None	录入中	None	None
-𩍌	None	录入中	None	None
-鞼	None	录入中	None	None
-𩍍	None	录入中	None	None
-𩍃	None	录入中	None	None
-鞽	None	录入中	None	None
-𩍆	None	录入中	None	None
-𩍇	None	录入中	None	None
-䪃	None	录入中	None	None
-𩍅	None	录入中	None	None
-𩍚	None	录入中	None	None
-𩍎	None	录入中	None	None
-𩍏	None	录入中	None	None
-䪀	None	录入中	None	None
-𩍐	None	录入中	None	None
-𩍑	None	录入中	None	None
-鞿	None	录入中	None	None
-𩍤	None	录入中	None	None
-𩍰	None	录入中	None	None
-䪇	None	录入中	None	None
-韄	None	录入中	None	None
-𩍬	None	录入中	None	None
-𩍙	None	录入中	None	None
-𩍟	None	录入中	None	None
-韁	None	录入中	None	None
-𩍗	None	录入中	None	None
-䪈	None	录入中	None	None
-䪆	None	录入中	None	None
-𩍜	None	录入中	None	None
-𩍡	None	录入中	None	None
-䪅	None	录入中	None	None
-𩍔	None	录入中	None	None
-韂	None	录入中	None	None
-𩍝	None	录入中	None	None
-𩍕	None	录入中	None	None
-韀	None	录入中	None	None
-𩍖	None	录入中	None	None
-𩍓	None	录入中	None	None
-𩍧	None	录入中	None	None
-韈	None	录入中	None	None
+𩍠	None	同=韃	None	韃
+䪁	bu3	牛络头	None	None
+䪁	bu3	络发	None	None
+𩍌	zhou4	[𩍌臂]也作“=胄臂” 臂沓，弩柄上的套子	None	胄
+鞼	gui4	有文采的皮革	None	None
+鞼	gui4	马缰	None	None
+鞼	gui4	强	None	None
+鞼	gui4	折断	None	None
+鞼	hui4	绣韦囊	None	None
+𩍍	None	同=鞾(靴)	None	鞾
+𩍃	mai2	[𩍃鞵]鞋 也单用作“𩍃”	None	None
+鞽	qiao1	古时山行所乘的用具	None	None
+鞽	qiao1	表演高跷用的木棍	None	None
+鞽	jue1	同=屩 草鞋	None	屩
+鞽	qiao2	鞍子拱起的地方 也作=橋	None	橋
+𩍆	xi4	同=舄 加木底的鞋	None	舄
+𩍇	None	同=鞾(靴)	None	鞾
+䪃	dun1	[鞊䪃]我国古代少数民族所用的酒器	None	None
+𩍅	tong2	车被具饰	None	None
+⿰革阑	None	=䪍的类推简化字	None	䪍
+𩍚	sui4	同=繸 古代贯串佩玉的带子	None	繸
+𩍎	jian1	@	None	None
+𩍏	fu4	@ ……按：疑为=𩋨的俗字	None	𩋨
+䪀	None	同=䩪	None	䩪
+𩍐	deng4	同=鐙 马鞍两边的脚踏	None	鐙
+𩍑	None	同=𩌰	None	𩌰
+鞿	ji1	马嚼子	None	None
+鞿	ji1	马笼头	None	None
+鞿	ji1	系马	None	None
+鞿	ji1	牵制；束缚	None	None
+鞿	ji1	捡	None	None
+𩍤	None	同=𩌊	None	𩌊
+𩍰	None	盖制马具	None	None
+䪇	None	同=𩍿	None	𩍿
+韄	hu4	缠在佩刀把上的皮绳	None	None
+韄	hu4	束缚	None	None
+𩍬	xxx	[𩋚𩍬]见“𩋚”	None	None
+𩍙	se4	车马络革	None	None
+𩍙	se4	同=轖 古代车箱旁（或车前曲栏上）用皮革交错缠缚的障蔽物	None	轖
+𩍟	None	同=靷	None	靷
+韁	None	同=繮	None	繮
+𩍗	bang1	鞋帮	None	None
+䪈	qian4	皮腰带	None	None
+䪆	ti3	[䪆𩋪]软貌 也单用作“䪆”	None	None
+𩍜	dao4	[𩌈𩍜]见“𩌈”	None	None
+𩍡	huan2	环状物 也作=鐶	None	鐶
+䪅	None	同=韣	None	韣
+𩍔	ju1	同鞠 1.古代的一种皮球 2.姓	None	None
+𩍔	qu1	酵母 也作=𥶶(麯)	None	𥶶
+韂	chan4	小障泥	None	None
+𩍝	xie4	大车上悬缚轭的皮带	None	None
+𩍕	None	同=靼	None	靼
+韀	None	同=韉	None	韉
+𩍖	yi4	同=繶 饰鞋的圆丝带	None	繶
+𩍖	yi4	履头	None	None
+𩍓	yong1	靴、袜的筒儿	None	None
+𩍧	zhou4	鞍辔等的统称	None	None
+韈	None	同=韤	None	韤
 𩍭	None	录入中	None	None
 𩍨	None	录入中	None	None
 𩍦	None	录入中	None	None
