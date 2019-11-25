@@ -80101,40 +80101,72 @@
 霴	None	同=靆	None	靆
 𨾃	None	同=𨽿(迨)	None	𨽿
 𨾄	None	同=𪓁	None	𪓁
-革	None	录入中	None	None
-靪	None	录入中	None	None
-𩉜	None	录入中	None	None
-靬	None	录入中	None	None
-䩒	None	录入中	None	None
-𩉞	None	录入中	None	None
-靯	None	录入中	None	None
-靰	None	录入中	None	None
-𩉟	None	录入中	None	None
-䩐	None	录入中	None	None
-靮	None	录入中	None	None
-𩉝	None	录入中	None	None
-靸	None	录入中	None	None
-𩉠	None	录入中	None	None
-䩑	None	录入中	None	None
-靭	None	录入中	None	None
-靫	None	录入中	None	None
-𩉧	None	录入中	None	None
-𩉯	None	录入中	None	None
-𩉰	None	录入中	None	None
-𩉨	None	录入中	None	None
-𩉣	None	录入中	None	None
-𩉦	None	录入中	None	None
-𩉴	None	录入中	None	None
-𩉸	None	录入中	None	None
-𩉫	None	录入中	None	None
-𩉱	None	录入中	None	None
-䩘	None	录入中	None	None
-𩉲	None	录入中	None	None
-䩖	None	录入中	None	None
-靹	None	录入中	None	None
-𩉪	None	录入中	None	None
-𩉩	None	录入中	None	None
-𩉳	None	录入中	None	None
+革	ge2	加工去毛的兽皮 如：皮革；制革	None	None
+革	ge2	人体的皮肤	None	None
+革	ge2	形容老	None	None
+革	ge2	更改；改换	None	None
+革	ge2	除去；撤销（职务） 如：开革；革职	None	None
+革	ge2	告诫	None	None
+革	ge2	戒备	None	None
+革	ge2	辔首，因指辔首垂	None	None
+革	ge2	革制的甲、胄、盾之类用具	None	None
+革	ge2	兵车	None	None
+革	ge2	革制的酒囊	None	None
+革	ge2	古代八音之一，指鼓等革类乐器	None	None
+革	ge2	六十四卦之一，卦形为x，离下兑上	None	None
+革	ge2	中医脉象之一 指脉浮而搏指，中空外坚，如按鼓皮	None	None
+革	ge2	翅，翼 也作=𦑜	None	𦑜
+革	ge2	姓	None	None
+革	ji2	通=亟 急	None	亟
+靪	ding1	补鞋底 也指衣袜上的补缀处	None	None
+靪	ding1	马鞍两侧的踏脚镫 也作=鐙	None	鐙
+𩉜	None	同⿰革亢 *=𩉳	None	𩉳
+靬	jian1	干皮革	None	None
+靬	jian1	诸葛亮所制“流马”部件名	None	None
+靬	jian1	[黎靬]也作“犂靬” 汉西域古国名，即大秦	None	None
+靬	qian2	[麗靬]古县名 故址在今甘肃省永昌县南	None	None
+靬	kan1	弓衣	None	None
+靬	kan1	盛矢器	None	None
+靬	han4	鞍辔等的统称	None	None
+靬	han4	同=釬 臂铠	None	釬
+䩒	yu2	车轴上系靷的皮环	None	None
+𩉞	None	同=䩒	None	䩒
+靯	du4	[靯𩍿]车中座垫	None	None
+靰	wu4	[靰鞡]也作“=烏拉” 我国东北地区垫有靰鞡草的一种暖鞋	None	烏
+𩉟	None	同=䩐	None	䩐
+䩐	hu1	紧捆	None	None
+䩐	xie2	同=䩤 系牛胫	None	䩤
+䩐	ge1	[䩐靼]同“=疙瘩”	None	疙
+靮	di2	马缰绳	None	None
+𩉝	gui4	皮革	None	None
+靸	sa3	古代小儿穿的鞋子 前帮深而覆脚，无后帮 形制与之类似的鞋也叫“靸”	None	None
+靸	sa3	穿鞋时不提起后跟，拖着行走；穿（拖鞋）	None	None
+靸	sa3	低下的物品	None	None
+靸	sa3	乐曲中的一个乐段	None	None
+靸	sa3	飘忽；轻举	None	None
+𩉠	None	同=靫	None	靫
+䩑	None	同=鞃	None	鞃
+⿰革𠃓	None	=𩋬的类推简化字	None	𩋬
+靭	None	同=韌	None	韌
+靫	cha1	盛箭器	None	None
+𩉧	feng1	[𩉧䩸]鞍饰 也单用作“𩉧”	None	None
+𩉯	None	同=薍	None	薍
+𩉰	ang4	@ ……按：……疑为=䩕的俗字	None	䩕
+𩉨	None	同=鼓	None	鼓
+𩉣	None	同=𩋠	None	𩋠
+𩉦	None	同=鞃	None	鞃
+𩉴	e4	同=軛 牛马等拉东西时驾在脖子上的器具	None	軛
+𩉸	ju4	鞍辔等的统称	None	None
+𩉫	bi4	同=䩛 约束在车上的皮带	None	䩛
+𩉫	bi4	鞋	None	None
+𩉱	di1	同=䩚 皮鞋	None	䩚
+䩘	None	同=䩚	None	䩚
+𩉲	None	同=鼓	None	鼓
+䩖	None	同=𩊮	None	𩊮
+靹	na4	柔软的（土壤）	None	None
+𩉪	None	同=䩸	None	䩸
+𩉩	None	同=鼓	None	鼓
+𩉳	None	同⿰革亢	None	None
 靴	None	录入中	None	None
 靳	None	录入中	None	None
 𩉡	None	录入中	None	None
