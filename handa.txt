@@ -80204,8 +80204,14 @@
 靷	yin3	引车前行的皮带 骖马的外辔，穿过服马背上的游环系于车轴，以引车前进	None	None
 靷	yin3	牛鼻绳 也作=紖	None	紖
 靵	None	同=紐	None	紐
-靶	None	录入中	None	None
-𩉶	None	录入中	None	None
+靶	ba4	辔首垂，韁绳的首端系于勒的铜环而下垂者	None	None
+靶	ba4	拉着上车的皮带	None	None
+靶	ba4	器物的把儿	None	None
+靶	ba4	弓身正中，张弓时所握处	None	None
+靶	ba4	用同=耙	None	耙
+靶	ba3	射击的目标	None	None
+靶	ba3	供加速器、原子核反应堆、放射性源等所发出的粒子流轰击的实物样品 用以研究核反应，获得放射性同位素或产生X射线等 如：在X射线管内，阴极发出的高速电子流打在用钨做的阳极靶上，即产生X射线	None	None
+𩉶	None	同=䩚	None	䩚
 𩉷	None	录入中	None	None
 𩊇	None	录入中	None	None
 靺	None	录入中	None	None
