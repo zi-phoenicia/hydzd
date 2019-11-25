@@ -80516,26 +80516,37 @@
 鞢	xie4	马缰	None	None
 鞢	zha2	[𩉾鞢]见“𩉾”	None	None
 鞢	die2	[鞢𩎃]也作“䪓韘” 古代胡服䪓韘带上用以佩物的金属装饰	None	None
-鞳	None	录入中	None	None
-䩴	None	录入中	None	None
-𩋶	None	录入中	None	None
-𩋷	None	录入中	None	None
-𩋨	None	录入中	None	None
-𩋸	None	录入中	None	None
-𩋹	None	录入中	None	None
-𩋠	None	录入中	None	None
-𩋧	None	录入中	None	None
-鞩	None	录入中	None	None
-鞮	None	录入中	None	None
-𩋬	None	录入中	None	None
-䩰	None	录入中	None	None
-鞰	None	录入中	None	None
-鞨	None	录入中	None	None
-𩋲	None	录入中	None	None
-𩋤	None	录入中	None	None
-鞦	None	录入中	None	None
-𩋟	None	录入中	None	None
-𩋦	None	录入中	None	None
+鞳	ta4	[鏜鞳]象声词 钟鼓声	None	None
+鞳	ta4	兵器	None	None
+䩴	hu2	[䩴簏]箭袋 也作“=箶簏”	None	箶
+𩋶	None	@	None	None
+𩋷	la5	[靰𩋷]即“靰=鞡”	None	鞡
+𩋨	fu2	皮带	None	None
+𩋸	None	同=鞭	None	鞭
+𩋹	None	=𩋸(鞭)的讹字	None	𩋸
+𩋠	mian3	马笼头当面的柔皮	None	None
+𩋧	xie2	同=鞋	None	鞋
+𩋧	kai4	鼓名	None	None
+鞩	None	同=鞘	None	鞘
+鞮	di1	古代用皮制的鞋	None	None
+鞮	di1	我国古代北方、西方少数民族的别称	None	None
+鞮	di1	智；知	None	None
+鞮	di1	姓	None	None
+𩋬	yang2	同=鍚 佩在马额上的金属饰物	None	鍚
+䩰	None	=鞙的讹字	None	鞙
+鞰	None	同=韞	None	韞
+鞨	he2	鞋	None	None
+鞨	she2	治革	None	None
+鞨	mo4	[鞨巾]束发的巾	None	None
+𩋲	None	同=鞄	None	鞄
+𩋤	yu4	皮；皮器	None	None
+⿰革贵	None	=鞼的类推简化字	None	鞼
+鞦	qiu1	同=鞧	None	鞧
+鞦	qiu1	[鞦韆]运动和游戏用具，在木架或铁架上系两绳，下拴横板，人在板上利用脚蹬板的力量在空中前后摆动 今简化作“秋=千” 如：打秋千	None	千
+𩋟	fu2	同=箙 用竹木或兽皮等做成的盛箭器	None	箙
+𩋟	fu2	同=𩋨 皮带	None	𩋨
+𩋟	fu4	同=䪖(䪙) 皮衣车轭	None	䪖
+𩋦	None	同=𩏇	None	𩏇
 鞭	None	录入中	None	None
 𩌅	None	录入中	None	None
 𩌃	None	录入中	None	None
