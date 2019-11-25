@@ -80212,32 +80212,49 @@
 靶	ba3	射击的目标	None	None
 靶	ba3	供加速器、原子核反应堆、放射性源等所发出的粒子流轰击的实物样品 用以研究核反应，获得放射性同位素或产生X射线等 如：在X射线管内，阴极发出的高速电子流打在用钨做的阳极靶上，即产生X射线	None	None
 𩉶	None	同=䩚	None	䩚
-𩉷	None	录入中	None	None
-𩊇	None	录入中	None	None
-靺	None	录入中	None	None
-靾	None	录入中	None	None
-𩊈	None	录入中	None	None
-𩊉	None	录入中	None	None
-𩊆	None	录入中	None	None
-𫖅	None	录入中	None	None
-𩊊	None	录入中	None	None
-䩞	None	录入中	None	None
-靼	None	录入中	None	None
-靻	None	录入中	None	None
-𩉾	None	录入中	None	None
-𩉼	None	录入中	None	None
-䩜	None	录入中	None	None
-𩊄	None	录入中	None	None
-鞅	None	录入中	None	None
-𩉻	None	录入中	None	None
-𩊀	None	录入中	None	None
-䩝	None	录入中	None	None
-𩊂	None	录入中	None	None
-𩊕	None	录入中	None	None
-䩚	None	录入中	None	None
-𩉿	None	录入中	None	None
-𩊅	None	录入中	None	None
-𩊃	None	录入中	None	None
+𩉷	None	同=靿	None	靿
+𩊇	yu4	@	None	None
+靺	mo4	[靺鞨]1.古族名 来源于肃慎 北魏时称勿吉，隋、唐时称靺鞨 分布在松花江、牡丹江流域及黑龙江中下游，东至日本海 原分众多部落，发展不平衡 北朝至隋时，多次朝贡 唐任命各部落首领为州刺史，派长史以监领之 2.宝石名 也单用作“靺”	None	None
+靺	mo4	同=韎 1.染皮革成赤黄色 2.我国古代东方少数民族乐名	None	韎
+靺	wa4	同=韤 袜子	None	韤
+靾	yi4	古代魂车上所陈设的马缰	None	None
+靾	yi4	马鞍，因谓魂车上陈设的马鞍	None	None
+𩊈	None	同=靾	None	靾
+𩊉	None	同=𩉩(鼓)	None	𩉩
+𩊆	ge2	[脅𩊆]盾属	None	None
+𫖅	None	=䪊的类推简化字	None	䪊
+𩊊	None	同=瞂	None	瞂
+䩞	tie4	障泥 马鞍的装饰，垫在马鞍下，垂于马背两旁以挡泥土	None	None
+䩞	die1	[䩞鞢]1.鞍具 2.即“=䪓韘” 也单用作“䩞”	None	䪓
+靼	da2	柔软的皮革	None	None
+靼	da2	治革使柔	None	None
+靼	da2	皮绳	None	None
+靼	da2	通=怛 惊吓	None	怛
+靻	zu3	带嚼口的马笼头	None	None
+靻	zu3	马笼头上当额的金属饰物	None	None
+靻	da2	=靼的讹字	None	靼
+𩉾	xia2	[𩉾鞢]也作“=𦾏𧃹” 花叶重多貌	None	𦾏
+𩉼	shen1	同=紳 古代官员束腰的大带	None	紳
+𩉼	shen1	驾车马的革带	None	None
+䩜	zhou4	同=胄 头盔	None	胄
+𩊄	zhou4	同=胄 头盔	None	胄
+鞅	yang1	套在牛马颈上的皮带	None	None
+鞅	yang1	羁绊	None	None
+鞅	yang1	通=怏 不服气，不满意	None	怏
+鞅	yang1	姓	None	None
+鞅	yang1	[鞅罔]无赖	None	None
+鞅	yang4	[牛鞅]牛拉东西时驾在脖子上的器具 也叫“牛鞅子”	None	None
+𩉻	None	同=𩉺	None	𩉺
+𩊀	po4	静	None	None
+䩝	pao2	同=鞄 治革的工人	None	鞄
+𩊂	ling2	羊子	None	None
+𩊕	None	=䩕的讹字	None	䩕
+䩚	di4	补鞋底 也作=靪	None	靪
+䩚	di1	同=鞮 皮鞋	None	鞮
+𩉿	qu2	兵器	None	None
+𩉿	qu2	马鞍	None	None
+𩊅	bao4	𩊅起，发硬	None	None
+𩊃	ma4	皮制鞋	None	None
 𩊁	None	录入中	None	None
 鞄	None	录入中	None	None
 𩊋	None	录入中	None	None
