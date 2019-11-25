@@ -80809,27 +80809,31 @@
 𩍻	yuan2	@	None	None
 𩍼	lu2	[𩌫𩍼]见“𩌫”	None	None
 䪊	long2	[䪊頭]也作“=籠頭” 套在骡马等头上用来系缰绳或挂嚼子的器具 也单用作“䪊”	None	籠
-𩍹	None	录入中	None	None
-𩍽	None	录入中	None	None
-䪍	None	录入中	None	None
-𩎆	None	录入中	None	None
-䪌	None	录入中	None	None
-𩎃	None	录入中	None	None
-𩎄	None	录入中	None	None
-𩎅	None	录入中	None	None
-𩎀	None	录入中	None	None
-䪎	None	录入中	None	None
-𩎇	None	录入中	None	None
-𩎉	None	录入中	None	None
-𩎊	None	录入中	None	None
-𩎈	None	录入中	None	None
-韊	None	录入中	None	None
-𩎋	None	录入中	None	None
-𩎌	None	录入中	None	None
-𩎍	None	录入中	None	None
-𩎎	None	录入中	None	None
-𩎏	None	录入中	None	None
-𩎑	None	录入中	None	None
+𩍹	None	同=䩵(韗) 制造皮鼓的工人	None	䩵
+𩍽	None	同=𩎇	None	𩎇
+䪍	None	同=籣	None	籣
+𩎆	None	@	None	None
+䪌	zhan4	衬托鞍的垫子	None	None
+䪌	shan1	同=縿 古时旌旗垂饰物（旒）的正幅	None	縿
+䪌	shan1	同=𩌰 马鞍絛饰下垂貌	None	𩌰
+𩎃	xie4	[鞢𩎃]见“鞢”	None	None
+𩎄	None	同=氈	None	氈
+𩎅	None	同=鞬	None	鞬
+𩎀	None	同=鞬	None	鞬
+䪎	sui1	马鞍的绦饰	None	None
+䪎	sui1	鞍	None	None
+𩎇	None	同=𩌮	None	𩌮
+𩎉	xi3	同=躧 1.舞鞋 2.步	None	躧
+𩎊	luo2	@	None	None
+𩎈	None	同=𩎑	None	𩎑
+韊	lan2	古代背在身上盛弩箭的器具 也作=籣	None	籣
+韊	lan2	包容	None	None
+𩎋	None	同=靷	None	靷
+𩎌	None	同=韅	None	韅
+𩎍	None	同=韅	None	韅
+𩎎	ge2	辔首 也作=革	None	革
+𩎏	None	同=鞹(鞟)	None	鞹
+𩎑	zuan1	把横木钻孔用皮带捆绑在小车的曲辕上	None	None
 頁	None	录入中	None	None
 页	None	录入中	None	None
 頂	None	录入中	None	None
