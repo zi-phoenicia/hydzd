@@ -80634,72 +80634,89 @@
 䩹	e2	补鞋	None	None
 䩹	e2	鞋头	None	None
 䩹	kuo4	同=鞹(鞟)	None	鞹
-鞷	None	录入中	None	None
-𩌯	None	录入中	None	None
-𩌚	None	录入中	None	None
-𩌛	None	录入中	None	None
-𩋩	None	录入中	None	None
-𩌆	None	录入中	None	None
-鞸	None	录入中	None	None
-𩌇	None	录入中	None	None
-𩌐	None	录入中	None	None
-𩌜	None	录入中	None	None
-𩌎	None	录入中	None	None
-鞶	None	录入中	None	None
-𩌒	None	录入中	None	None
-𩌞	None	录入中	None	None
-鞱	None	录入中	None	None
-鞵	None	录入中	None	None
-䩺	None	录入中	None	None
-𩌟	None	录入中	None	None
-𩌠	None	录入中	None	None
-䩼	None	录入中	None	None
-𩌄	None	录入中	None	None
-𩌡	None	录入中	None	None
-鞹	None	录入中	None	None
-䩷	None	录入中	None	None
-𩌣	None	录入中	None	None
-𩌑	None	录入中	None	None
-䩶	None	录入中	None	None
-𩍂	None	录入中	None	None
-𩌤	None	录入中	None	None
-𩌋	None	录入中	None	None
-𩌪	None	录入中	None	None
-䪄	None	录入中	None	None
-𩌱	None	录入中	None	None
-䩽	None	录入中	None	None
-𩌶	None	录入中	None	None
-𩌲	None	录入中	None	None
-鞺	None	录入中	None	None
-鞻	None	录入中	None	None
-𩌹	None	录入中	None	None
-𩌺	None	录入中	None	None
-𩌩	None	录入中	None	None
-𩌻	None	录入中	None	None
-𩌦	None	录入中	None	None
-𩌳	None	录入中	None	None
-𩌼	None	录入中	None	None
-𩌽	None	录入中	None	None
-䩾	None	录入中	None	None
-𩌨	None	录入中	None	None
-𩌫	None	录入中	None	None
-𩌬	None	录入中	None	None
-𩌵	None	录入中	None	None
-𩍉	None	录入中	None	None
-𩌾	None	录入中	None	None
-𩌮	None	录入中	None	None
-𩌿	None	录入中	None	None
-𩌭	None	录入中	None	None
-𩌰	None	录入中	None	None
-𩍀	None	录入中	None	None
-䩿	None	录入中	None	None
-韃	None	录入中	None	None
-𩍛	None	录入中	None	None
-𩍘	None	录入中	None	None
-𩍊	None	录入中	None	None
-𩍋	None	录入中	None	None
-䪂	None	录入中	None	None
-𩍄	None	录入中	None	None
+鞷	ge2	古代的一种钟类乐器 也作=膈	None	膈
+𩌯	jian1	窑工所用的工具	None	None
+𩌚	None	同=鞽	None	鞽
+𩌛	None	同=鞞	None	鞞
+𩋩	zhi4	鞋底	None	None
+𩋩	zhi4	纳鞋底	None	None
+𩌆	suo3	革锁	None	None
+鞸	bi4	同=韠 古代朝觐或祭祀时遮蔽在衣服前面的一种服饰	None	韠
+鞸	bi4	同=䩛 约束在车上的皮带	None	䩛
+鞸	bing3	同=鞞 刀剑鞘	None	鞞
+𩌇	ta4	兵器	None	None
+𩌇	ta4	鼓声 也作=𪔕	None	𪔕
+𩌐	ta4	[鏜𩌐]也作“鏜=鞳” 钟鼓声	None	鞳
+𩌜	None	同=絛	None	絛
+𩌎	None	同=鞴	None	鞴
+𮧨	None	同=鞬	None	鞬
+鞶	pan2	古人佩玉的革带	None	None
+鞶	pan2	马腹大带	None	None
+鞶	pan2	车轴上系靷的皮环	None	None
+𩌒	None	=𩌞的讹字	None	𩌞
+𩌞	None	同=鞹(鞟)	None	鞹
+鞱	None	同=韜	None	韜
+鞵	xie2	鞋 后作=鞋	None	鞋
+䩺	weng1	靴靿，棉鞋	None	None
+𩌟	None	同=鞁	None	鞁
+𩌠	xiong1	@ ……按：疑即=胷的俗字	None	胷
+䩼	feng2	被缝	None	None
+䩼	feng2	鼓声	None	None
+𩌄	chou3	同=𩋄 𩋄束也	None	𩋄
+𩌄	zhou1	皮革皱纹	None	None
+𩌡	he2	@	None	None
+𩌡	jue1	同=鞽(屩) 草鞋	None	鞽
+鞹	None	同=鞟	None	鞟
+䩷	bang1	同=幫 鞋的边缘部分	None	幫
+𩌣	None	同=䪁	None	䪁
+𩌑	yuan3	量物器	None	None
+𩌑	yuan3	掏井取泥的器具	None	None
+𩍂	bao4	同=鞄 治革的工人	None	鞄
+𩌤	None	同=䩞	None	䩞
+𩌋	None	同=𩍓	None	𩍓
+𩌪	ze2	微也	None	None
+䪄	None	同=煌	None	煌
+𩌱	None	同=䩳	None	䩳
+䩽	yu1	马上放置弓矢量的器具	None	None
+䩽	yu1	一种鞋	None	None
+𩌶	None	同=覲	None	覲
+𩌲	xu4	古邑名 也作=𩍳	None	𩍳
+𩌲	xu4	马耳的装饰 也作=𩌙	None	𩌙
+鞺	tang1	[鞺鞳]象声词 鼓声 也单用作“鞺”	None	None
+鞺	tang1	盛貌	None	None
+鞻	lou2	[鞮鞻氏]周代乐官名 掌四夷之乐	None	None
+𩌹	None	同=韅	None	韅
+𩌺	None	同=韅	None	韅
+𩌩	sui1	𩌩鞍皮	None	None
+𩌩	sui1	鞘	None	None
+𩌻	None	同=鞭	None	鞭
+𩌦	None	同=屣	None	屣
+𩌳	None	同=屣	None	屣
+𩌼	None	同=𩌞(鞟)	None	𩌞
+𩌽	None	同=鞠	None	鞠
+䩾	zhe4	[石䩾]也叫石皮、石韦 药草名	None	None
+𩌨	chong2	拉纤	None	None
+𩌨	chong2	干革 一说革干	None	None
+𩌫	lu4	[𩌫𩍼]即“=轆轤” 利用轮轴原理汲取井水的起重装置	None	轆
+𩌬	zhang1	[𩌬泥]也作“=障泥” 垫在鞍下，垂于马腹两侧，用以遮挡尘土者	None	障
+𩌵	None	同=韉	None	韉
+𩍉	rong2	@	None	None
+𩌾	jiang3	@	None	None
+𩌮	xu4	鞋	None	None
+𩌿	None	同=鼗	None	鼗
+𩌭	luo4	[𩌭𥀣]也作“=𩍪𥀣” 皮坚	None	𩍪
+𩌰	shan1	旌旗下边悬垂的饰物	None	None
+𩌰	shan1	马鞍絛饰下垂貌	None	None
+𩍀	None	同=𩌆	None	𩌆
+䩿	None	同=鼖	None	鼖
+韃	ta4	同=撻 用鞭棍等打人	None	撻
+韃	da2	[韃靼]1.我国古代北方各游牧民族的统称 后为蒙古的别称 也单称“韃” 2.俄罗斯民族之一	None	None
+𩍛	None	同=鞨	None	鞨
+𩍘	None	同=鞴	None	鞴
+𩍊	None	同=繩	None	繩
+𩍋	None	同=繩	None	繩
+䪂	None	同=𩎎	None	𩎎
+𩍄	None	同=𦏌(羺)	None	𦏌
 𩍠	None	录入中	None	None
 䪁	None	录入中	None	None
 𩍌	None	录入中	None	None
