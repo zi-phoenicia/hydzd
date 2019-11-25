@@ -80435,44 +80435,87 @@
 𩋆	qian2	同=慳	None	慳
 䩫	liang3	同=緉 量词 古代计算鞋子的单位 相当于“双”	None	緉
 ⿰革卖	None	=韇的类推简化字	None	韇
-䩭	None	录入中	None	None
-𩋊	None	录入中	None	None
-𩋋	None	录入中	None	None
-𩋂	None	录入中	None	None
-𩋀	None	录入中	None	None
-鞝	None	录入中	None	None
-𩋗	None	录入中	None	None
-𩋌	None	录入中	None	None
-鞜	None	录入中	None	None
-𩋍	None	录入中	None	None
-𩋘	None	录入中	None	None
-鞞	None	录入中	None	None
-𩋏	None	录入中	None	None
-𩋒	None	录入中	None	None
-𩋙	None	录入中	None	None
-𩋃	None	录入中	None	None
-𩋚	None	录入中	None	None
-鞠	None	录入中	None	None
-鞟	None	录入中	None	None
-𩋛	None	录入中	None	None
-鞛	None	录入中	None	None
-𩋑	None	录入中	None	None
-䩪	None	录入中	None	None
-鞚	None	录入中	None	None
-䩩	None	录入中	None	None
-鞬	None	录入中	None	None
-䩮	None	录入中	None	None
-𩋜	None	录入中	None	None
-𩋎	None	录入中	None	None
-𩋓	None	录入中	None	None
-䩯	None	录入中	None	None
-𩋁	None	录入中	None	None
-𩋝	None	录入中	None	None
-𩋮	None	录入中	None	None
-鞤	None	录入中	None	None
-䩸	None	录入中	None	None
-鞯	None	录入中	None	None
-鞢	None	录入中	None	None
+䩭	None	同=羈	None	羈
+𩋊	e4	车具	None	None
+𩋋	jian1	同=韀(韉)	None	韀
+𩋋	jian1	替	None	None
+𩋂	bai4	同=韛 皮鼓风囊，俗称风箱	None	韛
+𩋀	None	同=𩌦(屣)	None	𩌦
+鞝	zhang3	扇马鞍皮	None	None
+鞝	shang4	缝皮 如：鞝鞋	None	None
+𩋗	guo3	@	None	None
+𩋌	yi4	[素𩋌]鞋	None	None
+鞜	ta4	皮鞋	None	None
+鞜	ta4	同=䶀 鼓声	None	䶀
+𩋍	xiao1	羽翼凋敝	None	None
+𩋘	None	同=鞋	None	鞋
+鞞	bing3	刀剑鞘	None	None
+鞞	bi4	同=鞸(韠) 古代朝觐或祭祀时遮蔽在衣裳前面的一种服饰	None	鞸
+鞞	pi2	通=鼙 鼓名	None	鼙
+鞞	pi2	同=郫 县名 秦置，在今四川省成都平原中部	None	郫
+鞞	bei1	[牛鞞]古县名 汉置，故城在今四川省简阳市东	None	None
+𩋏	nie4	[鞍𩋏]薄	None	None
+𩋒	bing1	服马当胸的皮革	None	None
+𩋒	bing1	车	None	None
+𩋙	tiao2	同=調 训练；驯服	None	調
+𩋙	tao1	旗杆的韬	None	None
+𩋃	yao2	鼓	None	None
+𩋃	tao2	鼓框木	None	None
+𩋚	None	[𩋚𩍬]@	None	None
+鞠	ju1	古代一种用革制的皮球	None	None
+鞠	ju1	弯曲	None	None
+鞠	ju1	匍匐	None	None
+鞠	ju1	生；养	None	None
+鞠	ju1	爱	None	None
+鞠	ju1	幼稚	None	None
+鞠	ju1	盈；多	None	None
+鞠	ju1	告诫	None	None
+鞠	ju1	高貌	None	None
+鞠	ju1	星名	None	None
+鞠	ju1	通=鞫 1.审问 2.穷困 3.穷尽	None	鞫
+鞠	ju1	通=菊(ju2) 菊花	None	菊
+鞠	ju1	姓 	None	None
+鞠	qu1	果菜	None	None
+鞠	qu1	通=𥶶(麯) 酵母	None	𥶶
+鞠	qiong2	[鞠藭]即“=芎藭” 伞形科 多年生草本 根状茎含挥发性油状生物碱 中医学上以干燥根状茎入药	None	芎
+鞟	kuo4	皮革	None	None
+鞟	kuo4	制革	None	None
+鞟	kuo4	靴子	None	None
+𩋛	None	同=靾	None	靾
+鞛	None	同=琫	None	琫
+𩋑	None	同=鞢	None	鞢
+䩪	guan3	鞍辔等的统称	None	None
+鞚	kong4	带嚼子的马笼头	None	None
+鞚	kong4	控制，驾驭	None	None
+鞚	kong4	马	None	None
+鞚	kong4	古乐器名 鼓的一种	None	None
+鞚	kong4	鼓腔	None	None
+䩩	yuan3	同=𩌑	None	𩌑
+䩩	yuan3	同=䡝(yuan1)	None	䡝
+鞬	jian1	马上盛弓矢的器具	None	None
+鞬	jian1	古代博戏用语	None	None
+鞬	jian1	藏闭	None	None
+鞬	jian1	束，缠束	None	None
+䩮	lu4	[胡䩮]也作“胡=簶” 箭袋	None	簶
+𩋜	ju1	@	None	None
+𩋎	None	同=倔	None	倔
+𩋓	None	同=皺	None	皺
+䩯	ji2	急 也作=革	None	革
+䩯	qi4	皮革坚硬	None	None
+𩋁	zhuo2	车具	None	None
+𩋝	None	同=𩌆	None	𩌆
+𩋮	feng3	军人皮	None	None
+𩋮	feng3	车边皮	None	None
+𩋮	bang1	同=鞤(幫)	None	鞤
+鞤	bang1	同=幫 鞋的边缘部分 即鞋帮	None	幫
+䩸	rong2	覆于鞍上作装饰的细毛毯	None	None
+䩸	rong2	皮革	None	None
+䩸	rong3	同=𣯍(氄)	None	𣯍
+鞯	None	=韉的简化字	None	韉
+鞢	xie4	[䩞鞢]也单用作“鞢”	None	None
+鞢	xie4	马缰	None	None
+鞢	zha2	[𩉾鞢]见“𩉾”	None	None
+鞢	die2	[鞢𩎃]也作“䪓韘” 古代胡服䪓韘带上用以佩物的金属装饰	None	None
 鞳	None	录入中	None	None
 䩴	None	录入中	None	None
 𩋶	None	录入中	None	None
