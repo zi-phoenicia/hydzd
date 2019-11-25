@@ -80775,19 +80775,20 @@
 𩍓	yong1	靴、袜的筒儿	None	None
 𩍧	zhou4	鞍辔等的统称	None	None
 韈	None	同=韤	None	韤
-𩍭	None	录入中	None	None
-𩍨	None	录入中	None	None
-𩍦	None	录入中	None	None
-𩍥	None	录入中	None	None
-韅	None	录入中	None	None
-𩍮	None	录入中	None	None
-𩍩	None	录入中	None	None
-𩍫	None	录入中	None	None
-𩍱	None	录入中	None	None
-𩍯	None	录入中	None	None
-𩍪	None	录入中	None	None
-𩍴	None	录入中	None	None
-韇	None	录入中	None	None
+𩍭	None	同=靷	None	靷
+𩍨	gui4	同=鞼 有文绣的皮革	None	鞼
+𩍦	ni3	同=𩉹 辔垂貌	None	𩉹
+𩍥	ru3	鞋𩍥	None	None
+韅	xian3	驾牛马的皮件，在腋的叫“韅”	None	None
+𩍮	None	同=䩸	None	䩸
+𩍩	None	同=䪁	None	䪁
+𩍫	None	同=靷	None	靷
+𩍱	None	同=靷	None	靷
+𩍯	None	=𩫠的讹字	None	𩫠
+𩍪	luo4	[𩍪𥀣]皮坚	None	None
+𩍴	None	同=𩎑	None	𩎑
+韇	du2	弓箭葫芦或箭筒	None	None
+韇	du2	古代卜筮用的蓍草筒	None	None
 韆	None	录入中	None	None
 䪋	None	录入中	None	None
 𩎂	None	录入中	None	None
