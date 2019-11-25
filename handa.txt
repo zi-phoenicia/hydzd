@@ -80255,70 +80255,114 @@
 𩉿	qu2	马鞍	None	None
 𩊅	bao4	𩊅起，发硬	None	None
 𩊃	ma4	皮制鞋	None	None
-𩊁	None	录入中	None	None
-鞄	None	录入中	None	None
-𩊋	None	录入中	None	None
-𩊌	None	录入中	None	None
-䩙	None	录入中	None	None
-靽	None	录入中	None	None
-𩉺	None	录入中	None	None
-䩛	None	录入中	None	None
-𩊍	None	录入中	None	None
-𩉹	None	录入中	None	None
-𩉽	None	录入中	None	None
-𩊎	None	录入中	None	None
-鞃	None	录入中	None	None
-𩊏	None	录入中	None	None
-鞀	None	录入中	None	None
-鞁	None	录入中	None	None
-靿	None	录入中	None	None
-鞋	None	录入中	None	None
-鞊	None	录入中	None	None
-鞏	None	录入中	None	None
-𩊐	None	录入中	None	None
-𩊘	None	录入中	None	None
-𩊓	None	录入中	None	None
-鞑	None	录入中	None	None
-𩊡	None	录入中	None	None
-𩊢	None	录入中	None	None
-䩟	None	录入中	None	None
-𩊞	None	录入中	None	None
-𩊒	None	录入中	None	None
-𩊗	None	录入中	None	None
-鞇	None	录入中	None	None
-𩊟	None	录入中	None	None
-𩊣	None	录入中	None	None
-䩠	None	录入中	None	None
-鞒	None	录入中	None	None
-𩊤	None	录入中	None	None
-𩊙	None	录入中	None	None
-䩥	None	录入中	None	None
-𫖇	None	录入中	None	None
-鞈	None	录入中	None	None
-鞉	None	录入中	None	None
-𩊜	None	录入中	None	None
-𩊛	None	录入中	None	None
-𩊝	None	录入中	None	None
-𩊚	None	录入中	None	None
-𩊥	None	录入中	None	None
-𩊔	None	录入中	None	None
-𩊑	None	录入中	None	None
-𩊖	None	录入中	None	None
-𩊦	None	录入中	None	None
-鞍	None	录入中	None	None
-鞌	None	录入中	None	None
-鞎	None	录入中	None	None
-𩊧	None	录入中	None	None
-𩊨	None	录入中	None	None
-䩢	None	录入中	None	None
-𩊴	None	录入中	None	None
-𩊲	None	录入中	None	None
-𩊳	None	录入中	None	None
-𩋖	None	录入中	None	None
-𩋐	None	录入中	None	None
-𩊬	None	录入中	None	None
-鞕	None	录入中	None	None
-𩊯	None	录入中	None	None
+𩊁	wan3	[𩊁下]履名 也单用作“𩊁”	None	None
+鞄	pao2	治革的工人	None	None
+鞄	pao2	同=匏 八音之一，指笙、竽一类乐器	None	匏
+鞄	pao2	通=枹(fu2) 鼓槌	None	枹
+鞄	pao2	用同=包(bao1) 皮包	None	包
+鞄	pao2	姓	None	None
+𩊋	None	同=鞄	None	鞄
+𩊌	beng3	[得𩊌子]曲名	None	None
+䩙	xuan4	同=鞙	None	鞙
+䩙	xian3	同=𩌹(韅)	None	𩌹
+靽	ban4	驾具，套在牲口后部的皮带	None	None
+靽	ban4	同=絆 用绳子把足系住 引申指约束，牵制	None	絆
+𩉺	tuo2	驾车时拴在牲口屁股周围的皮带	None	None
+䩛	bi4	约束在车上的皮带	None	None
+䩛	pei4	同=轡 驾御牲口的缰绳	None	轡
+𩊍	mai4	@	None	None
+𩉹	ni3	辔垂貌	None	None
+𩉹	ni3	软貌	None	None
+𩉽	fu2	同=笰 古代车箱后面的遮蔽物	None	笰
+𩊎	None	=鞃的讹字	None	鞃
+鞃	hong2	用革裹扎的车轼中段人所凭处	None	None
+𩊏	jia1	@	None	None
+鞀	None	同=鼗	None	鼗
+鞁	bei4	鞍辔等马具的统称	None	None
+鞁	bei4	把鞍辔等套在马上	None	None
+鞁	bi4	皮	None	None
+⿰革𠬤	None	=𩍜的类推简化字	None	𩍜
+靿	yao4	靴、袜的筒儿	None	None
+鞋	xie2	鞋子	None	None
+鞋	xie2	系	None	None
+鞋	wa1	车上系	None	None
+鞊	jie2	皮子	None	None
+鞊	jie2	屈	None	None
+鞊	ji2	套在牛马颈上的皮带	None	None
+鞊	ji2	马鞍	None	None
+鞏	gong3	用皮革束物	None	None
+鞏	gong3	牢固	None	None
+鞏	gong3	勤劳	None	None
+鞏	gong3	用同=栱 建筑物立柱与横梁之间成弓形的承重结构	None	栱
+鞏	gong3	通=恐(kong3) 恐惧	None	恐
+鞏	gong3	烘焙	None	None
+鞏	gong3	春秋时国名 故地在今河南省巩义市境	None	None
+鞏	gong3	地名 1.县名 本周巩伯邑，秦置巩县，汉属河南郡，治所在今河南省巩义市境 2.州名 a.宋改渭州置 治所在陇西县 辖境相当今甘肃省陇西县、通渭县、漳县、武山县、定西县等地 b.唐仪凤二年（公元677年）置，治所在今四川省珙县南	None	None
+鞏	gong3	姓	None	None
+𩊐	None	同=䩸	None	䩸
+𩊘	None	同=𩋠	None	𩋠
+𩊓	kua3	同=銙 古代附于腰带上的扣板	None	銙
+𩊓	kua3	茶名 建茶的一种	None	None
+𩊓	ku4	同=絝 套裤	None	絝
+鞑	None	=韃的简化字	None	韃
+𩊡	zhen4	@	None	None
+𩊢	e4	@ ……按：……疑为=軛的俗字	None	軛
+䩟	yi2	熟皮	None	None
+䩟	yi2	鞍饰	None	None
+䩟	ti4	鞍、辔等马具的统称	None	None
+⿰革毕	None	=鞸的类推简化字	None	鞸
+𩊞	None	同=𩊝	None	𩊝
+𩊒	None	同=靾	None	靾
+𩊗	None	同=𩍅	None	𩍅
+鞇	yin1	同=茵 车上的垫褥	None	茵
+𩊟	None	同=鞅	None	鞅
+𩊣	zhu1	@	None	None
+䩠	None	同=鞓	None	鞓
+鞒	None	=鞽的简化字	None	鞽
+𩊤	ba2	@	None	None
+𩊙	None	同=絥	None	絥
+䩥	dan4	马带	None	None
+䩥	dan4	古代卤簿中备用的散马	None	None
+䩥	chan2	皮制的鞋子	None	None
+𫖇	None	=鞾的类推简化字	None	鞾
+鞈	ge2	古代革制的胸甲	None	None
+鞈	ge2	障泥	None	None
+鞈	ge2	坚貌	None	None
+鞈	ge2	囊属	None	None
+鞈	sa3	同=靸	None	靸
+鞈	ta4	通=䶀 鼓声	None	䶀
+鞉	None	同=鼗	None	鼗
+𩊜	duo4	同=䩔 鞋跟的缘边	None	䩔
+𩊛	gui3	角不齐	None	None
+𩊛	gui3	䪌	None	None
+𩊝	zhi4	围束在盖杠上使车盖不前倾的皮绳	None	None
+𩊚	luo4	生革缕带，因指生革	None	None
+𩊥	None	同=皺	None	皺
+𩊔	jiao4	囊	None	None
+𩊔	jiao4	鲛鱼皮 也作=鮫	None	鮫
+𩊑	yang3	治皮	None	None
+𩊖	bing3	皮带	None	None
+𩊦	None	同=狩	None	狩
+鞍	an1	马鞍	None	None
+鞍	an1	地名 春秋齐地，在今山东省济南市	None	None
+鞌	None	同=鞍	None	鞍
+鞎	hen2	古代车箱前面的遮蔽物	None	None
+𩊧	None	同=鞅	None	鞅
+𩊨	zhen4	@	None	None
+𬰤	None	=𩋰的类推简化字	None	𩋰
+䩢	zhi4	刀鞘	None	None
+䩢	zhi4	竹席	None	None
+䩢	da2	同=靼 柔软的皮革	None	靼
+𩊴	zhi4	@	None	None
+𩊲	None	同=鼗	None	鼗
+𩊳	None	同=鞏	None	鞏
+𩋖	None	同=靴	None	靴
+𩋐	None	同=𩌰	None	𩌰
+𩊬	bu4	靴	None	None
+鞕	ying4	同=硬 坚	None	硬
+鞕	ying4	通=鯁(geng3) 哽塞	None	鯁
+鞕	bian1	同=鞭	None	鞭
+𩊯	se4	坚硬	None	None
 𩊪	None	录入中	None	None
 𩊵	None	录入中	None	None
 䩡	None	录入中	None	None
