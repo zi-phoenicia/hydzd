@@ -80547,53 +80547,93 @@
 𩋟	fu2	同=𩋨 皮带	None	𩋨
 𩋟	fu4	同=䪖(䪙) 皮衣车轭	None	䪖
 𩋦	None	同=𩏇	None	𩏇
-鞭	None	录入中	None	None
-𩌅	None	录入中	None	None
-𩌃	None	录入中	None	None
-𩌝	None	录入中	None	None
-𩋱	None	录入中	None	None
-䩱	None	录入中	None	None
-鞥	None	录入中	None	None
-𩋫	None	录入中	None	None
-𩋯	None	录入中	None	None
-𩋭	None	录入中	None	None
-𩋺	None	录入中	None	None
-鞫	None	录入中	None	None
-𩋻	None	录入中	None	None
-䩲	None	录入中	None	None
-𩋣	None	录入中	None	None
-𩌢	None	录入中	None	None
-𩋼	None	录入中	None	None
-鞧	None	录入中	None	None
-𩋢	None	录入中	None	None
-𩋡	None	录入中	None	None
-𩋽	None	录入中	None	None
-䩳	None	录入中	None	None
-䩵	None	录入中	None	None
-𩋥	None	录入中	None	None
-𩋾	None	录入中	None	None
-𩋿	None	录入中	None	None
-𩌀	None	录入中	None	None
-鞣	None	录入中	None	None
-鞪	None	录入中	None	None
-𩌁	None	录入中	None	None
-𩋰	None	录入中	None	None
-𩋈	None	录入中	None	None
-𩌉	None	录入中	None	None
-𩌘	None	录入中	None	None
-鞲	None	录入中	None	None
-䩻	None	录入中	None	None
-𩌌	None	录入中	None	None
-𩌥	None	录入中	None	None
-𩌍	None	录入中	None	None
-鞾	None	录入中	None	None
-鞴	None	录入中	None	None
-𩌧	None	录入中	None	None
-𩍁	None	录入中	None	None
-𩌙	None	录入中	None	None
-𩌈	None	录入中	None	None
-𩌏	None	录入中	None	None
-䩹	None	录入中	None	None
+鞭	bian1	打马	None	None
+鞭	bian1	马鞭	None	None
+鞭	bian1	古代宫刑之一	None	None
+鞭	bian1	竹根	None	None
+鞭	bian1	古代兵器 如：竹节鞭；三棱鞭	None	None
+鞭	bian1	爆竹 如：一挂鞭；放鞭	None	None
+𩌅	None	同=䩳	None	䩳
+𩌃	huai2	鬼布	None	None
+𩌃	gui4	马缰 也作=鞼	None	鞼
+𩌝	chui2	@	None	None
+𩋱	xuan1	同=𨍓(軒) 古代一种前高后低的车子	None	𨍓
+䩱	shu4	刀鞘	None	None
+䩱	shu4	和	None	None
+䩱	yu2	馀	None	None
+䩱	yu2	孽	None	None
+䩱	shu1	同=㡏 裁裂缯帛的正幅	None	㡏
+鞥	eng1	马缰绳	None	None
+𩋫	xuan4	皮𩋫	None	None
+𩋫	xuan4	同=𩋢	None	𩋢
+𩋯	zong4	[鞚𩋯]驾马遽	None	None
+𩋭	None	同=鞔	None	鞔
+𩋺	gao4	@	None	None
+鞫	ju1	穷究，审问	None	None
+鞫	ju1	穷尽	None	None
+鞫	ju1	穷困	None	None
+鞫	ju1	水涯的尽头	None	None
+鞫	ju1	同=鞠	None	鞠
+鞫	ju1	姓	None	None
+鞫	qu1	同=鞠	None	鞠
+𩋻	None	同=鞟	None	鞟
+䩲	du1	析皮具	None	None
+䩲	du1	牛牵船	None	None
+𩋣	ti2	常	None	None
+𩌢	suo1	@	None	None
+𩋼	None	=𩌣的讹字	None	𩌣
+⿰革娄	None	=鞻的类推简化字	None	鞻
+鞧	qiu1	拴在牲口股后的皮带	None	None
+鞧	qiu1	方言 收缩 如：鞧着眉毛	None	None
+𩋢	xuan4	同=楦	None	楦
+𩋢	yun4	同=韗 制鼓的工人	None	韗
+𩋡	shi4	刀剑鞘 也作=室	None	室
+𩋽	e2	同=䩹 补鞋	None	䩹
+䩳	sou1	治过的软皮	None	None
+䩵	None	同=韗	None	韗
+𩋥	None	同=䪗	None	䪗
+𩋾	wei2	同=韋	None	韋
+𩋾	wei3	[𩋾𩋾]也作“=韡韡” 明盛貌	None	韡
+𩋾	xue1	同=鞾(靴)	None	鞾
+𩋿	mei2	@	None	None
+䩶	chan3	骖马鞍辔的统称	None	None
+䩶	chan3	收丝器	None	None
+䩶	chan3	意不尽	None	None
+𩌀	None	同=𪔨(鼓)	None	𪔨
+鞣	rou2	熟皮	None	None
+鞣	rou2	用鞣料将兽皮制成柔软的皮革	None	None
+鞣	rou2	用同=蹂 蹂躏	None	蹂
+鞣	rou2	干革	None	None
+鞪	mu4	同=楘 车辕上绑扎加固的皮带，也作为装饰	None	楘
+鞪	mou2	[鞮鞪]即“兜=鍪” 头盔	None	鍪
+𩌁	xxx	[𩋄𩌁]见“𩋄”	None	None
+𩋰	zhou4	同=紂 套车时拴在牲口尾部横木上的皮带	None	紂
+𩋈	nao4	质量好的皮革	None	None
+𩌉	ta4	同=撻 鞭打	None	撻
+𩌘	ta4	同=撻 鞭打	None	撻
+鞲	None	同=韝	None	韝
+䩻	None	同=䩗	None	䩗
+𩌌	gong3	生皮	None	None
+𩌥	None	同=𩌊	None	𩌊
+𩌍	jia3	[𩌍䩖]也作“䩡=沙” 古代一种缺前壅的靴子	None	沙
+𩌍	jia3	履根	None	None
+鞾	None	同=靴	None	靴
+鞴	bei4	车絥，覆盖在车轼上的一种饰物 也作=絥	None	絥
+鞴	bei4	装备车马	None	None
+鞴	fu2	韦囊	None	None
+鞴	bu4	[鞴靫]盛箭器 也作“=步靫”	None	步
+鞴	bai4	皮鼓风囊，俗称风箱 也作=韛	None	韛
+𩌧	mo3	[鞊𩌧]皮革	None	None
+𩍁	None	同=鞴	None	鞴
+𩌙	None	[𩌙耳]也作“𩌲耳” 马耳的装饰	None	None
+𩌈	suo3	[𩌈𩍜]我国古代少数民族的一种靴子，鞋头不加护套	None	None
+𩌏	bo2	车下索	None	None
+𩌏	fu2	车上囊	None	None
+𩌏	bu4	内裤	None	None
+𩌏	fu4	同=䪙 皮衣车轭	None	䪙
+䩹	e2	补鞋	None	None
+䩹	e2	鞋头	None	None
+䩹	kuo4	同=鞹(鞟)	None	鞹
 鞷	None	录入中	None	None
 𩌯	None	录入中	None	None
 𩌚	None	录入中	None	None
