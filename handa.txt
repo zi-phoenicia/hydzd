@@ -34657,11 +34657,38 @@
 灪	None	录入中	None	None
 𤆀	None	录入中	None	None
 𤆁	None	录入中	None	None
-手	None	录入中	None	None
-𢩦	None	录入中	None	None
-𢩥	None	录入中	None	None
-扎	None	录入中	None	None
-𢩬	None	录入中	None	None
+手	shou3	腕以下的指掌部分 也指人体上肢 如：手脑并用；手舞足蹈	None	None
+手	shou3	某些有代替人手作用的机械部分或动物的感触器 如：扳手；触手；机械手	None	None
+手	shou3	拿着 	None	None
+手	shou3	取	None	None
+手	shou3	徒手搏击	None	None
+手	shou3	受束缚，桎梏	None	None
+手	shou3	亲自；亲手如：手谕	None	None
+手	shou3	手迹，笔迹	None	None
+手	shou3	气口，即中医所称寸口	None	None
+手	shou3	专司某事或擅长某种技艺的人 如：水手；神枪手；革新能手	None	None
+手	shou3	手艺；手法 如：眼高手低；心狠手辣 	None	None
+手	shou3	小巧的、便于手头携带或使用的 如：手折；手册	None	None
+手	shou3	西南少数民族地区货币计算单位	None	None
+手	shou3	量词 多用于技能、本领 如：他露了两手绝招；这手草书好极了	None	None
+手	shou3	用在表示方位的词后，表示地点、方位，相当于“边”、“面”	None	None
+手	shou3	通=首	None	首
+𢩦	ji1	受	None	None
+𢩥	None	同=失	None	失
+扎	zha2	同=札	None	札
+扎	zha2	拔	None	None
+扎	zha2	用同=炸 放在沸油里煎	None	炸
+扎	zha1	刺 如：扎针；扎手	None	None
+扎	zha1	驻扎 如：扎营；屯扎	None	None
+扎	zha1	停止	None	None
+扎	zha1	钻进；插（入）；向下用力 如：扎根；扎猛子	None	None
+扎	zha1	揸开，张开	None	None
+扎	zha1	用同=拃 张开的拇指同食指或中指间的距离	None	拃
+扎	zha3	用同=眨	None	眨
+扎	za1	捆绑；缠束 如：扎行李；扎辫子；包扎伤口	None	None
+扎	za1	挽，卷 如：扎起袖子；扎高裤脚	None	None
+扎	za1	量词 用于某些捆缠的东西 如：一扎线；一扎麦子	None	None
+𢩬	None	同=㓞	None	㓞
 打	None	录入中	None	None
 𢩨	None	录入中	None	None
 扑	None	录入中	None	None
