@@ -34689,34 +34689,121 @@
 扎	za1	挽，卷 如：扎起袖子；扎高裤脚	None	None
 扎	za1	量词 用于某些捆缠的东西 如：一扎线；一扎麦子	None	None
 𢩬	None	同=㓞	None	㓞
-打	None	录入中	None	None
-𢩨	None	录入中	None	None
-扑	None	录入中	None	None
-扒	None	录入中	None	None
-𢩩	None	录入中	None	None
-扏	None	录入中	None	None
-𢩫	None	录入中	None	None
-㧃	None	录入中	None	None
-㧄	None	录入中	None	None
-扔	None	录入中	None	None
-㧅	None	录入中	None	None
-扐	None	录入中	None	None
-払	None	录入中	None	None
-𢪓	None	录入中	None	None
-𢩷	None	录入中	None	None
-𢩸	None	录入中	None	None
-扞	None	录入中	None	None
-扜	None	录入中	None	None
-扝	None	录入中	None	None
-扗	None	录入中	None	None
-扛	None	录入中	None	None
-𢩱	None	录入中	None	None
-𢩹	None	录入中	None	None
-𢩭	None	录入中	None	None
-扙	None	录入中	None	None
-𢪂	None	录入中	None	None
-扤	None	录入中	None	None
-𢪁	None	录入中	None	None
+𫼔	None	同=㓞	None	㓞
+打	da3	撞击；敲打	None	None
+打	da3	攻击；攻打	None	None
+打	da3	放出；发出 如：打枪；打雷；打信号；打电报	None	None
+打	da3	注入；扎入 如：给轮胎打气	None	None
+打	da3	制作；造 如：打刀；打首饰	None	None
+打	da3	建造；建筑 如：打坝；打墙	None	None
+打	da3	拨动；搬动 如：打舵；打算盘；打方向盘	None	None
+打	da3	击打，使分离	None	None
+打	da3	开凿 如：打井；打洞	None	None
+打	da3	器皿、蛋类等因撞击而破损 如：碗打了；鸡飞蛋打	None	None
+打	da3	揭；揭开 如：打帐子；打开盖子	None	None
+打	da3	用纸墨摹拓碑帖，义与=搨同	None	搨
+打	da3	画上；印上 如：打样；打格子；打邮戳	None	None
+打	da3	写；开；出据 如：打证明；打介绍信	None	None
+打	da3	合；结合 如：打伙；和群众打成一片	None	None
+打	da3	把一种东西附着或加在另一种东西上 如：打蜡；打油漆；打补钉	None	None
+打	da3	砍取；割去	None	None
+打	da3	猎取；捕捉	None	None
+打	da3	汲取；舀取	None	None
+打	da3	举；提 如：打火把；打灯笼	None	None
+打	da3	蛀；嚼 如：衣服被虫打了	None	None
+打	da3	买 如：打油；打车票	None	None
+打	da3	定出；计算 如：打腹稿；打损耗；精打细算	None	None
+打	da3	采用；使用 如：打比喻；打官腔	None	None
+打	da3	引出 如：打岔；打趣	None	None
+打	da3	减；退	None	None
+打	da3	截，停止 如：打住双桨	None	None
+打	da3	表示人体发生某种动作 如：打手势；打瞌睡；打寒噤	None	None
+打	da3	从事或担任某种工作 如：打短工；打游击	None	None
+打	da3	与人发生交涉交往的行为 如：打交道；打照面	None	None
+打	da3	围棋用语	None	None
+打	da3	武术 如：教打；练打	None	None
+打	da3	古典戏曲剧本中，指示角色表演动作时的用语	None	None
+打	da3	达，至 如：穿一件打膝盖头的罩衫；高的没人头顶，矮的也打腰深	None	None
+打	da3	及，和	None	None
+打	da3	介词 相当于“自”、“从” 1.表示处所或方向 2.表示时间 如：打明天开始试车	None	None
+打	da3	助词 古典戏曲剧本中，用在叠字间作衬字	None	None
+打	da3	姓	None	None
+打	da2	量词 英语dozen音译的省略 十二个为一打 如：一打铅笔；一打毛巾	None	None
+𢩨	qiao3	同=巧 技巧；技能	None	巧
+𢩨	xiu3	劷𢩨力	None	None
+扑	pu1	轻轻地敲打	None	None
+扑	pu1	打，击	None	None
+扑	pu1	戒尺；刑杖	None	None
+扑	pu1	击败	None	None
+扑	pu1	=撲的简化字	None	撲
+扑	bo2	同=㨐 搏击；击杀	None	㨐
+扑	pi4	同=揊 击声	None	揊
+扒	ba1	刨；挖 如：扒土；扒堤	None	None
+扒	ba1	攀援 如：扒着墙头；扒着窗台	None	None
+扒	ba1	强行脱掉；剥下 如：扒皮；扒衣裳；扒掉伪装	None	None
+扒	ba1	击打	None	None
+扒	ba1	破	None	None
+扒	bai4	拔掉	None	None
+扒	bai4	救	None	None
+扒	bie2	分；剖分	None	None
+扒	pa1	把上身伏在别的物体上	None	None
+扒	pa2	用手或用耙子一类工具把东西聚拢或散开 如：扒草；扒土	None	None
+扒	pa2	一种煨烂食物的烹调法 如：扒羊肉	None	None
+扒	pa2	用同=爬	None	爬
+𢩩	None	=扠的讹字	None	扠
+扏	qiu2	缓	None	None
+𢩫	None	同=扟	None	扟
+㧃	shou1	同=收	None	收
+㧃	jiu1	同=摎 纠缠；纠结	None	摎
+㧄	qian3	以手取物	None	None
+扔	reng1	抛掷 如：扔球；扔手榴弹	None	None
+扔	reng1	丢弃	None	None
+扔	reng1	姓	None	None
+扔	reng4	牵引，拉	None	None
+扔	reng4	摧毁	None	None
+㧅	mu4	=朷的讹字	None	朷
+㧅	dao1	[㧅蹬]同“=叨蹬” 折腾；拉扯	None	叨
+扐	le4	古代筮法，筮者数蓍草的奇零之数，夹在左手指间	None	None
+扐	le4	手指之间	None	None
+扐	le4	余数	None	None
+扐	li4	捆绑	None	None
+扐	li4	西汉侯国名、县名 故址在今山东省商河县东北	None	None
+扐	cai2	同=材	None	材
+払	fan3	取	None	None
+𢪓	None	同=舁	None	舁
+𢩷	None	同=托	None	托
+𢩸	hai4	相着要害	None	None
+𢩸	hai4	亭名	None	None
+扞	han4	捍卫；护卫 后作=捍	None	捍
+扞	han4	抵御；抵挡 后作=捍	None	捍
+扞	han4	抵制；抗拒	None	None
+扞	han4	触犯；违犯	None	None
+扞	han4	阻止	None	None
+扞	han4	遮蔽	None	None
+扞	han4	古代射者所著的一种皮袖套，即臂衣	None	None
+扞	han4	同=銲(釬) 戈矛柄下端圆锥形的金属套，可以插入地中	None	銲
+扞	han4	勇猛；骠悍 后作=悍	None	悍
+扞	gan3	同=擀 辗轧	None	擀
+扜	yu1	指挥	None	None
+扜	yu1	引，拉	None	None
+扜	yu1	持	None	None
+扜	wu1	[扜零]古西域小宛国地名	None	None
+扝	ku1	播扬	None	None
+扝	wu1	引	None	None
+扗	None	同=在	None	在
+扛	gang1	用两手举（重物）	None	None
+扛	gang1	两人或两人以上共抬一物	None	None
+扛	kang2	用肩承担物体 如：扛枪；扛锄头	None	None
+扛	kang2	用言语顶撞	None	None
+𢩱	None	同=𢪋	None	𢪋
+𢩹	xia4	@	None	None
+𢩭	None	同=刌	None	刌
+扙	zhang4	伤	None	None
+𢪂	None	=㧋的讹字	None	㧋
+扤	wu4	动；摇动	None	None
+扤	wu4	搔动	None	None
+扤	wu4	姓	None	None
+𢪁	None	同=扤	None	扤
 𢩮	None	录入中	None	None
 扣	None	录入中	None	None
 㧇	None	录入中	None	None
