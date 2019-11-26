@@ -36652,36 +36652,85 @@
 牛	niu2	姓	None	None
 𤘔	hu4	臾	None	None
 𤘖	ting1	@	None	None
-牝	None	录入中	None	None
-㸨	None	录入中	None	None
-牞	None	录入中	None	None
-牟	None	录入中	None	None
-㸩	None	录入中	None	None
-牡	None	录入中	None	None
-𤘚	None	录入中	None	None
-𤘘	None	录入中	None	None
-𤘛	None	录入中	None	None
-㸪	None	录入中	None	None
-牤	None	录入中	None	None
-牢	None	录入中	None	None
-牠	None	录入中	None	None
-牣	None	录入中	None	None
-𤘠	None	录入中	None	None
-𤘱	None	录入中	None	None
-㸬	None	录入中	None	None
-𤘢	None	录入中	None	None
-𤘲	None	录入中	None	None
-𤘜	None	录入中	None	None
-牫	None	录入中	None	None
-𤘥	None	录入中	None	None
-𤘤	None	录入中	None	None
-𤘳	None	录入中	None	None
-𤘴	None	录入中	None	None
-𤘵	None	录入中	None	None
-𤘶	None	录入中	None	None
-牪	None	录入中	None	None
-𤘧	None	录入中	None	None
-牦	None	录入中	None	None
+牝	pin4	雌性的兽类，引申为雌性的	None	None
+牝	pin4	地	None	None
+牝	pin4	古时军阵名	None	None
+牝	pin4	古代锁具容受键的部分，相当于后来的闩孔、锁孔	None	None
+牝	pin4	溪谷	None	None
+㸨	jiu1	大公牛	None	None
+牞	jiu1	牛大力	None	None
+牞	le4	古国名	None	None
+牟	mou2	牛叫声	None	None
+牟	mou2	超过；加倍	None	None
+牟	mou2	博大	None	None
+牟	mou2	大麦 后作=麰	None	麰
+牟	mou2	眼珠 后作=眸	None	眸
+牟	mou2	爱	None	None
+牟	mou2	首	None	None
+牟	mou2	长久	None	None
+牟	mou2	通=蛑(蟊、蝥) 食苗根虫，引申为贪取，侵夺	None	蛑
+牟	mou2	通=堥 土釜	None	堥
+牟	mou2	通=侔 等同	None	侔
+牟	mou2	通=鍪 头盔	None	鍪
+牟	mou2	用同=模(mu2) 模样	None	模
+牟	mou2	用同=矛(mao2) 古代兵器，在长柄一端安有金属枪头	None	矛
+牟	mou2	春秋国名 在今山东省莱芜市东	None	None
+牟	mou2	姓	None	None
+牟	mao3	通=瞀 昏暗	None	瞀
+牟	mao3	古地名 故址在今河南省汤阴县境	None	None
+牟	mu3	[牟平]旧县名 在山东省东部，北滨黄海 汉为东牟县，隋为牟平县 明、清为宁海州，1914年复改为牟平县 1994年改为烟台市牟平区	None	None
+㸩	an2	止牛	None	None
+牡	mu3	雄性的兽类 引申为雄性的	None	None
+牡	mu3	指植物中不开花的	None	None
+牡	mu3	古时军阵名	None	None
+牡	mu3	古代锁器的一部分，相当于后来的锁须、门闩	None	None
+牡	mu3	丘陵	None	None
+𤘚	None	同=𢍿	None	𢍿
+𤘘	kou3	牛名	None	None
+𤘘	hou3	牛鸣	None	None
+𤘛	chun2	迟	None	None
+㸪	chun2	牛行缓慢	None	None
+牤	mang1	方言 公牛	None	None
+牢	lao2	关牲畜的栏圈	None	None
+牢	lao2	古代祭祀或宴享时用的牲畜 牛羊豕各一曰太牢，羊豕各一曰少牢	None	None
+牢	lao2	公家发给的粮食	None	None
+牢	lao2	监狱	None	None
+牢	lao2	包罗	None	None
+牢	lao2	坚固；牢固	None	None
+牢	lao2	把稳；稳妥	None	None
+牢	lao2	忧烦；苦闷	None	None
+牢	lao2	中医脉象，指脉搏似沉似伏，重按实而弦长	None	None
+牢	lao2	古州名 唐置，在今广西壮族自治区玉林市	None	None
+牢	lao2	古水名 即今广东省西南部的新兴江 源出天露山，北流经新兴县至高要入西江	None	None
+牢	lao2	姓	None	None
+牢	lao4	[搜牢]掳 掠	None	None
+牢	lou2	削小 或说通=婁，镂空	None	婁
+牠	tuo2	同=㸰	None	㸰
+牠	ta1	同=它 代词，称人以外的事物	None	它
+牣	ren4	满，充满	None	None
+牣	ren4	牛肥	None	None
+牣	ren4	通=韌 柔软而结实	None	韌
+𤘠	tian4	牛吃的草	None	None
+𤘱	None	同=㸬	None	㸬
+㸬	bei4	二岁牛	None	None
+㸬	bei4	体长的牛	None	None
+㸬	bei4	牛脚长大	None	None
+𤘢	pi1	使牛声	None	None
+𤘲	None	同=狀	None	狀
+𤘜	you2	不动	None	None
+牫	ge1	群角	None	None
+牫	qiu2	宫牫	None	None
+牫	zang1	同=戕	None	戕
+𤘥	None	同=牝	None	牝
+𤘤	pi4	牛具	None	None
+𤘳	None	同=牴	None	牴
+𤘴	None	同=牧	None	牧
+𤘵	hu2	@	None	None
+⿰牜冈	None	=犅的类推简化字	None	犅
+𤘶	None	同=杻	None	杻
+牪	yan4	牛伴	None	None
+𤘧	gui3	牛	None	None
+牦	mao2	牛名 或称犛牛 全身有黑褐色或棕色、白色长毛，腿矮身健，蹄质坚实，是我国青藏高原地区的主要力畜	None	None
 牧	None	录入中	None	None
 㸫	None	录入中	None	None
 𤘦	None	录入中	None	None
