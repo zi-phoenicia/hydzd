@@ -36731,24 +36731,61 @@
 牪	yan4	牛伴	None	None
 𤘧	gui3	牛	None	None
 牦	mao2	牛名 或称犛牛 全身有黑褐色或棕色、白色长毛，腿矮身健，蹄质坚实，是我国青藏高原地区的主要力畜	None	None
-牧	None	录入中	None	None
-㸫	None	录入中	None	None
-𤘦	None	录入中	None	None
-𤘡	None	录入中	None	None
-㸮	None	录入中	None	None
-𤘝	None	录入中	None	None
-𤘟	None	录入中	None	None
-牬	None	录入中	None	None
-物	None	录入中	None	None
-𤘷	None	录入中	None	None
-牨	None	录入中	None	None
-牥	None	录入中	None	None
-㸯	None	录入中	None	None
-𤘣	None	录入中	None	None
-㸭	None	录入中	None	None
-𤘞	None	录入中	None	None
-𤙏	None	录入中	None	None
-荦	None	录入中	None	None
+牧	mu4	放羊牲畜	None	None
+牧	mu4	放羊牲畜的人	None	None
+牧	mu4	牧场；放牧的地方	None	None
+牧	mu4	古指城邑的远郊	None	None
+牧	mu4	统治；主管	None	None
+牧	mu4	古代州的长官	None	None
+牧	mu4	修养；教养	None	None
+牧	mu4	法度	None	None
+牧	mu4	臣服，受统治	None	None
+牧	mu4	春秋时最下贱的奴隶	None	None
+牧	mu4	黑腹牛	None	None
+牧	mu4	古代井田制中计量土地面积的单位 引申为划田界	None	None
+牧	mu4	畜牧业的简称	None	None
+牧	mu4	古地名，即牧野	None	None
+牧	mu4	姓	None	None
+㸫	None	同=犍	None	犍
+𤘦	jie4	四岁或五岁的牛	None	None
+𤘡	jin4	牛舌病	None	None
+㸮	fen2	公牛	None	None
+㸮	fen2	四岁的牛	None	None
+𤘝	fen4	[駚𤘝]兽跳跃自扑	None	None
+𤘟	nuo2	一种似牛的野兽，白尾	None	None
+⿰牜氏	None	同=牴	None	牴
+牬	None	同=㸬	None	㸬
+物	wu4	杂色牛	None	None
+物	wu4	牲畜的种类、品级	None	None
+物	wu4	形色	None	None
+物	wu4	杂色的旗	None	None
+物	wu4	客观存在的物体	None	None
+物	wu4	社会，外界环境	None	None
+物	wu4	哲学用语 物质，与“心”相对	None	None
+物	wu4	物产	None	None
+物	wu4	人	None	None
+物	wu4	神灵；精怪	None	None
+物	wu4	古代举行射礼时，射者站立处 其范围事先画定	None	None
+物	wu4	标记；记号	None	None
+物	wu4	特指文章或说话的实质内容	None	None
+物	wu4	典章制度	None	None
+物	wu4	选择；观察	None	None
+物	wu4	法律用语 权利客体之一，包括生产资料的生活资料	None	None
+物	wu4	通=歾 死	None	歾
+物	wu4	姓	None	None
+𤘷	shu4	@	None	None
+牨	gang1	水牛	None	None
+牨	gang1	同=犅 公牛	None	犅
+牥	fang1	单峰驼的古名	None	None
+牥	fang1	未经训练的牛	None	None
+㸯	ke1	[郭㸯]古代一种良牛名	None	None
+㸯	ke1	牛无角	None	None
+𤘣	chen2	海牛 一种像牛的水中动物 也称“潛牛”	None	None
+⿰牜冗	None	同=𤘻	None	𤘻
+㸭	ba1	牛角相背	None	None
+𤘞	None	同=𤘟	None	𤘟
+𤙏	qu4	牛行貌	None	None
+荦	None	=犖的简化字	None	犖
 牯	None	录入中	None	None
 牱	None	录入中	None	None
 𤘹	None	录入中	None	None
