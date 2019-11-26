@@ -35030,15 +35030,57 @@
 𢪧	ye4	@	None	None
 㧌	mao4	同=毛(芼) 择取	None	毛
 㧌	nao2	同=撓	None	撓
-㧉	None	录入中	None	None
-抍	None	录入中	None	None
-扷	None	录入中	None	None
-扸	None	录入中	None	None
-𢪗	None	录入中	None	None
-𢪎	None	录入中	None	None
-折	None	录入中	None	None
-抓	None	录入中	None	None
-𢪦	None	录入中	None	None
+㧉	gai4	磨	None	None
+㧉	hai4	取	None	None
+㧉	nie4	击	None	None
+抍	zheng3	上举，升	None	None
+抍	zheng3	拔	None	None
+抍	zheng3	救助	None	None
+抍	zheng3	取；收	None	None
+扷	ao4	量，称	None	None
+⿰扌长	None	=掁的类推简化字	None	掁
+扸	xi1	同=析	None	析
+扸	zhe2	折散	None	None
+𢪗	None	同=𢷏(撲)	None	𢷏
+𢪎	xue1	撝	None	None
+折	zhe2	折断；弄断 如：骨折；折戟沉沙	None	None
+折	zhe2	判断；裁决	None	None
+折	zhe2	屈从	None	None
+折	zhe2	减损	None	None
+折	zhe2	死，多指早死 如：夭折	None	None
+折	zhe2	毁掉	None	None
+折	zhe2	阻止；挫败 如：百折不挠	None	None
+折	zhe2	折磨	None	None
+折	zhe2	责难，指斥	None	None
+折	zhe2	折服	None	None
+折	zhe2	弯曲	None	None
+折	zhe2	（禾苗）倒状	None	None
+折	zhe2	回旋；返转 如：转折；走到半路，又折回来	None	None
+折	zhe2	书法用笔方法之一 横画欲左先右，往右回左；直画欲上先下	None	None
+折	zhe2	汉字笔画名 如：横、竖、撇、点、折	None	None
+折	zhe2	摘取；掐取	None	None
+折	zhe2	开采	None	None
+折	zhe2	握持	None	None
+折	zhe2	折合；抵换 如：折价；折租	None	None
+折	zhe2	折扣，按原数减去其中的成数	None	None
+折	zhe2	倾斜容器，使里面的东西出来	None	None
+折	zhe2	戏曲名词 元、明杂剧剧本中的一个段落，每剧大都四折 相当于现代话剧中的一幕或一场，其中可单独演出的一折，叫“折子戏”	None	None
+折	zhe2	古时封土为坛进行祭地的处所	None	None
+折	zhe2	古葬具，如床无脚	None	None
+折	zhe2	古地名	None	None
+折	zhe2	同=摺 今为“摺”的简化字 1.折叠 2.折子 如：钱折；奏折 3.绉纹；绉折	None	摺
+折	zhe2	通=窒(zhi4) 堵塞	None	窒
+折	zhe2	姓	None	None
+折	she2	断 如：棍子折了	None	None
+折	she2	亏损	None	None
+折	ti2	[折折]安逸舒适的样子	None	None
+折	zhe1	翻转 如：折跟头	None	None
+抓	zhua1	人用指甲或带齿的东西或动物用爪在物体上划过	None	None
+抓	zhua1	用手或爪取物 如：抓小鸡；抓阄儿	None	None
+抓	zhua1	握住；掌握	None	None
+抓	zhua1	逮捕；捉拿 如：抓贼；抓特务	None	None
+抓	zhua1	指特别注意，加强领导，努力做（某种工作） 如：抓农业；抓经济；各项工作都要抓好	None	None
+𢪦	None	=𢫷的讹字	None	𢫷
 扳	None	录入中	None	None
 𢪆	None	录入中	None	None
 扴	None	录入中	None	None
