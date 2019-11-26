@@ -34804,39 +34804,104 @@
 扤	wu4	搔动	None	None
 扤	wu4	姓	None	None
 𢪁	None	同=扤	None	扤
-𢩮	None	录入中	None	None
-扣	None	录入中	None	None
-㧇	None	录入中	None	None
-㧆	None	录入中	None	None
-扦	None	录入中	None	None
-托	None	录入中	None	None
-扥	None	录入中	None	None
-𢩺	None	录入中	None	None
-扢	None	录入中	None	None
-𢩰	None	录入中	None	None
-𢩻	None	录入中	None	None
-扚	None	录入中	None	None
-执	None	录入中	None	None
-扱	None	录入中	None	None
-扩	None	录入中	None	None
-扪	None	录入中	None	None
-扫	None	录入中	None	None
-扟	None	录入中	None	None
-𢩲	None	录入中	None	None
-㧈	None	录入中	None	None
-𢩯	None	录入中	None	None
-扡	None	录入中	None	None
-扬	None	录入中	None	None
-扨	None	录入中	None	None
-扠	None	录入中	None	None
-𢩼	None	录入中	None	None
-𢪒	None	录入中	None	None
-𢪐	None	录入中	None	None
-𢪥	None	录入中	None	None
-𢪖	None	录入中	None	None
-𢪇	None	录入中	None	None
-𢪋	None	录入中	None	None
-抂	None	录入中	None	None
+𢩮	yi4	拭	None	None
+扣	kou4	牵住；勒住（马缰）	None	None
+扣	kou4	敲击	None	None
+扣	kou4	攻打	None	None
+扣	kou4	举；发	None	None
+扣	kou4	靠近；迫近	None	None
+扣	kou4	系住	None	None
+扣	kou4	拉开（弓）	None	None
+扣	kou4	询问 如：扣问	None	None
+扣	kou4	触碰	None	None
+扣	kou4	器物口朝下罩住他物	None	None
+扣	kou4	扣押	None	None
+扣	kou4	从原数额中减去一部分 如：扣分；扣工资	None	None
+扣	kou4	计算数量不使超过限额	None	None
+扣	kou4	结子 如：绳扣儿；活扣儿	None	None
+扣	kou4	量词 1.用于捆扎成束的文件或账折等物 2.螺纹的一圈叫一扣 如：拧了三扣	None	None
+扣	kou4	用同=筘(簆) 织布机上用以确定经纱密度的主要机件 又名杼 如：丝丝入扣	None	筘
+㧇	mao3	持	None	None
+㧆	jin1	以巾覆物	None	None
+㧆	jin1	覆巾名	None	None
+扦	qian1	插	None	None
+扦	qian1	扦子，用金属或竹木制成的一头尖的器物 如：铁扦；牙扦	None	None
+扦	qian1	拳术手法之一 握手成半拳，击对方上部	None	None
+扦	qian1	右手下垂，同时左腿向前屈膝，右腿微曲，为旧时满族男子下对上行礼的一种礼仪，即“打千”	None	None
+扦	qian1	方言 削；修剪 如：扦脚；扦高粱穗	None	None
+托	tuo1	同=拓 推；用手推物	None	拓
+托	tuo1	用手掌或盘子承着 如：手托钵盂；和盘托出	None	None
+托	tuo1	衬；沾附 如：衬托；烘云托月	None	None
+托	tuo1	承托某些器物的座儿 如：茶托；花托儿	None	None
+托	tuo1	量词 用于深度或长度	None	None
+托	tuo1	寄托 如：托迹	None	None
+托	tuo1	凭借；依靠	None	None
+托	tuo1	委托	None	None
+托	tuo1	假托（言辞、理由）	None	None
+托	tuo1	旧压强单位 1托等于133.322帕（即1毫米的水银柱所产生的压强）	None	None
+扥	None	同=扽	None	扽
+𢩺	None	同⿰扌⿱丿匕	None	None
+扢	gu3	摩拭；揩拭；涂抹	None	None
+扢	gu3	取	None	None
+扢	qi4	兴奋貌；喜悦貌	None	None
+扢	qi4	击	None	None
+扢	jie2	拔引；颂扬	None	None
+扢	jie2	扬起	None	None
+扢	ge1	[扢搭]1.同“=疙瘩” 结子 2.忽然，立刻	None	疙
+𢩰	zhong3	批击	None	None
+⿰扌⿱丿匕	meng2	@	None	None
+𢩻	tuo2	@	None	None
+扚	diao3	速击；旁击	None	None
+扚	di2	引；拉开	None	None
+扚	di2	手掐	None	None
+扚	yue1	手指节文	None	None
+扚	li4	按	None	None
+执	None	=執的简化字	None	執
+扱	xi1	收敛	None	None
+扱	cha1	插	None	None
+扱	cha1	挹取	None	None
+扱	cha1	擭	None	None
+扱	cha1	牵引	None	None
+扱	cha1	举	None	None
+扱	qi4	及；至	None	None
+扩	None	=擴的简化字	None	擴
+扪	None	=捫的简化字	None	捫
+扫	None	=掃的简化字	None	掃
+扟	shen1	从上挹取或择取	None	None
+扟	shen1	减；剥	None	None
+𢩲	xin4	振	None	None
+㧈	None	同=引	None	引
+𢩯	jue2	以杖掘出	None	None
+扡	tuo1	同=拕(拖)	None	拕
+扡	yi3	施加	None	None
+扡	yi3	同=迻(移) 迁徙	None	迻
+扡	yi3	离	None	None
+扡	chi3	同=搋 1.顺着木材的纹理劈开 2.强夺；褫夺	None	搋
+扬	None	=揚的简化字	None	揚
+扨	ren4	@ ……按：……疑是=杒字异写	None	杒
+扠	chai1	用拳击	None	None
+扠	cha1	一端有两个或三四个长齿，一端有长柄的器具 如：鱼扠；钢扠	None	None
+扠	cha1	刺取	None	None
+扠	cha1	夹取	None	None
+扠	cha1	打；交手	None	None
+扠	cha1	推，搡	None	None
+扠	cha1	放置在一起，使成如叉的形状	None	None
+扠	cha1	行	None	None
+扠	cha1	树枝	None	None
+扠	zha3	张开大拇指和中指所量的尺寸 如：三扠宽	None	None
+𢩼	yi2	持救	None	None
+⿱⿰〢又手	None	同=掔	None	掔
+𢪒	None	同=廾	None	廾
+⿰龵手	None	同=𢪒	None	𢪒
+𢪐	None	同=承	None	承
+𢪥	you3	@	None	None
+𢪖	None	同=抆	None	抆
+𢪇	jiang1	扶 后作=將	None	將
+𢪋	peng3	同=捧 两手托物；捧着	None	捧
+𢪋	feng2	同=捀	None	捀
+𢪋	bang3	打	None	None
+抂	kuang2	[抂攘]乱貌	None	None
+抂	wang3	同=枉 1.曲 2.冤枉	None	枉
 扶	None	录入中	None	None
 抏	None	录入中	None	None
 抚	None	录入中	None	None
