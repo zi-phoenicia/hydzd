@@ -35159,21 +35159,63 @@
 投	dou4	逗留；停止 也作=逗	None	逗
 投	dou4	同=酘 1.酒再酿 2.以酒解酒，谓饮酒过多，次日仍感不适，再饮以解宿酲	None	酘
 抅	None	同=拘	None	拘
-抃	None	录入中	None	None
-抆	None	录入中	None	None
-抗	None	录入中	None	None
-㧍	None	录入中	None	None
-㧑	None	录入中	None	None
-抖	None	录入中	None	None
-护	None	录入中	None	None
-抌	None	录入中	None	None
-抋	None	录入中	None	None
-抉	None	录入中	None	None
-択	None	录入中	None	None
-𢪕	None	录入中	None	None
-𢪉	None	录入中	None	None
-扭	None	录入中	None	None
-𢪫	None	录入中	None	None
+抃	bian4	同=拚 两手相击，拍掌表示欢欣	None	拚
+抃	bian4	搏；击	None	None
+抆	wen3	擦拭	None	None
+抆	wen3	拒	None	None
+抗	kang4	抵御；抗拒	None	None
+抗	kang4	匹敌，对等	None	None
+抗	kang4	支撑	None	None
+抗	kang4	举；张	None	None
+抗	kang4	振	None	None
+抗	kang4	救	None	None
+抗	kang4	进，上	None	None
+抗	kang4	收藏	None	None
+抗	kang4	极	None	None
+抗	kang4	刚直 如：抗直	None	None
+抗	kang4	高；高尚	None	None
+抗	kang4	悬挂	None	None
+抗	kang4	姓	None	None
+抗	gang1	同=掆(扛) 抬；举；承担	None	掆
+㧍	fang3	同=仿 相似	None	仿
+㧍	beng1	同=搒 相牵	None	搒
+⿰扌⿱丷几	None	同=抗	None	抗
+㧑	None	=撝的类推简化字	None	撝
+抖	dou3	[抖擻]1.抖动；振动 2.振作；奋发 3.佛教用语，头陀的别称	None	None
+抖	dou3	颤抖；战栗	None	None
+抖	dou3	使振动	None	None
+抖	dou3	揭露	None	None
+抖	dou3	讽刺说人突然得势或生活水平突然提高	None	None
+抖	dou3	发威风	None	None
+抖	dou3	展开	None	None
+抖	dou3	用同=陡	None	陡
+护	None	=護的简化字	None	護
+抌	dan3	击；深击	None	None
+抌	dan3	刺	None	None
+抌	dan3	手搏	None	None
+抌	shen3	推	None	None
+抌	shen3	系物桩	None	None
+抋	qin4	同=𢱶 插	None	𢱶
+抋	qin4	播	None	None
+抉	jue2	挑出；挖出	None	None
+抉	jue2	举；撬开	None	None
+抉	jue2	挑选；选取	None	None
+抉	jue2	戳；穿	None	None
+抉	jue2	揭发；揭示	None	None
+抉	jue2	掰，分开	None	None
+抉	jue2	扳指 古代射箭时套在右手拇指上，用以钩弦	None	None
+択	None	同=擇	None	擇
+𢪕	None	同=𢭄	None	𢭄
+𢪉	None	同=引	None	引
+扭	niu3	用手拧；扭转 如：扭亏为盈	None	None
+扭	niu3	违拗	None	None
+扭	niu3	掉转 如：扭头	None	None
+扭	niu3	行走时身体摇摆；摆动	None	None
+扭	niu3	揪住	None	None
+扭	chou3	同=杻(杽) 刑具名，手铐	None	杻
+扭	zhou3	案	None	None
+扭	zhou4	两手揉搓	None	None
+𢪫	None	同=𢪇	None	𢪇
 把	None	录入中	None	None
 𢪬	None	录入中	None	None
 报	None	录入中	None	None
