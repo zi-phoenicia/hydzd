@@ -34902,7 +34902,22 @@
 𢪋	bang3	打	None	None
 抂	kuang2	[抂攘]乱貌	None	None
 抂	wang3	同=枉 1.曲 2.冤枉	None	枉
-扶	None	录入中	None	None
+扶	fu2	佐助；帮助 如：扶危济困；救死扶伤	None	None
+扶	fu2	扶持；搀扶 如：扶老携幼	None	None
+扶	fu2	倚仗	None	None
+扶	fu2	治理 	None	None
+扶	fu2	勉力撑持（病、醉时的肢体）	None	None
+扶	fu2	拄持，扶持它物以支撑身体	None	None
+扶	fu2	护送	None	None
+扶	fu2	靠近	None	None
+扶	fu2	旁，旁侧	None	None
+扶	fu2	攀援	None	None
+扶	fu2	古代妇女肃拜行礼的一种动作	None	None
+扶	fu2	组绶名，四系为一扶	None	None
+扶	fu2	介词 表示方向，相当于“循”、“沿”	None	None
+扶	fu2	姓	None	None
+扶	fu1	量词 古代长度计算单位 相当于四指并列的宽度	None	None
+扶	pu2	[扶服]同“=匍匐”	None	匍
 抏	None	录入中	None	None
 抚	None	录入中	None	None
 抎	None	录入中	None	None
