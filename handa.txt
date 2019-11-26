@@ -35216,33 +35216,103 @@
 扭	zhou3	案	None	None
 扭	zhou4	两手揉搓	None	None
 𢪫	None	同=𢪇	None	𢪇
-把	None	录入中	None	None
-𢪬	None	录入中	None	None
-报	None	录入中	None	None
-拟	None	录入中	None	None
-抁	None	录入中	None	None
-抒	None	录入中	None	None
-㧐	None	录入中	None	None
-抝	None	录入中	None	None
-拜	None	录入中	None	None
-㧭	None	录入中	None	None
-𢫀	None	录入中	None	None
-𢪿	None	录入中	None	None
-𢪽	None	录入中	None	None
-𢪸	None	录入中	None	None
-𢪻	None	录入中	None	None
-拏	None	录入中	None	None
-拝	None	录入中	None	None
-抹	None	录入中	None	None
-抺	None	录入中	None	None
-抾	None	录入中	None	None
-拑	None	录入中	None	None
-抴	None	录入中	None	None
-𢫆	None	录入中	None	None
-抲	None	录入中	None	None
-抦	None	录入中	None	None
-抷	None	录入中	None	None
-拓	None	录入中	None	None
+把	ba3	执，握持	None	None
+把	ba3	控制；把持 如：把舵；把犁；把正方向	None	None
+把	ba3	看守；把守 如：把门；把关	None	None
+把	ba3	从后面用手托起小孩儿的两腿，让他大小便 如：把屎；把尿	None	None
+把	ba3	掌管	None	None
+把	ba3	给	None	None
+把	ba3	把式	None	None
+把	ba3	扎束的捆子	None	None
+把	ba3	结盟，指拜把子的关系 如：把兄；把嫂	None	None
+把	ba3	量词 1.一手所握的 如：一把米；一把来粗 2.用于有柄的器具 如：一把刀；几把茶壶；几把扇子 3.用于手的动作 如：一把抱起；推了一把 4.用于某些抽象的事物 如：加把劲；出把力；这把年纪 5.用于领导职务 ，前面限用序数词 如：第一把手	None	None
+把	ba3	表示约数	None	None
+把	ba3	介词 1.将谓词的宾语前置 a.表示处置 如：把头一扭；把衣服洗洗；可惜把几张好纸糟蹋了 b.表示致使 如：把他羞哭了；差点儿把他急疯了 c.表示动作行为的结果 2.引进凭借的工具、材料、方法等，相当于“拿”、“用” 3.方言 用在动词后，表示交与、付出，相当于“给” 4.引进对象，相当于“对” 5.表示行为的对象或有关事物，相当于“给”、“为” 6.表示经过，用在处所词前面，相当于“从” 7.在被动式里引进行为的施动者，相当于“被”	None	None
+把	ba4	柄，器物上便于手拿的部分 如：刀把（子）；门把；车把；锄头把	None	None
+把	ba4	花、叶或果实的柄 如：花把儿；梨把儿	None	None
+把	pa2	同=爬 搔	None	爬
+把	pa2	姓	None	None
+𢪬	kong3	@	None	None
+报	None	=報的简化字	None	報
+拟	None	=擬的简化字	None	擬
+抁	yan3	动；摇动	None	None
+抒	shu1	舀出；汲出 	None	None
+抒	shu1	表达；发泄 如：抒怀；抒愤；各抒己见；直抒胸臆	None	None
+抒	shu1	斜削	None	None
+抒	shu1	解除；清除	None	None
+㧐	None	=㩳的简化字	None	㩳
+抝	None	同=拗	None	拗
+拜	bai4	古代表示敬意的一种礼节 行礼时双膝跪地，低头，下与腰平，两手至地	None	None
+拜	bai4	拜谢	None	None
+拜	bai4	尊崇；敬奉 如：崇拜；拜服；拜物教	None	None
+拜	bai4	以礼会见，拜访	None	None
+拜	bai4	授官	None	None
+拜	bai4	（敬）受	None	None
+拜	bai4	上，奉	None	None
+拜	bai4	敬辞 恭敬地 如：拜启；拜读；拜领；拜辞	None	None
+拜	bai4	通过一定仪式结成某种关系 如：拜师；拜把兄弟	None	None
+拜	bai4	植物名	None	None
+拜	bai4	通=拔(ba2) 拔掉	None	拔
+拜	bai4	姓	None	None
+㧭	qiong2	举两手取	None	None
+𢫀	None	同=牽	None	牽
+𢪿	None	同=辜	None	辜
+𢪽	None	同=將	None	將
+𢪸	None	同=𢯲(腕)	None	𢯲
+𢪻	None	同=承	None	承
+拏	na2	牵引；连结 如：纷拏	None	None
+拏	na2	话语重复，拉杂	None	None
+拏	na2	持拿；执取 后作=拿	None	拿
+拏	na2	捉拿；拘捕 后作=拿	None	拿
+拏	na2	按捺	None	None
+拝	None	同=拜	None	拜
+抹	mo3	磨灭 如：抹杀；抹零（除去尾数）	None	None
+抹	mo3	涂抹	None	None
+抹	mo3	涂去文字或绘画中的某些部分	None	None
+抹	mo3	化妆时涂敷脂粉	None	None
+抹	mo3	擦拭	None	None
+抹	mo3	一扫而过	None	None
+抹	mo3	轻淡的痕迹 多与“一”连用，相当于“一片”	None	None
+抹	mo3	用手按着或拿着东西，紧紧地向某一方向移动	None	None
+抹	mo3	玩	None	None
+抹	mo3	割	None	None
+抹	mo4	弦乐指法之一，食指向内为抹 特指弹奏琵琶	None	None
+抹	mo4	把泥灰涂上后弄平 如：抹墙	None	None
+抹	mo4	摸	None	None
+抹	mo4	紧挨着绕过 如：转弯抹角	None	None
+抹	mo4	紧贴；蒙住	None	None
+抹	mo4	弯下	None	None
+抹	mo4	群牧场所	None	None
+抹	ma1	揩，擦	None	None
+抹	ma1	捋；拉 如：把帽子抹下来	None	None
+抺	mei4	摸	None	None
+抾	qu1	双手捧取	None	None
+抾	qu1	捕捉	None	None
+抾	qu1	驱除；除去	None	None
+拑	qian2	胁持；夹住 如：拑制	None	None
+拑	qian2	勒，束勒，横木于马口，使不能食	None	None
+拑	qian2	闭住（口）	None	None
+抴	ye4	牵引；拉 后作=曳	None	曳
+抴	ye4	连缀	None	None
+抴	ye4	通=枻 短桨	None	枻
+抴	she2	同=揲 数	None	揲
+𢫆	None	同=捽	None	捽
+抲	he1	指挥	None	None
+抲	he4	同=荷 担；扛	None	荷
+抲	qia1	同=揢 扼；掐	None	揢
+抲	qia1	握，拿着	None	None
+抦	bing3	执持	None	None
+⿰扌厈	None	同=拓	None	拓
+抷	pi1	披	None	None
+抷	pei1	用两手捧	None	None
+拓	zhi2	拾取 也作=摭	None	摭
+拓	zhi2	折	None	None
+拓	tuo4	开辟，扩充 如：开拓；拓荒	None	None
+拓	tuo4	张，张开	None	None
+拓	tuo4	宏大，开阔	None	None
+拓	tuo4	用手推（物）	None	None
+拓	tuo4	用同=這(zhe4) 代词	None	這
+拓	ta4	把石碑或器物上的文字或图画摹印在纸上 如：拓本；拓片	None	None
 抪	None	录入中	None	None
 拢	None	录入中	None	None
 㧔	None	录入中	None	None
