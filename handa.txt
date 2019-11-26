@@ -34918,42 +34918,118 @@
 扶	fu2	姓	None	None
 扶	fu1	量词 古代长度计算单位 相当于四指并列的宽度	None	None
 扶	pu2	[扶服]同“=匍匐”	None	匍
-抏	None	录入中	None	None
-抚	None	录入中	None	None
-抎	None	录入中	None	None
-抟	None	录入中	None	None
-𢪪	None	录入中	None	None
-𢪮	None	录入中	None	None
-㧊	None	录入中	None	None
-技	None	录入中	None	None
-抔	None	录入中	None	None
-㧋	None	录入中	None	None
-抠	None	录入中	None	None
-扰	None	录入中	None	None
-𢪰	None	录入中	None	None
-抜	None	录入中	None	None
-扼	None	录入中	None	None
-拒	None	录入中	None	None
-㧎	None	录入中	None	None
-扽	None	录入中	None	None
-找	None	录入中	None	None
-批	None	录入中	None	None
-𢪑	None	录入中	None	None
-𢪔	None	录入中	None	None
-𢪃	None	录入中	None	None
-㧚	None	录入中	None	None
-扯	None	录入中	None	None
-𢪊	None	录入中	None	None
-抄	None	录入中	None	None
-𢪍	None	录入中	None	None
-𢪏	None	录入中	None	None
-抇	None	录入中	None	None
-𢪈	None	录入中	None	None
-抐	None	录入中	None	None
-㧏	None	录入中	None	None
-抙	None	录入中	None	None
-𢪧	None	录入中	None	None
-㧌	None	录入中	None	None
+抏	wan2	损；消耗 如：抏精殚思	None	None
+抏	wan2	按摩	None	None
+抏	wan2	同=园(刓)	None	园
+抏	wan2	同=翫 懈怠；玩忽	None	翫
+抏	wan2	通=玩	None	玩
+抚	None	同=撫	None	撫
+抎	yun3	失	None	None
+抎	yun3	发声	None	None
+抎	yun3	通=隕 坠落	None	隕
+抟	None	=摶的简化字	None	摶
+𢪪	yin4	方言 舀水或流质肥料浇庄稼或花木	None	None
+𢪮	None	同=𢪋	None	𢪋
+㧊	po1	擦拭	None	None
+㧊	po1	击打	None	None
+㧊	ba2	[㧊㨭]=跋扈	None	跋
+技	ji4	才艺；技能；技巧 如：绝技；口技；一技之长	None	None
+技	ji4	工匠，有才艺的人	None	None
+技	qi2	伎俩，不正派的手段	None	None
+抔	pou2	用手捧取	None	None
+抔	pou2	量词 相当于“握”、“捧”、“把”	None	None
+㧋	xuan3	捵	None	None
+抠	None	=摳的简化字	None	摳
+扰	you4	福	None	None
+扰	you4	动	None	None
+扰	rao3	=擾的简化字	None	擾
+𢪰	None	同=扚	None	扚
+抜	None	同=拔	None	拔
+扼	e4	把握；握住	None	None
+扼	e4	掐住；抓住	None	None
+扼	e4	据守；控制	None	None
+扼	e4	堵住；堵塞	None	None
+扼	e4	量词 用于成束的物体，相当于“把”	None	None
+扼	e4	通=軛 驾车时套在牲畜脖子上的曲木	None	軛
+⿰扌匹	None	同=柩	None	柩
+拒	ju4	抵御；抵挡	None	None
+拒	ju4	据守	None	None
+拒	ju4	拒绝，不接受 如：拒谏饰非；拒不接受；来者不拒	None	None
+拒	ju4	违抗，抵制	None	None
+拒	ju4	（树枝向外）横出，岔出	None	None
+拒	ju4	抵，到	None	None
+拒	ju4	关闭	None	None
+拒	ju4	通=距 1.鸡爪 俎拒，喻指俎足间的横木 2.距离	None	距
+拒	ju3	古代方阵（一种战阵）的左右两翼	None	None
+㧎	ya2	[扠㧎]不正	None	None
+㧎	ya2	抗	None	None
+㧎	ya4	同=砑 碾	None	砑
+㧎	qia1	抳	None	None
+㧎	qia1	同=抲(揢) 扼	None	抲
+㧎	qia1	将	None	None
+扽	den4	振物使其伸直或平整 如：把绳子扽直；把衣服扽平	None	None
+扽	den4	拉紧	None	None
+扽	den4	摩	None	None
+找	hua2	同=划 划船	None	划
+找	zhao3	寻求；觅取 如：找人；找东西	None	None
+找	zhao3	退有余，补不足 如：找钱；找补	None	None
+批	pi1	用手背反击；击	None	None
+批	pi1	触犯	None	None
+批	pi1	斜劈；削	None	None
+批	pi1	排除；抛弃	None	None
+批	pi1	转	None	None
+批	pi1	刑具	None	None
+批	pi1	披露	None	None
+批	pi1	批示；批语或写批语 如：批公事；批改作业	None	None
+批	pi1	评论	None	None
+批	pi1	成批地（买卖货物） 如：批售；批购；批发	None	None
+批	pi1	量词 表示人或事物的数量 如：一批人；大批货物	None	None
+批	pi2	两手共击	None	None
+批	pi2	[批把]同“=琵琶”	None	琵
+𢪑	None	同=摡	None	摡
+𢪔	None	同=抵	None	抵
+𢪃	cu4	摩	None	None
+㧚	wa3	方言 以凹状器皿（如勺、瓢等）盛起散状物的动作；也指用手做凹状拿起物品的动作 如：拿个瓢到坛子里取㧚点米	None	None
+扯	che3	拉；牵	None	None
+扯	che3	拔起 如：扯秧；扯毛	None	None
+扯	che3	撕裂	None	None
+扯	che3	举	None	None
+扯	che3	依托	None	None
+扯	che3	带，领	None	None
+扯	che3	谈话，多指漫无边际地谈话 如：闲扯；扯白	None	None
+扯	che3	张挂	None	None
+𢪊	None	同=攴	None	攴
+抄	chao1	叉取	None	None
+抄	chao1	掠取，抢掠	None	None
+抄	chao1	用匙或手掌合拢取物	None	None
+抄	chao1	誊写 如：抄写；抄本	None	None
+抄	chao1	搜查，没收 如：抄家	None	None
+抄	chao1	从侧面绕过去 如：包抄；抄逼	None	None
+抄	chao1	两手交叉在胸前或背后	None	None
+抄	chao1	手工造纸操作工序之一 将经稀释并初步脱水的湿纸页放在竹帘上	None	None
+抄	chao1	量词 古代十撮为一抄	None	None
+抄	chao1	姓	None	None
+抄	suo1	同=挱 抚摸	None	挱
+抄	chao4	用同=耖 用耖整地 如：抄二道四	None	耖
+抄	chao3	用同=吵	None	吵
+𢪍	jie2	摘	None	None
+𢪍	jia1	挈	None	None
+𢪏	hu2	同=搰 发掘	None	搰
+𢪏	hu2	裂	None	None
+𢪏	hu2	牵动	None	None
+𢪏	gu3	同=滑 搅乱	None	滑
+抇	None	=𢪏的讹字	None	𢪏
+𢪈	nan2	兼持两物	None	None
+抐	ne4	没，按物于水中	None	None
+抐	ni4	[挹抐]中制 一说手执貌	None	None
+抐	na4	同=㨥 打	None	㨥
+抐	rui4	内	None	None
+抐	rui4	捽	None	None
+㧏	None	=掆的简化字	None	掆
+抙	None	同=捊	None	捊
+𢪧	ye4	@	None	None
+㧌	mao4	同=毛(芼) 择取	None	毛
+㧌	nao2	同=撓	None	撓
 㧉	None	录入中	None	None
 抍	None	录入中	None	None
 扷	None	录入中	None	None
