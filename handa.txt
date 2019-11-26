@@ -35313,21 +35313,70 @@
 拓	tuo4	用手推（物）	None	None
 拓	tuo4	用同=這(zhe4) 代词	None	這
 拓	ta4	把石碑或器物上的文字或图画摹印在纸上 如：拓本；拓片	None	None
-抪	None	录入中	None	None
-拢	None	录入中	None	None
-㧔	None	录入中	None	None
-拔	None	录入中	None	None
-抨	None	录入中	None	None
-拣	None	录入中	None	None
-拤	None	录入中	None	None
-拈	None	录入中	None	None
-𢫐	None	录入中	None	None
-𢪷	None	录入中	None	None
-担	None	录入中	None	None
-抯	None	录入中	None	None
-押	None	录入中	None	None
-抻	None	录入中	None	None
-𢪶	None	录入中	None	None
+抪	bu4	扪持	None	None
+抪	bu4	击	None	None
+抪	pu1	散步；铺展	None	None
+抪	ba2	[抪㨭]同“=跋扈”	None	跋
+拢	None	=攏的简化字	None	攏
+㧔	guai4	吵，扰	None	None
+拔	ba2	抽拔，连根拽出 如：拔剑；拔草；拔牙	None	None
+拔	ba2	挑选；选取	None	None
+拔	ba2	超出，高出 如：拔地；拔群	None	None
+拔	ba2	挺	None	None
+拔	ba2	攻取	None	None
+拔	ba2	移易；动摇 如：坚韧不拔	None	None
+拔	ba2	吸出（毒气等） 如：拔毒；拔火 又方言 把东西放在冰（凉）水里，吸出热，使它变凉 如：把西瓜放在冰（凉）水里拔一拔	None	None
+拔	ba2	脱离，摆脱	None	None
+拔	ba2	裂	None	None
+拔	ba2	解救	None	None
+拔	ba2	尽	None	None
+拔	ba2	回，转	None	None
+拔	ba2	辅助；扶持	None	None
+拔	ba2	箭的末端 又名括	None	None
+拔	ba2	猝然；急速	None	None
+拔	ba2	通=𢇷 舍止	None	𢇷
+拔	ba2	古邑名 在今山东省兖州市西	None	None
+拔	ba2	姓	None	None
+拔	bo1	把	None	None
+拔	bie2	除去粪臭	None	None
+拔	fa2	草名	None	None
+拔	bei4	枝叶茂盛貌	None	None
+拔	bei4	拂取	None	None
+⿰扌𡯆	None	同=抛	None	抛
+抨	peng1	弹，开弓射丸	None	None
+抨	peng1	拍；拂过	None	None
+抨	peng1	随从	None	None
+抨	peng1	弹劾，攻击他人过失	None	None
+抨	beng1	使，令	None	None
+拣	None	=揀的简化字	None	揀
+拤	qia3	用两手掐住 如：拤脖子；他用手使劲拤着受伤的部位，疼得头上冒出了汗水	None	None
+拈	nian1	用手指夹、捏取物	None	None
+拈	nian1	持，拿	None	None
+拈	nian3	搓揉；搓捻	None	None
+拈	dian1	掂，用手估量轻重	None	None
+𢫐	jie2	方言 宴会之物不食而包归	None	None
+𢪷	xiang1	及	None	None
+担	dan3	拂；揩拭 后作=撣	None	撣
+担	dan3	同=笪 1.击，打 2.姓	None	笪
+担	jie1	同=揭 举	None	揭
+担	dan1	同=擔	None	擔
+抯	zha1	取	None	None
+押	ya1	签署；在公文、契约上签字或画符号作为凭信	None	None
+押	ya1	作为凭信而在公文、契约上所签的名字或所画的符号	None	None
+押	ya1	抵押，典当	None	None
+押	ya1	拘禁，关押	None	None
+押	ya1	押送；解送	None	None
+押	ya1	率领；掌管	None	None
+押	ya1	帘押，镇帘之物	None	None
+押	ya1	诗赋叶韵	None	None
+押	ya1	赌博押宝	None	None
+押	ya1	通=壓 1.从上向下加以重力 2.逼迫 3.逼近	None	壓
+押	xia2	接连	None	None
+押	xia2	通=匣	None	匣
+押	jia3	辅佐	None	None
+抻	chen1	拉长；扯 如：抻面	None	None
+抻	shen1	同=伸 伸直	None	伸
+𢪶	xiao1	[玄𢪶]同“玄=枵” 十二星次之一	None	枵
 抽	None	录入中	None	None
 抧	None	录入中	None	None
 抰	None	录入中	None	None
@@ -36593,9 +36642,16 @@
 𢺱	None	录入中	None	None
 𢺳	None	录入中	None	None
 𢺴	None	录入中	None	None
-牛	None	录入中	None	None
-𤘔	None	录入中	None	None
-𤘖	None	录入中	None	None
+牛	niu2	哺乳动物 牛科，身体大，头有两角，趾端有蹄，尾巴尖端有长毛；草食反刍；力气大，能耕田或拉车；肉、乳可食，角、皮、骨可作器物 我国常见的有黄牛、水牛、牦牛等	None	None
+牛	niu2	喻性格固执或倔犟	None	None
+牛	niu2	星名 二十八宿之一，北方玄武七宿的第二宿 有星六颗	None	None
+牛	niu2	牵牛星的省称	None	None
+牛	niu2	十二生肖之一 详见“鼠”	None	None
+牛	niu2	旧时以农历正月初五为牛日	None	None
+牛	niu2	牛顿的简称 计量单位 使1千克的物体获得1米/秒^2的加速度所需的力	None	None
+牛	niu2	姓	None	None
+𤘔	hu4	臾	None	None
+𤘖	ting1	@	None	None
 牝	None	录入中	None	None
 㸨	None	录入中	None	None
 牞	None	录入中	None	None
