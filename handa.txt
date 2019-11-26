@@ -35081,26 +35081,84 @@
 抓	zhua1	逮捕；捉拿 如：抓贼；抓特务	None	None
 抓	zhua1	指特别注意，加强领导，努力做（某种工作） 如：抓农业；抓经济；各项工作都要抓好	None	None
 𢪦	None	=𢫷的讹字	None	𢫷
-扳	None	录入中	None	None
-𢪆	None	录入中	None	None
-扴	None	录入中	None	None
-𪭢	None	录入中	None	None
-抡	None	录入中	None	None
-扵	None	录入中	None	None
-扲	None	录入中	None	None
-扮	None	录入中	None	None
-𢪅	None	录入中	None	None
-抸	None	录入中	None	None
-𢪌	None	录入中	None	None
-抢	None	录入中	None	None
-抈	None	录入中	None	None
-𢪄	None	录入中	None	None
-扺	None	录入中	None	None
-扻	None	录入中	None	None
-抑	None	录入中	None	None
-抛	None	录入中	None	None
-投	None	录入中	None	None
-抅	None	录入中	None	None
+扳	pan1	同=攀 攀援；攀附；挽	None	攀
+扳	pan1	攀折	None	None
+扳	ban1	拉；拨动 如：扳闸，扳着指头算	None	None
+扳	ban1	扭转 如：扳回一局棋	None	None
+扳	ban1	论争；辩驳 如：扳理；有理不怕别人扳	None	None
+𢪆	None	=扮的讹字	None	扮
+扴	jia2	刮	None	None
+扴	jia2	弹奏	None	None
+𪭢	None	=摐的类推简化字	None	摐
+抡	None	=掄的简化字	None	掄
+⿰扌𡯂	None	同=抗	None	抗
+扵	None	同=於	None	於
+扲	qian1	基业	None	None
+扲	qian1	记	None	None
+扲	qian1	把	None	None
+扲	qin2	同=捦(擒) 急持；捉	None	捦
+扮	fen3	握持	None	None
+扮	fen3	合并	None	None
+扮	fen3	鼓动	None	None
+扮	fen1	掘	None	None
+扮	ban4	装束穿戴；打扮	None	None
+扮	ban4	妆扮；扮演	None	None
+扮	huo3	乱扮	None	None
+𢪅	None	同=扴	None	扴
+抸	jia1	同=挾 持	None	挾
+抸	jia1	同=𢪍 挈	None	𢪍
+𢪌	None	=忪的讹字	None	忪
+抢	None	=搶的简化字	None	搶
+抈	yue4	折断	None	None
+抈	yue4	通=扤(wu4) 动摇	None	扤
+𢪄	None	同=捽	None	捽
+扺	zhi3	侧击；拍	None	None
+扺	zhi3	击打	None	None
+扺	zhi3	投掷	None	None
+扺	zhi3	通=疧 病	None	疧
+扺	qi2	拟手期尅	None	None
+扻	zhi4	同=櫛 1.梳理 2.梳篦的总称	None	櫛
+扻	sun3	同=損 减少	None	損
+扻	kan3	同=竷 击	None	竷
+⿰扌乌	None	=摀的类推简化字	None	摀
+抑	yi4	按，按压	None	None
+抑	yi4	抑制；控制 如：扶弱抑强	None	None
+抑	yi4	遏止，堵塞	None	None
+抑	yi4	克服，压制	None	None
+抑	yi4	俯	None	None
+抑	yi4	冤屈	None	None
+抑	yi4	贬；损	None	None
+抑	yi4	低；深沉	None	None
+抑	yi4	隐没	None	None
+抑	yi4	安定	None	None
+抑	yi4	拗，违拗	None	None
+抑	yi4	副词 1.表示推断，相当于“还是” 2.表示重复、连续，相当于“又”、“再” 3.表示反诘，相当于“岂”、“难道” 4.表示语气，相当于“或许”、“或者”	None	None
+抑	yi4	连词 1.表示选择，相当于“还是” 2.表示递进，相当于“而且” 3.表示转折，相当于“可是”、“然而” 4.表示让步，相当于“虽然” 5.表示承接，相当于“于是”、“就”	None	None
+抑	yi4	助词 用于句首	None	None
+抑	yi4	通=懿 美色	None	懿
+抛	pao1	舍弃；撇开	None	None
+抛	pao1	扔，掷 如：抛锚；抛砖引玉	None	None
+抛	pao1	显露	None	None
+抛	pao1	量词 秽物一堆为一抛 也作=泡	None	泡
+投	tou2	抛，掷 如：投壶；投篮；投鞭断流	None	None
+投	tou2	投射 如：投影；目光投在他身上	None	None
+投	tou2	头如 如：投资；自投罗网	None	None
+投	tou2	抛弃；弃置	None	None
+投	tou2	置放	None	None
+投	tou2	投奔；投靠 如：走投无路；投亲靠友	None	None
+投	tou2	靠着；靠近	None	None
+投	tou2	合；相合 如：情投意合	None	None
+投	tou2	赠送	None	None
+投	tou2	寄；递 如：投稿；投邮	None	None
+投	tou2	挥，甩	None	None
+投	tou2	顿，跌	None	None
+投	tou2	投壶的省称	None	None
+投	tou2	骰子	None	None
+投	tou2	介词 1.表示时间，相当于“到”、“临” 2.表示方位、方向，相当于“朝”、“向”	None	None
+投	tou2	姓	None	None
+投	dou4	逗留；停止 也作=逗	None	逗
+投	dou4	同=酘 1.酒再酿 2.以酒解酒，谓饮酒过多，次日仍感不适，再饮以解宿酲	None	酘
+抅	None	同=拘	None	拘
 抃	None	录入中	None	None
 抆	None	录入中	None	None
 抗	None	录入中	None	None
