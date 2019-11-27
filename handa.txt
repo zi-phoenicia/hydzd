@@ -37316,52 +37316,82 @@
 㲓	shu4	毛	None	None
 ⿰夹毛	None	同=睫	None	睫
 𣭤	None	=𣯴的类推简化字	None	𣯴
-𣭁	None	录入中	None	None
-毨	None	录入中	None	None
-𣭡	None	录入中	None	None
-𣭟	None	录入中	None	None
-𣭣	None	录入中	None	None
-𣭝	None	录入中	None	None
-毤	None	录入中	None	None
-毥	None	录入中	None	None
-𣭮	None	录入中	None	None
-毩	None	录入中	None	None
-𣭠	None	录入中	None	None
-𣭜	None	录入中	None	None
-毣	None	录入中	None	None
-毪	None	录入中	None	None
-𣭭	None	录入中	None	None
-兞	None	录入中	None	None
-毬	None	录入中	None	None
-𣭳	None	录入中	None	None
-𣭷	None	录入中	None	None
-𣭴	None	录入中	None	None
-𣭵	None	录入中	None	None
-毭	None	录入中	None	None
-𣭶	None	录入中	None	None
-𣭱	None	录入中	None	None
-㲖	None	录入中	None	None
-𣭸	None	录入中	None	None
-㲘	None	录入中	None	None
-𣮃	None	录入中	None	None
-𣭻	None	录入中	None	None
-𣭹	None	录入中	None	None
-㲕	None	录入中	None	None
-㲗	None	录入中	None	None
-𣮄	None	录入中	None	None
-毫	None	录入中	None	None
-㲔	None	录入中	None	None
-㲙	None	录入中	None	None
-𣮆	None	录入中	None	None
-𣮅	None	录入中	None	None
-㲚	None	录入中	None	None
-𣭺	None	录入中	None	None
-𣭼	None	录入中	None	None
-𣭲	None	录入中	None	None
-𣮠	None	录入中	None	None
-㲟	None	录入中	None	None
-𣮉	None	录入中	None	None
-𣮦	None	录入中	None	None
+𣭁	None	=毞的讹字	None	毞
+毨	xian3	选取、选择（鸟兽毛）	None	None
+毨	xian3	毛羽更生，齐整美悦的样子	None	None
+毨	xian3	指鸟兽换毛阶段	None	None
+𣭡	None	同=毨	None	毨
+𣭟	None	同=毨	None	毨
+𣭣	None	同=氈	None	氈
+𣭝	ga3	[𣭝𣬬]睫毛长	None	None
+毤	None	同=毻	None	毻
+毥	xun2	毛	None	None
+毥	xun2	毛初生貌	None	None
+毥	xun4	毛羽利	None	None
+𣭮	quan2	[𣭮毛]即𣭮毛騧 唐太宗所乘六骏之一	None	None
+毩	None	同=毱	None	毱
+𣭠	ru2	多毛犬	None	None
+𣭜	None	同=毣	None	毣
+毣	mu4	好貌	None	None
+毣	mu4	思念貌 多叠用	None	None
+毣	mu4	毛湿	None	None
+毣	mu4	风吹动貌	None	None
+毣	mao4	同=眊 眼睛失神，看不清楚	None	眊
+毪	mu2	西藏自治区出产的一种羊毛织品 即毪子	None	None
+𣭭	None	同=氂	None	氂
+兞	None	毫克(milligramme)，旧简写为兞（千分之一克）	None	None
+毬	qiu2	鞠丸，皮丸 古代游戏用品，以皮为之，中实以毛，足踢或杖击为戏	None	None
+毬	qiu2	泛指球形的物体	None	None
+毬	qiu2	击毬 古代一种游戏运动	None	None
+毬	qiu2	方言 男性生殖器，常用作骂人口语	None	None
+𣭳	qiu2	同=毬	None	毬
+𣭳	qu2	同=氍 毛毯一类的制品	None	氍
+𣭷	bo4	[𣭷㲞]毛短貌	None	None
+⿺毛孛	None	同=𣭷	None	𣭷
+𣭴	None	同=毹	None	毹
+𣭵	None	同=毹	None	毹
+毭	dou4	[𣯻毭]也作“毭𣯻” 见“𣯻”	None	None
+毭	nuo4	质地细密的毡类毛制品	None	None
+𣭶	None	同=睫	None	睫
+⿺毛来	None	同=㲖	None	㲖
+𣭱	None	同=㲖	None	㲖
+㲖	xiao1	同=𦐺	None	𦐺
+㲖	xiao1	毛貌	None	None
+𣭸	None	同=毼	None	毼
+㲘	None	同=氍	None	氍
+𣮃	None	同=毱	None	毱
+𣭻	yan2	[越𣭻]锦类	None	None
+⿱⿰禾刀毛	None	同=氂	None	氂
+𣭹	hao1	搅；揉	None	None
+㲕	lei4	毛色斑驳	None	None
+⿺毛寽	None	同=㲕	None	㲕
+㲗	fu1	鸟解毛	None	None
+㲗	fu1	毡类毛制品	None	None
+㲗	fu1	秏	None	None
+⿺毛孚	None	同=㲗	None	㲗
+𣮄	sui1	@ ……按：……疑为=綏的俗字	None	綏
+⿺毛言	None	同=毱	None	毱
+毫	hao2	长而锐的毛	None	None
+毫	hao2	细毛	None	None
+毫	hao2	毛笔头；毛笔	None	None
+毫	hao2	极小，极细微	None	None
+毫	hao2	秤或戥子上的提绳，是秤钩或秤盘与秤锤之间的支点 近秤钩或秤盘的为初毫，次为中毫，也称二毫 古秤有三毫，为初、中、末毫	None	None
+毫	hao2	量词 1.长度单位 寸的千分之一 2.重量单位 钱的千分之一 3.面积单位 4.与某一物理量的单位连用，表示该量的千分之一 如：毫米即表示米的千分之一 其他常用的有毫克、毫安、毫伏、毫秒、毫亨利等 5.方言 银元一角称为一毫	None	None
+毫	hao2	姓	None	None
+㲔	xian1	[㲔㲍]细毡类毛织品	None	None
+㲙	None	同=𣮯(𣮬)	None	𣮯
+𣮆	tuo4	鸟换毛	None	None
+𣮅	None	同=㲚	None	㲚
+㲚	sha1	长毛貌	None	None
+𣭺	None	=𣭽的讹字	None	𣭽
+𣭼	None	同=尿	None	尿
+𣭲	None	同=𣯍(氄)	None	𣯍
+⿰㫄毛	None	同=𣮧	None	𣮧
+𣮠	None	同=散	None	散
+㲟	ying3	毛车	None	None
+㲟	ying3	毛	None	None
+𣮉	li2	同=斄 硬而曲的毛	None	斄
+𣮦	nai4	[𣬪𣮦]见“𣬪”	None	None
 𣮡	None	录入中	None	None
 𣮌	None	录入中	None	None
 𣮏	None	录入中	None	None
