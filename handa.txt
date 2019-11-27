@@ -37539,27 +37539,36 @@
 𣯭	nie4	毛发多貌	None	None
 𣯩	men2	一种细毡类毛织品，多为赤色	None	None
 𣯩	men2	数	None	None
-𣯫	None	录入中	None	None
-氀	None	录入中	None	None
-𣯧	None	录入中	None	None
-𣯯	None	录入中	None	None
-𣯪	None	录入中	None	None
-𣯨	None	录入中	None	None
-𣯲	None	录入中	None	None
-𣯵	None	录入中	None	None
-𣯸	None	录入中	None	None
-𣯰	None	录入中	None	None
-𣯥	None	录入中	None	None
-𣯮	None	录入中	None	None
-𣯶	None	录入中	None	None
-毿	None	录入中	None	None
-𣯻	None	录入中	None	None
-𣰌	None	录入中	None	None
-𣯼	None	录入中	None	None
-𣰃	None	录入中	None	None
-𣰄	None	录入中	None	None
-𣰘	None	录入中	None	None
-㲫	None	录入中	None	None
+⿱⿰求攴毛	None	同=氂	None	氂
+⿱⿰来攵毛	None	同=氂	None	氂
+𣯫	None	同=氀	None	氀
+氀	lv2	毡类毛织品	None	None
+氀	shu1	同=毹	None	毹
+氀	dou1	[氀毼]本少数民族服名，后指人资性愚陋	None	None
+𣯧	cui3	同=𩮴 毛发貌	None	𩮴
+𣯧	sui1	同=毸	None	毸
+𣯯	sui1	同=𣯧(毸)	None	𣯧
+𣯪	xi3	毛垂貌	None	None
+𣯨	zong1	[𣯨氍]一种精细的毛毯	None	None
+𣯲	None	同=毱	None	毱
+𣯵	None	同=𣬴	None	𣬴
+⿰盖毛	None	同=𣰛	None	𣰛
+𣯸	qu2	[𣯸毹]同“=氍毹”	None	氍
+𣯰	None	同=睫	None	睫
+𣯥	None	同=睫	None	睫
+𣯮	None	同=睫	None	睫
+𣯶	None	同=毿	None	毿
+毿	san1	毛发或枝条等细长物披散貌	None	None
+毿	san1	散乱貌	None	None
+𣯻	fen1	[𣯻毭]也作“毭𣯻” 氆氇一类的毛织品	None	None
+𣰌	lie4	车翣	None	None
+𣰌	he2	同=𦼰 水草，似蕨，可食	None	𦼰
+𣰌	he2	同=毼 毛布	None	毼
+𣯼	su4	[𣯼㲨]一种细毛毯	None	None
+𣰃	xu4	@	None	None
+𣰄	None	同=𣰃	None	𣰃
+⿱𢒟毛	kun4	@	None	None
+㲫	pu2	[㲢㲫]见“㲢”	None	None
 氅	None	录入中	None	None
 𣯹	None	录入中	None	None
 㲬	None	录入中	None	None
