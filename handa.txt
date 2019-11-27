@@ -37219,31 +37219,65 @@
 犪	rao2	同=㹛 牛柔驯	None	㹛
 犫	None	同=犨	None	犨
 𤜙	ling2	牛名	None	None
-毛	None	录入中	None	None
-𣬛	None	录入中	None	None
-𣬜	None	录入中	None	None
-𣬠	None	录入中	None	None
-㲌	None	录入中	None	None
-𣬣	None	录入中	None	None
-𣬢	None	录入中	None	None
-毝	None	录入中	None	None
-𣬬	None	录入中	None	None
-𣬡	None	录入中	None	None
-𣬪	None	录入中	None	None
-㲍	None	录入中	None	None
-𣬮	None	录入中	None	None
-毞	None	录入中	None	None
-𣬭	None	录入中	None	None
-㲎	None	录入中	None	None
-㲏	None	录入中	None	None
-𣬫	None	录入中	None	None
-𣬩	None	录入中	None	None
-𣬴	None	录入中	None	None
-𣬵	None	录入中	None	None
-𣬶	None	录入中	None	None
-𣬷	None	录入中	None	None
-𣬾	None	录入中	None	None
-𣬽	None	录入中	None	None
+毛	mao2	动植物的皮上所生的丝状物；鸟的羽毛	None	None
+毛	mao2	特指人的须发 如：鬓毛；眉毛；嘴上无毛，办事不牢	None	None
+毛	mao2	兽类	None	None
+毛	mao2	带毛的兽皮	None	None
+毛	mao2	地面上生长或种植或植物的通称 多指五谷蔬菜等	None	None
+毛	mao2	物体上长的绒状霉菌 如：馒头放久了就要长毛；老没见太阳，衣服都长毛了	None	None
+毛	mao2	粗糙的；未经加工的 如：毛样；毛坯 又指声音发沙或不圆润	None	None
+毛	mao2	粗略；大约	None	None
+毛	mao2	不纯净的 如：毛重；毛利	None	None
+毛	mao2	细微；细小 如：毛渠；毛细管；毛毛雨	None	None
+毛	mao2	粗率；不细心	None	None
+毛	mao2	急躁；发火；发怒 如：发毛	None	None
+毛	mao2	兵器名	None	None
+毛	mao2	惊慌；慌乱	None	None
+毛	mao2	（货币等）贬值	None	None
+毛	mao2	中国货币的辅助单位“角”（一元的十分之一）的俗称	None	None
+毛	mao2	中医学说中的一种脉象	None	None
+毛	mao2	无；没有	None	None
+毛	mao2	通=氂 牦牛尾	None	氂
+毛	mao2	通=髦 长毛	None	髦
+毛	mao2	春秋国名，姬姓 在今河南省宜阳县境	None	None
+毛	mao2	姓	None	None
+毛	mao4	选择毛色相同的牲畜	None	None
+𣬛	san1	[𣬛郎]也作“=三郎”，神名	None	三
+𣬛	shan1	[𣬛陽]镇名 在山东省费县	None	None
+𣬜	None	同=秃	None	秃
+𣬠	ji1	[𣬠𣬶]男人生殖器，也指公畜或雄兽的生殖器	None	None
+⿱毛几	None	同=秃	None	秃
+⿱丷毛	None	同=毳	None	毳
+㲌	neng4	[𣰜㲌]见“𣰜”	None	None
+𣬣	None	同=鬍	None	鬍
+𣬢	None	同=㲏	None	㲏
+毝	None	同=彩	None	彩
+𣬬	sa1	[毾𣬬]用鸟毛衬垫的鞋底	None	None
+𣬡	None	同=麾	None	麾
+𣬪	bei4	[𣬪㲡]多毛	None	None
+㲍	zhi1	[㲔㲍]见“㲔”	None	None
+⿰不毛	None	同=髬	None	髬
+𣬮	pi1	假发	None	None
+毞	pi2	我国古代西北、西南氐人所织的一种兽毛布 也作=紕	None	紕
+𣬭	None	同=䫇(髥) 颊须	None	䫇
+㲎	None	同=氀	None	氀
+㲏	pao1	毛起貌	None	None
+㲏	pao1	轻	None	None
+𣬫	jie4	兽的细毛	None	None
+𣬫	ga4	[𣰦𣬫]见“𣰦”	None	None
+𣬩	fen1	毛脱落	None	None
+⿺毛分	None	同=𣬩	None	𣬩
+⿰卆毛	None	同=㲞	None	㲞
+𣬴	di4	毛根	None	None
+⿺毛殳	dou3	毛脱落	None	None
+𣬵	mao2	幢	None	None
+𣬵	mao2	兽名	None	None
+𣬵	mao3	老称	None	None
+𣬵	mao3	麕毛㺜长	None	None
+𣬶	ba1	[𣬠𣬶]见“𣬠”	None	None
+𣬷	ba1	[雞𣬷]同“𣬠=𣬶”	None	𣬶
+𣬾	None	同=䯱	None	䯱
+𣬽	wu4	形容毛多而密	None	None
 毡	None	录入中	None	None
 𣭖	None	录入中	None	None
 𣭂	None	录入中	None	None
