@@ -37638,17 +37638,20 @@
 𣰻	qu2	[𣰻氀]同“=氍氀” 即“氍𣮬”	None	氍
 𣰸	None	同=㲲	None	㲲
 𣰷	xian1	毛	None	None
-𣰶	None	录入中	None	None
-𣰼	None	录入中	None	None
-𣰽	None	录入中	None	None
-氍	None	录入中	None	None
-𣰿	None	录入中	None	None
-𣱁	None	录入中	None	None
-𣱀	None	录入中	None	None
-氎	None	录入中	None	None
-㲲	None	录入中	None	None
-𣱂	None	录入中	None	None
-𣱄	None	录入中	None	None
+𣰶	rang2	同=鬤	None	鬤
+𣰶	nang3	[𣰊𣰶]毛毯毛长而乱的样子	None	None
+𣰼	nie4	毛弱貌	None	None
+⿰聶毛	None	同=𣰼	None	𣰼
+𣰽	None	同=氍	None	氍
+氍	qu2	[氍毹]毛毯之类 纯毛或毛与其他材料混织而成	None	None
+𣰿	shu2	[𣬺𣰿]见“𣬺”	None	None
+𣱁	None	[𣱁氌]即“=氆氌”，西藏自治区产的一种毛织品	None	氆
+𣱀	lu3	[氆𣱀]同“氆=氌”	None	氌
+氎	None	同=㲲	None	㲲
+㲲	die2	细毛布；细棉布	None	None
+㲲	die2	以细毛布或细棉布制的大衣类披衣	None	None
+𣱂	kun4	@	None	None
+𣱄	None	同=䫇(髯)	None	䫇
 气	qi4	云气 引申为凡气之称 后作=氣	None	氣
 气	qi4	通=餼(xi4) 发放或领取粮食	None	餼
 气	qi3	乞求；给予 后作=乞	None	乞
