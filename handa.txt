@@ -37494,32 +37494,51 @@
 氁	mu2	翻毛衫	None	None
 㲦	han4	兽的鬃毛、长毛	None	None
 𣯕	None	同=氂	None	氂
-𣯋	None	录入中	None	None
-𣯅	None	录入中	None	None
-𣯛	None	录入中	None	None
-𣯴	None	录入中	None	None
-毾	None	录入中	None	None
-𣯉	None	录入中	None	None
-𣯒	None	录入中	None	None
-𣯍	None	录入中	None	None
-𣯝	None	录入中	None	None
-𣯑	None	录入中	None	None
-㲤	None	录入中	None	None
-𣯤	None	录入中	None	None
-㲥	None	录入中	None	None
-𣯞	None	录入中	None	None
-𣯓	None	录入中	None	None
-𣯊	None	录入中	None	None
-𣯟	None	录入中	None	None
-𣯠	None	录入中	None	None
-𣯇	None	录入中	None	None
-𣯢	None	录入中	None	None
-𣯌	None	录入中	None	None
-𣯱	None	录入中	None	None
-𣯐	None	录入中	None	None
-氂	None	录入中	None	None
-𣯭	None	录入中	None	None
-𣯩	None	录入中	None	None
+⿱⿻⿱一⿰冫⿱丿丶丨支毛	None	同=氂	None	氂
+𣯋	ru4	同=縟(褥) 褥子	None	縟
+⿰辱毛	None	同=𣯋	None	𣯋
+𣯅	ji4	同=𦇧(罽) 用毛织成的布或毡子一类织品	None	𦇧
+𣯛	None	同=氂	None	氂
+⿰监毛	None	=㲯的类推简化字	None	㲯
+𣯴	bi4	[𣯴𣰈]也作“=嗶嘰”，法语biege的音译 一种密度比较小的斜纹毛织品	None	嗶
+⿰𭥭毛	None	同=毼	None	毼
+⿺毛晏	None	同=𣯄	None	𣯄
+毾	ta4	[毾㲪]1.有彩纹的细毛毯 2.羽悴貌	None	None
+𣯉	None	同=㲲	None	㲲
+𣯒	None	同=氍	None	氍
+𣯍	rong3	鸟兽细软而茂密的毛 后作=氄	None	氄
+𣯝	None	同=毳	None	毳
+𣯑	None	同=氍	None	氍
+㲤	shuai1	[毿㲤]长毛貌 一说狐貌	None	None
+㲤	shuai1	毛稀而下垂的样子	None	None
+𣯤	li2	[接𣯤]也作“接=㒿”、“接㒿” 古代一种头巾	None	㒿
+㲥	tang2	[㲥毦]一种有曲纹的毛织品	None	None
+㲥	tang2	一种冠缨上的装饰品	None	None
+⿺毛唐	None	同=㲥	None	㲥
+𣯞	None	同=𣮧	None	𣮧
+𣯓	None	同=𣮧	None	𣮧
+𣯊	None	同=𣮧	None	𣮧
+𣯟	None	同=𣮧	None	𣮧
+𣯠	None	同=毳	None	毳
+𣯇	None	同=毼(褐)	None	毼
+𣯢	None	同=𣯌	None	𣯌
+𣯌	suo1	毛羽婆娑貌 也作=娑	None	娑
+⿰𪡌毛	None	同=𣯃	None	𣯃
+𬇄	None	=𣰨的类推简化字	None	𣰨
+𣯱	pei2	[𣯱毸]同“=毰毸”	None	毰
+⿰⿱羽夬毛	None	同=睫	None	睫
+⿰⿱矛示毛	None	同=毧	None	毧
+𣯐	rong2	细毛	None	None
+氂	mao2	牦牛尾	None	None
+氂	mao2	长毛	None	None
+氂	mao2	细小的物体	None	None
+氂	mao2	同=犛(牦) 牦牛	None	犛
+氂	li2	量词 后作=釐	None	釐
+氂	li2	同=𣮉(斄) 硬而卷曲的毛	None	𣮉
+氂	li2	用同=剺 割；划	None	剺
+𣯭	nie4	毛发多貌	None	None
+𣯩	men2	一种细毡类毛织品，多为赤色	None	None
+𣯩	men2	数	None	None
 𣯫	None	录入中	None	None
 氀	None	录入中	None	None
 𣯧	None	录入中	None	None
