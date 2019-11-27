@@ -37278,33 +37278,44 @@
 𣬷	ba1	[雞𣬷]同“𣬠=𣬶”	None	𣬶
 𣬾	None	同=䯱	None	䯱
 𣬽	wu4	形容毛多而密	None	None
-毡	None	录入中	None	None
-𣭖	None	录入中	None	None
-𣭂	None	录入中	None	None
-𣭗	None	录入中	None	None
-𣬺	None	录入中	None	None
-𣬿	None	录入中	None	None
-𣬹	None	录入中	None	None
-㲒	None	录入中	None	None
-𣭀	None	录入中	None	None
-𣭙	None	录入中	None	None
-𣭘	None	录入中	None	None
-𣬻	None	录入中	None	None
-𣭄	None	录入中	None	None
-毠	None	录入中	None	None
-𣬸	None	录入中	None	None
-𣬼	None	录入中	None	None
-𣭆	None	录入中	None	None
-𣭅	None	录入中	None	None
-𣭇	None	录入中	None	None
-𣭭	None	录入中	None	None
-毧	None	录入中	None	None
-𣭢	None	录入中	None	None
-𣭞	None	录入中	None	None
-毦	None	录入中	None	None
-毢	None	录入中	None	None
-㲓	None	录入中	None	None
-𣭤	None	录入中	None	None
+毡	None	同=氈	None	氈
+𣭖	hao1	@	None	None
+⿺毛由	None	同=綉	None	綉
+𣭂	None	同=氍	None	氍
+𣭗	None	同⿺毛殳	None	None
+𣬺	sheng1	[𣬺𣰿]毛竖起的样子	None	None
+𣬿	ze2	毛初生	None	None
+𣬹	ling2	毛长而打结	None	None
+㲒	bao4	同=菢 鸟孵卵	None	菢
+㲒	qu2	一种用毛织的毯	None	None
+𪵙	None	同=㲒	None	㲒
+𣭀	bao4	同=菢 鸟孵卵	None	菢
+⿰𠮦毛	None	同=𣬸	None	𣬸
+⿰宁毛	None	=㲰的类推简化字	None	㲰
+𣭙	ni2	同=呢 呢子，一种较厚较密的毛织品	None	呢
+𣭘	fu2	同=拂 擦拭；掸除尘埃	None	拂
+𣬻	zhen3	毛发齐貌	None	None
+𣭄	None	同=𣭠	None	𣭠
+毠	jia1	[毠㲚]也作“=袈裟” 僧衣	None	袈
+𣬸	tiao2	[𣬸㲖]1.毛多而密 2.指鸟尾的翘毛 3.羽恶貌	None	None
+⿺毛召	None	同=𣬸	None	𣬸
+𣬼	pi1	毛	None	None
+𣬼	pi1	女性的外生殖器	None	None
+𣭆	None	宋代科举取士用来编号的文字	None	None
+𣭅	None	同=旄	None	旄
+𣭇	lv3	毡类毛织品	None	None
+𣭭	None	同=氂	None	氂
+毧	rong2	细毛 也指毡类毛织物	None	None
+𣭢	None	同=耄	None	耄
+𣭞	None	同=毦	None	毦
+毦	er4	用鸟羽兽毛作的装饰	None	None
+毦	er4	毡类毛织品	None	None
+毦	er4	用羽毛编织成的衣服	None	None
+毦	er4	草花	None	None
+毢	sai1	[毰毢]见“毰”	None	None
+㲓	shu4	毛	None	None
+⿰夹毛	None	同=睫	None	睫
+𣭤	None	=𣯴的类推简化字	None	𣯴
 𣭁	None	录入中	None	None
 毨	None	录入中	None	None
 𣭡	None	录入中	None	None
