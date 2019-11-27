@@ -37442,45 +37442,58 @@
 𣯏	rong3	[𣯾𣯏]猥杂貌 一说不肖	None	None
 㲨	rong2	同=毧 毡类毛织品	None	毧
 㲨	rong2	同=䩸 覆于鞍上作装饰的细毛毡	None	䩸
-𣯚	None	录入中	None	None
-𣯈	None	录入中	None	None
-㲡	None	录入中	None	None
-𣯄	None	录入中	None	None
-𣮲	None	录入中	None	None
-毻	None	录入中	None	None
-𣮿	None	录入中	None	None
-𣮰	None	录入中	None	None
-𥇾	None	录入中	None	None
-𣯀	None	录入中	None	None
-毷	None	录入中	None	None
-𣮨	None	录入中	None	None
-𣯎	None	录入中	None	None
-毼	None	录入中	None	None
-毸	None	录入中	None	None
-𣯜	None	录入中	None	None
-㲣	None	录入中	None	None
-𣯂	None	录入中	None	None
-毺	None	录入中	None	None
-毹	None	录入中	None	None
-𣮴	None	录入中	None	None
-𣯃	None	录入中	None	None
-𣮭	None	录入中	None	None
-𣮩	None	录入中	None	None
-𣮬	None	录入中	None	None
-𣮸	None	录入中	None	None
-㲢	None	录入中	None	None
-𣯦	None	录入中	None	None
-𣮱	None	录入中	None	None
-𣮫	None	录入中	None	None
-𣮮	None	录入中	None	None
-㲧	None	录入中	None	None
-𣮪	None	录入中	None	None
-𣯆	None	录入中	None	None
-𣯣	None	录入中	None	None
-𣯬	None	录入中	None	None
-氁	None	录入中	None	None
-㲦	None	录入中	None	None
-𣯕	None	录入中	None	None
+𣯚	ta4	[𣯚𣰆]同“=毾㲪”	None	毾
+𣯈	None	同=毾	None	毾
+㲡	nai4	兽毛密	None	None
+㲡	nai4	[𣬪㲡]见“𣬪”	None	None
+𣯄	None	=毽子，一种用脚踢的玩具	None	毽
+⿰垔毛	None	同=𣯼	None	𣯼
+𣮲	None	同=毻	None	毻
+毻	tuo3	蛻；易 鸟兽换毛为毻毛	None	None
+𣮿	None	同=氈	None	氈
+𣮰	de2	毛少 ……一说=𣮊的讹字	None	𣮊
+𥇾	None	同=睫	None	睫
+𣯀	mao4	[𣯀𣰕]同“=毷氉”	None	毷
+毷	mao4	[毷氉]也作“=眊矂” 烦恼；烦躁不安	None	眊
+𣮨	None	同=㲲	None	㲲
+𣯎	wu4	[𣯎㲞]毛貌	None	None
+毼	he2	毛布	None	None
+毼	he2	头生疮	None	None
+毼	he2	通=鶡 “毼雞”即“鶡雞”	None	鶡
+毼	ke3	同=楬 无装饰的；无修饰的	None	楬
+毼	da1	[氀毼]即“氀”	None	None
+毸	sui1	[毰毸]见“毰”	None	None
+毸	sai1	鸟张羽貌	None	None
+毸	sai1	胡须	None	None
+⿱⿰禾刀⿸厂毛	None	同=氂	None	氂
+𣯜	sou1	[𣰽𣯜]同“𣰽=𣮬”	None	𣮬
+㲣	None	同=𣮬 “𣰽𣮬”即“氍𣮬”	None	𣮬
+𣯂	None	同=𣮃	None	𣮃
+毺	None	同=毹	None	毹
+毹	shu1	[氍毹]见“氍”	None	None
+𣮴	None	同=毱	None	毱
+𣯃	None	同=頿(髭)	None	頿
+𣮭	None	=㲔的讹字	None	㲔
+⿰娄毛	None	=氀的类推简化字	None	氀
+𣮩	None	同=㲨	None	㲨
+𣮬	sou1	[𣰽𣮬]有花纹的毛毯	None	None
+𣮸	None	同=𣮬	None	𣮬
+㲢	bian3	[㲢㲫]毛乱而打结	None	None
+𣯦	None	同=髻	None	髻
+𣮱	None	同=𣮫	None	𣮫
+𣮫	jia1	[𣮫㲚]即“=袈裟”	None	袈
+𣮮	None	同=眉	None	眉
+㲧	sao4	毛貌	None	None
+𣮪	rong2	细毛	None	None
+𣮪	rong2	同=㲨	None	㲨
+⿺毛馬	None	同=䭷	None	䭷
+𣯆	qi2	毛文会	None	None
+𣯣	None	=𣯩的类推简化字	None	𣯩
+𣯬	None	同=𣮧	None	𣮧
+氁	mu2	一种毛织品，即毛缎	None	None
+氁	mu2	翻毛衫	None	None
+㲦	han4	兽的鬃毛、长毛	None	None
+𣯕	None	同=氂	None	氂
 𣯋	None	录入中	None	None
 𣯅	None	录入中	None	None
 𣯛	None	录入中	None	None
