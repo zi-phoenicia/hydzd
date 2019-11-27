@@ -37794,61 +37794,98 @@
 ⿰片𢆍	None	同=牐	None	牐
 𤗄	None	同=牕	None	牕
 𤗀	luo3	艣的别名	None	None
-𤗅	None	录入中	None	None
-𤗗	None	录入中	None	None
-𤗕	None	录入中	None	None
-牍	None	录入中	None	None
-𤗎	None	录入中	None	None
-牋	None	录入中	None	None
-𤗋	None	录入中	None	None
-牌	None	录入中	None	None
-𤗉	None	录入中	None	None
-𤗌	None	录入中	None	None
-𤗒	None	录入中	None	None
-𤗔	None	录入中	None	None
-𤗏	None	录入中	None	None
-𤗈	None	录入中	None	None
-𤗊	None	录入中	None	None
-𤗇	None	录入中	None	None
-𤗍	None	录入中	None	None
-𤗓	None	录入中	None	None
-𤗥	None	录入中	None	None
-牒	None	录入中	None	None
-𤗚	None	录入中	None	None
-𤗛	None	录入中	None	None
-𤗘	None	录入中	None	None
-牐	None	录入中	None	None
-𤗠	None	录入中	None	None
-牏	None	录入中	None	None
-牎	None	录入中	None	None
-𤗞	None	录入中	None	None
-𤗙	None	录入中	None	None
-𤗟	None	录入中	None	None
-牑	None	录入中	None	None
-𤗜	None	录入中	None	None
-𤗣	None	录入中	None	None
-㸢	None	录入中	None	None
-𤗩	None	录入中	None	None
-牔	None	录入中	None	None
-𤗦	None	录入中	None	None
-𤗢	None	录入中	None	None
-𤗫	None	录入中	None	None
-牓	None	录入中	None	None
-𤗮	None	录入中	None	None
-𤗶	None	录入中	None	None
-𤗰	None	录入中	None	None
-𤗭	None	录入中	None	None
-𤗱	None	录入中	None	None
-𤗬	None	录入中	None	None
-𤗯	None	录入中	None	None
-牕	None	录入中	None	None
-𤗪	None	录入中	None	None
-牖	None	录入中	None	None
-𤗨	None	录入中	None	None
-𤗸	None	录入中	None	None
-𤗵	None	录入中	None	None
-𤗴	None	录入中	None	None
-𤗷	None	录入中	None	None
+𤗅	None	同=胤	None	胤
+𤗗	None	同=棟	None	棟
+𤗕	None	同=𤗭	None	𤗭
+牍	None	=牘的简化字	None	牘
+𤗎	yan3	屋檐耑版	None	None
+𤗎	yan3	户坏	None	None
+牋	None	同=箋 	None	箋
+𤗋	None	同=牌	None	牌
+牌	pai2	[簧牌]户籍	None	None
+牌	pai2	揭示或作标志用的板 如：门牌；路牌；招牌；布告牌	None	None
+牌	pai2	商标 如：中华牌香烟；永久牌自行车	None	None
+牌	pai2	古时的凭证	None	None
+牌	pai2	古代一种下行公文的名称 如：行牌；牌文	None	None
+牌	pai2	宋末的一种铜铸货币	None	None
+牌	pai2	古代兵器“盾”的俗称	None	None
+牌	pai2	旧时丧礼所设的木主；置于厅堂或宗庙、寺庙、神龛中写着祖先或神仙名字的木板 如：灵牌；牌位	None	None
+牌	pai2	词曲的调名	None	None
+牌	pai2	一种娱乐用品（旧时多用为赌具） 如：纸牌；骨牌；扑克牌；麻将牌；打牌	None	None
+牌	pai2	用同=𥴖 木排	None	𥴖
+牌	pai2	元代军队编制的基层单位	None	None
+牌	pai2	元代军中小头目“牌头”的简称	None	None
+𤗉	None	同=牎(窗)	None	牎
+𤗌	None	同=㸢	None	㸢
+𤗒	None	同=牓	None	牓
+𤗔	None	同=新	None	新
+𤗏	pei2	踏板 也作=棓	None	棓
+𤗈	xie2	[𤗈牒]小楔	None	None
+𤗈	xie2	简	None	None
+𤗊	None	同=牒 	None	牒
+𤗇	kong4	穿垣	None	None
+𤗍	wan3	船𤗍木	None	None
+𤗓	cheng2	@	None	None
+𤗥	None	同=㸣	None	㸣
+牒	die2	古代书写用的木（竹）片	None	None
+牒	die2	簿籍	None	None
+牒	die2	谱牒	None	None
+牒	die2	公文 1.用于授职，相当于委任状 2.官府往来文书 本下呈上之公文名 3.凭证	None	None
+牒	die2	诉状	None	None
+牒	die2	神前的誓词	None	None
+牒	die2	床板	None	None
+牒	die2	叠布，即棉布	None	None
+牒	die2	𡧽	None	None
+牒	die2	通=疊 累	None	疊
+牒	die2	姓	None	None
+𤗚	bi4	同=副 剖分；破开	None	副
+𤗚	bi4	薄版	None	None
+𤗛	lian4	木板的纹理	None	None
+𤗘	ti2	墙壁一方丈	None	None
+牐	zha2	同=閘 旧时城门的悬门 泛指以门控制通道的设施	None	閘
+𤗠	None	同=牐	None	牐
+牏	yu2	筑墙时用于两端的短板	None	None
+牏	yu2	通=窬 门旁小洞	None	窬
+牎	chuang1	同=囱(窗) 窗户	None	囱
+𤗞	tng2	亭榭	None	None
+𤗙	che4	同=𤖴(坼) 裂开	None	𤖴
+𤗙	tuo4	同=𣔳(柝) 木判；使分裂	None	𣔳
+𤗟	None	同=新	None	新
+牑	bian1	床板；床箦	None	None
+牑	mian4	同=㰃 屋箦	None	㰃
+𤗜	jia3	姓 ……一说=假的讹字	None	假
+𤗣	None	同=牒	None	牒
+㸢	bei4	床上的横板	None	None
+㸢	bei4	窗户	None	None
+㸢	bei4	模	None	None
+𤗩	None	同=㸢	None	㸢
+牔	bo2	屋端版	None	None
+𤗦	None	同=隔	None	隔
+𤗢	ti1	牌	None	None
+𤗫	li2	破木	None	None
+牓	bang3	同=榜 1.牌额；题榜 2.公告；文告 3.揭示录取人员的名单 4.题写；书写	None	榜
+牓	bang3	通=妨(fang2) 妨碍	None	妨
+牓	pang1	纳鞋底的模具	None	None
+牓	pang1	[牓陁]同“=滂沱”	None	滂
+𤗮	None	同=牐(閘)	None	牐
+𤗶	None	同=𤖖	None	𤖖
+𤗰	None	地名用字 𤗰𤗮堰，在今河南省新蔡县	None	None
+𤗭	xia4	同=㙤(罅) 裂开；裂缝	None	㙤
+𤗭	xia4	古地名	None	None
+𤗱	None	同=牖	None	牖
+𤗬	lv2	[㸡𤗬]见“㸡”	None	None
+𤗯	cui1	[𤗯𤗴]也作“=𨻵隤” 崩塌；屋欲倾倒貌	None	𨻵
+牕	chuang1	同=囱(窗) 窗户	None	囱
+𤗪	shu4	板	None	None
+牖	you3	木窗	None	None
+牖	you3	通=誘(you4) 引导	None	誘
+牖	you3	姓	None	None
+𤗨	die2	治	None	None
+𤗸	fen4	床板	None	None
+𤗸	fen2	[𤗸𤗂]器足 也作“=𤖘𤕾”、“=橨𤕾”	None	𤖘
+𤗵	pu2	大墙板	None	None
+𤗴	tui2	[𤗯𤗴]见“𤗯”	None	None
+𤗷	lin4	觚𤗷，棱角	None	None
 𤗳	None	录入中	None	None
 㸣	None	录入中	None	None
 𤗾	None	录入中	None	None
