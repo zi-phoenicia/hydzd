@@ -36907,43 +36907,85 @@
 𤙫	None	同=特	None	特
 𤙡	xing1	赤色牛 也泛指赤色的牲畜	None	None
 ⿰牛⿳亠丷子	None	同=犉	None	犉
-牽	None	录入中	None	None
-㸺	None	录入中	None	None
-𤙟	None	录入中	None	None
-犀	None	录入中	None	None
-㸾	None	录入中	None	None
-㸻	None	录入中	None	None
-𤚉	None	录入中	None	None
-𤚐	None	录入中	None	None
-犆	None	录入中	None	None
-㹂	None	录入中	None	None
-犊	None	录入中	None	None
-𤙼	None	录入中	None	None
-犄	None	录入中	None	None
-㹃	None	录入中	None	None
-𤙴	None	录入中	None	None
-𤙽	None	录入中	None	None
-𤙰	None	录入中	None	None
-犋	None	录入中	None	None
-𤚈	None	录入中	None	None
-犅	None	录入中	None	None
-𤙲	None	录入中	None	None
-犇	None	录入中	None	None
-犂	None	录入中	None	None
-𤙿	None	录入中	None	None
-𤙵	None	录入中	None	None
-𤙱	None	录入中	None	None
-𤚁	None	录入中	None	None
-𤚀	None	录入中	None	None
-𤚂	None	录入中	None	None
-𤙳	None	录入中	None	None
-㹁	None	录入中	None	None
-犉	None	录入中	None	None
-𤚃	None	录入中	None	None
-犃	None	录入中	None	None
-𤚊	None	录入中	None	None
-犈	None	录入中	None	None
-犍	None	录入中	None	None
+牽	qian1	拉；挽	None	None
+牽	qian1	牛、羊、豕等牲畜	None	None
+牽	qian1	牵连，涉及	None	None
+牽	qian1	牵制，制约	None	None
+牽	qian1	强制；勉强	None	None
+牽	qian1	邀约；携带	None	None
+牽	qian1	引发，引起	None	None
+牽	qian1	移动；推移	None	None
+牽	qian1	古地名 春秋时卫邑 故址在今河南省浚县境	None	None
+牽	qian1	古水名 即今江西省西部的袁江，为赣江的支流	None	None
+牽	qian1	姓	None	None
+牽	qian4	拉船的绳索 后作=縴	None	縴
+㸺	sha1	母牛	None	None
+𤙟	chu1	牛角	None	None
+⿸尿牛	None	同=犀	None	犀
+㸾	None	同=牣	None	牣
+㸻	si4	牛名	None	None
+㸻	si4	一岁的 牛	None	None
+𤚉	xu1	牛不驯顺	None	None
+𤚐	None	同=犛	None	犛
+犆	zhi2	阉牛	None	None
+犆	zhi2	缘饰	None	None
+犆	te4	同=特 公牛；单一	None	特
+㹂	qian3	牛不驯顺，不服牵引	None	None
+㹂	qian3	大貌	None	None
+犊	None	=犢的简化字	None	犢
+𤙼	ran2	@	None	None
+犄	yi1	去势的公牛	None	None
+犄	yi1	牛名	None	None
+犄	yi1	同=猗	None	猗
+犄	ji1	牵制	None	None
+犄	ji1	牛角或羊角对向貌	None	None
+㹃	fei4	两牛相向而耕	None	None
+㹃	fei4	复耕之后再种植	None	None
+𤙴	chao1	以角挑物	None	None
+𤙽	hou3	@ ……按：……疑是=㸸的讹俗字	None	㸸
+𤙰	te4	同=特 公牛；单一	None	特
+𤙰	te4	钝	None	None
+犋	ju4	量词 牵引犁、耙等农具的畜力单位 能拉动一张犁或耙的畜力叫一犋 大的牲口一头可以拉动一张，就是一犋；小的牲口要两头或两头以上才能拉动一张，也叫一犋 如：搭犋；插犋；牛犋	None	None
+𤚈	None	同=𤘸	None	𤘸
+犅	gong1	公牛	None	None
+𤙲	None	同=觢	None	觢
+犇	ben1	牛惊走	None	None
+犇	ben1	同=𢍃(奔) 奔跑	None	𢍃
+𭷧	None	同=犛	None	犛
+⿱物牛	None	同=犂	None	犂
+犂	li2	耕翻土地 今通用=犁	None	犁
+犂	li2	耕翻土地的农具 我国春秋时期已用牛耕，出现了木犁 后用铁犁 今通用=犁	None	犁
+犂	li2	毁坏；毁灭	None	None
+犂	li2	杂色	None	None
+犂	li2	黑斑；黑色	None	None
+犂	li2	通=離 分开	None	離
+犂	li2	通=黎 比及；迟 “犂明”即“黎明”	None	黎
+犂	li2	古地名 春秋齐邑，在今山东省禹城市和济阳县之间	None	None
+犂	li2	古国名 也作=黎 在今四川省汉源县北，峨眉山西，公元前311年降秦 西汉改为沈黎郡	None	黎
+犂	li2	姓 也作=黎	None	黎
+𤙿	None	同=㹊	None	㹊
+𤙵	chui1	牛名	None	None
+𤙱	she4	雌性牲畜	None	None
+𤚁	None	同=𤙼	None	𤙼
+𤚀	cai3	@	None	None
+𤚂	None	同=犓	None	犓
+⿰牜⿱匇寸	None	同=將	None	將
+𤙳	None	同=犕	None	犕
+㹁	liang2	牻牛，白黑杂毛牛	None	None
+犉	chun2	黑毛黑唇的牛	None	None
+犉	chun2	七尺牛	None	None
+𤚃	None	同=牴	None	牴
+犃	pou3	雄性	None	None
+犃	pou3	短头牛	None	None
+⿳亠丷⿱冖牟	None	同=牽	None	牽
+𤚊	None	同=牃	None	牃
+犈	quan2	黑脚牛	None	None
+犈	quan2	黑耳牛	None	None
+犍	jian1	阉过的牛；阉过的	None	None
+犍	jian1	同=㓺 阉割牲畜	None	㓺
+犍	jian1	古时传说的一种怪兽 一名“诸犍”	None	None
+犍	qian2	[犍為]1.古郡名 汉置 治所在僰道县，即今四川省宜宾县 2.县名 在今四川省乐山市	None	None
+犍	jian3	兽名 似牛	None	None
 犀	None	录入中	None	None
 𤚄	None	录入中	None	None
 𤚅	None	录入中	None	None
