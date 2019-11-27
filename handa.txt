@@ -37199,21 +37199,26 @@
 𤜊	ge1	@	None	None
 𤜈	None	同=𤜌(犦)	None	𤜌
 𤜉	ying1	牛名	None	None
-犩	None	录入中	None	None
-𤜇	None	录入中	None	None
-𤜒	None	录入中	None	None
-𤜏	None	录入中	None	None
-𤜌	None	录入中	None	None
-㹛	None	录入中	None	None
-𤜑	None	录入中	None	None
-𤜓	None	录入中	None	None
-𤜕	None	录入中	None	None
-𤜔	None	录入中	None	None
-𤜘	None	录入中	None	None
-𤜖	None	录入中	None	None
-犪	None	录入中	None	None
-犫	None	录入中	None	None
-𤜙	None	录入中	None	None
+⿰牜⿳𣅽大氺	None	同=犦	None	犦
+犩	wei2	我国古代西南山区一种很大的野牛 又称“=犪牛”或“=夔牛”	None	犪
+𤜇	zhan4	牛角貌	None	None
+𤜒	None	同=犡	None	犡
+𤜏	None	同=犡	None	犡
+𤜌	None	同=犦	None	犦
+㹛	rao2	牛柔驯	None	None
+㹛	rao2	和善；顺从 也作=擾	None	擾
+𤜑	None	同=犤	None	犤
+⿰牜⿳䒑⿲止自匕殳	None	同=犪	None	犪
+𤜓	lie4	@	None	None
+𤜕	ba4	@	None	None
+𤜔	ju2	牛名	None	None
+𤜘	man2	@	None	None
+𤜖	lei2	求子牛	None	None
+𤜖	lei2	腾䝏	None	None
+犪	kui2	我国古代西南山区一种大山野牛 也作=夔	None	夔
+犪	rao2	同=㹛 牛柔驯	None	㹛
+犫	None	同=犨	None	犨
+𤜙	ling2	牛名	None	None
 毛	None	录入中	None	None
 𣬛	None	录入中	None	None
 𣬜	None	录入中	None	None
