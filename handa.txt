@@ -37886,16 +37886,21 @@
 𤗵	pu2	大墙板	None	None
 𤗴	tui2	[𤗯𤗴]见“𤗯”	None	None
 𤗷	lin4	觚𤗷，棱角	None	None
-𤗳	None	录入中	None	None
-㸣	None	录入中	None	None
-𤗾	None	录入中	None	None
-𤗻	None	录入中	None	None
-𤗺	None	录入中	None	None
-𤗿	None	录入中	None	None
-𤘀	None	录入中	None	None
-牘	None	录入中	None	None
-𤘃	None	录入中	None	None
-㸥	None	录入中	None	None
+𤗳	bo1	挡风板	None	None
+㸣	ye4	同=業 古时乐器架上刻如锯齿状，用以悬挂钟、鼓、磬等的大板	None	業
+𤗾	dang1	@	None	None
+𤗻	chan4	屋檐端板	None	None
+𤗺	bo2	小而硬的豆	None	None
+𤗿	tai3	从下端向上削木	None	None
+𤘀	dao4	同=檮 棺	None	檮
+牘	du2	古时写字的木片 也称木简	None	None
+牘	du2	书信	None	None
+牘	du2	公文	None	None
+牘	du2	书籍	None	None
+牘	du2	古乐器名	None	None
+𤘃	li4	木障	None	None
+㸥	zhan4	版	None	None
+㸥	zhan4	同=欃 水门	None	欃
 斤	None	录入中	None	None
 𣂑	None	录入中	None	None
 斥	None	录入中	None	None
