@@ -37392,43 +37392,56 @@
 㲟	ying3	毛	None	None
 𣮉	li2	同=斄 硬而曲的毛	None	斄
 𣮦	nai4	[𣬪𣮦]见“𣬪”	None	None
-𣮡	None	录入中	None	None
-𣮌	None	录入中	None	None
-𣮏	None	录入中	None	None
-毴	None	录入中	None	None
-𣮊	None	录入中	None	None
-𣮔	None	录入中	None	None
-𣮎	None	录入中	None	None
-𣮑	None	录入中	None	None
-㲛	None	录入中	None	None
-毳	None	录入中	None	None
-𣮋	None	录入中	None	None
-𣮵	None	录入中	None	None
-𣯁	None	录入中	None	None
-㲝	None	录入中	None	None
-𣮐	None	录入中	None	None
-毱	None	录入中	None	None
-𣮕	None	录入中	None	None
-𣮢	None	录入中	None	None
-㲞	None	录入中	None	None
-𣮣	None	录入中	None	None
-𣮒	None	录入中	None	None
-毰	None	录入中	None	None
-𣮍	None	录入中	None	None
-𣮧	None	录入中	None	None
-毯	None	录入中	None	None
-㲜	None	录入中	None	None
-𣮤	None	录入中	None	None
-𣮓	None	录入中	None	None
-𣮥	None	录入中	None	None
-毽	None	录入中	None	None
-𣮈	None	录入中	None	None
-毵	None	录入中	None	None
-毲	None	录入中	None	None
-㲠	None	录入中	None	None
-𣮾	None	录入中	None	None
-𣯏	None	录入中	None	None
-㲨	None	录入中	None	None
+𣮡	bang1	@	None	None
+𣮌	jie2	同=䀹(睫) 眼睫毛	None	䀹
+𣮏	jian1	毛类	None	None
+毴	None	同=屄	None	屄
+𣮊	de2	毛少	None	None
+⿺毛㝵	None	同=𣮊	None	𣮊
+𣮔	None	同=氍	None	氍
+𣮎	gun3	毛转	None	None
+𣮑	None	同=睫	None	睫
+㲛	zhi3	兽毛多	None	None
+毳	cui4	鸟兽的细毛；绒毛	None	None
+毳	cui4	鸟兽毛经过加工而制成的毛织品	None	None
+毳	cui4	毛纠结	None	None
+毳	cui4	通=脆 脆弱；脆嫩	None	脆
+毳	cui4	姓	None	None
+毳	qiao2	同=橇 在泥路上行走用的一种乘具	None	橇
+毳	xia1	卧觉	None	None
+⿱牧毛	None	同=氂	None	氂
+𣮋	None	同=氂	None	氂
+𣮵	None	同=毹	None	毹
+𣯁	None	同=毹	None	毹
+㲝	None	=𣯍的讹字	None	𣯍
+𣮐	bi4	毛	None	None
+毱	ju2	同=鞠 古时一种游戏用的皮球	None	鞠
+𣮕	None	同=毱	None	毱
+𣮢	chun2	@	None	None
+㲞	su4	毛短	None	None
+㲞	zu2	毛生貌	None	None
+⿺毛卒	None	同=㲞	None	㲞
+𣮣	None	同=睫	None	睫
+𣮒	None	同=睫	None	睫
+毰	pei2	[毰毸]也作“毰毢” 1.鸟羽张貌 2.凤舞貌；飞舞貌	None	None
+⿰咅毛	None	同=毰	None	毰
+𣮍	jie2	同=䀹(睫) 眼睫毛	None	䀹
+𣮧	bang3	方纹或斜纹的毡类毛织品	None	None
+毯	tan3	厚实有毛绒的织品，即毯子 如：毛毯；线毯；地毯；壁毯	None	None
+㲜	None	同=毯	None	毯
+𣮤	None	同=鬃	None	鬃
+𣮓	None	同=𣮥(毱)	None	𣮥
+𣮥	None	同=毱	None	毱
+毽	jian4	一种脚踢的玩具，即毽子	None	None
+𣮈	qu1	同=𡲬(屈) 鸟短毛	None	𡲬
+毵	None	=毿的简化字	None	毿
+毲	duo3	古代西南少数民族织的一种毛毡	None	None
+㲠	None	同=氂	None	氂
+𣮾	xian1	@	None	None
+𣯏	rong2	同=㲨(䩸) 覆于鞍上作装饰的细毛毡	None	㲨
+𣯏	rong3	[𣯾𣯏]猥杂貌 一说不肖	None	None
+㲨	rong2	同=毧 毡类毛织品	None	毧
+㲨	rong2	同=䩸 覆于鞍上作装饰的细毛毡	None	䩸
 𣯚	None	录入中	None	None
 𣯈	None	录入中	None	None
 㲡	None	录入中	None	None
