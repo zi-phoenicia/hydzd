@@ -33349,10 +33349,21 @@
 沌	zhuan4	[沌水]古水名 在湖北省 上游为东荆河，至武汉市蔡甸区东南沌口入江	None	None
 㳀	guo4	古水名	None	None
 沘	bi3	水名 1.即今安徽省=淠河 2.即今河南省=泌阳河及其下游的唐河	None	淠
-沍	None	录入中	None	None
-沏	None	录入中	None	None
-𣲑	None	录入中	None	None
-沚	None	录入中	None	None
+沍	hu4	冻结	None	None
+沍	hu4	凝聚	None	None
+沍	hu4	闭塞	None	None
+沍	hu4	水弥漫	None	None
+沍	hu2	[漫沍]水貌 一说为模糊	None	None
+沏	qie4	波浪冲击	None	None
+沏	qie4	水声	None	None
+沏	qie4	水名	None	None
+沏	qi4	用沸水冲泡 如：沏茶	None	None
+𣲑	hu4	水漫	None	None
+𣲑	chi2	同=泜	None	泜
+𣲑	he2	同=涸	None	涸
+𣲑	hu2	同=沍	None	沍
+沚	zhi3	水中小块陆地	None	None
+沚	zhi3	质	None	None
 𣲓	None	录入中	None	None
 𣲏	None	录入中	None	None
 沙	None	录入中	None	None
