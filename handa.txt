@@ -82613,13 +82613,25 @@
 𩩈	None	=䯤的类推简化字	None	䯤
 𩩂	None	同=頷	None	頷
 𩨾	wa2	[䯞𩨾]也作“𩨾䯞” 骼上骨	None	None
-骼	None	录入中	None	None
-骹	None	录入中	None	None
-骸	None	录入中	None	None
-𩩁	None	录入中	None	None
-骿	None	录入中	None	None
-䯔	None	录入中	None	None
-𩩀	None	录入中	None	None
+骼	ge2	禽兽的骨 引申为骨的通称	None	None
+骼	ge2	牲畜的后胫骨	None	None
+骹	qiao1	小腿	None	None
+骹	qiao1	胫骨近脚细的部位 也指脚	None	None
+骹	qiao1	肋骨同胸骨和胸椎下部相交处	None	None
+骹	qiao1	古代车轮的辐，较粗的一端，同车毂相连接，名叫股；较细的一端，同轮牙相连接，名叫骹	None	None
+骹	qiao1	矛骹 矛体分身、骹二部，骹为直筒状，上粗下渐细，用以装矛柄	None	None
+骹	jiao1	膝骨	None	None
+骹	xiao1	同=髇 响箭	None	髇
+骸	hai2	胫骨	None	None
+骸	hai2	骨，骨骼	None	None
+骸	hai2	身体 如：病骸；遗骸	None	None
+骸	gai1	同=胲 足大指上长毛处的肉	None	胲
+𩩁	None	同=䯈	None	䯈
+骿	pian2	肋骨并成一片	None	None
+骿	pian2	通=胼 手脚上的老茧	None	胼
+䯔	ze3	偏转	None	None
+⿰骨䏍	None	同=𩩐	None	𩩐
+𩩀	nao3	同=腦	None	腦
 𩩉	None	录入中	None	None
 䯙	None	录入中	None	None
 骾	None	录入中	None	None
