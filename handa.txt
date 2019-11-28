@@ -33066,30 +33066,76 @@
 汀	ding4	[汀濘]稀泥浆	None	None
 㲺	ji2	喷，洒	None	None
 㲺	ji2	水潜	None	None
-汇	None	录入中	None	None
-汅	None	录入中	None	None
-𣱶	None	录入中	None	None
-汃	None	录入中	None	None
-汄	None	录入中	None	None
-㲼	None	录入中	None	None
-氿	None	录入中	None	None
-㲹	None	录入中	None	None
-汈	None	录入中	None	None
-𣱽	None	录入中	None	None
-𣱼	None	录入中	None	None
-氻	None	录入中	None	None
-汉	None	录入中	None	None
-氾	None	录入中	None	None
-汞	None	录入中	None	None
-𣲊	None	录入中	None	None
-汖	None	录入中	None	None
-㲾	None	录入中	None	None
-𣲂	None	录入中	None	None
-汗	None	录入中	None	None
-汙	None	录入中	None	None
-污	None	录入中	None	None
-汚	None	录入中	None	None
-江	None	录入中	None	None
+汇	None	=匯、=彙的简化字	None	匯
+汅	None	同=沔	None	沔
+𣱶	bu3	水名	None	None
+𣱶	bu3	同=濮	None	濮
+汃	bin1	古水名	None	None
+汃	bin1	同=邠(豳) 古国名 故地在今陕西省彬县	None	邠
+汃	po1	水波相击声	None	None
+汃	pa1	方言 烂熟；疲软	None	None
+汄	None	同=㳁	None	㳁
+㲼	yi4	水名	None	None
+㲼	cha4	同=汊 港汊	None	汊
+氿	gui3	水边枯土	None	None
+氿	gui3	山侧洞穴流出的泉水	None	None
+氿	gui3	小泉	None	None
+氿	qiu2	水岸	None	None
+氿	jiu3	湖名 在江苏省宜兴市	None	None
+㲹	None	同=氿	None	氿
+汈	diao1	[汈汊]湖名 在湖北省汉川市	None	None
+𣱾	None	同=污	None	污
+𣱽	zhen3	@	None	None
+𣱼	dao1	[𣱼𣱼]灵活；流动	None	None
+氻	le4	泉水声；水声	None	None
+汉	None	=漢的简化字	None	漢
+氾	fan4	水漫溢；淹没	None	None
+氾	fan4	地势低下	None	None
+氾	fan4	污秽	None	None
+氾	fan4	广泛；普遍	None	None
+氾	fan4	浮；泛行 后作=泛	None	泛
+氾	fan4	摇动不定貌 也作=汎	None	汎
+氾	fan2	古地名 春秋郑邑 1.南氾 在今河南省襄城县南 2.东氾 在今河南省中牟县	None	None
+氾	fan2	古国名	None	None
+氾	fan2	姓	None	None
+汞	gong3	一种金属元素，符号Hg，原子序数80，通称水银 常温下呈银白色液态，易流动，能溶解金、银、锡、钾、钠等 可用来制镜子、温度计、气压计、水银灯等，还是制杀虫药的原料	None	None
+𣲊	None	同=尅(剋)	None	尅
+汖	pin4	=𣎳的讹字	None	𣎳
+汖	chi2	@	None	None
+㲾	None	同=雨	None	雨
+𣲂	chuai3	北方	None	None
+汗	han4	人和部分动物汗腺里排泄出来的液体	None	None
+汗	han4	出汗，使出汗	None	None
+汗	han4	用火烤竹子，使它的汁液像出汗一样散发掉	None	None
+汗	han4	润泽	None	None
+汗	han4	浊	None	None
+汗	han4	用同=銲 焊接	None	銲
+汗	han4	通=旱	None	旱
+汗	han4	姓	None	None
+汗	han2	[可汗]见“可(ke4)”	None	None
+汗	gan1	[餘汗]古县名 故地在今江西省余干县	None	None
+汙	wu1	污浊、肮脏的东西，污垢	None	None
+汙	wu1	不清洁；肮脏	None	None
+汙	wu1	社会风气、个人道德等的恶劣、腐败 多指不廉洁	None	None
+汙	wu1	漫出	None	None
+汙	wu1	弄脏；污染	None	None
+汙	wu1	污辱；污蔑	None	None
+汙	wu1	涂抹	None	None
+汙	wu1	洗去污垢	None	None
+汙	wu1	同=洿 浊水池 一说小水坑	None	洿
+汙	wu1	低洼	None	None
+汙	wu1	地位低下	None	None
+汙	wu1	劳苦之事	None	None
+汙	wu1	衰微	None	None
+汙	yu1	古水名 已湮 故道在今河北省磁县西南	None	None
+汙	wa1	凿地为坑	None	None
+汙	wa1	夸大	None	None
+汙	yu2	深	None	None
+汙	yu2	通=紆 曲，不正直	None	紆
+污	None	同=汙	None	汙
+汚	None	同=汙(污)	None	汙
+江	jiang1	长江	None	None
+江	jiang1	大河流的通称 如：黑龙江；金沙江；湘江；邕江	None	None
 汏	None	录入中	None	None
 𣲑	None	录入中	None	None
 𣲁	None	录入中	None	None
