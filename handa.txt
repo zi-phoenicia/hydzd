@@ -82665,79 +82665,106 @@
 髁	ke1	踝骨 也作=踝	None	踝
 髁	ke1	膝骨 也指膝部	None	None
 髁	ke1	膝端为髁，踵两旁圜骨为髁 如：肱骨髁；股骨髁	None	None
-䯜	None	录入中	None	None
-𩩚	None	录入中	None	None
-䯞	None	录入中	None	None
-𩩞	None	录入中	None	None
-𩩢	None	录入中	None	None
-髀	None	录入中	None	None
-𩩗	None	录入中	None	None
-𩩠	None	录入中	None	None
-𩩦	None	录入中	None	None
-𩩘	None	录入中	None	None
-𩩣	None	录入中	None	None
-𩩧	None	录入中	None	None
-𩩝	None	录入中	None	None
-䯛	None	录入中	None	None
-𩩨	None	录入中	None	None
-𩩟	None	录入中	None	None
-𩩸	None	录入中	None	None
-𩩹	None	录入中	None	None
-䯝	None	录入中	None	None
-𩩴	None	录入中	None	None
-髄	None	录入中	None	None
-𩩰	None	录入中	None	None
-𩩭	None	录入中	None	None
-髃	None	录入中	None	None
-䯠	None	录入中	None	None
-𩩲	None	录入中	None	None
-𩪆	None	录入中	None	None
-𩩳	None	录入中	None	None
-𩩺	None	录入中	None	None
-𩪁	None	录入中	None	None
-𩩵	None	录入中	None	None
-𩪀	None	录入中	None	None
-𩩻	None	录入中	None	None
-𩩼	None	录入中	None	None
-𩩶	None	录入中	None	None
-𩩽	None	录入中	None	None
-𩩮	None	录入中	None	None
-髊	None	录入中	None	None
-髅	None	录入中	None	None
-䯟	None	录入中	None	None
-髂	None	录入中	None	None
-𩩾	None	录入中	None	None
-𩩯	None	录入中	None	None
-𩩱	None	录入中	None	None
-𩪕	None	录入中	None	None
-𩪋	None	录入中	None	None
-𩪒	None	录入中	None	None
-𩪎	None	录入中	None	None
-髆	None	录入中	None	None
-𩪄	None	录入中	None	None
-𩪈	None	录入中	None	None
-𩪖	None	录入中	None	None
-𩪂	None	录入中	None	None
-𩪅	None	录入中	None	None
-𩪌	None	录入中	None	None
-髇	None	录入中	None	None
-髈	None	录入中	None	None
-䯡	None	录入中	None	None
-𩪃	None	录入中	None	None
-髋	None	录入中	None	None
-髌	None	录入中	None	None
-髉	None	录入中	None	None
-𩪝	None	录入中	None	None
-𩪍	None	录入中	None	None
-𩪊	None	录入中	None	None
-𩪏	None	录入中	None	None
-髏	None	录入中	None	None
-𩪐	None	录入中	None	None
-髍	None	录入中	None	None
-䯢	None	录入中	None	None
-𩪉	None	录入中	None	None
-髎	None	录入中	None	None
-𩪑	None	录入中	None	None
+髁	kua4	髋骨	None	None
+䯜	ti4	黄骨髓	None	None
+䯜	xi1	胯骨间	None	None
+𩩚	None	同=𩩙(髀)	None	𩩙
+䯞	kua1	[䯞𩨾]髂上骨	None	None
+䯞	kua1	髂骨	None	None
+𩩞	shui4	用漆和灰以涂器物，犹今刮膏灰	None	None
+𩩢	ni2	骨貌	None	None
+髀	bi4	股部；大腿	None	None
+髀	bi4	股骨，大腿骨	None	None
+髀	bi4	古代测量日影的表	None	None
+𩩗	she1	骨名	None	None
+𩩠	zu2	小骨	None	None
+𩩦	None	同=𩩘	None	𩩘
+𩩘	yu3	肩骨	None	None
+𩩣	None	同=𩨴	None	𩨴
+𩩧	dan4	@ ……按：疑为=腅的换旁俗字	None	腅
+𩩝	qiang1	尻骨	None	None
+䯛	wan4	膝䯛	None	None
+䯛	wan4	同=腕 手腕	None	腕
+䯛	wan4	用漆和灰以涂器物	None	None
+𩩨	bi4	女性阴门	None	None
+𩩟	chuo4	续骨	None	None
+𩩸	None	同=勒	None	勒
+𩩹	None	同=骾	None	骾
+䯝	None	同=髓	None	髓
+𩩴	yan2	[𩩴𩪢]骨高貌	None	None
+髄	None	同=髓	None	髓
+𩩰	jie1	同=𦝨 瘦	None	𦝨
+𩩰	hai2	同=骸	None	骸
+𩩭	None	同=㾪	None	㾪
+髃	yu2	肩头 也指肩前乳骨，即锁骨外侧端与肩胛骨肩峰形成的关节 后或以为锁骨	None	None
+䯠	ao3	腰骨	None	None
+䯠	ao3	藏骨	None	None
+𩩲	he2	[𩩲𩨗]胸骨	None	None
+𩪆	None	同=體	None	體
+𩩳	chong3	同=𤺄	None	𤺄
+𩩺	song2	方言 精液 引申为骂人（或动物）的粗鲁话	None	None
+𩪁	gui4	[𩪁䯟]愚蠢貌；愚人 也单用作“𩪁”	None	None
+𩪁	gui4	姓	None	None
+𩩵	None	同=骺	None	骺
+𩪀	zhui1	颈椎骨 也作=椎	None	椎
+𩩻	teng2	方言 皮肉坚厚处	None	None
+𩩼	None	=䯚的讹字	None	䯚
+𩩶	yan4	同=饜 饱	None	饜
+𩩽	None	同=骺 骨骺	None	骺
+𩩮	None	同=𩪉	None	𩪉
+髊	ci1	同=骴 鸟兽残骨 也指肉未烂尽的死人骨	None	骴
+髊	cuo1	把牙、骨、角一类的材料磨制成器物 也作=磋	None	磋
+髅	None	=髏的简化字	None	髏
+䯟	dui4	[𩪁䯟]见“𩪁”	None	None
+䯟	dui4	骨	None	None
+䯟	xia2	骨声	None	None
+髂	qia4	髂骨 腰部下面腹部两侧的骨，左右各一，略呈长方形，上缘略呈弓形，下缘与坐骨、耻骨相连，形成髋骨 古称腰骨	None	None
+髂	qia4	捕捉	None	None
+髂	ge2	同=骼	None	骼
+𩩾	kao1	尾骨	None	None
+𩩯	bian3	骨𩩯生貌	None	None
+𩩱	qia4	同=髂	None	髂
+𩪕	None	同=𩪋(螯)	None	𩪋
+𩪋	None	同=螯	None	螯
+𩪒	None	同=髊	None	髊
+𩪎	mang3	[骯𩪎]见“骯”	None	None
+髆	bo2	肩	None	None
+髆	bo2	肩膀	None	None
+髆	po4	腰骨 因指腰部	None	None
+𩪄	None	同=髓	None	髓
+𩪈	None	同=鎖 “鎖骨”之“鎖”的俗字	None	鎖
+𩪖	bi4	同=髀	None	髀
+𩪂	ai2	[顂𩪂]见“顂”	None	None
+𩪅	None	同=髀	None	髀
+𩪌	feng4	古人占卜，烧龟甲出现的裂缝	None	None
+𩪌	feng4	胸骨缝	None	None
+髇	xiao1	响箭	None	None
+髈	pang2	同=膀 胁	None	膀
+髈	pang3	大腿 如：蹄髈 后作=膀	None	膀
+髈	bang3	同=膀 肩膀	None	膀
+䯡	jian4	瘦貌	None	None
+𩪃	hai4	骨	None	None
+髋	None	=髖的简化字	None	髖
+髌	None	=髕的简化字	None	髕
+髉	bo2	骨端	None	None
+髉	bo2	骨头	None	None
+髉	jue2	骨坚白	None	None
+𩪝	None	同=髒	None	髒
+𩪍	qu1	同=軀 身体	None	軀
+𩪍	shu1	𩪍骨	None	None
+𩪊	biao1	身体强壮	None	None
+𩪏	None	同=髓	None	髓
+髏	lou2	[髑髏]头骨 也单用作“髏”	None	None
+𩪐	guo2	同=膕 膝盖后面的腿弯	None	膕
+髍	ma2	同=䯢 偏瘫 即半身不遂	None	䯢
+䯢	ma2	偏瘫 即半身不遂	None	None
+䯢	mo3	微小 也作=麼	None	麼
+𩪉	xu4	骷髅	None	None
+髎	liao2	髋骨 髀上大骨，腰尻间的大骨	None	None
+髎	liao2	尻骨 也叫“把髎”，今称骶骨	None	None
+髎	liao2	骨节空隙处	None	None
+髎	liao2	马脊骨	None	None
+𩪑	None	同=鏁(鎖)	None	鏁
 髐	None	录入中	None	None
 髒	None	录入中	None	None
 髓	None	录入中	None	None
