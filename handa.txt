@@ -33205,15 +33205,33 @@
 汓	qiu2	同=泅 游水	None	泅
 汓	qiu2	从	None	None
 汓	you2	同=游 旌旗下边的垂饰物	None	游
-池	None	录入中	None	None
-汝	None	录入中	None	None
-汤	None	录入中	None	None
-㲽	None	录入中	None	None
-𣲄	None	录入中	None	None
-汊	None	录入中	None	None
-汬	None	录入中	None	None
-𣲜	None	录入中	None	None
-沗	None	录入中	None	None
+池	chi2	水塘，积水的坑	None	None
+池	chi2	护城河	None	None
+池	chi2	水道；沟渠	None	None
+池	chi2	承霤，屋檐下承接檐水的半圆形管道	None	None
+池	chi2	古代柩车上的棺饰 象征活人宫室的承霤	None	None
+池	chi2	砚池	None	None
+池	chi2	暮穴	None	None
+池	chi2	像水池的 如：乐池；舞池	None	None
+池	chi2	字画和被头以及衣物边缘的镶饰	None	None
+池	chi2	水名 1.池河，淮河支流，源出安徽省定远县西根山，后折向东北，经明光市女山湖，至小柳巷附近入淮河 2.池水，汉水支流，源出陕西省南郑县南，北流至汉中市西面入汉水	None	None
+池	chi2	古州名 唐武德四年（公元621年）置，治所在今安徽省池州市（唐称秋浦） 明改为府，辖境扩大至今铜陵市 1912年废	None	None
+池	chi2	姓	None	None
+池	tuo2	[虖池]同“滹=沱” 水名，即今之河北省滹沱河	None	沱
+池	che4	通=撤 除去	None	撤
+汝	ru3	水名 1.古水名 上游即今河南省北汝河；自郾城县以下，故道南流至西平县东会𣲪水（今洪河），又南经上蔡县西至遂平县东会⿰氵亲水（今沙河）；此下及南汝河及新蔡县以下的洪河 元至正间在郾城县堨断南流，上游遂改道东出⿰氵隐水（今沙河）入颍河，称北汝河；下游改以汝水为源，名南汝河 明嘉靖末𣲪水又改道东注澺水称为洪河，南汝遂改以⿰氵亲水为源，如今势 2.江西省盱江下游别名	None	None
+汝	ru3	古州名 隋大业二年（公元606年）改伊州置，以州境有汝水得名 治所在梁县（今河南省汝州市） 辖境相当于河南省北汝河、沙河流域各县	None	None
+汝	ru3	代词 表示第二人称，相当于“你”	None	None
+汝	ru3	古代汝窑及其所产瓷器的简称	None	None
+汝	ru3	姓	None	None
+汤	None	=湯的简化字	None	湯
+㲽	nian4	古水名 约在今山西省西南部	None	None
+㲽	ren3	[沴㲽]见“沴(zhen3)”	None	None
+𣲄	jiu3	同=氿 湖名 在江苏省宜兴市	None	氿
+汊	cha4	水流的分支，也指水流分岔处 如：河汊；湖汊	None	None
+汬	None	同=阱	None	阱
+𣲜	ying2	@	None	None
+沗	pang1	@	None	None
 沓	None	录入中	None	None
 沝	None	录入中	None	None
 𣲝	None	录入中	None	None
