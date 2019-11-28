@@ -22371,21 +22371,46 @@
 𠨓	None	同=𠨎	None	𠨎
 𢏎	shen1	@	None	None
 㢮	None	同=弛	None	弛
-𢏒	None	录入中	None	None
-弣	None	录入中	None	None
-弧	None	录入中	None	None
-𢏏	None	录入中	None	None
-弤	None	录入中	None	None
-弥	None	录入中	None	None
-弦	None	录入中	None	None
-㢯	None	录入中	None	None
-𢏇	None	录入中	None	None
-弢	None	录入中	None	None
-弩	None	录入中	None	None
-弨	None	录入中	None	None
-㢰	None	录入中	None	None
-𢏓	None	录入中	None	None
-𢏚	None	录入中	None	None
+𢏒	chui2	草名	None	None
+弣	fu3	弓把中部	None	None
+弧	hu2	木弓	None	None
+弧	hu2	弓的通称	None	None
+弧	hu2	张挂旌旗的竹弓	None	None
+弧	hu2	星名	None	None
+弧	hu2	曲；违戾	None	None
+弧	hu2	数学名词 圆周上任意两点间的部分	None	None
+𢏏	None	同=彌	None	彌
+弤	di3	漆成红色的画弓	None	None
+弥	None	同=彌	None	彌
+弦	xian2	弓弦	None	None
+弦	xian2	张于乐器上用以发音的丝线或金属丝	None	None
+弦	xian2	弹奏琴瑟等弦乐器	None	None
+弦	xian2	月亮半圆 农历初七初八，月亮缺上半，叫上弦；二十二、二十三，月亮缺下半，叫下弦	None	None
+弦	xian2	急	None	None
+弦	xian2	中医学谓脉象急劲	None	None
+弦	xian2	数学名词 1.我国古代称不等腰直角三角形对着直角的边 2.一直线与圆相交于两点，在圆周内的部分叫弦	None	None
+弦	xian2	边 如：井弦；不沾弦（方言）	None	None
+弦	xian2	发条 如：钟弦；上弦	None	None
+弦	xian2	周代国名，春秋时为楚所灭 故城在今河南省潢川县西南	None	None
+弦	xian2	姓	None	None
+㢯	diao1	同=弴 画弓	None	弴
+㢯	min2	旗	None	None
+㢯	min2	张挂旌旗的竹弓	None	None
+𢏇	None	同=弼	None	弼
+弢	tao1	弓袋	None	None
+弢	tao1	囊；套子	None	None
+弢	tao1	同=韜 1.包藏；隐藏 2.用兵的谋略	None	韜
+弩	nu3	一种利用机械力量射箭的弓	None	None
+弩	nu3	怒	None	None
+弩	nu3	书法称直画为弩 也作=努	None	努
+弩	nu3	用同=努 1.尽量使出（力气） 2.凸出	None	努
+弨	chao1	松解弓弦	None	None
+弨	chao1	弓	None	None
+㢰	bi4	[㢰㢻]1.所以张弓 2.张弓	None	None
+㢰	bi4	用丝和皮革装饰的弓	None	None
+㢰	bi4	弓曲	None	None
+𢏓	None	同=哂	None	哂
+𢏚	None	同=𤲮(疇)	None	𤲮
 弭	None	录入中	None	None
 弫	None	录入中	None	None
 㢶	None	录入中	None	None
