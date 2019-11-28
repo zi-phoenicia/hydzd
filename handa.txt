@@ -33231,26 +33231,69 @@
 汊	cha4	水流的分支，也指水流分岔处 如：河汊；湖汊	None	None
 汬	None	同=阱	None	阱
 𣲜	ying2	@	None	None
-沗	pang1	@	None	None
-沓	None	录入中	None	None
-沝	None	录入中	None	None
-𣲝	None	录入中	None	None
-𣲎	None	录入中	None	None
-沊	None	录入中	None	None
-沀	None	录入中	None	None
-沣	None	录入中	None	None
-汪	None	录入中	None	None
-汫	None	录入中	None	None
-汧	None	录入中	None	None
-沅	None	录入中	None	None
-𣲘	None	录入中	None	None
-𣲗	None	录入中	None	None
-沄	None	录入中	None	None
-𣲞	None	录入中	None	None
-𣲟	None	录入中	None	None
-沐	None	录入中	None	None
-㳈	None	录入中	None	None
-沞	None	录入中	None	None
+⿱天水	pang1	@	None	None
+沗	tian1	同=添 增加	None	添
+沗	pang1	同=滂 盛多；沾湿	None	滂
+沓	ta4	话多	None	None
+沓	ta4	重叠	None	None
+沓	ta4	繁杂；纷乱	None	None
+沓	ta4	合；会合	None	None
+沓	ta4	松懈；松弛 如：拖沓	None	None
+沓	ta4	水翻腾沸涌	None	None
+沓	ta4	风病名	None	None
+沓	ta4	古县名 汉置	None	None
+沓	ta4	姓	None	None
+沓	ta4	在行进中击鼓	None	None
+沓	ta4	贪婪	None	None
+沓	ta4	通=錔 器物的套子	None	錔
+沓	ta4	量词 用于成套的器物	None	None
+沓	ta4	象声词	None	None
+沓	ta5	[疲沓]松懈拖沓 如：他做事疲沓	None	None
+沓	da2	量词 用于叠起来的纸张或其他薄的东西	None	None
+沝	zhui3	二水 一说同=水	None	水
+沝	zi3	滩碛相凑之处 长江有地名石桅沝、折桅沝	None	None
+𣲝	None	同=冰	None	冰
+𣲎	None	同=㱃	None	㱃
+沊	dan4	[沊沊]水声	None	None
+沀	None	同=汿	None	汿
+沣	None	=灃的简化字	None	灃
+汪	wang1	深广貌；广大貌	None	None
+汪	wang1	池 指污浊的小水坑	None	None
+汪	wang1	泪多貌；液体聚积貌 如：水汪汪；汪着油	None	None
+汪	wang1	量词，用于液体 如：一汪儿水；一汪血	None	None
+汪	wang1	象声词 狗叫声	None	None
+汪	wang1	通=枉(wang3) 屈曲	None	枉
+汪	wang1	古地名 故地约在今陕西省白水县境	None	None
+汪	wang1	姓	None	None
+汪	wang3	[汪陶]古县名 故治在今山西省应县西	None	None
+汪	hong2	同=泓 水深广貌	None	泓
+汫	jing3	[汫濙]小水貌	None	None
+汫	jing3	同=阱	None	阱
+汧	qian1	水名 即今陕西省=千河 源出甘肃省六盘山南麓，东南流经陕西省陇县、千阳县，至宝鸡市入渭河	None	千
+汧	qian1	水泉出而汇聚为沼泽，或河水亦称为沼泽	None	None
+汧	qian1	同=岍 山名	None	岍
+汧	qian1	古县名 故城在今陕西省陇县东南	None	None
+汧	qian1	漂	None	None
+汧	yan2	净	None	None
+沅	yuan2	水名 在湖南省西部 源出贵州省云雾山，上游称清水江 流经湖南省，最后注入洞庭湖	None	None
+沅	yuan2	古州名 唐天授二年（公元691年）改巫州置，治所在龙标县（今湖南省洪江市） 北宋熙宁七年移治卢阳县（今湖南省芷江侗族自治县）	None	None
+𣲘	None	=潕的类推简化字	None	潕
+𣲗	None	=湋的类推简化字	None	湋
+沄	yun2	水波汹涌回旋 常叠用	None	None
+𬇘	None	=漙的类推简化字	None	漙
+𣲞	None	同=㳐	None	㳐
+𣲟	None	同=泄	None	泄
+沐	mu4	洗头发	None	None
+沐	mu4	洗涤	None	None
+沐	mu4	古人用以洗发的淘米汁 谓热之洗发，可以去垢	None	None
+沐	mu4	润泽	None	None
+沐	mu4	芟除；修剪	None	None
+沐	mu4	整治；治理	None	None
+沐	mu4	水名 即今山东省弥河 发源于山东省沂山，经临朐县、青州市、寿光市等地，流入渤海	None	None
+沐	mu4	姓	None	None
+㳈	None	同=沛	None	沛
+沞	za1	[湆沞]微湿，暂湿	None	None
+沞	za1	沸貌	None	None
 沛	None	录入中	None	None
 汥	None	录入中	None	None
 沔	None	录入中	None	None
