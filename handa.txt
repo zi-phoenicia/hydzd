@@ -82765,38 +82765,79 @@
 髎	liao2	骨节空隙处	None	None
 髎	liao2	马脊骨	None	None
 𩪑	None	同=鏁(鎖)	None	鏁
-髐	None	录入中	None	None
-髒	None	录入中	None	None
-髓	None	录入中	None	None
-𩪗	None	录入中	None	None
-𩪜	None	录入中	None	None
-𩪚	None	录入中	None	None
-𩪛	None	录入中	None	None
-䯣	None	录入中	None	None
-𩪘	None	录入中	None	None
-𩪟	None	录入中	None	None
-𩪙	None	录入中	None	None
-𩪦	None	录入中	None	None
-𩪭	None	录入中	None	None
-𩪪	None	录入中	None	None
-𩪥	None	录入中	None	None
-𩪤	None	录入中	None	None
-體	None	录入中	None	None
-髑	None	录入中	None	None
-䯤	None	录入中	None	None
-𩪠	None	录入中	None	None
-𩪢	None	录入中	None	None
-𩪣	None	录入中	None	None
-𩪩	None	录入中	None	None
-𩪡	None	录入中	None	None
-𩪧	None	录入中	None	None
-𩪨	None	录入中	None	None
-䯦	None	录入中	None	None
-䯥	None	录入中	None	None
-𩪱	None	录入中	None	None
-𩪮	None	录入中	None	None
-𩪴	None	录入中	None	None
-髖	None	录入中	None	None
+髐	xiao1	枯骨暴露貌 也指骷髅	None	None
+髐	xiao1	响箭 也作=髇	None	髇
+髐	xiao1	骨名 胫骨	None	None
+髒	zang3	[骯髒]见“骯”	None	None
+髒	zang1	不清洁，污秽	None	None
+髓	sui3	骨髓，骨中的凝脂 即充满骨内腔隙中的胶状物质 如：敲骨吸髓	None	None
+髓	sui3	像骨髓的东西	None	None
+髓	sui3	植物茎或少数根的中心疏松部分 由薄壁组织或厚壁组织构成 它的功用是贮藏养料	None	None
+髓	sui3	比喻事物的精华部分	None	None
+𩪗	jue2	尾骨，人或脊椎动物脊椎的末端	None	None
+𩪜	None	同=𩪗	None	𩪗
+𩪚	None	同=髎	None	髎
+𩪛	pu2	用骨镞制的箭	None	None
+䯣	kui4	膝盖骨	None	None
+䯣	gui4	头骨貌	None	None
+𩪘	chuang2	[𩪘𩩝]尾骨	None	None
+𩪟	yi4	同=臆 胸骨	None	臆
+𩪙	None	=𩪟的讹字	None	𩪟
+𩪦	None	同=髓	None	髓
+𩪭	huo4	骨声	None	None
+𩪭	huo4	美肉	None	None
+𩪪	None	同=𩩳	None	𩩳
+𩪥	ling2	[𩪥䯕]骨貌	None	None
+𩪤	e4	[𩨞𩪤]见“𩨞”	None	None
+體	ti3	身体，全身的总称	None	None
+體	ti3	肢体，身体的某一部分 如：五体投地	None	None
+體	ti3	牲体	None	None
+體	ti3	分；区分	None	None
+體	ti3	形体 如：固体；液体	None	None
+體	ti3	草木成形	None	None
+體	ti3	占卜时的兆象	None	None
+體	ti3	表现；体现	None	None
+體	ti3	几何学上具有长阔厚三度的形体 如：长方体；立方体；圆锥体	None	None
+體	ti3	本性，本质	None	None
+體	ti3	事物的本体，主体	None	None
+體	ti3	体统	None	None
+體	ti3	准则；法式	None	None
+體	ti3	指舞蹈的表演形式、文字的书写形体、文章的体裁风格等	None	None
+體	ti3	一种语法范畴 通过一定的语法形式，表示动作进行的状态 如：完成体；进行体	None	None
+體	ti3	依照	None	None
+體	ti3	效法	None	None
+體	ti3	相承；承继	None	None
+體	ti3	生长	None	None
+體	ti3	包含；容纳	None	None
+體	ti3	体贴；体谅；体恤	None	None
+體	ti3	亲近；连结	None	None
+體	ti3	亲身	None	None
+體	ti3	通=履(lv3) 履行	None	履
+體	ti3	姓	None	None
+體	ti1	[體己]也作“=梯己” 1.贴身的；亲近的 2.私蓄 3.私下，私自	None	梯
+髑	du2	[髑髏]1.头骨 一般指死人头骨 也单用作“髑” 2.骷髅	None	None
+䯤	kuai4	古人用来束发的骨器	None	None
+䯤	kuai4	束发	None	None
+𩪠	None	同=膺	None	膺
+𩪢	qian1	[𩪢𩩴]也作“𩩴𩪢” 骨高貌	None	None
+𩪣	yi4	同=臆 胸骨	None	臆
+𩪣	yi4	骨	None	None
+𩪩	None	=𩪟的讹字	None	𩪟
+𩪡	None	同=臋(臀)	None	臋
+𩪧	bi4	弓末的弯曲处，古或称弓弭	None	None
+𩪨	None	同=𩪋(螯)	None	𩪋
+䯦	ma4	[䯦骱]1.小骨 也作“骱䯦”  2.骨坚 引申为坚	None	None
+䯥	an4	头骨高貌	None	None
+䯥	qi4	同=𦡹	None	𦡹
+𩪱	None	同=臐	None	臐
+𩪮	mo3	漏病	None	None
+𩪮	mo2	同=䯢 偏瘫，半身不遂	None	䯢
+𩪴	yan4	同=饜 饱	None	饜
+髖	kuan1	臀部	None	None
+髖	kuan1	髋骨 组成骨盆的大骨，左右各一，由髂骨、坐骨、耻骨合成，通称胯骨	None	None
+髖	kuan1	股骨	None	None
+髖	kuan1	两股间	None	None
+髖	kuan1	同=臗 身体	None	臗
 髕	None	录入中	None	None
 𩪯	None	录入中	None	None
 𩪷	None	录入中	None	None
