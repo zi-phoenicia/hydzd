@@ -33294,25 +33294,61 @@
 㳈	None	同=沛	None	沛
 沞	za1	[湆沞]微湿，暂湿	None	None
 沞	za1	沸貌	None	None
-沛	None	录入中	None	None
-汥	None	录入中	None	None
-沔	None	录入中	None	None
-㳅	None	录入中	None	None
-㳁	None	录入中	None	None
-𣲔	None	录入中	None	None
-汰	None	录入中	None	None
-汱	None	录入中	None	None
-沤	None	录入中	None	None
-沥	None	录入中	None	None
-沋	None	录入中	None	None
-汯	None	录入中	None	None
-𣲠	None	录入中	None	None
-𣲣	None	录入中	None	None
-洰	None	录入中	None	None
-𣲐	None	录入中	None	None
-沌	None	录入中	None	None
-㳀	None	录入中	None	None
-沘	None	录入中	None	None
+沛	pei4	古水名 今未详 约在今辽宁省境内	None	None
+沛	pei4	沼泽，多水草之地	None	None
+沛	pei4	水充盛貌 又作“沛沛”、“滂沛”	None	None
+沛	pei4	丰盛；广阔；充足	None	None
+沛	pei4	迅疾貌	None	None
+沛	pei4	降	None	None
+沛	pei4	通=跋 颠沛，即“蹎跋”，倒仆	None	跋
+沛	pei4	通=㤄 怒恨	None	㤄
+沛	pei4	通=旆 布幔	None	旆
+沛	pei4	通=㧊 拨；排除	None	㧊
+沛	pei4	通=㧊 削木削下的薄片，俗称刨花	None	㧊
+沛	pei4	古郡名 1.汉代郡名 郡治相县，故址在今安徽省濉溪县西北 2.南沛郡 南朝宋侨置，后废 故址在今安徽省天长市境 3.东魏置，治曲阳城，在今安徽省定远县西北 南朝梁于此置西沛郡 后废 4.北魏置 置黄榜[楊]城 后废 故地在今河南省虞城县境 5.南北朝时东魏侨置，治孝昌城 后废 故地在今山东省曹县境	None	None
+沛	pei4	县名 1.秦置，为泗水郡治 汉改泗水郡为沛郡，移郡治于相，以沛为汤沐邑，称沛县为小沛 故地在今江苏省沛县东 2.南朝宋侨置 北周改为石梁县，隋改永福县，唐改为天长县 故城在今安徽省天长县西北	None	None
+沛	pei4	古地名 又叫“=貝丘”、“=浿丘”	None	貝
+沛	pei4	姓	None	None
+汥	zhi1	水积聚	None	None
+汥	ji4	水分流	None	None
+沔	mian3	汉水上源 在陕西省西南部 北源出陕西省留坝西，西源出陕西省宁强县北 东流同褒水、湑水汇合后称汉水 后代通称汉水为沔水	None	None
+沔	mian3	古州名 1.西魏置，北周废，故址在今湖北省汉川市东南 2.隋置 故治即今湖北省仙桃市 3.唐武德四年置，后废 故治即今湖北省武汉市汉阳区 4.宋开禧三年平吴曦后置 故址在今陕西省略阳县	None	None
+沔	mian3	旧县名，在陕西省 1964年改作=勉县	None	勉
+沔	mian3	通=瀰(mi2) 盈满	None	瀰
+沔	mian3	通=湎(mian3) 沉迷	None	湎
+㳅	None	同=流	None	流
+㳁	ze4	水流；水势	None	None
+𣲔	None	同=泣	None	泣
+汰	tai4	淘米、豆等	None	None
+汰	tai4	洗涤；清洗	None	None
+汰	tai4	淘汰，指从群体中除去差的、坏的	None	None
+汰	tai4	挑选	None	None
+汰	tai4	波涛	None	None
+汰	tai4	通=泰 1.滑，掠过 2.骄纵；奢侈	None	泰
+汱	quan3	水落貌	None	None
+汱	quan3	伏水	None	None
+汱	quan3	水名	None	None
+汱	fu2	同=洑 洄流	None	洑
+沤	None	=漚的简化字	None	漚
+沥	None	=瀝的简化字	None	瀝
+沋	you2	水名 在山东省高密市	None	None
+汯	hong2	[泓汯]水势回旋貌	None	None
+汯	hong2	[汯汯]水汹涌奔腾貌	None	None
+汯	hong2	无舟涉水	None	None
+𣲠	None	同=汐	None	汐
+𣲣	None	同=阨	None	阨
+洰	ju4	水中物多	None	None
+洰	qu2	同=渠	None	渠
+洰	ju3	水名	None	None
+𣲐	None	同=沍	None	沍
+沌	dun4	[混沌]也作“渾沌” 1.我国古代传说中称天地未分以前的状态 2.不知貌	None	None
+沌	dun4	[沌沌]也作“=忳忳” 愚昧无知貌	None	忳
+沌	dun4	水不通	None	None
+沌	tun2	水流貌	None	None
+沌	chun2	同=純 纯粹	None	純
+沌	zhuan4	[沌水]古水名 在湖北省 上游为东荆河，至武汉市蔡甸区东南沌口入江	None	None
+㳀	guo4	古水名	None	None
+沘	bi3	水名 1.即今安徽省=淠河 2.即今河南省=泌阳河及其下游的唐河	None	淠
 沍	None	录入中	None	None
 沏	None	录入中	None	None
 𣲑	None	录入中	None	None
