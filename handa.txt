@@ -32985,27 +32985,87 @@
 𣌟	None	录入中	None	None
 𣍜	None	录入中	None	None
 𣌠	None	录入中	None	None
-水	None	录入中	None	None
-𣱱	None	录入中	None	None
-𣱳	None	录入中	None	None
-永	None	录入中	None	None
-氷	None	录入中	None	None
-氶	None	录入中	None	None
-氹	None	录入中	None	None
-㲸	None	录入中	None	None
-𣱴	None	录入中	None	None
-求	None	录入中	None	None
-㲻	None	录入中	None	None
-𣱺	None	录入中	None	None
-氼	None	录入中	None	None
-氽	None	录入中	None	None
-汆	None	录入中	None	None
-𣱻	None	录入中	None	None
-𣱵	None	录入中	None	None
-凼	None	录入中	None	None
-汁	None	录入中	None	None
-汀	None	录入中	None	None
-㲺	None	录入中	None	None
+水	shui3	无色无味的透明液体，分子式为H_2O	None	None
+水	shui3	泛指某些液态物 如：药水；铁水	None	None
+水	shui3	河流	None	None
+水	shui3	江、河、湖、海的通称	None	None
+水	shui3	汲水	None	None
+水	shui3	用水测平	None	None
+水	shui3	游水	None	None
+水	shui3	洪水；水灾	None	None
+水	shui3	雨	None	None
+水	shui3	水生动植物	None	None
+水	shui3	五行之一	None	None
+水	shui3	水星 太阳系九大行星之一	None	None
+水	shui3	中医学上指肾	None	None
+水	shui3	古博局中间的横道	None	None
+水	shui3	旧指尼姑和娼妓的生活境遇	None	None
+水	shui3	银子的成色	None	None
+水	shui3	额外收入或附加费用	None	None
+水	shui3	量词 表示洗的次数的单位	None	None
+水	shui3	方言 犹“不成功”、“败了”	None	None
+水	shui3	方言 犹“不负责”、“马虎”	None	None
+水	shui3	我国少数民族名 主要分布在贵州省	None	None
+水	shui3	姓	None	None
+𣱱	cha2	@	None	None
+𣱳	None	同=流	None	流
+永	yong3	游泳 后作=泳	None	泳
+永	yong3	水势长流貌	None	None
+永	yong3	久远；深长 如：永恒；永生；永垂不朽	None	None
+永	yong3	延长	None	None
+永	yong3	永久 指不再改变	None	None
+永	yong3	通=咏(詠) 依一定腔调缓慢地诵吟	None	咏
+永	yong3	水名 源出湖南省永州市西南，东北流入湘江	None	None
+永	yong3	古州名 1.隋改零陵郡为永州，元改为永州路，明、清为永州府 郡治在今湖南省永州市 2.辽置 故治在今内蒙古自治区翁牛特旗东北新苏莫苏木巴彦诺尔 契丹部族的发祥地	None	None
+永	yong3	姓	None	None
+氷	None	同=冰	None	冰
+氶	zheng3	同=抍(拯)	None	抍
+氶	zheng3	水名 又名氶水河 源出山东省枣庄市东北，先后与泇河同入中运河	None	None
+氶	zheng3	古县名 在今山东省枣庄市	None	None
+氶	cheng2	同=承	None	承
+氶	cheng2	姓	None	None
+氶	zheng4	[氶鄉]同“=承鄉” 汉侯国名	None	承
+氹	dang4	水坑；水池子 一般用于沤肥或蓄水灌溉	None	None
+㲸	xi1	（河道、池塘等）干涸 ……按：……当是=汽的俗字	None	汽
+𣱴	None	同=汚	None	汚
+求	qiu2	裘，皮衣 后作=裘	None	裘
+求	qiu2	寻找；探索	None	None
+求	qiu2	贪图；追求	None	None
+求	qiu2	乞求；请求	None	None
+求	qiu2	要求；责求	None	None
+求	qiu2	感应；招引	None	None
+求	qiu2	选择；选取	None	None
+求	qiu2	终	None	None
+求	qiu2	见	None	None
+求	qiu2	通=逑 聚	None	逑
+求	qiu2	通=仇 匹；配	None	仇
+求	qiu2	姓	None	None
+求	qiu2	同=蛷 虫名	None	蛷
+㲻	ni4	沉没；沉溺 后作=溺	None	溺
+㲻	ni4	姓	None	None
+𣱺	None	同=汃	None	汃
+氼	ni4	同=㲻(溺) 沉没；沉溺	None	㲻
+氼	mei4	方言 潜水	None	None
+氽	tun3	水推物；漂浮	None	None
+氽	tun3	用油炸	None	None
+氽	qiu2	人浮水上	None	None
+汆	cuan1	一种烹调方法 即把食物放到沸水中稍微一煮 如：汆汤；汆丸子	None	None
+汆	cuan1	方言 烧水用的薄铁筒，通称“汆子” 如：把汆子放到旺火中很快把水烧开	None	None
+𣱻	si4	@	None	None
+𣱵	None	同=永	None	永
+凼	None	同=氹 如：水凼；粪凼；凼肥	None	氹
+汁	zhi1	含有某种物质的液体 如：墨汁；豆汁；乳汁；胆汁	None	None
+汁	zhi1	雨夹雪	None	None
+汁	zhi1	眼泪	None	None
+汁	xie2	通=叶 协调；和谐	None	叶
+汁	shi2	[汁方]同“=什邡” 汉侯国名，又县名 故地在今四川省什邡市南 汉高祖六年（前201年）封雍齿于此为侯，汉武帝元鼎五年（前112年）国除	None	什
+汀	ting1	水平	None	None
+汀	ting1	水边平滩	None	None
+汀	ting1	古州名 唐置 故州治在福建省长汀县 辖境约当今福建省汀江、九龙溪流域	None	None
+汀	ting4	[汀瀅]1.小水 2.水清澈貌 3.不遂志	None	None
+汀	ding4	[汀濘]稀泥浆	None	None
+㲺	ji2	喷，洒	None	None
+㲺	ji2	水潜	None	None
 汇	None	录入中	None	None
 汅	None	录入中	None	None
 𣱶	None	录入中	None	None
