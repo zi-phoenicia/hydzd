@@ -82632,31 +82632,39 @@
 䯔	ze3	偏转	None	None
 ⿰骨䏍	None	同=𩩐	None	𩩐
 𩩀	nao3	同=腦	None	腦
-𩩉	None	录入中	None	None
-䯙	None	录入中	None	None
-骾	None	录入中	None	None
-𩩑	None	录入中	None	None
-𩩒	None	录入中	None	None
-䯗	None	录入中	None	None
-𩩋	None	录入中	None	None
-𩩓	None	录入中	None	None
-𩩙	None	录入中	None	None
-𩩍	None	录入中	None	None
-𩩔	None	录入中	None	None
-𩩕	None	录入中	None	None
-骽	None	录入中	None	None
-𩩊	None	录入中	None	None
-𩩎	None	录入中	None	None
-𩩌	None	录入中	None	None
-䯘	None	录入中	None	None
-𩩏	None	录入中	None	None
-䯖	None	录入中	None	None
-䯚	None	录入中	None	None
-𩩡	None	录入中	None	None
-𩩤	None	录入中	None	None
-𩩥	None	录入中	None	None
-𩩛	None	录入中	None	None
-髁	None	录入中	None	None
+𩩉	None	同=髇	None	髇
+䯙	po4	同=髆 腰骨	None	髆
+骾	geng3	骨卡在喉咙里 引申为耿直	None	None
+𩩑	yu3	[齟𩩑]也作“齟=齬” 见“齟”	None	齬
+𩩒	he4	@	None	None
+䯗	None	同=髀	None	髀
+𩩋	xing2	骨	None	None
+𩩋	jing4	同=脛	None	脛
+𩩓	None	同=䯚	None	䯚
+𩩙	None	同=髀	None	髀
+𩩍	ping1	肋骨	None	None
+𩩔	zhuo2	@	None	None
+𩩕	None	同=䯘(垸)	None	䯘
+骽	tui3	大腿 后作=腿	None	腿
+骽	tui3	胯骨	None	None
+𩩊	None	同=頷	None	頷
+𩩎	None	同=䯏	None	䯏
+𩩌	gun3	人名用字 也作=鯀	None	鯀
+䯘	huan4	同=垸 用漆掺和骨灰涂抹器物	None	垸
+𩩏	None	同=骸	None	骸
+䯖	lang2	[䯑䯖]股骨；股肉 也单用作“䯖”	None	None
+䯚	yao3	腰部左右虚肉处	None	None
+䯚	yao3	肋骨	None	None
+𩩡	leng2	骨高貌	None	None
+𩩤	wa1	@	None	None
+𩩥	zha2	[𩩥𩩥]筯响声	None	None
+𩩛	ji4	小骨	None	None
+髁	ke1	[謑髁]不正貌 一说谨刻	None	None
+髁	ke1	股骨	None	None
+髁	ke1	尾骨	None	None
+髁	ke1	踝骨 也作=踝	None	踝
+髁	ke1	膝骨 也指膝部	None	None
+髁	ke1	膝端为髁，踵两旁圜骨为髁 如：肱骨髁；股骨髁	None	None
 䯜	None	录入中	None	None
 𩩚	None	录入中	None	None
 䯞	None	录入中	None	None
