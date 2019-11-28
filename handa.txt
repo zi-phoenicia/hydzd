@@ -22240,16 +22240,59 @@
 𡳼	None	录入中	None	None
 屭	None	录入中	None	None
 𡳻	None	录入中	None	None
-弓	None	录入中	None	None
-𢎗	None	录入中	None	None
-𢎜	None	录入中	None	None
-弖	None	录入中	None	None
-㢧	None	录入中	None	None
-引	None	录入中	None	None
-弔	None	录入中	None	None
-𢎟	None	录入中	None	None
-𢎠	None	录入中	None	None
-𢎛	None	录入中	None	None
+弓	gong1	射箭或打弹的兵器 多用坚韧的木条弯成弧形，两端系弦，张弦发射	None	None
+弓	gong1	形状或作用像弓的器具 如：弹弓；胡琴弓；弹棉花用的弓	None	None
+弓	gong1	弯曲；使弯曲 如：弓着腿坐着	None	None
+弓	gong1	支撑车盖的弓形骨架	None	None
+弓	gong1	丈量土地的器具，用木制成，形状似弓，两端距离是五尺，也叫步弓	None	None
+弓	gong1	量词 丈量土地的计算单位，相当于“步” 旧指五尺为一弓，三百六十弓为一里，二百四十方弓为一亩 古制则以六尺或八尺为一弓，三百弓为一里	None	None
+弓	gong1	弓形纹的简称 指纹基本类型的一种，由多数弓形线组成，纹线自一侧进入，由他侧流出，中部隆起呈弓形，无回旋线和三角	None	None
+弓	gong1	姓	None	None
+𢎗	None	同=乃	None	乃
+𢎜	None	同=及	None	及
+弖	None	同=互 ……按：……以为当是=氐的俗字	None	互
+㢧	juan4	同=卷	None	卷
+引	yin3	开弓	None	None
+引	yin3	拉，牵挽	None	None
+引	yin3	延长；伸长	None	None
+引	yin3	长久	None	None
+引	yin3	导引，带领	None	None
+引	yin3	招致，引起 如：抛砖引玉	None	None
+引	yin3	持取	None	None
+引	yin3	拔	None	None
+引	yin3	选拔，荐举	None	None
+引	yin3	引用，用作证据或理由	None	None
+引	yin3	避开；退却	None	None
+引	yin3	收敛，收缩	None	None
+引	yin3	陈述；陈列	None	None
+引	yin3	自动承受（罪责）	None	None
+引	yin3	牵连	None	None
+引	yin3	正，划定（疆界）	None	None
+引	yin3	争夺；争辩	None	None
+引	yin3	自杀	None	None
+引	yin3	量词 长度单位 古以十丈为一引	None	None
+引	yin3	古代代表金额或准许购销货物的一种凭证 也指购销货物的重量单位 如：钱引；茶引；盐引	None	None
+引	yin3	路引，通行证	None	None
+引	yin3	文体之一，唐以后始有此体，略同“序”	None	None
+引	yin3	乐府诗体之一	None	None
+引	yin3	乐曲	None	None
+引	yin3	出殡时牵引灵车的绳子	None	None
+引	yin3	系于马腹的革带，用来牵挽车子 后作=靷	None	靷
+弔	diao4	追悼死者	None	None
+弔	diao4	慰问	None	None
+弔	diao4	伤痛；怜悯	None	None
+弔	diao4	善	None	None
+弔	diao4	凭吊，伤怀往事	None	None
+弔	diao4	悬挂	None	None
+弔	diao4	提取；求取	None	None
+弔	diao4	落	None	None
+弔	diao4	动物名 龟类	None	None
+弔	diao4	量词 旧时货币单位，一千文为一弔	None	None
+弔	di4	至，来 后作=𨑩	None	𨑩
+𢎟	None	同=彈	None	彈
+𢎠	quan2	同=𢑆	None	𢑆
+𢎠	juan4	同=卷	None	卷
+𢎛	None	同=卪(節)	None	卪
 𢎚	None	录入中	None	None
 𢎡	None	录入中	None	None
 𢎥	None	录入中	None	None
