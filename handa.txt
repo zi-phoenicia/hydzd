@@ -33136,30 +33136,75 @@
 汚	None	同=汙(污)	None	汙
 江	jiang1	长江	None	None
 江	jiang1	大河流的通称 如：黑龙江；金沙江；湘江；邕江	None	None
-汏	None	录入中	None	None
-𣲑	None	录入中	None	None
-𣲁	None	录入中	None	None
-汕	None	录入中	None	None
-汘	None	录入中	None	None
-汔	None	录入中	None	None
-汑	None	录入中	None	None
-𣲃	None	录入中	None	None
-汌	None	录入中	None	None
-𣲀	None	录入中	None	None
-汣	None	录入中	None	None
-汋	None	录入中	None	None
-汍	None	录入中	None	None
-汎	None	录入中	None	None
-汐	None	录入中	None	None
-汲	None	录入中	None	None
-汷	None	录入中	None	None
-𣲋	None	录入中	None	None
-㲿	None	录入中	None	None
-汒	None	录入中	None	None
-𣲌	None	录入中	None	None
-汛	None	录入中	None	None
-汜	None	录入中	None	None
-汓	None	录入中	None	None
+江	jiang1	星名	None	None
+江	jiang1	周代诸侯国名 嬴姓 故址在今河南省正阳县南	None	None
+江	jiang1	古州名 1.晋置，辖境约当今江西省、福建省并湖北省长江以南、陆水以东以及湖南省舂陵水中上游以东地区 后专指江西省九江市一带 2.西魏置 故治在今湖北省汉川市境	None	None
+江	jiang1	姓	None	None
+汏	tai4	同=汰 淘洗	None	汰
+汏	da4	方言 洗	None	None
+𬇕	None	=澫的类推简化字	None	澫
+𣲁	None	同=汔	None	汔
+汕	shan4	鱼游水貌	None	None
+汕	shan4	捕鱼的工具	None	None
+汕	shan4	用鱼笼捕鱼	None	None
+汕	shan4	冲洗；冲刷	None	None
+汕	shan4	“汕头”的简称 汕头，广东省市名	None	None
+汕	shuan4	方言 把鲜肉片放在开水里烫熟	None	None
+汘	qian1	水名	None	None
+汔	qi4	同=汽 1.水干涸 2.流泪 3.副词 表示将近	None	汽
+汔	qi4	竭尽；完成	None	None
+汔	qi4	同=迄 至；终	None	迄
+汔	qi4	古水名	None	None
+汑	tuo1	滑	None	None
+𣲃	None	同=沌	None	沌
+汌	chuan4	水名	None	None
+𣲀	shan1	[澰𣲀]水波貌	None	None
+汣	None	同=氿	None	氿
+汋	zhuo2	激水声	None	None
+汋	zhuo2	人的体液	None	None
+汋	zhuo2	同=勺 1.挹取 2.刺探 3.古乐名	None	勺
+汋	yue4	同=瀹 涮；煮	None	瀹
+汋	yue4	水名	None	None
+汋	que4	春秋时宋国地名	None	None
+汋	chuo4	[汋汋]姿态美好的样子	None	None
+汋	shuo4	[陝汋]同“閃=爍”	None	爍
+汍	wan2	[汍瀾]泣貌	None	None
+汍	huan2	同=洹 水名 在今河南省	None	洹
+汎	fan4	浮游不定貌	None	None
+汎	fan4	气体漂浮；弥漫	None	None
+汎	fan4	浮泛；不切实	None	None
+汎	fan4	演奏琴瑟	None	None
+汎	fan4	浮行水上 也作=泛	None	泛
+汎	fan4	广泛	None	None
+汎	fan4	古代指在定期考绩制度外，普遍晋升官职	None	None
+汎	fan4	古水名 1.古代流入渤海的一条河 2.古沔水支流 故址未详，或谓在今湖北省房县、谷城县之间	None	None
+汎	fan4	姓	None	None
+汎	fa2	[汎𣶏]声音微小 一说急流水声	None	None
+汐	xi1	晚潮	None	None
+汐	xi1	水名 在河南省登封市	None	None
+汲	ji2	从井里提水 也泛指打水	None	None
+汲	ji2	牵引；引导	None	None
+汲	ji2	提拔；引荐	None	None
+汲	ji2	古郡名 晋置 治所在今河南省卫辉市	None	None
+汲	ji2	旧县名 即今河南省卫辉市	None	None
+汲	ji2	姓	None	None
+汷	zhong1	古水名 在今湖北省襄樊市襄阳区	None	None
+𣲋	chi2	同=坻 水中的小洲或高地	None	坻
+㲿	None	=瀇的类推简化字	None	瀇
+汒	mang2	同=茫 1.匆忙 2.模糊；不清楚	None	茫
+汒	mang2	山谷名 在今陕西省周至县	None	None
+汒	mang3	同=漭 水浩大貌	None	漭
+𣲌	None	同=汛	None	汛
+汛	xun4	洒水（扫地）	None	None
+汛	xun4	季节性的涨水	None	None
+汛	xun4	旧称军队驻防地段	None	None
+汜	si4	由主流分岔流出后又流回主流的水	None	None
+汜	si4	不流通的死水沟	None	None
+汜	si4	通=涘 水涯	None	涘
+汜	si4	古水名 源出河南省巩义市东南，在荥阳市境注入黄河	None	None
+汓	qiu2	同=泅 游水	None	泅
+汓	qiu2	从	None	None
+汓	you2	同=游 旌旗下边的垂饰物	None	游
 池	None	录入中	None	None
 汝	None	录入中	None	None
 汤	None	录入中	None	None
