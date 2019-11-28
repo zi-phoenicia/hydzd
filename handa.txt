@@ -82838,18 +82838,20 @@
 髖	kuan1	股骨	None	None
 髖	kuan1	两股间	None	None
 髖	kuan1	同=臗 身体	None	臗
-髕	None	录入中	None	None
-𩪯	None	录入中	None	None
-𩪷	None	录入中	None	None
-𩪲	None	录入中	None	None
-𩪹	None	录入中	None	None
-𩪳	None	录入中	None	None
-𩪸	None	录入中	None	None
-髗	None	录入中	None	None
-𩪺	None	录入中	None	None
-𩪼	None	录入中	None	None
-𩪻	None	录入中	None	None
-𩪾	None	录入中	None	None
+髕	bin4	髌骨 也叫膝盖骨	None	None
+髕	bin4	古代五种酷刑之一 夏为“髌”，本指剔去膝盖骨 周改“刖”，断足；后或以“髌”为“刖”	None	None
+𩪯	None	同=髕	None	髕
+𩪷	None	同=髓	None	髓
+𩪲	None	同=䶤	None	䶤
+𩪹	None	同=䯣	None	䯣
+𩪳	None	同=𩪒(髊)	None	𩪒
+𩪸	li4	[赤骨𩪸]也作“赤胳𩪸”、“赤骨=律”、“赤骨=力” 赤条条	None	律
+𩪸	li4	骨病	None	None
+髗	None	同=顱	None	顱
+𩪺	tan2	@	None	None
+𩪼	None	同=顴	None	顴
+𩪻	None	=䯦的讹字	None	䯦
+𩪾	luan2	同=𤼙 病体拘曲 也泛指病	None	𤼙
 香	xiang1	气味芬芳 与“臭”相对 如：稻花香；香皂	None	None
 香	xiang1	有香味的原料或制成品 如：麝香；檀香；线香；盘香	None	None
 香	xiang1	味美	None	None
