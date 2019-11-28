@@ -22703,20 +22703,28 @@
 𢑆	quan2	容器 后作=罐	None	罐
 𢑇	jiu4	弓强	None	None
 𢑃	None	=㣆的讹字	None	㣆
-𢑅	None	录入中	None	None
-𢑄	None	录入中	None	None
-𢐿	None	录入中	None	None
-𢑀	None	录入中	None	None
-㣆	None	录入中	None	None
-𢑈	None	录入中	None	None
-𢑉	None	录入中	None	None
-𢑊	None	录入中	None	None
-彎	None	录入中	None	None
-彏	None	录入中	None	None
-𩱠	None	录入中	None	None
-𢑋	None	录入中	None	None
-𢑌	None	录入中	None	None
-𢑎	None	录入中	None	None
+𢑅	None	同=鼎	None	鼎
+𢑄	None	同=𢑈	None	𢑈
+𢐿	rang3	弓曲	None	None
+𢑀	None	同=彌	None	彌
+㣆	mi2	放松弓弦	None	None
+㣆	mi2	玉名	None	None
+㣆	mi2	同=彌	None	彌
+𢑈	yao2	弓便利	None	None
+𢑉	None	同=𢑈	None	𢑈
+𢑊	None	同=㣅	None	㣅
+彎	wan1	开弓	None	None
+彎	wan1	曲，不直 如：弯路	None	None
+彎	wan1	折，使弯曲	None	None
+彎	wan1	拐（进）	None	None
+彎	wan1	弯曲的地方 如：臂弯；急弯；河弯	None	None
+彎	wan1	停泊	None	None
+彎	wan1	量词 用于弯状物 如：一弯新月；一弯牛角弓	None	None
+彏	jue2	急张弓	None	None
+𩱠	None	同=鬵	None	鬵
+𢑋	None	同=鬵	None	鬵
+𢑌	None	同=羹	None	羹
+𢑎	None	同=鬻	None	鬻
 己	ji3	天干的第六位，与地支相配，用以纪年、月、日	None	None
 己	ji3	代词 表示第一人称 自己，本身	None	None
 己	ji3	纪识，识别 后作=紀	None	紀
