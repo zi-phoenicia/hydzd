@@ -38596,33 +38596,54 @@
 ⿰𮮐斤	None	同=𪏴	None	𪏴
 㫂	zhu4	斫	None	None
 ⿰晝斤	None	同=斲	None	斲
-𣂸	None	录入中	None	None
-𣃀	None	录入中	None	None
-𣃃	None	录入中	None	None
-斴	None	录入中	None	None
-𣃅	None	录入中	None	None
-𣃂	None	录入中	None	None
-𣃁	None	录入中	None	None
-𣃆	None	录入中	None	None
-𧪷	None	录入中	None	None
-𣃉	None	录入中	None	None
-𣃊	None	录入中	None	None
-斶	None	录入中	None	None
-𣃇	None	录入中	None	None
-斵	None	录入中	None	None
-𣃋	None	录入中	None	None
-𣃐	None	录入中	None	None
-𣃑	None	录入中	None	None
-𣃍	None	录入中	None	None
-𣃎	None	录入中	None	None
-𣃌	None	录入中	None	None
-𣃏	None	录入中	None	None
-斷	None	录入中	None	None
-𣃒	None	录入中	None	None
-𣃔	None	录入中	None	None
-𣃖	None	录入中	None	None
-斸	None	录入中	None	None
-𨑁	None	录入中	None	None
+⿰⿱𢆸止斤	None	同=斷	None	斷
+𣂸	None	同=斷	None	斷
+𣃀	None	同=斮	None	斮
+𣃃	None	同=斲	None	斲
+斴	None	同=𤏞(粼)	None	𤏞
+𣃅	ruan3	@	None	None
+𣃂	None	同=斲	None	斲
+𣃁	None	同=斸	None	斸
+𣃆	None	同=斲	None	斲
+𧪷	None	同=𧬊	None	𧬊
+𣃉	dang4	@	None	None
+𣃊	None	同=鼎	None	鼎
+斶	chu4	人名用字	None	None
+𣃇	None	=𣃍的讹字	None	𣃍
+斵	None	同=斲	None	斲
+𣃋	None	同=斵(斲)	None	斵
+𣃐	None	同=貸	None	貸
+𣃑	zhuo2	同=櫡	None	櫡
+⿰箕斤	None	同=𣃍	None	𣃍
+𣃍	cui4	断	None	None
+𣃍	cha4	同=㔍 割声	None	㔍
+⿰⿱⿰夕口亞斤	None	同=斲	None	斲
+𣃎	None	同=訢	None	訢
+𣃌	None	同=粼	None	粼
+𣃏	None	同=斵(斲)	None	斵
+斷	duan4	截开；折断	None	None
+斷	duan4	人的肢体残折	None	None
+斷	duan4	量词 用于某些食物分成的若干部分，相当于=段	None	段
+斷	duan4	斩杀；宰杀	None	None
+斷	duan4	齐，整齐	None	None
+斷	duan4	拦截	None	None
+斷	duan4	方言 峡谷中比较大的跌差	None	None
+斷	duan4	起，划分时限的上限	None	None
+斷	duan4	断绝；隔绝	None	None
+斷	duan4	尽；煞；极；住（多用于诗、词、曲中）	None	None
+斷	duan4	禁止；戒除 如：断烟；断屠	None	None
+斷	duan4	通=腶 捶脯	None	腶
+斷	duan4	插在河中拦捕鱼蟹的竹柵 后作=籪	None	籪
+斷	duan4	裁决；决定 如：断狱；当机立断	None	None
+斷	duan4	治，治理	None	None
+斷	duan4	副词 表示情态，相当于“绝对”、“一定” 如：断无此理；断不可行	None	None
+𣃒	None	同=鼎	None	鼎
+𣃔	None	同=斷	None	斷
+𣃖	None	同=斪	None	斪
+斸	zhu2	锄一类的农具	None	None
+斸	zhu2	掘；挖	None	None
+斸	zhu2	砍；削	None	None
+𨑁	None	同=興	None	興
 爪	zhao3	鸟兽的脚趾或趾甲	None	None
 爪	zhao3	人的指甲、趾甲	None	None
 爪	zhao3	古代送终的一种礼制，为死者修剪手脚指甲	None	None
