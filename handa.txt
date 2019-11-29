@@ -82796,22 +82796,41 @@
 頠	wei3	头俯仰自如	None	None
 頠	wei3	安静；安详	None	None
 頠	wei3	头	None	None
-𩒨	None	录入中	None	None
-潁	None	录入中	None	None
-颍	None	录入中	None	None
-頟	None	录入中	None	None
-熲	None	录入中	None	None
-颎	None	录入中	None	None
-䫂	None	录入中	None	None
-𩓞	None	录入中	None	None
-𩒩	None	录入中	None	None
-頝	None	录入中	None	None
-頦	None	录入中	None	None
-颏	None	录入中	None	None
-𩒘	None	录入中	None	None
-頩	None	录入中	None	None
-頪	None	录入中	None	None
-𩒕	None	录入中	None	None
+𬱟	None	=頠的类推简化字	None	頠
+𩒨	qi3	[𩒨首]即“=稽首” 古时的一种礼节	None	稽
+潁	ying3	水名 今称颍河 发源于河南省登封市嵩山南麓，东南流至安徽省颍上县沫河口入淮河	None	None
+潁	ying3	古州名 北魏孝昌四年置，辖汝阴、弋阴、北陈留、颍川等二十郡 后废 唐武德四年置信州，六年改名颍州，州治即今安徽省阜阳市	None	None
+潁	ying3	姓	None	None
+颍	None	=潁的简化字	None	潁
+頟	e2	[頟頟]不休息	None	None
+頟	e2	同=額	None	額
+⿰各页	None	=頟的类推简化字	None	頟
+熲	jiong3	同=炯 光；明亮	None	炯
+熲	jiong3	警枕 用圆木做成的枕头，使睡时易觉醒	None	None
+熲	jiong3	忧虑不安	None	None
+熲	jiong3	充实	None	None
+颎	None	=熲的类推简化字	None	熲
+䫂	duo3	[䫂噅]也作“=哆噅” 丑貌 也单用作“䫂”	None	哆
+𩓞	jing4	好貌	None	None
+𩓞	jing4	传统戏曲角色行当之一 也作=浄	None	浄
+𩒩	None	=頍的讹字	None	頍
+頝	qiao1	[頝䫜]头凹不媚 也单用作“頝”	None	None
+頦	hai2	丑	None	None
+頦	ke1	下巴；下巴骨	None	None
+頦	ke1	颊	None	None
+頦	ke3	[红点颏]鸟名 歌劬的一种 雄的喉部鲜红色，通称红靛颏儿	None	None
+颏	None	=頦的简化字	None	頦
+𩒘	chong3	充	None	None
+頩	ping1	面色光润	None	None
+頩	ping3	怒时面色变青貌	None	None
+⿰并页	None	=頩的类推简化字	None	頩
+頪	lei4	事物相似 后作=類	None	類
+頪	lei4	鲜白貌	None	None
+頪	lei4	疾	None	None
+頪	lei4	视不明	None	None
+𩒕	nie4	面丑	None	None
+𩒕	po4	同=𩔈 脸大而丑	None	𩔈
+𩒕	e4	同=顎 恭敬严肃	None	顎
 𩒭	None	录入中	None	None
 𩒪	None	录入中	None	None
 頞	None	录入中	None	None
