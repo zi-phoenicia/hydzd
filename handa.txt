@@ -38447,52 +38447,111 @@
 斥	zhe4	姓	None	None
 𣂒	le4	同=劤	None	劤
 𠦛	None	同=兵	None	兵
-𣂕	None	录入中	None	None
-𣥍	None	录入中	None	None
-𣂗	None	录入中	None	None
-𣂖	None	录入中	None	None
-𣂕	None	录入中	None	None
-𣂘	None	录入中	None	None
-斩	None	录入中	None	None
-𠧣	None	录入中	None	None
-𣂔	None	录入中	None	None
-斦	None	录入中	None	None
-所	None	录入中	None	None
-斧	None	录入中	None	None
-斨	None	录入中	None	None
-㪽	None	录入中	None	None
-㪼	None	录入中	None	None
-斫	None	录入中	None	None
-𣂙	None	录入中	None	None
-斪	None	录入中	None	None
-𣂚	None	录入中	None	None
-𣂜	None	录入中	None	None
-𣂝	None	录入中	None	None
-㪾	None	录入中	None	None
-𣂞	None	录入中	None	None
-㪿	None	录入中	None	None
-斬	None	录入中	None	None
-𣂟	None	录入中	None	None
-𣂠	None	录入中	None	None
-断	None	录入中	None	None
-斱	None	录入中	None	None
-𣂪	None	录入中	None	None
-斯	None	录入中	None	None
-斮	None	录入中	None	None
-𣂥	None	录入中	None	None
-𣂦	None	录入中	None	None
-𣂡	None	录入中	None	None
-𣂧	None	录入中	None	None
-𣂣	None	录入中	None	None
-𣂢	None	录入中	None	None
-㫀	None	录入中	None	None
-𣂨	None	录入中	None	None
-𣂫	None	录入中	None	None
-𣂭	None	录入中	None	None
-𣂤	None	录入中	None	None
-𣂬	None	录入中	None	None
-𣂱	None	录入中	None	None
-𣂯	None	录入中	None	None
+⿰丌斤	None	同=斯	None	斯
+𣥍	None	同=近	None	近
+𣂗	xin1	@	None	None
+𣂖	None	同=斯	None	斯
+𣂕	None	同=斯	None	斯
+𣂘	None	同=祈	None	祈
+斩	None	=斬的简化字	None	斬
+𠧣	None	同=近	None	近
+𣂔	None	同=析	None	析
+斦	yin2	二斤	None	None
+斦	zhi4	砧；铡刀垫座	None	None
+所	suo3	伐木声	None	None
+所	suo3	处所；地方	None	None
+所	suo3	地位；位置	None	None
+所	suo3	道理；方法	None	None
+所	suo3	宜；适宜	None	None
+所	suo3	官衙的名称	None	None
+所	suo3	元、明驻军和屯田军的一种建制	None	None
+所	suo3	数；次数	None	None
+所	suo3	相当于=時	None	時
+所	suo3	意思；人或动物流露的情态	None	None
+所	suo3	许多；多种	None	None
+所	suo3	可以	None	None
+所	suo3	用在数量词后面，表示大概的数目	None	None
+所	suo3	代词 1.表示指示，相当于“此”、“这” 2.表示疑问，相当于“何”、“什么”	None	None
+所	suo3	量词 1.用于地点、位置，相当于“处” 2.用于山、岛等物，相当于“座” 3.用于建筑物	None	None
+所	suo3	副词 相当于“尚”、“还”	None	None
+所	suo3	连词 表示假设关系，相当于“若”、“如果”	None	None
+所	suo3	助词 1.表示结构 a.与后面的动词结合，构成名词性结构 如：闻所未闻；各尽所能 b.用在主谓结构的谓词前，相当于“之”、“的” c.用作宾语提前的标志，多与“唯”字配合使用，相当于“是” 2.表示被动，多与“为”字配合使用	None	None
+所	suo3	语气词 多用于句中，起调节音节的作用	None	None
+所	suo3	姓	None	None
+斧	fu3	砍物用的工具 刃纵向，古代装柄的孔是椭圆形的	None	None
+斧	fu3	古代的一种兵器，或作杀人的刑具	None	None
+斧	fu3	用斧砍	None	None
+斧	fu3	白与黑相间的斧形图案 也作=黼	None	黼
+⿰斤卞	bian4	喜	None	None
+斨	qiang1	方孔的斧子	None	None
+㪽	None	同=所	None	所
+㪼	ke3	[𣂞㪼]挚	None	None
+斫	zhuo2	斧刃	None	None
+斫	zhuo2	用刀斧等砍削	None	None
+斫	zhuo2	攻击	None	None
+斫	zhuo2	大锄	None	None
+斫	chuo4	方言 无知；顽直貌	None	None
+𣂙	None	=坼的讹字	None	坼
+斪	qu2	锄属	None	None
+𣂚	None	同=折	None	折
+𣂜	xin1	@	None	None
+𣂝	xiang4	@	None	None
+㪾	luo4	同=㓢	None	㓢
+㪾	ge2	同=㦴	None	㦴
+𣂞	luo3	相击；斫击	None	None
+㪿	None	同=折	None	折
+斬	zhan3	古代死刑的一种 引申为砍杀	None	None
+斬	zhan3	泛指砍或砍断 如：披荆斩棘；斩钉截铁	None	None
+斬	zhan3	断绝	None	None
+斬	zhan3	征伐	None	None
+斬	zhan3	剪裁，特指丧服不缉下边	None	None
+斬	zhan3	用同=眨(zha3) 眼睛一睁一闭	None	眨
+斬	zhan4	刈草	None	None
+斬	zhan4	用同=蘸 接触一下，沾上一些东西	None	蘸
+𣂟	None	同=折	None	折
+⿰皀斤	None	同=斷	None	斷
+𣂠	None	同=近	None	近
+断	None	同=斷	None	斷
+斱	zhuo2	斫	None	None
+𣂪	None	同=斵(斲)	None	斵
+斯	si1	劈开	None	None
+斯	si1	扯裂 后作=撕	None	撕
+斯	si1	分散；分开	None	None
+斯	si1	离；离开	None	None
+斯	si1	是，为	None	None
+斯	si1	代词 1.表示近指，相当于“这”、“这样” 2.相当于“其”	None	None
+斯	si1	连词 1.表示承接上文，得出结论，相当于“则”、“而” 2.表示假设兼让步，相当于“就”、“就是”	None	None
+斯	si1	助词 1.表示结构，相当于“之”、“的” 2.用在形容词后面，相当于“然”	None	None
+斯	si1	语气词 表示疑问，相当于“呢”	None	None
+斯	si1	白	None	None
+斯	si1	通=厮 卑贱	None	厮
+斯	si1	姓	None	None
+斯	si1	副词 表示范围，相当于“尽”、“全都”	None	None
+斯	shi3	古代束发的帛巾 也作=纚	None	纚
+斮	zhuo2	斩断；正斩	None	None
+斮	zhuo2	斩首	None	None
+斮	zhuo2	削去鱼鳞	None	None
+斮	zhuo2	击	None	None
+斮	zhuo2	切；剁	None	None
+𣂥	tiao1	斫，即大锄，一种农具	None	None
+𣂥	qiao1	同=锹 农具	None	锹
+𣂦	None	同=剞	None	剞
+𣂡	None	同=斲	None	斲
+𣂧	None	同=剗	None	剗
+𣂣	None	同=断(斷)	None	断
+𣂢	None	同=斷	None	斷
+㫀	None	同=鼎	None	鼎
+𣂨	None	同=鼎	None	鼎
+⿰⿱日匂斤	None	同=鼎	None	鼎
+⿰⿱日匀斤	None	同=𥇴	None	𥇴
+𣂫	None	同=折	None	折
+𣂭	None	同=虢	None	虢
+𣂤	beng1	斸	None	None
+𣂬	xiao4	@	None	None
+⿰⿸尸市斤	None	偶同=斸	None	斸
+𣂱	None	同=斷	None	斷
+⿰⿱止𬼈斤	None	同=誓	None	誓
+𣂯	None	同=誓	None	誓
 𣂰	None	录入中	None	None
 𣂲	None	录入中	None	None
 𣂮	None	录入中	None	None
