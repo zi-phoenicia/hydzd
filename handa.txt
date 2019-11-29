@@ -82793,7 +82793,9 @@
 㯋	ying3	锥柄	None	None
 㯋	ying3	刀环	None	None
 㯋	ying3	警枕	None	None
-頠	None	录入中	None	None
+頠	wei3	头俯仰自如	None	None
+頠	wei3	安静；安详	None	None
+頠	wei3	头	None	None
 𩒨	None	录入中	None	None
 潁	None	录入中	None	None
 颍	None	录入中	None	None
