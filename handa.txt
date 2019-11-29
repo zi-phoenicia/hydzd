@@ -82677,49 +82677,87 @@
 䪾	zhen3	[䪾䫰]1.处事谨慎，不形于色 2.头少发貌	None	None
 䪾	zhen3	惭	None	None
 𩒉	None	同=䪾	None	䪾
-領	None	录入中	None	None
-领	None	录入中	None	None
-𩑾	None	录入中	None	None
-䪷	None	录入中	None	None
-𩒄	None	录入中	None	None
-𩒊	None	录入中	None	None
-𩑹	None	录入中	None	None
-頖	None	录入中	None	None
-𩑿	None	录入中	None	None
-𩒂	None	录入中	None	None
-䫀	None	录入中	None	None
-䪸	None	录入中	None	None
-𩑠	None	录入中	None	None
-䪼	None	录入中	None	None
-𩒌	None	录入中	None	None
-頗	None	录入中	None	None
-颇	None	录入中	None	None
-𩒍	None	录入中	None	None
-颈	None	录入中	None	None
-䪻	None	录入中	None	None
-𩒎	None	录入中	None	None
-𩑴	None	录入中	None	None
-𩒑	None	录入中	None	None
-頛	None	录入中	None	None
-𩒞	None	录入中	None	None
-𩓁	None	录入中	None	None
-頡	None	录入中	None	None
-颉	None	录入中	None	None
-𩒓	None	录入中	None	None
-𩒢	None	录入中	None	None
-𩓏	None	录入中	None	None
-頣	None	录入中	None	None
-𩒣	None	录入中	None	None
-𩒤	None	录入中	None	None
-𩒏	None	录入中	None	None
-𩒥	None	录入中	None	None
-𩒒	None	录入中	None	None
-䫆	None	录入中	None	None
-颊	None	录入中	None	None
-𩒐	None	录入中	None	None
-𩒛	None	录入中	None	None
-𩑽	None	录入中	None	None
-𩒚	None	录入中	None	None
+領	ling3	颈，脖子	None	None
+領	ling3	衣领	None	None
+領	ling3	引；带 如：领路；领头	None	None
+領	ling3	接受；领取	None	None
+領	ling3	领会	None	None
+領	ling3	统率；管辖 如：领土；领海	None	None
+領	ling3	治理	None	None
+領	ling3	记录	None	None
+領	ling3	殓死者的被头	None	None
+領	ling3	山岭 后作=嶺	None	嶺
+領	ling3	量词 用以衣衾之类	None	None
+領	ling3	姓	None	None
+领	None	=領的简化字	None	領
+𩑾	di1	头垂下貌	None	None
+䪷	hou4	勤劳	None	None
+䪷	gou4	[䪷䪷]勤劳	None	None
+𩒄	ce4	人名用字	None	None
+𩒊	zhu3	@ 按：疑为=主的增旁俗字	None	主
+𩑹	xuan4	腮后	None	None
+頖	pan4	[頖宫]也作“=泮宫” 西周时诸侯所设的学宫 后也泛指地方官府所设的学宫 也单用作“頖”	None	泮
+頖	pan4	涣散	None	None
+𬱙	None	=頖的类推简化字	None	頖
+𩑿	None	同=𩔈	None	𩔈
+𩒂	shi1	[𩒛𩒂]见“𩒛”	None	None
+䫀	gen3	颊后，下颌骨的末端	None	None
+䫀	gen3	颊高起貌	None	None
+䫀	gen3	俯首	None	None
+䪸	min2	强	None	None
+䪸	min2	彊头	None	None
+䪸	kuo4	同=𩒲	None	𩒲
+𩑠	None	=頙的讹字	None	頙
+䪼	zhuo1	颧骨	None	None
+⿰出页	None	=䪼的类推简化字	None	䪼
+𩒌	None	同=頮	None	頮
+頗	po1	头偏	None	None
+頗	po1	偏 不正；不平；不全	None	None
+頗	po1	副词 1.表示程度 a.相当于“略微” b.相当于“很”、“甚” 2.表示范围，相当于“悉”、“皆”	None	None
+頗	po3	不可 也作=叵	None	叵
+頗	po3	姓	None	None
+頗	pi2	人名	None	None
+颇	None	=頗的简化字	None	頗
+𩒍	None	同=頸	None	頸
+颈	None	=頸的简化字	None	頸
+䪻	bian4	冠名	None	None
+䪻	bian4	冠倾	None	None
+䪻	bian4	面	None	None
+䪻	fan4	无发	None	None
+𩒎	None	人名用字	None	None
+𩑴	yao4	颈项转动不自如	None	None
+𩒑	None	同=眶	None	眶
+頛	lei4	颈歪斜	None	None
+頛	lei4	鲜貌	None	None
+𩒞	ting3	头𩒞	None	None
+𩓁	None	同=𩕀	None	𩕀
+頡	xie2	颈项僵直	None	None
+頡	xie2	鸟飞而上	None	None
+頡	xie2	压低	None	None
+頡	xie2	兽名 形状如青狗	None	None
+頡	xie2	有花纹的缯	None	None
+頡	xie2	姓	None	None
+頡	jia2	克扣	None	None
+頡	jia2	车轮碾过	None	None
+頡	jie2	[蒼頡]古人名	None	None
+颉	None	=頡的简化字	None	頡
+𩒓	hong3	[𩕱𩒓]见“𩕱”	None	None
+𩒢	tan3	面不平	None	None
+𩓏	None	=𩒵(頃)的讹字	None	𩒵
+頣	shen3	举目视人貌	None	None
+𩒣	qian3	[𩒣𩖄]丑貌 也单用作“𩒣”	None	None
+𩒤	None	同=頸	None	頸
+𩒏	hui4	大头	None	None
+𩒥	None	=𩒣的讹字	None	𩒣
+𩒒	None	同=頋	None	頋
+䫆	cheng2	颈项	None	None
+颊	None	=頬的简化字	None	頬
+⿰尧页	None	=顤的类推简化字	None	顤
+𩒐	chi3	面大	None	None
+𩒐	chi3	面黑	None	None
+𩒛	qi1	[𩒛𩒂]也作“=戚施” 本是蟾蜍，四足据地，无颈，不能仰视，因以比喻伛偻病，形丑，面不能仰	None	戚
+𩑽	None	同=頾(髭)	None	頾
+𩒚	guang1	耳后骨	None	None
 𩒝	None	录入中	None	None
 𩒗	None	录入中	None	None
 𫖮	None	录入中	None	None
