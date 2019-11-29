@@ -82758,24 +82758,41 @@
 𩒛	qi1	[𩒛𩒂]也作“=戚施” 本是蟾蜍，四足据地，无颈，不能仰视，因以比喻伛偻病，形丑，面不能仰	None	戚
 𩑽	None	同=頾(髭)	None	頾
 𩒚	guang1	耳后骨	None	None
-𩒝	None	录入中	None	None
-𩒗	None	录入中	None	None
-𫖮	None	录入中	None	None
-𩒙	None	录入中	None	None
-頲	None	录入中	None	None
-颋	None	录入中	None	None
-頢	None	录入中	None	None
-𩒦	None	录入中	None	None
-䫁	None	录入中	None	None
-頧	None	录入中	None	None
-䪿	None	录入中	None	None
-𩒧	None	录入中	None	None
-𡡓	None	录入中	None	None
-頜	None	录入中	None	None
-颌	None	录入中	None	None
-頫	None	录入中	None	None
-𫖯	None	录入中	None	None
-㯋	None	录入中	None	None
+𩒝	gen3	同=𩓓(𩒢) 颊后	None	𩓓
+𩒗	None	同=𡜝(姛)	None	𡜝
+⿰岁页	None	=顪的类推简化字	None	顪
+𫖮	None	=顗的类推简化字	None	顗
+𩒙	fu3	俯	None	None
+𩒙	gui1	规则；法规	None	None
+頲	ting3	头挺直貌 引申为正直	None	None
+颋	None	=頲的简化字	None	頲
+頢	kuo4	脸型短	None	None
+頢	kuo4	小头；小头貌	None	None
+𩒦	jiu4	@	None	None
+𩒦	xin4	同=䪿(囟)	None	䪿
+䫁	bi4	第一个儿子	None	None
+䫁	bi4	犬初生子	None	None
+頧	dui3	头不正貌	None	None
+頧	dui1	[毋頧]也作“毋=追” 夏代的一种冠名	None	追
+頧	dui1	高阜	None	None
+䪿	None	同=囟	None	囟
+𩒧	xu1	[𢁕𩒧]缯头；头𩒧 也单用作“𩒧”	None	None
+𡡓	None	同=嬃	None	嬃
+頜	he2	构成口腔上下部的骨骼和肌肉组织 上部称上颌；下部称下颌，俗称“下巴”	None	None
+頜	han2	同=頷 脸色发黄	None	頷
+頜	qin1	同=顉 点头	None	顉
+頜	ge2	姓	None	None
+颌	None	=頜的简化字	None	頜
+頫	fu3	低头 后作=俯	None	俯
+頫	tao1	盥洗	None	None
+頫	tiao4	视；望	None	None
+𫖯	None	=頫的类推简化字	None	頫
+㯋	jiong3	篋	None	None
+㯋	jiong3	足几	None	None
+㯋	ying3	木名	None	None
+㯋	ying3	锥柄	None	None
+㯋	ying3	刀环	None	None
+㯋	ying3	警枕	None	None
 頠	None	录入中	None	None
 𩒨	None	录入中	None	None
 潁	None	录入中	None	None
