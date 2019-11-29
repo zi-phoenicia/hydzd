@@ -38552,25 +38552,50 @@
 𣂱	None	同=斷	None	斷
 ⿰⿱止𬼈斤	None	同=誓	None	誓
 𣂯	None	同=誓	None	誓
-𣂰	None	录入中	None	None
-𣂲	None	录入中	None	None
-𣂮	None	录入中	None	None
-𣂳	None	录入中	None	None
-𣂴	None	录入中	None	None
-新	None	录入中	None	None
-𣂵	None	录入中	None	None
-𣂶	None	录入中	None	None
-𣂸	None	录入中	None	None
-𣂺	None	录入中	None	None
-斲	None	录入中	None	None
-㫁	None	录入中	None	None
-𣃄	None	录入中	None	None
-𣃈	None	录入中	None	None
-斳	None	录入中	None	None
-𣂻	None	录入中	None	None
-𣂽	None	录入中	None	None
-𣂿	None	录入中	None	None
-㫂	None	录入中	None	None
+⿰⿸⿱⺊日⿹𠃎丿斤	None	同=斷	None	斷
+𣂰	None	同=鼎	None	鼎
+𣂲	None	同=𣂟	None	𣂟
+𣂮	dou3	[𣂻𣂮]见“𣂻”	None	None
+𣂮	tou3	同=㓱	None	㓱
+𣂳	dang4	@	None	None
+𣂴	ting2	@	None	None
+新	xin1	砍伐树木	None	None
+新	xin1	柴薪 后作=薪	None	薪
+新	xin1	刚出现的或刚经验到的 如：新风气；新品种	None	None
+新	xin1	没有用过的 如：新衣；新笔；七成新的鞋；全新的自行车	None	None
+新	xin1	指刚收获的粮食或蔬果等	None	None
+新	xin1	古代称开垦两年的田	None	None
+新	xin1	改变旧的；使变新 如：改过自新	None	None
+新	xin1	副词 表示时间，相当于“刚”、“刚才”	None	None
+新	xin1	通=親(qin1)	None	親
+新	xin1	朝代名 汉王莽初封新都侯，初始元年（公元8年）代汉称帝，国号新，建都长安（今陕西省西安市） 更始元年（公元23年）为绿林农民起义军所灭	None	None
+新	xin1	新疆维吾尔自治区的简称	None	None
+新	xin1	新西兰的简称	None	None
+新	xin1	姓	None	None
+𣂵	zhuan4	斫	None	None
+⿰荳斤	None	同=斲	None	斲
+𣂶	None	同=誓	None	誓
+𣂸	None	同=𣂢(斷)	None	𣂢
+⿰𭥭斤	None	同=𥇴	None	𥇴
+𣂺	None	同=新	None	新
+斲	zhuo2	木工工具，指斧斤之类	None	None
+斲	zhuo2	砍；削	None	None
+斲	zhuo2	雕饰	None	None
+斲	zhuo2	伤耗	None	None
+㫁	None	同=斷	None	斷
+𣃄	xin1	@	None	None
+𣃈	zhuo2	同=鐯	None	鐯
+𣃈	zhuo2	破裂	None	None
+斳	qin2	同=芹 芹菜	None	芹
+斳	jin3	肕	None	None
+𣂻	ou1	[𣂻𣂮]偃鉏	None	None
+𣂻	kou1	同=剾	None	剾
+⿰⿳止八⿱十䒑斤	None	同=誓	None	誓
+𣂽	wo4	斫	None	None
+𣂿	None	[𣂿多]地名	None	None
+⿰𮮐斤	None	同=𪏴	None	𪏴
+㫂	zhu4	斫	None	None
+⿰晝斤	None	同=斲	None	斲
 𣂸	None	录入中	None	None
 𣃀	None	录入中	None	None
 𣃃	None	录入中	None	None
