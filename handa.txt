@@ -82513,16 +82513,34 @@
 順	shun4	通=訓(xun4) 教诲	None	訓
 順	shun4	姓	None	None
 顺	None	=順的简化字	None	順
-須	None	录入中	None	None
-须	None	录入中	None	None
-𩑘	None	录入中	None	None
-𩑑	None	录入中	None	None
-𩑖	None	录入中	None	None
-𩑓	None	录入中	None	None
-䪱	None	录入中	None	None
-𩑐	None	录入中	None	None
-𩑗	None	录入中	None	None
-𩑚	None	录入中	None	None
+須	xu1	胡须 后作=鬚	None	鬚
+須	xu1	动植物及其他物体上像须的东西 如：触须、须根、花须	None	None
+須	xu1	要求；寻求 也作=需	None	需
+須	xu1	等待	None	None
+須	xu1	止	None	None
+須	xu1	迟缓	None	None
+須	xu1	用	None	None
+須	xu1	是	None	None
+須	xu1	须臾，片刻	None	None
+須	xu1	菜名 蔓菁	None	None
+須	xu1	草名	None	None
+須	xu1	副词 1.表示事实上或情理上必要，相当于“应”、“必须” 2.相当于“自” 3.相当于“正”	None	None
+須	xu1	连词 表示让步关系，相当于“虽”	None	None
+須	xu1	古邑名 春秋卫邑 在今河南省滑县东南	None	None
+須	xu1	姓	None	None
+须	None	=須、=鬚的简化字	None	須
+𩑘	zhen4	@ ……按：……疑为=䪾的俗字	None	䪾
+𩑑	None	同=𩑗	None	𩑗
+𩑖	huan2	丸	None	None
+𩑖	huan2	脑盖、囟门	None	None
+𩑓	qiong2	面上	None	None
+䪱	gai3	同=胲 脸颊	None	胲
+䪱	gai3	丑	None	None
+䪱	hai2	同=孩	None	孩
+𩑐	chai1	[頷𩑐]颐旁 也当用作“𩑐”	None	None
+𩑗	yao1	头小貌	None	None
+𩑚	beng3	耳根	None	None
+𩑚	lei4	同=頛 头颈歪斜	None	頛
 頊	None	录入中	None	None
 顼	None	录入中	None	None
 𩒖	None	录入中	None	None
