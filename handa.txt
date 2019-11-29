@@ -82593,57 +82593,90 @@
 𩑩	None	同=頪	None	頪
 𩑙	ting3	同=頲	None	頲
 𩑙	ting3	头疾	None	None
-𩑭	None	录入中	None	None
-頎	None	录入中	None	None
-颀	None	录入中	None	None
-𩑛	None	录入中	None	None
-𩑟	None	录入中	None	None
-頒	None	录入中	None	None
-颁	None	录入中	None	None
-頌	None	录入中	None	None
-颂	None	录入中	None	None
-𩑥	None	录入中	None	None
-𩑮	None	录入中	None	None
-𩑝	None	录入中	None	None
-𩑦	None	录入中	None	None
-頏	None	录入中	None	None
-颃	None	录入中	None	None
-𩑯	None	录入中	None	None
-䪴	None	录入中	None	None
-𫖫	None	录入中	None	None
-𩑜	None	录入中	None	None
-䪳	None	录入中	None	None
-𩑧	None	录入中	None	None
-預	None	录入中	None	None
-预	None	录入中	None	None
-𩑷	None	录入中	None	None
-𩑵	None	录入中	None	None
-頙	None	录入中	None	None
-䪺	None	录入中	None	None
-𩑶	None	录入中	None	None
-𩑸	None	录入中	None	None
-𩑼	None	录入中	None	None
-𩒆	None	录入中	None	None
-䪹	None	录入中	None	None
-𩑲	None	录入中	None	None
-頋	None	录入中	None	None
-𩒃	None	录入中	None	None
-𩑱	None	录入中	None	None
-𩑳	None	录入中	None	None
-頕	None	录入中	None	None
-颅	None	录入中	None	None
-𩑰	None	录入中	None	None
-䪶	None	录入中	None	None
-𩒁	None	录入中	None	None
-䪽	None	录入中	None	None
-頔	None	录入中	None	None
-𩒇	None	录入中	None	None
-𩑺	None	录入中	None	None
-𩑻	None	录入中	None	None
-𩒈	None	录入中	None	None
-𩒀	None	录入中	None	None
-䪾	None	录入中	None	None
-𩒉	None	录入中	None	None
+𩑭	qing1	侧	None	None
+頎	qi2	头俊美	None	None
+頎	qi2	修长貌	None	None
+頎	qi2	姓	None	None
+頎	ken3	哀痛之至	None	None
+颀	None	=頎的简化字	None	頎
+𩑛	None	同=髮	None	髮
+𩑟	kan1	丑	None	None
+𩑟	qian1	[𩑟頤]也作“=顩頤” 丑貌	None	顩
+頒	fen2	大头貌	None	None
+頒	ban1	鬓	None	None
+頒	ban1	通=斑 须发半白	None	斑
+頒	ban1	通=班 1.赏赐 2.公布 3.次第	None	班
+頒	ban1	分 也作=攽	None	攽
+颁	None	=頒的简化字	None	頒
+頌	rong2	仪容 后作=容	None	容
+頌	rong2	通=容 宽容	None	容
+頌	rong2	公，直	None	None
+頌	song4	歌颂	None	None
+頌	song4	占兆之词	None	None
+頌	song4	《诗》六义之一	None	None
+頌	song4	文体之一，指以颂扬为目的的诗文	None	None
+頌	song4	通=诵 朗读	None	诵
+頌	song4	姓	None	None
+颂	None	=頌的简化字	None	頌
+𩑥	men2	同=𩔉(䫒)	None	𩔉
+𩑮	la1	@	None	None
+𩑝	ang2	昂头	None	None
+𩑦	mo4	头潜入头中 后作=没	None	没
+𩑦	mo4	方言 雨水多	None	None
+頏	hang2	鸟飞而下	None	None
+頏	gang1	同=亢 颈项；喉咙	None	亢
+頏	hang3	同=吭 咽；吞	None	吭
+颃	None	=頏的简化字	None	頏
+𩑯	None	同=頛	None	頛
+䪴	zhen3	枕骨	None	None
+䪴	zhen3	垂头貌	None	None
+䪴	dan3	[顲䪴]丑	None	None
+䪴	dan4	[䪴顩]痴貌	None	None
+𫖫	None	=䪴的类推简化字	None	䪴
+𩑜	None	同=䪴	None	䪴
+䪳	yun3	面目歪斜；脸部不平	None	None
+𩑧	None	=頨的讹字	None	頨
+預	yu4	安乐	None	None
+預	yu4	事先 如：预计；预见	None	None
+預	yu4	参预；干预；相干	None	None
+预	None	=預的简化字	None	預
+𩑷	mo4	[𩑷䫘]1.健貌 2.面平	None	None
+𩑵	wei4	面前；面俯前	None	None
+頙	cheng1	正	None	None
+頙	cheng1	人名	None	None
+䪺	None	同=䫦	None	䫦
+𩑶	hu2	同=胡	None	胡
+𩑶	ku1	下巴颏儿	None	None
+𩑸	he1	倾头视貌	None	None
+𩑼	po1	同=頗 头偏	None	頗
+𩒆	None	同=頂	None	頂
+䪹	bai1	脸宽大	None	None
+䪹	pei2	同=𩑢	None	𩑢
+𩑲	None	同=𩑣	None	𩑣
+頋	None	同=顧	None	顧
+𩒃	kan3	颊疾	None	None
+𩑱	None	同=髮	None	髮
+𩑳	qian3	[𩑳顩]也作“𩑳𩖄”、“=顩𩖄”、“𩑳𩕿” 不平；面不平	None	顩
+頕	dan1	颊缓	None	None
+頕	dian4	垂首	None	None
+颅	None	=顱的简化字	None	顱
+𩑰	tan3	面平貌	None	None
+䪶	ju1	下巴	None	None
+𩒁	None	同=頦	None	頦
+䪽	hao4	白发人	None	None
+頔	di2	美好	None	None
+頔	di2	人名	None	None
+𬱖	None	=頔的类推简化字	None	頔
+𩒇	xu1	@	None	None
+𩑺	None	同=𩑞(髯)	None	𩑞
+𩑻	bi4	发白貌	None	None
+𩑻	po2	[𩑻𩑻]勇舞貌	None	None
+𩑻	po2	勇士貌	None	None
+𩒈	zhen3	同=䪾	None	䪾
+𩒀	None	同=𩒉(䪾)	None	𩒉
+䪾	zhen3	[䪾䫰]1.处事谨慎，不形于色 2.头少发貌	None	None
+䪾	zhen3	惭	None	None
+𩒉	None	同=䪾	None	䪾
 領	None	录入中	None	None
 领	None	录入中	None	None
 𩑾	None	录入中	None	None
