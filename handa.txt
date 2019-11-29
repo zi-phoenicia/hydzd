@@ -38420,11 +38420,33 @@
 𤘃	li4	木障	None	None
 㸥	zhan4	版	None	None
 㸥	zhan4	同=欃 水门	None	欃
-斤	None	录入中	None	None
-𣂑	None	录入中	None	None
-斥	None	录入中	None	None
-𣂒	None	录入中	None	None
-𠦛	None	录入中	None	None
+斤	jin1	古代砍物工具 一般用以砍木，与斧相似，比斧小而刃横	None	None
+斤	jin1	古代一种似锄但比锄小的农具	None	None
+斤	jin1	砍；削	None	None
+斤	jin1	量词 重量单位之一 旧制1斤为16两，后市制1斤为10两，等于公制重量500克	None	None
+斤	jin1	加在某些以重量计算的物名后，作该物的总称 如：煤斤	None	None
+斤	jin1	姓	None	None
+斤	jin1	[斤斤]明察	None	None
+斤	jin5	[千斤]即千斤顶，一种顶起重物的工具	None	None
+𣂑	None	同=斗	None	斗
+斥	chi4	驱逐；疏远 如：斥逐；斥退	None	None
+斥	chi4	推	None	None
+斥	chi4	开拓	None	None
+斥	chi4	侦察；探测	None	None
+斥	chi4	指责；责骂	None	None
+斥	chi4	指，点明	None	None
+斥	chi4	多；众多	None	None
+斥	chi4	大	None	None
+斥	chi4	广；宽	None	None
+斥	chi4	盐碱地	None	None
+斥	chi4	泽崖	None	None
+斥	chi4	通=赤	None	赤
+斥	chi4	[揮斥]放纵；奔放	None	None
+斥	che4	[斥山]山名	None	None
+斥	che4	同=𡍩(坼) 分散	None	𡍩
+斥	zhe4	姓	None	None
+𣂒	le4	同=劤	None	劤
+𠦛	None	同=兵	None	兵
 𣂕	None	录入中	None	None
 𣥍	None	录入中	None	None
 𣂗	None	录入中	None	None
