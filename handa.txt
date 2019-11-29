@@ -82541,29 +82541,58 @@
 𩑗	yao1	头小貌	None	None
 𩑚	beng3	耳根	None	None
 𩑚	lei4	同=頛 头颈歪斜	None	頛
-頊	None	录入中	None	None
-顼	None	录入中	None	None
-𩒖	None	录入中	None	None
-頑	None	录入中	None	None
-顽	None	录入中	None	None
-𩑪	None	录入中	None	None
-頍	None	录入中	None	None
-𫠆	None	录入中	None	None
-𩑢	None	录入中	None	None
-𩑣	None	录入中	None	None
-頋	None	录入中	None	None
-顾	None	录入中	None	None
-䪵	None	录入中	None	None
-頓	None	录入中	None	None
-顿	None	录入中	None	None
-𩑬	None	录入中	None	None
-𩑨	None	录入中	None	None
-頉	None	录入中	None	None
-𩑞	None	录入中	None	None
-𩑤	None	录入中	None	None
-𩑡	None	录入中	None	None
-𩑩	None	录入中	None	None
-𩑙	None	录入中	None	None
+頊	xu1	[頊頊]也单用作“頊” 1.谨敬貌 2.失（面子）	None	None
+頊	xu1	枕骨	None	None
+頊	xu1	姓	None	None
+顼	None	=頊的简化字	None	頊
+𩒖	yan4	[頨𩒖]见“頨”	None	None
+頑	wan2	难劈开的囫囵木柴	None	None
+頑	wan2	粗钝；顽固	None	None
+頑	wan2	愚妄无知	None	None
+頑	wan2	强暴	None	None
+頑	wan2	坚强；坚硬	None	None
+頑	wan2	用同=翫 玩赏；嬉戏	None	翫
+頑	wan2	通=忨 贪	None	忨
+顽	None	=頑的简化字	None	頑
+𩑪	None	同=頤	None	頤
+頍	kui3	抬头	None	None
+頍	kui3	古代用以束发固冠的发饰	None	None
+𫠆	None	=頍的类推简化字	None	頍
+𩑢	pei2	颐曲而微向前	None	None
+𩑢	bai1	同=䪹	None	䪹
+𩑣	you4	头部颤动病 引申为颤	None	None
+頋	e3	静	None	None
+顾	None	=顧的简化字	None	顧
+䪵	ya3	@	None	None
+頓	dun4	以头叩地	None	None
+頓	dun4	以足或物叩地	None	None
+頓	dun4	止宿；屯驻	None	None
+頓	dun4	放置，安放	None	None
+頓	dun4	舍弃；废弃	None	None
+頓	dun4	用力牵引；扣紧	None	None
+頓	dun4	上下抖动使整齐	None	None
+頓	dun4	僵仆；仆	None	None
+頓	dun4	损坏；败坏	None	None
+頓	dun4	宿食之所 也指宿食所需之物	None	None
+頓	dun4	昏乱	None	None
+頓	dun4	量词 名量用于饭的餐数；动量用于吃饭、斥责、劝说、打骂等行为的次数	None	None
+頓	dun4	副词 表示情态，相当于“立刻”、“忽然”	None	None
+頓	dun4	通=鈍 不锋利；不颖悟	None	鈍
+頓	dun4	古国名 在今河南省商水县北，公元前496年灭于楚	None	None
+頓	dun4	姓	None	None
+頓	du2	[冒頓]见“冒(mo4)”	None	None
+顿	None	=頓的简化字	None	頓
+𩑬	fu3	@	None	None
+𩑬	gui1	同=規	None	規
+𩑨	None	同=𩑔	None	𩑔
+頉	None	同=頤	None	頤
+𩑞	None	同=䫇(髯)	None	䫇
+𩑤	ao3	[䯪𩑤]見“䯪”	None	None
+𩑡	ku1	同=𩑔	None	𩑔
+𩑡	gen3	同=䫀 1.颊后 2.颊高	None	䫀
+𩑩	None	同=頪	None	頪
+𩑙	ting3	同=頲	None	頲
+𩑙	ting3	头疾	None	None
 𩑭	None	录入中	None	None
 頎	None	录入中	None	None
 颀	None	录入中	None	None
