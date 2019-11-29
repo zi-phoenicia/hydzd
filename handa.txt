@@ -82442,26 +82442,77 @@
 𩎎	ge2	辔首 也作=革	None	革
 𩎏	None	同=鞹(鞟)	None	鞹
 𩎑	zuan1	把横木钻孔用皮带捆绑在小车的曲辕上	None	None
-頁	None	录入中	None	None
-页	None	录入中	None	None
-頂	None	录入中	None	None
-顶	None	录入中	None	None
-頃	None	录入中	None	None
-顷	None	录入中	None	None
-頄	None	录入中	None	None
-𩑏	None	录入中	None	None
-𩑌	None	录入中	None	None
-𩑍	None	录入中	None	None
-頇	None	录入中	None	None
-顸	None	录入中	None	None
-𩑕	None	录入中	None	None
-項	None	录入中	None	None
-项	None	录入中	None	None
-䪲	None	录入中	None	None
-𩑔	None	录入中	None	None
-𩑒	None	录入中	None	None
-順	None	录入中	None	None
-顺	None	录入中	None	None
+頁	xie2	头	None	None
+頁	xie2	直项	None	None
+頁	ye4	量词 指书册的一张 也作=葉 如：册页；活页	None	葉
+页	None	=頁的简化字	None	頁
+頂	ding3	头的最上部	None	None
+頂	ding3	物体的最上部 如：山顶；屋顶	None	None
+頂	ding3	顶子 清代官员依其等级，在冠上缀珠玉宝石金银等以为饰，谓之顶	None	None
+頂	ding3	以头承戴	None	None
+頂	ding3	抵拒；顶撞	None	None
+頂	ding3	围棋手法的术语	None	None
+頂	ding3	顶替	None	None
+頂	ding3	抵，相当 如：三个臭皮匠，顶个诸葛亮	None	None
+頂	ding3	到	None	None
+頂	ding3	旧时指转让或取得企业经营权、房屋或土地租赁权 如：招顶；顶出去，顶进来	None	None
+頂	ding3	拜	None	None
+頂	ding3	用同=鼎	None	鼎
+頂	ding3	量词 用于有顶器物 如：一顶帐子	None	None
+頂	ding3	副词 表示程度，相当于“最” 如：顶好；顶喜欢	None	None
+顶	None	=頂的简化字	None	頂
+頃	qing1	头不正	None	None
+頃	qing1	倾斜；偏侧 后作=傾	None	傾
+頃	qing1	姓	None	None
+頃	qing3	量词 土地面积的计量单位之一，百亩为顷	None	None
+頃	qing3	短时间 如：少顷；俄顷	None	None
+頃	qing3	往时；当时	None	None
+頃	kui3	通=跬 半步	None	跬
+顷	None	=頃的简化字	None	頃
+頄	kui2	同=頯 颧骨	None	頯
+頄	kui2	额	None	None
+頄	kui2	厚	None	None
+𬱓	None	=頄的类推简化字	None	頄
+𩑏	None	=𩑓的讹字	None	𩑓
+𩑌	None	同=𩑣	None	𩑣
+𩑍	yao4	昂	None	None
+頇	an4	头无发	None	None
+頇	an4	冠欹后	None	None
+頇	han1	[顢頇]见“顢”	None	None
+頇	han1	方言 粗，大 如：这根杠子太顸；粗声顸气；这线太顸，有细的吗？	None	None
+顸	None	=頇的简化字	None	頇
+𩑕	xu1	[𩒽𩑕]见“𩒽”	None	None
+項	xiang4	脖子的后部	None	None
+項	xiang4	脖子	None	None
+項	xiang4	冠的后部	None	None
+項	xiang4	大，肥大	None	None
+項	xiang4	条目；条款	None	None
+項	xiang4	量词 用于分项目的事物 如：三大纪律。八项注意；下列各项	None	None
+項	xiang4	数学用语 代数式中不用加减号连接的单 式 如：3a^2b,ax^2,4ba等称“项”	None	None
+項	xiang4	春秋时国名，在今河南省沈丘县	None	None
+項	xiang4	姓	None	None
+项	None	=項的简化字	None	項
+䪲	None	同=髡	None	髡
+𩑔	ku1	秃而无毛 特指头秃	None	None
+𩑔	ku1	颊旁骨 一说颊高起貌	None	None
+𩑔	ya4	方言 行不稳	None	None
+𩑒	duo2	[𩑒顱]头骨	None	None
+𩑒	duo2	额	None	None
+⿰乇页	None	=𩑒的类推简化字	None	𩑒
+順	shun4	道理	None	None
+順	shun4	顺应；依顺	None	None
+順	shun4	沿着同一个方向 如：顺风；顺水	None	None
+順	shun4	趁便	None	None
+順	shun4	和顺	None	None
+順	shun4	通顺	None	None
+順	shun4	顺序	None	None
+順	shun4	陈列	None	None
+順	shun4	好目；眼有光泽	None	None
+順	shun4	退	None	None
+順	shun4	通=慎(shen4) 谨慎	None	慎
+順	shun4	通=訓(xun4) 教诲	None	訓
+順	shun4	姓	None	None
+顺	None	=順的简化字	None	順
 須	None	录入中	None	None
 须	None	录入中	None	None
 𩑘	None	录入中	None	None
