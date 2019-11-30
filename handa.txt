@@ -83461,19 +83461,21 @@
 𩖆	None	同=顩	None	顩
 顲	lan3	[䫲顲]面黄肌瘦貌 也单用作“顲”	None	None
 顲	lin3	改变脸色	None	None
-顴	None	录入中	None	None
-颧	None	录入中	None	None
-𩖊	None	录入中	None	None
-𩖍	None	录入中	None	None
-𩖌	None	录入中	None	None
-𩖋	None	录入中	None	None
-顳	None	录入中	None	None
-𩖏	None	录入中	None	None
-𩖐	None	录入中	None	None
-𩖒	None	录入中	None	None
-𩖓	None	录入中	None	None
-𩖔	None	录入中	None	None
-𥸤	None	录入中	None	None
+顴	quan2	颧骨 或称颊骨、辅骨	None	None
+颧	None	=顴的简化字	None	顴
+𩖊	ling2	[𩖊𩖊]脸瘦貌  也单用作“𩖊”	None	None
+𩖍	ying3	[多𩖍]国名	None	None
+𩖍	ying3	同=癭 颈瘤	None	癭
+𩖌	chan2	[𩖌𩖌]头长貌	None	None
+𩖋	None	=顲的讹字	None	顲
+顳	nie4	[顳顬]1.颞骨 头骨之一 在顶骨下两侧位于两耳上前方的部分，形状扁平 也单用作“顳” 2.口腔动时面部肌筋牵动貌 3.脑空，针灸穴位名	None	None
+𩖏	None	同=贔	None	贔
+𩖐	None	同=首	None	首
+𩖒	guan1	@	None	None
+𩖓	None	同=顰	None	顰
+𩖔	niao3	@	None	None
+𥸤	yu4	呼喊 今多指为了某种请求而呼喊	None	None
+𥸤	yu4	和谐；和顺	None	None
 面	mian4	脸 如：面孔；面不改色	None	None
 面	mian4	当面 如：面谈。面交	None	None
 面	mian4	面具；假面	None	None
