@@ -83226,40 +83226,72 @@
 𩔙	pi3	同=𩔅(䫌)	None	𩔅
 𩔙	xin4	同=顖(囟)	None	顖
 顖	None	同=囟	None	囟
-䫢	None	录入中	None	None
-䫠	None	录入中	None	None
-䫣	None	录入中	None	None
-𩔝	None	录入中	None	None
-𩔚	None	录入中	None	None
-𩔲	None	录入中	None	None
-𩔣	None	录入中	None	None
-䫞	None	录入中	None	None
-類	None	录入中	None	None
-𩔱	None	录入中	None	None
-䫡	None	录入中	None	None
-𩔧	None	录入中	None	None
-𩔜	None	录入中	None	None
-䫤	None	录入中	None	None
-𩔞	None	录入中	None	None
-顙	None	录入中	None	None
-颡	None	录入中	None	None
-𩔡	None	录入中	None	None
-𩔳	None	录入中	None	None
-𩕜	None	录入中	None	None
-顢	None	录入中	None	None
-𩕕	None	录入中	None	None
-𩔵	None	录入中	None	None
-𩔸	None	录入中	None	None
-顠	None	录入中	None	None
-𩕁	None	录入中	None	None
-顣	None	录入中	None	None
-𫖹	None	录入中	None	None
-𩕂	None	录入中	None	None
-䫪	None	录入中	None	None
-𩔺	None	录入中	None	None
-𩕩	None	录入中	None	None
-䫫	None	录入中	None	None
-𩕃	None	录入中	None	None
+⿰恖页	None	=顖的类推简化字	None	顖
+䫢	si1	[𩓨䫢]1.头不正 2.好貌 也单用作“䫢”	None	None
+䫠	pi1	短须发貌	None	None
+䫣	xi2	头不正	None	None
+𩔝	qin4	[𩔝𩒻]头动貌	None	None
+𩔚	weng1	同=翁 鸟颈毛	None	翁
+𩔚	weng3	[𩔚劜]也作“=勜劜” 倔强貌	None	勜
+𩔲	liu2	[顦𩔲]动物名	None	None
+𩔣	zhan1	额	None	None
+⿰旃页	None	=𩔣的类推简化字	None	𩔣
+䫞	qiao1	头大额宽	None	None
+䫞	fen2	众貌 也作=頒	None	頒
+類	lei4	种类 许多相似或相同事物的综合	None	None
+類	lei4	法式，法则	None	None
+類	lei4	事理	None	None
+類	lei4	形貌；形象	None	None
+類	lei4	像；似	None	None
+類	lei4	类比，比照事例而分类	None	None
+類	lei4	遵循	None	None
+類	lei4	善，美好	None	None
+類	lei4	众多	None	None
+類	lei4	率，皆；大抵	None	None
+類	lei4	占卜时，龟行于水中，头向左顾者称“類”	None	None
+類	lei4	古代传说中的兽名，似貍	None	None
+類	lei4	古代祭名 以特别事故祭祀天神也作=禷	None	禷
+類	lei4	姓	None	None
+類	lei4	通=纇 1.戾，偏颇，不公平 2.疵节	None	纇
+𩔱	juan1	除去	None	None
+䫡	yan2	头狭脸长貌	None	None
+䫡	yan2	面颊	None	None
+䫡	yan2	[顑䫡]丑貌	None	None
+䫡	qian4	[䫡顑]脸长貌	None	None
+䫡	qian2	[䫡䫡]丑貌	None	None
+䫡	jian4	[䫡胡]剂面	None	None
+𩔧	None	同=類	None	類
+⿰宾页	None	=顮的类推简化字	None	顮
+𩔜	None	同=頌	None	頌
+䫤	ming2	眉睫之间 也作=名	None	名
+𩔞	None	同=顄	None	顄
+顙	sang3	额头	None	None
+顙	sang3	头	None	None
+顙	sang3	颊	None	None
+顙	sang3	嗓子；喉咙	None	None
+顙	sang3	稽颡，叩头	None	None
+颡	None	=顙的简化字	None	顙
+𩔡	dou1	[𩔸𩔡]面折	None	None
+𩔳	ze2	头不正	None	None
+𩕜	kui2	@	None	None
+顢	man1	[顢頇]1.大面貌 2.糊涂 3.敷衍	None	None
+𩕕	wai4	人名	None	None
+𩔵	lan2	[𩔵䫮]俯首貌	None	None
+𩔸	ou1	[𩔸𩒔]脸凹不平 也单用作“𩔸”	None	None
+顠	piao3	头发斑白	None	None
+顠	piao3	发乱貌	None	None
+⿰票页	None	=顠的类推简化字	None	顠
+𩕁	None	同=脣	None	脣
+顣	cu4	同=蹙 皱缩	None	蹙
+𫖹	None	=顣的类推简化字	None	顣
+𩕂	None	同=憂	None	憂
+䫪	shuang3	丑恶	None	None
+䫪	shuang3	满	None	None
+𩔺	None	同=顱	None	顱
+𩕩	None	同=𩕢(頂)	None	𩕢
+䫫	lou2	同=髏	None	髏
+䫫	lou2	用同=鏤 刻	None	鏤
+𩕃	None	同=顯	None	顯
 𩕄	None	录入中	None	None
 𩔹	None	录入中	None	None
 𩔻	None	录入中	None	None
