@@ -82947,32 +82947,49 @@
 頴	ying3	同=穎	None	穎
 頴	ying3	同=潁	None	潁
 頴	jiong3	同=㯋 足几	None	㯋
-𩒲	None	录入中	None	None
-𩒵	None	录入中	None	None
-穎	None	录入中	None	None
-颖	None	录入中	None	None
-𩒶	None	录入中	None	None
-𩓅	None	录入中	None	None
-頯	None	录入中	None	None
-𩒯	None	录入中	None	None
-𩓗	None	录入中	None	None
-䫄	None	录入中	None	None
-𩓝	None	录入中	None	None
-𩓂	None	录入中	None	None
-䫅	None	录入中	None	None
-𩓘	None	录入中	None	None
-頵	None	录入中	None	None
-𫖳	None	录入中	None	None
-𩒼	None	录入中	None	None
-𩓀	None	录入中	None	None
-𩓨	None	录入中	None	None
-𩔛	None	录入中	None	None
-𥊾	None	录入中	None	None
-𩓩	None	录入中	None	None
-䫏	None	录入中	None	None
-䫐	None	录入中	None	None
-𩓡	None	录入中	None	None
-顂	None	录入中	None	None
+𩒲	None	同=頢	None	頢
+𩒵	qing3	同=頃 地积单位 百亩为顷	None	頃
+穎	ying3	古代指禾穗的末端，借指穗 今植物学上指禾本科植物小穗基部的二枚苞片	None	None
+穎	ying3	草木的嫩芽	None	None
+穎	ying3	物体的尖端	None	None
+穎	ying3	毫毛的尖端	None	None
+穎	ying3	指笔头	None	None
+穎	ying3	才能出众	None	None
+穎	ying3	刀环	None	None
+穎	ying3	一种容易使人惊醒的圆形枕头	None	None
+穎	ying3	姓	None	None
+颖	None	=穎的简化字	None	穎
+𩒶	None	=頯的讹字	None	頯
+𩓅	hong3	同=谾	None	谾
+頯	kui2	颧骨；面颧	None	None
+頯	kui2	敦厚质朴貌	None	None
+頯	kui2	（额）高露发美之貌	None	None
+頯	kui2	小头	None	None
+頯	kui2	蠃属 形状中央广两头尖	None	None
+⿰𢌳页	None	=頯的类推简化字	None	頯
+𩒯	None	同=𩓒	None	𩓒
+𩓗	kui3	古代用以束发固冠的发饰 ……当为=頍的异体	None	頍
+䫄	chua4	[䫄頢]1.强可貌 2.小头 3.面短	None	None
+𩓝	bie2	[𩓝䫔]短貌	None	None
+𩓂	ti1	[𩓨𩓂]头不正	None	None
+䫅	san4	[顉䫅]摇头貌 也单用作“䫅”	None	None
+𩓘	None	同=額	None	額
+頵	yun1	人名	None	None
+頵	yun1	头大貌	None	None
+𫖳	None	=頵的类推简化字	None	頵
+𩒼	hong1	[𩒼𩒼]头闷貌	None	None
+𩓀	None	同=𩈥 面丑	None	𩈥
+𩓨	jing1	[𩓨䫢]1.头不正 也作“䫢𩓨” 2.好貌	None	None
+𩔛	None	同=𩔣	None	𩔣
+𥊾	xiang3	邪视	None	None
+𩓩	None	同=𢄓	None	𢄓
+䫏	qi1	丑 古代驱疫鬼时扮神的人所戴的面具“䫏頭” 也单用作“䫏”	None	None
+𬱦	None	=䫏的类推简化字	None	䫏
+䫐	lin2	[䫐䫈]俯首	None	None
+𩓡	None	同=𩓸(𩓠)	None	𩓸
+顂	lai4	同=賴 承蒙；依靠	None	賴
+顂	lai4	郑地名	None	None
+顂	lai2	[顂𩪂]头长貌	None	None
 𩓠	None	录入中	None	None
 𩓸	None	录入中	None	None
 䫑	None	录入中	None	None
