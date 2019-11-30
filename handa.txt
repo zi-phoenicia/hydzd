@@ -83292,34 +83292,46 @@
 䫫	lou2	同=髏	None	髏
 䫫	lou2	用同=鏤 刻	None	鏤
 𩕃	None	同=顯	None	顯
-𩕄	None	录入中	None	None
-𩔹	None	录入中	None	None
-𩔻	None	录入中	None	None
-𩕓	None	录入中	None	None
-𩔼	None	录入中	None	None
-𩔶	None	录入中	None	None
-𩕅	None	录入中	None	None
-𩔴	None	录入中	None	None
-𩕆	None	录入中	None	None
-顡	None	录入中	None	None
-𩔽	None	录入中	None	None
-𩕇	None	录入中	None	None
-𥜛	None	录入中	None	None
-顟	None	录入中	None	None
-䫩	None	录入中	None	None
-𩕗	None	录入中	None	None
-顤	None	录入中	None	None
-𩕌	None	录入中	None	None
-𩕒	None	录入中	None	None
-顨	None	录入中	None	None
-䫱	None	录入中	None	None
-𩕑	None	录入中	None	None
-𩕐	None	录入中	None	None
-䫬	None	录入中	None	None
-𩕢	None	录入中	None	None
-顥	None	录入中	None	None
-颢	None	录入中	None	None
-䫭	None	录入中	None	None
+𩕄	None	同=䪿(囟)	None	䪿
+𩔹	ban1	须发半白	None	None
+𩔻	pou2	短须	None	None
+𩔻	pou2	头发白	None	None
+𩔻	pou2	同=䯽 发貌 也指美发	None	䯽
+𩕓	None	同=預	None	預
+𩔼	xu4	禄	None	None
+𩔶	ma2	[𩔶䫗]难语，拗口词	None	None
+𩕅	None	同=𩔟	None	𩔟
+𩔴	xu4	[𩔴顱]也作“=頊顱” 髑髅	None	頊
+𩕆	hong3	肥貌	None	None
+顡	yi4	[癡顡]痴呆，不聪明	None	None
+顡	zhuai4	击头声	None	None
+顡	zhuai4	颜恶	None	None
+𩔽	None	同=𩕲	None	𩕲
+𩕇	None	=𩔣的讹字	None	𩔣
+𥜛	None	同=禷	None	禷
+顟	liao2	大首高鼻深目貌	None	None
+䫩	san3	[顉䫩]摇头；摇头貌 也单用作“䫩”	None	None
+𩕗	None	同=䫬	None	䫬
+顤	yao2	头高长貌	None	None
+顤	qiao4	抬头	None	None
+𩕌	sen3	[䫖𩕌]懦弱貌	None	None
+𩕒	None	同=䫶	None	䫶
+顨	xun4	八卦之一 后作=巽	None	巽
+䫱	None	同=顬	None	顬
+𩕑	None	=顡的讹字	None	顡
+𩕐	liao4	[𩕐顤]也作“=顟顤” 头长貌	None	顟
+䫬	zhen3	头形尖长	None	None
+䫬	zhen3	低头貌	None	None
+䫬	qin3	懦劣	None	None
+𩕢	None	同=頂	None	頂
+顥	hao3	白头貌 因指白头人 引申为白色	None	None
+顥	hao3	大，盛	None	None
+顥	hao3	天边气	None	None
+顥	hao3	通=昊 本指西天，泛指天空	None	昊
+顥	hao3	姓	None	None
+颢	None	=顥的简化字	None	顥
+䫭	hui4	无发貌	None	None
+䫭	hui4	[䫭䫭]头貌	None	None
 顦	None	录入中	None	None
 𩕍	None	录入中	None	None
 𩕏	None	录入中	None	None
