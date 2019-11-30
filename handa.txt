@@ -82997,7 +82997,7 @@
 䫑	qi1	同=䫏	None	䫏
 𩓹	None	[𩓹骨]骨名	None	None
 䫍	None	=頫的讹字	None	頫
-𩓯	None	=𩔤的讹字	None	𩔤
+𩓯	None	=𩕨的讹字	None	𩕨
 顆	ke3	小头	None	None
 顆	ke3	土块	None	None
 顆	ke1	小而圆的形状	None	None
@@ -83155,37 +83155,77 @@
 𩔗	None	同=類	None	類
 𩔕	qiu2	@	None	None
 𩔀	wai4	[𩔀𩔀]痴呆	None	None
-額	None	录入中	None	None
-额	None	录入中	None	None
-顐	None	录入中	None	None
-䫗	None	录入中	None	None
-𩔉	None	录入中	None	None
-𩔘	None	录入中	None	None
-𩔆	None	录入中	None	None
-𩔂	None	录入中	None	None
-𩔮	None	录入中	None	None
-䫨	None	录入中	None	None
-𩕀	None	录入中	None	None
-𩔥	None	录入中	None	None
-顜	None	录入中	None	None
-䫦	None	录入中	None	None
-颞	None	录入中	None	None
-颟	None	录入中	None	None
-𩔷	None	录入中	None	None
-顛	None	录入中	None	None
-颠	None	录入中	None	None
-𩔩	None	录入中	None	None
-願	None	录入中	None	None
-𩔟	None	录入中	None	None
-𩔯	None	录入中	None	None
-𩔤	None	录入中	None	None
-𩔠	None	录入中	None	None
-𩔰	None	录入中	None	None
-䫟	None	录入中	None	None
-顗	None	录入中	None	None
-𩔨	None	录入中	None	None
-𩔙	None	录入中	None	None
-顖	None	录入中	None	None
+額	e2	额头，眉上发下部分	None	None
+額	e2	物体上首接近顶端的部分 如：碑额；帘额	None	None
+額	e2	匾额	None	None
+額	e2	规定的数目 如：名额；超额	None	None
+額	e2	呵斥	None	None
+额	None	=額的简化字	None	額
+顐	wen4	[𩔂顐]秃 也单用作“顐”	None	None
+顐	hun2	[𩒱顐]秃子=	None	None
+顐	hun4	同=諢	None	諢
+䫗	xia2	[䫛䫗]见“䫛”	None	None
+䫗	xia2	[𩔶䫗]见“𩔶”	None	None
+𩔉	men2	同=䫒	None	䫒
+𩔉	min2	同=䪸 彊头	None	䪸
+𩔉	hun1	同=㱪(殙) 1.昏乱；神志不清 2.未立名而死	None	㱪
+𩔘	ang2	@	None	None
+𩔆	gui4	大口	None	None
+𩔆	gui4	头	None	None
+𩔂	dun4	[𩔂顐]秃	None	None
+𩔮	ban1	@	None	None
+䫨	None	同=𩕀	None	𩕀
+𩕀	ao4	[𩕀顤]也作“=䫨顤” 头高	None	䫨
+𩔥	qing3	同=頃 地积单位，百亩为顷	None	頃
+顜	jiang3	明晰	None	None
+顜	jiang3	和协	None	None
+顜	jiang3	直，明	None	None
+⿰冓页	None	=顜的类推简化字	None	顜
+䫦	ge2	[䫦車]牙床骨 也单用作“䫦”	None	None
+䫦	kai4	头骨	None	None
+颞	None	=顳的简化字	None	顳
+颟	None	=顢的简化字	None	顢
+𩔷	mo4	[𩔷䫗]也作“=𩔶䫗” 难语，抝口词	None	𩔶
+顛	dian1	头顶	None	None
+顛	dian1	泛指物体顶部	None	None
+顛	dian1	本，始	None	None
+顛	dian1	下	None	None
+顛	dian1	坠落；殒落	None	None
+顛	dian1	通=蹎 倒仆	None	蹎
+顛	dian1	颠倒；倒置	None	None
+顛	dian1	颠簸	None	None
+顛	dian1	通=瘨(癲) 疯，狂	None	瘨
+顛	dian1	古县名 指滇池县，西汉置 治所在今云南省晋宁县东 两汉为益州郡治所 后作=滇	None	滇
+顛	dian1	姓	None	None
+顛	tian2	[顛顛]忧思貌 也单用作“顛”	None	None
+顛	tian2	通=闐 充满	None	闐
+顛	tian4	同=瑱 古代冠冕的玉饰，自两侧垂于耳旁，用来塞耳，故又名“充耳”	None	瑱
+颠	None	=顛的简化字	None	顛
+𩔩	None	=𩓠的讹字	None	𩓠
+願	yuan4	大头	None	None
+願	yuan4	愿望；心愿	None	None
+願	yuan4	愿意；情愿 如：心甘情愿	None	None
+願	yuan4	希望	None	None
+願	yuan4	倾慕	None	None
+願	yuan4	思念	None	None
+願	yuan4	祈祷神佛所许下的酬谢	None	None
+願	yuan4	每，虽	None	None
+願	yuan3	脸短貌	None	None
+𩔟	qin3	[𩔟𩖄]也作“=𩒣𩖄” 丑貌	None	𩒣
+𩔯	None	同=頬	None	頬
+𩔤	None	=𩕨的讹字	None	𩕨
+𩔠	mie4	𩔠颉	None	None
+𩔰	None	同=顯	None	顯
+䫟	hun4	面色忧急发黄貌	None	None
+䫟	hun4	头脸俱圆形	None	None
+顗	yi3	恭谨庄重貌	None	None
+顗	yi3	安静	None	None
+顗	yi3	悠闲；安乐	None	None
+顗	yi3	好貌	None	None
+𩔨	None	=顖的讹字	None	顖
+𩔙	pi3	同=𩔅(䫌)	None	𩔅
+𩔙	xin4	同=顖(囟)	None	顖
+顖	None	同=囟	None	囟
 䫢	None	录入中	None	None
 䫠	None	录入中	None	None
 䫣	None	录入中	None	None
