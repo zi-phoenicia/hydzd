@@ -83332,37 +83332,67 @@
 颢	None	=顥的简化字	None	顥
 䫭	hui4	无发貌	None	None
 䫭	hui4	[䫭䫭]头貌	None	None
-顦	None	录入中	None	None
-𩕍	None	录入中	None	None
-𩕏	None	录入中	None	None
-𩕖	None	录入中	None	None
-𩕉	None	录入中	None	None
-𩕝	None	录入中	None	None
-䫯	None	录入中	None	None
-𩕊	None	录入中	None	None
-𩕔	None	录入中	None	None
-䫰	None	录入中	None	None
-纇	None	录入中	None	None
-𩕋	None	录入中	None	None
-顧	None	录入中	None	None
-䫮	None	录入中	None	None
-𩕞	None	录入中	None	None
-𩕭	None	录入中	None	None
-顭	None	录入中	None	None
-𩕹	None	录入中	None	None
-𩕱	None	录入中	None	None
-䫴	None	录入中	None	None
-𩖗	None	录入中	None	None
-𩕡	None	录入中	None	None
-𩕦	None	录入中	None	None
-𩕠	None	录入中	None	None
-䫲	None	录入中	None	None
-𩕧	None	录入中	None	None
-𩕨	None	录入中	None	None
-顪	None	录入中	None	None
-𩕟	None	录入中	None	None
-𩕪	None	录入中	None	None
-䫳	None	录入中	None	None
+顦	qiao2	[顦顇]也作“=憔悴” 1.瘦 2.忧愁；困苦	None	憔
+⿰焦页	None	=顦的类推简化字	None	顦
+𩕍	gao3	广大貌	None	None
+𩕍	hao2	[𩕯𩕍]大面 也单用作“𩕍”	None	None
+𩕏	po2	同=皤 老人白头貌	None	皤
+𩕏	fan2	白喙	None	None
+𩕖	xuan1	头圆	None	None
+𩕖	xuan1	圆脸	None	None
+𩕉	hong3	肥貌	None	None
+𩕝	None	同=顔	None	顔
+䫯	None	同=𩕲	None	𩕲
+𩕊	zhan3	傲视别人	None	None
+𩕔	None	同=䫰	None	䫰
+䫰	lin4	[䪾䫰]见“䪾”	None	None
+䫰	lin4	同=僯 羞惭	None	僯
+纇	lei4	丝上的结	None	None
+纇	lei4	缺点；毛病 	None	None
+纇	lei4	疙瘩；颗粒	None	None
+纇	lei4	花苞	None	None
+纇	lei4	不平	None	None
+𩕋	None	同=𩕳	None	𩕳
+顧	gu4	回首；回视	None	None
+顧	gu4	反省	None	None
+顧	gu4	看 如：左顾右盼	None	None
+顧	gu4	探望，访问 如：光顾；枉顾	None	None
+顧	gu4	照顾；照应 如：顾此失彼	None	None
+顧	gu4	顾惜；眷念 如：奋不顾身	None	None
+顧	gu4	返回	None	None
+顧	gu4	等待	None	None
+顧	gu4	能以德行引以为善者	None	None
+顧	gu4	向	None	None
+顧	gu4	副词 1.表示相反，相当于“却”、“反而” 2.表示反问，相当于“岂”、“难道” 3.表示相承关系，相当于“乃”	None	None
+顧	gu4	连词 表示转折关系，相当于“但是”	None	None
+顧	gu4	发语词	None	None
+顧	gu4	通=雇 雇赁；报酬	None	雇
+顧	gu4	夏国名，后为商所灭，春秋时为齐地 在今山东省甄城县东北	None	None
+顧	gu4	古邑名 战国时中山国都，故址在今河北省定州市境 也作=鼓	None	鼓
+顧	gu4	姓	None	None
+䫮	chan2	[𩔵䫮]见“𩔵”	None	None
+䫮	chan2	取	None	None
+䫮	chan2	住	None	None
+𩕞	None	同=䫩	None	䫩
+𩕭	None	同=䫦	None	䫦
+顭	meng2	同=儚(懜) 昏昧	None	儚
+𩕹	cang1	@	None	None
+𩕱	meng4	[𩕱𩒓]头昏	None	None
+䫴	jin4	[䫴齘]1.闭口切齿 2.切齿怒貌 也单用作“䫴”	None	None
+𩖗	None	=䫴的类推简化字	None	䫴
+𩕡	se4	颊	None	None
+𩕦	None	同=𩖀	None	𩖀
+𩕠	han4	烤火	None	None
+䫲	han4	[顑䫲]也作“顑=頷” 食不饱而面黄肌瘦 也单用作“䫲”	None	頷
+䫲	han4	[𩖋䫲]头面不平	None	None
+䫲	kan3	头动	None	None
+𩕧	None	=顨的讹字	None	顨
+𩕨	None	同=瀕	None	瀕
+顪	hui4	颔下须	None	None
+顪	hui4	颊	None	None
+𩕟	e4	[𩨞𩕟]也作“𩨞=𩪛” 头动貌	None	𩪛
+𩕪	xuan1	@	None	None
+䫳	None	同=髑	None	髑
 𩕎	None	录入中	None	None
 顩	None	录入中	None	None
 顫	None	录入中	None	None
