@@ -83076,41 +83076,85 @@
 顑	kan3	同=䫲 头动	None	䫲
 顑	kan3	骨名	None	None
 顑	yan4	脸颊长；头狭长	None	None
-𩔊	None	录入中	None	None
-𩔁	None	录入中	None	None
-𩔒	None	录入中	None	None
-題	None	录入中	None	None
-题	None	录入中	None	None
-顒	None	录入中	None	None
-颙	None	录入中	None	None
-䫘	None	录入中	None	None
-顋	None	录入中	None	None
-顎	None	录入中	None	None
-顓	None	录入中	None	None
-颛	None	录入中	None	None
-顝	None	录入中	None	None
-䫜	None	录入中	None	None
-𩔓	None	录入中	None	None
-䫝	None	录入中	None	None
-𩔇	None	录入中	None	None
-䫥	None	录入中	None	None
-𩔔	None	录入中	None	None
-䫛	None	录入中	None	None
-𩔦	None	录入中	None	None
-𩔅	None	录入中	None	None
-頾	None	录入中	None	None
-頿	None	录入中	None	None
-𩔃	None	录入中	None	None
-𩔋	None	录入中	None	None
-𩔌	None	录入中	None	None
-顔	None	录入中	None	None
-颜	None	录入中	None	None
-䫕	None	录入中	None	None
-𩔖	None	录入中	None	None
-𩔢	None	录入中	None	None
-𩔗	None	录入中	None	None
-𩔕	None	录入中	None	None
-𩔀	None	录入中	None	None
+⿰咸页	None	=顑的类推简化字	None	顑
+𩔊	zhuan4	皆，都	None	None
+𩔊	zhuan4	见	None	None
+𩔁	hui4	脸肥胖	None	None
+𩔁	hui4	同=頮 洗脸	None	頮
+𩔒	None	同=顡	None	顡
+題	ti2	额头	None	None
+題	ti2	物体的一端	None	None
+題	ti2	书签；标签	None	None
+題	ti2	题目 如：命题；文不对题	None	None
+題	ti2	标志	None	None
+題	ti2	写上，签署 如：题诗；题字	None	None
+題	ti2	品评；评论	None	None
+題	ti2	奏章	None	None
+題	ti2	说起 后用作=提	None	提
+題	ti2	鸣；叫 用同=啼	None	啼
+題	di4	看；视	None	None
+題	di4	小盆 也作=㼵	None	㼵
+题	None	=題的简化字	None	題
+顒	yong2	大头 引申为大	None	None
+顒	yong2	严肃端正貌	None	None
+顒	yong2	景仰，盼望	None	None
+顒	yong2	姓	None	None
+顒	yu2	鸟名 也作=𪃍	None	𪃍
+颙	None	=顒的简化字	None	顒
+䫘	he2	[𩑷䫘]也单用作“䫘” 见“𩑷”	None	None
+䫘	jie2	[䫛䫘]急迫发言	None	None
+䫘	ke3	鬓发脱落貌 也作 =鬝	None	鬝
+顋	None	同=腮	None	腮
+⿰思页	None	=顋的类推简化字	None	顋
+顎	e4	面高貌	None	None
+顎	e4	恭敬严肃	None	None
+顎	e4	牙帮助，牙床	None	None
+顎	e4	某些节肢动物摄取食物的器官	None	None
+顓	zhuan1	拘谨；老实	None	None
+顓	zhuan1	善良	None	None
+顓	zhuan1	通=專 专擅	None	專
+顓	zhuan1	姓	None	None
+颛	None	=顓的简化字	None	顓
+顝	ku1	大头；头骨大	None	None
+顝	ku1	丑	None	None
+顝	ku1	独处貌	None	None
+顝	ku1	相抵触	None	None
+顝	kua3	髁貌	None	None
+⿰骨页	None	=顝的类推简化字	None	顝
+䫜	ao1	深目貌	None	None
+䫜	ao1	头凹	None	None
+𬱮	None	=䫜的类推简化字	None	䫜
+𩔓	None	=顄的讹字	None	顄
+䫝	None	同=馥	None	馥
+𩔇	gao3	同=𩕍	None	𩕍
+䫥	kui3	头不正	None	None
+䫥	kui3	大头	None	None
+𩔔	yong2	@	None	None
+䫛	hou2	[䫛䫗]1.言不正 2.言语无度	None	None
+𩔦	yi2	颔	None	None
+𩔦	yi2	养	None	None
+𩔅	None	同=䫌	None	䫌
+頾	None	同=頿(髭)	None	頿
+頿	zi1	上唇的胡须 后作=髭	None	髭
+𩔃	yuan3	头脸歪斜	None	None
+𩔋	None	同=頏	None	頏
+𩔌	None	同=𩓭(䫠)	None	𩓭
+顔	yan2	两眉之间，俗称印堂	None	None
+顔	yan2	额头 即发际以下，眉以上，两额角间的部分	None	None
+顔	yan2	脸色	None	None
+顔	yan2	色彩	None	None
+顔	yan2	指堂上或门上的匾额	None	None
+顔	yan2	显著	None	None
+顔	yan2	前 “顔行”即前行	None	None
+顔	yan2	姓	None	None
+顔	ya2	用同=崖 山边	None	崖
+颜	None	=顔的简化字	None	顔
+䫕	die2	[䫕𩔄]小头貌	None	None
+𩔖	None	同=類	None	類
+𩔢	mi2	[𩔢頤]头垂貌	None	None
+𩔗	None	同=類	None	類
+𩔕	qiu2	@	None	None
+𩔀	wai4	[𩔀𩔀]痴呆	None	None
 額	None	录入中	None	None
 额	None	录入中	None	None
 顐	None	录入中	None	None
