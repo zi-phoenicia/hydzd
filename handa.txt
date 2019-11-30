@@ -83393,46 +83393,74 @@
 𩕟	e4	[𩨞𩕟]也作“𩨞=𩪛” 头动貌	None	𩪛
 𩕪	xuan1	@	None	None
 䫳	None	同=髑	None	髑
-𩕎	None	录入中	None	None
-顩	None	录入中	None	None
-顫	None	录入中	None	None
-颤	None	录入中	None	None
-𩕤	None	录入中	None	None
-𩕣	None	录入中	None	None
-𩕯	None	录入中	None	None
-𩕸	None	录入中	None	None
-𩖀	None	录入中	None	None
-𩕮	None	录入中	None	None
-顬	None	录入中	None	None
-颥	None	录入中	None	None
-顯	None	录入中	None	None
-𩕬	None	录入中	None	None
-𩕰	None	录入中	None	None
-𩕴	None	录入中	None	None
-𩕺	None	录入中	None	None
-𩕲	None	录入中	None	None
-𩕻	None	录入中	None	None
-𩕶	None	录入中	None	None
-𩕼	None	录入中	None	None
-顮	None	录入中	None	None
-𩕽	None	录入中	None	None
-𩕳	None	录入中	None	None
-𩕵	None	录入中	None	None
-𩕫	None	录入中	None	None
-䫶	None	录入中	None	None
-𩖄	None	录入中	None	None
-𩕿	None	录入中	None	None
-顰	None	录入中	None	None
-颦	None	录入中	None	None
-𩖁	None	录入中	None	None
-𩕾	None	录入中	None	None
-䫵	None	录入中	None	None
-𩖉	None	录入中	None	None
-䫷	None	录入中	None	None
-顱	None	录入中	None	None
-𩖇	None	录入中	None	None
-𩖆	None	录入中	None	None
-顲	None	录入中	None	None
+𩕎	None	同=履	None	履
+顩	yan3	牙齿暴露不齐，俗称暴牙齿	None	None
+顩	qin4	下巴向上翘起	None	None
+顩	qin4	狭面锐颐貌	None	None
+顩	han4	[䪴顩]见“䪴”	None	None
+顩	qian3	[顩𩖄]也作“=𩑳𩖄” 面不平	None	𩑳
+顫	chan4	头摇动不定	None	None
+顫	chan4	身体颤动	None	None
+顫	chan4	通=憚(dan4) 惧怕；惊恐	None	憚
+顫	zhan4	发抖 如：打颤；颤栗	None	None
+顫	shan1	鼻通能辨气味	None	None
+颤	None	=顫的简化字	None	顫
+𩕤	dan4	[𩕤䯥]头貌	None	None
+𩕣	None	同=䫨(贅)	None	䫨
+𩕯	dao1	[𩕯𩕍]大面貌	None	None
+𩕸	None	同=𩕊	None	𩕊
+𩖀	e4	同=顎 恭敬严肃	None	顎
+𩕮	None	同=願	None	願
+顬	ru2	[顳顬]见“顳”	None	None
+颥	None	=顬的简化字	None	顬
+顯	xian3	头明饰	None	None
+顯	xian3	光明；明显	None	None
+顯	xian3	公开；显露 如：大显身手	None	None
+顯	xian3	显扬；显著	None	None
+顯	xian3	高贵，显赫	None	None
+顯	xian3	见	None	None
+顯	xian3	表面，外面	None	None
+顯	xian3	旧时对先人的美称	None	None
+顯	xian3	代	None	None
+顯	xian3	姓	None	None
+顯	xian4	人名	None	None
+𩕬	e4	同=頞 鼻梁	None	頞
+⿰⿳自穴口頁	None	同=𩕰	None	𩕰
+𩕰	None	同=䫵	None	䫵
+𩕴	None	同=顲	None	顲
+𩕺	None	同=顡	None	顡
+𩕲	yi1	睇盻貌	None	None
+𩕲	yi1	美容貌	None	None
+𩕻	None	同=䪸	None	䪸
+𩕶	None	同=𩕼	None	𩕼
+𩕼	None	同=𩕔(䫰)	None	𩕔
+顮	bin1	愤懑	None	None
+顮	bin1	头骨	None	None
+𩕽	None	同=顮	None	顮
+𩕳	ning3	[頂𩕳]头顶 也单用作“𩕳”	None	None
+𩕵	None	同=𧭹	None	𧭹
+𩕫	None	同=顭	None	顭
+䫶	fan2	大丑貌	None	None
+𩖄	yin3	[𩒣𩖄]见“𩒣”	None	None
+𩕿	None	=𩖄的讹字	None	𩖄
+顰	pin2	皱眉	None	None
+颦	None	=顰的简化字	None	顰
+𩖁	nie4	同=嚙(齧) 咬	None	嚙
+𩖁	ya2	[𩖁𪚇]1.龃龉 2.物品残缺不齐貌	None	None
+𩕾	yuan4	头顶	None	None
+𩕾	yuan4	愿意 后作=願	None	願
+䫵	mian2	双	None	None
+䫵	mian2	双生	None	None
+䫵	mian2	美	None	None
+𩖉	hong1	同=𠐿 昏迷	None	𠐿
+䫷	None	同=顎	None	顎
+顱	lu2	[𩑒顱]头骨 也单用作“顱”	None	None
+顱	lu2	头	None	None
+顱	lu2	额头	None	None
+𩖇	qiao1	面不平	None	None
+𩖆	None	同=顩	None	顩
+顲	lan3	[䫲顲]面黄肌瘦貌 也单用作“顲”	None	None
+顲	lin3	改变脸色	None	None
 顴	None	录入中	None	None
 颧	None	录入中	None	None
 𩖊	None	录入中	None	None
