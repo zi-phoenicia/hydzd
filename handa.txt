@@ -82990,25 +82990,37 @@
 顂	lai4	同=賴 承蒙；依靠	None	賴
 顂	lai4	郑地名	None	None
 顂	lai2	[顂𩪂]头长貌	None	None
-𩓠	None	录入中	None	None
-𩓸	None	录入中	None	None
-䫑	None	录入中	None	None
-𩓹	None	录入中	None	None
-䫍	None	录入中	None	None
-𩓯	None	录入中	None	None
-顆	None	录入中	None	None
-颗	None	录入中	None	None
-𩓢	None	录入中	None	None
-𩓺	None	录入中	None	None
-𩓤	None	录入中	None	None
-𩓻	None	录入中	None	None
-𩓼	None	录入中	None	None
-𩓽	None	录入中	None	None
-䫚	None	录入中	None	None
-䫋	None	录入中	None	None
-𩓥	None	录入中	None	None
-顀	None	录入中	None	None
-䫌	None	录入中	None	None
+𩓠	gui1	小头貌	None	None
+𩓠	gui1	同=規 1.画圆的工具 2.圆形 3.画圆	None	規
+𩓸	None	同=𩓠	None	𩓠
+䫑	yi1	好	None	None
+䫑	qi1	同=䫏	None	䫏
+𩓹	None	[𩓹骨]骨名	None	None
+䫍	None	=頫的讹字	None	頫
+𩓯	None	=𩔤的讹字	None	𩔤
+顆	ke3	小头	None	None
+顆	ke3	土块	None	None
+顆	ke1	小而圆的形状	None	None
+顆	ke1	量词 1.用于粒状或圆形的物体，相当于“粒”、“枚” 2.用于树，相当于“株”、“棵” 3.用于饼状物，相当于“塊”	None	None
+顆	kuan3	[顆凍]草药名 也名“=款冬”	None	款
+颗	None	=顆的简化字	None	顆
+𩓢	gao3	头	None	None
+𩓺	jiong3	火光 ……按：……疑为=熲的讹字	None	熲
+𩓤	an4	额	None	None
+𩓻	jue2	@	None	None
+𩓼	pie1	@	None	None
+𩓽	kun1	无发	None	None
+𩓽	kun1	耳门	None	None
+䫚	gua1	头短	None	None
+䫋	wei1	女随人	None	None
+䫋	tui2	同=隤 坠下	None	隤
+𩓥	yue4	[𩓥𩓥]也作“=岳岳” 旧时看相的术语	None	岳
+𩓥	yue4	鼻高	None	None
+顀	chui2	额头突出	None	None
+顀	chui2	枕骨	None	None
+顀	chui2	脊椎骨 后作=椎	None	椎
+⿰隹页	None	=顀的类推简化字	None	顀
+䫌	pi3	头倾斜	None	None
 顊	None	录入中	None	None
 𩓭	None	录入中	None	None
 𩓾	None	录入中	None	None
