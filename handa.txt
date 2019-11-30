@@ -82861,13 +82861,32 @@
 𩒺	fu4	同=輔 面颊	None	輔
 ⿰甫页	None	=𩒺的类推简化字	None	𩒺
 頼	None	同=賴	None	賴
-𩒾	None	录入中	None	None
-頭	None	录入中	None	None
-䫃	None	录入中	None	None
-䫊	None	录入中	None	None
-𩓑	None	录入中	None	None
-𩓒	None	录入中	None	None
-頰	None	录入中	None	None
+𩒾	wu2	大头	None	None
+頭	tou2	人体的最上部分或动物的最前部分	None	None
+頭	tou2	头部有发部分	None	None
+頭	tou2	为首的人 如：头领	None	None
+頭	tou2	磕头 旧时的一种跪拜礼	None	None
+頭	tou2	物的顶端或末梢 如：中间粗，两头儿细	None	None
+頭	tou2	物品的残余部分 如：布头儿；铅笔头儿	None	None
+頭	tou2	事情的始末	None	None
+頭	tou2	赌博或买卖中抽的回扣	None	None
+頭	tou2	方言 临到；接近 如：头吃饭要洗手；头五点就得动身	None	None
+頭	tou2	路，途径	None	None
+頭	tou2	方面	None	None
+頭	tou2	表示约数，兼表数目不大 如：十头八块	None	None
+頭	tou2	指每旬除了“十”、“二十”、“三十”外的日子	None	None
+頭	tou2	量词 1.用于人 2.用于牲畜禽鱼 3.用于筵席 4.用于其他食物 5.用于行为	None	None
+頭	tou5	后缀 1.用于名词或谓词之后 如：苗头；念头；甜头 2.用于表示方位的词之后	None	None
+䫃	chun2	同=脣	None	脣
+䫃	zhen4	头动；头动貌	None	None
+䫊	pei2	同=䪹	None	䪹
+𩓑	None	=䫁的讹字	None	䫁
+𩓒	qin3	丑貌	None	None
+⿰㚓頁	None	同=顇	None	顇
+頰	jia2	脸的两侧从眼到下颌的部分	None	None
+頰	jia2	堂内正室旁边的房间	None	None
+頰	jia2	通=㥦 心意畅快	None	㥦
+頰	jia2	姓	None	None
 𩒿	None	录入中	None	None
 頸	None	录入中	None	None
 頻	None	录入中	None	None
