@@ -82831,22 +82831,36 @@
 𩒕	nie4	面丑	None	None
 𩒕	po4	同=𩔈 脸大而丑	None	𩔈
 𩒕	e4	同=顎 恭敬严肃	None	顎
-𩒭	None	录入中	None	None
-𩒪	None	录入中	None	None
-頞	None	录入中	None	None
-𩒔	None	录入中	None	None
-𩒫	None	录入中	None	None
-𩒜	None	录入中	None	None
-頨	None	录入中	None	None
-𩒴	None	录入中	None	None
-頳	None	录入中	None	None
-頤	None	录入中	None	None
-颐	None	录入中	None	None
-𩒮	None	录入中	None	None
-𩓐	None	录入中	None	None
-𩒷	None	录入中	None	None
-𩒺	None	录入中	None	None
-頼	None	录入中	None	None
+𩒭	None	同=𡡓(嬃)	None	𡡓
+𩒪	zhen4	丑貌	None	None
+頞	e4	鼻梁	None	None
+頞	e4	同=額 额头	None	額
+頞	an4	人名	None	None
+⿰安页	None	=頞的类推简化字	None	頞
+𬱢	None	=顐的类推简化字	None	顐
+𩒔	nou1	[𩔸𩒔]见“𩔸”	None	None
+𩒫	None	同=頤	None	頤
+𩒜	None	同=躱	None	躱
+頨	yu3	头形美好	None	None
+頨	yu3	孔子头形	None	None
+頨	bian4	[頨𩒖]狡	None	None
+𩒴	hong3	头直貌	None	None
+𩒴	hong3	头昏	None	None
+頳	None	同=赬	None	赬
+頤	yi2	面颊；腮	None	None
+頤	yi2	牙床骨	None	None
+頤	yi2	保养	None	None
+頤	yi2	六十四卦之一，卦形x，震下艮上	None	None
+頤	yi2	语气词	None	None
+頤	yi2	姓	None	None
+颐	None	=頤的简化字	None	頤
+𩒮	qiu2	[𩒮𩒮]也作“=俅俅” 恭顺貌	None	俅
+𩓐	bo2	同=脖 脖子，颈项	None	脖
+𩒷	che1	牙床骨	None	None
+𩒷	rong3	同=軵	None	軵
+𩒺	fu4	同=輔 面颊	None	輔
+⿰甫页	None	=𩒺的类推简化字	None	𩒺
+頼	None	同=賴	None	賴
 𩒾	None	录入中	None	None
 頭	None	录入中	None	None
 䫃	None	录入中	None	None
