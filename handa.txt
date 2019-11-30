@@ -83021,34 +83021,61 @@
 顀	chui2	脊椎骨 后作=椎	None	椎
 ⿰隹页	None	=顀的类推简化字	None	顀
 䫌	pi3	头倾斜	None	None
-顊	None	录入中	None	None
-𩓭	None	录入中	None	None
-𩓾	None	录入中	None	None
-𩓿	None	录入中	None	None
-𩓣	None	录入中	None	None
-顉	None	录入中	None	None
-䫒	None	录入中	None	None
-𩓟	None	录入中	None	None
-𩓬	None	录入中	None	None
-顈	None	录入中	None	None
-顇	None	录入中	None	None
-䫓	None	录入中	None	None
-𩓫	None	录入中	None	None
-𩓮	None	录入中	None	None
-顃	None	录入中	None	None
-顁	None	录入中	None	None
-𩓧	None	录入中	None	None
-顅	None	录入中	None	None
-𩓪	None	录入中	None	None
-𩓦	None	录入中	None	None
-顄	None	录入中	None	None
-䫎	None	录入中	None	None
-䫔	None	录入中	None	None
-𩔄	None	录入中	None	None
-䫖	None	录入中	None	None
-𩔈	None	录入中	None	None
-𩔑	None	录入中	None	None
-顑	None	录入中	None	None
+⿰卑页	None	=䫌的类推简化字	None	䫌
+顊	None	同=頤	None	頤
+𬱪	None	=顊的类推简化字	None	顊
+𩓭	None	同=䫠	None	䫠
+𩓾	None	同=髯	None	髯
+𩓿	None	同=𩓾	None	𩓾
+𩓣	xu1	等待	None	None
+顉	qin1	点头；摇头	None	None
+顉	qin1	下巴上曲貌 也作=顩	None	顩
+䫒	men2	病名 昏迷无知貌	None	None
+𩓟	kan3	䫡𩓟	None	None
+𩓟	kan3	脸凹	None	None
+𩓬	tui2	额头突出貌	None	None
+𩓬	tui2	骨节的隆起部分	None	None
+顈	jiong3	一种似苧麻的草	None	None
+顈	jiong3	通=褧 单衣	None	褧
+顈	xian4	缀	None	None
+顇	cui4	憔悴；瘦弱	None	None
+顇	cui4	病	None	None
+顇	cui4	困苦	None	None
+顇	cui4	忧愁	None	None
+顇	cui4	纯	None	None
+顇	zu2	[𩓦顇]见“𩓦”	None	None
+⿰卒页	None	=顇的类推简化字	None	顇
+䫓	None	=𩒾的讹字	None	𩒾
+𩓫	quan2	同=觠 弯曲的兽角	None	觠
+𩓮	None	⿰㚓頁的讹字 *=顇	None	顇
+顃	tan2	脸长	None	None
+顃	shan3	闪电	None	None
+顁	ding4	额 也作=定	None	定
+顁	ding3	同=頂 头顶	None	頂
+𬱫	None	=顁的类推简化字	None	顁
+𩓧	yi2	眉目	None	None
+顅	qian1	同=鬜 鬓发脱落貌	None	鬜
+顅	qian1	长项貌	None	None
+𩓪	lu4	项	None	None
+𩓦	wu4	[𩓦顇]脸短貌	None	None
+顄	han4	下巴	None	None
+⿰函页	None	=顄的类推简化字	None	顄
+䫎	zhuo1	短貌；头短	None	None
+䫔	qi4	伺人	None	None
+䫔	qi4	恐	None	None
+䫔	qie4	[𩓝䫔]见“𩓝”	None	None
+䫔	ya4	怒貌	None	None
+䫔	kui2	小头	None	None
+𩔄	jie2	[䫕𩔄]小头貌 也单用作“𩔄”	None	None
+䫖	chen3	[䫖䫴]懦劣貌 也单用作“䫖”	None	None
+䫖	shen4	[䫖䫖]1.头貌 2.弱	None	None
+𩔈	po4	[欺𩔈]面丑	None	None
+𩔈	po4	脸大貌	None	None
+𩔑	None	[𩔑嶺]山岭名，在江西省龙南县南	None	None
+顑	kan3	[顑頷]食不饱而面黄肌瘦 也单用作“顑”	None	None
+顑	kan3	同=䫲 头动	None	䫲
+顑	kan3	骨名	None	None
+顑	yan4	脸颊长；头狭长	None	None
 𩔊	None	录入中	None	None
 𩔁	None	录入中	None	None
 𩔒	None	录入中	None	None
