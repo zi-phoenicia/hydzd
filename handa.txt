@@ -82887,37 +82887,66 @@
 頰	jia2	堂内正室旁边的房间	None	None
 頰	jia2	通=㥦 心意畅快	None	㥦
 頰	jia2	姓	None	None
-𩒿	None	录入中	None	None
-頸	None	录入中	None	None
-頻	None	录入中	None	None
-频	None	录入中	None	None
-𩓓	None	录入中	None	None
-𩒳	None	录入中	None	None
-𩒱	None	录入中	None	None
-𩒻	None	录入中	None	None
-䫈	None	录入中	None	None
-𩓆	None	录入中	None	None
-頮	None	录入中	None	None
-𩓔	None	录入中	None	None
-𩓕	None	录入中	None	None
-頶	None	录入中	None	None
-𩒰	None	录入中	None	None
-頽	None	录入中	None	None
-颓	None	录入中	None	None
-頺	None	录入中	None	None
-頥	None	录入中	None	None
-𩓃	None	录入中	None	None
-𩓄	None	录入中	None	None
-𫖠	None	录入中	None	None
-𩒹	None	录入中	None	None
-䫇	None	录入中	None	None
-𩒽	None	录入中	None	None
-頱	None	录入中	None	None
-𩓖	None	录入中	None	None
-䫉	None	录入中	None	None
-頷	None	录入中	None	None
-颔	None	录入中	None	None
-頴	None	录入中	None	None
+𩒿	mang2	头；头貌	None	None
+頸	jing3	颈项 人或动物头和躯干相连接的部分	None	None
+頸	jing3	脖子的前面部分	None	None
+頸	jing3	器物像颈或部位相当于颈的地位 如：瓶颈；颈联	None	None
+頸	jing3	星名	None	None
+頸	geng3	[脖頸子]也作“脖=梗子” 脖子的后部	None	梗
+頻	pin2	屡次；连续	None	None
+頻	pin2	危急；紧急	None	None
+頻	pin2	并列；接近；邻近	None	None
+頻	pin2	皱眉 后作=顰	None	顰
+頻	pin2	副词 表示频度，相当于“屡”、“连”	None	None
+頻	pin2	姓	None	None
+頻	bin1	同=瀕(濱) 水边	None	瀕
+频	None	=頻的简化字	None	頻
+𩓓	gen3	颊后 后作=䫀	None	䫀
+𩒳	hui4	洗脸 后作=沬	None	沬
+𩒱	None	同=𩓽	None	𩓽
+𩒻	yin2	[𩔝𩒻]见“𩔝”	None	None
+䫈	zhen3	丑貌	None	None
+䫈	cen2	[䫐䫈]见“䫐”	None	None
+𩓆	None	同=𩓥	None	𩓥
+頮	hui4	洗脸 后作=沬	None	沬
+𩓔	None	同=𩑦	None	𩑦
+𩓕	None	同=頛	None	頛
+頶	hu2	鼻高貌	None	None
+𩒰	e3	整齐	None	None
+𩒰	e3	倾斜 也作=俄	None	俄
+頽	tui2	秃；头秃	None	None
+頽	tui2	下坠 也作=隤	None	隤
+頽	tui2	崩塌	None	None
+頽	tui2	衰败；衰颓	None	None
+頽	tui2	恭顺；安详	None	None
+頽	tui2	暴风从上而下	None	None
+頽	tui2	倾斜	None	None
+頽	tui2	雄马生殖器	None	None
+頽	tui2	詈词 恶劣之义	None	None
+頽	tui2	颊下	None	None
+頽	tui2	姓	None	None
+颓	None	=頹的简化字	None	頹
+頺	None	同=頹	None	頹
+頥	None	同=頤	None	頤
+𩓃	None	同=賴	None	賴
+𩓄	None	同=䫠	None	䫠
+𫖠	None	同=䇓	None	䇓
+𩒹	None	同=䫇(髯)	None	䫇
+䫇	None	同=髯	None	髯
+𩒽	xi1	[𩒽𩑕]头动貌	None	None
+⿰佥页	None	=顩的类推简化字	None	顩
+頱	luo1	[頱頢]面丑	None	None
+𩓖	fu2	@	None	None
+䫉	None	同=貌	None	貌
+𬥈	None	=䫉的类推简化字	None	䫉
+頷	han4	[顑頷]食不饱而面黄饥瘦 也单用作“頷”	None	None
+頷	han4	下巴	None	None
+頷	han4	通=顉 点头	None	顉
+颔	None	=頷的简化字	None	頷
+頴	ying3	童=㯋	None	㯋
+頴	ying3	同=穎	None	穎
+頴	ying3	同=潁	None	潁
+頴	jiong3	同=㯋 足几	None	㯋
 𩒲	None	录入中	None	None
 𩒵	None	录入中	None	None
 穎	None	录入中	None	None
