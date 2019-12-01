@@ -87471,27 +87471,34 @@
 𩥡	None	同=驘(騾)	None	驘
 ⿰馬𢙣	None	同⿰馬惡	None	None
 𩥸	None	同=𩥇	None	𩥇
-騵	None	录入中	None	None
-𫘪	None	录入中	None	None
-䮱	None	录入中	None	None
-𩤾	None	录入中	None	None
-驆	None	录入中	None	None
-騴	None	录入中	None	None
-𫘫	None	录入中	None	None
-𩥑	None	录入中	None	None
-𩨌	None	录入中	None	None
-𩥉	None	录入中	None	None
-𩥘	None	录入中	None	None
-𩥀	None	录入中	None	None
-騬	None	录入中	None	None
-𩥗	None	录入中	None	None
-𩥧	None	录入中	None	None
-𩥐	None	录入中	None	None
-𩤽	None	录入中	None	None
-𩥨	None	录入中	None	None
-𩥽	None	录入中	None	None
-𩥣	None	录入中	None	None
-𩥅	None	录入中	None	None
+⿰馬𠳮	None	同=驕	None	驕
+騵	yuan2	赤毛白腹的马	None	None
+𫘪	None	=騵的类推简化字	None	騵
+䮱	zhu2	兽名	None	None
+䮱	zhu2	群马相追逐	None	None
+𩤾	None	同=馭	None	馭
+⿰馬⿱⿲仌丨仌㇆	None	同=䮔	None	䮔
+驆	bi4	同=蹕 帝王车驾	None	蹕
+騴	yan4	尾根白色的马	None	None
+𫘫	None	=騴的类推简化字	None	騴
+𩥑	ta4	[𩧆𩥑]见“𩧆”	None	None
+𩨌	None	=𩥑的类推简化字	None	𩥑
+𩥉	ji4	企望；仰慕	None	None
+𩥉	ji4	同=驥	None	驥
+𩥘	you2	[𩥘𩥘]也作“=峳峳” 兽名	None	峳
+𩥀	None	同=䮎	None	䮎
+騬	cheng2	马被割掉睾丸 也指已阉的马	None	None
+騬	cheng2	割掉牲畜的睾丸或卵巢	None	None
+⿰马乘	None	=騬的类推简化字	None	騬
+𩥗	None	同=䮔	None	䮔
+𩥧	None	同=騜	None	騜
+𩥐	shi1	野马	None	None
+𩤽	ti1	薄	None	None
+𩤽	ti1	骏马名	None	None
+𩥨	None	同=𩥗(䮔)	None	𩥗
+𩥽	tu2	@ ……按：疑为=駼的繁化俗字	None	駼
+𩥣	yao2	[𩧓𩥣]马名 也作“逍=遥”	None	遥
+𩥅	tao1	马缓行貌	None	None
 𩥓	None	录入中	None	None
 騱	None	录入中	None	None
 𫘬	None	录入中	None	None
