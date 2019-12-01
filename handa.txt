@@ -86980,16 +86980,25 @@
 𩣕	None	同=驅	None	驅
 𩣄	None	同=駁	None	駁
 𩣊	xu4	众马走貌	None	None
-䮋	None	录入中	None	None
-𩢾	None	录入中	None	None
-𩧮	None	录入中	None	None
-䮊	None	录入中	None	None
-骁	None	录入中	None	None
-駤	None	录入中	None	None
-𫘠	None	录入中	None	None
-𩢭	None	录入中	None	None
-𩢑	None	录入中	None	None
-駫	None	录入中	None	None
+⿰马戍	None	=𩣊的类推简化字	None	𩣊
+䮋	None	同=𩢾	None	𩢾
+𩢾	lie4	马依行列秩序奔驰	None	None
+𩢾	lie4	奔走	None	None
+𩢾	lie4	驯服	None	None
+𩢾	lie4	马名	None	None
+𩧮	None	=𩢾的类推简化字	None	𩢾
+⿰馬死	None	同=𩤃	None	𩤃
+䮊	yi2	马名	None	None
+骁	None	=驍的简化字	None	驍
+駤	zhi4	同=騺 马负重难行貌	None	騺
+駤	zhi4	蛮横无理	None	None
+駤	zhi4	马高大	None	None
+𫘠	None	=駤的类推简化字	None	駤
+⿰馬丠	None	同=驅	None	驅
+𩢭	None	同=𩢑	None	𩢑
+𩢑	ci3	马名	None	None
+⿰馬⿱⺊日	None	同=𩢷	None	𩢷
+駫	jiong1	[駫駫]也作“=駉駉” 马肥壮貌 也单用作“駫”	None	駉
 𫘡	None	录入中	None	None
 𩢶	None	录入中	None	None
 駧	None	录入中	None	None
