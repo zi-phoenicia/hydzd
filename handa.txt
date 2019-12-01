@@ -87325,57 +87325,81 @@
 𩤥	xian2	马性温和	None	None
 𩤴	None	同=駹 古代西南地区部族名，因又为古国名	None	駹
 𩤤	shua3	所言不当	None	None
-𩤠	None	录入中	None	None
-騠	None	录入中	None	None
-𫘨	None	录入中	None	None
-𩤟	None	录入中	None	None
-𩤛	None	录入中	None	None
-𩥈	None	录入中	None	None
-𩤵	None	录入中	None	None
-騔	None	录入中	None	None
-𩨀	None	录入中	None	None
-𩤶	None	录入中	None	None
-𩤸	None	录入中	None	None
-𩨅	None	录入中	None	None
-騦	None	录入中	None	None
-𩤚	None	录入中	None	None
-𩤧	None	录入中	None	None
-䮩	None	录入中	None	None
-䮢	None	录入中	None	None
-𩤹	None	录入中	None	None
-𩤪	None	录入中	None	None
-䮡	None	录入中	None	None
-𩤣	None	录入中	None	None
-騪	None	录入中	None	None
-騜	None	录入中	None	None
-𫘩	None	录入中	None	None
-騡	None	录入中	None	None
-騩	None	录入中	None	None
-𩥢	None	录入中	None	None
-𩤨	None	录入中	None	None
-𩤼	None	录入中	None	None
-騟	None	录入中	None	None
-𩨈	None	录入中	None	None
-𩤻	None	录入中	None	None
-騣	None	录入中	None	None
-𩥔	None	录入中	None	None
-騘	None	录入中	None	None
-𩤙	None	录入中	None	None
-𩨆	None	录入中	None	None
-𩤢	None	录入中	None	None
-𩥙	None	录入中	None	None
-𩨇	None	录入中	None	None
-騚	None	录入中	None	None
-𩨊	None	录入中	None	None
-𩤡	None	录入中	None	None
-𩤩	None	录入中	None	None
-䮟	None	录入中	None	None
-䮝	None	录入中	None	None
-騙	None	录入中	None	None
-骗	None	录入中	None	None
-騗	None	录入中	None	None
-𩤫	None	录入中	None	None
-騢	None	录入中	None	None
+𩤠	xie2	马性和善	None	None
+騠	ti2	[駃騠]见“駃”	None	None
+𫘨	None	=騠的类推简化字	None	騠
+𩤟	yang2	马名	None	None
+𩤛	yong2	同=顒	None	顒
+𩤛	yong2	马走貌	None	None
+𩥈	wen1	[𩥈驪]骏马	None	None
+𩤵	None	@	None	None
+騔	ge2	同=𩢛	None	𩢛
+𩨀	None	=騔的类推简化字	None	騔
+𩤶	None	人名用字	None	None
+𩤸	wei4	同=衛 驴的别称	None	衛
+𩨅	None	=𩤸的类推简化字	None	𩤸
+騦	si1	马行	None	None
+騦	si1	马名	None	None
+𩤚	duan1	马名	None	None
+𩤧	None	=䮗的讹字	None	䮗
+䮩	gu3	[䮩𩢎]兽名	None	None
+⿰馬乗	None	同=騬	None	騬
+䮢	zha2	[䮢䮢]马行貌；马奔跑 单用义同	None	None
+𩤹	you1	马行	None	None
+𩤪	None	同=䮢	None	䮢
+䮡	bi4	[䮡駽]神马名 也单用	None	None
+䮡	bi4	同=駜 马肥壮貌	None	駜
+䮡	bo2	同=駁 马色	None	駁
+⿰馬𢍃	None	同=𩦥	None	𩦥
+𩤣	duan4	[款𩤣]也作“款=段” 马行缓慢貌	None	段
+騪	sou1	[𩢸騪]见“𩢸”	None	None
+騪	sou1	同=𢯱(搜) 搜索	None	𢯱
+𩨄	None	=騪的类推简化字	None	騪
+騜	huang2	黄白色相间的马	None	None
+𫘩	None	=騜的类推简化字	None	騜
+騡	None	同=駩	None	駩
+騩	gui1	浅黑色的马	None	None
+騩	gui1	山名 1.即大騩山 在今河南省荥阳市、新密市附近 2.在今甘肃省敦煌市东南方的三危山西面	None	None
+騩	tui2	白马	None	None
+⿰马鬼	None	=騩的类推简化字	None	騩
+𩥢	None	同=騩	None	騩
+𩤨	None	同=駸	None	駸
+𩤼	None	同=驗	None	驗
+騟	yu2	[騧騟]马名	None	None
+騟	yu2	紫色马	None	None
+騟	yu2	杂色马	None	None
+𩨈	None	=騟的类推简化字	None	騟
+𩤻	None	同=騱	None	騱
+騣	zong1	马鬃	None	None
+騣	zong1	同=鋄 马首饰	None	鋄
+𮪣	None	=騣的类推简化字	None	騣
+𩥔	mo4	[騰𩥔]马父驴母所生	None	None
+騘	None	同=驄	None	驄
+𩤙	cheng1	马停步	None	None
+𩨆	None	=𩤙的类推简化字	None	𩤙
+𮪍	None	同=騎	None	騎
+𩤢	None	同=騠	None	騠
+𩥙	None	同=蹉	None	蹉
+𩨇	None	=䮫的类推简化字	None	䮫
+騚	qian2	四蹄全白的马 又称踏雪马	None	None
+𩨊	None	=騚的类推简化字	None	騚
+⿰馬宣	None	同=𩤡	None	𩤡
+𩤡	xuan1	[𩤡𩤩]也作“𩤡額” 马名	None	None
+𩤩	e2	[𩤡𩤩]见“𩤡” *=額	None	額
+䮟	sou1	[𩢸䮟]见“𩢸”	None	None
+䮟	sou1	同=𢯱(搜) 搜索	None	𢯱
+䮟	song3	同=駷	None	駷
+䮝	hun2	古代传说中的一种兽名	None	None
+騙	pian4	跃上马	None	None
+騙	pian4	骑	None	None
+騙	pian4	超越；跨越	None	None
+騙	pian4	诓骗；拐骗 如：骗术；上当受骗	None	None
+騙	pian4	引诱；吸引	None	None
+骗	None	=騙的简化字	None	騙
+騗	None	同=騙	None	騙
+⿰扁马	None	=騗的类推简化字	None	騗
+𩤫	None	同=禂	None	禂
+騢	xia2	赤白色相间的杂毛马	None	None
 騭	None	录入中	None	None
 骘	None	录入中	None	None
 𩤦	None	录入中	None	None
