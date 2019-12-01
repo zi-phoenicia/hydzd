@@ -87095,32 +87095,53 @@
 駴	None	同=駭	None	駭
 𮪢	None	=駴的类推简化字	None	駴
 𩣩	None	同=駈(驅)	None	駈
-𩣘	None	录入中	None	None
-𩣻	None	录入中	None	None
-𩤉	None	录入中	None	None
-𩣗	None	录入中	None	None
-𩣡	None	录入中	None	None
-䮒	None	录入中	None	None
-駷	None	录入中	None	None
-䮏	None	录入中	None	None
-𩣬	None	录入中	None	None
-骊	None	录入中	None	None
-駵	None	录入中	None	None
-𩣚	None	录入中	None	None
-駹	None	录入中	None	None
-𩣝	None	录入中	None	None
-駻	None	录入中	None	None
-𫘣	None	录入中	None	None
-騁	None	录入中	None	None
-骋	None	录入中	None	None
-駽	None	录入中	None	None
-䯄	None	录入中	None	None
-䮐	None	录入中	None	None
-𩣜	None	录入中	None	None
-騀	None	录入中	None	None
-𩣣	None	录入中	None	None
-𩣛	None	录入中	None	None
-𩣫	None	录入中	None	None
+⿰馬𡉵	None	同=駣	None	駣
+𩣘	nie4	马跑得快	None	None
+𩣻	ao3	马名	None	None
+𩤉	hua2	同=驊	None	驊
+𩤉	tao2	@	None	None
+𩣗	None	同=𩢳	None	𩢳
+𩣡	bo2	[𩣡馬]兽名 单用义同	None	None
+⿰马孛	None	=𩣡的类推简化字	None	𩣡
+䮒	pu1	马名	None	None
+駷	song3	掣动马嚼子使马快跑	None	None
+⿰马束	None	=駷的类推简化字	None	駷
+䮏	wu2	[騉䮏]马名	None	None
+𩣬	None	同=𩢲	None	𩢲
+骊	None	=驪的简化字	None	驪
+駵	None	同=騮	None	騮
+𩣚	pi1	同=駓	None	駓
+𩣚	bi3	兽趋行貌	None	None
+駹	mang2	面、额白色的黑马	None	None
+駹	mang2	青色马	None	None
+駹	mang2	杂色	None	None
+駹	mang2	古部族名 汉武帝时以其地设置汶山郡，在今四川省阿坝藏族羌族自治州茂县和汶川、理县一带	None	None
+𮪡	None	=駹的类推简化字	None	駹
+⿰马来	None	=騋的类推简化字	None	騋
+𩣝	bu4	遛马 也作=步	None	步
+駻	han4	形容马凶悍 也指凶悍的马	None	None
+駻	han4	高六尺的马	None	None
+駻	han4	马鞍	None	None
+駻	han4	姓	None	None
+𫘣	None	=駻的类推简化字	None	駻
+騁	cheng3	奔驰	None	None
+騁	cheng3	放任；放纵	None	None
+騁	cheng3	施展；发挥	None	None
+騁	cheng3	古州名 唐置 在今四川省屏山县	None	None
+骋	None	=騁的简化字	None	騁
+駽	xuan1	青黑色的马 俗称铁青马	None	None
+⿰马肙	None	=駽的类推简化字	None	駽
+䯄	None	=騧的类推简化字	None	騧
+䮐	None	同=駉	None	駉
+𩣜	fu4	同=𩣸	None	𩣸
+騀	e3	马摇头	None	None
+騀	e3	[駊騀]见“駊”	None	None
+騀	e2	[騀鹿]马属	None	None
+⿰马我	None	=騀的类推简化字	None	騀
+𩣣	e2	马行	None	None
+𩣣	e3	同=騀	None	騀
+𩣛	None	同=駣	None	駣
+𩣫	li4	@ ……按：……疑为=驪的异体	None	驪
 𩣙	None	录入中	None	None
 𩣢	None	录入中	None	None
 𩣤	None	录入中	None	None
