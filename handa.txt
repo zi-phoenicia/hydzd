@@ -87572,16 +87572,32 @@
 䮮	mai4	[䮰䮮]也作“馲=𩢷” 骡类	None	𩢷
 𩥳	None	同=驖	None	驖
 𩥲	chi4	[𩥲𩥲]马快跑	None	None
-驅	None	录入中	None	None
-驃	None	录入中	None	None
-骠	None	录入中	None	None
-𩥯	None	录入中	None	None
-𩥼	None	录入中	None	None
-騻	None	录入中	None	None
-𫘭	None	录入中	None	None
-𩥰	None	录入中	None	None
-驉	None	录入中	None	None
-䮫	None	录入中	None	None
+驅	qu1	鞭马前进	None	None
+驅	qu1	奔驰 如：长驱直入	None	None
+驅	qu1	行进	None	None
+驅	qu1	驱逐；赶走	None	None
+驅	qu1	追随	None	None
+驅	qu1	驾驭；役使	None	None
+驅	qu1	迫使	None	None
+驃	biao1	黄色有白斑或黄身白鬃尾的马 今名“银鬃”或“银河马”	None	None
+驃	piao4	马行疾貌	None	None
+驃	piao4	骁勇	None	None
+驃	piao4	古国名 在今缅甸境内	None	None
+驃	piao4	古代少数民族名	None	None
+驃	piao4	姓	None	None
+骠	None	=驃的简化字	None	驃
+𩥯	yi1	黑色马	None	None
+𩥼	None	@	None	None
+⿰馬覔	None	同=䮭	None	䮭
+騻	None	同=驦	None	驦
+𫘭	None	=騻的类推简化字	None	騻
+𩥰	None	同=騑	None	騑
+⿰馬⿱止豆	None	同=驥	None	驥
+驉	xu1	[駏驉]见“駏”	None	None
+⿰马虚	None	=驉的类推简化字	None	驉
+䮫	lou2	大骡	None	None
+䮫	lv2	同=驢	None	驢
+⿰馬⿳日罒力	None	同=鬘	None	鬘
 騾	None	录入中	None	None
 骡	None	录入中	None	None
 𩦀	None	录入中	None	None
