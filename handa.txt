@@ -86832,20 +86832,28 @@
 駔	zu3	通=阻 止	None	阻
 駔	zu3	通=怚(ju4) 骄	None	怚
 驵	None	=駔的简化字	None	駔
-駎	None	录入中	None	None
-𩧨	None	录入中	None	None
-𩢆	None	录入中	None	None
-𩢏	None	录入中	None	None
-駚	None	录入中	None	None
-𩧫	None	录入中	None	None
-駛	None	录入中	None	None
-驶	None	录入中	None	None
-𩢡	None	录入中	None	None
-𩧬	None	录入中	None	None
-罵	None	录入中	None	None
-駉	None	录入中	None	None
-𩡿	None	录入中	None	None
-駟	None	录入中	None	None
+駎	zhou4	马竞驰	None	None
+駎	zhou4	同=驧	None	驧
+𩧨	None	=駎的类推简化字	None	駎
+𩢆	None	同=騁	None	騁
+𩢏	None	同=馽	None	馽
+駚	yang3	[駚𤘝]兽跳跃自扑	None	None
+𩧫	None	=駚的类推简化字	None	駚
+駛	shi3	马行疾速	None	None
+駛	shi3	疾速	None	None
+駛	shi3	行驶	None	None
+駛	shi3	使者 也作=使	None	使
+驶	None	=駛的简化字	None	駛
+𩢡	ran3	周朝国名	None	None
+𩢡	ran3	姓	None	None
+𩧬	None	=𩢡的类推简化字	None	𩢡
+罵	None	同=駡	None	駡
+駉	jiong3	牧马苑	None	None
+駉	jiong3	骏马	None	None
+駉	jiong3	马肥壮貌	None	None
+𬳶	None	=駉的类推简化字	None	駉
+𩡿	None	同=罵(駡)	None	罵
+駟	si4	古代	None	None
 驷	None	录入中	None	None
 𩢫	None	录入中	None	None
 䭿	None	录入中	None	None
