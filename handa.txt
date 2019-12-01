@@ -87728,54 +87728,81 @@
 𬴌	None	=𩦺的类推简化字	None	𩦺
 𩦣	None	同=騧	None	騧
 𩦠	bang3	姓	None	None
-䮹	None	录入中	None	None
-𩦢	None	录入中	None	None
-驜	None	录入中	None	None
-𩦴	None	录入中	None	None
-𩦧	None	录入中	None	None
-驛	None	录入中	None	None
-𩦮	None	录入中	None	None
-𩦯	None	录入中	None	None
-䮷	None	录入中	None	None
-𩦡	None	录入中	None	None
-䮸	None	录入中	None	None
-𩦰	None	录入中	None	None
-𩦨	None	录入中	None	None
-驗	None	录入中	None	None
-𩦱	None	录入中	None	None
-𩦲	None	录入中	None	None
-驙	None	录入中	None	None
-𫘰	None	录入中	None	None
-𩦵	None	录入中	None	None
-𩦸	None	录入中	None	None
-驌	None	录入中	None	None
-𩦽	None	录入中	None	None
-𩦷	None	录入中	None	None
-驝	None	录入中	None	None
-䮻	None	录入中	None	None
-驟	None	录入中	None	None
-骤	None	录入中	None	None
-𩧁	None	录入中	None	None
-𩧇	None	录入中	None	None
-𩦹	None	录入中	None	None
-𩦾	None	录入中	None	None
-𩧃	None	录入中	None	None
-𩧀	None	录入中	None	None
-𩧊	None	录入中	None	None
-𩦼	None	录入中	None	None
-𩧉	None	录入中	None	None
-䮺	None	录入中	None	None
-䮼	None	录入中	None	None
-驞	None	录入中	None	None
-𩦿	None	录入中	None	None
-𩧌	None	录入中	None	None
-𩧈	None	录入中	None	None
-𩧅	None	录入中	None	None
-𩧎	None	录入中	None	None
-𩧋	None	录入中	None	None
-𩧂	None	录入中	None	None
-𩧄	None	录入中	None	None
-䮽	None	录入中	None	None
+⿰馬⿱覀𤰞	None	同=驔	None	驔
+䮹	wei4	[䮹䮭]马怒	None	None
+䮹	gui4	马性恶	None	None
+𩦢	yu2	[騶𩦢]也作“騶=虞” 古代传说中的一种仁慈之兽	None	虞
+驜	ye4	马高大强壮的样子	None	None
+𩦴	None	=𩦂的讹字	None	𩦂
+𩦧	None	同=鬘	None	鬘
+驛	yi4	驿马 古代驿站专供传递公文或官员来往使用的马	None	None
+驛	yi4	驿站 古代供传送公文的人或往来官员暂住、换马的处所 也用于地名 如：龙泉驿；石头驿	None	None
+驛	yi4	驿道	None	None
+驛	yi4	（用驿马、驿车、驿船）传递	None	None
+驛	yi4	量词 计算道路长度的单位 两个驿之间的路为一驿	None	None
+驛	yi4	通=譯 翻译；传译	None	譯
+驛	yi4	通=圛 古代卜筮的一种征兆	None	圛
+驛	yi4	姓	None	None
+𩦮	None	同=䭴	None	䭴
+𩦯	None	同=驛	None	驛
+䮷	du2	马行貌	None	None
+𩦡	yu2	[𩦡𩦡]马行貌 也单用	None	None
+䮸	wo4	马行貌	None	None
+䮸	wo4	马腹下鸣	None	None
+𩦰	None	同=驊	None	驊
+𩦨	None	同=驁	None	驁
+驗	yan4	马名	None	None
+驗	yan4	证验	None	None
+驗	yan4	凭证	None	None
+驗	yan4	检查；检验	None	None
+驗	yan4	效验；效果	None	None
+驗	yan4	征象；征兆	None	None
+𩦱	kuai4	用同=儈 旧时交易场中的经纪人	None	儈
+𩦲	zong1	同=騣 马鬃	None	騣
+𩦲	zong1	马	None	None
+⿰馬⿳⺈𠔿見	None	同=𩧊	None	𩧊
+驙	zhan1	马负重行难	None	None
+驙	zhan1	马名 黑脊的白马	None	None
+驙	zhan1	骐驎	None	None
+驙	zhan4	同=𩥇 马卧	None	𩥇
+𫘰	None	=驙的类推简化字	None	驙
+𩦵	None	=麢的讹字	None	麢
+𩦸	None	同=驥	None	驥
+驌	su4	[驌騻]也作“驌驦” 良马名	None	None
+𩦽	None	同=駘	None	駘
+𩦷	None	同=驖	None	驖
+驝	None	同=馲(𩧐)	None	馲
+䮻	None	同=禂	None	禂
+驟	zhou4	马奔驰	None	None
+驟	zhou4	迅疾	None	None
+驟	zhou4	副词 1.频数；屡次 2.突然	None	None
+骤	None	=驟的简化字	None	驟
+𩧁	None	同=驟	None	驟
+𩧇	cai4	马名	None	None
+𩦹	xian4	马走；马走貌	None	None
+𩦾	None	同=驃	None	驃
+𩧃	li4	同=𩢾 1.马群依次第成行列地奔跑 2.驯善	None	𩢾
+𩧀	None	同=驖	None	驖
+⿰馬暴	bao4	@	None	None
+⿰馬𥠖	None	同=𩧋	None	𩧋
+𩧊	xiong4	马怒	None	None
+𩦼	None	同=駱	None	駱
+𩧉	guang1	[闋𩧉]也作“決𩧉” 背上有旋毛的马	None	None
+䮺	ji4	[䮺䮺]草丰盛貌	None	None
+䮼	None	同=驎	None	驎
+驞	pin1	[驞駍]声响众盛	None	None
+𩦿	None	同=驞	None	驞
+𩧌	qi4	@	None	None
+⿰馬趠	chuo4	@	None	None
+𩧈	du2	马行走貌 也作=䮷	None	䮷
+𩧅	fan2	[𩧅駤]止；马踌躇不行貌	None	None
+𩧎	None	同=驨	None	驨
+𩧋	li2	[駣𩧋]也作“駣𩥴” 也单用作“𩧋” 马属	None	None
+𩧋	li2	黑色 也作=黧	None	黧
+𩧂	None	同=䮥	None	䮥
+𩧄	zhi4	马名	None	None
+⿰馬⿱凶鳥	None	同=𩧆	None	𩧆
+䮽	biao1	同=鑣 马具 马嚼子两端露出嘴外的部分 因借指马	None	鑣
 𩧆	None	录入中	None	None
 𩨐	None	录入中	None	None
 驠	None	录入中	None	None
