@@ -87481,7 +87481,7 @@
 驆	bi4	同=蹕 帝王车驾	None	蹕
 騴	yan4	尾根白色的马	None	None
 𫘫	None	=騴的类推简化字	None	騴
-𩥑	ta4	[𩧆𩥑]见“𩧆”	None	None
+𩥑	ta4	[𩧆𩥑]见“𩧆” *=遢	None	遢
 𩨌	None	=𩥑的类推简化字	None	𩥑
 𩥉	ji4	企望；仰慕	None	None
 𩥉	ji4	同=驥	None	驥
@@ -87803,28 +87803,49 @@
 𩧄	zhi4	马名	None	None
 ⿰馬⿱凶鳥	None	同=𩧆	None	𩧆
 䮽	biao1	同=鑣 马具 马嚼子两端露出嘴外的部分 因借指马	None	鑣
-𩧆	None	录入中	None	None
-𩨐	None	录入中	None	None
-驠	None	录入中	None	None
-𩧓	None	录入中	None	None
-𩧐	None	录入中	None	None
-𩧏	None	录入中	None	None
-驥	None	录入中	None	None
-骥	None	录入中	None	None
-驢	None	录入中	None	None
-𩧒	None	录入中	None	None
-𩧑	None	录入中	None	None
-䮾	None	录入中	None	None
-驡	None	录入中	None	None
-驣	None	录入中	None	None
-驧	None	录入中	None	None
-驩	None	录入中	None	None
-𩧗	None	录入中	None	None
-𩧕	None	录入中	None	None
-驦	None	录入中	None	None
-骦	None	录入中	None	None
-𩧖	None	录入中	None	None
-驤	None	录入中	None	None
+𬴍	None	=䮽的类推简化字	None	䮽
+⿰馬⿸𢉖灬	None	同=鑣	None	鑣
+𩧆	lie4	马	None	None
+𩧆	lie4	马行貌	None	None
+𩧆	lie4	践	None	None
+𩧆	la4	[𩧆𩥑]1.马行不进 2.即“邋遢” 不精彩；不整洁	None	None
+𩨐	None	=𩧆的类推简化字	None	𩧆
+驠	yan4	白臀的马	None	None
+驠	yan4	方言 轻捷的小儿	None	None
+⿰马燕	None	=驠的类推简化字	None	驠
+𩧓	xiao1	[𩧓𩥣]马名 也作“=逍遥”	None	逍
+𩧐	tuo1	[𩧐駝]即“=駱駝” 也作“=馲駝”	None	駱
+𬴎	None	=𩧐的类推简化字	None	𩧐
+𩧏	jue2	同=䮤 白额马	None	䮤
+驥	ji4	千里马	None	None
+驥	ji4	古县名 在今甘肃省甘谷县南	None	None
+骥	None	=驥的简化字	None	驥
+驢	lv2	家畜名 属哺乳纲，马科 体比马小，鬣短，耳长，尾端像牛尾 性温驯，堪粗食，可供骑、驮及拉磨用	None	None
+驢	lv2	姓	None	None
+𩧒	ju4	@	None	None
+𩧑	None	同=䮾	None	䮾
+䮾	long2	同=龐 充实；充满	None	龐
+䮾	long2	同=龍 古代传说中的一种神异动物	None	龍
+䮾	long4	重骑	None	None
+驡	long2	野马	None	None
+驡	long2	姓	None	None
+驡	zang3	[駚驡]马容	None	None
+驣	None	同=騰	None	騰
+驧	ju2	马曲脊	None	None
+驧	ju2	马跳跃	None	None
+驩	huan1	马名	None	None
+驩	huan1	马和乐貌	None	None
+驩	huan1	通=歡 欢心；欢乐	None	歡
+驩	huan1	通=觀(guan1) 察看	None	觀
+驩	huan1	古州名 南朝梁置德州，隋改曰驩州，在今越南北部	None	None
+𬴐	None	=驩的类推简化字	None	驩
+𩧗	None	同=𩥲	None	𩥲
+𩧕	None	同=輷	None	輷
+驦	shuang1	[驌驦]也作“驌=騻” 良马名 单用义同	None	騻
+骦	None	=驦的类推简化字	None	驦
+𩧖	None	同=騰	None	騰
+驤	xiang1	后右足白的马 也泛指马	None	None
+驤	xiang1	马头或俯或仰	None	None
 骧	None	录入中	None	None
 𩧔	None	录入中	None	None
 䮿	None	录入中	None	None
