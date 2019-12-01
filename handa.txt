@@ -87264,53 +87264,67 @@
 騐	None	同=驗	None	驗
 𩣭	None	同=騘(驄)	None	騘
 ⿰馬⿹勹㱏	None	同=騊	None	騊
-騆	None	录入中	None	None
-𩣮	None	录入中	None	None
-騊	None	录入中	None	None
-𫘦	None	录入中	None	None
-𩣽	None	录入中	None	None
-𩤍	None	录入中	None	None
-𩣴	None	录入中	None	None
-𩤎	None	录入中	None	None
-𩤏	None	录入中	None	None
-𩣰	None	录入中	None	None
-𩤐	None	录入中	None	None
-𩤑	None	录入中	None	None
-𩤀	None	录入中	None	None
-騌	None	录入中	None	None
-𩤒	None	录入中	None	None
-𩣼	None	录入中	None	None
-𩣵	None	录入中	None	None
-𩤞	None	录入中	None	None
-𩧻	None	录入中	None	None
-騝	None	录入中	None	None
-𩨃	None	录入中	None	None
-騄	None	录入中	None	None
-𫘧	None	录入中	None	None
-𩤓	None	录入中	None	None
-𩣹	None	录入中	None	None
-𩣿	None	录入中	None	None
-骖	None	录入中	None	None
-𩤗	None	录入中	None	None
-䮕	None	录入中	None	None
-騞	None	录入中	None	None
-䮞	None	录入中	None	None
-𩨁	None	录入中	None	None
-䮜	None	录入中	None	None
-騲	None	录入中	None	None
-𩥠	None	录入中	None	None
-𩥒	None	录入中	None	None
-𩤭	None	录入中	None	None
-𩤲	None	录入中	None	None
-𩨉	None	录入中	None	None
-䮠	None	录入中	None	None
-𩧿	None	录入中	None	None
-𩤬	None	录入中	None	None
-騕	None	录入中	None	None
-𩤳	None	录入中	None	None
-𩤥	None	录入中	None	None
-𩤴	None	录入中	None	None
-𩤤	None	录入中	None	None
+騆	zhou1	神马	None	None
+騆	dong4	同=駧 驰马疾跑	None	駧
+𩣮	tu4	[騛𩣮]见“騛”	None	None
+騊	tao2	[騊駼]良马名	None	None
+𫘦	None	=騊的类推简化字	None	騊
+𩣽	None	同=驧	None	驧
+𩤍	None	同=𩣿(騶)	None	𩣿
+𩣴	qie4	同=怯 马怕石不能行	None	怯
+𩤎	None	马行 ……按：疑为=𩣲的异体	None	𩣲
+𩤏	cui4	马卒	None	None
+𩣰	None	同=𩤏	None	𩤏
+𩤐	None	同=騯	None	騯
+𩤑	None	同=騂	None	騂
+𩤀	None	同=驅	None	驅
+⿰马单	None	=驒的类推简化字	None	驒
+騌	None	同=騣	None	騣
+𩤒	yi2	马名	None	None
+𩣼	qiang1	马行貌	None	None
+𩣵	wan3	良马名 汉代以大宛马为良马，称“天马”，也称“宛马”	None	None
+𩣵	wo4	同=涴 污染	None	涴
+𩧻	None	=𩣵的类推简化字	None	𩣵
+𩤞	tan4	马行步向前	None	None
+騝	qian2	[騝騝]壮健貌	None	None
+騝	qian2	黄脊的骝马	None	None
+𩨃	None	=騝的类推简化字	None	騝
+騄	lu4	[騄駬]也作“騄耳”、“=綠耳” 良马名 单用义同	None	綠
+𫘧	None	=騄的类推简化字	None	騄
+𩤓	None	同=𩣹	None	𩣹
+𩣹	qu1	[𩣹産]也作“=屈産” 良马名，古屈地所产良马	None	屈
+𩣿	None	同=騶	None	騶
+骖	None	=驂的简化字	None	驂
+𩤗	zong4	马𩤗	None	None
+䮕	zhuo2	白额马 又名“的盧”	None	None
+騞	huo4	刀裂物声	None	None
+騞	huo4	破裂声	None	None
+騞	huo4	快速；忽然	None	None
+𬴃	None	=騞的类推简化字	None	騞
+䮞	chun3	马纹杂驳	None	None
+䮞	chun3	杂乱	None	None
+䮞	chun3	钝马	None	None
+𩨁	None	=䮞的类推简化字	None	䮞
+⿰馬⿱龷⿻亖丨	None	同=騂	None	騂
+䮜	zha2	同=䮢	None	䮢
+䮜	ye4	马行轻貌	None	None
+騲	cao3	雌马 也作=草	None	草
+𮪤	None	=騲的类推简化字	None	騲
+𩥠	zha3	马行貌	None	None
+𩥒	None	同=𩢯	None	𩢯
+𩤭	None	同=駥	None	駥
+𩤲	la1	[虎𩤲]马名 也作“虎=喇”	None	喇
+𩨉	None	=𩤲的类推简化字	None	𩤲
+䮠	bi1	[駝䮠]兽名 也作“䮠駝”	None	None
+𩧿	None	=䮠的类推简化字	None	䮠
+𩤬	None	同=騙	None	騙
+騕	yao3	[騕褭]也作“=要褭” 古良马名	None	要
+⿰马要	None	=騕的类推简化字	None	騕
+𩤳	None	同=馭	None	馭
+𩤥	xian2	[𩤥驩]1.也作“=咸驩” 古县名 也单用 在今越南境内 2.马名	None	咸
+𩤥	xian2	马性温和	None	None
+𩤴	None	同=駹 古代西南地区部族名，因又为古国名	None	駹
+𩤤	shua3	所言不当	None	None
 𩤠	None	录入中	None	None
 騠	None	录入中	None	None
 𫘨	None	录入中	None	None
