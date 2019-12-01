@@ -87045,25 +87045,47 @@
 𩢯	huang1	马奔跑	None	None
 ⿰馬兊	None	同=駾	None	駾
 𩣎	None	=駂的讹字	None	駂
-駨	None	录入中	None	None
-𩣏	None	录入中	None	None
-𩧶	None	录入中	None	None
-駱	None	录入中	None	None
-骆	None	录入中	None	None
-䮈	None	录入中	None	None
-駮	None	录入中	None	None
-䮍	None	录入中	None	None
-𩣐	None	录入中	None	None
-駭	None	录入中	None	None
-骇	None	录入中	None	None
-駢	None	录入中	None	None
-骈	None	录入中	None	None
-駦	None	录入中	None	None
-𩢵	None	录入中	None	None
-𩣑	None	录入中	None	None
-䯃	None	录入中	None	None
-𩧰	None	录入中	None	None
-䮇	None	录入中	None	None
+駨	xun1	[𩣺駨]马奔跑貌	None	None
+駨	xuan4	同=駽 青骊马	None	駽
+𩣏	jie2	凶暴	None	None
+𩧶	None	=𩣏的类推简化字	None	𩣏
+駱	luo4	鬃尾黑色的白马	None	None
+駱	luo4	古种族名，即骆越 百越的一种	None	None
+駱	luo4	古县名 汉置，治所在今内蒙古呼和浩特市境内	None	None
+駱	luo4	姓	None	None
+駱	jia4	[駱田]也作“=架田”，又名葑田 古时在沼泽水乡无地可耕之处，以木作架，铺上泥土及水生植物，种植谷物 漂浮水面，随水高下，不致浸淹	None	架
+骆	None	=駱的简化字	None	駱
+䮈	None	同=馳	None	馳
+𬳾	None	=䮈的类推简化字	None	䮈
+駮	bo2	传说中的兽名 状如马，食虎豹	None	None
+駮	bo2	通=駁 1.颜色不纯 2.混杂；错杂 3.辩论是非，否定他人意见	None	駁
+駮	bo2	草名 也作=瓝	None	瓝
+䮍	None	同=褭	None	褭
+𩣐	None	同=𩥒(𩢯)	None	𩥒
+駭	hai4	马受惊	None	None
+駭	hai4	惊骇	None	None
+駭	hai4	起	None	None
+駭	hai4	震动；惊动	None	None
+駭	hai4	扰动；骚动	None	None
+駭	hai4	擂，击	None	None
+駭	hai4	播散	None	None
+駭	hai4	四蹄皆白的猪 也作=豥	None	豥
+骇	None	=駭的简化字	None	駭
+駢	pian2	两车并驾一车	None	None
+駢	pian2	并列	None	None
+駢	pian2	对偶	None	None
+駢	pian2	并联	None	None
+駢	pian2	罗列；凑集	None	None
+駢	pian2	通=骿 骈胁，肋骨紧密相接	None	骿
+駢	pian2	古地名 春秋齐邑，在今山东省临朐县	None	None
+駢	pian2	姓	None	None
+骈	None	=駢的简化字	None	駢
+駦	None	同=騰	None	騰
+𩢵	tuo1	[𩢵駝]也作“=馲駞”、“=驝駝” 即骆驼	None	馲
+𩣑	None	同=鞍	None	鞍
+䯃	None	=𩣑的类推简化字	None	𩣑
+𩧰	None	=䮝的类推简化字	None	䮝
+䮇	None	同=驈	None	驈
 𩣒	None	录入中	None	None
 𩢳	None	录入中	None	None
 𩢺	None	录入中	None	None
