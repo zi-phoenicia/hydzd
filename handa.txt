@@ -87142,48 +87142,90 @@
 𩣣	e3	同=騀	None	騀
 𩣛	None	同=駣	None	駣
 𩣫	li4	@ ……按：……疑为=驪的异体	None	驪
-𩣙	None	录入中	None	None
-𩣢	None	录入中	None	None
-𩣤	None	录入中	None	None
-駼	None	录入中	None	None
-䮎	None	录入中	None	None
-验	None	录入中	None	None
-䮑	None	录入中	None	None
-𩣖	None	录入中	None	None
-騂	None	录入中	None	None
-駾	None	录入中	None	None
-𩣠	None	录入中	None	None
-𩣟	None	录入中	None	None
-駺	None	录入中	None	None
-駸	None	录入中	None	None
-骎	None	录入中	None	None
-駶	None	录入中	None	None
-𩧺	None	录入中	None	None
-𩣾	None	录入中	None	None
-䮛	None	录入中	None	None
-騃	None	录入中	None	None
-𫘤	None	录入中	None	None
-駿	None	录入中	None	None
-骏	None	录入中	None	None
-𩤜	None	录入中	None	None
-𩣱	None	录入中	None	None
-䮚	None	录入中	None	None
-𩤃	None	录入中	None	None
-騏	None	录入中	None	None
-骐	None	录入中	None	None
-𩤈	None	录入中	None	None
-騋	None	录入中	None	None
-𩣳	None	录入中	None	None
-䮙	None	录入中	None	None
-𩣺	None	录入中	None	None
-騎	None	录入中	None	None
-骑	None	录入中	None	None
-𩤊	None	录入中	None	None
-騑	None	录入中	None	None
-𩤋	None	录入中	None	None
-䮓	None	录入中	None	None
-𩤌	None	录入中	None	None
-騍	None	录入中	None	None
+𩣙	None	同=䮢	None	䮢
+⿰馬𬽵	None	同=駙	None	駙
+𩣢	None	同=驄	None	驄
+𩣤	None	同=馾	None	馾
+駼	tu2	[騊駼]见“騊”	None	None
+𬳿	None	=駼的类推简化字	None	駼
+䮎	xi4	马跑貌	None	None
+验	None	=驗的简化字	None	驗
+䮑	lei4	马毛斑白	None	None
+䮑	luo4	[䮑歲]石䮑岁 粟名	None	None
+𩣖	lin4	牡马	None	None
+騂	xing1	赤色的马	None	None
+騂	xing1	赤色牛、羊、猪等	None	None
+騂	xing1	赤色	None	None
+⿰马闲	None	=𩦃的类推简化字	None	𩦃
+駾	tui4	马行疾来貌 引申为行疾，奔突	None	None
+⿰马兑	None	=駾的类推简化字	None	駾
+𩣠	None	同=𩣟(𩡾)	None	𩣟
+𩣟	None	同=𩡾	None	𩡾
+駺	lang2	白尾的马	None	None
+駺	liang2	[吉駺]马名	None	None
+𬴀	None	=駺的类推简化字	None	駺
+駸	qin1	[駸駸]1.马行迅疾貌 2.迅疾 3.渐进貌 4.盛貌	None	None
+駸	qin1	副词 逐渐	None	None
+骎	None	=駸的简化字	None	駸
+駶	ju2	马立不定	None	None
+𩧺	None	=駶的类推简化字	None	駶
+𩣾	None	同=駞(駝)	None	駞
+䮛	None	同=駙	None	駙
+⿰馬⿳厶𡭔又	None	通=駿	None	駿
+騃	si4	马行勇壮貌	None	None
+騃	si4	急走貌	None	None
+騃	dai1	同=呆 愚	None	呆
+騃	tai3	疲也	None	None
+𫘤	None	=騃的类推简化字	None	騃
+駿	jun4	良马	None	None
+駿	jun4	迅速	None	None
+駿	jun4	大 高大	None	None
+駿	jun4	长	None	None
+駿	jun4	挺拔	None	None
+駿	jun4	严厉	None	None
+駿	jun4	通=俊 才智过人	None	俊
+骏	None	=駿的简化字	None	駿
+𩤜	zhe3	马名	None	None
+𩣱	lu4	健马 也作=陸	None	陸
+䮚	leng4	[䮚䮴]1.马病 2.马伤谷	None	None
+䮚	ling2	同=𩜁 马食粟	None	𩜁
+𩤃	None	同=騮	None	騮
+騏	qi2	有青黑纹如棋盘的马	None	None
+騏	qi2	兽名	None	None
+騏	qi2	通=綦(𤪌) 皮弁上的玉饰	None	綦
+騏	qi2	通=棋 弈具	None	棋
+騏	qi2	汉县名 在今山西省乡宁县东南	None	None
+騏	qi2	姓	None	None
+骐	None	=騏的简化字	None	騏
+𩤈	que4	@	None	None
+騋	lai2	高七尺的马	None	None
+𩣳	dong1	马名	None	None
+䮙	yu4	马名	None	None
+𩣺	ben1	马跑貌	None	None
+𩧼	None	=𩣺的类推简化字	None	𩣺
+騎	qi2	跨马，骑马	None	None
+騎	qi2	跨坐 如：骑虎难下	None	None
+騎	qi2	兼跨两边 如：骑缝 又跨越	None	None
+騎	qi2	骑的马 泛指乘坐的动物 如：坐骑	None	None
+騎	qi2	骑兵 如：铁骑；轻骑	None	None
+騎	qi2	一人一马	None	None
+騎	qi2	侍从	None	None
+騎	qi2	量词 用于马，相当于“匹”	None	None
+騎	ji4	姓	None	None
+骑	None	=騎的简化字	None	騎
+𩤊	xian4	方言 急行	None	None
+𩤊	jian4	低贱	None	None
+騑	fei1	驾在车辕两旁的马 又叫骖	None	None
+騑	fei1	马	None	None
+騑	fei1	疲劳	None	None
+騑	fei1	三岁的马	None	None
+𬴂	None	=騑的类推简化字	None	騑
+𩤋	kun4	@	None	None
+䮓	zhuo1	马行	None	None
+䮓	zhuo1	马行不前貌	None	None
+䮓	chao4	马疾行	None	None
+𩤌	None	=𩦶的讹字	None	𩦶
+騍	ke4	母马	None	None
 骒	None	录入中	None	None
 騉	None	录入中	None	None
 𫘥	None	录入中	None	None
