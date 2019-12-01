@@ -87400,39 +87400,77 @@
 ⿰扁马	None	=騗的类推简化字	None	騗
 𩤫	None	同=禂	None	禂
 騢	xia2	赤白色相间的杂毛马	None	None
-騭	None	录入中	None	None
-骘	None	录入中	None	None
-𩤦	None	录入中	None	None
-騛	None	录入中	None	None
-騤	None	录入中	None	None
-騷	None	录入中	None	None
-骚	None	录入中	None	None
-騥	None	录入中	None	None
-𩤝	None	录入中	None	None
-騖	None	录入中	None	None
-骛	None	录入中	None	None
-𩤘	None	录入中	None	None
-䮯	None	录入中	None	None
-驁	None	录入中	None	None
-骜	None	录入中	None	None
-騳	None	录入中	None	None
-𩥋	None	录入中	None	None
-𩥏	None	录入中	None	None
-𩥂	None	录入中	None	None
-𩥞	None	录入中	None	None
-𩥟	None	录入中	None	None
-䯅	None	录入中	None	None
-驊	None	录入中	None	None
-𩥕	None	录入中	None	None
-䮬	None	录入中	None	None
-驀	None	录入中	None	None
-蓦	None	录入中	None	None
-𩥄	None	录入中	None	None
-𩨋	None	录入中	None	None
-䮧	None	录入中	None	None
-䮥	None	录入中	None	None
-𩥡	None	录入中	None	None
-𩥸	None	录入中	None	None
+⿰马叚	None	=騢的类推简化字	None	騢
+騭	zhi4	公马	None	None
+騭	zhi4	安定	None	None
+騭	zhi4	阴骘，阴德	None	None
+騭	zhi4	评定；评论	None	None
+騭	zhi4	升	None	None
+骘	None	=騭的简化字	None	騭
+𩤦	xian2	马步娴习 也作=閑	None	閑
+𩤦	xian2	同=𩦂	None	𩦂
+騛	fei1	[騛𩣮]也作“=飛兔”、“騛兔” 飞驰如兔的骏马 也单用作“騛”、“飛”	None	飛
+騤	kui2	[騤騤]马行威仪貌 也单用	None	None
+騤	jue2	[騤𩧉]也作“=闋廣” 背上有旋毛的马	None	闋
+騷	sao1	骚扰；骚动	None	None
+騷	sao1	摩马，刷马	None	None
+騷	sao1	忧愁	None	None
+騷	sao1	诗体的一种	None	None
+騷	sao1	专指《离骚》	None	None
+騷	sao1	跛行	None	None
+騷	sao1	放荡；轻佻	None	None
+騷	sao1	旧时小儿取羊后胫膝轮骨决胜负的用语	None	None
+騷	sao1	通=臊 1.猪、狗脂膏的气味 2.臭，狐臭	None	臊
+騷	sao3	通=掃 扫除	None	掃
+騷	xiao1	[蒲騷]春秋地名 在今湖北省应城市西北	None	None
+骚	None	=騷的简化字	None	騷
+騥	rou2	多鬃的青黑色马	None	None
+⿰马柔	None	=騥的类推简化字	None	騥
+𩤝	None	同=騖	None	騖
+騖	wu4	乱跑	None	None
+騖	wu4	乱	None	None
+騖	wu4	迅速	None	None
+騖	wu4	力求；强求 也作=務 如：好高骛远	None	務
+騖	wu4	鸭子 也作=鶩	None	鶩
+骛	None	=騖的简化字	None	騖
+𩤘	nao3	[褭𩤘]马名	None	None
+䮯	None	同=驁	None	驁
+驁	ao4	骏马名	None	None
+驁	ao4	才能出众	None	None
+驁	ao4	大	None	None
+驁	ao4	骄骜，马怒，马不驯服 也作=䮯	None	䮯
+驁	ao4	通=傲 狂妄；傲慢；轻视	None	傲
+驁	ao4	专指《骜夏》，古乐章名	None	None
+驁	yao4	[驕驁]马行恣纵貌	None	None
+骜	None	=驁的简化字	None	驁
+⿰馬素	su4	@	None	None
+騳	du2	马跑	None	None
+騳	du2	两马并驰声	None	None
+𩥋	ou4	奔驰不齐	None	None
+𩥋	du2	同=騳	None	騳
+𩥏	None	同=驖	None	驖
+𩥂	qi2	马鬣 也作=鬐	None	鬐
+𩥞	None	同=𩥂	None	𩥂
+𩥟	None	同=騞	None	騞
+䯅	None	=䯀的类推简化字	None	䯀
+驊	hua2	[驊騮]也作“=華騮” 骏马 也单用	None	華
+𩥕	None	同=騹(騏)	None	騹
+䮬	None	同=騲	None	騲
+驀	mo4	上马，骑	None	None
+驀	mo4	超越；跨过	None	None
+驀	mo4	跳跃	None	None
+驀	mo4	忽然；突然	None	None
+驀	ma4	登上	None	None
+蓦	None	=驀的简化字	None	驀
+𩥄	dian1	额上带白星的马 也作=顛	None	顛
+𩨋	None	=𩥄的类推简化字	None	𩥄
+䮧	han4	长毛马	None	None
+䮧	han2	[䮂䮧]见“䮂”	None	None
+⿰𠦝⿱人马	None	=䮧的类推简化字	None	䮧
+䮥	li4	马色	None	None
+𩥡	None	同=驘(騾)	None	驘
+⿰馬𢙣	None	同⿰馬惡	None	None
+𩥸	None	同=𩥇	None	𩥇
 騵	None	录入中	None	None
 𫘪	None	录入中	None	None
 䮱	None	录入中	None	None
