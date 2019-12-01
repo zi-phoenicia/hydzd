@@ -87499,44 +87499,79 @@
 𩥽	tu2	@ ……按：疑为=駼的繁化俗字	None	駼
 𩥣	yao2	[𩧓𩥣]马名 也作“逍=遥”	None	遥
 𩥅	tao1	马缓行貌	None	None
-𩥓	None	录入中	None	None
-騱	None	录入中	None	None
-𫘬	None	录入中	None	None
-䮪	None	录入中	None	None
-騮	None	录入中	None	None
-骝	None	录入中	None	None
-𩥖	None	录入中	None	None
-騶	None	录入中	None	None
-䮦	None	录入中	None	None
-𩥊	None	录入中	None	None
-𩥤	None	录入中	None	None
-𩥬	None	录入中	None	None
-𩥁	None	录入中	None	None
-騯	None	录入中	None	None
-𩥆	None	录入中	None	None
-𩥍	None	录入中	None	None
-𩥌	None	录入中	None	None
-騫	None	录入中	None	None
-骞	None	录入中	None	None
-𩥥	None	录入中	None	None
-䮨	None	录入中	None	None
-𩥃	None	录入中	None	None
-騸	None	录入中	None	None
-骟	None	录入中	None	None
-䮤	None	录入中	None	None
-𩤿	None	录入中	None	None
-𩥇	None	录入中	None	None
-𩨍	None	录入中	None	None
-𩥎	None	录入中	None	None
-𩥦	None	录入中	None	None
-䮣	None	录入中	None	None
-𩥫	None	录入中	None	None
-騺	None	录入中	None	None
-騹	None	录入中	None	None
-䮲	None	录入中	None	None
-䮮	None	录入中	None	None
-𩥳	None	录入中	None	None
-𩥲	None	录入中	None	None
+⿰马舀	None	=𩥅的类推简化字	None	𩥅
+𩥓	None	同=𩥅	None	𩥅
+騱	xi2	前足全白的马	None	None
+𫘬	None	=騱的类推简化字	None	騱
+䮪	None	=𩦆的讹字	None	𩦆
+騮	liu2	红身黑鬣尾的良马	None	None
+骝	None	=騮的简化字	None	騮
+𩥖	None	同=騮	None	騮
+⿰馬㽜	None	同=騮	None	騮
+騶	zou1	古时为王公贵族养马并管驾车的人	None	None
+騶	zou1	古代贵族骑马时的前后侍从骑士	None	None
+騶	zou1	古代帝王畜养禽兽的园地	None	None
+騶	zou1	通=菆 好箭	None	菆
+騶	zou1	姓	None	None
+騶	zhu1	古地名 在今山东省邹城市 也作=邾、=鄒	None	邾
+騶	zhou4	通=驟 马疾驰；迅疾	None	驟
+騶	qu1	通=趨 快走	None	趨
+䮦	None	同=驕	None	驕
+𩥊	ao1	马行貌	None	None
+𩥊	jiao1	=驕的讹字	None	驕
+𩥤	None	同=驩	None	驩
+𩥬	li2	驴子	None	None
+𩥁	tang2	马的毛色	None	None
+騯	peng2	[騯騯]也作“=彭彭” 马行貌	None	彭
+騯	bang3	[騯䮣]马貌	None	None
+𬴅	None	=騯的类推简化字	None	騯
+𩥆	lv4	驿传所用的马	None	None
+𩥍	None	同=騂	None	騂
+𩥌	qia4	马色驳杂	None	None
+騫	qian1	马腹病，指腹部亏损低陷	None	None
+騫	qian1	亏损；损坏	None	None
+騫	qian1	仰首貌	None	None
+騫	qian1	高	None	None
+騫	qian1	惊惧	None	None
+騫	qian1	通=鶱 飞起	None	鶱
+騫	qian1	通=愆 过失；延误	None	愆
+騫	qian1	通=搴 拔取	None	搴
+騫	qian1	通=褰 揭起（衣服）	None	褰
+騫	qian1	古邑名	None	None
+騫	qian1	姓	None	None
+騫	jian3	驽马	None	None
+骞	None	=騫的简化字	None	騫
+⿰马宾	None	=驞的类推简化字	None	驞
+𩥥	None	=𩥿的讹字	None	𩥿
+䮨	zai3	青白色的杂毛马	None	None
+𩥃	None	同=𩦺	None	𩦺
+⿰马冡	None	=𩥃的类推简化字	None	𩥃
+騸	shan4	马被阉割	None	None
+騸	shan4	指其他动物被阉割	None	None
+騸	shan4	用截去主根的方法培植果树，也叫骟	None	None
+骟	None	=騸的简化字	None	騸
+䮤	he2	汉苑名	None	None
+䮤	he2	白额的马	None	None
+𩤿	jin1	[𩤿𩤿]也作“=駸駸” 马行迅疾貌	None	駸
+𩥇	zhan4	马卧地上打滚	None	None
+𩨍	None	=𩥇的类推简化字	None	𩥇
+𩥎	None	同=騖	None	騖
+⿰马務	None	=𩥎的类推简化字	None	𩥎
+𩥦	None	同=騖	None	騖
+䮣	None	同=𩦌	None	𩦌
+𩥫	chong1	[𩥫𩤛]驽马 也单用	None	None
+騺	zhi4	马负重难行貌	None	None
+騺	zhi4	止而不前	None	None
+騺	zhi4	马脚屈	None	None
+騺	zhi4	马狠 引申为凶猛，勇猛	None	None
+騺	chi4	[騺曼]马拒扼迟顿貌 一说马旁出	None	None
+騹	None	同=騏	None	騏
+𬴆	None	=騹的类推简化字	None	騹
+䮲	None	同=騜	None	騜
+⿰马黄	None	=䮲的类推简化字	None	䮲
+䮮	mai4	[䮰䮮]也作“馲=𩢷” 骡类	None	𩢷
+𩥳	None	同=驖	None	驖
+𩥲	chi4	[𩥲𩥲]马快跑	None	None
 驅	None	录入中	None	None
 驃	None	录入中	None	None
 骠	None	录入中	None	None
