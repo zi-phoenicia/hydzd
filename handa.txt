@@ -87086,13 +87086,15 @@
 䯃	None	=𩣑的类推简化字	None	𩣑
 𩧰	None	=䮝的类推简化字	None	䮝
 䮇	None	同=驈	None	驈
-𩣒	None	录入中	None	None
-𩢳	None	录入中	None	None
-𩢺	None	录入中	None	None
-骉	None	录入中	None	None
-𩣃	None	录入中	None	None
-駴	None	录入中	None	None
-𩣩	None	录入中	None	None
+𩣒	None	同=騮	None	騮
+𩢳	qu2	马后足皆白 也作=翑	None	翑
+𩢺	None	同=駽	None	駽
+⿰馬⿱又丑	None	同=騶	None	騶
+骉	None	=驫的类推简化字	None	驫
+𩣃	None	同=𩤘	None	𩤘
+駴	None	同=駭	None	駭
+𮪢	None	=駴的类推简化字	None	駴
+𩣩	None	同=駈(驅)	None	駈
 𩣘	None	录入中	None	None
 𩣻	None	录入中	None	None
 𩤉	None	录入中	None	None
