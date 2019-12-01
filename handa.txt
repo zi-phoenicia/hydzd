@@ -86853,29 +86853,53 @@
 駉	jiong3	马肥壮貌	None	None
 𬳶	None	=駉的类推简化字	None	駉
 𩡿	None	同=罵(駡)	None	罵
-駟	si4	古代	None	None
-驷	None	录入中	None	None
-𩢫	None	录入中	None	None
-䭿	None	录入中	None	None
-𩧭	None	录入中	None	None
-𩢐	None	录入中	None	None
-𩢚	None	录入中	None	None
-駞	None	录入中	None	None
-𫘞	None	录入中	None	None
-駈	None	录入中	None	None
-駙	None	录入中	None	None
-驸	None	录入中	None	None
-𩢍	None	录入中	None	None
-𩢜	None	录入中	None	None
-駗	None	录入中	None	None
-駖	None	录入中	None	None
-駒	None	录入中	None	None
-驹	None	录入中	None	None
-𩢛	None	录入中	None	None
-駠	None	录入中	None	None
-駌	None	录入中	None	None
-驺	None	录入中	None	None
-䮀	None	录入中	None	None
+駟	si4	古代一车套四马，因以称驾四马的车或一车所驾的四马	None	None
+駟	si4	马	None	None
+駟	si4	量词 计算马匹的单位 马四匹曰驷	None	None
+駟	si4	驾；乘	None	None
+駟	si4	通=四	None	四
+駟	si4	星名，即房星	None	None
+駟	si4	姓	None	None
+驷	None	=駟的简化字	None	駟
+⿰馬囙	None	同=駰	None	駰
+𩢫	mou2	@	None	None
+䭿	yi4	马快跑	None	None
+䭿	yi4	征	None	None
+𩧭	None	=䭿的类推简化字	None	䭿
+𩢐	zhe2	[𩢐𩢷]也作“=馲𩢷” 兽名	None	馲
+𩢚	None	=䮂的讹字	None	䮂
+駞	tuo2	同=駝 1.骆驼 2.弯曲 3.背负	None	駝
+駞	tuo2	下垂	None	None
+駞	tuo2	用同=拖(tuo2) 拉	None	拖
+𫘞	None	=駞的类推简化字	None	駞
+駈	None	同=驅	None	驅
+駙	fu4	古指驾在辕外的马 驾副车的马	None	None
+駙	fu4	附近 后作=附	None	附
+駙	fu4	疾趋	None	None
+駙	fu4	通=輔(fu3) 车箱外的立木	None	輔
+驸	None	=駙的简化字	None	駙
+⿰馬白	None	同=𩢷	None	𩢷
+𩢍	gua1	同=騧 黑嘴黄毛的马	None	騧
+𬳷	None	=𩢍的类推简化字	None	𩢍
+𩢜	None	同=駗	None	駗
+駗	zhen3	[駗驙]马负重难行	None	None
+駗	zhen3	马色	None	None
+⿰马㐱	None	=駗的类推简化字	None	駗
+駖	ling2	[駖蓋]车骑声	None	None
+駖	ling2	马众声	None	None
+駒	ju1	少壮的马	None	None
+駒	ju1	幼兽	None	None
+駒	ju1	少年	None	None
+駒	ju1	星名	None	None
+駒	ju1	姓	None	None
+駒	ju4	[駒麗]即高句丽 古国名	None	None
+驹	None	=駒的简化字	None	駒
+𩢛	ge3	马快跑	None	None
+駠	None	同=駵(騮)	None	駵
+⿰馬夘	None	同=𩤃	None	𩤃
+駌	yuan1	污面马	None	None
+驺	None	=騶的简化字	None	騶
+䮀	None	同=𩣡	None	𩣡
 駐	None	录入中	None	None
 驻	None	录入中	None	None
 䮄	None	录入中	None	None
