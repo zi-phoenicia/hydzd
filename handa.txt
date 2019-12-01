@@ -87846,28 +87846,46 @@
 𩧖	None	同=騰	None	騰
 驤	xiang1	后右足白的马 也泛指马	None	None
 驤	xiang1	马头或俯或仰	None	None
-骧	None	录入中	None	None
-𩧔	None	录入中	None	None
-䮿	None	录入中	None	None
-䯀	None	录入中	None	None
-𩧛	None	录入中	None	None
-𩧜	None	录入中	None	None
-𩧘	None	录入中	None	None
-𩧚	None	录入中	None	None
-驨	None	录入中	None	None
-𫘱	None	录入中	None	None
-𩧞	None	录入中	None	None
-𩧙	None	录入中	None	None
-𩧝	None	录入中	None	None
-驪	None	录入中	None	None
-䯁	None	录入中	None	None
-𩧢	None	录入中	None	None
-驫	None	录入中	None	None
-𩧡	None	录入中	None	None
-𩧤	None	录入中	None	None
-𩧣	None	录入中	None	None
-䯂	None	录入中	None	None
-𩧥	None	录入中	None	None
+驤	xiang1	奔驰；腾跃	None	None
+驤	xiang1	仰；上举	None	None
+驤	xiang1	快	None	None
+驤	xiang1	远	None	None
+驤	xiang1	超	None	None
+驤	xiang1	驾	None	None
+骧	None	=驤的简化字	None	驤
+𩧔	None	同=騰	None	騰
+䮿	jian3	同=蹇 劣马或跛驴	None	蹇
+𬴏	None	=䮿的类推简化字	None	䮿
+䯀	None	同=𩣘	None	𩣘
+𩧜	zhuan3	@	None	None
+𩧘	qu2	马行；马行貌	None	None
+𩧚	None	同=豞	None	豞
+驨	xi2	兽名 像马，有一角，角如鹿茸	None	None
+驨	xi2	骐骥，良马名	None	None
+𫘱	None	=驨的类推简化字	None	驨
+𩧞	None	同=𩧋	None	𩧋
+𩧙	None	同=驃	None	驃
+𩧝	None	同=𩥇	None	𩥇
+驪	li2	深黑色的马	None	None
+驪	li2	黑色	None	None
+驪	li2	“驪龍”的简称	None	None
+驪	li2	通=麗 附丽；并列	None	麗
+驪	li2	山名 在今陕西省西安市临潼区东南 古代骊戎居此，古名骊山 又名蓝田山 相传周幽王为犬戎所逐，死于此山下	None	None
+驪	li2	古邑名 在今陕西省西安市临潼区 周初骊戎所居，秦置骊邑 汉高祖刘邦徙丰民于此，改名新丰，北宋大中祥符八年改成临潼	None	None
+驪	li2	姓	None	None
+驪	chi2	[驪靬]古县名 在今甘肃省永昌县南	None	None
+𩧠	None	同=𩥴	None	𩥴
+䯁	None	同=驘(騾)	None	驘
+𩧢	None	同=騁	None	騁
+驫	biao1	众马奔驰貌	None	None
+驫	piao1	[驫驫水]也作“驫水” 古水名	None	None
+𩧡	jue2	古代神话传说中的兽名 鹿形、马足、人手	None	None
+𩧤	None	同=驔	None	驔
+𩧣	None	同=䯁	None	䯁
+䯂	shen1	众多	None	None
+䯂	shen1	众马行貌	None	None
+䯂	ji2	木盛貌	None	None
+𩧥	None	同=驢	None	驢
 鬲	li2	古代炊具 有陶制与金属制两种 圆口，三足，足中空而曲	None	None
 鬲	li2	古代丧礼用的一种瓦瓶	None	None
 鬲	ge2	鬲俞，针灸穴位名 在脊骨第七椎下两旁各一寸五分	None	None
