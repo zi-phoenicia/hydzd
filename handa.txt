@@ -86900,43 +86900,86 @@
 駌	yuan1	污面马	None	None
 驺	None	=騶的简化字	None	騶
 䮀	None	同=𩣡	None	𩣡
-駐	None	录入中	None	None
-驻	None	录入中	None	None
-䮄	None	录入中	None	None
-𩢔	None	录入中	None	None
-駝	None	录入中	None	None
-驼	None	录入中	None	None
-駜	None	录入中	None	None
-𩢎	None	录入中	None	None
-駑	None	录入中	None	None
-驽	None	录入中	None	None
-𩢓	None	录入中	None	None
-駋	None	录入中	None	None
-𩢟	None	录入中	None	None
-駕	None	录入中	None	None
-驾	None	录入中	None	None
-駊	None	录入中	None	None
-𫘟	None	录入中	None	None
-𩧯	None	录入中	None	None
-驿	None	录入中	None	None
-䮁	None	录入中	None	None
-駘	None	录入中	None	None
-骀	None	录入中	None	None
-𩢠	None	录入中	None	None
-𩢒	None	录入中	None	None
-𩢼	None	录入中	None	None
-駥	None	录入中	None	None
-𩢴	None	录入中	None	None
-𩧵	None	录入中	None	None
-𩢽	None	录入中	None	None
-駬	None	录入中	None	None
-𩢲	None	录入中	None	None
-䮆	None	录入中	None	None
-𩢷	None	录入中	None	None
-𩣋	None	录入中	None	None
-𩣕	None	录入中	None	None
-𩣄	None	录入中	None	None
-𩣊	None	录入中	None	None
+駐	zhu4	马立止	None	None
+駐	zhu4	车驾停住	None	None
+駐	zhu4	停留	None	None
+駐	zhu4	居留其地 如：驻防；驻外使节	None	None
+驻	None	=駐的简化字	None	駐
+䮄	xuan2	一岁的马	None	None
+䮄	xuan2	马黑色	None	None
+𩢔	ban4	[𩢔䮗]1.马行 2.马貌	None	None
+駝	tuo2	[橐駝]也作“馲駝”，即骆驼，也单用作“駝”	None	None
+駝	tuo2	背脊弯曲如驼峰	None	None
+駝	tuo2	用牲口负物 也作=馱	None	馱
+駝	tuo2	成块的东西 也作=坨	None	坨
+駝	tuo2	方言 取物	None	None
+駝	tuo2	量词 相当于“坨”、“块”	None	None
+驼	None	=駝的简化字	None	駝
+⿰馬宂	None	同=馾	None	馾
+駜	bi4	马肥壮貌	None	None
+⿰马必	None	=駜的类推简化字	None	駜
+𩢎	duo1	[䮩𩢎]见“䮩”	None	None
+駑	nu2	劣马	None	None
+駑	nu2	其他下等家畜	None	None
+駑	nu2	喻才能低劣	None	None
+驽	None	=駑的简化字	None	駑
+𩢓	None	=𮩴的讹字	None	𮩴
+駋	zhao1	马名	None	None
+𩢟	None	同=駕	None	駕
+駕	jia4	把车套在马身上	None	None
+駕	jia4	把车套在其他牲口身上	None	None
+駕	jia4	驾兵车，意谓兴兵	None	None
+駕	jia4	乘	None	None
+駕	jia4	驾驶 如：驾车；驾船；驾飞机	None	None
+駕	jia4	车乘	None	None
+駕	jia4	旧指皇帝	None	None
+駕	jia4	凌驾	None	None
+駕	jia4	传布	None	None
+駕	jia4	支承；搭设 也作=架	None	架
+駕	jia4	量词 马一日所行的路程为一驾	None	None
+駕	jia4	地名 春秋楚邑 故地在今安徽省无为县境	None	None
+駕	jia4	姓	None	None
+駕	jia1	通=加 增多	None	加
+驾	None	=駕的简化字	None	駕
+駊	po3	[駊騀]1.马摇头 2.马恶行 3.高大貌	None	None
+駊	po3	马行貌	None	None
+𫘟	None	=駊的类推简化字	None	駊
+𩧯	None	=驋的类推简化字	None	驋
+驿	None	=驛的简化字	None	驛
+䮁	None	同=駢	None	駢
+駘	tai2	马嚼子脱落	None	None
+駘	tai2	劣马	None	None
+駘	tai2	喻庸才	None	None
+駘	tai2	践踏	None	None
+駘	tai2	用同=鮐 “駘背”即鮐背，老寿	None	鮐
+駘	dai3	疲钝	None	None
+駘	dai3	[駘蕩]舒缓放荡 也单用	None	None
+駘	zhai4	[駘騃]马不进	None	None
+駘	tai1	古邑名 春秋时齐地，故治在今陕西省武功县西南	None	None
+駘	tai1	姓	None	None
+骀	None	=駘的简化字	None	駘
+𩢠	None	同=駘	None	駘
+𩢒	yao3	驾在车两旁的马	None	None
+𩢼	kuang1	马耳曲	None	None
+𩢼	kuang1	用同=誆 欺骗	None	誆
+駥	rong2	八尺高的马 因谓马雄壮有力	None	None
+⿰马戎	None	=駥的类推简化字	None	駥
+𩢴	jie2	马名	None	None
+𩢴	ji2	同=佶 壮健貌	None	佶
+𩧵	None	=𩢴的类推简化字	None	𩢴
+⿱执马	None	=騺的类推简化字	None	騺
+𩢽	qiong2	似马的兽	None	None
+駬	er2	良马名	None	None
+⿰马耳	None	=駬的类推简化字	None	駬
+⿰馬𫝁	None	同=騮	None	騮
+𩢲	None	同=駛	None	駛
+𬳺	None	=𩢲的类推简化字	None	𩢲
+䮆	None	同=駓	None	駓
+𩢷	mo4	[馲𩢷]见“馲”	None	None
+𩣋	None	人名用字	None	None
+𩣕	None	同=驅	None	驅
+𩣄	None	同=駁	None	駁
+𩣊	xu4	众马走貌	None	None
 䮋	None	录入中	None	None
 𩢾	None	录入中	None	None
 𩧮	None	录入中	None	None
