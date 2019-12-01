@@ -87598,40 +87598,65 @@
 䮫	lou2	大骡	None	None
 䮫	lv2	同=驢	None	驢
 ⿰馬⿳日罒力	None	同=鬘	None	鬘
-騾	None	录入中	None	None
-骡	None	录入中	None	None
-𩦀	None	录入中	None	None
-𩥴	None	录入中	None	None
-𩦁	None	录入中	None	None
-驄	None	录入中	None	None
-骢	None	录入中	None	None
-𩥾	None	录入中	None	None
-䮭	None	录入中	None	None
-𩥭	None	录入中	None	None
-騼	None	录入中	None	None
-騿	None	录入中	None	None
-𩥮	None	录入中	None	None
-䮰	None	录入中	None	None
-𫘮	None	录入中	None	None
-𩥱	None	录入中	None	None
-𩦉	None	录入中	None	None
-𩥿	None	录入中	None	None
-騽	None	录入中	None	None
-𩥵	None	录入中	None	None
-驂	None	录入中	None	None
-驍	None	录入中	None	None
-𩦥	None	录入中	None	None
-𩦇	None	录入中	None	None
-𩦘	None	录入中	None	None
-𩦦	None	录入中	None	None
-驑	None	录入中	None	None
-𩦞	None	录入中	None	None
-驚	None	录入中	None	None
-𩦌	None	录入中	None	None
-𩦟	None	录入中	None	None
-𩦙	None	录入中	None	None
-𩦈	None	录入中	None	None
-驔	None	录入中	None	None
+騾	luo2	家畜名 公驴和母马交配所生的杂种，俗称“马骡”，比驴大，抗病力及适应性强，拉力大而能持久 我国北方多用作力畜	None	None
+骡	None	=騾的简化字	None	騾
+⿰馬⿱山昌	None	同=𩧆	None	𩧆
+𩦀	None	同=𩧋(𩥴)	None	𩧋
+𩥴	None	[駣𩥴]也作“駣=𩧋” 马属	None	𩧋
+𩦁	None	同=䮔	None	䮔
+驄	cong1	青白杂色的马 一名菊花青马 也泛指马	None	None
+骢	None	=驄的简化字	None	驄
+⿰馬⿱彡忩	None	同=騣	None	騣
+𩥾	None	同=驗	None	驗
+䮭	mi4	马多恶	None	None
+䮭	mi4	马啮	None	None
+䮭	mi4	马惊视	None	None
+⿰馬𭦌	None	同=驓	None	驓
+𩥭	yu2	环眼马 也作=䁩、=魚	None	䁩
+騼	lu4	[騼䮷]1.野马 也单用 2.有騼䮷图形的军旗	None	None
+⿰馬𢉖	None	同=騼	None	騼
+騿	zhang1	马名	None	None
+𩥮	chan3	马名	None	None
+𩥮	chan3	同=産	None	産
+䮰	zhe2	兽名	None	None
+𫘮	None	=䮰的类推简化字	None	䮰
+𩥱	None	同=騰	None	騰
+𩦉	bie2	马名	None	None
+𩥿	zu2	@	None	None
+騽	xi2	马膝胫间多长毛	None	None
+騽	xi2	色黑而脊黄的马	None	None
+⿰马習	None	=騽的类推简化字	None	騽
+𩥵	None	同=驂	None	驂
+驂	can1	独辕车所驾的三匹马	None	None
+驂	can1	马	None	None
+驂	can1	乘；驾驭	None	None
+驂	can1	姓	None	None
+驍	xiao1	良马	None	None
+驍	xiao1	勇猛矫健	None	None
+驍	xiao1	投壶术语 古代游戏投壶，箭从壶中跳出，用手接住再投，屡投屡跃，矢不坠地，叫做骁	None	None
+𩦥	None	同=𩣺 也作=奔	None	𩣺
+𩦇	xi4	马奔跑	None	None
+⿰馬惡	e4	@	None	None
+𩦘	huan1	同=驩(歡) 欢乐	None	驩
+𩦦	None	同=髒	None	髒
+驑	None	同=騮	None	騮
+𩦞	None	同=𩢛	None	𩢛
+驚	jing1	马因受突然来的刺激而精神紧张，行动失常	None	None
+驚	jing1	恐惧；惶恐	None	None
+驚	jing1	惊异	None	None
+驚	jing1	惊动；震动 如：惊天动地	None	None
+驚	jing1	纷乱貌	None	None
+驚	jing1	快速	None	None
+驚	jing1	病名 即小儿惊风症	None	None
+驚	jing1	通=警(jing3) 警戒	None	警
+𩦌	sang1	色黄而尾白的马	None	None
+𩦌	shuang1	[騯𩦌]浅黄色的马	None	None
+𩦟	None	同=騤	None	騤
+𩦙	None	同=𩥲	None	𩥲
+𩦈	None	同=驃	None	驃
+驔	dian4	黄色脊毛的黑马	None	None
+驔	dian4	马脚胫有长毛	None	None
+⿰马覃	None	=驔的类推简化字	None	驔
 𩦚	None	录入中	None	None
 𩦎	None	录入中	None	None
 𩦤	None	录入中	None	None
