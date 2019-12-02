@@ -74842,36 +74842,55 @@
 䚬	lin2	@	None	None
 𧥁	None	同=觿	None	觿
 𧥂	None	同=䚧	None	䚧
-䚨	None	录入中	None	None
-𧤾	None	录入中	None	None
-𧥆	None	录入中	None	None
-䚪	None	录入中	None	None
-觸	None	录入中	None	None
-𧥅	None	录入中	None	None
-觷	None	录入中	None	None
-䚫	None	录入中	None	None
-𧥈	None	录入中	None	None
-𧥊	None	录入中	None	None
-觺	None	录入中	None	None
-𧥉	None	录入中	None	None
-𧥌	None	录入中	None	None
-𧥋	None	录入中	None	None
-觽	None	录入中	None	None
-𧥏	None	录入中	None	None
-觻	None	录入中	None	None
-𧥎	None	录入中	None	None
-𧥍	None	录入中	None	None
-觾	None	录入中	None	None
-𧥑	None	录入中	None	None
-𧥒	None	录入中	None	None
-䚭	None	录入中	None	None
-𧥓	None	录入中	None	None
-觿	None	录入中	None	None
-𧥖	None	录入中	None	None
-𧥕	None	录入中	None	None
-𧥗	None	录入中	None	None
-𧥘	None	录入中	None	None
-𧥚	None	录入中	None	None
+䚨	fei4	古代射鸟时收回箭上系绳的器具	None	None
+𧤾	None	同=觼	None	觼
+𧥆	su4	[觳𧥆]也作“觳=觫” 恐惧颤抖貌	None	觫
+䚪	guan1	角弯貌	None	None
+䚪	guan1	同=鱞(鰥)	None	鱞
+觸	chu4	用角抵触	None	None
+觸	chu4	撞；碰	None	None
+觸	chu4	接触	None	None
+觸	chu4	遭受，遇到	None	None
+觸	chu4	触动；引发	None	None
+觸	chu4	犯；触犯	None	None
+觸	chu4	污，浊	None	None
+觸	chu4	佛家语 与色、声、香、味、法为“六尘”	None	None
+觸	chu4	距离	None	None
+觸	chu4	据	None	None
+觸	chu4	姓	None	None
+𧥅	None	同=觿	None	觿
+觷	xue2	加工兽角，使成器具	None	None
+觷	hu2	角声	None	None
+䚫	xi2	装饰在杖头的角制品	None	None
+䚫	xi2	用角装饰马鞭头	None	None
+䚫	qiao1	同=𢿲 击	None	𢿲
+𧥈	jian1	角	None	None
+𧥊	None	同=㱎	None	㱎
+觺	yi2	[觺觺]角锐利貌	None	None
+𧥉	None	=觴的讹字	None	觴
+𧥌	kuang4	角刺	None	None
+𧥋	wo4	@	None	None
+觽	None	同=觿	None	觿
+𧥏	None	同=觿	None	觿
+觻	li4	角锋	None	None
+觻	lu4	[觻得]古县名，在今甘肃省张掖市西北 自汉至魏为张掖治所	None	None
+𧥎	jue2	有舌的环，用来系辔	None	None
+𧥍	biao1	同=鑣	None	鑣
+𧥍	biao1	角名	None	None
+觾	yan4	同=燕 鸟名	None	燕
+𧥑	bi4	[屠𧥑]也作“屠=觱” 羌人所吹兽角号，用以惊马	None	觱
+𧥒	None	=𧥓的讹字	None	𧥓
+䚭	xuan2	挥角貌	None	None
+䚭	xuan2	古亭名，在今河南省柘城县北	None	None
+𧥓	chan2	角貌	None	None
+觿	xi1	古代解结的用具 用骨、玉等制作，形状像锥 也用为佩饰	None	None
+觿	xi1	同=蠵	None	蠵
+𧥖	li2	角	None	None
+𧥖	shi3	分	None	None
+𧥕	zi1	[𧥕蠵]也作“=蟕蠵” 一种龟	None	蟕
+𧥗	None	同=𧥖	None	𧥖
+𧥘	None	同=觸	None	觸
+𧥚	fa2	𧥚理	None	None
 言	None	录入中	None	None
 𧥞	None	录入中	None	None
 𧥟	None	录入中	None	None
@@ -78279,15 +78298,23 @@
 𨷻	lan2	擅自出入 后作=闌	None	闌
 𨷽	yan2	@	None	None
 𨷾	dang4	@	None	None
-隹	None	录入中	None	None
-隼	None	录入中	None	None
-𨾅	None	录入中	None	None
-𨾇	None	录入中	None	None
-䧱	None	录入中	None	None
-隺	None	录入中	None	None
-𨾆	None	录入中	None	None
-隽	None	录入中	None	None
-难	None	录入中	None	None
+隹	zhui1	短尾鸟的总名	None	None
+隹	zhui1	柘实，桑果	None	None
+隹	cui1	[畏隹]也作“隹隹” 高达	None	None
+隹	wei2	同=惟 助词 用于句首，表示发端	None	惟
+隼	sun3	猛禽 鸟纲，隼科各种类的通称 在我国有小隼、游隼、燕隼、灰背隼、红脚隼、红隼等，飞行速度很快，性锐敏，善袭击，猎人多饲之，使助捕鸟兔	None	None
+隼	sun3	鼻子 也作=準	None	準
+𨾅	None	同=𩾔	None	𩾔
+𨾇	None	同=鳪	None	鳪
+䧱	None	同=鳩	None	鳩
+隺	hu2	极高	None	None
+隺	que4	[隺然]心志高	None	None
+隺	he4	鸟往高处飞	None	None
+隺	he4	同=鶴 白鹤	None	鶴
+𨾆	None	同=𩾗	None	𩾗
+隽	juan4	同=雋	None	雋
+隽	jun4	同=雋 才智出众的人	None	雋
+难	None	=難的简化字	None	難
 隻	None	录入中	None	None
 䧲	None	录入中	None	None
 𨾌	None	录入中	None	None
