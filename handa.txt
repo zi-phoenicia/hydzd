@@ -74369,55 +74369,83 @@
 𧳍	xiao1	山魈	None	None
 貋	None	同=豻	None	豻
 𧳒	None	同=貌	None	貌
-貍	None	录入中	None	None
-𧳌	None	录入中	None	None
-𧳖	None	录入中	None	None
-貌	None	录入中	None	None
-𧳐	None	录入中	None	None
-𧳊	None	录入中	None	None
-𧳋	None	录入中	None	None
-䝜	None	录入中	None	None
-𧳯	None	录入中	None	None
-貓	None	录入中	None	None
-𧳟	None	录入中	None	None
-𧳣	None	录入中	None	None
-䝝	None	录入中	None	None
-𧳝	None	录入中	None	None
-䝞	None	录入中	None	None
-𧳠	None	录入中	None	None
-𧳡	None	录入中	None	None
-貎	None	录入中	None	None
-𧳤	None	录入中	None	None
-𧳞	None	录入中	None	None
-貏	None	录入中	None	None
-𧳥	None	录入中	None	None
-𧳜	None	录入中	None	None
-𧳚	None	录入中	None	None
-𧳛	None	录入中	None	None
-𧳙	None	录入中	None	None
-𧳳	None	录入中	None	None
-䝟	None	录入中	None	None
-𧳲	None	录入中	None	None
-𧳧	None	录入中	None	None
-𧳪	None	录入中	None	None
-貒	None	录入中	None	None
-𧳸	None	录入中	None	None
-𧳮	None	录入中	None	None
-𧳶	None	录入中	None	None
-𧳴	None	录入中	None	None
-貐	None	录入中	None	None
-𧳭	None	录入中	None	None
-𫎌	None	录入中	None	None
-𧳫	None	录入中	None	None
-貑	None	录入中	None	None
-𧳬	None	录入中	None	None
-𧳨	None	录入中	None	None
-𧳩	None	录入中	None	None
-𧳦	None	录入中	None	None
-貘	None	录入中	None	None
-𧳵	None	录入中	None	None
-䝠	None	录入中	None	None
-𧳷	None	录入中	None	None
+貍	li2	同=狸 野貍 属脊椎动物哺乳类猫科动物 大小似狐，毛杂黄色，有斑如猫，圆头大尾，善窃鸡鸭	None	狸
+貍	li2	灵猫之一种 产地遍布华南各省，常穴居低下或树洞中 食小型动物及野果等 灵猫香腺的分泌物，可制香料	None	None
+貍	li2	古地名	None	None
+貍	mai2	通=埋 放入坑中用土盖上	None	埋
+貍	yu4	臭，腐臭	None	None
+𧳌	tu1	兽名	None	None
+𧳖	None	同=貌	None	貌
+貌	mao4	面容；相貌	None	None
+貌	mao4	外表，外观	None	None
+貌	mao4	容色，姿态	None	None
+貌	mao4	相似；像似	None	None
+貌	mao4	礼貌	None	None
+貌	mao4	巧，治	None	None
+貌	mao4	无实	None	None
+貌	mao4	古书注解用字，相当于今之“……样子” 如：徘徊，逥旋費翔之貌……	None	None
+貌	mao4	传说中的兽名	None	None
+貌	mao4	表面上	None	None
+貌	mao4	姓	None	None
+貌	mo4	描绘	None	None
+貌	mo4	通=邈(miao3) 遥远	None	邈
+貌	mo4	通=藐(miao3) 轻视	None	藐
+𧳐	hui1	兽名	None	None
+𧳐	xi1	兽名	None	None
+𧳐	xi1	同=豨	None	豨
+𧳊	None	同=獬	None	獬
+𧳋	None	同=𢊁	None	𢊁
+䝜	suan1	[䝜貎]也作“=狻猊” 狮子	None	狻
+𧳯	None	同=豬	None	豬
+貓	None	同=猫	None	猫
+𧳟	lai2	貍别名	None	None
+𧳣	dong3	同=湩	None	湩
+䝝	None	同=猗	None	猗
+𧳝	zhao4	豸	None	None
+䝞	hao4	[禺䝞]也作“禺=號” 神名	None	號
+𧳠	bi4	兽名	None	None
+𧳠	bi3	同=貏	None	貏
+𧳡	None	同=𧳅	None	𧳅
+貎	None	同=猊	None	猊
+𧳤	None	@	None	None
+𧳞	wei2	兽名	None	None
+貏	bi3	[貏豸]山势渐平貌	None	None
+𧳥	None	同=猍(𧳟)	None	猍
+𧳜	zhou3	传说中的兽名	None	None
+𧳚	cui3	兽名	None	None
+𧳛	sha3	兽名	None	None
+𧳙	si4	貍子	None	None
+𧳳	None	同=䝟	None	䝟
+䝟	ya4	[䝟貐]也作“=猰㺄” 兽名	None	猰
+𧳲	None	同=貒	None	貒
+𧳧	xie2	兽名	None	None
+𧳪	wei4	有毛刺似毫猪的兽	None	None
+貒	tuan1	猪獾	None	None
+貒	tuan1	同=𧤗 兽名	None	𧤗
+貒	tuan4	野猪	None	None
+𧳸	gu3	[𧳸貀]兽名	None	None
+𧳮	zhong4	乳	None	None
+𧳮	zhong4	一种似豹的兽	None	None
+𧳶	sou1	[䝣𧳶]见“䝣”	None	None
+𧳴	None	同=貏	None	貏
+貐	yu3	[䝟貐]见“䝟”	None	None
+𧳭	None	同=猿	None	猿
+𫎌	None	=貗的类推简化字	None	貗
+𧳫	you2	同=猶 兽名	None	猶
+𧳫	jiu1	犬名	None	None
+𧳫	qiu1	良犬	None	None
+𧳫	you4	同=蜼	None	蜼
+貑	jia1	[貑羆]熊的一种	None	None
+𧳬	mei2	兽名	None	None
+𧳨	rao3	兽名 也作=猱	None	猱
+𧳩	tuan4	同=貒 野猪	None	貒
+𧳦	nao3	兽名 雌貉	None	None
+𬥊	None	=䝡的类推简化字	None	䝡
+貘	mo4	兽名	None	None
+貘	mo4	一种形似犀，但鼻端无角，较矮小的兽 属哺乳科貘科动物 尾短，几乎不见，鼻端向前突出很长，能自由伸缩 皮厚，毛少，身体中部灰白色，其余各部黑色 前肢四趾，后肢三趾，栖于密林多水处 善游泳，遇敌即逃入水中 食物以嫩芽、果实、树叶为主 产于马来、爪哇、南美等地	None	None
+𧳵	None	同=猼	None	猼
+䝠	None	同=獂(豲)	None	獂
+𧳷	None	同=𤠔(猿)	None	𤠔
 𧳼	None	录入中	None	None
 𧳿	None	录入中	None	None
 貔	None	录入中	None	None
