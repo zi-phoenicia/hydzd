@@ -74168,28 +74168,39 @@
 𧮲	None	同=㕣	None	㕣
 𧮰	han1	[𧮰谺]也作“=谽谺” 1.山谷空大貌 2.涧谷	None	谽
 𧮱	fen2	谷名 在今山西省新绛县东北	None	None
-谻	None	录入中	None	None
-𧮳	None	录入中	None	None
-𧮴	None	录入中	None	None
-䜭	None	录入中	None	None
-䜬	None	录入中	None	None
-谼	None	录入中	None	None
-𧮶	None	录入中	None	None
-𧮵	None	录入中	None	None
-𧮷	None	录入中	None	None
-𧮹	None	录入中	None	None
-谽	None	录入中	None	None
-䜮	None	录入中	None	None
-𧯀	None	录入中	None	None
-𧮺	None	录入中	None	None
-𧮿	None	录入中	None	None
-𧮻	None	录入中	None	None
-䜯	None	录入中	None	None
-𧮼	None	录入中	None	None
-谾	None	录入中	None	None
-𧯃	None	录入中	None	None
-𧯁	None	录入中	None	None
-𧯂	None	录入中	None	None
+谻	ji2	足相踦谻	None	None
+𧮳	han1	[𧮳閜]陵谷之形	None	None
+𧮴	hong2	@	None	None
+⿰谷龙	None	=豅的类推简化字	None	豅
+䜭	jun4	同=濬(浚)	None	濬
+䜭	rui4	同=叡(睿)	None	叡
+䜬	None	同=岫	None	岫
+谼	hong2	大谷；深沟	None	None
+谼	hong2	桥拱，桥下通水道	None	None
+谼	hong2	大谷名	None	None
+谼	hong2	用同=洪 大水	None	洪
+𧮶	hou2	谷名 在今河南省荥阳市境内	None	None
+𧮵	he2	两山相合	None	None
+𧮷	None	同=谻	None	谻
+𧮹	None	@	None	None
+谽	han1	[谽谺]1.山谷空大貌 也作“谽呀” 2.山石险峻貌	None	None
+䜮	liao2	谷名	None	None
+䜮	lao2	[𧯌䜮]见“𧯌”	None	None
+𧯀	ying1	山谷名	None	None
+⿰谷卖	None	=豄的类推简化字	None	豄
+𧮺	zhan4	谷名 在今山西省平定县境内 一说在今河南省荥阳市境内	None	None
+𧮿	she4	@	None	None
+𧮻	chou2	谷名	None	None
+𧮻	xiao1	谷大貌	None	None
+䜯	ju2	谷名 在今山西省平定县境内	None	None
+𧮼	tai4	[𧮼𠱛]即“=泰丙” 人名，周穆王的车右	None	泰
+谾	hong1	山谷空深貌	None	None
+谾	hong1	象声词	None	None
+谾	long2	同=豅 长大的山谷	None	豅
+𧯃	qin1	[谺𧯃]谷空貌	None	None
+⿲谷亻⿱亡天	None	同=𧮶	None	𧮶
+𧯁	None	同=𧮶	None	𧮶
+𧯂	None	同=𧮶	None	𧮶
 𧯈	None	录入中	None	None
 䜰	None	录入中	None	None
 豀	None	录入中	None	None
