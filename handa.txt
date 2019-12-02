@@ -74139,19 +74139,35 @@
 釋	yi4	通=懌 喜悦	None	懌
 𨤟	None	=𥼶的讹字	None	𥼶
 𨤡	guang4	饰色	None	None
-谷	None	录入中	None	None
-䜪	None	录入中	None	None
-䜫	None	录入中	None	None
-𧮮	None	录入中	None	None
-谸	None	录入中	None	None
-𧮭	None	录入中	None	None
-𧮬	None	录入中	None	None
-谹	None	录入中	None	None
-𧮯	None	录入中	None	None
-谺	None	录入中	None	None
-𧮲	None	录入中	None	None
-𧮰	None	录入中	None	None
-𧮱	None	录入中	None	None
+谷	gu3	两山之间的水流	None	None
+谷	gu3	两山中间的流水道	None	None
+谷	gu3	两山之间狭长而有出口的地带	None	None
+谷	gu3	深的坑穴	None	None
+谷	gu3	中医学名词 常与“谿”并称 谷亦称“大谷”，谿亦称“小谿” 均指肢体肌肉之间相互接触的缝隙或凹陷部位，为经络气血输注出入的处所	None	None
+谷	gu3	比喻困境	None	None
+谷	gu3	通=穀 今为“穀”的简化字 1.粮食的总称 2.生长 3.保养	None	穀
+谷	gu3	姓	None	None
+谷	lu4	[谷蠡王]匈奴官名	None	None
+谷	yu4	[吐谷渾]我国古代少数民族名 属鲜卑慕容氏的一支 初游牧于辽东 西晋末，西迁至今青海省甘肃省间，以吐谷浑为国号 唐高宗龙朔三年，被吐蕃吞并	None	None
+䜪	qiu2	[䜱䜪]见“䜱”	None	None
+䜫	jiang1	谷名 在今湖北省荆州市	None	None
+䜫	hong2	同=谼 大谷；深沟	None	谼
+𧮮	qian1	山名	None	None
+𧮮	qian1	同=阡 道路	None	阡
+谸	qian1	[谸谸]也称“=芊芊” 草木青葱貌	None	芊
+𧮭	ji2	同=𠊬 疲倦	None	𠊬
+𧮭	ji2	同=谻	None	谻
+𧮬	zhen1	谷名	None	None
+𧮬	ji2	同=谻	None	谻
+𧮬	ji2	极度疲劳 也作=𠊬	None	𠊬
+谹	hong2	谷空貌	None	None
+谹	hong2	深，精深	None	None
+谹	hong2	用同=谼 桥下通水道	None	谼
+𧮯	None	同=谹	None	谹
+谺	xia2	[𧮰谺]见“𧮰”	None	None
+𧮲	None	同=㕣	None	㕣
+𧮰	han1	[𧮰谺]也作“=谽谺” 1.山谷空大貌 2.涧谷	None	谽
+𧮱	fen2	谷名 在今山西省新绛县东北	None	None
 谻	None	录入中	None	None
 𧮳	None	录入中	None	None
 𧮴	None	录入中	None	None
