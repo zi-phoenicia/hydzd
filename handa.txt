@@ -74201,39 +74201,80 @@
 ⿲谷亻⿱亡天	None	同=𧮶	None	𧮶
 𧯁	None	同=𧮶	None	𧮶
 𧯂	None	同=𧮶	None	𧮶
-𧯈	None	录入中	None	None
-䜰	None	录入中	None	None
-豀	None	录入中	None	None
-谿	None	录入中	None	None
-𣩭	None	录入中	None	None
-𧯆	None	录入中	None	None
-豁	None	录入中	None	None
-𧯉	None	录入中	None	None
-𧯊	None	录入中	None	None
-䜱	None	录入中	None	None
-豃	None	录入中	None	None
-豂	None	录入中	None	None
-𧯏	None	录入中	None	None
-𧯋	None	录入中	None	None
-𧯎	None	录入中	None	None
-𧯐	None	录入中	None	None
-𧯌	None	录入中	None	None
-𧯒	None	录入中	None	None
-𧯍	None	录入中	None	None
-𧯓	None	录入中	None	None
-𧯔	None	录入中	None	None
-𧯖	None	录入中	None	None
-豄	None	录入中	None	None
-䜲	None	录入中	None	None
-豅	None	录入中	None	None
-𧯗	None	录入中	None	None
-𧯘	None	录入中	None	None
-𧯙	None	录入中	None	None
-豸	None	录入中	None	None
-𧲡	None	录入中	None	None
-豻	None	录入中	None	None
-豺	None	录入中	None	None
-𧲢	None	录入中	None	None
+⿰𡧱谷	None	同=豁	None	豁
+𧯈	xi4	同=隙 1.壁间缝隙 2.闻	None	隙
+䜰	None	同=𧯌	None	𧯌
+豀	xi1	空	None	None
+豀	xi1	谷中戾石	None	None
+豀	xi1	同=谿	None	谿
+谿	xi1	山中不与外界相通的沟渠	None	None
+谿	xi1	山间的流水	None	None
+谿	xi1	山间低凹狭长的地带	None	None
+谿	xi1	中医学名词 常与“谷”并称 谷亦称“大谷”，谿亦称“小谿” 均指肢体肌肉之间相互接触的缝隙或凹陷部位，为经络气血输注出入的处所	None	None
+谿	xi1	空虚	None	None
+谿	xi1	用同=蹊 小路	None	蹊
+谿	xi1	我国古代少数民族之一 东汉至宋时，分布在今湘黔川地区 当地有五谿（雄谿、樠谿、酉谿、潕谿、辰谿），故名	None	None
+谿	xi1	地名 谿州，唐置 故城在今湖南省龙山县东南	None	None
+谿	xi1	姓	None	None
+谿	ji1	[蠰谿]灰蚱蜢	None	None
+𣩭	zhai4	[𣩭𣨀]临死时神志不清	None	None
+𧯆	huo4	同=豁	None	豁
+豁	huo4	通敞的山谷	None	None
+豁	huo4	开朗；宽敞	None	None
+豁	huo4	豁达；大度	None	None
+豁	huo4	舒展	None	None
+豁	huo4	排遣	None	None
+豁	huo4	消散	None	None
+豁	huo4	空；空虚	None	None
+豁	huo4	深邃貌	None	None
+豁	huo4	免除；豁免	None	None
+豁	huo4	形容很快，一下子	None	None
+豁	huo4	象声词	None	None
+豁	huo4	大	None	None
+豁	huo1	残缺；缺损	None	None
+豁	huo1	割裂	None	None
+豁	huo1	舍弃	None	None
+豁	hua2	[豁拳]又称猜拳 饮酒时的一种博戏 两人同时喊数并伸出手指，以所喊数目与双方指出之拳指相等者为胜，败者罚饮	None	None
+𧯉	None	同=壑	None	壑
+𧯊	xi4	同=隙 1.空隙 2.怨恨	None	隙
+䜱	man2	[䜱䜪]古亭名 在今山西省平定县境内	None	None
+豃	han3	开貌	None	None
+豃	han3	谷名	None	None
+豃	han3	溪谷深貌	None	None
+豃	gan3	人名用字 豃蜜莫末腻，古大食国酋长名	None	None
+豂	liao2	空谷	None	None
+豂	liao2	深	None	None
+豂	liao2	空	None	None
+𧯏	li4	谷名	None	None
+𧯋	xia1	[谽𧯋]同“谽=谺”	None	谺
+𧯎	None	同=澗	None	澗
+𧯐	None	同=䜱	None	䜱
+𧯌	hao2	[𧯌䜮]1.深谷貌 2.深貌 3.深谷名	None	None
+𧯒	cheng1	[𧯒谹]同“=噌吰”	None	噌
+𧯍	lao4	谷空貌	None	None
+𧯓	None	同=谺	None	谺
+𧯔	None	同=𧯌	None	𧯌
+𧯖	jun4	深谷	None	None
+𧯖	jun4	同=䜭	None	䜭
+豄	du2	沟渠	None	None
+䜲	lie4	[䜲餘聚]村落名 在今山西省平定县境内	None	None
+䜲	lie4	谷名	None	None
+豅	long2	长大的山谷	None	None
+豅	long2	山深貌	None	None
+豅	long4	石洄	None	None
+𧯗	xi1	@	None	None
+𧯘	han3	同=豃 开貌	None	豃
+𧯙	None	同=𢌔	None	𢌔
+豸	zhi4	长脊兽，如猫、虎之类	None	None
+豸	zhi4	无脚的虫，如蚯蚓之类	None	None
+豸	zhi4	制止，解决	None	None
+豸	zhi4	獬豸，古代传说中的神兽 能辨曲直，因此古代法官戴的帽子就叫獬豸冠，省称“豸冠”	None	None
+𧲡	li4	辽东犬名	None	None
+豻	an4	古时北方的一种野狗 似狐，黑嘴	None	None
+豻	an4	古时乡亭的牢狱，引申为狱讼之事	None	None
+豻	an4	猿属	None	None
+豺	chai2	兽名，俗称豺狗 也作=犲 犬科动物 形似狼，较瘦小，吠声如犬 毛色赤棕或灰黄，尾末端黑色，腹部和喉白色 性贪残，好群居，常集体攻击人畜，危害甚大	None	犲
+𧲢	zhe2	[𧲢𩢷]兽名 旧说为牡驴与牝牛所生	None	None
 豹	None	录入中	None	None
 𧲨	None	录入中	None	None
 𧲦	None	录入中	None	None
