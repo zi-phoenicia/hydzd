@@ -74275,54 +74275,76 @@
 豻	an4	猿属	None	None
 豺	chai2	兽名，俗称豺狗 也作=犲 犬科动物 形似狼，较瘦小，吠声如犬 毛色赤棕或灰黄，尾末端黑色，腹部和喉白色 性贪残，好群居，常集体攻击人畜，危害甚大	None	犲
 𧲢	zhe2	[𧲢𩢷]兽名 旧说为牡驴与牝牛所生	None	None
-豹	None	录入中	None	None
-𧲨	None	录入中	None	None
-𧲦	None	录入中	None	None
-䝗	None	录入中	None	None
-䝙	None	录入中	None	None
-豼	None	录入中	None	None
-𧲥	None	录入中	None	None
-豽	None	录入中	None	None
-𧲤	None	录入中	None	None
-䝖	None	录入中	None	None
-𧲩	None	录入中	None	None
-䝘	None	录入中	None	None
-𧲪	None	录入中	None	None
-𧲧	None	录入中	None	None
-𧲷	None	录入中	None	None
-𧲭	None	录入中	None	None
-豾	None	录入中	None	None
-𧲯	None	录入中	None	None
-𧲺	None	录入中	None	None
-𧲻	None	录入中	None	None
-𧲱	None	录入中	None	None
-𧲬	None	录入中	None	None
-𧲮	None	录入中	None	None
-𧲶	None	录入中	None	None
-𧲰	None	录入中	None	None
-貃	None	录入中	None	None
-𧲲	None	录入中	None	None
-豿	None	录入中	None	None
+豹	bao4	兽名 豹类的通称 猫科动物 似虎较小 有金钱豹、白豹、云豹等 大小视种类而异 常栖息在茂密的丛林中	None	None
+豹	bao4	姓	None	None
+𧲨	None	同=豜	None	豜
+𧲦	wan2	貉类动物	None	None
+𧲦	he2	同=貈(貉) 兽名，似狐，善睡	None	貈
+䝗	None	同=貅	None	貅
+䝙	None	=貙的类推简化字	None	貙
+豼	None	同=貔	None	貔
+𧲥	hu2	兽名	None	None
+豽	na4	同=貀	None	貀
+豽	na4	兽名，猴属	None	None
+𧲤	yong3	兽，似豕	None	None
+䝖	zhao3	豸	None	None
+䝖	zhao3	䝖獠	None	None
+𧲩	None	同=貈	None	貈
+䝘	yi4	同=毅 果决	None	毅
+𧲪	None	同=貉	None	貉
+𧲧	ba1	兽丑状	None	None
+𧲧	ba1	同=豝	None	豝
+𧲷	None	=䝗(貅)的讹字	None	䝗
+𧲭	zuo3	兽名	None	None
+豾	pi1	狸子	None	None
+𧲯	bo1	豸	None	None
+𧲺	pi2	@	None	None
+𧲻	zhai3	豹犬	None	None
+𧲱	yang1	狸类动物名	None	None
+𧲬	None	同=𧳅	None	𧳅
+𧲮	zhan3	豸	None	None
+𧲶	None	同=𧳂	None	𧳂
+𧲰	qiu1	兽名	None	None
+𧲰	chu1	同=貙	None	貙
+貃	None	同=貊	None	貊
+𧲲	None	同=狐	None	狐
+豿	gou3	同=狗 熊虎幼子名	None	狗
 𧲳	None	录入中	None	None
-𧲴	None	录入中	None	None
-貁	None	录入中	None	None
-䝚	None	录入中	None	None
-貀	None	录入中	None	None
-貂	None	录入中	None	None
-䝛	None	录入中	None	None
-𧲵	None	录入中	None	None
-貆	None	录入中	None	None
-𧳅	None	录入中	None	None
-貊	None	录入中	None	None
-𧳃	None	录入中	None	None
-𧳆	None	录入中	None	None
-𧲾	None	录入中	None	None
-貅	None	录入中	None	None
-𧳂	None	录入中	None	None
-𧳄	None	录入中	None	None
-𧲿	None	录入中	None	None
-貈	None	录入中	None	None
-𧳇	None	录入中	None	None
+𧲴	dong1	兽名，似豹有角	None	None
+貁	you4	鼬鼠之类的动物，能捕鼠	None	None
+貁	you4	同=狖 黑色的长尾猿	None	狖
+䝚	ni2	兽名，毛皮可做衣	None	None
+貀	na4	兽名	None	None
+貀	duo4	[𧳸貀]见“𧳸”	None	None
+貂	diao1	小兽 哺乳类鼬科动物 形似鼬，毛色黄黑或带紫，肢短，前肢更短于后肢 尾长多毛，古时以为冠饰 产辽东等处 多栖森林中，昼伏夜出，捕食鸟鼠等	None	None
+貂	diao1	同=㹦	None	㹦
+貂	diao1	姓	None	None
+䝛	bo1	@	None	None
+𧲵	qu2	猛	None	None
+貆	huan2	貉属兽 善攀援	None	None
+貆	huan2	貉之子	None	None
+貆	huan2	豪猪	None	None
+貆	huan1	同=貛	None	貛
+𧳅	shi4	狸类动物名	None	None
+𧳅	shi3	同=㹬 兽名，似犬	None	㹬
+貊	mo4	古代对北方部族的蔑称	None	None
+貊	mo4	古国名 1.扶余国，在长城北 2.高丽，在今朝鲜、韩国境内	None	None
+貊	mo4	兽名	None	None
+貊	mo4	安定，安静	None	None
+貊	mo4	姓	None	None
+貊	mo4	同=袹	None	袹
+𧳃	chong2	虫，豸	None	None
+𧳆	tong1	兽名	None	None
+𧳆	tong2	同=𧱁 野猪	None	𧱁
+𧲾	None	同=㹪	None	㹪
+貅	xiu1	传说中的猛兽名	None	None
+貅	xiu1	借喻为勇猛的军队	None	None
+𧳂	fu2	狐	None	None
+𧳄	xin4	兽名	None	None
+𧲿	gou3	同=豿(狗) 熊虎幼子名	None	豿
+貈	he2	同=貉	None	貉
+貈	mo4	同=貊 古族名	None	貊
+𧳇	None	同=貈(貉)	None	貈
 貉	None	录入中	None	None
 𧳁	None	录入中	None	None
 𧳉	None	录入中	None	None
