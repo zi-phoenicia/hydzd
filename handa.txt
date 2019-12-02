@@ -74455,7 +74455,7 @@
 貕	xi1	古泽名 在今山东省莱阳市东，已涸	None	None
 𧴀	None	同=貔	None	貔
 𧴂	peng2	兽名	None	None
-𧳹	shao4	兽名	None	None
+𧳹	shao1	兽名	None	None
 𧴁	chi1	猛兽名	None	None
 貖	None	同=𪕶	None	𪕶
 𧳺	None	同=𧳦	None	𧳦
