@@ -74446,43 +74446,50 @@
 𧳵	None	同=猼	None	猼
 䝠	None	同=獂(豲)	None	獂
 𧳷	None	同=𤠔(猿)	None	𤠔
-𧳼	None	录入中	None	None
-𧳿	None	录入中	None	None
-貔	None	录入中	None	None
-𧳻	None	录入中	None	None
-貕	None	录入中	None	None
-𧴀	None	录入中	None	None
-𧴂	None	录入中	None	None
-𧳹	None	录入中	None	None
-𧴁	None	录入中	None	None
-貖	None	录入中	None	None
-𧳺	None	录入中	None	None
-䝡	None	录入中	None	None
-𧴃	None	录入中	None	None
-貙	None	录入中	None	None
-𧴅	None	录入中	None	None
-𧴆	None	录入中	None	None
-貗	None	录入中	None	None
-䝢	None	录入中	None	None
-𧴊	None	录入中	None	None
-𧴇	None	录入中	None	None
-𧴄	None	录入中	None	None
-䝣	None	录入中	None	None
-𧴍	None	录入中	None	None
-𧴓	None	录入中	None	None
-䝤	None	录入中	None	None
-𧴎	None	录入中	None	None
-𧴌	None	录入中	None	None
-貚	None	录入中	None	None
-𧴔	None	录入中	None	None
-䝥	None	录入中	None	None
-䝦	None	录入中	None	None
-𧴏	None	录入中	None	None
-𧴐	None	录入中	None	None
-𧴕	None	录入中	None	None
-𧴟	None	录入中	None	None
-𧴖	None	录入中	None	None
-𧴘	None	录入中	None	None
+𧳼	pi2	猛	None	None
+𧳿	None	同=𠄉(湩)	None	𠄉
+貔	pi2	猛兽名 似虎，毛灰白色 又名白罴、白狐、执夷	None	None
+貔	pi2	狸的别名	None	None
+𧳻	None	同=䝤	None	䝤
+貕	xi1	小猪	None	None
+貕	xi1	古泽名 在今山东省莱阳市东，已涸	None	None
+𧴀	None	同=貔	None	貔
+𧴂	peng2	兽名	None	None
+𧳹	shao4	兽名	None	None
+𧴁	chi1	猛兽名	None	None
+貖	None	同=𪕶	None	𪕶
+𧳺	None	同=𧳦	None	𧳦
+䝡	None	同=獌	None	獌
+𧴃	chan3	[𧴃胡]也作“=獑猢” 兽名	None	獑
+貙	chu1	虎属猛兽，似貍而大 传说貙常以立秋日杀物祭兽，因有“貙劉”、“貙膢”之祭	None	None
+貙	chu1	虎之大者 一说虎五趾为貙	None	None
+貙	chu1	蠢	None	None
+𧴅	shuang3	兽名	None	None
+𧴆	None	同=魖	None	魖
+貗	ju3	貒之子	None	None
+貗	lou2	同=㺏(䝏)	None	㺏
+䝢	man4	同=獌	None	獌
+䝢	man4	貙的别名	None	None
+𧴊	huan4	兽名	None	None
+𧴇	wu3	兽	None	None
+𧴄	yong1	一种野牛，即犎牛 古名犦牛 领有肉堆	None	None
+䝣	qu1	[䝣𧳶]也作“䝣獀”、“=渠叟” 兽名	None	渠
+𧴍	None	同=豶	None	豶
+𧴓	nao3	同=𤡤(儂) 长毛犬	None	𤡤
+䝤	lao3	古代对西南少数民族的蔑称	None	None
+䝤	liao2	同=獠 夜猎	None	獠
+𧴎	None	同=𧳦	None	𧳦
+𧴌	fu2	兽名	None	None
+貚	tan2	[貙貚]兽名 貙属	None	None
+𧴔	None	同=貍	None	貍
+䝥	hao2	同=噑(嗥) 野兽吼叫	None	噑
+䝦	zhong1	兽名 似豹有角	None	None
+𧴏	None	同=貈	None	貈
+𧴐	None	同=𤡢	None	𤡢
+𧴕	None	同=𧴎(𧳦)	None	𧴎
+𧴟	None	同=𧴂	None	𧴂
+𧴖	wei4	古时对少数民族的蔑称	None	None
+𧴘	None	同=貉	None	貉
 𧴚	None	录入中	None	None
 𧴗	None	录入中	None	None
 𧴞	None	录入中	None	None
