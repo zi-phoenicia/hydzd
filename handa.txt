@@ -74490,28 +74490,61 @@
 𧴟	None	同=𧴂	None	𧴂
 𧴖	wei4	古时对少数民族的蔑称	None	None
 𧴘	None	同=貉	None	貉
-𧴚	None	录入中	None	None
-𧴗	None	录入中	None	None
-𧴞	None	录入中	None	None
-𧴝	None	录入中	None	None
-𧴙	None	录入中	None	None
-𧴡	None	录入中	None	None
-𧴠	None	录入中	None	None
-貛	None	录入中	None	None
-𧴢	None	录入中	None	None
-𧴣	None	录入中	None	None
-貜	None	录入中	None	None
-角	None	录入中	None	None
-𧢳	None	录入中	None	None
-𧢴	None	录入中	None	None
-𧢵	None	录入中	None	None
-𧢶	None	录入中	None	None
-觓	None	录入中	None	None
-觔	None	录入中	None	None
-𧢸	None	录入中	None	None
-𧢹	None	录入中	None	None
-觙	None	录入中	None	None
-𧢺	None	录入中	None	None
+𧴚	guai4	兽名	None	None
+𧴗	yong1	兽名，猿属	None	None
+𧴞	None	同=貉	None	貉
+𧴝	None	同=䝢	None	䝢
+𧴙	nao3	雌貉	None	None
+𧴡	None	同=獺	None	獺
+𧴠	li4	兽名	None	None
+貛	huan1	兽名 种类较多，主要由猪貛、狗貛两种 属哺乳类鼬科动物	None	None
+貛	huan1	雄性的狼	None	None
+𧴢	xin4	@	None	None
+𧴣	yan2	兽名	None	None
+貜	jue2	同=玃 大猿，俗呼马猴	None	玃
+角	jiao3	有蹄类动物头顶或鼻前所生的骨状突起物，末端较尖，有防御、攻击等功能	None	None
+角	jiao3	牛角长得周正	None	None
+角	jiao3	抓住角	None	None
+角	jiao3	动物头上像角度的东西 如：触角	None	None
+角	jiao3	额骨	None	None
+角	jiao3	古代男孩头顶两侧留的头发	None	None
+角	jiao3	形状像角的东西 如：菱角；皂角	None	None
+角	jiao3	饺子 也作=餃	None	餃
+角	jiao3	岬角 多用于地名，如我国福建省有镇海角，山东省有成山角，非洲南部有好望角	None	None
+角	jiao3	角落，物体两个边沿相接的地方 如：墙角；转弯抹角	None	None
+角	jiao3	数学名词 从一点引出的两条直线形成的，或从一条直线上展开的两个平面，或从一点上展开的多个平面所形成的空间 如：直角、锐角、两面角	None	None
+角	jiao3	古代量谷物时刮平斗斛的用具	None	None
+角	jiao3	平；使平	None	None
+角	jiao3	量词 1.饮料或土地的计量单位 2.文书的件数 3.从整体划分成角形的一部分 如：一角饼	None	None
+角	jiao3	古乐器名，多用于军队中 如：画角	None	None
+角	jiao3	星名 二十八宿之一，东方苍龙七宿的第一宿 有星两颗	None	None
+角	jiao3	斜	None	None
+角	jiao3	封裹，裹束	None	None
+角	jiao3	中国货币的辅助单位 指人民币一元的十分之一，俗称“毛”	None	None
+角	jue2	比试；竞争 如：角斗；口角	None	None
+角	jue2	衡量，考察	None	None
+角	jue2	触，触穿	None	None
+角	jue2	角色；人物 如：主角；配角	None	None
+角	jue2	行当，即主要根据戏曲演员所扮演人物的性别和性格等划分的类型 如：旦角；丑角	None	None
+角	jue2	演员 如：名角	None	None
+角	jue2	古代酒器 青铜制，容四升，形似爵而无柱与流，两尾对称，有盖 用以温酒和盛酒，出现于商代和西周初期	None	None
+角	jue2	茶器	None	None
+角	jue2	古代五声音阶的第三音，相当于工尺谱上的“工”，现代简谱上的“3”	None	None
+角	jue2	姓	None	None
+角	lu4	[角里]汉代初年隐士，四皓之一	None	None
+角	gu3	[角角]象声词 雉鸡鸣声	None	None
+𧢳	None	同=觩(觓)	None	觩
+𧢴	None	同=䚘	None	䚘
+𧢵	duo1	角短貌	None	None
+𧢶	None	同=𧢻(觸)	None	𧢻
+觓	qiu2	角曲貌	None	None
+觔	jin1	同=筋	None	筋
+觔	jin1	同=斤	None	斤
+𧢸	None	同=䚗	None	䚗
+𧢹	shen1	二十枚	None	None
+𧢹	jin1	𧢷	None	None
+觙	None	同=伋	None	伋
+𧢺	None	同=䚥(𧣚)	None	䚥
 𧢷	None	录入中	None	None
 𧢿	None	录入中	None	None
 𧣄	None	录入中	None	None
