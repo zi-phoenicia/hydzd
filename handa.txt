@@ -74345,20 +74345,30 @@
 貈	he2	同=貉	None	貉
 貈	mo4	同=貊 古族名	None	貊
 𧳇	None	同=貈(貉)	None	貈
-貉	None	录入中	None	None
-𧳁	None	录入中	None	None
-𧳉	None	录入中	None	None
-貄	None	录入中	None	None
-貇	None	录入中	None	None
-𧳀	None	录入中	None	None
-𧳎	None	录入中	None	None
-𧳔	None	录入中	None	None
-𧳏	None	录入中	None	None
-𧳑	None	录入中	None	None
-𧳕	None	录入中	None	None
-𧳍	None	录入中	None	None
-貋	None	录入中	None	None
-𧳒	None	录入中	None	None
+貉	mo4	同=貊 1.古代对北方部族的蔑称 2.古国名	None	貊
+貉	mo4	静，安静	None	None
+貉	mo4	纶绳	None	None
+貉	mo4	姓	None	None
+貉	he2	兽名，属犬科 外貌似狐，但体较肥，腿较短，尾亦短而蓬松 颊部有倒八字形的黑色纵纹，栖于河谷和山溪附近的疏林中 杂是鱼、鼠、蛙、虾、蟹等，能攀树	None	None
+貉	he2	恶	None	None
+貉	ma4	通=禡 古代出师或军队驻扎时祭神	None	禡
+貉	hao2	[貉绒]拔去硬毛的貉子皮，质地轻软	None	None
+𧳁	yi2	同=𤝻 兽名，似犬	None	𤝻
+𧳉	ding1	兽名	None	None
+貄	None	同=𧳙	None	𧳙
+貇	kun1	同=豤	None	豤
+貇	mao4	同=䫉	None	䫉
+貇	ken3	同=懇	None	懇
+𧳀	biao3	兽名 似羊，善睡	None	None
+𧳀	nao3	同=𧳦	None	𧳦
+𧳎	wu2	兽名	None	None
+𧳔	None	同=貆	None	貆
+𧳏	pei2	貔	None	None
+𧳑	None	同=𧱓	None	𧱓
+𧳕	None	同=𧳟	None	𧳟
+𧳍	xiao1	山魈	None	None
+貋	None	同=豻	None	豻
+𧳒	None	同=貌	None	貌
 貍	None	录入中	None	None
 𧳌	None	录入中	None	None
 𧳖	None	录入中	None	None
