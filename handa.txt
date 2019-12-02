@@ -78315,7 +78315,13 @@
 隽	juan4	同=雋	None	雋
 隽	jun4	同=雋 才智出众的人	None	雋
 难	None	=難的简化字	None	難
-隻	None	录入中	None	None
+隻	huo4	擒获 后作=獲	None	獲
+隻	zhi1	鸟一只	None	None
+隻	zhi1	单，与“偶”相对	None	None
+隻	zhi1	孤独；独	None	None
+隻	zhi1	独特	None	None
+隻	zhi1	量词 1.用于动物（多指飞禽、走兽） 如：三只鸡；两只兔子	None	None
+隻	zhi1	通=雙(shuang1) 两；一对	None	雙
 䧲	None	录入中	None	None
 𨾌	None	录入中	None	None
 𨾊	None	录入中	None	None
