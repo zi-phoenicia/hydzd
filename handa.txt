@@ -78562,68 +78562,97 @@
 𨿢	dong1	鸟名	None	None
 𨿫	None	同=鵸	None	鵸
 𨿩	None	同=鶈	None	鶈
-𨿧	None	录入中	None	None
-𨿰	None	录入中	None	None
-𨿪	None	录入中	None	None
-𨿻	None	录入中	None	None
-𨿠	None	录入中	None	None
-𨿯	None	录入中	None	None
-𩀑	None	录入中	None	None
-雔	None	录入中	None	None
-𨿵	None	录入中	None	None
-䧾	None	录入中	None	None
-䨀	None	录入中	None	None
-雕	None	录入中	None	None
-𨿮	None	录入中	None	None
-𨿥	None	录入中	None	None
-𨿡	None	录入中	None	None
-𨿤	None	录入中	None	None
-𨿼	None	录入中	None	None
-𨿶	None	录入中	None	None
-𨿦	None	录入中	None	None
-𨿱	None	录入中	None	None
-𨿽	None	录入中	None	None
-𨿴	None	录入中	None	None
-𩀸	None	录入中	None	None
-雚	None	录入中	None	None
-𩀉	None	录入中	None	None
-𩀀	None	录入中	None	None
-𩀄	None	录入中	None	None
-𩀋	None	录入中	None	None
-𩀊	None	录入中	None	None
-𩀎	None	录入中	None	None
-𩀍	None	录入中	None	None
-𩀇	None	录入中	None	None
-雖	None	录入中	None	None
-𩀏	None	录入中	None	None
-𩀜	None	录入中	None	None
-䨂	None	录入中	None	None
-𨿿	None	录入中	None	None
-𩀕	None	录入中	None	None
-𩀌	None	录入中	None	None
-𩀐	None	录入中	None	None
-𩀂	None	录入中	None	None
-𩀖	None	录入中	None	None
-𩀈	None	录入中	None	None
-𩀆	None	录入中	None	None
-𩀃	None	录入中	None	None
-𩀁	None	录入中	None	None
-䨁	None	录入中	None	None
-𩀅	None	录入中	None	None
-𩀠	None	录入中	None	None
-𩀵	None	录入中	None	None
-雗	None	录入中	None	None
-𩀙	None	录入中	None	None
-𩀡	None	录入中	None	None
-𩀚	None	录入中	None	None
-𩀢	None	录入中	None	None
-𩀟	None	录入中	None	None
-雙	None	录入中	None	None
-𩀗	None	录入中	None	None
-𩀘	None	录入中	None	None
-雞	None	录入中	None	None
-𩀞	None	录入中	None	None
-𩀣	None	录入中	None	None
+𨿧	None	同=鵫	None	鵫
+𨿰	None	同=𪁺	None	𪁺
+𨿪	None	同=鵾	None	鵾
+𨿻	None	同=𩀡(難)	None	𩀡
+𨿠	shui4	鹞子	None	None
+𨿠	shui4	鸟名 即子归鸟	None	None
+𨿯	None	同=鵹	None	鵹
+𩀑	None	同=鵒	None	鵒
+雔	chou2	[雔由]野蚕名	None	None
+雔	chou2	成对的鸟 引申为伴侣、匹配	None	None
+雔	chou2	相当	None	None
+𨿵	None	同=鵯	None	鵯
+䧾	None	同=𪅰	None	𪅰
+䨀	None	同=糴	None	糴
+雕	diao1	大型猛禽 鸟纲，鹰科，雕属各种的通称 嘴呈钩状，视力很强，腿部有羽毛，雌雄均黑褐色 也叫“鹫” 如：金雕；海雕	None	None
+雕	diao1	奸猾；凶猛	None	None
+雕	diao1	同=碉 碉堡	None	碉
+雕	diao1	同=琱 治玉	None	琱
+雕	diao1	通=彫 用彩画装饰 如：雕梁画栋	None	彫
+雕	diao1	姓	None	None
+𨿮	None	同=鵵	None	鵵
+𨿥	None	同=鵴	None	鵴
+𨿡	None	同=鶉	None	鶉
+𨿤	None	同=鵺	None	鵺
+𨿼	None	同=雜	None	雜
+𨿶	None	同=鶊	None	鶊
+𨿦	None	同=䳝	None	䳝
+𨿱	None	同=鵳	None	鵳
+𨿽	None	同=雖	None	雖
+𨿴	None	同=鶅	None	鶅
+𩀸	None	同=䴃	None	䴃
+雚	guan4	同=鸛 水鸟名	None	鸛
+雚	guan4	芄兰	None	None
+雚	huan2	同=萑 荻	None	萑
+雚	huan2	姓	None	None
+𩀉	None	同=鶦(鶘)	None	鶦
+𩀀	None	同=鶠	None	鶠
+𩀄	None	同=䳩	None	䳩
+𩀋	run2	雏鸡	None	None
+𩀊	None	同=鶛	None	鶛
+𩀎	None	同=鶪	None	鶪
+𩀍	None	同=𪃍	None	𪃍
+𩀇	None	同=鶚	None	鶚
+雖	sui1	虫名，形似蜥蜴有花纹而身体大 一说即水蜥蜴	None	None
+雖	sui1	推	None	None
+雖	sui1	连词 1.表示让步关系，相当于“虽然”、“尽管” 2.表示假设关系，相当于“纵使”、“即使”	None	None
+雖	sui1	通=惟(唯 wei2) 1.助词 2.副词 只，独	None	惟
+𩀏	None	同=難	None	難
+𩀜	diao1	鹰类大型猛禽 ……按：……当为=雕的异体 一说同=鶻	None	雕
+𩀜	diao1	姓	None	None
+䨂	qiu1	䨂子，雏鸡	None	None
+𨿿	chong3	雀	None	None
+𨿿	chong3	小鸟飞	None	None
+𩀕	None	同=讎	None	讎
+𩀌	None	同=離	None	離
+𩀐	None	同=鶞	None	鶞
+𩀂	None	同=䳺(鵪)	None	䳺
+𩀖	ji2	同=㗱 吮吸	None	㗱
+⿰竒隹	None	同=𨿫	None	𨿫
+𩀈	None	同=䳦	None	䳦
+𩀆	None	同=鶟	None	鶟
+𩀃	None	同=𪃯(𪂆)	None	𪃯
+𩀁	None	同=䳫(𪆴)	None	䳫
+䨁	wu4	雏鸡 也作=鶩	None	鶩
+𩀅	None	同=鶨	None	鶨
+𩀠	kou4	同=𪃟	None	𪃟
+𩀠	gu3	[布𩀠]也作“布=𪃟” 布谷鸟	None	𪃟
+𩀵	None	同=鷨	None	鷨
+雗	han4	[雗鷽]干鹊，即山鹊 鸟纲，鸦科 形似喜鹊，有文彩，嘴脚红色 也单用作“雗”或“鷽”	None	None
+雗	han4	白鹇 也叫白雉 鸟纲，雉科 头上的长冠以及下体全部纯蓝黑色而有光泽 上体和两翼均为白色，并布满整齐的V字形黑纹 尾长，中央尾羽纯白 头的裸出部分和脚均红色 也单用作“雗”	None	None
+𩀙	None	同=𪅀(難)	None	𪅀
+𩀡	None	同=難	None	難
+𩀚	None	同=𦑶	None	𦑶
+𩀢	None	壅蔽	None	None
+𩀟	None	同=鎸(鐫)	None	鎸
+雙	shuang1	禽鸟二只	None	None
+雙	shuang1	两个；一对 如：双方；双翅；成双成对	None	None
+雙	shuang1	偶数 如：双数；双号；双日	None	None
+雙	shuang1	匹敌	None	None
+雙	shuang1	往从；追随	None	None
+雙	shuang1	量词 用于成堆的东西 如：一双筷子；两双袜子	None	None
+雙	shuang1	云南等地少数民族计算田亩的单位 田广二亩、四亩、五亩都可称双，各从方俗，无定制	None	None
+雙	shuang1	姓 	None	None
+雙	shuang1	相配偶	None	None
+𩀗	None	同=鷉	None	鷉
+⿰隹従	None	同=䳷	None	䳷
+𩀘	None	同=鷂	None	鷂
+雞	None	同=鷄	None	鷄
+𩀞	cang1	[𩀞庚]同“=鶬庚” 黄鹂	None	鶬
+𩀞	cang1	同=鶬 麋鸹	None	鶬
+𩀣	None	同=雛	None	雛
 雛	None	录入中	None	None
 雜	None	录入中	None	None
 離	None	录入中	None	None
