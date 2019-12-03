@@ -78417,7 +78417,7 @@
 雋	zui4	[雋李]即“檇李” 古地名 在今浙江省嘉兴市南	None	None
 𨾟	None	同=午	None	午
 㲝	None	同=𣭲	None	𣭲
-𨾘	None	录入中	None	None
+𨾘	None	同=𪁾	None	𪁾
 𨾝	None	录入中	None	None
 𫕚	None	录入中	None	None
 雂	None	录入中	None	None
