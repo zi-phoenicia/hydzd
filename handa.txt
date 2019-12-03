@@ -78652,24 +78652,102 @@
 雞	None	同=鷄	None	鷄
 𩀞	cang1	[𩀞庚]同“=鶬庚” 黄鹂	None	鶬
 𩀞	cang1	同=鶬 麋鸹	None	鶬
+⿰𠣧隹	None	同=雛	None	雛
 𩀣	None	同=雛	None	雛
-雛	None	录入中	None	None
-雜	None	录入中	None	None
-離	None	录入中	None	None
-𩀛	None	录入中	None	None
-雠	None	录入中	None	None
-雝	None	录入中	None	None
-𩀤	None	录入中	None	None
-難	None	录入中	None	None
-𩀧	None	录入中	None	None
-𩀫	None	录入中	None	None
-𩀯	None	录入中	None	None
-𩀭	None	录入中	None	None
-𩀮	None	录入中	None	None
-𩀩	None	录入中	None	None
-𩀱	None	录入中	None	None
-𩀨	None	录入中	None	None
-𩀰	None	录入中	None	None
+雛	chu2	小鸡	None	None
+雛	chu2	幼鸟 如：雏燕	None	None
+雛	chu2	幼小的动植物	None	None
+雛	chu2	幼儿	None	None
+雛	ju3	鸟名	None	None
+雛	ju4	人名用字	None	None
+雜	za2	五彩相会	None	None
+雜	za2	驳杂不纯	None	None
+雜	za2	混合；掺杂	None	None
+雜	za2	参合；配搭	None	None
+雜	za2	紊乱 	None	None
+雜	za2	烦琐；细碎	None	None
+雜	za2	聚集	None	None
+雜	za2	众多	None	None
+雜	za2	兼	None	None
+雜	za2	都；共同	None	None
+雜	za2	旧时称等外的小官为杂职 如清代九品未入流之类或通称为佐杂	None	None
+雜	za2	传统戏曲脚色名 元杂剧、明清传奇以至京剧里的“杂”，一般扮演杂差、百姓等人物	None	None
+雜	za2	仓促	None	None
+雜	za2	穿	None	None
+雜	za2	通=帀 环绕；圈	None	帀
+離	li2	[離黄]鸟名 黄=鸝，即黄莺	None	鸝
+離	li2	失去；去掉	None	None
+離	li2	分开	None	None
+離	li2	分散	None	None
+離	li2	离别；离开	None	None
+離	li2	叛离	None	None
+離	li2	离间	None	None
+離	li2	割；砍	None	None
+離	li2	违背；违反	None	None
+離	li2	逃避	None	None
+離	li2	罗列；陈列	None	None
+離	li2	两；并	None	None
+離	li2	两国相会	None	None
+離	li2	历；经历	None	None
+離	li2	距 如：我们村离车站很近；现在离国庆节不久了	None	None
+離	li2	方言 差；错	None	None
+離	li2	明	None	None
+離	li2	古时均地之法，以四聚为一离	None	None
+離	li2	古时的一种大琴，二十弦	None	None
+離	li2	古代东方少数民族的乐名 一说即“株離”，古代西方少数民族的乐名	None	None
+離	li2	忧愁	None	None
+離	li2	断绝	None	None
+離	li2	分析	None	None
+離	li2	远 如：差不离	None	None
+離	li2	缺少 如：离了水人就无法生存	None	None
+離	li2	感应	None	None
+離	li2	稻谷落在田里，第二年生出来的稻子	None	None
+離	li2	八卦之一，卦形为☲ 又为六十四卦之一，卦形为x，离下离上	None	None
+離	li2	通=罹 遭受；遭遇	None	罹
+離	li2	通=梨(樆) 山梨	None	梨
+離	li2	通=縭 古代女子出嫁时系的佩巾	None	縭
+離	li2	通=杝(籬) 藩篱	None	杝
+離	li2	姓	None	None
+離	li4	[離支]也作“=荔枝” 果名	None	荔
+離	li4	通=麗 附着	None	麗
+離	li3	[離跂]用力攘臂貌	None	None
+離	chi1	蛟龙之属 也作=螭	None	螭
+離	chi1	通=离(螭) 猛兽	None	离
+離	gu3	[離瞀]山名	None	None
+𩀛	None	同=鶶	None	鶶
+雠	None	=讎的简化字	None	讎
+雝	None	同=雍	None	雍
+𩀤	None	同=難	None	難
+難	nan2	鸟名 也作=𪅀	None	𪅀
+難	nan2	困难；艰难；不容易	None	None
+難	nan2	感到困难	None	None
+難	nan2	厌恶；忌恨	None	None
+難	nan2	不可；不好 如：难听；难吃；难看	None	None
+難	nan2	通=戁(nan3) 1.恭敬 2.惶恐	None	戁
+難	nan2	方言 如今，目前	None	None
+難	nan2	姓	None	None
+難	nan4	灾难；忧患；不幸的遭遇	None	None
+難	nan4	畏惧	None	None
+難	nan4	抵挡；拒斥	None	None
+難	nan4	兵难，指反抗或叛乱	None	None
+難	nan4	怨仇；仇敌	None	None
+難	nan4	诘问；责难	None	None
+難	nan4	论说；争辩	None	None
+難	nuo2	茂盛	None	None
+難	nuo2	古时驱逐凶恶（疫鬼） 后作=儺	None	儺
+難	nuo2	“奈何”的合声 	None	None
+難	nuo2	语气词 相当于=哪、“呵”	None	哪
+𩀧	can2	同=䳻 雕	None	䳻
+𩀧	can2	鹢，一种能高飞的水鸟	None	None
+𩀫	ou4	鸟声 ……一说同=鷗	None	鷗
+𩀯	None	同=𪄹	None	𪄹
+𩀭	None	同=鷐	None	鷐
+𩀮	None	同=鷜	None	鷜
+𩀩	None	同=鷑	None	鷑
+𩀱	None	同=雙	None	雙
+𩀹	None	同=鷱	None	鷱
+𩀨	None	同=䳷	None	䳷
+𩀰	None	同=𩀨	None	𩀨
 䨄	None	录入中	None	None
 𩀪	None	录入中	None	None
 𩀬	None	录入中	None	None
