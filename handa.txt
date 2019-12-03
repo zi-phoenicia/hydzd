@@ -78508,49 +78508,60 @@
 䧻	None	同=鴿	None	鴿
 𨾾	tiao4	同=頫 低头听	None	頫
 𨿁	yue4	围棋术语 棋心并四面各据中一子叫“势子”，称“五𨿁” 也作=岳	None	岳
+𬯭	None	同=擒	None	擒
 雑	None	同=雜	None	雜
-𨾼	None	录入中	None	None
-雒	None	录入中	None	None
-𨿈	None	录入中	None	None
-𨾶	None	录入中	None	None
-𨿉	None	录入中	None	None
-𨾵	None	录入中	None	None
-𨿊	None	录入中	None	None
-𨿟	None	录入中	None	None
-𨿏	None	录入中	None	None
-𨿌	None	录入中	None	None
-𨿳	None	录入中	None	None
-𨿙	None	录入中	None	None
-𨿋	None	录入中	None	None
-𨿑	None	录入中	None	None
-𨿎	None	录入中	None	None
-𨿔	None	录入中	None	None
-䧼	None	录入中	None	None
-𨿍	None	录入中	None	None
-𨿖	None	录入中	None	None
-𨿒	None	录入中	None	None
-雓	None	录入中	None	None
-𨿛	None	录入中	None	None
-𨿕	None	录入中	None	None
-䧽	None	录入中	None	None
-𨿜	None	录入中	None	None
-𨿐	None	录入中	None	None
-𨿚	None	录入中	None	None
-𨿗	None	录入中	None	None
-𨿘	None	录入中	None	None
-𨿝	None	录入中	None	None
-𨿞	None	录入中	None	None
-𨿭	None	录入中	None	None
-𨿓	None	录入中	None	None
-𨿬	None	录入中	None	None
-𨿲	None	录入中	None	None
-𨿣	None	录入中	None	None
-䧿	None	录入中	None	None
-𨿨	None	录入中	None	None
-𩀔	None	录入中	None	None
-𨿢	None	录入中	None	None
-𨿫	None	录入中	None	None
-𨿩	None	录入中	None	None
+𨾼	None	同=𪀗	None	𪀗
+雒	luo4	鸟名 忌欺，即“鵋䳢”，今称鸺鹠，也叫横纹小鸮	None	None
+雒	luo4	白鬣的黑马	None	None
+雒	luo4	用同=絡 连络	None	絡
+雒	luo4	脑额 也作=頟(e2)	None	頟
+雒	luo4	印烙 后作=烙	None	烙
+雒	luo4	古都邑名 汉光武建都=洛阳，自以汉为火德，忌水，改洛阳为雒阳 三国魏以后复改为洛阳 故址在今河南省洛阳市洛河北岸、瀍水东西两岸，东名成周，西名王城 也作“洛”	None	洛
+雒	luo4	古县名 雒县，西汉置 故城在今四川省广汉市北	None	None
+雒	luo4	水名 1.雒水 即今河南省=洛河 是注入黄河的支流 2.雒江，也叫雒水、洛水 在四川省境，源出什邡市章山，经广汉市、金堂县至新都谷入湔水	None	洛
+雒	luo4	姓	None	None
+𨿈	None	=售的讹字	None	售
+𨾶	None	同=鴳	None	鴳
+𨿉	None	同=雛	None	雛
+𨾵	None	同=鴽	None	鴽
+𨿊	None	同=雛	None	雛
+𨿟	None	同=雝	None	雝
+𨿏	wu2	同=鷡	None	鷡
+𨿌	None	同=鵏	None	鵏
+𨿳	None	同=鷹	None	鷹
+𨿙	None	同=𪁪	None	𪁪
+𨿋	None	同=鵛	None	鵛
+𨿑	None	同=䳚	None	䳚
+𨿎	None	同=鵙	None	鵙
+𨿔	None	同=鵑	None	鵑
+䧼	None	同=鵠	None	鵠
+𨿍	None	同=鵝	None	鵝
+𨿖	None	同=鵚	None	鵚
+𨿒	None	同=𪁛	None	𪁛
+雓	yu2	大种鸡的幼雏	None	None
+𨿛	zhi4	北方雉名	None	None
+𨿛	xi1	同=𨿕(鵗)	None	𨿕
+𨿕	None	同=鵗	None	鵗
+䧽	None	=𨿐的讹字	None	𨿐
+𨿜	None	同=鵒	None	鵒
+𨿐	cui3	细颈	None	None
+𨿚	None	同=䳕	None	䳕
+𨿗	None	同=鵟	None	鵟
+𨿘	None	同=雉	None	雉
+𨿝	None	同=雉	None	雉
+𨿞	None	=售的讹字	None	售
+𨿭	wei2	飞貌	None	None
+𨿓	None	同=鵔	None	鵔
+𨿬	None	同=鶄	None	鶄
+𨿲	None	同=鵱	None	鵱
+𨿣	None	同=䳢	None	䳢
+䧿	que4	同=鵲 1.喜鹊 2.犬名	None	鵲
+䧿	xi1	雉名	None	None
+𨿨	None	同=雗	None	雗
+𩀔	None	同=𪃯(𪂆)	None	𪃯
+𨿢	dong1	鸟名	None	None
+𨿫	None	同=鵸	None	鵸
+𨿩	None	同=鶈	None	鶈
 𨿧	None	录入中	None	None
 𨿰	None	录入中	None	None
 𨿪	None	录入中	None	None
