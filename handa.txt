@@ -78329,25 +78329,94 @@
 隿	yi4	同=弋 用带绳子的箭射猎	None	弋
 𨾍	None	同=隿(弋)	None	隿
 𨾎	kui2	同=𠊾 左右视；顾貌	None	𠊾
-雀	None	录入中	None	None
-𨾏	None	录入中	None	None
-𨾉	None	录入中	None	None
-𨾐	None	录入中	None	None
-𨾋	None	录入中	None	None
-𨾈	None	录入中	None	None
-雃	None	录入中	None	None
-𨾚	None	录入中	None	None
-𨾜	None	录入中	None	None
-集	None	录入中	None	None
-䧴	None	录入中	None	None
-雁	None	录入中	None	None
-雄	None	录入中	None	None
-𨾙	None	录入中	None	None
-雅	None	录入中	None	None
-𨾓	None	录入中	None	None
-䧳	None	录入中	None	None
-雋	None	录入中	None	None
-𨾟	None	录入中	None	None
+⿱⿲丨丨隹一	None	同=瞧	None	瞧
+雀	que4	鸟名 俗称麻雀 鸟纲，文鸟科 身体小，背面褐色多黑斑点，雌雄羽毛的颜色多不相同，嘴呈圆锥状，翅膀长 多栖止于有人类居住的地方 营巢于屋壁、檐边或树洞 吃植物的果实或种子，也吃昆虫	None	None
+雀	que4	赤黑色	None	None
+雀	que4	燕麦	None	None
+雀	qiao1	[雀子]雀斑	None	None
+雀	qiao3	[雀盲眼]方言 夜盲 雀皆至夕而不见物，因谓夜盲为雀盲	None	None
+𨾏	None	同=隻	None	隻
+𨾉	jiu3	姓	None	None
+𨾐	None	同=鴇	None	鴇
+𨾋	None	同=鳲	None	鳲
+𨾈	None	同=鳲	None	鳲
+雃	qian1	雝渠 鸟名，即鹡鸰	None	None
+雃	qian1	人名用字	None	None
+雃	jian1	同=鳽 鸟名，即鵁鶄	None	鳽
+𨾚	gui1	[子𨾚]也作“子=鳺”、“子=巂” 鸟名 即子=規	None	鳺
+𨾚	fu1	[𨾚鴀]同“=鳺鴀” 鸟名 即布谷鸟	None	鳺
+𨾜	None	同=售	None	售
+集	ji2	群鸟栖止于树上	None	None
+集	ji2	至	None	None
+集	ji2	聚集；会合 如：集大成	None	None
+集	ji2	我国图书的经、史、子、集四部分类法把诗文等作品列为集部	None	None
+集	ji2	汇辑单篇作品的书册 如：诗集；画集	None	None
+集	ji2	某些篇幅较多而分为若干部分的书籍中的一部分，或本数较多而分为若干段落的影片、电视片中的一个段落 如：上集；第一集	None	None
+集	ji2	定期的或临时的市场 因也称市镇为集	None	None
+集	ji2	众	None	None
+集	ji2	掺杂	None	None
+集	ji2	一致	None	None
+集	ji2	和睦；安定	None	None
+集	ji2	成就	None	None
+集	ji2	取	None	None
+集	ji2	年	None	None
+集	ji2	宴会	None	None
+集	ji2	数学中的基本概念之一 也称“集合” 具有某种属性的事物的全体，称为“集”；组成集的每个事物称为该集的元素	None	None
+集	ji2	古州名 西魏废帝三年（公元554年）改东巴州置 取东北集川水为名，寄治梁州（今陕西省汉中市） 北周天和五年（公元570年）移治难江县（今四川省南江县） 宋熙宁五年（1072年）废，县属巴州	None	None
+集	ji2	姓	None	None
+䧴	zhi1	鸟名	None	None
+䧴	zhi1	规划；计算	None	None
+雁	yan4	鸟名 鸟纲，鸭科，雁亚科各种类的通称 形状略像鹅，颈和翼较长；足和尾较短，羽毛淡紫褐色 每年春分后飞往北方，秋分后飞回南方，为候鸟的一种	None	None
+雁	yan4	伪造的；假的 也作=贋	None	贋
+雁	yan4	姓	None	None
+雄	xiong2	公（鸟）	None	None
+雄	xiong2	泛指生物中能产生精细胞的 如：雄猫；雄蕊	None	None
+雄	xiong2	指男性	None	None
+雄	xiong2	雄壮；宏伟；威武；有力 如：雄姿；雄图；雄辩	None	None
+雄	xiong2	称雄	None	None
+雄	xiong2	杰出的人物或强有力的国家 如：战国七雄	None	None
+雄	xiong2	比喻高强、胜利	None	None
+雄	xiong2	地势或关隘雄奇；雄伟 如：夔门天下雄	None	None
+雄	xiong2	两虹同时出现，位于内侧，光带色彩鲜明的，古称雄虹	None	None
+雄	xiong2	古州名 五代周显德流年（959年）置，治归义县（今河北省雄县） 唐代划分州的等级之一，属第一等	None	None
+雄	xiong2	姓	None	None
+𨾙	None	同=鴇	None	鴇
+雅	ya1	同=鴉 鸟名	None	鴉
+雅	ya3	正，合乎规范的	None	None
+雅	ya3	《诗》六义之一	None	None
+雅	ya3	训诂的书多有名雅的 如：《爾雅》；《廣雅》；《通雅》	None	None
+雅	ya3	指周代的万舞	None	None
+雅	ya3	高尚；温文尔雅 如：雅兴；雅人	None	None
+雅	ya3	美好；艳丽 如：雅观；雅致	None	None
+雅	ya3	仪	None	None
+雅	ya3	平素的交情	None	None
+雅	ya3	乐器名	None	None
+雅	ya3	酒器名	None	None
+雅	ya3	（量）大	None	None
+雅	ya3	敬辞 多用于称对方的情意、举动	None	None
+雅	ya3	副词 1.表示动作行为或事物的状态、性质向来如此，相当于“素常”、“向来” 2.表示程度，相当于“很”、“极”	None	None
+雅	ya3	助词 用于句首，无义	None	None
+雅	ya3	通=夏(xia4) 古代指我国中原地区	None	夏
+雅	ya3	古州名 隋仁寿四年置，治蒙山县（今四川省雅安市）	None	None
+雅	ya3	姓	None	None
+雅	ya2	[君雅]也作“君=牙” 人名	None	牙
+雅	ya2	同=牙 小雅，即小=伢，对小孩子的称呼	None	牙
+𨾓	ge1	同=𩾷	None	𩾷
+𨾓	yi4	=隿的讹字	None	隿
+䧳	ci2	同=雌 母（鸟）	None	雌
+䧳	zhui1	鸟所䧳	None	None
+䧳	zhui1	住	None	None
+䧳	zhui1	止	None	None
+雋	juan4	鸟肉肥美 也指美味	None	None
+雋	juan4	（言论、诗文）意味深长	None	None
+雋	juan4	古时以小鸟为射的，射中为隽	None	None
+雋	juan4	科举时代喻称考中	None	None
+雋	juan4	姓	None	None
+雋	jun4	通=俊 才智出众	None	俊
+雋	jun4	克敌	None	None
+雋	zui4	[雋李]即“檇李” 古地名 在今浙江省嘉兴市南	None	None
+𨾟	None	同=午	None	午
+㲝	None	同=𣭲	None	𣭲
 𨾘	None	录入中	None	None
 𨾝	None	录入中	None	None
 𫕚	None	录入中	None	None
