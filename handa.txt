@@ -78322,12 +78322,13 @@
 隻	zhi1	独特	None	None
 隻	zhi1	量词 1.用于动物（多指飞禽、走兽） 如：三只鸡；两只兔子	None	None
 隻	zhi1	通=雙(shuang1) 两；一对	None	雙
-䧲	None	录入中	None	None
-𨾌	None	录入中	None	None
-𨾊	None	录入中	None	None
-隿	None	录入中	None	None
-𨾍	None	录入中	None	None
-𨾎	None	录入中	None	None
+䧲	gan1	[䧲鵠]鹊	None	None
+𨾌	yu2	@	None	None
+𨾊	hong2	同=䲨(鴻) 鸿雁	None	䲨
+𨾊	hong2	佣	None	None
+隿	yi4	同=弋 用带绳子的箭射猎	None	弋
+𨾍	None	同=隿(弋)	None	隿
+𨾎	kui2	同=𠊾 左右视；顾貌	None	𠊾
 雀	None	录入中	None	None
 𨾏	None	录入中	None	None
 𨾉	None	录入中	None	None
