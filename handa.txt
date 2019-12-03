@@ -78418,66 +78418,97 @@
 𨾟	None	同=午	None	午
 㲝	None	同=𣭲	None	𣭲
 𨾘	None	同=𪁾	None	𪁾
-𨾝	None	录入中	None	None
-𫕚	None	录入中	None	None
-雂	None	录入中	None	None
-𨾛	None	录入中	None	None
-𨾞	None	录入中	None	None
-䧶	None	录入中	None	None
-𨾒	None	录入中	None	None
-𨾔	None	录入中	None	None
-㕠	None	录入中	None	None
-雇	None	录入中	None	None
-䧵	None	录入中	None	None
-𨾕	None	录入中	None	None
-𨾗	None	录入中	None	None
-𨾢	None	录入中	None	None
-𨾖	None	录入中	None	None
-𨿆	None	录入中	None	None
-䧸	None	录入中	None	None
-𨾬	None	录入中	None	None
-𨾭	None	录入中	None	None
-䧺	None	录入中	None	None
-𨾮	None	录入中	None	None
-𨾩	None	录入中	None	None
-雎	None	录入中	None	None
-𨾡	None	录入中	None	None
-雉	None	录入中	None	None
-𨾤	None	录入中	None	None
-𨾪	None	录入中	None	None
-𨾠	None	录入中	None	None
-𨾦	None	录入中	None	None
-雊	None	录入中	None	None
-䧷	None	录入中	None	None
-雏	None	录入中	None	None
-𨾨	None	录入中	None	None
-䧹	None	录入中	None	None
-𨾧	None	录入中	None	None
-𨾯	None	录入中	None	None
-𨾫	None	录入中	None	None
-𨾰	None	录入中	None	None
-𨾱	None	录入中	None	None
-𨾣	None	录入中	None	None
-𨾥	None	录入中	None	None
-𨾿	None	录入中	None	None
-𨾺	None	录入中	None	None
-𨾸	None	录入中	None	None
-𨾽	None	录入中	None	None
-雌	None	录入中	None	None
-雐	None	录入中	None	None
-𨾻	None	录入中	None	None
-𨾳	None	录入中	None	None
-𨾴	None	录入中	None	None
-𨿇	None	录入中	None	None
-𨾲	None	录入中	None	None
-𨾷	None	录入中	None	None
-𨾹	None	录入中	None	None
-𨿀	None	录入中	None	None
-𨿂	None	录入中	None	None
-䧻	None	录入中	None	None
-𨾾	None	录入中	None	None
-𨿁	None	录入中	None	None
-雑	None	录入中	None	None
+𨾝	None	同=𩾿	None	𩾿
+𫕚	None	=𩀨的类推简化字	None	𩀨
+雂	qin2	鸟名	None	None
+雂	qin2	鸟嘴	None	None
+雂	qin2	人名用字	None	None
+𨾛	chi3	鸟类	None	None
+𨾛	chi3	雌	None	None
+𨾛	qi2	[鸊𨾛]同“鸊=䲬” 鸡 也单用作“𨾛”	None	䲬
+𨾛	qi2	同=䲬 雁	None	䲬
+𨾞	jiu3	姓	None	None
+䧶	None	=𨾗的讹字	None	𨾗
+𨾒	hang2	鸟从高飞下 也作=䲳	None	䲳
+𨾔	fang4	鸟名	None	None
+㕠	None	同=雙	None	雙
+雇	hu4	鸟名 鸠的一种 也作=鳸	None	鳸
+雇	gu4	租赁；出钱叫人替自己做事	None	None
+雇	gu4	报酬	None	None
+雇	gu4	同=顧 1.环顾 2.照顾	None	顧
+雇	gu4	卖	None	None
+䧵	None	同=鴆	None	鴆
+𨾕	None	同=鴂	None	鴂
+𨾗	kui2	同=𨾎	None	𨾎
+𨾗	xie2	=奊的讹字	None	奊
+𨾢	None	同=䲾	None	䲾
+𨾖	None	同=鴊	None	鴊
+𨿆	None	同=鴱	None	鴱
+䧸	None	同=鴣	None	鴣
+𨾬	sui3	@	None	None
+𨾭	None	同=𨾬	None	𨾬
+䧺	None	同=雄	None	雄
+𨾮	None	同=奞	None	奞
+𨾩	None	同=䳁	None	䳁
+雎	ju1	[雎鳩]也叫“王雎” 鱼鹰 鸟纲，鹗科 上体暗褐，下体白色 趾具锐爪，适于捕鱼 常活动于江河海滨 也单用作“雎”	None	None
+雎	ju1	通=疽 中医学病名 痈疽	None	疽
+雎	ju1	水名 在湖北省中部偏西 与漳水汇合为沮漳河，于江陵县西入长江	None	None
+雎	ju1	姓	None	None
+𨾡	sui1	同=雖 1.虫名 2.连词 表示让步关系	None	雖
+𨾡	huang3	田器，农具名	None	None
+雉	zhi4	鸟名 俗称“野鸡”、“山鸡” 鸟纲，雉科 雄者羽色美丽，尾长，可做装饰品 雌者尾较短，灰褐色 善走，不能远飞	None	None
+雉	zhi4	古代计算城墙面积的单位 长三丈，高一丈为一雉	None	None
+雉	zhi4	古代博戏中的彩名 如：呼卢喝雉	None	None
+雉	zhi4	治理	None	None
+雉	zhi4	陈列	None	None
+雉	zhi4	通=絼 牛鼻绳	None	絼
+雉	zhi4	姓	None	None
+雉	kai3	[矲雉]也作“矲=矮” 桂林人称人矮为矲雉	None	矮
+雉	yi3	[下雉]古县名 故城在今湖北省阳新县附近	None	None
+雉	si4	同=𤉡(兕) 古代犀牛一类的兽名	None	𤉡
+𨾤	die2	同=䳀 鸟名 布谷鸟	None	䳀
+𨾪	None	同=𩿧	None	𩿧
+𨾠	None	=雂的讹字	None	雂
+𨾦	None	同=鴟	None	鴟
+雊	gou4	雄雉鸣	None	None
+䧷	rou2	鸟名	None	None
+䧷	rou2	姓	None	None
+雏	None	=雛的简化字	None	雛
+𨾨	None	同=𩿢	None	𩿢
+䧹	ying1	同=鹰	None	鹰
+䧹	ying1	人名用字	None	None
+𨾧	None	同=鴖(𪂆)	None	鴖
+𨾯	None	同=𨾵(鴽)	None	𨾵
+𨾫	None	同=離	None	離
+𨾰	None	=雂的讹字	None	雂
+𨾱	None	同=辝(辭)	None	辝
+𨾣	None	同=鶩	None	鶩
+𨾥	None	同=䳇	None	䳇
+𨾿	None	同=鴯	None	鴯
+𨾺	None	同=鴮	None	鴮
+𨾸	None	同=鴷	None	鴷
+𨾽	None	同=鴟	None	鴟
+雌	ci2	母（鸟）	None	None
+雌	ci2	泛指生物中能产生卵细胞的 如：雌兔；雌蕊	None	None
+雌	ci2	特指女性	None	None
+雌	ci2	柔弱	None	None
+雌	ci2	声音柔细似女性	None	None
+雌	ci2	两虹同时出现，位于外侧，光带色彩不如雄虹鲜明的，古称雌虹，又名“霓”，今称副虹	None	None
+雌	ci2	方言 1.挨 2.碰 3.偷 4.流；淌	None	None
+雐	hu1	鸟名	None	None
+𨾻	zhui1	小	None	None
+𨾳	None	同=鵒	None	鵒
+𨾴	gui1	古谷名 在今陕西省勉县境	None	None
+𨿇	zui3	@ ……按：……疑“𨿇”为=雋的俗字	None	雋
+𨾲	None	同=鴸	None	鴸
+𨾷	None	同=毨	None	毨
+𨾹	None	同=䳎	None	䳎
+𨿀	None	同=䳔	None	䳔
+𨿂	None	同=鵀	None	鵀
+䧻	None	同=鴿	None	鴿
+𨾾	tiao4	同=頫 低头听	None	頫
+𨿁	yue4	围棋术语 棋心并四面各据中一子叫“势子”，称“五𨿁” 也作=岳	None	岳
+雑	None	同=雜	None	雜
 𨾼	None	录入中	None	None
 雒	None	录入中	None	None
 𨿈	None	录入中	None	None
