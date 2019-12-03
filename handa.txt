@@ -78909,26 +78909,41 @@
 阮	ruan3	拨弦乐器“阮咸”的简称 古琵琶的一种 四弦有柱，形似月琴 相传西晋阮咸善弹此乐器，因而得名 现也有三弦的阮	None	None
 阮	ruan3	侄的代称 阮籍与侄阮咸并有盛名 世称“大小阮” 后用“小阮”作侄的代称 省称“阮” 如：贤阮	None	None
 阮	ruan3	姓	None	None
-阫	None	录入中	None	None
-𨸟	None	录入中	None	None
-阨	None	录入中	None	None
-阵	None	录入中	None	None
-阰	None	录入中	None	None
-𨸧	None	录入中	None	None
-𨸞	None	录入中	None	None
-阯	None	录入中	None	None
-阳	None	录入中	None	None
-𨸨	None	录入中	None	None
-阥	None	录入中	None	None
-𨸛	None	录入中	None	None
-阩	None	录入中	None	None
-阪	None	录入中	None	None
-阶	None	录入中	None	None
-阴	None	录入中	None	None
-𨸝	None	录入中	None	None
-𨸜	None	录入中	None	None
-𫔻	None	录入中	None	None
-阬	None	录入中	None	None
+阫	pei2	墙	None	None
+𨸟	None	=䧢的类推简化字	None	䧢
+阨	e4	同=阸	None	阸
+阨	e4	控制；拒守	None	None
+阨	ai4	同=隘	None	隘
+阵	None	=陣的简化字	None	陣
+阰	pi2	古楚地山名	None	None
+𨸧	None	同=阺	None	阺
+𨸞	None	同=阺	None	阺
+阯	zhi3	同=址 地基；墙脚	None	址
+阯	zhi3	通=沚 小渚	None	沚
+阯	zhi3	同=趾 足趾	None	趾
+阳	None	同=陽	None	陽
+𨸨	None	同=𨸱	None	𨸱
+阥	None	同=隂(陰)	None	隂
+𨸛	gai4	山高而陡	None	None
+阩	sheng1	同=升 登上	None	升
+⿰阝⿱𠂉几	None	同=阬	None	阬
+阪	ban3	斜坡	None	None
+阪	ban3	泽障	None	None
+阪	ban3	山腰小道	None	None
+阪	ban3	通=反(fan3) 反而，相反地	None	反
+阶	None	=階的简化字	None	階
+⿰阝公	None	同=𨸮	None	𨸮
+阴	None	同=陰	None	陰
+𨸝	shi4	山旁突出势将崩坠的崖石 也作=氏	None	氏
+𨸜	hai1	[㱾𨸜]笑声	None	None
+𨸜	hai1	地名	None	None
+𫔻	wen2	地名	None	None
+阬	keng1	同=坑 1.地洞 也指洼地 2.地；沟 3.坑杀，活埋	None	坑
+阬	keng1	姓	None	None
+阬	kang4	门	None	None
+阬	kang4	通=抗 对抗	None	抗
+阬	gang1	大山坡；大土山	None	None
+阬	gang1	地名	None	None
 防	None	录入中	None	None
 阦	None	录入中	None	None
 阧	None	录入中	None	None
