@@ -78818,51 +78818,97 @@
 𩁜	None	同=鸓	None	鸓
 𩁟	li2	[𩁟黄]也作“=鵹黄” 黄=鸝	None	鵹
 𩁧	None	同=逭	None	逭
-讎	None	录入中	None	None
-𩁫	None	录入中	None	None
-𩁪	None	录入中	None	None
-𩁨	None	录入中	None	None
-𧕣	None	录入中	None	None
-雦	None	录入中	None	None
-雥	None	录入中	None	None
-𩁬	None	录入中	None	None
-𩁮	None	录入中	None	None
-䨉	None	录入中	None	None
-𩁯	None	录入中	None	None
-𩁰	None	录入中	None	None
-𩁲	None	录入中	None	None
-雧	None	录入中	None	None
-𩁳	None	录入中	None	None
-𩁴	None	录入中	None	None
-䨊	None	录入中	None	None
-𩁵	None	录入中	None	None
-阜	None	录入中	None	None
-𨸏	None	录入中	None	None
-阝	None	录入中	None	None
-䦹	None	录入中	None	None
-䦺	None	录入中	None	None
-𨸑	None	录入中	None	None
-队	None	录入中	None	None
-𨸒	None	录入中	None	None
-𨸔	None	录入中	None	None
-𨸙	None	录入中	None	None
-𨸓	None	录入中	None	None
-阞	None	录入中	None	None
-𨸐	None	录入中	None	None
-𨸗	None	录入中	None	None
-𨸖	None	录入中	None	None
-阢	None	录入中	None	None
-阡	None	录入中	None	None
-阣	None	录入中	None	None
-𨸚	None	录入中	None	None
-𨸘	None	录入中	None	None
-阠	None	录入中	None	None
-䦻	None	录入中	None	None
-阤	None	录入中	None	None
-𨸥	None	录入中	None	None
-阱	None	录入中	None	None
-𨸦	None	录入中	None	None
-阮	None	录入中	None	None
+讎	chou2	对答	None	None
+讎	chou2	相等；匹配	None	None
+讎	chou2	应验	None	None
+讎	chou2	符合；适当	None	None
+讎	chou2	报复	None	None
+讎	chou2	卖	None	None
+讎	chou2	付给；酬偿	None	None
+讎	chou2	校勘	None	None
+讎	chou2	施行；运用	None	None
+讎	chou2	同=仇 1.仇怨；仇恨 2.仇敌	None	仇
+讎	chou2	通=稠 多次；屡屡	None	稠
+讎	chou2	姓	None	None
+𩁫	None	同=卷	None	卷
+𩁪	None	同=𪅀(難)	None	𪅀
+𩁨	None	同=鸕	None	鸕
+𧕣	None	同=𧕲	None	𧕲
+雦	None	同=集 	None	集
+雥	za2	群鸟 后作=雜	None	雜
+雥	za2	相聚	None	None
+𩁬	None	同=難	None	難
+𩁮	None	同=難	None	難
+䨉	None	同=鸚	None	鸚
+𩁯	yue4	@	None	None
+𩁰	None	同=𥍊(觀)	None	𥍊
+𩁲	None	同=難	None	難
+雧	None	同=集	None	集
+𩁳	None	同=𪅀(難)	None	𪅀
+𩁴	yun1	@	None	None
+䨊	yuan1	鸟群	None	None
+𩁵	None	同=䨊	None	䨊
+阜	fu3	土山	None	None
+阜	fu3	山 	None	None
+阜	fu3	高	None	None
+阜	fu3	强健；肥壮	None	None
+阜	fu3	大	None	None
+阜	fu3	多	None	None
+阜	fu3	百姓	None	None
+阜	fu3	盛 1.旺盛 2.兴盛；繁盛 3.丰盛；富裕	None	None
+阜	fu3	厚 1.丰厚 2.看重 3.淳朴；忠厚	None	None
+阜	fu3	姓	None	None
+𨸏	None	同=阜	None	阜
+阝	None	同=阜 后用作偏旁	None	阜
+䦹	shi2	[䦹邡]也作“=什方”  旧县名，汉置 故城在今四川省什邡市	None	什
+䦺	ding1	丘名	None	None
+𨸑	qiao3	地名	None	None
+队	None	=隊的简化字	None	隊
+𨸒	qi2	同=𨸔	None	𨸔
+𨸔	qi2	[伊𨸔]1.古天子号 2.古地名	None	None
+𨸔	qi2	古国名 在今山西省黎城县西北 也作=耆	None	耆
+𨸔	wei2	高大	None	None
+⿰阝刁	None	同=𨸓	None	𨸓
+𨸙	you2	@	None	None
+𨸓	diao1	山穴	None	None
+阞	le4	地的脉理	None	None
+阞	le4	裂开	None	None
+阞	le4	通=仂 余数	None	仂
+𨸐	reng2	地名	None	None
+𨸗	han4	[𨸗關]也作“=扞關” 古关名	None	扞
+𨸖	None	同=𨹁	None	𨹁
+阢	wu4	[阢隉]同“=杌隉” 倾危不安	None	杌
+阢	wu4	上面覆盖着土的石山	None	None
+阢	wei2	高	None	None
+⿰阜千	None	同=阡	None	阡
+阡	qian1	田间南北向小路 又泛指田间小路	None	None
+阡	qian1	道路	None	None
+阡	qian1	田野	None	None
+阡	qian1	坟墓	None	None
+阡	qian1	墓道	None	None
+阡	qian1	姓	None	None
+阣	gai4	山高而陡	None	None
+阣	yi4	[阣崪]也作“=屹崪” 高耸直立貌 也单用作“阣” 直立貌	None	屹
+𨸚	None	同=級	None	級
+𨸘	yuan2	[五𨸘郡]也作“五=阮郡” 地名	None	阮
+𨸘	yuan2	姓	None	None
+阠	xin4	陵名	None	None
+⿰阜子	None	同=䦻	None	䦻
+䦻	zi3	地名	None	None
+阤	zhi3	崩颓；坏落	None	None
+阤	zhi3	岸边；山坡	None	None
+阤	yi3	[阤靡]山势绵延貌	None	None
+阤	tuo2	[陂阤]也作“陂=陀” 险阻	None	陀
+𨸥	None	同=阱	None	阱
+阱	jing3	防御或捕捉野兽的陷坑 如：陷阱；机阱	None	None
+阱	jing3	囚拘人的地方	None	None
+𨸦	None	同=岍	None	岍
+阮	yuan2	[五阮關]古关名 汉置 在今河北省宣化县西南	None	None
+阮	yuan2	山名	None	None
+阮	ruan3	殷商国名 在今甘肃省泾川县，为周文王所灭	None	None
+阮	ruan3	拨弦乐器“阮咸”的简称 古琵琶的一种 四弦有柱，形似月琴 相传西晋阮咸善弹此乐器，因而得名 现也有三弦的阮	None	None
+阮	ruan3	侄的代称 阮籍与侄阮咸并有盛名 世称“大小阮” 后用“小阮”作侄的代称 省称“阮” 如：贤阮	None	None
+阮	ruan3	姓	None	None
 阫	None	录入中	None	None
 𨸟	None	录入中	None	None
 阨	None	录入中	None	None
