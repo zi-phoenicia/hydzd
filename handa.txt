@@ -44824,12 +44824,46 @@
 𤖤	None	录入中	None	None
 𤖧	None	录入中	None	None
 𤖦	None	录入中	None	None
-毋	None	录入中	None	None
-毌	None	录入中	None	None
-母	None	录入中	None	None
-𣫬	None	录入中	None	None
-每	None	录入中	None	None
-𣫭	None	录入中	None	None
+毋	wu2	副词 1.表示禁止或劝阻，相当于“别”，“不要” 2.表示否定，相当于“不”	None	None
+毋	wu2	助词 用于句首	None	None
+毋	wu2	代词 相当于“没有谁”或“没有人”	None	None
+毋	wu2	同=無 没有 与“有”相对	None	無
+毋	wu2	姓	None	None
+毋	mou2	[毋追]也作“牟追”，“毋頧” 古代的一种黑布帽子	None	None
+毌	guan4	贯穿 后作=貫	None	貫
+毌	guan4	通=彎(wan1)	None	彎
+毌	guan4	古地名 即“毌丘”，在今山东省曹县南	None	None
+毌	guan4	姓	None	None
+母	mu3	母亲	None	None
+母	mu3	养育；哺育	None	None
+母	mu3	家族或亲戚中的长辈女子 如：祖母；伯母；姑母；姨母；舅母	None	None
+母	mu3	老妇的通称	None	None
+母	mu3	禽兽雌性的或草木结实的 与“公”相对	None	None
+母	mu3	指能有所滋生的事物 如：酒母；字母；母法；工作母机	None	None
+母	mu3	根本；根源	None	None
+母	mu3	古代称货币大的重的为母 与“子”相对	None	None
+母	mu3	用以经商或借贷的本钱  本钱叫母，利息叫子	None	None
+母	mu3	指一凸一凹（或一大一小）配套的两件东西里的凹的（或大的）一件 如：螺丝母；子母扣；子母环	None	None
+母	mu3	数学名词 指基数或分数中的分母	None	None
+母	mu3	同=姆 乳母或女师	None	姆
+母	mu3	方言 义同“婆”	None	None
+母	mu3	通=侮(wu3) 轻慢	None	侮
+母	mu3	通=拇 拇指，手脚的大指	None	拇
+母	mu3	姓	None	None
+母	mu2	[淳母]熬饵 古代八珍食品之一，即煎醢加于黍食上，沃之以膏	None	None
+母	mu2	用同=模 模样	None	模
+母	wu3	[嬰母]同“鸚=䳇” 即“鸚=鵡”	None	䳇
+母	wu2	同=毋	None	毋
+𣫬	mou2	蒙	None	None
+每	mei3	草盛的样子	None	None
+每	mei3	逐个；各个 指全体中的任何一个或一组 如：每时每刻	None	None
+每	mei3	副词 1.每一次，指反复动作中的 任何一次 2.经常；屡次	None	None
+每	mei3	连词 相当于“虽”、“虽然”	None	None
+每	mei3	宋元时口语 1.用同=們 2.助词 用同=麽(me5) 3.助词	None	們
+每	mei3	用同=無(wu2)	None	無
+每	mei3	通=謀(mou2) 谋求；贪求	None	謀
+每	mei3	姓	None	None
+𣫭	None	同=每	None	每
 毐	None	录入中	None	None
 毑	None	录入中	None	None
 乸	None	录入中	None	None
