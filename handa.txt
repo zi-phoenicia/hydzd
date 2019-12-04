@@ -45618,10 +45618,18 @@
 𥑄	None	同=硈	None	硈
 ⿰石⿻七冂	None	同=砘	None	砘
 𥐫	None	同=磺(礦)	None	磺
-𥐪	None	录入中	None	None
-砈	None	录入中	None	None
-砗	None	录入中	None	None
-砑	None	录入中	None	None
+⿰石历	None	=礰的类推简化字	None	礰
+𥐪	None	同=硡	None	硡
+砈	e3	[䂺砈]见“䂺”	None	None
+砗	None	=硨的简化字	None	硨
+砑	ya4	碾磨物体使之密实有光泽 如：砑绫；砑光帽；砑光纸	None	None
+砑	ya4	碾磨物体的石具	None	None
+砑	ya4	碾压	None	None
+砑	ya4	光滑貌	None	None
+砑	ya4	打	None	None
+砑	ya4	象声词 开门声	None	None
+砑	ya4	用同=蚜(ya2) 蚜虫	None	蚜
+砑	xia1	[𥓂砑]见“𥓂”	None	None
 砘	None	录入中	None	None
 䂝	None	录入中	None	None
 砒	None	录入中	None	None
