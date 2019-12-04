@@ -45635,36 +45635,65 @@
 䂝	None	同=矺	None	矺
 砒	pi1	砷的旧称	None	None
 砒	pi1	砒霜，无机化合物，是不纯的三氧化二砷 白色粉末，有时略带黄色或红色，有剧毒 用来制杀虫剂或除草剂等 也叫信石，有的地区叫红矾	None	None
-砌	None	录入中	None	None
-砙	None	录入中	None	None
-𥐺	None	录入中	None	None
-砋	None	录入中	None	None
-砂	None	录入中	None	None
-砅	None	录入中	None	None
-𥐻	None	录入中	None	None
-砚	None	录入中	None	None
-𥐼	None	录入中	None	None
-𥐽	None	录入中	None	None
-𥐬	None	录入中	None	None
-𥑅	None	录入中	None	None
-砎	None	录入中	None	None
-䂚	None	录入中	None	None
-砛	None	录入中	None	None
-砏	None	录入中	None	None
-砭	None	录入中	None	None
-砕	None	录入中	None	None
-砜	None	录入中	None	None
-砍	None	录入中	None	None
-砃	None	录入中	None	None
-𥐩	None	录入中	None	None
-𥐾	None	录入中	None	None
-砓	None	录入中	None	None
-砇	None	录入中	None	None
-砊	None	录入中	None	None
-𥐿	None	录入中	None	None
-𥑀	None	录入中	None	None
-砄	None	录入中	None	None
-𥑁	None	录入中	None	None
+砌	qi4	台阶	None	None
+砌	qi4	将砖石头层层垒起，用泥灰黏合 如：砌墙；砌房子	None	None
+砌	qi4	堆积 如：堆砌	None	None
+砌	qi4	连缀	None	None
+砌	qi4	危	None	None
+砌	qie4	[砌末]也称“=切末” 元杂剧演出中所用的简单布景和道具	None	切
+砌	qie4	代指戏剧	None	None
+砌	qie4	串演	None	None
+砙	None	=瓳的讹字	None	瓳
+𥐺	None	同=砥	None	砥
+砋	zhi3	捣缯帛的石砧	None	None
+砋	zhi3	磨刀石	None	None
+砂	None	同=沙 细碎的石粒	None	沙
+砂	None	细碎如砂的物质 如：砂糖；砂布；砂矿	None	None
+砂	None	朱砂、硇砂 无机化合物，是炼汞的主要矿物，红色或棕红色，无毒，中医用做镇静剂，外用可以治疥癣等皮肤病，也可作颜料	None	None
+砅	li4	踏着石磴渡水	None	None
+𥐻	None	同=硇	None	硇
+砚	None	=硯的简化字	None	硯
+𥐼	None	同=硇	None	硇
+𥐽	zhe2	@	None	None
+𥐬	gu3	磨	None	None
+𥑅	keng1	破石	None	None
+⿰石⿱𠂉几	None	同=𥑅	None	𥑅
+⿰石⿱丿小	None	同=砎	None	砎
+砎	jie4	石貌	None	None
+砎	jie4	坚硬	None	None
+䂚	yao2	石名	None	None
+䂚	yao2	石不平	None	None
+䂚	yao2	难，困难	None	None
+砛	None	同=玪	None	玪
+砏	bin1	水名	None	None
+砏	bin1	石名	None	None
+砏	fen1	大声	None	None
+砏	pin1	[砏磤]象声词 石相击声	None	None
+砏	pin1	[砏磤]巨大的雷声	None	None
+⿰石𭄞	None	同=砎	None	砎
+砭	bian1	古代以石针刺皮肉治病 后用金属为针以治病，也称“砭”	None	None
+砭	bian1	古代治病用的石针	None	None
+砭	bian1	救治	None	None
+砭	bian1	刺人	None	None
+砭	bian3	方言 山坡	None	None
+砕	None	同=碎	None	碎
+砜	None	=碸的简化字	None	碸
+砍	kan3	斫；劈	None	None
+砍	kan3	除去	None	None
+砍	kan3	方言 挖	None	None
+砍	kan3	同=侃 闲谈；闲扯	None	侃
+砃	dan1	白石	None	None
+𥐩	yun2	石名	None	None
+𥐾	None	@	None	None
+砓	zhe2	山势陡恶重叠貌	None	None
+砇	None	同=珉 也作=玟	None	珉
+砊	kang1	[砊礚]象声词 雷声	None	None
+砊	kang4	[砊硠]象声词 石声	None	None
+⿰石为	None	=䃣的类推简化字	None	䃣
+𥐿	hu2	@	None	None
+𥑀	None	@	None	None
+砄	jue2	石	None	None
+𥑁	None	=𥐗(砭)的讹字	None	𥐗
 䂛	None	录入中	None	None
 砡	None	录入中	None	None
 砞	None	录入中	None	None
