@@ -45903,32 +45903,50 @@
 𥑷	None	同=𥔢	None	𥔢
 硐	tong2	磨	None	None
 硐	dong4	同=洞 也作=峒	None	洞
-䂩	None	录入中	None	None
-硙	None	录入中	None	None
-硃	None	录入中	None	None
-𥑻	None	录入中	None	None
-硚	None	录入中	None	None
-𥑼	None	录入中	None	None
-硟	None	录入中	None	None
-𥒕	None	录入中	None	None
-𥑵	None	录入中	None	None
-硇	None	录入中	None	None
-𥒖	None	录入中	None	None
-𥑽	None	录入中	None	None
-𥑸	None	录入中	None	None
-硂	None	录入中	None	None
-硆	None	录入中	None	None
-䂪	None	录入中	None	None
-𥒨	None	录入中	None	None
-𥒗	None	录入中	None	None
-硊	None	录入中	None	None
-𥒘	None	录入中	None	None
-𥒙	None	录入中	None	None
-𥒚	None	录入中	None	None
-䂫	None	录入中	None	None
-𥒛	None	录入中	None	None
-硌	None	录入中	None	None
-碀	None	录入中	None	None
+䂩	yan4	同=硯	None	硯
+䂩	qing4	同=硜	None	硜
+硙	None	=磑的简化字	None	磑
+硃	zhu1	=朱砂 又名丹砂、辰砂  化学成分为硫化汞，色红，无毒，不溶于水 工业上用来提炼水银，也用作颜料或药材	None	朱
+硃	zhu1	=朱墨，或用朱墨写的文字、记号等 如：朱批；朱笔	None	朱
+硃	zhu1	红色	None	None
+𥑻	xian1	像玉的美石	None	None
+硚	None	=礄的简化字	None	礄
+𥑼	dian4	用支撑物支撑倾斜的房屋	None	None
+硟	chan4	用石具碾压缯帛，使之平展有光泽	None	None
+硟	chan4	用以碾压缯帛的石具	None	None
+𥒕	dui1	石声	None	None
+𥒕	dui1	行走	None	None
+𥑵	dui1	石	None	None
+𥑵	dui1	同=磓	None	磓
+硇	nao2	[硇砂]也作“鹵砂”、“磠砂” 矿物名 常呈皮壳状或粉块状，无色或白色，间带红褐色 易溶于水，加热则变为气体 多产于火山旁及烧过的石灰坑中 在工业、农业和医药上都有广泛的用途	None	None
+𥒖	None	[𥒖麟]古时于阗称金翅鸟为“𥒖麟”	None	None
+𥑽	e4	[䂺𥑽]同“䂺=砈”	None	砈
+𥑸	zhou1	石	None	None
+硂	None	同=銓	None	銓
+硆	e4	同=礘 石貌	None	礘
+䂪	qiao3	同=磽 贫瘠的山田	None	磽
+䂪	diao4	同=䂽 石名	None	䂽
+䂪	diao4	用同=銚 煮物瓦器	None	銚
+𥒨	None	同=䂦	None	䂦
+𥒗	None	同=砥	None	砥
+𬒋	None	同=剁	None	剁
+硊	wei3	[磈硊]见“磈”	None	None
+硊	gui4	同=峗 山貌	None	峗
+硊	gui4	[石峗]江名 在今安徽省宣城市境	None	None
+𥒘	xun2	[磷𥒘]同“嶙=峋” 石突兀、重叠貌	None	峋
+𥒙	None	同=抛	None	抛
+𥒚	nao2	[𥒚洲]也作“=硇洲” 岛屿名 在广东省雷州湾外东海岛东南海中	None	硇
+䂫	hong2	山石崩坠声	None	None
+䂫	hang1	同=夯 1.砸实地基的一种工具 2.用夯砸实地基	None	夯
+𥒛	None	同=砥	None	砥
+硌	luo4	山上大石	None	None
+硌	luo4	似玉的美石	None	None
+硌	luo4	用同=摞 重叠堆起	None	摞
+硌	li4	同=礫 砂砾	None	礫
+硌	ge4	身体与硬物接触而感到难受或受到损伤	None	None
+硌	ge4	象声词	None	None
+碀	cheng1	破声	None	None
+碀	cheng1	同=琤 石声	None	琤
 𥒜	None	录入中	None	None
 䂯	None	录入中	None	None
 硛	None	录入中	None	None
