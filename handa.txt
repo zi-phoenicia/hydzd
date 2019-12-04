@@ -45979,23 +45979,51 @@
 𥒤	None	同=瑙	None	瑙
 硦	luo4	[𥕖硦]石声	None	None
 硦	long4	同=𥦌 洞穴	None	𥦌
-𥒱	None	录入中	None	None
-𥓈	None	录入中	None	None
-硩	None	录入中	None	None
-硣	None	录入中	None	None
-𥒽	None	录入中	None	None
-䂶	None	录入中	None	None
-䂲	None	录入中	None	None
-硨	None	录入中	None	None
-𥒰	None	录入中	None	None
-硬	None	录入中	None	None
-𥒾	None	录入中	None	None
-𥓆	None	录入中	None	None
-硤	None	录入中	None	None
-硥	None	录入中	None	None
-硜	None	录入中	None	None
-𥒿	None	录入中	None	None
-硵	None	录入中	None	None
+⿰石麦	None	同=碐	None	碐
+𥒱	keng1	临𥒱，山名 又为门名	None	None
+𥒱	keng1	磨刀石	None	None
+𥒱	keng1	山谷名	None	None
+𥓈	e4	[礍𥓈]石貌	None	None
+硩	che4	摘取；采	None	None
+硩	che4	捣毁	None	None
+硩	che4	石中矢	None	None
+硣	xiao1	[硣磟]山势	None	None
+𥒽	None	同=䂬	None	䂬
+䂶	jie2	[石䂶]也作“石=蜐” 即“龟足” 甲壳类动物 形似龟脚，故名 参见“蜐”	None	蜐
+䂲	None	同=砝	None	砝
+⿰石严	None	=礹的类推简化字	None	礹
+硨	che1	[硨磲]也作“=車渠” 1.动物名 蚌属 砗磲科 壳大而厚，略呈三角形，可长达一米 生活在热带海洋中，我国南海诸岛屿均产 2.砗磲壳 古称七宝之一 3.似玉的美石	None	車
+𥒰	fu3	[𥒰䃊]磨	None	None
+𥒰	fu3	大石	None	None
+硬	ying4	物体组织紧密，性质坚固 与“软”相对 如：坚硬；硬木	None	None
+硬	ying4	刚强；坚强	None	None
+硬	ying4	强劲；厉害	None	None
+硬	ying4	蛮强；执拗 如：硬抢；生拉硬拽；硬不承认	None	None
+硬	ying4	勉强	None	None
+硬	ying4	能力强；质量好 如：硬手；硬本事；硬作风；硬货	None	None
+硬	ying4	形容书法或行文遒劲有力	None	None
+硬	ying4	不可推卸或改变的 如：硬任务；硬指标	None	None
+硬	ying4	不灵活	None	None
+硬	ying4	确实；实在	None	None
+硬	ying4	尽力；极力	None	None
+硬	geng3	同=峺	None	峺
+𥒾	yu3	[砠𥒾]也作“岨=峿” 参差不齐貌	None	峿
+𥓆	None	同=磷	None	磷
+⿰石⿻十丛	None	同=碎	None	碎
+硤	xia2	同=峽	None	峽
+硤	xia2	榨；压	None	None
+硤	xia2	山峡	None	None
+硤	xia2	古州名 一作“=峽州” 北周以拓州改置，治所在夷陵县（在湖北省宜昌市西北）	None	峽
+硥	mang3	石貌	None	None
+硥	bang3	同=蚌	None	蚌
+⿰石𢦙	None	同=䂸	None	䂸
+硜	keng1	击石声	None	None
+硜	keng1	坚决；固执	None	None
+硜	keng1	同=陘	None	陘
+硜	qing4	同=磬	None	磬
+𥒿	None	=𬒪的类推简化字	None	𬒪
+硵	None	=磠的类推简化字	None	磠
+𬒎	None	=䃘的类推简化字	None	䃘
 硝	None	录入中	None	None
 𥔄	None	录入中	None	None
 硯	None	录入中	None	None
