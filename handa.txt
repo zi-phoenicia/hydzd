@@ -45822,41 +45822,87 @@
 𥑌	None	同=砮	None	砮
 砮	nu3	古代石制的箭镞	None	None
 砮	nu2	磨刀石	None	None
-𥑆	None	录入中	None	None
-䂟	None	录入中	None	None
-破	None	录入中	None	None
-𥑋	None	录入中	None	None
-硁	None	录入中	None	None
-砪	None	录入中	None	None
-𥑑	None	录入中	None	None
-𥑶	None	录入中	None	None
-䂮	None	录入中	None	None
-硎	None	录入中	None	None
-𥑳	None	录入中	None	None
-硅	None	录入中	None	None
-𥒐	None	录入中	None	None
-硈	None	录入中	None	None
-硓	None	录入中	None	None
-䂬	None	录入中	None	None
-硔	None	录入中	None	None
-𥒴	None	录入中	None	None
-硭	None	录入中	None	None
-硒	None	录入中	None	None
-𥒑	None	录入中	None	None
-𥒒	None	录入中	None	None
-𥑿	None	录入中	None	None
-硕	None	录入中	None	None
-𥑹	None	录入中	None	None
-𥒂	None	录入中	None	None
-硖	None	录入中	None	None
-硗	None	录入中	None	None
-𥒓	None	录入中	None	None
-䂣	None	录入中	None	None
-砦	None	录入中	None	None
-𥒩	None	录入中	None	None
-硄	None	录入中	None	None
-𥑷	None	录入中	None	None
-硐	None	录入中	None	None
+𮀑	None	同=礦	None	礦
+𥑆	None	同=䂟	None	䂟
+䂟	jia1	石	None	None
+破	po4	碎裂；不完整	None	None
+破	po4	毁坏；使分裂	None	None
+破	po4	破除；解除	None	None
+破	po4	突破；超出 如：破例；破格；破纪录	None	None
+破	po4	违背	None	None
+破	po4	分析；剖析	None	None
+破	po4	劈开，剖开	None	None
+破	po4	打败；攻克	None	None
+破	po4	揭穿，使真相露出 如：破案；一语道破	None	None
+破	po4	耗费；花费 如：破钞；破财	None	None
+破	po4	拼；不顾惜	None	None
+破	po4	遍；尽	None	None
+破	po4	过	None	None
+破	po4	开释	None	None
+破	po4	安排	None	None
+破	po4	用在动词后，表示极度，相当于“熬”	None	None
+破	po4	乐曲名 唐宋大曲的第三段，歌舞并作，以舞为主，节拍急促繁碎，故名破	None	None
+破	po4	量词 幅	None	None
+破	po4	文章破题 明清八股文开头点名题义的几句	None	None
+破	po4	破读 用本字读古书的假借字	None	None
+破	po4	糟，劣	None	None
+破	po4	整的换成零的 如：一元的票破成两张五角的	None	None
+破	po4	农历斗建十二值日之一	None	None
+破	po4	助词 相当于“得”、“了”、“着”	None	None
+⿰石𠬤	None	=礋的类推简化字	None	礋
+𥑋	guai4	像玉的美石	None	None
+硁	None	=硜的类推简化字	None	硜
+砪	mu3	[雲砪]也作“雲=母” 云母石 白色、黑色，带有深浅不同的褐色或绿色，能分列成透明的薄片，是重要的电气绝缘材料 可入药	None	母
+𥑑	ao4	石不平貌 后作=凹	None	凹
+𥑶	lei3	同=礧	None	礧
+䂮	lve4	石	None	None
+䂮	lve4	磨刃	None	None
+䂮	lve4	同=㗉 锋利	None	㗉
+䂮	lve4	象声词	None	None
+硎	xing2	磨刀石	None	None
+硎	xing2	磨	None	None
+硎	xing2	同=陘	None	陘
+硎	xing2	通=鉶 盛食物的器皿	None	鉶
+硎	xing2	用同=型 仪型；式样	None	型
+硎	keng1	同=坑 坑穴	None	坑
+硎	keng1	石	None	None
+硎	keng1	石声	None	None
+𥑳	rong2	石	None	None
+硅	he4	硅破	None	None
+硅	gui1	非金属元素 符号Si，原子序数14 旧名矽 灰色无定形的固体或晶体，有光泽 普通的砂子就是不纯的二氧化硅，常用于制合金及有机硅化合物 硅酸盐在制造玻璃、水泥等工业上很重要 高纯度的硅是半导体材料 (新拉silicium)	None	None
+𥒐	None	同=砉	None	砉
+硈	qia4	石坚貌	None	None
+硈	qia4	奔突	None	None
+硓	None	同=栳	None	栳
+䂬	gong3	水边大石	None	None
+䂬	gong3	用同=拱 呈弧形的孔洞	None	拱
+硔	hong2	同=谼 沟壑	None	谼
+硔	hong2	矿石	None	None
+⿰石⿱艹⿷匚一	None	同=硭	None	硭
+𥒴	None	同=硭	None	硭
+硭	mang2	[硭硝]矿物名，硝的一种 可入药 工业上是制玻璃等的原料	None	None
+硭	mang2	同=𥐞	None	𥐞
+⿰石亚	None	=䃁的类推简化字	None	䃁
+硒	xi1	一种非金属化学元素 符号Se，原子序数34 常与铁铜锡混合存在 易传电，导电能力随光照射强度的增减而改变 可用来制半导体晶体管和光电管，又可供玻璃等着色用 (新拉selenium)	None	None
+𥒑	None	同=䂳	None	䂳
+𥒒	None	同=𥑰	None	𥑰
+𥑿	yong1	石名	None	None
+硕	None	=碩的简化字	None	碩
+𥑹	kua1	磐石	None	None
+𥒂	None	同=霹	None	霹
+硖	None	=硤的简化字	None	硤
+硗	None	=磽的简化字	None	磽
+𥒓	zhi4	𥒓石，一种矿物质 其化学性能稳定，焙烧后，膨胀系数大，结构疏松多孔，多用作保温材料 产于四川省、河南省、山东省、内蒙古自治区等地	None	None
+䂣	ci2	䂣黄石	None	None
+砦	zhai4	同=寨 1.栅栏 2.营垒；军营 3.村寨，寨子	None	寨
+砦	zhai4	盛饲料的器具	None	None
+砦	zhai4	姓	None	None
+𥒩	None	同=𥐫(礦)	None	𥐫
+硄	kuang1	象声词	None	None
+硄	guang1	有光泽的石头	None	None
+𥑷	None	同=𥔢	None	𥔢
+硐	tong2	磨	None	None
+硐	dong4	同=洞 也作=峒	None	洞
 䂩	None	录入中	None	None
 硙	None	录入中	None	None
 硃	None	录入中	None	None
