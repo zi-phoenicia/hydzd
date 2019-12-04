@@ -45694,33 +45694,58 @@
 𥑀	None	@	None	None
 砄	jue2	石	None	None
 𥑁	None	=𥐗(砭)的讹字	None	𥐗
-䂛	None	录入中	None	None
-砡	None	录入中	None	None
-砞	None	录入中	None	None
-𥑾	None	录入中	None	None
-𥑟	None	录入中	None	None
-𥑱	None	录入中	None	None
-砝	None	录入中	None	None
-𥑠	None	录入中	None	None
-砹	None	录入中	None	None
-砵	None	录入中	None	None
-𥑡	None	录入中	None	None
-砢	None	录入中	None	None
-砸	None	录入中	None	None
-𥑰	None	录入中	None	None
-砺	None	录入中	None	None
-砳	None	录入中	None	None
-𥑢	None	录入中	None	None
-𥑉	None	录入中	None	None
-砻	None	录入中	None	None
-𥑣	None	录入中	None	None
-砰	None	录入中	None	None
-砧	None	录入中	None	None
-𥒔	None	录入中	None	None
-𥑲	None	录入中	None	None
-砠	None	录入中	None	None
-𥑐	None	录入中	None	None
-砷	None	录入中	None	None
+⿲石𠂈卜	None	同=礦	None	礦
+䂛	yu2	石名	None	None
+⿰石㕛	None	同=䂚	None	䂚
+砡	yu4	叠石齐头	None	None
+砞	mo4	碎石	None	None
+𥑾	e4	[礍𥑾]同“礍=𥓈” 石貌	None	𥓈
+𥑟	None	同=蠧	None	蠧
+𥑱	qiong2	石	None	None
+砝	jie2	硬	None	None
+砝	ge2	石声	None	None
+砝	fa3	[砝碼]也作“=法码”、“法马” 天平上用做重量标准的物体，用金属制成	None	法
+𥑠	None	同=甜	None	甜
+砹	ai4	一种非金属元素 符号At，原子序数85 有放射性，自然界分布极少 可用作示踪剂 (新拉astatium)	None	None
+⿱𫇦石	None	=䃕的类推简化字	None	䃕
+砵	e4	@	None	None
+砵	bo1	地名用字 如：麻地砵（在内蒙古自治区卓资县）、铜砵（在福建省）	None	None
+砵	bo1	同=鉢 陶制的容器	None	鉢
+𥑡	zhe4	@	None	None
+砢	luo3	[磊砢]也作“磥砢”、“礧砢”  1.众石累积貌 2.壮大貌 3.指人物、诗文卓越奇特 	None	None
+砢	ke1	同=珂 似玉的美石	None	珂
+砸	za2	用沉重的物体撞击；沉重的东西落在物体上 如：砸石头；砸地基；砸了脚	None	None
+砸	za2	打破	None	None
+砸	za2	指责；数落	None	None
+砸	za2	合，闭合	None	None
+砸	za2	方言 比喻事情做坏或失败	None	None
+𥑰	guai4	像玉的美石	None	None
+砺	None	=礪的 简化字	None	礪
+砳	le4	象声词 石头撞击声	None	None
+𥑢	bu4	化学元素=硼(boron)，旧译为“𥑢”	None	硼
+𥑉	None	同=砨(砈)	None	砨
+⿰石龙	None	=礲的类推简化字	None	礲
+砻	None	=礱的简化字	None	礱
+𥑣	None	同=砈	None	砈
+砰	peng1	象声词 形容重物落地或撞击的声音 如：砰磕；硼砰；砰訇；砰湃	None	None
+砰	peng1	抨击；撞击	None	None
+砰	ping1	同=砯 象声词 水激山声	None	砯
+砰	peng4	石落声	None	None
+⿰石⿻十䒑	None	同=碎	None	碎
+砧	zhen1	捣衣石	None	None
+砧	zhen1	捣衣声	None	None
+砧	zhen1	捣草石	None	None
+砧	zhen1	锻造时用铁铸成的受锤的垫具	None	None
+砧	zhen1	同=椹 木砧 如：砧板；肉砧	None	椹
+砧	zhen1	泛指物体下部的垫基	None	None
+𥒔	None	同=硟	None	硟
+𬒆	None	=礏的类推简化字	None	礏
+𥑲	None	同=墠	None	墠
+砠	ju1	覆有泥土的石山 也作=岨 	None	岨
+砠	zu1	秤锤	None	None
+𥑐	jia3	山侧	None	None
+𥑐	jia3	山峡	None	None
+砷	shen1	一种非金属元素 符号As，原子序数33 旧称砒 有黄、灰、黑褐三种同素异形体 性脆而硬，有毒 砷和铅、铜可以制成合金 砷的化合物可作染料，也可用于杀虫及医疗 (新拉arsenium)	None	None
 𥑤	None	录入中	None	None
 𥑏	None	录入中	None	None
 𥑎	None	录入中	None	None
