@@ -45534,40 +45534,90 @@
 𦦥	None	同=農	None	農
 𤯐	yan2	味甘	None	None
 𤯒	None	同=馨	None	馨
-石	None	录入中	None	None
-䂖	None	录入中	None	None
-𥐕	None	录入中	None	None
-矴	None	录入中	None	None
-矵	None	录入中	None	None
-𥐚	None	录入中	None	None
-𥐙	None	录入中	None	None
-矶	None	录入中	None	None
-䂗	None	录入中	None	None
-𥐗	None	录入中	None	None
-矸	None	录入中	None	None
-矼	None	录入中	None	None
-矹	None	录入中	None	None
-矻	None	录入中	None	None
-矺	None	录入中	None	None
-𥐤	None	录入中	None	None
-𥐝	None	录入中	None	None
-矽	None	录入中	None	None
-矾	None	录入中	None	None
-砐	None	录入中	None	None
-矿	None	录入中	None	None
-𥐞	None	录入中	None	None
-𥐟	None	录入中	None	None
-矷	None	录入中	None	None
-砀	None	录入中	None	None
-码	None	录入中	None	None
-䂜	None	录入中	None	None
-砉	None	录入中	None	None
-𥐹	None	录入中	None	None
-研	None	录入中	None	None
-砆	None	录入中	None	None
-砖	None	录入中	None	None
-𥑄	None	录入中	None	None
-𥐫	None	录入中	None	None
+石	shi2	岩石，构成地壳的矿物质硬块 如：花岗石；石灰石；石器	None	None
+石	shi2	陨石	None	None
+石	shi2	石磬，古乐器名 八音之一	None	None
+石	shi2	石刻；碑碣	None	None
+石	shi2	药石，中药里的矿物部分	None	None
+石	shi2	石针，古代的医疗用具	None	None
+石	shi2	针砭，以石针治病	None	None
+石	shi2	结石的省称 如：胆石；石淋；排石	None	None
+石	shi2	乐器声音不响亮	None	None
+石	shi2	投掷	None	None
+石	shi2	坚固；坚硬	None	None
+石	shi2	中医脉象名	None	None
+石	shi2	厚	None	None
+石	shi2	通=碩 大	None	碩
+石	shi2	古地名 故地约在今河北省曲阳县西太行山地区	None	None
+石	shi2	古州名 在今山西省西部，吕梁山西侧，黄河支流三川河流域	None	None
+石	shi2	古西域国名	None	None
+石	shi2	姓	None	None
+石	dan4	量词 1.古代重量单位 ，一百二十斤为石 2.官俸的计量单位 秦、汉以为官位的品级 3.容量单位，十斗为一石 4.方言 面积单位，用以计量土地 其具体数量各地不一：有以十亩为一石的，也有以一亩为一石的	None	None
+䂖	None	同=石	None	石
+𥐕	ya4	石貌	None	None
+矴	ding4	船停泊时镇船用的石礅 也作=碇	None	碇
+矵	None	同=砌	None	砌
+𥐚	pu3	[𥐚硝]药石	None	None
+𥐙	pa1	石破裂声	None	None
+𥐙	ba1	同=玐	None	玐
+矶	None	=磯的简化字	None	磯
+䂗	ku1	用心 ……按：……疑为=矻的俗字	None	矻
+𥐗	None	同=砭	None	砭
+矸	gan4	山石白净貌	None	None
+矸	gan4	碾压缯帛的石头	None	None
+矸	gan3	碾压缯帛，使之密实光滑	None	None
+矸	gan3	击	None	None
+矸	han4	磓	None	None
+矸	gan1	[丹矸]也作“丹=干” 朱砂	None	干
+矸	gan1	夹杂在矿物中的石块 如：矸子；矸石山；煤矸石	None	None
+矼	gang1	石桥 	None	None
+矼	gang1	石级；石路	None	None
+矼	gang1	石岗	None	None
+矼	kong4	诚实貌	None	None
+矼	qiang1	坚实	None	None
+矼	qiang1	被坚硬的东西 碰伤	None	None
+矹	wu1	[硉矹]见“硉”	None	None
+𬑻	qian1	[大𬑻]地名，在贵州省北部 	None	None
+矻	ku1	[矻矻]辛勤不懈貌 如：孜孜矻矻；穷年矻矻	None	None
+矻	ku1	石	None	None
+矻	qia4	同=硈	None	硈
+矺	zhe2	敲，击	None	None
+矺	zhe2	同=磔 古代分裂肢体的酷刑	None	磔
+矺	da1	掷地声	None	None
+𥐤	None	同=砎	None	砎
+𥐝	None	同=𥕐	None	𥕐
+矽	xi1	“硅”的旧称 如：矽尘；矽肺 参见“硅”	None	None
+矾	None	=礬的简化字	None	礬
+砐	e4	[砐硪]高大貌	None	None
+矿	None	=礦的简化字	None	礦
+𥐞	mang2	[𥐞碭]山名 在今安徽省砀山县东南 也作“=芒碭”	None	芒
+𥐞	mang2	山石貌	None	None
+𥐟	chai1	小石	None	None
+矷	zi3	石名	None	None
+砀	None	=碭的简化字	None	碭
+码	None	=碼的简化字	None	碼
+䂜	bang4	石貌	None	None
+䂜	bang4	同=玤 次于玉的石	None	玤
+䂜	bang4	用同=崩(beng1)	None	崩
+砉	xu1	象声词	None	None
+砉	xu1	迅疾貌	None	None
+砉	xu1	豁然开朗貌	None	None
+砉	hua1	象声词 形容迅速动作的声音 如：鸟砉的一声从树上直飞起来	None	None
+𥐹	dan3	方言 象声词 以石击水声	None	None
+研	yan2	细磨；碾为粉末	None	None
+研	yan2	磨砺	None	None
+研	yan2	研究	None	None
+研	yan2	精细；详尽	None	None
+研	yan2	妍好 也作=妍	None	妍
+研	yan2	姓	None	None
+研	yan4	同=硯 1.一种光滑的石头 2.砚台	None	硯
+研	yan4	平正	None	None
+研	xing2	[石研關]地名	None	None
+砆	None	同=玞	None	玞
+砖	None	=磚的简化字	None	磚
+𥑄	None	同=硈	None	硈
+⿰石⿻七冂	None	同=砘	None	砘
+𥐫	None	同=磺(礦)	None	磺
 𥐪	None	录入中	None	None
 砈	None	录入中	None	None
 砗	None	录入中	None	None
