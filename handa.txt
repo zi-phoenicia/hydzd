@@ -45630,9 +45630,11 @@
 砑	ya4	象声词 开门声	None	None
 砑	ya4	用同=蚜(ya2) 蚜虫	None	蚜
 砑	xia1	[𥓂砑]见“𥓂”	None	None
-砘	None	录入中	None	None
-䂝	None	录入中	None	None
-砒	None	录入中	None	None
+砘	dun4	砘子，耩完地后用以压实松土的石制农具	None	None
+砘	dun4	播种后用石砘子压实松土	None	None
+䂝	None	同=矺	None	矺
+砒	pi1	砷的旧称	None	None
+砒	pi1	砒霜，无机化合物，是不纯的三氧化二砷 白色粉末，有时略带黄色或红色，有剧毒 用来制杀虫剂或除草剂等 也叫信石，有的地区叫红矾	None	None
 砌	None	录入中	None	None
 砙	None	录入中	None	None
 𥐺	None	录入中	None	None
