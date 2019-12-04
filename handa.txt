@@ -45796,21 +45796,32 @@
 ⿰石𮎛	None	同=砲	None	砲
 砫	zhu3	同=宔 古代宗庙中藏神主的石函	None	宔
 砫	zhu4	[石砫]旧县名 1959年改名石=柱县 1984年改为石柱土家族自治县 在重庆市东部	None	柱
-𥑈	None	录入中	None	None
-砬	None	录入中	None	None
-砯	None	录入中	None	None
-𥑍	None	录入中	None	None
-𥑫	None	录入中	None	None
-砣	None	录入中	None	None
-砨	None	录入中	None	None
-𥑯	None	录入中	None	None
-𥑊	None	录入中	None	None
-䂥	None	录入中	None	None
-砩	None	录入中	None	None
-𥑓	None	录入中	None	None
-础	None	录入中	None	None
-𥑌	None	录入中	None	None
-砮	None	录入中	None	None
+砫	zhu4	用同=柱	None	柱
+𥑈	ting1	碑材	None	None
+砬	li4	石药	None	None
+砬	la1	同=㕇 石声	None	㕇
+砬	la2	[砬子]方言 岩石 如：石砬子	None	None
+砯	ping1	水击岩石声	None	None
+𥑍	None	同=磐	None	磐
+⿳𭕄冖石	None	=礐的类推简化字	None	礐
+𥑫	kan1	方言 岩洞	None	None
+砣	tuo2	同=碢 碾滚子，碌碡	None	碢
+砣	tuo2	秤锤 如：秤砣	None	None
+砣	tuo2	用砂轮打磨玉器 如：砣一副玉镯	None	None
+砣	tuo2	同=堶 古时用作抛掷游戏的砖块	None	堶
+砣	tuo2	量词 计量成团或成块状物体的单位 如：几砣石头；三砣 肉	None	None
+砨	e3	[砥砨]宝玉名	None	None
+𥑯	None	⿰石⿻七冂的讹字 =砘	None	砘
+𥑊	None	同=碾	None	碾
+䂥	None	同=珉	None	珉
+⿱民石	None	同=䂥	None	䂥
+砩	fu2	石名 一种矿物，今通称氟石	None	None
+砩	fei4	以石拦水	None	None
+𥑓	pinn3	石	None	None
+础	None	=礎的简化字	None	礎
+𥑌	None	同=砮	None	砮
+砮	nu3	古代石制的箭镞	None	None
+砮	nu2	磨刀石	None	None
 𥑆	None	录入中	None	None
 䂟	None	录入中	None	None
 破	None	录入中	None	None
