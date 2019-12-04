@@ -45947,28 +45947,38 @@
 硌	ge4	象声词	None	None
 碀	cheng1	破声	None	None
 碀	cheng1	同=琤 石声	None	琤
-𥒜	None	录入中	None	None
-䂯	None	录入中	None	None
-硛	None	录入中	None	None
-䂭	None	录入中	None	None
-𥑴	None	录入中	None	None
-硋	None	录入中	None	None
-𥒝	None	录入中	None	None
-𥒞	None	录入中	None	None
-硑	None	录入中	None	None
-𥑺	None	录入中	None	None
-𥒁	None	录入中	None	None
-𥒀	None	录入中	None	None
-𥒟	None	录入中	None	None
-硉	None	录入中	None	None
-𥒠	None	录入中	None	None
-硍	None	录入中	None	None
-𥒡	None	录入中	None	None
-𥒢	None	录入中	None	None
-𥒣	None	录入中	None	None
-𥒧	None	录入中	None	None
-𥒤	None	录入中	None	None
-硦	None	录入中	None	None
+𥒜	None	同=砯	None	砯
+䂯	None	同=𥑰	None	𥑰
+硛	None	同=跡	None	跡
+䂭	qiao1	[䂭磝]地名	None	None
+䂭	qiao1	象声词	None	None
+𥑴	yi3	石声	None	None
+硋	None	同=礙	None	礙
+𥒝	None	同=銃	None	銃
+𥒞	yang2	@	None	None
+硑	peng1	同=砰 象声词	None	砰
+硑	ping2	同=瓶	None	瓶
+𥑺	e1	[礋𥑺]见“礋”	None	None
+𥒁	keng1	石声	None	None
+𥒀	wu4	磓𥒀	None	None
+⿰石污	None	同=𥒀	None	𥒀
+𥒟	None	同=砭	None	砭
+硉	lu4	[硉矹]也作“硉兀”、“𥓎矹” 1.崖石高耸突出貌 2.沙石随水转动貌 3.形容雄健不凡	None	None
+硉	lu4	礌；击	None	None
+𥒠	None	同=砉	None	砉
+硍	xian3	石声	None	None
+硍	ken4	石上有痕迹	None	None
+硍	ken4	用同=啃(ken3)	None	啃
+硍	gun3	同=䃂 指钟声不响亮	None	䃂
+硍	yin2	[硍硃]矿物名，即“=銀朱” 为鲜红色粉末，有毒 入药，又可作颜料	None	銀
+𥒡	ji2	@	None	None
+𥒢	nao3	同=𥓱(瑙) 玛瑙	None	𥓱
+𥒢	li4	@	None	None
+𥒣	None	同=磷 石貌	None	磷
+𥒧	ya4	石光	None	None
+𥒤	None	同=瑙	None	瑙
+硦	luo4	[𥕖硦]石声	None	None
+硦	long4	同=𥦌 洞穴	None	𥦌
 𥒱	None	录入中	None	None
 𥓈	None	录入中	None	None
 硩	None	录入中	None	None
