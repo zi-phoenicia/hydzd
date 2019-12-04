@@ -44864,22 +44864,44 @@
 每	mei3	通=謀(mou2) 谋求；贪求	None	謀
 每	mei3	姓	None	None
 𣫭	None	同=每	None	每
-毐	None	录入中	None	None
-毑	None	录入中	None	None
-乸	None	录入中	None	None
-毒	None	录入中	None	None
-𣫱	None	录入中	None	None
-𣫰	None	录入中	None	None
-𣫳	None	录入中	None	None
-𡴛	None	录入中	None	None
-𣫯	None	录入中	None	None
-𣫴	None	录入中	None	None
-𣫵	None	录入中	None	None
-𣫶	None	录入中	None	None
-𣫹	None	录入中	None	None
-毓	None	录入中	None	None
-𣫻	None	录入中	None	None
-𣫺	None	录入中	None	None
+毐	ai3	男子品行不端称毐	None	None
+毑	jie3	同=姐 方言 母亲	None	姐
+乸	na3	方言 表示母的，雌的 一般用在动物名词后面表示其为雌性 如：鸡乸（母鸡）；牛乸（母牛） 个别植物也可以用它表示雌性 如：木瓜乸（母木瓜）等 又母体	None	None
+毒	du2	毒物	None	None
+毒	du2	喻指对思想意识有害的食物 如：封建遗毒；肃清流毒	None	None
+毒	du2	特指鸦片、吗啡、海洛因等毒品 如：吸毒；贩毒；运毒	None	None
+毒	du2	有毒素的，气性酷烈的 如：毒蛇；毒草；毒气	None	None
+毒	du2	恶；罪恶	None	None
+毒	du2	害；毒害；祸害	None	None
+毒	du2	危害；伤害	None	None
+毒	du2	苦，苦痛	None	None
+毒	du2	酷烈；狠毒；厉害	None	None
+毒	du2	狠心；毒手	None	None
+毒	du2	防毒	None	None
+毒	du2	毒杀	None	None
+毒	du2	有毒腺的昆虫、爬虫刺咬	None	None
+毒	du2	憎恶；憎恨	None	None
+毒	du2	厚；厚重	None	None
+毒	du2	用同=纛 大旗	None	纛
+毒	du2	通=督(du1) 治理；安定	None	督
+毒	du2	通=熟(shu2) 成熟	None	熟
+毒	du2	姓	None	None
+毒	dai4	[毒冒]即“=瑇瑁”、“=玳瑁” 一种似龟的爬行动物	None	瑇
+𣫱	qi4	@	None	None
+𣫰	None	=毑的讹字	None	毑
+𣫳	jiang3	@	None	None
+⿰母鸟	None	=䳇的类推简化字	None	䳇
+𡴛	None	同=毒	None	毒
+𣫯	None	同=蹯	None	蹯
+𣫴	xie2	姓	None	None
+𣫵	None	“大毒”二字的合文	None	None
+𣫶	None	“小毒”二字的合文	None	None
+𣫹	dai4	[𣫹𤲰]同“=瑇瑁”、“=玳瑁” 一种似龟的爬行动物	None	瑇
+毓	yu4	生养；养育	None	None
+毓	yu4	稚	None	None
+毓	yu4	姓	None	None
+𣫻	lou2	同=婁 县名	None	婁
+𣫺	None	同=育	None	育
 示	shi4	天显现出某种征象，向人垂示休咎祸福	None	None
 示	shi4	泛指把事物摆出来或指出来使人知道 如：示范；示众；展示；出示	None	None
 示	shi4	告诉；告知	None	None
@@ -45461,7 +45483,23 @@
 𥜶	None	录入中	None	None
 𥜹	None	录入中	None	None
 䄥	None	录入中	None	None
-甘	None	录入中	None	None
+甘	gan1	美味	None	None
+甘	gan1	甜，五味之一	None	None
+甘	gan1	觉得甜；觉得好吃	None	None
+甘	gan1	美味的食物	None	None
+甘	gan1	嗜，爱好某种食物	None	None
+甘	gan1	美好	None	None
+甘	gan1	情愿；乐意	None	None
+甘	gan1	宽松	None	None
+甘	gan1	（言语）动听	None	None
+甘	gan1	同=柑 果名	None	柑
+甘	gan1	古地名 夏有扈国南郊地 故地在今陕西省户县	None	None
+甘	gan1	古邑名 故址在今河南省洛阳市西南	None	None
+甘	gan1	古州名 西魏废帝三年（公元554）改西凉州为甘州 治所在永平（隋改名张掖，今属甘肃省） 辖境相当于今甘肃省高台县以东弱水上游	None	None
+甘	gan1	水名 1.在陕西省户县境，注入涝水 2.发源于河南省宜阳县，北流至洛阳市西南注入洛水 3.源出广西壮族自治区龙胜县，南流经灵川县入漓江 4.甘河，发源内蒙古自治区甘源北，东南流经鄂伦春自治旗入嫩江	None	None
+甘	gan1	甘肃省的简称	None	None
+甘	gan1	姓	None	None
+甘	han1	同=酣	None	酣
 𤮽	None	录入中	None	None
 𤮻	None	录入中	None	None
 𤮼	None	录入中	None	None
