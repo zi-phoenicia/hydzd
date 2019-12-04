@@ -45746,33 +45746,56 @@
 𥑐	jia3	山侧	None	None
 𥑐	jia3	山峡	None	None
 砷	shen1	一种非金属元素 符号As，原子序数33 旧称砒 有黄、灰、黑褐三种同素异形体 性脆而硬，有毒 砷和铅、铜可以制成合金 砷的化合物可作染料，也可用于杀虫及医疗 (新拉arsenium)	None	None
-𥑤	None	录入中	None	None
-𥑏	None	录入中	None	None
-𥑎	None	录入中	None	None
-𥑥	None	录入中	None	None
-𥑦	None	录入中	None	None
-𥑇	None	录入中	None	None
-䂠	None	录入中	None	None
-砟	None	录入中	None	None
-砤	None	录入中	None	None
-䂡	None	录入中	None	None
-䂤	None	录入中	None	None
-𥑧	None	录入中	None	None
-砶	None	录入中	None	None
-𥑨	None	录入中	None	None
-𥑩	None	录入中	None	None
-𥑔	None	录入中	None	None
-砼	None	录入中	None	None
-𥑒	None	录入中	None	None
-䂦	None	录入中	None	None
-砱	None	录入中	None	None
-砥	None	录入中	None	None
-砾	None	录入中	None	None
-䂧	None	录入中	None	None
-𥑪	None	录入中	None	None
-䂢	None	录入中	None	None
-砲	None	录入中	None	None
-砫	None	录入中	None	None
+𥑤	None	同=釉	None	釉
+𥑏	shi3	石名	None	None
+𥑎	qiong1	石声	None	None
+𥑥	None	同=𥒑(䂳)	None	𥒑
+𥑦	None	=砉的讹字	None	砉
+𥑇	die2	[砤𥑇]见“砤”	None	None
+䂠	shi3	石坠声	None	None
+䂠	shi3	石制箭镞	None	None
+砟	zha4	碑石	None	None
+砟	zha4	斫；錾	None	None
+砟	zuo4	[砟硌]山石不齐貌	None	None
+砟	zuo4	石；石上	None	None
+砟	zha3	砟子，小的石块或煤块 如：道砟；煤砟子	None	None
+砤	None	同=砣	None	砣
+䂡	None	同=砥	None	砥
+䂤	fu4	白石	None	None
+𥑧	None	同=䂤	None	䂤
+砶	None	同=珀	None	珀
+𥑨	None	同=硇	None	硇
+𥑩	None	同=𠬦(硇)	None	𠬦
+𥑔	None	⿰石⿱丿小的讹字 *=砎	None	砎
+砼	tong2	混凝土	None	None
+𥑒	na3	[䃎𥑒]见“䃎”	None	None
+𥑒	keng1	同=硻	None	硻
+䂦	zhen1	[䂦䂦]吃力貌	None	None
+䂦	zhen1	石不平貌	None	None
+䂦	zhen1	质地粗糙的磨刀石	None	None
+䂦	zhen3	在河岸堆积石头	None	None
+砱	ling2	石	None	None
+砱	ling2	石孔敞亮	None	None
+砱	ling2	石声	None	None
+砥	di3	磨刀石 质粗者为砺，细者为砥 也作=厎	None	厎
+砥	di3	磨	None	None
+砥	di3	磨炼；修养	None	None
+砥	di3	平直；平坦	None	None
+砥	di3	平定	None	None
+砥	di3	平均	None	None
+砥	di3	阻滞；挡	None	None
+砾	None	=礫的结婚证	None	礫
+䂧	zhen3	石密集累积貌	None	None
+𥑪	None	同=硇	None	硇
+䂢	dong3	坠石	None	None
+䂢	dong3	石坠声	None	None
+砲	pao4	同=礮 古代以机发石的作战工具	None	礮
+砲	pao4	同=炮 火炮，用火药发射 的远距离杀伤武器	None	炮
+砲	bao1	[砲𥑇]石文 	None	None
+砲	pu4	象声词	None	None
+⿰石𮎛	None	同=砲	None	砲
+砫	zhu3	同=宔 古代宗庙中藏神主的石函	None	宔
+砫	zhu4	[石砫]旧县名 1959年改名石=柱县 1984年改为石柱土家族自治县 在重庆市东部	None	柱
 𥑈	None	录入中	None	None
 砬	None	录入中	None	None
 砯	None	录入中	None	None
