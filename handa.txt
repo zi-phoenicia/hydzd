@@ -46577,19 +46577,45 @@
 磫	zong1	[磫𥗫]质地细腻的磨刀石	None	None
 磫	zong1	石路	None	None
 𥕼	yan2	山名	None	None
-磜	None	录入中	None	None
-䃞	None	录入中	None	None
-磨	None	录入中	None	None
-𥕎	None	录入中	None	None
-䃙	None	录入中	None	None
-𥕐	None	录入中	None	None
-䃚	None	录入中	None	None
-䃠	None	录入中	None	None
-𥕤	None	录入中	None	None
-𥕚	None	录入中	None	None
-磲	None	录入中	None	None
-𥕵	None	录入中	None	None
-䃧	None	录入中	None	None
+⿰石𭦌	None	同=磳	None	磳
+磜	qi4	同=砌 台阶	None	砌
+䃞	shu2	石名	None	None
+䃞	shu2	石声	None	None
+磨	mo2	磨治石器	None	None
+磨	mo2	摩擦	None	None
+磨	mo2	用磨料磨物体使光滑、锋利或达到其他目的	None	None
+磨	mo2	磨炼，在艰苦困难的环境中锻炼	None	None
+磨	mo2	切磋，研究	None	None
+磨	mo2	折磨，遭受困苦和挫折	None	None
+磨	mo2	纠缠	None	None
+磨	mo2	拖延时间 如：磨蹭；磨洋工；磨工夫	None	None
+磨	mo2	泯灭	None	None
+磨	mo2	同=麽 语气词	None	麽
+磨	mo2	通=摩 挨近	None	摩
+磨	mo2	姓 明代有磨继辅	None	None
+磨	mo4	碾碎谷物等的工具 如：石磨；钢磨	None	None
+磨	mo4	用磨碾碎 如：磨面；磨麦子	None	None
+磨	mo4	运转；掉转	None	None
+磨	mo4	晃动；摇动	None	None
+磨	mo4	碾轧土地	None	None
+磨	mo4	方言 拉，指拉下脸子	None	None
+𥕎	kang1	[𥕎礚]大声	None	None
+𥕎	kang1	石声	None	None
+䃙	lu4	石	None	None
+𥕐	di2	坠落	None	None
+𥕐	di2	伐；投	None	None
+𥕐	di2	碓，舂米的器具	None	None
+䃚	cu4	[碌䃚]见“碌”	None	None
+䃚	zu2	同=鏃	None	鏃
+䃠	xuan4	永久性巷道中的拱形支架	None	None
+䃠	xuan4	指用砖石、混凝土等材料砌拱 如：䃠窑；䃠涵洞；䃠拱	None	None
+𥕤	None	同=磕	None	磕
+𥕚	None	=犖的讹字	None	犖
+磲	qu2	[硨磲]见“硨”	None	None
+𥕵	gan3	古代音译人名用字	None	None
+⿰石隆	None	同=䃧	None	䃧
+䃧	long2	[䃔䃧]见“䃔”	None	None
+⿰石⿱又桒	None	同=磉	None	磉
 磖	None	录入中	None	None
 磟	None	录入中	None	None
 磣	None	录入中	None	None
