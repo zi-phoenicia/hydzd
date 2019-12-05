@@ -46717,37 +46717,68 @@
 磳	zeng1	山崖；山麓	None	None
 磱	None	同=𥒪	None	𥒪
 𥖍	la4	滩名	None	None
-磴	None	录入中	None	None
-𥕺	None	录入中	None	None
-磯	None	录入中	None	None
-𥖗	None	录入中	None	None
-𥖘	None	录入中	None	None
-礚	None	录入中	None	None
-𥖪	None	录入中	None	None
-礞	None	录入中	None	None
-𥖜	None	录入中	None	None
-礎	None	录入中	None	None
-礊	None	录入中	None	None
-礓	None	录入中	None	None
-䃭	None	录入中	None	None
-礌	None	录入中	None	None
-𥖟	None	录入中	None	None
-礏	None	录入中	None	None
-礑	None	录入中	None	None
-䃩	None	录入中	None	None
-𥖨	None	录入中	None	None
-礋	None	录入中	None	None
-𥖠	None	录入中	None	None
-礖	None	录入中	None	None
-礜	None	录入中	None	None
-礐	None	录入中	None	None
-礉	None	录入中	None	None
-礆	None	录入中	None	None
-𥖞	None	录入中	None	None
-䃫	None	录入中	None	None
-䃪	None	录入中	None	None
-𥖝	None	录入中	None	None
-礒	None	录入中	None	None
+磴	deng4	山路的石级	None	None
+磴	deng4	台阶或梯子的层级 如：这梯子有十磴	None	None
+磴	deng4	有台阶的石桥	None	None
+磴	deng4	石凳	None	None
+磴	deng1	益石	None	None
+磴	deng1	用同=蹬	None	蹬
+磴	teng1	小水汇凑增益	None	None
+𥕺	None	同=磣	None	磣
+磯	ji1	水流冲激岩石	None	None
+磯	ji1	激怒；触犯	None	None
+磯	ji1	露出水面的岩石或石滩 如：赤壁矶；燕子矶；采石矶	None	None
+磯	ji1	摩	None	None
+磯	ji1	同=圻	None	圻
+𥖗	None	同=𥕽	None	𥕽
+𥖘	zhen3	用石捶击	None	None
+礚	ke1	同=磕 象声词	None	磕
+𥖪	le4	[𥖪礋]也作“=礰礋” 农具名 形似碌碡，外有齿	None	礰
+礞	meng2	[礞石]矿物名 有青礞石、金礞石两种 入药，有祛痰、消食、镇惊等作用	None	None
+𥖜	jin3	石名	None	None
+礎	chu3	柱下石礅	None	None
+礎	chu3	事物的基底，根基 如：基础	None	None
+礊	ke4	坚硬	None	None
+礊	huo4	鞭声	None	None
+礓	jiang1	小石	None	None
+䃭	gan3	古代帝王封禅时贮藏玉匮玉册的石匣 后亦泛指石匣	None	None
+䃭	gan3	以石遮盖	None	None
+䃭	gan3	用同=撼(han4) 摇动	None	撼
+礌	lei2	用木石自高处滚下以砸击	None	None
+礌	lei2	从高处投击敌人的木、石	None	None
+礌	lei3	同=磊	None	磊
+𥖟	None	同=砱	None	砱
+礏	ye4	[磼礏]见“磼”	None	None
+礑	dang4	底，最下面的部分	None	None
+䃩	nao2	同=硇	None	硇
+𥖨	zao4	地名用字 如：𥖨头，𥖨口，𥖨里，石家𥖨 均在江西省修水县、铜鼓县一带 多为两山夹溪之处，溪心或溪岸多是岩石	None	None
+礋	ze2	[礋𥑺]也作“礋磀” 传说中的异兽名	None	None
+𥖠	zhou2	[碌𥖠]同“碌=碡”	None	碡
+𥖠	zhou2	石名	None	None
+礖	None	同=嶼	None	嶼
+礜	yu4	礜石 也称毒砂，即硫砒铁矿 为制砷及亚砷酸的原料，煅之成末，可杀鼠，亦可入药 礜石生于山，则草木不生，霜雪不积；生于水，则水不冰冻	None	None
+礐	que4	水击石声	None	None
+礐	que4	多大石的山	None	None
+礐	que4	坚硬；坚定	None	None
+礐	que4	同=觷(xue2) 治角	None	觷
+礐	hu2	石名	None	None
+礐	hu2	玉名	None	None
+礉	he2	同=覈 核实	None	覈
+礉	he2	严峻；苛刻	None	None
+礉	qiao1	同=䂭	None	䂭
+礉	qiao1	同=磽 坚硬的石头	None	磽
+礉	qiao1	石砌的堤坝	None	None
+礉	qiao1	强劲	None	None
+礉	qiao4	石不平貌	None	None
+礉	ao2	同=嶅 山多小石	None	嶅
+礉	ao2	通=激(ji1)	None	激
+礆	xian3	同=險	None	險
+礆	jian3	同=碱	None	碱
+𥖞	ken3	石貌	None	None
+䃫	dan3	[石䃫]也作“石=膽” 药名	None	膽
+䃪	None	同=壇	None	壇
+𥖝	lian2	同=磏 红色的磨刀石	None	磏
+礒	yi3	[碕礒]见“碕”	None	None
 礠	None	录入中	None	None
 𥖚	None	录入中	None	None
 䃤	None	录入中	None	None
