@@ -46527,32 +46527,56 @@
 磡	kan4	山岩	None	None
 磡	kan4	堤岸	None	None
 𥕡	liao2	[𥕡嘈]同“=㗦嘈” 形容声音繁杂	None	㗦
-𥖛	None	录入中	None	None
-磺	None	录入中	None	None
-𥕾	None	录入中	None	None
-𥕌	None	录入中	None	None
-磛	None	录入中	None	None
-磚	None	录入中	None	None
-𥕢	None	录入中	None	None
-䃘	None	录入中	None	None
-磦	None	录入中	None	None
-䃜	None	录入中	None	None
-磭	None	录入中	None	None
-磩	None	录入中	None	None
-𥕙	None	录入中	None	None
-磢	None	录入中	None	None
-磠	None	录入中	None	None
-𥕰	None	录入中	None	None
-𥕑	None	录入中	None	None
-𥕕	None	录入中	None	None
-𥕍	None	录入中	None	None
-磥	None	录入中	None	None
-𥕏	None	录入中	None	None
-磪	None	录入中	None	None
-磞	None	录入中	None	None
-𥕣	None	录入中	None	None
-磫	None	录入中	None	None
-𥕼	None	录入中	None	None
+𥖛	None	同=斫	None	斫
+磺	kuang4	同=礦 矿石	None	礦
+磺	kuang4	强	None	None
+磺	huang2	石名	None	None
+磺	huang2	硫磺	None	None
+𥕾	xiao3	破	None	None
+𥕌	None	同=磛	None	磛
+磛	chan2	[磛礹]山石貌	None	None
+磚	zhuan1	用黏土等制成坯，经烧制而成的建筑材料 如：青砖；红砖；瓷砖；耐火砖	None	None
+磚	zhuan1	像砖的东西 如：金砖；茶砖；冰砖	None	None
+磚	tuan2	人名用字	None	None
+磚	tuo2	圆貌	None	None
+𥕢	cao2	采矿的坑道	None	None
+𥕢	cao2	地名用字 斫𥕢，在湖南省	None	None
+䃘	keng1	简陋	None	None
+䃘	keng1	同=硜	None	硜
+磦	biao1	同=㠒 山峰突出貌	None	㠒
+磦	biao1	山峰	None	None
+磦	biao1	一种红色颜料，即“朱磦”	None	None
+䃜	yi1	黑色美石	None	None
+磭	chuo4	大脣	None	None
+磩	qi4	像玉的美石	None	None
+磩	qi4	通=砌 台阶	None	砌
+磩	zhu2	础石，柱下石墩	None	None
+𥕙	hei1	石裂声	None	None
+磢	chuang3	石	None	None
+磢	chuang3	用瓦石擦洗污垢	None	None
+磢	chuang3	磨擦	None	None
+磢	chuang3	峡谷	None	None
+磠	lu3	[磠砂]即“硇砂”	None	None
+𥕰	xu1	石貌	None	None
+𥕑	qie1	石名	None	None
+𥕑	ju1	同=砠	None	砠
+𥕕	None	同=罅	None	罅
+𥕍	lou3	石名	None	None
+磥	lei3	同=磊 石磊积貌	None	磊
+磥	lei3	堆砌	None	None
+磥	lei2	[磥𥒮]磨	None	None
+磥	lei2	突	None	None
+𥕏	kuo4	石硬声	None	None
+磪	cui1	[磪嵬]也作“=崔嵬”、“磪䃬” 山高	None	崔
+磪	cui1	通=摧 伤痛	None	摧
+磞	peng1	击石	None	None
+磞	peng1	[磞硠]大声	None	None
+磞	peng1	用同=碰(peng4) 1.碰击；撞击  2.遇到	None	碰
+⿲石⿱山方攵	None	同=磝	None	磝
+𥕣	zhe2	@	None	None
+磫	zong1	[磫𥗫]质地细腻的磨刀石	None	None
+磫	zong1	石路	None	None
+𥕼	yan2	山名	None	None
 磜	None	录入中	None	None
 䃞	None	录入中	None	None
 磨	None	录入中	None	None
