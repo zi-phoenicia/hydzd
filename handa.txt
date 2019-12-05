@@ -46333,20 +46333,36 @@
 𥓾	qi4	石貌	None	None
 𥔡	None	同=麝	None	麝
 𥔧	None	同=磫	None	磫
-碫	None	录入中	None	None
-𥕋	None	录入中	None	None
-磈	None	录入中	None	None
-磓	None	录入中	None	None
-碷	None	录入中	None	None
-𥕈	None	录入中	None	None
-䃋	None	录入中	None	None
-𥓻	None	录入中	None	None
-碸	None	录入中	None	None
-𥔀	None	录入中	None	None
-碠	None	录入中	None	None
-碲	None	录入中	None	None
-磋	None	录入中	None	None
-𥔣	None	录入中	None	None
+碫	duan4	碫石，锻打用的石砧	None	None
+碫	duan4	磨刀石	None	None
+碫	duan4	磨砺	None	None
+𥕋	None	同=𥔉	None	𥔉
+⿲石亻⿱丷𤴓	None	同=磫	None	磫
+磈	wei3	[磈硊]1.山石貌 2.足曲	None	None
+磈	wei3	高峻貌	None	None
+磈	wei3	同=䃬 众石貌	None	䃬
+磈	wei3	同=硊	None	硊
+磈	kui3	[磈礧]也作“磈磊”、“磈磥”、“磈壘” 1.石 2.石不平貌 3.比喻郁积在胸中的不平之气	None	None
+磈	kui3	用同=塊(kuai5)	None	塊
+磓	dui1	聚石成堆	None	None
+磓	dui1	堆聚	None	None
+磓	dui1	坠落，绳端系石使之下坠	None	None
+磓	dui1	撞击；冲击	None	None
+磓	zhui4	同=硾 敲；击	None	硾
+碷	None	同=楯	None	楯
+𥕈	None	=硟的讹字	None	硟
+䃋	None	同=𥔢	None	𥔢
+𥓻	zong1	石名	None	None
+碸	feng1	硫酰基与烃基或芳香基结合而成的有机化合物 如：二甲砜；二苯砜；丙酮缩二砜	None	None
+𥔀	hong1	石声	None	None
+𥔀	hong1	同=𥕗 石落声	None	𥕗
+碠	ding4	同=矴	None	矴
+碠	ding4	石亭	None	None
+碲	di4	一种非金属元素 符号Te，原子序数52 银白色柱状结晶或棕色粉末 化学性质跟硫和硒相似，但毒性更烈 可作杀菌剂，是半导体材料，也用于陶瓷工业和玻璃工业 (新拉tellurium)	None	None
+磋	cuo1	以象牙磨制成器物	None	None
+磋	cuo1	泛指磨制；磨擦	None	None
+磋	cuo1	研讨 如：磋商	None	None
+𥔣	jiang1	[𥔣䃰]也作“=礓䃰”、“=姜䃰” 台阶	None	礓
 䃍	None	录入中	None	None
 磀	None	录入中	None	None
 磁	None	录入中	None	None
