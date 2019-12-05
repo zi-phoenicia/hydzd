@@ -46779,44 +46779,69 @@
 䃪	None	同=壇	None	壇
 𥖝	lian2	同=磏 红色的磨刀石	None	磏
 礒	yi3	[碕礒]见“碕”	None	None
-礠	None	录入中	None	None
-𥖚	None	录入中	None	None
-䃤	None	录入中	None	None
-礔	None	录入中	None	None
-礕	None	录入中	None	None
-礟	None	录入中	None	None
+礠	None	同=磁	None	磁
+𥖚	None	同=𡼿	None	𡼿
+䃤	su4	黑色磨刀石	None	None
+礔	pi1	[礔礰]同“=霹靂” 疾雷，响雷 亦作象声词	None	霹
+礕	pi1	[礕礰]也作“=霹靂” 1.象声词 2.雷神名	None	霹
+礕	pi1	破开 后作=劈	None	劈
+礟	None	同=礮	None	礮
 𥖫	None	录入中	None	None
-𥖲	None	录入中	None	None
-礣	None	录入中	None	None
-礤	None	录入中	None	None
-𥗀	None	录入中	None	None
-𥖳	None	录入中	None	None
-礛	None	录入中	None	None
-礪	None	录入中	None	None
-礝	None	录入中	None	None
-礘	None	录入中	None	None
-𥗁	None	录入中	None	None
-𥖴	None	录入中	None	None
-𥖵	None	录入中	None	None
-礙	None	录入中	None	None
-𥖬	None	录入中	None	None
-礦	None	录入中	None	None
-𥖾	None	录入中	None	None
-礗	None	录入中	None	None
-䃰	None	录入中	None	None
-𥖶	None	录入中	None	None
-𥖷	None	录入中	None	None
-𥗇	None	录入中	None	None
-䃱	None	录入中	None	None
-𥖿	None	录入中	None	None
-𡕎	None	录入中	None	None
-𥗈	None	录入中	None	None
-礬	None	录入中	None	None
-礥	None	录入中	None	None
-𥗉	None	录入中	None	None
-𥗊	None	录入中	None	None
-𥖼	None	录入中	None	None
-𥗋	None	录入中	None	None
+⿰石赫	None	同=𥕕	None	𥕕
+𥖲	None	@	None	None
+礣	mo4	[礣砎]1.坚硬 2.小石；坚石 3.雷声	None	None
+礤	ca1	粗石	None	None
+礤	ca1	同=攃 磨	None	攃
+𥗀	liao3	[𥗀䲽]石下垂貌	None	None
+𥖳	None	同=礊	None	礊
+礛	jian1	[礛諸]也作“=厱諸”、“礛䃴” 治玉用的磨石	None	厱
+礛	jian1	锋利	None	None
+礪	li4	粗磨刀石	None	None
+礪	li4	磨治	None	None
+礪	li4	钻研；磨炼	None	None
+礝	None	同=碝	None	碝
+礘	e4	[礘礘]1.石貌 2.动貌	None	None
+礘	qi4	[砬礘]石声	None	None
+𥗁	zhuo2	大锄 也作=𣛰、=鐯	None	𣛰
+𥗁	zhuo2	击	None	None
+𥗁	zhuo2	碎石	None	None
+𥖴	None	同=硾	None	硾
+𥖵	yin3	象声词	None	None
+礙	ai4	阻止	None	None
+礙	ai4	限制	None	None
+礙	ai4	牵挂	None	None
+礙	ai4	障碍	None	None
+礙	ai4	妨碍；妨害 如：碍手碍脚；有碍观瞻	None	None
+礙	ai4	遮蔽；遮挡	None	None
+𥖬	bing4	[𥖬𥕽]石声	None	None
+礦	kuang4	矿石 也作=磺	None	磺
+礦	kuang4	采矿的 如：矿业；矿工；矿井	None	None
+礦	kuang4	开采矿物的场所或单位 如：下矿；工矿；厂矿	None	None
+礦	kuang4	粗劣	None	None
+礦	kuang4	石针，古代的一种医疗工具	None	None
+礦	kuang4	用同=獷 粗犷；强悍	None	獷
+𥖾	di2	石	None	None
+𥖾	di2	同=𥕐	None	𥕐
+礗	None	同=𥖶	None	𥖶
+䃰	ca1	[姜䃰]同“𥔣䃰” 台阶	None	None
+𥖶	pin1	碎石声	None	None
+𥖷	None	同=䃫	None	䃫
+𥗇	None	同=碾	None	碾
+⿰石賛	None	同=礸	None	礸
+䃱	None	同=䃸	None	䃸
+𥖿	du2	石名	None	None
+𡕎	None	同=蠹	None	蠹
+𥗈	None	同=礎	None	礎
+礬	fan2	某些金属的含水硫酸盐或由两种或两种以上的金属硫酸盐结合成的含水复盐 如明矾、胆矾、绿矾	None	None
+礬	fan2	山矾花的简称 山矾花俗名椗花，叶密枝肥，冬不凋谢，花白而香	None	None
+礬	fan2	用明矾洗刷	None	None
+礥	xian2	艰难貌	None	None
+礥	xian2	刚强	None	None
+礥	xin2	坚硬	None	None
+𥗉	None	同=磊	None	磊
+𥗊	chong3	地名用字	None	None
+𥖼	lv4	石名	None	None
+𥗋	bao4	象声词，多形容物体落地或迸裂声	None	None
 𥖻	None	录入中	None	None
 礧	None	录入中	None	None
 礨	None	录入中	None	None
