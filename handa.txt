@@ -46616,32 +46616,59 @@
 ⿰石隆	None	同=䃧	None	䃧
 䃧	long2	[䃔䃧]见“䃔”	None	None
 ⿰石⿱又桒	None	同=磉	None	磉
-磖	None	录入中	None	None
-磟	None	录入中	None	None
-磣	None	录入中	None	None
-𥖡	None	录入中	None	None
-𥕘	None	录入中	None	None
-𪿵	None	录入中	None	None
-磽	None	录入中	None	None
-𥕱	None	录入中	None	None
-𥕽	None	录入中	None	None
-䃮	None	录入中	None	None
-𥕶	None	录入中	None	None
-礍	None	录入中	None	None
-𥖎	None	录入中	None	None
-磹	None	录入中	None	None
-𥕷	None	录入中	None	None
-磿	None	录入中	None	None
-𥕲	None	录入中	None	None
-𥕳	None	录入中	None	None
-𥕴	None	录入中	None	None
-䃡	None	录入中	None	None
-𥖋	None	录入中	None	None
-礃	None	录入中	None	None
-𥕸	None	录入中	None	None
-𥖙	None	录入中	None	None
-磵	None	录入中	None	None
-礀	None	录入中	None	None
+磖	la1	[磖磼]破物声	None	None
+磖	la1	折断	None	None
+磖	la2	同=砬	None	砬
+磟	liu4	[硣磟]见“硣”	None	None
+磟	liu4	[磟碡]也作“=碌碡” 农具名	None	碌
+磣	chen3	食物里夹杂着沙子	None	None
+磣	chen3	丑；难堪 如：寒碜；砢碜	None	None
+磣	chen3	很 表示程度加深	None	None
+磣	chen3	同=墋 浑浊	None	墋
+磣	ca4	沙子	None	None
+𥖡	None	同=響	None	響
+𥕘	chao2	石室	None	None
+𥕘	suo3	同=𥔭 小石	None	𥔭
+𪿵	None	=𥗇的类推简化字	None	𥗇
+⿰石替	None	同=䃡	None	䃡
+磽	qiao1	坚硬的石头	None	None
+磽	qiao1	坚硬	None	None
+磽	qiao1	同=墝 土壤坚硬贫瘠 如：硗瘠；硗薄；硗埆	None	墝
+磽	qiao1	恶；败坏	None	None
+磽	qiao1	薄	None	None
+磽	qiao3	山田	None	None
+磽	qiao4	同=礉 石不平	None	礉
+磽	ao2	同=同=磝 山多小石	None	同
+𥕱	peng1	同=硼 石名	None	硼
+𥕱	peng1	同=砰 象声词	None	砰
+𥕽	peng4	[𥖬𥕽]见“𥖬”	None	None
+䃮	da2	古代以石筑成的蓄水泄水的水利设施	None	None
+䃮	da2	溪中石	None	None
+𥕶	si1	磨	None	None
+⿱斯石	None	同=𥕶	None	𥕶
+礍	None	同=碣	None	碣
+𥖎	None	同=礬	None	礬
+磹	dian4	[䃸磹]见“䃸”	None	None
+磹	dian4	石楔	None	None
+磹	dian4	同=簟	None	簟
+磹	dian4	用同=墊	None	墊
+磹	tan2	[磹口]地名，在福建省	None	None
+𥕷	None	同=礝	None	礝
+磿	li4	石声	None	None
+磿	li4	通=歷 1.指历历可数的清单，如名籍之类 2.历象 3.分别 4.计算	None	歷
+磿	li4	通=櫪 拶(指)	None	櫪
+⿰石⿸厂⿰⿱丷帀欠	None	同=𥕲	None	𥕲
+𥕲	jue2	发石	None	None
+𥕳	None	同=𥕲	None	𥕲
+𥕴	None	同=礫	None	礫
+䃡	jin1	小石块	None	None
+䃡	qin2	石门	None	None
+𥖋	None	同=碯	None	碯
+礃	zhang3	[礃子]也作“=掌子” 采矿或隧道工程中掘进的工作面	None	掌
+𥕸	sui4	小石	None	None
+𥖙	ji2	石貌	None	None
+磵	None	同=澗	None	澗
+礀	None	同=澗	None	澗
 磾	None	录入中	None	None
 䃬	None	录入中	None	None
 𥕻	None	录入中	None	None
