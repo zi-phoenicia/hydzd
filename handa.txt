@@ -46669,31 +46669,54 @@
 𥖙	ji2	石貌	None	None
 磵	None	同=澗	None	澗
 礀	None	同=澗	None	澗
-磾	None	录入中	None	None
-䃬	None	录入中	None	None
-𥕻	None	录入中	None	None
-𥕹	None	录入中	None	None
-礄	None	录入中	None	None
-磶	None	录入中	None	None
-磼	None	录入中	None	None
-礁	None	录入中	None	None
-礇	None	录入中	None	None
-𥖌	None	录入中	None	None
-䃢	None	录入中	None	None
-磻	None	录入中	None	None
-𥕿	None	录入中	None	None
-䃣	None	录入中	None	None
-礅	None	录入中	None	None
-䃦	None	录入中	None	None
-䃥	None	录入中	None	None
-磰	None	录入中	None	None
-𥖄	None	录入中	None	None
-磷	None	录入中	None	None
-磸	None	录入中	None	None
-礈	None	录入中	None	None
-磳	None	录入中	None	None
-磱	None	录入中	None	None
-𥖍	None	录入中	None	None
+磾	di1	古代染缯用的黑石	None	None
+䃬	wei3	[磪䃬]见“磪”	None	None
+䃬	wei3	众石貌	None	None
+䃬	kui3	同=磈	None	磈
+䃬	lei3	同=𡼊	None	𡼊
+𥕻	wu2	[䃤𥕻]石名	None	None
+𥕻	wu3	同=碔	None	碔
+𥕹	que4	石破	None	None
+礄	qiao2	地名用字 如：硚口（在湖北省武汉市）	None	None
+磶	xi4	柱下础石	None	None
+磼	za2	[磼礏]也作“=㠎嶫” 山高峻貌	None	㠎
+磼	she2	[磖磼]见“磖”	None	None
+礁	jiao1	[礁嶢]同“=嶕嶢” 高貌	None	嶕
+礁	jiao1	江河、海洋中隐现水面的岩石 如：礁石；暗礁	None	None
+礁	jiao1	由珊瑚虫的遗骸堆积成的岩石状物 如：珊瑚礁	None	None
+礁	jiao1	矿石名 从表面就能看出其含银成分较高	None	None
+礁	jiao1	焦煤	None	None
+礇	yu4	像玉的美石	None	None
+𥖌	None	同=硾	None	硾
+䃢	qin1	石名	None	None
+䃢	qin1	同=嶔 山势高险	None	嶔
+磻	bo1	缴矢所用之石	None	None
+磻	pan2	[磻溪]1.溪名 在今陕西省宝鸡市东南，相传为周姜太公钓鱼处 一名璜河，又名凡谷 2.地名	None	None
+𥕿	pan1	[𥕿瓳]大砖	None	None
+䃣	hui3	同=毁 毁坏	None	毁
+⿰石㫺	None	同=碏	None	碏
+礅	None	同=䃦 如：石礅；桥礅；磉礅	None	䃦
+䃦	dun1	厚而粗大的一整块石头	None	None
+䃥	chuang2	石貌	None	None
+磰	None	同=墡	None	墡
+𥖄	xian4	方言 钻石；金刚钻 如：𥖄石（钻石）；𥖄笔（割玻璃的刀具）	None	None
+磷	lin2	[磷磷]1.形容水、石明净 也作“=粼粼” 2.色泽鲜明貌	None	粼
+磷	lin2	一种非金属元素 符号P，原子序数15 同素异形体有白磷、红磷和黑磷 是生命活动不可少的元素 牙齿、骨骼和脱氧核糖核酸中都含有磷 (新拉phosphorum)	None	None
+磷	lin2	碎石	None	None
+磷	lin4	薄；薄石	None	None
+磷	lin4	瑕疵	None	None
+磷	lin4	玷污	None	None
+磷	lin4	通，畅通	None	None
+磷	lin4	云母别名	None	None
+磷	lin3	石貌	None	None
+磷	ling2	[砰磷]峻貌	None	None
+磸	None	同=矴	None	矴
+礈	None	同=墜	None	墜
+⿰石𠔥	None	同=磏	None	磏
+磳	zeng1	[碅磳]见“碅”	None	None
+磳	zeng1	山崖；山麓	None	None
+磱	None	同=𥒪	None	𥒪
+𥖍	la4	滩名	None	None
 磴	None	录入中	None	None
 𥕺	None	录入中	None	None
 磯	None	录入中	None	None
