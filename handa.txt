@@ -46416,28 +46416,44 @@
 磕	ke1	叩头，旧时的跪拜礼	None	None
 磕	ke1	咬开	None	None
 磕	ke3	石名	None	None
-𥕓	None	录入中	None	None
-𥕗	None	录入中	None	None
-磌	None	录入中	None	None
-䃛	None	录入中	None	None
-䃒	None	录入中	None	None
-𥕇	None	录入中	None	None
-𥕉	None	录入中	None	None
-磊	None	录入中	None	None
-𥓽	None	录入中	None	None
-𥔮	None	录入中	None	None
-𥔭	None	录入中	None	None
-磒	None	录入中	None	None
-磑	None	录入中	None	None
-𥕆	None	录入中	None	None
-䃖	None	录入中	None	None
-磇	None	录入中	None	None
-磃	None	录入中	None	None
-磤	None	录入中	None	None
-䃑	None	录入中	None	None
-磐	None	录入中	None	None
-磘	None	录入中	None	None
-𥔿	None	录入中	None	None
+⿰石⿱⿵卄二正	None	同=碪	None	碪
+𥕓	mo4	同=漠 沙漠	None	漠
+𥕗	hong1	石落声	None	None
+磌	tian2	石落声	None	None
+磌	tian2	柱下石础	None	None
+䃛	lian2	同=鏈	None	鏈
+䃒	he2	地贫瘠多石	None	None
+𥕇	da3	雌黄，矿物名	None	None
+𥕉	cuo4	同=厝 磨刀石	None	厝
+磊	lei3	众石累积貌	None	None
+磊	lei3	垒，堆砌	None	None
+磊	lei3	大貌	None	None
+𥓽	None	同=砦	None	砦
+𥔮	qian2	磌	None	None
+⿰石监	None	=礛的类推简化字	None	礛
+𥔭	suo3	小石	None	None
+⿰石⿱日𠣏	None	同=碣	None	碣
+磒	yun3	同=隕 坠落	None	隕
+磑	wei4	磨，碾碎谷物的器具	None	None
+磑	wei4	磨，使物粉碎	None	None
+磑	ai2	[磑磑]1.高貌 2.聚积 3.洁白光亮貌 也作“=皚皚”	None	皚
+磑	gai4	同=𧰙 切近	None	𧰙
+𥕆	None	同=礰	None	礰
+䃖	wu4	同=隖(塢)  土堡	None	隖
+磇	None	同=砒	None	砒
+磃	si1	[磃氏]汉宫苑馆名	None	None
+磃	ti2	[磄磃]怪石	None	None
+磤	yin3	同=殷 雷声	None	殷
+磤	yin1	[砏磤]见“砏”	None	None
+䃑	ban1	石纹 也作=斑	None	斑
+䃑	ban1	石铺貌	None	None
+䃑	pan2	同=磐 大石	None	磐
+磐	pan2	大石	None	None
+磐	pan2	水滨小丘	None	None
+磐	pan2	通=盤 盘桓不进貌	None	盤
+⿰石殺	sha1	[磍⿰石殺]见“磍”	None	None
+磘	yao2	地名用字 灰磘，在台湾省台北县中和市	None	None
+𥔿	None	@	None	None
 𥔰	None	录入中	None	None
 磎	None	录入中	None	None
 𥕀	None	录入中	None	None
