@@ -46454,35 +46454,79 @@
 ⿰石殺	sha1	[磍⿰石殺]见“磍”	None	None
 磘	yao2	地名用字 灰磘，在台湾省台北县中和市	None	None
 𥔿	None	@	None	None
-𥔰	None	录入中	None	None
-磎	None	录入中	None	None
-𥕀	None	录入中	None	None
-磔	None	录入中	None	None
-磂	None	录入中	None	None
-碻	None	录入中	None	None
-𥕖	None	录入中	None	None
-𥕁	None	录入中	None	None
-𥕂	None	录入中	None	None
-𥕮	None	录入中	None	None
-磙	None	录入中	None	None
-磄	None	录入中	None	None
-磅	None	录入中	None	None
-磏	None	录入中	None	None
-䃕	None	录入中	None	None
-磍	None	录入中	None	None
-𥕅	None	录入中	None	None
-𥔱	None	录入中	None	None
-確	None	录入中	None	None
-䃗	None	录入中	None	None
-碾	None	录入中	None	None
-碿	None	录入中	None	None
-磉	None	录入中	None	None
-𥕃	None	录入中	None	None
-磧	None	录入中	None	None
-䃝	None	录入中	None	None
-磬	None	录入中	None	None
-磡	None	录入中	None	None
-𥕡	None	录入中	None	None
+𥔰	None	同=礮	None	礮
+磎	xi1	同=谿 山谷	None	谿
+𥕀	weng1	象声词	None	None
+磔	zhe2	车裂，古代分裂肢体的酷刑	None	None
+磔	zhe2	张；开	None	None
+磔	zhe2	禳祭，分裂牲体以祭祀鬼神	None	None
+磔	zhe2	汉字书法之一，右下方的捺笔	None	None
+磂	liu2	同=硫	None	硫
+磂	liu4	同=鎦 铁锅	None	鎦
+碻	que4	同=確 1.坚固 2.确实；真实	None	確
+碻	qiao1	[碻磝]1.多石不平貌 2.古城名 在今山东省	None	None
+𥕖	guo3	[𥕖𨏒]车声	None	None
+𥕖	guo3	同=椁	None	椁
+𥕁	None	同=磣	None	磣
+𥕂	ji2	同=瘠 土地瘠薄	None	瘠
+𥕮	None	地名用字	None	None
+磙	gun3	磙子，石制的圆筒形的碾轧工具 如：磙子；石磙	None	None
+磙	gun3	用磙子碾轧 如：磙地；磙路面	None	None
+磄	tang2	[磅磄]也作“旁=唐” 广大貌	None	唐
+磅	pang1	石坠声	None	None
+磅	pang1	象声词	None	None
+磅	pang1	击石	None	None
+磅	pang2	[磅礴]也作“=旁薄”、“旁礴”、“旁魄” 1.充满；扩展 2.广大无边之貌	None	旁
+磅	bang4	英语pound的音译 英美制重量单位 一磅合0.4536千克	None	None
+磅	bang4	磅秤，一种有底座的秤	None	None
+磅	bang4	用磅秤称重量 如：磅体重；把这袋米磅一磅	None	None
+磅	bang4	点的旧称 印刷上计算活字及字模大小的单位，约等于0.35毫米	None	None
+磏	lian3	红色的磨刀石	None	None
+磏	lian3	激励；磨炼	None	None
+磏	lian3	石之有棱角者	None	None
+磏	lian3	同=廉	None	廉
+磏	qian1	[大磏]地名 在贵州省	None	None
+䃕	lao2	石器	None	None
+䃕	lao2	石名 滑石，又名冷石	None	None
+䃕	luo4	[䃕確]石撞击声	None	None
+䃕	luo4	和声	None	None
+磍	xia2	[碣磍]见“碣”	None	None
+磍	qia4	剥	None	None
+磍	ya4	[磍⿰石殺]石地不平	None	None
+𥕅	None	同=岨	None	岨
+⿰石诸	None	=䃴的类推简化字	None	䃴
+𥔱	shan4	雕琢玉器的石块	None	None
+確	que4	坚固；坚硬	None	None
+確	que4	坚定；坚决	None	None
+確	que4	准确；真实	None	None
+䃗	bo1	石	None	None
+䃗	bo1	石砌之岸	None	None
+䃗	zhuo1	[䃗礫]大石	None	None
+碾	nian3	用于滚压和研磨的工具 如：水碾；石碾；汽碾	None	None
+碾	nian3	滚压；研磨 如：碾米；碾茶；碾场	None	None
+碾	nian3	车磨玉石	None	None
+碾	nian3	撵，赶 后作=攆	None	攆
+碿	su4	磨	None	None
+碿	xie4	碎石	None	None
+磉	sang3	础石，柱下石礅 如：磉礅	None	None
+𥕃	None	同=磣	None	磣
+磧	qi4	沙石积成的浅滩	None	None
+磧	qi4	急流	None	None
+磧	qi4	沙漠，不生草木的沙石地	None	None
+䃝	qiao3	同=礉	None	礉
+磬	qing4	打击乐器 用石、玉或金属制成，悬挂在架上 有单个的特磬 也有成组的编磬	None	None
+磬	qing4	佛教打击乐器，以铜制成，形状似钵 敲击以集僧众或诵经礼谶	None	None
+磬	qing4	缢杀	None	None
+磬	qing4	身形像磬一样弯曲	None	None
+磬	qing4	通=罄 尽；空	None	罄
+磬	qing4	通=騁(cheng3) 放马疾驰	None	騁
+磬	qing4	通=俔(qian4) 譬喻	None	俔
+磬	qing4	方言 适才	None	None
+磬	qing3	击石声	None	None
+磡	kan4	岩崖之下	None	None
+磡	kan4	山岩	None	None
+磡	kan4	堤岸	None	None
+𥕡	liao2	[𥕡嘈]同“=㗦嘈” 形容声音繁杂	None	㗦
 𥖛	None	录入中	None	None
 磺	None	录入中	None	None
 𥕾	None	录入中	None	None
