@@ -46077,58 +46077,92 @@
 𪿢	None	同=辟	None	辟
 硫	liu2	一种非金属元素 符号S(sulphur)，原子序数16 通称硫磺 呈浅黄色 质硬而脆，不传热和电，易燃 工业上纯硫可制火药、火柴、硫化橡胶、杀虫剂等，医药上用来治疗皮肤病	None	None
 硫	chu4	不光滑的石头	None	None
-𥓌	None	录入中	None	None
-䂱	None	录入中	None	None
-硰	None	录入中	None	None
-𥒬	None	录入中	None	None
-硡	None	录入中	None	None
-𥒪	None	录入中	None	None
-𥒳	None	录入中	None	None
-硠	None	录入中	None	None
-𥒮	None	录入中	None	None
-硧	None	录入中	None	None
-𥒲	None	录入中	None	None
-碔	None	录入中	None	None
-碃	None	录入中	None	None
-碛	None	录入中	None	None
-𥓨	None	录入中	None	None
-䂻	None	录入中	None	None
-𥓩	None	录入中	None	None
-𥓪	None	录入中	None	None
-碐	None	录入中	None	None
-䃁	None	录入中	None	None
-䃆	None	录入中	None	None
-碁	None	录入中	None	None
-碏	None	录入中	None	None
-䃊	None	录入中	None	None
-碤	None	录入中	None	None
-碄	None	录入中	None	None
-䂾	None	录入中	None	None
-硹	None	录入中	None	None
-䂸	None	录入中	None	None
-硻	None	录入中	None	None
-碕	None	录入中	None	None
-硽	None	录入中	None	None
-硺	None	录入中	None	None
-𥓐	None	录入中	None	None
-䃀	None	录入中	None	None
-𥓼	None	录入中	None	None
-碊	None	录入中	None	None
-𥓫	None	录入中	None	None
-𥓬	None	录入中	None	None
-𪿨	None	录入中	None	None
-𥓍	None	录入中	None	None
-䂽	None	录入中	None	None
-碍	None	录入中	None	None
-𥓖	None	录入中	None	None
-䂺	None	录入中	None	None
-䃂	None	录入中	None	None
-碘	None	录入中	None	None
-碋	None	录入中	None	None
-硸	None	录入中	None	None
-碅	None	录入中	None	None
-䂿	None	录入中	None	None
-碙	None	录入中	None	None
+⿰石间	None	=磵的类推简化字	None	磵
+𥓌	qiang3	石名	None	None
+䂱	rui4	磨使消	None	None
+硰	sha1	[硰石]古地名 在今山西省宁武县境	None	None
+𥒬	san3	碎石	None	None
+硡	hong1	宏大的声音	None	None
+硡	hong1	石	None	None
+硡	hong1	石落声	None	None
+𥒪	None	同=䃕	None	䃕
+𥒳	kang4	[𠿕𥒳]高下不平貌	None	None
+硠	lang2	[硠硠]1.石声 2.泛指其他声响 3.坚	None	None
+𥒮	wei3	[磥𥒮]见“磥”	None	None
+𥒮	wei3	同=𥓔	None	𥓔
+硧	yong3	磨刀石	None	None
+硧	tong2	同=硐 磨	None	硐
+𥒲	si4	石堕声	None	None
+碔	wu3	[碔砆]也作“=珷玞”、“=武夫”、“=𥕻砆” 似玉的美石	None	珷
+碔	wu3	浮石	None	None
+碃	qing4	石	None	None
+碛	None	=磧的简化字	None	磧
+𥓨	None	同=揅	None	揅
+䂻	zheng4	塞	None	None
+䂻	zheng4	同=鋥 打磨	None	鋥
+𥓩	None	同=硅	None	硅
+𥓪	None	@	None	None
+碐	leng2	[碐磳]也作“=崚嶒” 石不平貌	None	崚
+碐	leng2	石貌	None	None
+䃁	ya1	[碨䃁]见“碨”	None	None
+䃁	ya1	石名	None	None
+䃆	None	同=碁	None	碁
+碁	None	同=棋	None	棋
+碏	que4	敬	None	None
+碏	que4	石杂色	None	None
+碏	xi1	碍	None	None
+⿰石若	None	同=硌	None	硌
+䃊	ju3	[𥒰䃊]见“𥒰”	None	None
+碤	ying1	水中石	None	None
+碤	ying1	有文采之石	None	None
+碄	lin2	[碄碄]深貌	None	None
+䂾	lai3	磨	None	None
+硹	song1	地名	None	None
+䂸	guo2	击石	None	None
+䂸	guo2	破	None	None
+硻	keng1	击石声 也作=硜、=鏗、=磬	None	硜
+硻	keng3	刚	None	None
+⿰石奔	None	同=錛	None	錛
+碕	qi2	曲折的堤岸	None	None
+碕	qi2	弯曲	None	None
+碕	qi2	山绵长貌	None	None
+碕	qi1	同=徛 石桥	None	徛
+碕	qi3	[碕礒]山石错落不平貌	None	None
+硽	yan1	石名	None	None
+硽	yan3	山崖	None	None
+硺	None	同=琢	None	琢
+𥓐	jie2	[䃳𥓐]见“䃳”	None	None
+䃀	cui4	石磨	None	None
+䃀	cui4	磨，磨砺	None	None
+𥓼	None	同=磲	None	磲
+碊	jian1	棚，阁	None	None
+碊	jian1	移	None	None
+碊	jian1	同=濺	None	濺
+碊	jian1	山坡	None	None
+碊	zhan3	同=棧 栈道	None	棧
+𥓫	None	同=𥓬	None	𥓬
+𥓬	dao4	石名	None	None
+𪿨	None	[柴𪿨]矿物原料名	None	None
+𥓍	du2	落石	None	None
+䂽	diao4	[磽䂽]石名	None	None
+⿰石贤	None	=礥的类推简化字	None	礥
+碍	None	同=礙	None	礙
+𥓖	gao3	[女𥓖]似玉之石头	None	None
+䂺	wo3	[䂺砈]石貌	None	None
+䂺	ke1	同=顆 颗粒	None	顆
+䃂	gun3	钟声不响亮	None	None
+䃂	gun3	石声	None	None
+䃂	gun3	滚动	None	None
+䃂	gun3	石磙，石制的碾轧农具	None	None
+碘	dian3	一种非金属元素 符号I，原子序数53 紫灰色晶体，有金属光泽 它的酒精溶液叫“碘酊”或“碘酒”，用来消毒 工业上用来制造染料 (新拉iodium)	None	None
+⿰石㘴	None	同=䂳	None	䂳
+碋	he4	[𥗿碋]见“𥗿”	None	None
+硸	nve4	[硸磭]大唇貌	None	None
+硸	nve4	石磨	None	None
+碅	jun1	[碅磳]也作“=硱磳” 石危貌	None	硱
+䂿	ta4	再舂糙米使之精良	None	None
+䂿	ta4	用脚踏碓舂米	None	None
+碙	nao2	[碙砂]同“=硇砂” 矿物名	None	硇
 碢	None	录入中	None	None
 硾	None	录入中	None	None
 䂷	None	录入中	None	None
