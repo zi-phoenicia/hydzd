@@ -46322,14 +46322,17 @@
 碞	yan2	同=巖 山石高峻貌	None	巖
 碞	yan2	山崖、山洞及岩石	None	None
 碞	yan2	僭越，超过本分	None	None
-碳	None	录入中	None	None
-𥔯	None	录入中	None	None
-𥔨	None	录入中	None	None
-𥔆	None	录入中	None	None
-磆	None	录入中	None	None
-𥓾	None	录入中	None	None
-𥔡	None	录入中	None	None
-𥔧	None	录入中	None	None
+碳	tan4	一种非金属元素 符号C，原子序数6 为无臭无味的固体，化学性质稳定 碳是构成有机物的主要成分，冶铁和炼钢都需要它 碳和它的化合物在工业和药物上用途很广 (新拉carbonnium)	None	None
+𥔯	hui4	石貌	None	None
+𥔨	None	同=拶	None	拶
+𥔆	None	同=席	None	席
+磆	hua4	[磆石]也作“=滑石” 药名	None	滑
+磆	ke3	可制器具的石头	None	None
+磆	gu1	[磆碌]也作“=骨碌” 滚动	None	骨
+⿰石钦	None	=䃢的类推简化字	None	䃢
+𥓾	qi4	石貌	None	None
+𥔡	None	同=麝	None	麝
+𥔧	None	同=磫	None	磫
 碫	None	录入中	None	None
 𥕋	None	录入中	None	None
 磈	None	录入中	None	None
