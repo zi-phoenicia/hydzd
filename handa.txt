@@ -46024,31 +46024,59 @@
 𥒿	None	=𬒪的类推简化字	None	𬒪
 硵	None	=磠的类推简化字	None	磠
 𬒎	None	=䃘的类推简化字	None	䃘
-硝	None	录入中	None	None
-𥔄	None	录入中	None	None
-硯	None	录入中	None	None
-𥓀	None	录入中	None	None
-𥓓	None	录入中	None	None
-𥒭	None	录入中	None	None
-硱	None	录入中	None	None
-𥒵	None	录入中	None	None
-硶	None	录入中	None	None
-硞	None	录入中	None	None
-硪	None	录入中	None	None
-䂰	None	录入中	None	None
-𥓁	None	录入中	None	None
-硢	None	录入中	None	None
-硷	None	录入中	None	None
-䂳	None	录入中	None	None
-硲	None	录入中	None	None
-𥒫	None	录入中	None	None
-𥓂	None	录入中	None	None
-确	None	录入中	None	None
-𥓃	None	录入中	None	None
-𥓇	None	录入中	None	None
-𥒶	None	录入中	None	None
-䂴	None	录入中	None	None
-硫	None	录入中	None	None
+硝	xiao1	矿物名 主要由芒硝、硝石、朴硝等几种 可入药 硝石，白色结晶体，成分是硝酸钾，可制火药，也称火硝 朴硝，白色透明结晶体，成分以硝酸钠为主，还含有氯化钠和硝酸钾等杂质，可用来鞣制皮革，俗称皮硝	None	None
+硝	xiao1	用朴硝、芒硝等鞣制皮革使变软	None	None
+硝	qiao4	石坚貌	None	None
+𥔄	nie4	礬石	None	None
+𥔄	nie4	泥淤	None	None
+硯	yan4	光滑的石头	None	None
+硯	yan4	砚台，磨墨的文具	None	None
+硯	yan4	制作砚台	None	None
+硯	yan4	指有同学关系 如：砚兄；砚友	None	None
+硯	yan4	像	None	None
+𥓀	None	同=硍	None	硍
+𥓓	None	同=碑	None	碑
+𥒭	chu4	小石	None	None
+硱	kun3	[硱磳]山石高耸貌	None	None
+𬒍	None	=磒的类推简化字	None	磒
+⿰石呙	None	=碢的类推简化字	None	碢
+𥒵	yi4	地名	None	None
+硶	chen3	同=磣	None	磣
+硶	cen2	@	None	None
+硞	que4	石声	None	None
+硞	que4	坚固	None	None
+硞	ke4	[礐硞]水激石险峻不平貌	None	None
+硞	ku4	[碌硞]也作“=犖硞” 石不平貌	None	犖
+硪	e2	石崖	None	None
+硪	e2	同=峨	None	峨
+硪	yi3	同=礒	None	礒
+硪	wo4	打夯用的石头工具	None	None
+䂰	la4	石	None	None
+⿰石𢆍	None	同=𥓾	None	𥓾
+𥓁	None	同=硇	None	硇
+硢	yu2	石名	None	None
+硷	None	=鹼的简化字	None	鹼
+䂳	cuo3	碎石	None	None
+䂳	cuo3	通=剉 折伤	None	剉
+䂳	cha3	药石名	None	None
+硲	None	同=峪	None	峪
+𥒫	fou1	破声	None	None
+𥓂	han2	[𥓂砑]同“=㟏岈” 山深谷空貌	None	㟏
+确	que4	土地多石而贫瘠	None	None
+确	que4	坚硬	None	None
+确	que4	薄，不丰厚	None	None
+确	que4	确实；确切	None	None
+确	que4	通=角(jue2) 角逐，竞争	None	角
+确	que4	通=㩁 敲打	None	㩁
+确	que4	同=礐 山多大石	None	礐
+确	que4	=確的简化字	None	確
+𥓃	None	同=礫	None	礫
+𥓇	du3	矺	None	None
+𥒶	hua4	石声	None	None
+䂴	yan2	同=研 研考	None	研
+𪿢	None	同=辟	None	辟
+硫	liu2	一种非金属元素 符号S(sulphur)，原子序数16 通称硫磺 呈浅黄色 质硬而脆，不传热和电，易燃 工业上纯硫可制火药、火柴、硫化橡胶、杀虫剂等，医药上用来治疗皮肤病	None	None
+硫	chu4	不光滑的石头	None	None
 𥓌	None	录入中	None	None
 䂱	None	录入中	None	None
 硰	None	录入中	None	None
