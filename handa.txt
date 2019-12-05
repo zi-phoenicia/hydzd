@@ -46250,36 +46250,78 @@
 𥓗	None	同=磣	None	磣
 𥓱	None	同=碯	None	碯
 碶	qi4	水闸	None	None
-碧	None	录入中	None	None
-碡	None	录入中	None	None
-𥔫	None	录入中	None	None
-碪	None	录入中	None	None
-碟	None	录入中	None	None
-𥔽	None	录入中	None	None
-𥔾	None	录入中	None	None
-𣗁	None	录入中	None	None
-碴	None	录入中	None	None
-𥔁	None	录入中	None	None
-䃌	None	录入中	None	None
-𥓿	None	录入中	None	None
-碱	None	录入中	None	None
-𥔃	None	录入中	None	None
-碩	None	录入中	None	None
-𥔩	None	录入中	None	None
-碝	None	录入中	None	None
-𥔈	None	录入中	None	None
-𥔇	None	录入中	None	None
-䃎	None	录入中	None	None
-𥔐	None	录入中	None	None
-䃈	None	录入中	None	None
-碮	None	录入中	None	None
-碭	None	录入中	None	None
-䃏	None	录入中	None	None
-碣	None	录入中	None	None
-碨	None	录入中	None	None
-𥔅	None	录入中	None	None
-𥔲	None	录入中	None	None
-碞	None	录入中	None	None
+碧	bi4	青绿色的玉石	None	None
+碧	bi4	青绿色 如：碧霄；碧竹；碧瓦	None	None
+碧	bi4	姓	None	None
+碡	zhou4	[磟碡]见“磟”	None	None
+𥔫	sang3	垫鼓的石墩	None	None
+碪	zhen1	同=砧 1.捣衣石 2.椹板，古代杀人的刑具	None	砧
+碪	an3	[碪𥔲]也作“=嵁崿” 山高峻貌	None	嵁
+碪	kan4	同=磡 岩崖之下	None	磡
+碟	she2	同=鞨 治理皮革	None	鞨
+碟	die2	盛食品的小盘	None	None
+𥔽	ke4	@	None	None
+𥔾	huang1	同=塃 在矿层表面开采的矿石	None	塃
+𣗁	dun4	田器	None	None
+𣗁	za1	逼迫	None	None
+碴	cha2	物体的小碎块 如：冰碴；玻璃碴	None	None
+碴	cha2	器物上的破口	None	None
+碴	cha2	皮肉被碎片划破 如：别碴了手	None	None
+碴	cha2	嫌隙；事端 如：他们俩有碴儿	None	None
+碴	cha2	指别人提到的事或刚说完的话	None	None
+碴	cha1	[胡子拉碴]胡子丛生的样子	None	None
+𥔁	pi4	石落	None	None
+䃌	zhen1	石山	None	None
+䃌	zhen1	石	None	None
+䃌	yin1	地名用字	None	None
+𥓿	tuo2	同=碢 碾轮石	None	碢
+𥓿	tuo2	飞砖之戏	None	None
+碱	jian3	同=鹼	None	鹼
+碱	xian2	@	None	None
+𥔃	None	同=碨	None	碨
+碩	shuo4	头大 引申为大	None	None
+碩	shuo4	远	None	None
+碩	shuo4	学识渊博、德高望重的人	None	None
+碩	shuo4	充实	None	None
+碩	shuo4	通=石(shi2) 比喻坚固	None	石
+碩	shuo4	用同=石(dan4) 量词 1.容量单位 相当于十斗 2.古代重量单位 相当于一百二十斤	None	石
+碩	shuo4	通=蹠(zhi1) 跳跃	None	蹠
+碩	shuo4	姓	None	None
+𥔩	qi3	问	None	None
+碝	ruan3	似玉的美石	None	None
+𥔈	None	同=厗	None	厗
+𥔇	kong1	[𥔇𥔇]石声	None	None
+䃎	zha3	[䃎𥑒]石垂貌	None	None
+䃎	zha3	用同=砟 小煤块	None	砟
+䃎	zha4	地名用字 大水䃎，在甘肃省	None	None
+𥔐	None	同=磕	None	磕
+䃈	jie1	同=階	None	階
+䃈	jie1	同=瑎 像玉的黑石	None	瑎
+碮	ti2	砧	None	None
+碮	di1	同=隄	None	隄
+碭	dang4	有花纹的石头	None	None
+碭	dang4	荡溢；振荡	None	None
+碭	dang4	广大	None	None
+碭	dang4	山名 在安徽省砀山县东南	None	None
+碭	dang4	古地名 春秋时为宋邑，后入于楚，秦置为砀县，治所在今河南省夏邑县东南	None	None
+碭	dang4	姓	None	None
+䃏	xing1	石名	None	None
+碣	jie2	高耸独立的石头	None	None
+碣	jie2	独立高举貌	None	None
+碣	jie2	圆顶的石碑	None	None
+碣	jie2	界碑	None	None
+碣	jie2	文体的一种	None	None
+碣	jie2	碣石的省称 碣石，古山名 在河北省昌黎县西北	None	None
+碣	ke3	石貌	None	None
+碣	ya4	[碣磍]猛兽盛怒貌	None	None
+碨	wei3	[碨磊]石不平貌	None	None
+碨	wei3	[碨䃁]地形不平貌	None	None
+碨	wei4	方言 石磨	None	None
+𥔅	None	同=砎	None	砎
+𥔲	e4	[碪𥔲]见“碪”	None	None
+碞	yan2	同=巖 山石高峻貌	None	巖
+碞	yan2	山崖、山洞及岩石	None	None
+碞	yan2	僭越，超过本分	None	None
 碳	None	录入中	None	None
 𥔯	None	录入中	None	None
 𥔨	None	录入中	None	None
