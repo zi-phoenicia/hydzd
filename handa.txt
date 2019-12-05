@@ -46786,7 +46786,7 @@
 礕	pi1	[礕礰]也作“=霹靂” 1.象声词 2.雷神名	None	霹
 礕	pi1	破开 后作=劈	None	劈
 礟	None	同=礮	None	礮
-𥖫	None	录入中	None	None
+𥖫	None	同=𥗣(䥢)	None	𥗣
 ⿰石赫	None	同=𥕕	None	𥕕
 𥖲	None	@	None	None
 礣	mo4	[礣砎]1.坚硬 2.小石；坚石 3.雷声	None	None
@@ -46842,37 +46842,65 @@
 𥗊	chong3	地名用字	None	None
 𥖼	lv4	石名	None	None
 𥗋	bao4	象声词，多形容物体落地或迸裂声	None	None
-𥖻	None	录入中	None	None
-礧	None	录入中	None	None
-礨	None	录入中	None	None
-𥗑	None	录入中	None	None
-礫	None	录入中	None	None
-礩	None	录入中	None	None
-䃲	None	录入中	None	None
-䃴	None	录入中	None	None
-𥗂	None	录入中	None	None
-𥖽	None	录入中	None	None
-䃳	None	录入中	None	None
-礮	None	录入中	None	None
-𥗗	None	录入中	None	None
-𥗚	None	录入中	None	None
-𥗪	None	录入中	None	None
-礴	None	录入中	None	None
-𥗘	None	录入中	None	None
-𥗓	None	录入中	None	None
-礰	None	录入中	None	None
-礭	None	录入中	None	None
-𥗙	None	录入中	None	None
-䃵	None	录入中	None	None
-䃶	None	录入中	None	None
-礳	None	录入中	None	None
-𥗒	None	录入中	None	None
-礲	None	录入中	None	None
-礱	None	录入中	None	None
-䃷	None	录入中	None	None
-𥗞	None	录入中	None	None
-礯	None	录入中	None	None
-𥗣	None	录入中	None	None
+𥖻	sou3	石名	None	None
+礧	lei2	同=礌 1.用木石自高处滚下砸击 2.从高处投机敌人的木、石	None	礌
+礧	lei2	撞击；冲击	None	None
+礧	lei3	不平貌	None	None
+礧	lei3	大石貌	None	None
+礧	lei3	堆砌	None	None
+礧	lei3	[碨礧]山貌	None	None
+礨	lei3	[礨空]也作“空礨” 小穴 一说小土堆	None	None
+礨	lei3	同=礧	None	礧
+𥗑	None	人名用字	None	None
+礫	li4	小石	None	None
+礫	li4	石貌	None	None
+礫	luo4	[卓礫]也作“連=躒” 超群出众	None	躒
+礫	luo4	白石貌	None	None
+礩	zhi4	础石，柱下石礅	None	None
+礩	zhi4	用同=窒	None	窒
+䃲	None	同=磐	None	磐
+䃴	zhu1	[礛䃴]见“礛”	None	None
+𥗂	None	同=摩	None	摩
+𥖽	None	同=磶	None	磶
+䃳	la4	石坠落貌	None	None
+䃳	la4	一种含铜的矿石	None	None
+䃳	lie4	[䃳𥓐]山势连接貌	None	None
+礮	pao4	古代以机发石的兵器 也作=砲	None	砲
+礮	pao4	用纸包石灰硫磺、运机发射的一种兵器，时称霹雳砲	None	None
+礮	pao4	火炮	None	None
+𥗗	None	同=䃵	None	䃵
+𥗚	dao4	同=𡄒 九十岁	None	𡄒
+𥗪	jiang1	同=礓	None	礓
+礴	bo2	[磅礴]见“磅”	None	None
+礴	bo2	冲击	None	None
+𥗘	None	同=摩	None	摩
+𥗓	ta4	石名	None	None
+礰	li4	[礔礰]见“礔”	None	None
+礭	que4	同=確 也作=塙 坚固不可动摇	None	確
+礭	que4	敲击	None	None
+礭	que4	水激石险峻不平之貌	None	None
+𬒪	li4	同=厲 商至春秋时方国，其地在今河南省鹿邑县东	None	厲
+𥗙	que4	[𥗙確]水激石声	None	None
+䃵	niao3	石名	None	None
+䃵	niao3	山势曲折	None	None
+䃶	huai2	石不平貌	None	None
+䃶	gui1	小石	None	None
+䃶	guai4	同=𥑋 像玉的美石 	None	𥑋
+礳	mo4	[礳石渠]地名 在山西省	None	None
+𥗒	chen4	水石	None	None
+礲	long2	同=礱 磨砺	None	礱
+礲	long2	穿过石洞的 急流	None	None
+礱	long2	磨，磨砺	None	None
+礱	long2	磨刀石	None	None
+礱	long2	磨擦	None	None
+礱	long2	切磋，研讨	None	None
+礱	long2	磨稻谷去壳的工具 以木为之 ，形状略像磨，两扇皆凿斜齿 又名“木礧”、“礧子”	None	None
+礱	long2	用砻磨稻谷去壳	None	None
+䃷	ying2	石名	None	None
+䃷	ying2	研习	None	None
+𥗞	None	同=𥕗	None	𥕗
+礯	ying1	石名	None	None
+𥗣	None	同=䥢	None	䥢
 礷	None	录入中	None	None
 礶	None	录入中	None	None
 𥗤	None	录入中	None	None
