@@ -46163,30 +46163,61 @@
 䂿	ta4	再舂糙米使之精良	None	None
 䂿	ta4	用脚踏碓舂米	None	None
 碙	nao2	[碙砂]同“=硇砂” 矿物名	None	硇
-碢	None	录入中	None	None
-硾	None	录入中	None	None
-䂷	None	录入中	None	None
-𥓔	None	录入中	None	None
-𥔢	None	录入中	None	None
-𥓋	None	录入中	None	None
-碓	None	录入中	None	None
-䃇	None	录入中	None	None
-碑	None	录入中	None	None
-𥓭	None	录入中	None	None
-碒	None	录入中	None	None
-𥓑	None	录入中	None	None
-碖	None	录入中	None	None
-𥓕	None	录入中	None	None
-䂼	None	录入中	None	None
-硼	None	录入中	None	None
-碉	None	录入中	None	None
-碈	None	录入中	None	None
-𥓮	None	录入中	None	None
-𥓒	None	录入中	None	None
-䂹	None	录入中	None	None
-碎	None	录入中	None	None
-𥓯	None	录入中	None	None
-碚	None	录入中	None	None
+碙	gang1	山冈；石岩	None	None
+碢	None	同=砣	None	砣
+硾	zhui4	同=縋 系以重物使下坠	None	縋
+硾	zhui4	垂挂	None	None
+硾	zhui4	揣量物体的重量	None	None
+硾	zhui4	笮	None	None
+硾	zhui4	捣，用锤子敲打	None	None
+硾	duo3	石貌	None	None
+䂷	guai1	碎	None	None
+䂷	guai1	石参差不齐貌	None	None
+𥓔	None	同=碨	None	碨
+𥔢	yu2	似玉的美石	None	None
+𥓋	None	同=研	None	研
+碓	dui4	舂米的工具	None	None
+碓	dui4	捣；舂	None	None
+碓	dui1	[離碓]山名 后作“離=堆” 在今四川省都江堰市	None	堆
+䃇	mian2	[䃇砂]即丹雘 俗称印泥	None	None
+碑	bei1	竖石 1.古时竖立在官门前测日影的石头 2.竖立在宗庙庭院内拴牲畜（牛、羊、猪）的石头 3.古代用以引棺木入暮穴的木柱，后用石	None	None
+碑	bei1	刻着文字或图案，竖立以为纪念物或标记的石头 如：墓碑；神道碑；界碑；里程碑；纪念碑	None	None
+碑	bei1	碑文，文体的一种	None	None
+𥓭	None	同=䂹	None	䂹
+⿰石质	None	=礩的类推简化字	None	礩
+碒	yin2	同=崟 山高峻貌	None	崟
+碒	yin2	石	None	None
+𥓑	chuo4	石	None	None
+𥓑	chuo4	同=䃗	None	䃗
+碖	lun3	[碖硱]也作“硱碖” 石落貌	None	None
+碖	lun4	石貌	None	None
+碖	lun4	大小匀貌	None	None
+碖	lun2	石	None	None
+𥓕	None	同=磬	None	磬
+䂼	nie4	石名	None	None
+硼	peng1	石名	None	None
+硼	peng1	象声词 形容声音很大	None	None
+硼	peng1	碰	None	None
+硼	peng1	用同=蹦(beng4) 跳	None	蹦
+硼	peng2	一种非金属元素 符号B，原子序数5 非结晶的硼为粉末状，绿棕色，不透明，无色无臭；结晶的硼有光泽，硬度与金刚石相近 硼的化合物在工业、农业、医药等方面用途很广 (新拉borum)	None	None
+碉	diao1	石室	None	None
+碉	diao1	碉堡，军事上防守用的建筑物 如：碉楼；明碉暗堡	None	None
+碈	None	同=䃉 也作=玟	None	䃉
+𥓮	None	@	None	None
+𥓒	xian4	石名	None	None
+𥓒	kan4	同=磡 岩下	None	磡
+䂹	suo3	碎石坠落声	None	None
+碎	sui4	破碎，完整的东西破裂成零片零块	None	None
+碎	sui4	使破碎 如：碎石机	None	None
+碎	sui4	零星，不完整 如：碎步；碎屑；碎米	None	None
+碎	sui4	繁杂；琐细	None	None
+碎	sui4	特指说话絮叨、啰嗦	None	None
+碎	sui4	衰弱；疲萎	None	None
+碎	sui4	通=萃(cui4) 聚集；行列	None	萃
+碎	sui4	用同=啐(cui4)	None	啐
+𥓯	None	同=磅	None	磅
+碚	bei4	[碚𥗬]即=蓓蕾，未开的花，花骨朵儿	None	蓓
+碚	bei4	地名用字 如：重庆市北碚；湖北省宜昌市西北虾蟆碚	None	None
 碰	None	录入中	None	None
 䃅	None	录入中	None	None
 碆	None	录入中	None	None
