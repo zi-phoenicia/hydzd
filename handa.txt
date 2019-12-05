@@ -46363,29 +46363,59 @@
 磋	cuo1	泛指磨制；磨擦	None	None
 磋	cuo1	研讨 如：磋商	None	None
 𥔣	jiang1	[𥔣䃰]也作“=礓䃰”、“=姜䃰” 台阶	None	礓
-䃍	None	录入中	None	None
-磀	None	录入中	None	None
-磁	None	录入中	None	None
-䃣	None	录入中	None	None
-𥔂	None	录入中	None	None
-碹	None	录入中	None	None
-䃔	None	录入中	None	None
-碦	None	录入中	None	None
-𥔑	None	录入中	None	None
-碥	None	录入中	None	None
-𥔻	None	录入中	None	None
-碬	None	录入中	None	None
-䃉	None	录入中	None	None
-𥓺	None	录入中	None	None
-𥔪	None	录入中	None	None
-𪿫	None	录入中	None	None
-碯	None	录入中	None	None
-磝	None	录入中	None	None
-䃓	None	录入中	None	None
-碼	None	录入中	None	None
-碽	None	录入中	None	None
-𥔼	None	录入中	None	None
-磕	None	录入中	None	None
+䃍	None	同=墜	None	墜
+磀	e2	[礋磀]见“礋”	None	None
+磁	ci2	指物体能吸引铁、镍、钴等物质的性能 也为石名，即磁石，俗称吸铁石	None	None
+磁	ci2	紧密	None	None
+磁	ci2	同=瓷 如：磁窑；磁器	None	瓷
+磁	ci2	古州名 治所在今河北省磁县 辖境相当今河北省邯郸县、磁县、武安市等地 隋置慈州，唐改“慈”为“磁”	None	None
+磁	ci2	县名 1913年由州改，在河北省	None	None
+䃣	hui3	同=毁 败坏；毁坏	None	毁
+𥔂	geng4	石相连貌	None	None
+碹	None	同=䃠	None	䃠
+䃔	hong2	[䃔䃧]1.也作“䃧䃔” 石落声 2.泛指巨大的响声 3.指形状奇特的石头	None	None
+碦	ke4	石坠	None	None
+碦	ke4	石坚	None	None
+𥔑	xiao3	小石	None	None
+碥	bian3	上下车时的踏脚石	None	None
+碥	bian3	山路的石级	None	None
+碥	bian3	登石级貌	None	None
+碥	bian3	水流湍急，崖岸险峻之处	None	None
+𥔻	qiu1	@	None	None
+碬	xia2	[磍碬]高下	None	None
+䃉	None	同=珉	None	珉
+⿰石⿳⿶凵又𡭔又	None	同=𥓻	None	𥓻
+𥓺	None	同=嵍	None	嵍
+⿰石垒	None	同=𥗬	None	𥗬
+𥔪	None	同=磣(墋)	None	磣
+𪿫	None	=礮的类推简化字	None	礮
+碯	None	同=瑙	None	瑙
+磝	ao2	山多小石	None	None
+磝	qiao1	同=磽 坚石	None	磽
+⿱敖石	None	同=磝	None	磝
+䃓	gou4	诛伐；惩罚	None	None
+䃓	gou4	登车用的踏脚石	None	None
+䃓	gou4	甃井	None	None
+䃓	gou4	𥕐	None	None
+䃓	gou1	[䃓碻]坚	None	None
+碼	ma3	[碼碯]同“=瑪瑙”	None	瑪
+碼	ma3	表示数目的符号 如：数码；号码；页码；码子	None	None
+碼	ma3	计算数目的用具 如：砝码；筹码	None	None
+碼	ma3	英美制长度单位 英语yard的译名 1码等于3英尺；1英里等于1760码 与公制及市制的关系是：1码等于0.9144米等于2.743市尺	None	None
+碼	ma3	指一件事或一类的事 如：一码事	None	None
+碼	ma3	方言 堆叠；垒起	None	None
+碼	ma3	指垒成的堆 相当于=垛	None	垛
+碽	gong1	撞击声	None	None
+碽	gong1	拱形石或拱形桥	None	None
+碽	gong1	姓	None	None
+𥔼	None	同=确	None	确
+磕	ke1	象声词 石头撞击声	None	None
+磕	ke1	撞击	None	None
+磕	ke1	击鼓声	None	None
+磕	ke1	大声	None	None
+磕	ke1	叩头，旧时的跪拜礼	None	None
+磕	ke1	咬开	None	None
+磕	ke3	石名	None	None
 𥕓	None	录入中	None	None
 𥕗	None	录入中	None	None
 磌	None	录入中	None	None
