@@ -46218,21 +46218,38 @@
 𥓯	None	同=磅	None	磅
 碚	bei4	[碚𥗬]即=蓓蕾，未开的花，花骨朵儿	None	蓓
 碚	bei4	地名用字 如：重庆市北碚；湖北省宜昌市西北虾蟆碚	None	None
-碰	None	录入中	None	None
-䃅	None	录入中	None	None
-碆	None	录入中	None	None
-碂	None	录入中	None	None
-碇	None	录入中	None	None
-硿	None	录入中	None	None
-𥓰	None	录入中	None	None
-碗	None	录入中	None	None
-𥓎	None	录入中	None	None
-𥓏	None	录入中	None	None
-碌	None	录入中	None	None
-碜	None	录入中	None	None
-𥓗	None	录入中	None	None
-𥓱	None	录入中	None	None
-碶	None	录入中	None	None
+碰	peng4	两物相触或相撞 如：碰杯；碰撞；碰得头破血流	None	None
+碰	peng4	遇到	None	None
+碰	peng4	试探 如：碰碰机会	None	None
+碰	peng4	触犯；顶撞	None	None
+碰	peng4	象声词	None	None
+䃅	None	=磾的类推简化字	None	磾
+碆	None	同=磻	None	磻
+碂	zong4	碎	None	None
+碂	cong2	象声词 石声	None	None
+碇	ding4	船停泊时固定船身的大石	None	None
+碇	ding4	船停泊下碇	None	None
+碇	ding4	柱石	None	None
+硿	kong1	[硿礲]崖石隆起貌	None	None
+硿	kong1	石落声	None	None
+𥓰	None	同=䃔	None	䃔
+碗	wan3	盛饮食的器具 如：饭碗；瓷碗；蓝花碗	None	None
+碗	wan3	像碗的东西 如：橡碗子；轴碗儿	None	None
+碗	wan3	量词	None	None
+𥓎	None	同=硉	None	硉
+𬒕	None	=䃤的类推简化字	None	䃤
+𥓏	None	同=埭	None	埭
+碌	lu4	石貌	None	None
+碌	lu4	小石	None	None
+碌	lu4	平凡；无所作为（多叠用） 如：碌碌无为	None	None
+碌	lu4	繁忙	None	None
+碌	lu4	矿物名 又称石碌、石绿，也称碌石，即孔雀石 光泽似金刚石，色翠绿 可制装饰品，粉末可制颜料	None	None
+碌	luo3	[碌䃚]1.地多沙石而不平 2.石	None	None
+碌	liu4	[碌碡]农具名 用来碾压谷物或场地的石磙	None	None
+碜	None	=磣的简化字	None	磣
+𥓗	None	同=磣	None	磣
+𥓱	None	同=碯	None	碯
+碶	qi4	水闸	None	None
 碧	None	录入中	None	None
 碡	None	录入中	None	None
 𥔫	None	录入中	None	None
