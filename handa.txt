@@ -52538,7 +52538,7 @@
 㿒	chou2	心悸	None	None
 𤻚	None	同=𤸶	None	𤸶
 𤻢	ai4	病声	None	None
-𤻞	None	同⿸疒尔（=  𤵜    	None	 
+𤻞	None	同⿸疒尔(=𤵜)	None	𤵜
 㿓	None	录入中	None	None
 𤻣	None	录入中	None	None
 𤻗	None	录入中	None	None
