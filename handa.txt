@@ -52014,75 +52014,120 @@
 𤷒	bi4	同=痹	None	痹
 𤷒	bi4	同=𤻖 病	None	𤻖
 𤷒	bei1	通=卑 低下	None	卑
-痶	None	录入中	None	None
-痼	None	录入中	None	None
-瘑	None	录入中	None	None
-痸	None	录入中	None	None
-痴	None	录入中	None	None
-𤷣	None	录入中	None	None
-𤸕	None	录入中	None	None
-㾩	None	录入中	None	None
-痵	None	录入中	None	None
-痿	None	录入中	None	None
-瘐	None	录入中	None	None
-𤷅	None	录入中	None	None
-痽	None	录入中	None	None
-𤷎	None	录入中	None	None
-𤷓	None	录入中	None	None
-㾣	None	录入中	None	None
-𤷔	None	录入中	None	None
-𤷤	None	录入中	None	None
-𤷕	None	录入中	None	None
-𤷏	None	录入中	None	None
-𤷜	None	录入中	None	None
-𤷥	None	录入中	None	None
-𤷊	None	录入中	None	None
-痭	None	录入中	None	None
-𤷂	None	录入中	None	None
-痻	None	录入中	None	None
-𤷑	None	录入中	None	None
-𤷦	None	录入中	None	None
-瘁	None	录入中	None	None
-㾦	None	录入中	None	None
-𤷐	None	录入中	None	None
-瘀	None	录入中	None	None
-𤷄	None	录入中	None	None
-瘅	None	录入中	None	None
-痰	None	录入中	None	None
-𤷩	None	录入中	None	None
-痯	None	录入中	None	None
-㾤	None	录入中	None	None
-𤷧	None	录入中	None	None
-㾿	None	录入中	None	None
-𤷚	None	录入中	None	None
-𤷨	None	录入中	None	None
-𤷉	None	录入中	None	None
-瘆	None	录入中	None	None
-𤸞	None	录入中	None	None
-瘈	None	录入中	None	None
-𤷾	None	录入中	None	None
-𤸟	None	录入中	None	None
-瘎	None	录入中	None	None
-瘩	None	录入中	None	None
-㾰	None	录入中	None	None
-𤸏	None	录入中	None	None
-㾴	None	录入中	None	None
-𤷼	None	录入中	None	None
-瘌	None	录入中	None	None
-𤸂	None	录入中	None	None
-𤸙	None	录入中	None	None
-瘗	None	录入中	None	None
-㾬	None	录入中	None	None
-𤸘	None	录入中	None	None
-瘧	None	录入中	None	None
-㾪	None	录入中	None	None
-瘍	None	录入中	None	None
-𤸒	None	录入中	None	None
-瘟	None	录入中	None	None
-𤸎	None	录入中	None	None
-㾯	None	录入中	None	None
-𤸋	None	录入中	None	None
-𤸔	None	录入中	None	None
+痶	tian3	[痶痪]一种头发脱落的病	None	None
+痶	dian3	踮	None	None
+痼	gu4	久治未愈的病	None	None
+痼	gu4	久；积	None	None
+痼	gu4	同=㽽 小儿口疮	None	㽽
+痼	gu4	同=錮 禁闭	None	錮
+瘑	guo1	疮	None	None
+瘑	guo1	病	None	None
+痸	chi4	痴病	None	None
+痸	chi4	同=瘛 小儿瘛瘲病	None	瘛
+痸	chi4	癞病	None	None
+痴	chi1	[痴㾻]不进不达之貌	None	None
+痴	chi1	同=癡	None	癡
+𤷣	None	=厜的讹字	None	厜
+𤸕	han1	同=憨 痴愚	None	憨
+㾩	guai1	恶痒的疮	None	None
+痵	ji4	因害怕而心疾跳 也作=悸	None	悸
+痿	wei3	身体某一部分萎缩或失去机能，不能行动	None	None
+痿	wei3	衰竭	None	None
+痿	wei3	用同=萎 枯萎	None	萎
+痿	wei3	同=㾯	None	㾯
+瘐	yu3	[瘐瘐]忧郁病	None	None
+瘐	yu3	旧时指罪犯因受刑、饥寒而生病，或死在狱中	None	None
+𤷅	yi4	[𤷅疵]恨	None	None
+𤷅	ya2	同=睚 目眶 一说怒视	None	睚
+痽	dui1	病名	None	None
+𤷎	dui1	肿	None	None
+𤷓	xin4	同=脪 创肉反出	None	脪
+㾣	qin1	患疟疾恶寒而战栗	None	None
+𤷔	lun2	指病	None	None
+𤷤	xiao2	@	None	None
+𤷕	cai3	病	None	None
+𤷏	yin2	疾病	None	None
+𤷏	yin2	病渐加重	None	None
+𤷜	None	同年=癊	None	癊
+𤷥	None	同=痠	None	痠
+𤷊	None	同=疣	None	疣
+痭	beng1	妇女血崩症	None	None
+痭	peng2	腹满	None	None
+痭	bing4	同=𦡻 肿满貌	None	𦡻
+𤷂	fei2	同年=痱 中风病	None	痱
+痻	None	同=𤸅	None	𤸅
+𤷑	jiu4	病	None	None
+𤷦	jing1	@	None	None
+瘁	cui4	病困	None	None
+瘁	cui4	忧伤	None	None
+瘁	cui4	劳；劳累 如：鞠躬尽瘁	None	None
+瘁	cui4	憔悴；枯槁	None	None
+瘁	cui4	毁；损坏	None	None
+㾦	pei4	痂	None	None
+㾦	pei1	疮疤	None	None
+㾦	pei1	弱	None	None
+𤷐	None	同=盲	None	盲
+瘀	yu1	积血	None	None
+瘀	yu1	郁积	None	None
+𤷄	quan2	手足屈病	None	None
+𤷄	quan2	困倦	None	None
+𤷄	quan2	卷	None	None
+瘅	None	=癉的简化字	None	癉
+痰	tan2	下呼吸道黏膜分泌出来的黏液 中医以为痰由某些疾病所引起，又为致病的因素之一	None	None
+𤷩	None	呆傻	None	None
+痯	guan3	忧郁病	None	None
+痯	guan3	疲劳貌	None	None
+㾤	qiang1	喉中病	None	None
+𤷧	None	同=踒	None	踒
+㾿	lang2	[𤼍㾿]象声词 病危喉中吼痰声	None	None
+𤷚	None	同=瘃	None	瘃
+𤷨	None	同=㾭	None	㾭
+𤷉	ji2	疾	None	None
+𤷉	ji2	气急	None	None
+瘆	None	=瘮的简化字	None	瘮
+𤸞	None	同=𤸪	None	𤸪
+瘈	zhi4	同=狾 狂；犬发狂	None	狾
+瘈	chi4	[瘈瘲]也作“=瘛瘲” 痫病，惊风，手足痉挛	None	瘛
+𤷾	qie4	呼吸浅短	None	None
+𤷾	qie4	同=㾜 病息	None	㾜
+𤸟	None	同=痔	None	痔
+瘎	chen2	腹病	None	None
+瘎	chen2	病；再病	None	None
+瘩	da2	[瘩背]中医称生在背部的痈 也叫“=搭手”	None	搭
+瘩	da5	[疙瘩]见“疙”	None	None
+㾰	hu2	[㾰𤻙]物阻咽喉不下之病	None	None
+𤸏	na4	痛	None	None
+𤸏	nie4	同=痆	None	痆
+㾴	zha1	酒糟鼻子上的红斑	None	None
+𤷼	xiang1	病	None	None
+瘌	la4	药物反应，感觉辛辣、疼痛	None	None
+瘌	la4	伤	None	None
+瘌	la4	疥，瘌痢	None	None
+𤸂	None	同=瘦	None	瘦
+𤸙	None	同=𤸱	None	𤸱
+瘗	None	=瘞的简化字	None	瘞
+㾬	None	同-痎	None	None
+𤸘	None	=瘨的讹字	None	瘨
+瘧	nve4	疟疾 由疟原虫引起的寄生虫病	None	None
+瘧	nve4	虐；酷虐	None	None
+瘧	yao4	[瘧子]疟疾的又称 如：发疟子	None	None
+㾪	sheng3	瘦	None	None
+瘍	yang2	头疮	None	None
+瘍	yang2	破损；溃烂	None	None
+瘍	dang4	牲畜病泄	None	None
+𤸒	yu4	疣病	None	None
+瘟	wen1	瘟疫，流行性急性传染病	None	None
+瘟	wen1	发瘟的（骂人的话）	None	None
+瘟	wen1	（想得了瘟疫似的）神情呆滞，没有生气	None	None
+瘟	wo4	心闷貌	None	None
+瘟	yun1	[瘟瘟]小痛貌	None	None
+𤸎	ke3	暑热病 中暑 也作=暍	None	暍
+𤸎	hai4	同=𤵽 病	None	𤵽
+㾯	hui1	[㾯㾼]风病	None	None
+㾯	tui2	同=㿉 阴病	None	㿉
+⿸疒贵	None	=㿉的类推简化字	None	㿉
+𤸋	None	同=疥	None	疥
+𤸔	None	同=癌	None	癌
 𤸄	None	录入中	None	None
 𤸢	None	录入中	None	None
 㾶	None	录入中	None	None
