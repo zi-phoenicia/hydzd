@@ -52310,70 +52310,108 @@
 瘷	se4	[瘮瘷]同“瘮=㾊” 寒病	None	㾊
 瘶	sou4	咳=嗽	None	嗽
 𤹪	yu3	同=傴 曲背	None	傴
-瘭	None	录入中	None	None
-𤹶	None	录入中	None	None
-㿄	None	录入中	None	None
-㿃	None	录入中	None	None
-𤹩	None	录入中	None	None
-瘱	None	录入中	None	None
-𤹢	None	录入中	None	None
-𤹡	None	录入中	None	None
-𤹣	None	录入中	None	None
-𤹦	None	录入中	None	None
-瘻	None	录入中	None	None
-𤺆	None	录入中	None	None
-瘰	None	录入中	None	None
-㿂	None	录入中	None	None
-瘿	None	录入中	None	None
-𤻌	None	录入中	None	None
-㿆	None	录入中	None	None
-𤹫	None	录入中	None	None
-𤹷	None	录入中	None	None
-㿅	None	录入中	None	None
-𤹬	None	录入中	None	None
-瘲	None	录入中	None	None
-瘹	None	录入中	None	None
-𤹸	None	录入中	None	None
-𤹹	None	录入中	None	None
-瘵	None	录入中	None	None
-瘴	None	录入中	None	None
-𤺀	None	录入中	None	None
-𤹞	None	录入中	None	None
-𤹟	None	录入中	None	None
-瘯	None	录入中	None	None
-𤹺	None	录入中	None	None
-𤹤	None	录入中	None	None
-𤺓	None	录入中	None	None
-𤹧	None	录入中	None	None
-𤺍	None	录入中	None	None
-𤺈	None	录入中	None	None
-瘺	None	录入中	None	None
-瘬	None	录入中	None	None
-𤺹	None	录入中	None	None
-癃	None	录入中	None	None
-瘾	None	录入中	None	None
-瘸	None	录入中	None	None
-㿇	None	录入中	None	None
-瘳	None	录入中	None	None
-瘮	None	录入中	None	None
-㿈	None	录入中	None	None
-𤹻	None	录入中	None	None
-𤺚	None	录入中	None	None
-癍	None	录入中	None	None
-㿎	None	录入中	None	None
-𤺬	None	录入中	None	None
-𤺘	None	录入中	None	None
-癋	None	录入中	None	None
-𤺊	None	录入中	None	None
-𤺔	None	录入中	None	None
-癅	None	录入中	None	None
-癘	None	录入中	None	None
-𤺢	None	录入中	None	None
-𤺣	None	录入中	None	None
-𤺷	None	录入中	None	None
-𤺋	None	录入中	None	None
-𤺤	None	录入中	None	None
-𤺗	None	录入中	None	None
+瘭	biao1	[瘭疽]皮肤的一种急性化脓性感染 今指手指头肚儿急性化脓性炎症	None	None
+𤹶	None	同=瘦	None	瘦
+㿄	ai4	病重呻吟声	None	None
+㿄	ai4	羸，瘦弱	None	None
+㿃	zhi4	牛头疮	None	None
+㿃	zhi4	痢疾	None	None
+㿃	dai4	[㿃下]即“=帶下” 妇科病的通称	None	帶
+𤹩	xin4	鸟奋飞	None	None
+瘱	yi4	安静；文静	None	None
+瘱	yi4	审；明白	None	None
+瘱	yi4	深邃	None	None
+瘱	yi4	恭	None	None
+瘱	yi4	隐匿；隐秘	None	None
+𤹢	tuo3	腰痛病	None	None
+𤹡	zha1	疮痂甲	None	None
+𤹡	zha1	驼背	None	None
+𤹣	hu4	治病	None	None
+𤹦	bi3	腹内结块	None	None
+瘻	lou4	瘰疬 即淋巴结核	None	None
+瘻	lou4	瘘管	None	None
+瘻	lou4	小儿面肿	None	None
+瘻	lv2	驼背	None	None
+𤺆	None	同=𤼌	None	𤼌
+瘰	luo3	[瘰癧]病名，颈项间淋巴结核 小的为瘰，大的为癧	None	None
+瘰	luo3	同=𤻳	None	𤻳
+㿂	None	同=癥	None	癥
+瘿	None	=癭的简化字	None	癭
+𤻌	wo4	同=瘑	None	瘑
+㿆	guo1	禾苗虫伤病	None	None
+㿆	guo1	疮病	None	None
+𤹫	None	同=𤸑	None	𤸑
+𤹷	None	同=𤺜(㿒)	None	𤺜
+㿅	None	同=癬	None	癬
+𤹬	None	同=𤷙	None	𤷙
+瘲	zong4	[瘛瘲]痫病，俗称抽风	None	None
+瘹	diao4	狂病	None	None
+瘹	diao4	小儿病	None	None
+𤹸	qi2	@	None	None
+𤹹	None	同=痪	None	痪
+瘵	zhai4	病	None	None
+瘵	zhai4	灾害	None	None
+瘵	zhai4	疾苦	None	None
+瘵	zhai4	肺结核病	None	None
+瘵	ji4	通=際 接近；接触	None	際
+瘴	zhang4	瘴气 旧指南方山林间湿热蒸郁致人疾病的毒气	None	None
+𤺀	shuai1	病	None	None
+𤹞	che4	[𤹞㾊]寒病	None	None
+𤹟	None	同=𤵼	None	𤵼
+瘯	cu4	[瘯蠡]也作“=族蠡” 癣疥类皮肤病	None	族
+瘯	cu4	同=族 聚集	None	族
+𤹺	None	同=𤸱	None	𤸱
+𤹤	teng2	同=疼 痛	None	疼
+𤺓	bie1	同=𤷗 肿满闷而皮裂	None	𤷗
+𤺓	bie1	用同=憋(bie1) 闷而不泄	None	憋
+𤹧	ning2	病	None	None
+𤺍	None	同=憨	None	憨
+𤺈	None	同=瘏	None	瘏
+瘺	None	同=瘻	None	瘻
+瘬	None	同=脹	None	脹
+𤺹	None	=𤻈的讹字	None	𤻈
+癃	long2	足不能行	None	None
+癃	long2	废疾	None	None
+癃	long2	重病	None	None
+癃	long2	小便不畅	None	None
+癃	long2	老	None	None
+瘾	None	=癮的简化字	None	癮
+瘸	que2	手、脚偏废病	None	None
+㿇	xi2	痹疾	None	None
+㿇	xi4	小痛	None	None
+瘳	chou1	病愈	None	None
+瘳	chou1	减损；损失	None	None
+瘳	lu4	病	None	None
+瘳	lu4	通=戮 杀；害	None	戮
+瘮	shen4	寒病；寒慄	None	None
+瘮	shen4	惊恐貌	None	None
+㿈	None	同=癰	None	癰
+𤹻	None	同=惱	None	惱
+𤺚	None	同=瘛	None	瘛
+癍	ban1	皮肤上生的斑点	None	None
+㿎	fen4	病闷	None	None
+㿎	fen4	[㿎㾙]也作“㿎脪” 疮闷；热肿	None	None
+㿎	fen2	[㿎沮]1.痱子 2.忧貌	None	None
+𤺬	None	同=膨	None	膨
+𤺘	None	同=啞	None	啞
+癋	he4	心病	None	None
+𤺊	xi1	声破；沙哑	None	None
+𤺊	si1	噎	None	None
+𤺊	si1	同=廝 古代指服杂役的男性仆人	None	廝
+𤺔	she4	多病	None	None
+癅	None	同=瘤	None	瘤
+癘	li4	麻风病	None	None
+癘	li4	瘟疫	None	None
+癘	li4	杀	None	None
+癘	li4	通=勵 劝勉	None	勵
+𤺢	None	@	None	None
+𤺣	None	同=㾋	None	㾋
+𤺷	ji2	病	None	None
+𤺋	None	同=疹	None	疹
+𤺤	None	同=瘚	None	瘚
+𤺗	qi4	头疡	None	None
+𤺗	qi4	伤胈	None	None
+𤺗	ji4	秃	None	None
 療	None	录入中	None	None
 㿊	None	录入中	None	None
 𤺙	None	录入中	None	None
@@ -82888,8 +82926,7 @@
 鐰	sao4	金铁大刚	None	None
 鐰	sao4	干燥	None	None
 鐰	cao2	铁刚折	None	None
-鐸	duo2	古乐器，一种大铃 形如铙、钲而有舌，振舌发声 宣布教令时或有战事时用之	None	None
-鐸	duo2	挂在牛马颈下或屋檐下的小铃	None	None
+鐸	duo2	古乐器，一种大铃 形如铙、钲而有舌，振舌发声 宣布教令时或有战事时用之 在牛马颈下或屋檐下的小铃	None	None
 鐸	duo2	铎舞的省称	None	None
 鐸	duo2	姓	None	None
 鐶	huan2	泛指圆圈形物 也作=環	None	環
