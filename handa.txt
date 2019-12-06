@@ -55744,24 +55744,33 @@
 𧉘	None	同=𧉀	None	𧉀
 𧉆	ji2	蜻蛚，即蟋蟀	None	None
 ⿱⿰〢又虫	None	=蜸的类推简化字	None	蜸
-䖢	None	录入中	None	None
-𧉍	None	录入中	None	None
-蚎	None	录入中	None	None
-蚦	None	录入中	None	None
-𧉎	None	录入中	None	None
-蚛	None	录入中	None	None
-蚋	None	录入中	None	None
-𧈿	None	录入中	None	None
-蚬	None	录入中	None	None
-蚝	None	录入中	None	None
-𧉁	None	录入中	None	None
-𧈼	None	录入中	None	None
-蚚	None	录入中	None	None
-䖣	None	录入中	None	None
-蚧	None	录入中	None	None
-蚥	None	录入中	None	None
-𧉊	None	录入中	None	None
-𧉇	None	录入中	None	None
+䖢	miao2	初生的蚕	None	None
+𧉍	ji2	同=尐 有花纹的雌蝉	None	尐
+蚎	yue4	[彭蚎]也作“蟛蚎” 一种小蟹	None	None
+蚦	None	同=蚺	None	蚺
+𧉎	xuan2	小虫也	None	None
+𧉎	xuan2	空	None	None
+蚛	zhong4	虫咬，被虫咬残	None	None
+蚋	rui4	蚊类昆虫 蚋科 头小，色黑，胸背隆起，吸人畜血液	None	None
+𧈿	wang3	[𧈿蜽]也作“=蛧蜽”、“=䰣魉” 传说中的精怪名	None	蛧
+蚬	None	=蜆的简化字	None	蜆
+蚝	ci4	幼蚕	None	None
+蚝	ci4	同=蛓 毛虫	None	蛓
+蚝	hao2	牡蛎 也作=蠔	None	蠔
+𧉁	xi4	虫名	None	None
+𧈼	xi1	[𧈼蜴]同“=蜥蜴” 爬行动物	None	蜥
+𧈼	ji2	[螇𧈼]水虫名	None	None
+蚚	qi2	米中小黑虫 象鼻虫科 成虫红褐色，头小吻长，后翅发达 吃稻、麦、玉米等，是粮库中的主要害虫	None	None
+䖣	zao3	同=蚤 跳蚤	None	蚤
+蚧	jie4	海蚌	None	None
+蚧	jie4	蛤蚧 爬行动物，壁虎科 头大，尾灰色，有红色斑点，中医用作强壮剂	None	None
+蚧	jie4	介壳虫 蚧总科 成虫极小，雌虫无翅，雄虫有前翅一堆，体背有蜡质硬壳或蜡质覆盖 种类很多，大多是果树、林木及农作物的害虫，如吹绵蚧、梨园蚧等	None	None
+蚧	jie4	同=疥 疥疮	None	疥
+蚥	fu4	[王蚥]蝉类	None	None
+蚥	fu3	[蜛蚥]螳螂	None	None
+𧉊	fu3	[輿𧉊]也作“輿=父” 瓜虫	None	父
+⿰虫从	None	=䗥的类推简化字	None	䗥
+𧉇	hui1	[𧉇尵]也作“=虺尵” 疲劳生病	None	虺
 蚙	None	录入中	None	None
 蚡	None	录入中	None	None
 蚠	None	录入中	None	None
