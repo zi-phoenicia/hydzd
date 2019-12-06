@@ -55771,29 +55771,41 @@
 𧉊	fu3	[輿𧉊]也作“輿=父” 瓜虫	None	父
 ⿰虫从	None	=䗥的类推简化字	None	䗥
 𧉇	hui1	[𧉇尵]也作“=虺尵” 疲劳生病	None	虺
-蚙	None	录入中	None	None
-蚡	None	录入中	None	None
-蚠	None	录入中	None	None
-蚣	None	录入中	None	None
-蚏	None	录入中	None	None
-蚔	None	录入中	None	None
-𧉜	None	录入中	None	None
-蚒	None	录入中	None	None
-蚐	None	录入中	None	None
-𧉏	None	录入中	None	None
-𧈻	None	录入中	None	None
-蚊	None	录入中	None	None
-蚉	None	录入中	None	None
-蚢	None	录入中	None	None
-蚄	None	录入中	None	None
-𧈾	None	录入中	None	None
-蚪	None	录入中	None	None
-𧉅	None	录入中	None	None
-蚇	None	录入中	None	None
-蚗	None	录入中	None	None
-蚓	None	录入中	None	None
-䖡	None	录入中	None	None
-蚆	None	录入中	None	None
+⿰虫仑	None	=蜦的类推简化字	None	蜦
+蚙	qin2	[蚙窮]蚰蜒	None	None
+蚙	qian1	虾蟹的足爪	None	None
+蚡	None	同=鼢	None	鼢
+蚠	fen2	同=蚡(鼢)	None	蚡
+蚠	fen2	通=墳(fen4) 肥土	None	墳
+蚠	fen2	通=憤(fen4) 满，盈	None	憤
+蚣	zhong1	[蚣蝑]也作“=蜙蝑” 即螽斯 螽斯科 绿色或褐色，触角细长，善于跳跃，以翅摩擦发音 生活在丛林草间或穴内、树洞、石下及室内 有的也吃庄稼 是害虫	None	蜙
+蚣	gong1	[蜈蚣]见“蜈”	None	None
+蚏	yue4	[蟛蚏]也作“蟛=蚎”、“蟛=𧑅”、“蟚蚏” 一种小蟹	None	蚎
+蚔	qi2	蝎子一类毒虫	None	None
+蚔	qi2	虻虫	None	None
+蚔	zhi3	虫名	None	None
+𧉜	None	同=蚔	None	蚔
+蚒	tong2	同=彤 1.用红色涂饰器物 2.姓	None	彤
+蚒	tong2	同=赨	None	赨
+蚐	jun1	马陆	None	None
+𧉏	None	同=蠶	None	蠶
+𧈻	yi4	[𧈻𧌐]虫名	None	None
+蚊	wen2	蚊子 蚊科 种类很多，雌虫吸血，能传播疾病，雄蚊只吸食花果液汁 幼虫（孑孓）和蛹都生活在水中 字又作=蟁	None	蟁
+蚉	None	同=蚊	None	蚊
+蚢	hang2	一种野蚕	None	None
+蚢	hang2	同=魧 1.大贝 2.鱼膏	None	魧
+蚄	fang1	[虸蚄]见“虸”	None	None
+蚄	bang4	同=蚌 生活在淡水中的一种软体动物，贝壳长圆形，有的可产出珍珠	None	蚌
+𧈾	quan2	虫投入火的样子	None	None
+⿰虫为	None	=蟡的类推简化字	None	蟡
+蚪	dou3	[蝌蚪]见“蝌”	None	None
+𧉅	yi1	[𧉅蝛]也作“=伊威”、“=蛜蝛” 鼠妇的别称	None	伊
+蚇	chi3	[蚇蠖]见“蠖”	None	None
+蚗	jue2	[𧉅蚗]蛁蟟	None	None
+蚗	que1	[蛚蚗]也作“蛚=𧎯” 闪电	None	𧎯
+蚓	yin3	蚯蚓	None	None
+䖡	nv4	[䖡蚭]蚰蜒	None	None
+蚆	ba1	海蚆，宝贝的别称 宝贝科 贝壳卵圆形，螺层不显著 壳口狭长，两缘有齿状突起，壳色美丽而有光泽	None	None
 蚩	None	录入中	None	None
 𧉃	None	录入中	None	None
 𧉐	None	录入中	None	None
