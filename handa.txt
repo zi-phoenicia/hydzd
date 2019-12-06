@@ -52128,61 +52128,96 @@
 ⿸疒贵	None	=㿉的类推简化字	None	㿉
 𤸋	None	同=疥	None	疥
 𤸔	None	同=癌	None	癌
-𤸄	None	录入中	None	None
-𤸢	None	录入中	None	None
-㾶	None	录入中	None	None
-𤷺	None	录入中	None	None
-𤸣	None	录入中	None	None
-𩠾	None	录入中	None	None
-㾭	None	录入中	None	None
-瘇	None	录入中	None	None
-𤸑	None	录入中	None	None
-𤸗	None	录入中	None	None
-瘦	None	录入中	None	None
-㾮	None	录入中	None	None
-瘣	None	录入中	None	None
-瘊	None	录入中	None	None
-㾽	None	录入中	None	None
-𤸌	None	录入中	None	None
-瘉	None	录入中	None	None
-𤷽	None	录入中	None	None
-𤸐	None	录入中	None	None
-𤸤	None	录入中	None	None
-𤸩	None	录入中	None	None
-瘋	None	录入中	None	None
-𤸇	None	录入中	None	None
-𤸍	None	录入中	None	None
-㾵	None	录入中	None	None
-𤸖	None	录入中	None	None
-𤸥	None	录入中	None	None
-瘖	None	录入中	None	None
-瘥	None	录入中	None	None
-瘘	None	录入中	None	None
-𤸈	None	录入中	None	None
-𤸉	None	录入中	None	None
-𤹜	None	录入中	None	None
-𤷿	None	录入中	None	None
-𤸃	None	录入中	None	None
-瘒	None	录入中	None	None
-㾫	None	录入中	None	None
-㾼	None	录入中	None	None
-瘕	None	录入中	None	None
-𤸅	None	录入中	None	None
-𤸆	None	录入中	None	None
-𤸀	None	录入中	None	None
-𤸦	None	录入中	None	None
-𤸿	None	录入中	None	None
-㾻	None	录入中	None	None
-𤸻	None	录入中	None	None
-𤸊	None	录入中	None	None
-瘙	None	录入中	None	None
-𤸁	None	录入中	None	None
-𤷻	None	录入中	None	None
-𤸪	None	录入中	None	None
-瘛	None	录入中	None	None
-㿀	None	录入中	None	None
-㾺	None	录入中	None	None
-𤸱	None	录入中	None	None
+𤸄	None	=瘝的讹字	None	瘝
+𤸢	None	同=𤶆(𤷻)	None	𤶆
+㾶	gu3	同=𩨔 膝病	None	𩨔
+𤷺	None	同=瘦	None	瘦
+𤸣	None	=厜的讹字	None	厜
+𩠾	hang1	气病	None	None
+㾭	zhou4	收缩；缩短	None	None
+瘇	zhong3	同=𤺄 足肿	None	𤺄
+𤸑	fu4	病重发	None	None
+𤸗	fu4	朽	None	None
+瘦	shou4	肌肉不丰满 与“肥”相对	None	None
+瘦	shou4	细小	None	None
+瘦	shou4	（土壤）瘠薄	None	None
+瘦	shou4	贫穷	None	None
+瘦	shou4	稀微；稀薄	None	None
+瘦	shou4	减损；消瘦	None	None
+瘦	shou4	中医学术语 指脉象沉细	None	None
+瘦	shou4	书法术语 指字体的笔迹细而有力	None	None
+瘦	shou4	指诗简啬孤峭	None	None
+㾮	huang2	同=癀 疸病	None	癀
+㾮	huang2	瘟疫	None	None
+瘣	hui4	内伤致病	None	None
+瘣	hui4	结块；肿瘤	None	None
+瘣	hui4	木病不发枝条	None	None
+瘣	hui4	高峻貌	None	None
+瘣	hui4	子宫下垂	None	None
+瘣	lei3	[魁瘣]木根节或枝叶盘结貌	None	None
+瘊	hou2	疣之小者，俗称瘊子	None	None
+㾽	zhui4	同=膇 足肿	None	膇
+㾽	tui2	同=㿉 阴部病	None	㿉
+𤸌	None	同=癊	None	癊
+瘉	yu4	病；害	None	None
+瘉	yu4	同=愈 1.病愈；医治好 2.超过；高明 3.更加	None	愈
+𤷽	que4	疮病	None	None
+𤸐	None	同=𤸤(蝕)	None	𤸤
+𤸤	shi2	同=𧐂(蝕) 虫等蛀伤东西	None	𧐂
+𤸩	None	同=䨲	None	䨲
+瘋	feng1	偏头痛	None	None
+瘋	feng1	癫狂；神经错乱	None	None
+瘋	feng1	指农作物生长旺盛，但不结实 如：疯长；疯枝；疯杈；疯枝不打，棉桃不发	None	None
+瘋	feng1	瘫痪	None	None
+𤸇	None	同=癃	None	癃
+𤸍	None	=㾹的俗字	None	㾹
+⿺疒怨	None	同=脘	None	脘
+㾵	ji4	皮肤上生来就有的深色斑	None	None
+𤸖	ai1	忧疾	None	None
+𤸥	None	同=聤	None	聤
+瘖	yin1	失音病；哑	None	None
+瘖	yin1	缄默；不说话	None	None
+瘖	yin4	剧痛	None	None
+瘥	chai4	病愈	None	None
+瘥	cuo2	病；轻微的流行性的传染病	None	None
+瘥	cuo2	累；劳累	None	None
+瘘	None	=瘻的简化字	None	瘻
+𤸈	you2	臭气；恶臭	None	None
+𤸉	tui2	同=㿉 阴病	None	㿉
+𤹜	ying2	病	None	None
+𤷿	tu1	下部病	None	None
+𤸃	None	同=瘦	None	瘦
+瘒	wen2	痴貌	None	None
+㾫	pian1	半身不遂症	None	None
+㾼	tui3	[㾯㾼]风病	None	None
+瘕	jia3	妇女腹中结块病	None	None
+瘕	jia3	腹中生虫病	None	None
+瘕	jia3	用同=瑕(xia2) 污点；缺点	None	瑕
+瘕	xia1	喉病	None	None
+𤸅	min2	病 精神恍忽	None	None
+𤸆	wei3	弱病	None	None
+𤸀	xu3	痛病	None	None
+𤸦	None	同=孱	None	孱
+𤸿	None	同=度	None	度
+㾻	zhu4	[痴㾻]见“痴”	None	None
+㾻	zhu4	肿	None	None
+㾻	chu2	瘢	None	None
+𤸻	na4	病	None	None
+𤸊	dai4	病	None	None
+瘙	sao4	疥疮	None	None
+𤸁	hui4	困极	None	None
+𤷻	nao3	病	None	None
+𤸪	chi4	牵引；牵挚	None	None
+瘛	chi4	[瘛瘲]痫病，俗称抽风	None	None
+瘛	chi4	解	None	None
+㿀	None	同=癍	None	癍
+㾺	ma4	目病	None	None
+㾺	ma4	恶气着身	None	None
+㾺	ma4	牲畜病	None	None
+㾺	ma4	败疮	None	None
+𤸱	e4	跛病	None	None
+𤸱	e4	病短气	None	None
+𤸱	ke4	疲病	None	None
 𤹛	None	录入中	None	None
 𤸶	None	录入中	None	None
 瘼	None	录入中	None	None
