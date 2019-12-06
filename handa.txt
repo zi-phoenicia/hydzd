@@ -55631,54 +55631,80 @@
 虪	shu4	黑虎	None	None
 𧈜	teng2	黑虎	None	None
 𪛔	None	=䶵(箎)	None	䶵
-虫	None	录入中	None	None
-𧈞	None	录入中	None	None
-虬	None	录入中	None	None
-𧈝	None	录入中	None	None
-虰	None	录入中	None	None
-𧈠	None	录入中	None	None
-𧈟	None	录入中	None	None
-虲	None	录入中	None	None
-䖝	None	录入中	None	None
-虮	None	录入中	None	None
-虯	None	录入中	None	None
-虱	None	录入中	None	None
-𧈦	None	录入中	None	None
-虭	None	录入中	None	None
-𧈰	None	录入中	None	None
-𧈧	None	录入中	None	None
-虷	None	录入中	None	None
-虶	None	录入中	None	None
-𧈯	None	录入中	None	None
-虹	None	录入中	None	None
-𧈫	None	录入中	None	None
-𧈬	None	录入中	None	None
-虾	None	录入中	None	None
-䖞	None	录入中	None	None
-𧈹	None	录入中	None	None
-𧈭	None	录入中	None	None
-虺	None	录入中	None	None
-虿	None	录入中	None	None
-𧈺	None	录入中	None	None
-𧈩	None	录入中	None	None
-𧈨	None	录入中	None	None
-虽	None	录入中	None	None
-虼	None	录入中	None	None
-虴	None	录入中	None	None
-虳	None	录入中	None	None
-𧈮	None	录入中	None	None
-䖠	None	录入中	None	None
-蚀	None	录入中	None	None
-虻	None	录入中	None	None
-䖟	None	录入中	None	None
-蚁	None	录入中	None	None
-𧉌	None	录入中	None	None
-虸	None	录入中	None	None
-𧈪	None	录入中	None	None
-虵	None	录入中	None	None
-蚤	None	录入中	None	None
-蚂	None	录入中	None	None
-蚌	None	录入中	None	None
+虫	hui3	毒蛇 后作=虺	None	虺
+虫	chong2	同=蟲	None	蟲
+𧈞	ni4	齿病	None	None
+虬	qiu2	同=虯	None	虯
+虬	qiu2	姓	None	None
+虰	ding1	[虰蛵]也作“蜻虰”、“丁蛵”、“虰蜻” 蜻蛉，蜻蜓	None	None
+虰	cheng1	[虰螘]也作“=朾螘” 一种赤色斑驳的大蚁	None	朾
+𧈠	None	同=蚤	None	蚤
+𧈟	None	同=𧏾	None	𧏾
+虲	None	同=蝦	None	蝦
+䖝	None	=虫的讹字	None	虫
+虮	ji1	[密虮]虫名	None	None
+虮	ji3	同=蟣	None	蟣
+虯	qiu2	传说中的有角龙	None	None
+虯	qiu2	蜷曲	None	None
+虱	None	同=蝨	None	蝨
+𧈦	luo3	@	None	None
+虭	diao1	[虭蟧]也作“=蛁蟟” 蝉名	None	蛁
+虭	dao1	[虭蟧]用同“=叨蟧” 翻来覆去地说	None	叨
+𧈰	None	同=虫	None	虫
+𧈧	sui1	同=雖	None	雖
+𧈧	meng2	@	None	None
+虷	han2	孑孓，蚊子的幼虫	None	None
+虷	gan1	干犯	None	None
+虶	yu1	[蚨虶]蚰蜒别名	None	None
+𧈯	yu1	[蚨𧈯]也作“蚨虶” 蚰蜒别名	None	None
+虹	hong2	雨后或日出、日没之际，天空中出现的彩色圆弧 红色在外，紫色在内，颜色鲜艳的叫“虹”，也叫“正虹” 红色在内，紫色在外，颜色较淡的叫“霓” 此外，有一种在雾上出现的虹，一般呈淡白色	None	None
+虹	hong2	喻指桥	None	None
+虹	hong2	通=訌 惑乱	None	訌
+虹	hong4	[虹洞]相连	None	None
+虹	hong4	疮溃	None	None
+虹	jiang4	义同(一)① 用于口语，单用	None	None
+虹	gong4	古县名 汉代治今安徽省五河县西 唐代移治泗县	None	None
+𧈫	None	同=虹	None	虹
+𧈬	None	同=虹	None	虹
+虾	None	=蝦的简化字	None	蝦
+䖞	zhou3	一种海生动物，形似人肘	None	None
+𧈹	None	同=蚤	None	蚤
+𧈭	wu4	一种介壳类动物，似蟹	None	None
+虺	hui3	蜥蜴类动物	None	None
+虺	hui3	蛇名 1.古称“土虺”的蝮蛇 2.小蛇 3.大蛇 4.传说中的怪蛇 5.蝰蛇	None	None
+虺	hui3	地名 春秋楚地 在今安徽省庐江县境	None	None
+虺	hui3	姓	None	None
+虺	hui1	[虺隤]也作“虺頹” 疲劳生病	None	None
+虿	None	=蠆的简化字	None	蠆
+𧈺	None	同=𧈩(蟘)	None	𧈩
+𧈩	None	同=蟘	None	蟘
+𧈨	None	同=蚩	None	蚩
+虽	None	同=雖	None	雖
+虼	ge4	[虼蜋]即蜣螂	None	None
+虼	xxx	[虼魯]国名	None	None
+虴	zhe2	[虴蜢]灰蚱蜢	None	None
+虳	jue2	鼠	None	None
+𧈮	None	=蚖的讹字	None	蚖
+䖠	None	同=螈	None	螈
+蚀	None	=蝕的简化字	None	蝕
+虻	meng2	昆虫名 虻科 形似蝇而稍大，色灰黑，体粗壮，翅透明 种类甚多 生活在野草丛中 雄的吸植物汁液，雌的吸人畜血液	None	None
+䖟	None	同=蝱	None	蝱
+蚁	None	=蟻的简化字	None	蟻
+𧉌	None	同=蚩	None	蚩
+虸	zi3	[虸蚄]黏虫 夜蛾科 是粮食作物的主要害虫	None	None
+𧈪 	chan3	虫向前爬行 	None	None
+虵	she2	同=蛇	None	蛇
+虵	ye3	[虵咥]少数民族姓	None	None
+蚤	zao3	跳蚤 头小体肥，赤褐色 善跳跃，吸人畜的血液 能传染鼠疫等疾病	None	None
+蚤	zao3	车轮内缘（辋）与支柱（辐）相连接处的榫头	None	None
+蚤	zao3	通=早 1.早晨 2.在一定时间以前	None	早
+蚤	zhao3	通=爪 1.指甲或趾甲 2.像爪的东西	None	爪
+蚂	None	=螞的简化字	None	螞
+蚌	bang3	软体动物，介壳长圆形，黑褐色，里面有珍珠层 生活在淡水中，有的产珍珠	None	None
+蚌	bang3	美珠	None	None
+蚌	pi2	同=螷	None	螷
+蚌	feng1	同=蠭(蜂) 昆虫名 会飞，多有毒刺，能蜇人	None	蠭
+蚌	beng4	[蚌埠]市名 在今安徽省	None	None
 蚟	None	录入中	None	None
 𧉉	None	录入中	None	None
 蚈	None	录入中	None	None
