@@ -52539,90 +52539,132 @@
 𤻚	None	同=𤸶	None	𤸶
 𤻢	ai4	病声	None	None
 𤻞	None	同⿸疒尔(=𤵜)	None	𤵜
-㿓	None	录入中	None	None
+㿓	jia4	羊蹄病	None	None
+㿓	jia4	疮	None	None
 𤻣	None	录入中	None	None
-𤻗	None	录入中	None	None
-𤻤	None	录入中	None	None
-𤻥	None	录入中	None	None
-𤻮	None	录入中	None	None
-𤻖	None	录入中	None	None
-癟	None	录入中	None	None
-𤻦	None	录入中	None	None
-𤻧	None	录入中	None	None
-𤻘	None	录入中	None	None
-癣	None	录入中	None	None
-癡	None	录入中	None	None
-𤻨	None	录入中	None	None
-癠	None	录入中	None	None
-癢	None	录入中	None	None
-𤻝	None	录入中	None	None
-㿑	None	录入中	None	None
-𤻩	None	录入中	None	None
-𤻕	None	录入中	None	None
-𤻰	None	录入中	None	None
-𤼁	None	录入中	None	None
-𤻳	None	录入中	None	None
-𤻱	None	录入中	None	None
-𤻵	None	录入中	None	None
-𤻺	None	录入中	None	None
-㿔	None	录入中	None	None
-𤼊	None	录入中	None	None
-𤻸	None	录入中	None	None
-𤻲	None	录入中	None	None
-癥	None	录入中	None	None
-𤻷	None	录入中	None	None
-𤻴	None	录入中	None	None
-𤼉	None	录入中	None	None
-𤻶	None	录入中	None	None
-癫	None	录入中	None	None
-癩	None	录入中	None	None
-癧	None	录入中	None	None
-癨	None	录入中	None	None
-㿖	None	录入中	None	None
-㿕	None	录入中	None	None
-𤼅	None	录入中	None	None
-㿗	None	录入中	None	None
-𤼄	None	录入中	None	None
-𤼈	None	录入中	None	None
-𤼆	None	录入中	None	None
-𤼀	None	录入中	None	None
-𤼃	None	录入中	None	None
-㿘	None	录入中	None	None
-𤼂	None	录入中	None	None
-癮	None	录入中	None	None
-𤼐	None	录入中	None	None
-𤼑	None	录入中	None	None
-𤼍	None	录入中	None	None
-癭	None	录入中	None	None
-𤼏	None	录入中	None	None
-𤼋	None	录入中	None	None
-癬	None	录入中	None	None
-𤼌	None	录入中	None	None
-𤼚	None	录入中	None	None
-癯	None	录入中	None	None
-㿙	None	录入中	None	None
-𤼒	None	录入中	None	None
-𤼗	None	录入中	None	None
-癰	None	录入中	None	None
-癱	None	录入中	None	None
-癲	None	录入中	None	None
-㿛	None	录入中	None	None
-㿚	None	录入中	None	None
-𤼘	None	录入中	None	None
-𤼛	None	录入中	None	None
-𤼙	None	录入中	None	None
-𤼝	None	录入中	None	None
-𤼜	None	录入中	None	None
-𤼢	None	录入中	None	None
-𤼟	None	录入中	None	None
-癳	None	录入中	None	None
-𤼡	None	录入中	None	None
-𤼠	None	录入中	None	None
-㿜	None	录入中	None	None
-癴	None	录入中	None	None
-𤼣	None	录入中	None	None
-𤼤	None	录入中	None	None
-癵	None	录入中	None	None
+𤻗	None	=瘰的讹字	None	瘰
+𤻤	li4	瘰疬	None	None
+𤻥	None	同=痯	None	痯
+𤻮	None	同=應	None	應
+𤻖	bi4	病	None	None
+𤻖	bi4	病手冷	None	None
+癟	bie3	不能飞	None	None
+癟	bie3	枯；枯瘦 如：干瘪	None	None
+癟	bie3	戾瘪不正	None	None
+癟	bie3	扁	None	None
+癟	bie3	同=秕 谷不实	None	秕
+癟	bie1	=别	None	别
+癟	bie1	用同=憋 闷（在心里）	None	憋
+𤻦	zhai1	@	None	None
+𤻧	None	同=瘢	None	瘢
+𤻘	yin3	[𤻘胗]同“=癮胗” 1.荨麻疹 2.捶痕	None	癮
+癣	None	=癬的简化字	None	癬
+癡	chi1	呆傻；迟钝	None	None
+癡	chi1	发呆	None	None
+癡	chi1	癫狂病	None	None
+癡	chi1	迷恋某种事物而沉迷不返	None	None
+癡	chi1	佛家语，众生三毒之一 心灵暗昧	None	None
+癡	chi1	天真的昵称	None	None
+癡	chi1	用同=瓻 以瓻盛酒谢人	None	瓻
+𤻨	None	同=痪	None	痪
+癠	ji4	病	None	None
+癠	ji4	短小；瘦小貌	None	None
+癢	yang3	皮肤受刺激而欲搔	None	None
+癢	yang3	想显现（技艺） 如：技痒	None	None
+𤻝	ning2	病	None	None
+㿑	yao4	病	None	None
+𤻩	None	同=饜	None	饜
+𤻕	None	同=癰	None	癰
+𤻰	None	同=癢	None	癢
+𤼁	meng2	病人行	None	None
+𤻳	None	同=瘰	None	瘰
+𤻱	lu4	[𤸵𤻱]痞病	None	None
+𤻵	None	同=癤	None	癤
+𤻺	None	同=瘦 ……按：……当是咳嗽之=嗽的俗写	None	瘦
+㿔	lei3	同=癗 皮肤上隆起的小肿块、小疙瘩	None	癗
+𤼊	None	同=㿉	None	㿉
+𤻸	None	同=瘥	None	瘥
+𤻲	None	同=療	None	療
+癥	zheng1	腹内结块病	None	None
+癥	zheng1	足疮	None	None
+𤻷	pan2	足疾	None	None
+𤻴	None	同=疼	None	疼
+𤼉	None	同=憨	None	憨
+𤻶	bian4	骨风病	None	None
+癫	None	=癲的简化字	None	癲
+癩	lai4	麻风病 又称癘	None	None
+癩	lai4	像生癞皮毛脱落或表面凹凸不平	None	None
+癩	lai4	喻指坏；低劣	None	None
+癩	la4	一种皮肤病，即黄癣，能使头发脱落，留下疤痕 又称瘌利 如：瘌头；瘌疮	None	None
+癧	li4	[瘰癧]见“瘰”	None	None
+癨	huo4	=霍乱	None	霍
+㿖	lu2	痈类	None	None
+㿖	lu2	同=廬 地名用字	None	廬
+㿖	lu4	[𤸵㿖]痞病	None	None
+㿕	yan2	疮	None	None
+㿕	yan2	病走	None	None
+𤼅	qi4	病	None	None
+㿗	None	同=㿉	None	㿉
+𤼄	None	同=瘭	None	瘭
+𤼈	None	[𤼈壺]器名 1976年12月15日陕西省扶风县出土	None	None
+𤼆	None	同=𤹤(疼)	None	𤹤
+𤼀	su1	病	None	None
+𤼃	long4	[𤼘𤼃]病	None	None
+𤼃	long2	同=聾 失去听觉	None	聾
+㿘	ying2	患病	None	None
+𤼂	xian3	寒病	None	None
+𤼂	xian3	病疑	None	None
+癮	yin3	内病	None	None
+癮	yin3	癖好；嗜好	None	None
+癮	yin3	[癮胗]也作“=𤻘胗” 即荨麻疹	None	𤻘
+𤼐	guan4	[𤼐𤼐]同“=痯痯” 病	None	痯
+𤼐	huan4	同=肒 搔生疮	None	肒
+𤼑	None	=䯢的讹字	None	䯢
+𤼍	hang2	象声词 病声	None	None
+癭	ying3	颈瘤，俗称大脖子 属甲状腺肿大的一类疾病	None	None
+癭	ying3	树木外部隆起如瘤之物	None	None
+癭	ying3	多余的东西	None	None
+𤼏	lian3	胎𤼏疮，婴儿湿疹 又称“”奶癣	None	None
+𤼋	chan4	病	None	None
+癬	xuan3	皮肤、毛发和指（趾）甲感染霉菌引起的疾病	None	None
+𤼌	yi4	病	None	None
+𤼚	li4	同=㾐 疾疫	None	㾐
+𤼚	li4	同=癘	None	癘
+癯	qu2	同=臞 瘦	None	臞
+㿙	pi4	满；气满	None	None
+𤼒	wei3	疮裂	None	None
+𤼒	wei3	疾病	None	None
+𤼒	hua4	愚	None	None
+𤼗	jue2	倒病	None	None
+癰	yong1	肿疡 由皮肤或皮下组织化脓性的炎症引起	None	None
+癰	yong1	喻指祸害	None	None
+癰	yong1	鼻疾，不辨气味	None	None
+癱	tan1	风瘫；瘫痪	None	None
+癱	tan1	指身体软弱无力	None	None
+癲	dian1	精神病	None	None
+癲	dian1	癫痫	None	None
+㿛	li4	痈	None	None
+㿛	li4	瘦黑；瘦貌	None	None
+㿛	li4	[瘰㿛]同“瘰=癧”	None	癧
+㿚	luo4	病	None	None
+𤼘	lei2	病疲	None	None
+𤼛	None	同=饜	None	饜
+𤼙	luan2	病	None	None
+𤼙	luan2	同=𦣏 瘦	None	𦣏
+𤼙	luan2	病体拘曲	None	None
+𤼝	None	同=癑	None	癑
+𤼜	None	同=螷	None	螷
+𤼢	huan3	痛	None	None
+𤼢	huan3	病	None	None
+𤼟	None	同=㿙	None	㿙
+癳	luo3	[族癳]也作“瘯=瘰” 皮肤病	None	瘰
+𤼡	None	同=𤸰(鷹)	None	𤸰
+𤼠	None	同=瘰	None	瘰
+㿜	None	同=癟	None	癟
+癴	luan2	病体拘曲	None	None
+𤼣	None	同=𤼙	None	𤼙
+𤼤	None	同=㿙	None	㿙
+癵	None	同=𤼙	None	𤼙
 立	li4	站立	None	None
 立	li4	竖起 如：立竿见影	None	None
 立	li4	建树；成就	None	None
