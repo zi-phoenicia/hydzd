@@ -55705,30 +55705,45 @@
 蚌	pi2	同=螷	None	螷
 蚌	feng1	同=蠭(蜂) 昆虫名 会飞，多有毒刺，能蜇人	None	蠭
 蚌	beng4	[蚌埠]市名 在今安徽省	None	None
-蚟	None	录入中	None	None
-𧉉	None	录入中	None	None
-蚈	None	录入中	None	None
-蚨	None	录入中	None	None
-𧉂	None	录入中	None	None
-蚕	None	录入中	None	None
-蚖	None	录入中	None	None
-𧉗	None	录入中	None	None
-蚞	None	录入中	None	None
-𧉋	None	录入中	None	None
-蚑	None	录入中	None	None
-𧉄	None	录入中	None	None
-𧉈	None	录入中	None	None
-𧉑	None	录入中	None	None
-𧈽	None	录入中	None	None
-蚘	None	录入中	None	None
-蚅	None	录入中	None	None
-蚷	None	录入中	None	None
-蚜	None	录入中	None	None
-蚍	None	录入中	None	None
-𧉛	None	录入中	None	None
-𧉀	None	录入中	None	None
-𧉘	None	录入中	None	None
-𧉆	None	录入中	None	None
+蚟	wang2	[蚟孫]蟋蟀	None	None
+𧉉	None	同=毒	None	毒
+蚈	qian1	马蚿，即马陆	None	None
+蚈	qian1	萤火虫	None	None
+蚨	fu2	[青蚨]又名“蚨母” 1.一种飞虫，母子不相离 2.钱的别称	None	None
+𧉂	tian3	[蜸𧉂]也作“蜸=蚕” 蚯蚓	None	蚕
+蚕	can2	同=蠶	None	蠶
+蚕	tian3	[蜸蚕]见“蜸”	None	None
+蚖	yuan2	古代指蝾螈和蜥蜴类动物 后作=螈	None	螈
+蚖	yuan2	木名	None	None
+蚖	wan2	毒蛇	None	None
+𧉗	yuan2	同=𧔞 晚蚕	None	𧔞
+𧉗	yuan2	同=蚖	None	蚖
+⿰虫无	None	=蟱的类推简化字	None	蟱
+蚞	mu4	[蜓蚞]见“蜓(ting2)”	None	None
+𧉋	None	=𧉄的讹字	None	𧉄
+蚑	qi2	动物行走	None	None
+蚑	qi2	虫名	None	None
+蚑	qi2	蚂蟥	None	None
+蚑	qi2	传说中的怪兽	None	None
+𧉄	None	同=蝒	None	蝒
+𧉈	fou2	[蚍𧉈]也作“蚍=衃” 锦葵	None	衃
+𧉈	fu2	[蚍𧉈]即“蚍=蜉” 大蚂蚁	None	蜉
+𧉑	tai4	[𧉑阿]虫名	None	None
+𧈽	hong2	虫名	None	None
+蚘	hui2	同=蛔	None	蛔
+蚘	you2	[蚩蚘]也作“蚩=尤” 神话中东方九黎族首领	None	尤
+蚅	e4	乌蠋，蛾蝶类的幼虫 似蚕，大如指	None	None
+⿰虫车	None	=蛼的类推简化字	None	蛼
+蚷	ju4	[商蚷]马蚿，即马陆	None	None
+蚜	ya2	蚜虫 俗称腻虫 蚜虫科昆虫的统称 身体卵圆形，绿色、黄色或棕色，腹部大 生活在植物的嫩茎和嫩叶上，吸食汁液，害处极大 如麦蚜、棉蚜、菜蚜、桃蚜等	None	None
+蚜	ya2	用同=砑(ya4) 在物体上碾磨使坚实发亮	None	砑
+蚍	pi2	[蚍蜉]也作“蚍=𧉈” 一种大蚂蚁	None	𧉈
+蚍	pi2	[蚍衃]锦葵	None	None
+𧉛	di4	[𧉛蚣]螮蝀 虹的别称	None	None
+𧉀	chi3	虫伸行	None	None
+𧉘	None	同=𧉀	None	𧉀
+𧉆	ji2	蜻蛚，即蟋蟀	None	None
+⿱⿰〢又虫	None	=蜸的类推简化字	None	蜸
 䖢	None	录入中	None	None
 𧉍	None	录入中	None	None
 蚎	None	录入中	None	None
