@@ -51942,46 +51942,78 @@
 痾	ke1	宿怨；旧仇	None	None
 痾	ke1	用同=屙(e1) 排泄大便	None	屙
 𤶜	zhuang4	病热	None	None
-𤶝	None	同=𤵲	None	𤵲
-痛	None	录入中	None	None
-𤶗	None	录入中	None	None
-痠	None	录入中	None	None
-𤷷	None	录入中	None	None
-痮	None	录入中	None	None
-瘏	None	录入中	None	None
-𤷖	None	录入中	None	None
-𤷟	None	录入中	None	None
-瘂	None	录入中	None	None
-𤷍	None	录入中	None	None
-瘔	None	录入中	None	None
-瘄	None	录入中	None	None
-𤸠	None	录入中	None	None
-𤸡	None	录入中	None	None
-痳	None	录入中	None	None
-痲	None	录入中	None	None
-𤷠	None	录入中	None	None
-㾢	None	录入中	None	None
-𤷆	None	录入中	None	None
-𤷇	None	录入中	None	None
-𤷌	None	录入中	None	None
-𤷈	None	录入中	None	None
-㾨	None	录入中	None	None
-痷	None	录入中	None	None
-瘃	None	录入中	None	None
-𤷋	None	录入中	None	None
-𤷃	None	录入中	None	None
-痱	None	录入中	None	None
-㾥	None	录入中	None	None
-㾚	None	录入中	None	None
-𤷘	None	录入中	None	None
-𤷡	None	录入中	None	None
-𤷛	None	录入中	None	None
-𤷙	None	录入中	None	None
-𤷢	None	录入中	None	None
-㾧	None	录入中	None	None
-痬	None	录入中	None	None
-痹	None	录入中	None	None
-𤷒	None	录入中	None	None
+𤶝	None	同=𤵜	None	𤵜
+痛	tong4	疼痛	None	None
+痛	tong4	悲伤；伤悼	None	None
+痛	tong4	恨	None	None
+痛	tong4	怜爱	None	None
+痛	tong4	极；尽情地	None	None
+痛	tong4	姓	None	None
+𤶗	None	同=獃(呆)	None	獃
+痠	suan1	酸痛	None	None
+痠	suan1	石名	None	None
+𤷷	None	同=𤸱	None	𤸱
+痮	zhang4	同=脹 腹胀满	None	脹
+瘏	tu2	病，疲乏	None	None
+𤷖	ling4	风病	None	None
+𤷟	la5	[疤𤷟]瘢痕	None	None
+瘂	None	同=啞	None	啞
+𤷍	qi2	[𤷍癧]生于乳房及大腿根部的痈疖 又名𤷍疡疬	None	None
+𤷍	qi2	古代人名用字	None	None
+瘔	ku4	同=苦 困	None	苦
+瘄	cu4	疹子	None	None
+瘄	cu4	同=厝 放置	None	厝
+𤸠	None	同=廟	None	廟
+𤸡	None	同=殃	None	殃
+痳	lin2	疝病	None	None
+痳	lin4	同=淋 淋症	None	淋
+痲	ma2	同=麻 1.感觉不灵或全部丧失 2.表面粗糙有斑点	None	麻
+𤷠	None	=瘀的讹字	None	瘀
+㾢	lai4	恶病	None	None
+㾢	lai4	久疾	None	None
+𤷆	dong1	方言 恶气所伤的病	None	None
+𤷇	xu4	头痛	None	None
+𤷌	zhen3	同=胗 唇疡	None	胗
+𤷈	na4	同=䖧	None	䖧
+𤷈	nie4	同=痆 疮	None	痆
+㾨	yi1	身急弱病	None	None
+㾨	qi3	丧	None	None
+㾨	qi3	病疽	None	None
+㾨	ai3	同=矮 与“高”相对	None	矮
+㾨	ai3	坐倚貌	None	None
+㾨	ai3	姓	None	None
+痷	an1	[痷婪]泛，浮泛	None	None
+痷	an1	泡茶术语	None	None
+痷	ye4	同=殗 病	None	殗
+痷	ye4	瘦病	None	None
+痷	e4	同=𨂁 跛疾	None	𨂁
+瘃	zhu2	冻疮	None	None
+瘃	zhu2	冻；受冻	None	None
+𤷋	None	=𣯟的讹字	None	𣯟
+𤷃	jian4	小痒	None	None
+痱	fei1	中风病	None	None
+痱	fei4	痱子，汗疹	None	None
+痱	fei4	同=腓 避	None	腓
+痱	fei3	鬼痛病	None	None
+㾥	chu4	腹痛	None	None
+㾚	xie1	痒	None	None
+𤷘	None	同=悼	None	悼
+𤷡	xi1	同=㾷	None	㾷
+𤷡	nve4	同=瘧 疟疾	None	瘧
+𤷛	None	同=𤵼	None	𤵼
+𤷙	de2	病	None	None
+𤷢	ju4	@	None	None
+㾧	kuo4	秃病	None	None
+㾧	luo3	同=瘰	None	瘰
+痬	yi4	狂疾	None	None
+痬	yi4	病相传染	None	None
+痹	bi4	中医指由风、寒、湿等侵蚀肢体引起的疼痛或麻木的症状	None	None
+痹	bi4	气郁闷	None	None
+痹	bi4	麻木	None	None
+𤷒	pi2	鸟名 雌鹑	None	None
+𤷒	bi4	同=痹	None	痹
+𤷒	bi4	同=𤻖 病	None	𤻖
+𤷒	bei1	通=卑 低下	None	卑
 痶	None	录入中	None	None
 痼	None	录入中	None	None
 瘑	None	录入中	None	None
