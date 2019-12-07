@@ -56664,30 +56664,39 @@
 𧏍	None	同=螄	None	螄
 螕	bi1	寄生在牛马鸡犬等牲畜身上的一种吸血昆虫 如牛虱、狗虱等	None	None
 螕	pi1	[螕蜉]也作“=蚍蜉” 大蚂蚁	None	蚍
-𧏩	None	录入中	None	None
-𧏀	None	录入中	None	None
-𧏕	None	录入中	None	None
-螔	None	录入中	None	None
-螌	None	录入中	None	None
-𧏫	None	录入中	None	None
-𧎼	None	录入中	None	None
-螇	None	录入中	None	None
-螉	None	录入中	None	None
-𧎪	None	录入中	None	None
-䗦	None	录入中	None	None
-䗬	None	录入中	None	None
-𧎩	None	录入中	None	None
-𧏓	None	录入中	None	None
-䗜	None	录入中	None	None
-𧎷	None	录入中	None	None
-𧏃	None	录入中	None	None
-𧎸	None	录入中	None	None
-𧏅	None	录入中	None	None
-螏	None	录入中	None	None
-𧎿	None	录入中	None	None
-螤	None	录入中	None	None
-𧏎	None	录入中	None	None
-螡	None	录入中	None	None
+𧏩	None	同=螝	None	螝
+𧏀	None	同=蛓	None	蛓
+𧏕	None	同=螔	None	螔
+螔	yi2	[螔蝓]蜗牛	None	None
+螔	si1	[螔䗔]壁虎一类的爬行动物	None	None
+螌	ban1	[螌蝥]也作“=斑蝥” 甲虫 芫菁科 黑色，触角呈鞭状，腿细长，鞘翅上有黄色斑纹 成虫危害大豆、花生、芝麻、瓜类等	None	斑
+螌	pan1	[負螌]也作“負=盤” 蟑螂	None	盤
+螌	huan4	大鳖	None	None
+𧏫	sha4	@	None	None
+𧎼	None	同=珧	None	珧
+螇	xi1	[螇螰]蝉名	None	None
+螇	qi1	[螇蚸]蝗的一种	None	None
+螇	qi1	土蜂	None	None
+螉	weng1	虫名 又叫螉䗥，寄生在牛马等家畜的皮肤肌筋上	None	None
+螉	weng1	[蠮螉]细腰蜂 见“蠮”	None	None
+𧎪	qi2	同=蚔 虻虫	None	蚔
+䗦	None	同=蜂	None	蜂
+䗬	None	同=蜂	None	蜂
+𧎩	None	同=虴	None	虴
+𧏓	liu2	虫名	None	None
+䗜	liu2	[䗜蛄]蝼蛄	None	None
+䗜	liu2	虫名	None	None
+䗜	liu2	同=䖻	None	䖻
+𧎷	chu3	虫名	None	None
+𧏃	xie4	蠸，瓜虫	None	None
+𧏃	xie4	蝗类	None	None
+𧎸	jiao3	虫名	None	None
+𧏅	None	同=螫	None	螫
+螏	ji2	[螏𧑇]也作“螏䖿” 蝍蛆别名	None	None
+𧎿	ji2	[螏䖿]也作“=蒺䔧” 蝍蛆别名	None	蒺
+螤	zhong1	同=鍾 古容量单位	None	鍾
+𧏎	None	同=蚊	None	蚊
+螡	None	同=蚉(蚊)	None	蚉
 螭	None	录入中	None	None
 螗	None	录入中	None	None
 𧏗	None	录入中	None	None
