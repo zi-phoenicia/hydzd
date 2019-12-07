@@ -55832,45 +55832,71 @@
 𧊬	he4	毒虫咬刺	None	None
 𧉱	None	=蚞的讹字	None	蚞
 𧉹	None	同=蚱 “螞蚱”，亦作“螞𧉹”	None	蚱
-蚻	None	录入中	None	None
-蚵	None	录入中	None	None
-蛃	None	录入中	None	None
-蛎	None	录入中	None	None
-蚽	None	录入中	None	None
-䖨	None	录入中	None	None
-𧉩	None	录入中	None	None
-𧉦	None	录入中	None	None
-蛂	None	录入中	None	None
-蚲	None	录入中	None	None
-𧉥	None	录入中	None	None
-蛅	None	录入中	None	None
-𫊮	None	录入中	None	None
-䖧	None	录入中	None	None
-蛆	None	录入中	None	None
-蚰	None	录入中	None	None
-𧊄	None	录入中	None	None
-𧊍	None	录入中	None	None
-𧊅	None	录入中	None	None
-蚺	None	录入中	None	None
-蛊	None	录入中	None	None
-𧉫	None	录入中	None	None
-蛈	None	录入中	None	None
-蚱	None	录入中	None	None
-𧉷	None	录入中	None	None
-𧉮	None	录入中	None	None
-蚯	None	录入中	None	None
-蚹	None	录入中	None	None
-𧊆	None	录入中	None	None
-蚮	None	录入中	None	None
-𧊇	None	录入中	None	None
-𧉲	None	录入中	None	None
-蚸	None	录入中	None	None
-蛌	None	录入中	None	None
-蛉	None	录入中	None	None
-蚳	None	录入中	None	None
-𧉰	None	录入中	None	None
-蚼	None	录入中	None	None
-䖤	None	录入中	None	None
+蚻	zha2	一种小蝉	None	None
+蚵	he2	[蚵蠪]蜥蜴	None	None
+蚵	ke4	[𧏸蚵]见“𧏸”	None	None
+蚵	ke4	福建人称牡蛎和蚵	None	None
+蛃	bing3	衣鱼，又名蠹鱼	None	None
+蛎	None	=蠣的简化字	None	蠣
+蚽	pi2	虫名	None	None
+䖨	shi2	[䖨硠]螳螂	None	None
+䖨	zhe4	同=蟅 地鳖虫	None	蟅
+𧉩	bu4	[蝜𧉩]虫名	None	None
+⿱龙虫	None	=蠪的类推简化字	None	蠪
+𧉦	None	同=𧑅(蚏)	None	𧑅
+蛂	bie3	金龟子 金龟子科 种类很多 体多为卵圆形，触角鳃叶状，各界能自由开闭 为害植物的叶、花、芽及果实等地上部分 幼虫居土中，乳白色，一般称为“蛴螬”，为害植物的根和块茎等地下部分	None	None
+蚲	ping2	米谷中小黑甲虫	None	None
+𬟽	None	=蝀的类推简化字	None	蝀
+𧉥	bei3	蟹类动物	None	None
+𧉥	bei3	同=北	None	北
+蛅	zhan1	[蛅蟖]也作“蛅蟴” 毛虫 成虫称“蛾”或“蝶” 种类很多	None	None
+𫊮	None	=蠦的类推简化字	None	蠦
+䖧	na4	毒虫咬刺	None	None
+䖧	na4	疼痛	None	None
+蛆	ju1	[螂蛆]见“螂”	None	None
+蛆	qu1	蝇类的幼虫 体柔软，有环节，白色 多生在不洁净的地方	None	None
+蛆	qu1	酒面浮沫	None	None
+蛆	qu1	比喻废话、坏话	None	None
+蛆	qu1	比喻专干坏事的卑鄙可耻的坏人 如：蛆虫	None	None
+蚰	you2	[蚰蜒]俗称“草鞋虫” 蚰蜒科 像蜈蚣而略小，触角和脚都很细 生活在阴湿的地方，捕食小动物	None	None
+蚰	zhu2	[馬蚰]马陆	None	None
+𧊄	zhi2	=蟙的类推简化字	None	蟙
+𧊄	gui3	@	None	None
+𧊍	None	=蚗的讹字	None	蚗
+𧊅	guai3	蛙类 种类甚多，如山蚂𧊅，犁头𧊅等	None	None
+蚺	ran2	蟒蛇 蟒蛇科 长可达六米，背黄褐色，有斑纹，生活在森林中 无毒，但能咬死、吞食十几千克重的哺乳动物	None	None
+蚺	ran2	三国时西方少数民族名	None	None
+蚺	tian4	[蚺䗊]吐舌貌	None	None
+蛊	None	同=蠱	None	蠱
+𧉫	zha2	虻虫的一种	None	None
+蛈	tie3	[蛈蝪]土蜘蛛，即=螲蟷	None	螲
+蚱	zha4	[蚱蜢]1.昆虫 蝗科 体绿色或黄褐色，触角短，善跳跃，常生活在一个地区，不向外地迁移 吃稻叶等，是害虫	None	None
+蚱	zha4	同=鮓 海蜇	None	鮓
+𧉷	None	=𧒁的讹字	None	𧒁
+𧉮	she2	同=蛇 一种爬行动物	None	蛇
+𧉮	yan2	[委𧉮]也作“逶𧉮”、“委=蛇” 弯弯曲曲延续不绝的样子	None	蛇
+蚯	qiu1	[蚯蚓]俗称曲蟮 环节动物，身体柔软，圆而长，种类甚多 生活在土壤中，吃土中的有机物质，对改良土壤有重要作用 中医入药	None	None
+蚹	fu4	蛇腹下代足爬行的横鳞	None	None
+蚹	fu4	 蛇皮	None	None
+𧊆	None	同=蚹	None	蚹
+蚮	None	同=𧊇	None	𧊇
+𧊇	dai4	蚱蜢	None	None
+𧊇	de2	蛇蝎毒	None	None
+𧉲	li4	[螇𧉲]同“螇=蝷” 蝗的一种	None	蝷
+蚸	li4	[螇蚸]见“螇(qi1)”	None	None
+蛌	gu3	[喇喇蛌]也作“蝲蝲=蛄” 即蝼蛄	None	蛄
+蛌	tun2	=㼊的讹字	None	㼊
+蛉	ling2	[螟蛉]1.螟蛉蛾的幼虫 寄生蜂蜾嬴常捕捉它作为幼虫的食物，古人误认为蜾臝养它作子 2.义子；抱养的孩子	None	None
+蚳	chi2	蚁卵 可作供食用的酱	None	None
+蚳	chi2	古书中说的一种动物	None	None
+蚳	chi2	姓	None	None
+蚳	chi1	[蠪蚳]古书中的野兽名	None	None
+蚳	diu4	[蚳蝀]同“=螮蝀” 虹	None	螮
+𧉰	None	同=蜓	None	蜓
+蚼	gou3	[蚼犬]即“=蜪犬” 古书中说的一种兽	None	蜪
+蚼	qu2	[玄蚼]大蚂蚁	None	None
+蚼	xu4	同=𧏺	None	𧏺
+䖤	None	同=蜿	None	蜿
 蚫	None	录入中	None	None
 蛀	None	录入中	None	None
 𧉶	None	录入中	None	None
