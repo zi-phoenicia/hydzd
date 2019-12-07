@@ -56156,44 +56156,69 @@
 蜎	yuan1	[蜎蜎]虫类蠕动爬行貌	None	None
 蜎	yuan1	孑孓，蚊子的幼虫 又名=虷 体细长，胸部比头和腹宽大，没有足 游泳时身体一屈一伸 通称“跟斗虫”	None	虷
 蜎	yuan1	弯曲	None	None
-蜗	None	录入中	None	None
-𧊫	None	录入中	None	None
-𧋡	None	录入中	None	None
-𧋓	None	录入中	None	None
-蛾	None	录入中	None	None
-䖸	None	录入中	None	None
-蜊	None	录入中	None	None
-䖽	None	录入中	None	None
-蜏	None	录入中	None	None
-蜁	None	录入中	None	None
-𧋟	None	录入中	None	None
-𧌫	None	录入中	None	None
-𧌁	None	录入中	None	None
-𧋙	None	录入中	None	None
-蜍	None	录入中	None	None
-䖷	None	录入中	None	None
-𧋚	None	录入中	None	None
-𧋉	None	录入中	None	None
-蛶	None	录入中	None	None
-蜉	None	录入中	None	None
-𧋈	None	录入中	None	None
-蛿	None	录入中	None	None
-蜔	None	录入中	None	None
-蜂	None	录入中	None	None
-𧋴	None	录入中	None	None
-𧋲	None	录入中	None	None
-䖻	None	录入中	None	None
-蜣	None	录入中	None	None
-蜕	None	录入中	None	None
-𧌽	None	录入中	None	None
-𧋘	None	录入中	None	None
-𧋊	None	录入中	None	None
-蜋	None	录入中	None	None
-蝍	None	录入中	None	None
-𧋜	None	录入中	None	None
-蛹	None	录入中	None	None
-蜯	None	录入中	None	None
-蜻	None	录入中	None	None
+蜎	yuan1	姓	None	None
+蜎	xuan1	同=翾 飞翔	None	翾
+蜗	None	=蝸的简化字	None	蝸
+𧊫	None	同=螝	None	螝
+𧋡	na4	虫动貌	None	None
+𧋓	kao4	蝎	None	None
+蛾	yi3	蚂蚁 后作=蟻	None	蟻
+蛾	e2	昆虫 鳞翅科 形状像蝴蝶，静止时翅膀左右平放 种类繁多 麦蛾、螟蛾对农作物有害；而蚕蛾、天蛾有重要经济价值	None	None
+蛾	e2	蛾眉的省称 指女子美而长的眉毛	None	None
+蛾	e2	某些寄生植物 如：木蛾（木=耳）；桑蛾（桑耳）	None	耳
+蛾	e2	通=俄 短时间	None	俄
+蛾	e2	姓	None	None
+䖸	None	同=𧒎(蛾)	None	𧒎
+蜊	li2	[蛤蜊]1.软体动物 蛤蜊科 体外有双壳，铰合部有两个“八”字形主齿，颜色美丽 生活在浅海泥沙中 肉味鲜美	None	None
+䖽	None	同=蜊	None	蜊
+蜏	you3	[朝蜏]也作“朝=秀” 虫名 朝生暮死	None	秀
+蜁	xuan2	[蜁蝸]小螺	None	None
+𧋟	None	同=䗋	None	䗋
+𧌫	None	同=虹	None	虹
+𧌁	tiao2	[𧌁䗤]也作“=䖺䗤” 古代传说中的动物名	None	䖺
+𧋙	None	同=䗓	None	䗓
+蜍	yu2	[蝳蜍]见“蝳(du2)”	None	None
+蜍	chu2	蟾蜍的省称	None	None
+䖷	xi1	虫名	None	None
+𧋚	None	同=痋	None	痋
+𧋉	qi1	同=螇 土蜂	None	螇
+蛶	jie4	虫名	None	None
+蜉	fu2	=[蜉蝣]也作“蜉蝤” 昆虫名 幼虫生活在水中 成虫褐绿色，有短形触角和两对翅，在水面飞行 成虫寿命很短，只有数小时至一星期左右，一般均朝生暮死	None	[
+蜉	fu2	大蚁	None	None
+𧋈	None	同=豸	None	豸
+蛿	None	同=蜭	None	蜭
+蜔	dian4	[螺蜔]也作“螺=鈿” 一种手工艺品 用螺蛳壳或贝壳镶嵌在器物表面作装饰	None	鈿
+蜂	feng1	昆虫名 会飞 多有毒刺，能蜇人，常群居在一起 种类甚多	None	None
+蜂	feng1	成群地，众多 如：蜂起；蜂拥；蜂聚	None	None
+蜂	feng1	啎；相逢 也作=夆	None	夆
+𧋴	None	同=蠭	None	蠭
+𧋲	bei3	@	None	None
+䖻	you2	[蜉䖻]也作“蜉=蝣” 虫名	None	蝣
+䖻	you2	毒蛇	None	None
+蜣	qiang1	[蜣螂]又名“蛣蜣” 一种有甲壳和鞘翅的昆虫 黑色，会飞，吃粪尿或动物的尸体 常把粪滚成球形，在其中产卵一枚 因此，有的地区又称为“屎壳郎”	None	None
+蜕	tui4	蝉、蛇等蜕下的皮 如：蝉蜕；蛇蜕；蚕蜕	None	None
+蜕	tui4	蛇蝉等动物脱皮	None	None
+蜕	tui4	脱掉	None	None
+蜕	tui4	变化；变质 如：蜕变；蜕化	None	None
+蜕	tui4	道家认为修道者死后留下形骸，魂魄散去成仙，称为尸解，也叫“蜕” 后因以蜕为死的讳称	None	None
+蜕	tui4	动物的化石	None	None
+蜕	yue4	[蚴蜕]细腰蜂	None	None
+𧌽	bie1	[𧌽蛦]鸟名	None	None
+𧋘	ti2	[螗𧋘]蝉名 见“螗”	None	None
+𧋊	sha1	[𧋊雞]也作“=莎雞” 即纺织娘	None	莎
+𧋊	shuo1	[呼𧋊]病名	None	None
+蜋	lang2	[螳蜋]也作“蟷蜋” 即螳=螂	None	螂
+蜋	liang2	[蜣蜋]即蜣=螂 参见“蜣”	None	螂
+蝍	ji2	[蝍蛆]蜈蚣	None	None
+蝍	ji2	飞虫	None	None
+𮔕	None	同=蝍	None	蝍
+⿱陈虫	None	=螴的类推简化字	None	螴
+𧋜	None	同=蝨	None	蝨
+蛹	yong3	蚕蛹	None	None
+蛹	yong3	昆虫从幼虫到成虫的过渡装填，在此期间幼虫不动不食，外皮变厚，体形缩短，其状如死	None	None
+蜯	bang4	同=蚌	None	蚌
+蜻	jing1	[蜻蛚]蟋蟀	None	None
+蜻	qing1	蜻蜓，蜻蛉 身体细长，胸部有翅两对 生活在水边，捕食蚊子等小飞虫 幼虫叫水虿 今生物学分蜻蜓、蜻蛉为二	None	None
 蝅	None	录入中	None	None
 䗅	None	录入中	None	None
 𧌕	None	录入中	None	None
