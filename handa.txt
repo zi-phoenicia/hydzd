@@ -56446,66 +56446,83 @@
 蝡	ruan3	蛇名	None	None
 蝰	kui2	蛹名	None	None
 蝰	kui2	蝰蛇 毒蛇的一种 有黑斑蝰蛇、白蝰、青蝰等种类	None	None
-𧍿	None	录入中	None	None
-𧍺	None	录入中	None	None
-蝔	None	录入中	None	None
-𧎕	None	录入中	None	None
-𧍖	None	录入中	None	None
-蝭	None	录入中	None	None
-𧍡	None	录入中	None	None
-蝪	None	录入中	None	None
-蝐	None	录入中	None	None
-𧍪	None	录入中	None	None
-蝹	None	录入中	None	None
-䗌	None	录入中	None	None
-蝎	None	录入中	None	None
-䗑	None	录入中	None	None
-𧍥	None	录入中	None	None
-蝟	None	录入中	None	None
-𧎁	None	录入中	None	None
-𧍤	None	录入中	None	None
-𧍞	None	录入中	None	None
-𧍨	None	录入中	None	None
-𧍒	None	录入中	None	None
-𧎖	None	录入中	None	None
-螖	None	录入中	None	None
-𧍘	None	录入中	None	None
-𧌋	None	录入中	None	None
-蝵	None	录入中	None	None
-蝌	None	录入中	None	None
-𧎗	None	录入中	None	None
-蝩	None	录入中	None	None
-蝮	None	录入中	None	None
-𧍲	None	录入中	None	None
-𧍻	None	录入中	None	None
-螋	None	录入中	None	None
-𫋌	None	录入中	None	None
-蜵	None	录入中	None	None
-蝗	None	录入中	None	None
-𧍭	None	录入中	None	None
-螝	None	录入中	None	None
-蝺	None	录入中	None	None
-䗔	None	录入中	None	None
-𧍓	None	录入中	None	None
-𧎘	None	录入中	None	None
-𧍢	None	录入中	None	None
-𧍶	None	录入中	None	None
-蝓	None	录入中	None	None
-𧍬	None	录入中	None	None
-𧎙	None	录入中	None	None
-𧍕	None	录入中	None	None
-蝯	None	录入中	None	None
-𧏇	None	录入中	None	None
-蝬	None	录入中	None	None
-蝜	None	录入中	None	None
-𧎃	None	录入中	None	None
-𧍯	None	录入中	None	None
-䗓	None	录入中	None	None
-𧍰	None	录入中	None	None
-𧍸	None	录入中	None	None
-蝏	None	录入中	None	None
-蝷	None	录入中	None	None
-𧍁	None	录入中	None	None
+𧍿	dian4	[蝘𧍿]也作“蝘=蜓” 庇护	None	蜓
+𧍺	None	同=虹	None	虹
+蝔	jie1	虫名	None	None
+𧎕	wang2	@	None	None
+𧍖	sheng3	虫名	None	None
+𧍖	ning4	虫名，似蝉	None	None
+蝭	ti2	[蝭蟧]蝉名	None	None
+蝭	chi1	[蝭母]也作“=芪母” 即“=知母” 药草名	None	芪
+𧍡	None	同=蠈	None	蠈
+蝪	tang1	[蛈蝪]见“蛈”	None	None
+蝐	mao4	[蝳蝐]见“蝳”	None	None
+𧍪	yu2	[𧑒𧍪]见“𧑒”	None	None
+蝹	yun1	[蝹蝹]龙形貌	None	None
+蝹	ao3	传说中常伏地下吃死人脑的怪物	None	None
+䗌	xing1	[䗌蜓]也作“=蜻蜓” 虫名	None	蜻
+蝎	he2	木中蛀虫	None	None
+蝎	he2	涉及	None	None
+蝎	xie1	蝎子 节肢动物，钳蝎科 体长，下腮像螃蟹的螯，胸脚四对，后腹狭长，末端有毒钩，用来御敌或捕食 胎生 中医入药	None	None
+䗑	yi4	[䗑𧕋]也作“𧐔𧕋” 萤火虫	None	None
+𧍥	wei1	虫名 即水𧍥	None	None
+蝟	None	同=猬	None	猬
+𧎁	None	同=蚧	None	蚧
+𧍤	None	同=蛓	None	蛓
+𧍞	None	同=𧊜(鰐)	None	𧊜
+𧍨	sang1	虫	None	None
+𧍒	chuan3	[蜷𧍒]蚯蚓别名	None	None
+𧍒	chuai3	虫动貌	None	None
+𧎖	juan1	@	None	None
+螖	hua2	[螖蠌]海边寄居虫名 形似蜘蛛，有螯如蟹，入空螺壳中，戴壳而游 一说即“彭螖”，小蟹	None	None
+𧍘	you1	[𧍘蟉]也作“=蚴蟉” 1.屈曲行动貌 2.虫名	None	蚴
+𧌋	xie4	同=蝑 蟹酱	None	蝑
+蝵	None	同=蟗	None	蟗
+蝌	ke1	[蝌蚪]也作“=科斗” 1.蛙、蟾蜍、蝾螈、蜺等两栖动物的幼体 黑色，体椭圆，有长尾，生活在水中，逐渐发育生出前肢和后肢，尾巴消失，最后变为成体 2.像蝌蚪形状的文字	None	科
+𧎗	ke1	[𧎗蚪]也作“=蝌蚪” 虫名	None	蝌
+蝩	chong2	晚蚕	None	None
+蝩	zhong1	䘀螽 即蚂蚱	None	None
+蝮	fu4	虺，古称“土虺”的蝮蛇	None	None
+蝮	fu4	蝮蛇 蝮蛇科 头大，呈三角形，体色灰褐，有斑纹，口内有毒牙 生活在山野里，捕食老鼠和其他小动物，也能伤人或家畜 毒腺内的毒液可治麻风	None	None
+蝮	fu4	姓	None	None
+𧍲	pian2	[𧍲𧐗]也称“沙虱”、“恙虫” 恙螨科 种类甚多 幼虫体呈椭圆形，红色或黄色，有足三对；成虫长约五毫米，橙红色 幼虫刺吸鼠类或人的血，被刺时感觉火烫奇痒，继之呈红斑，或发热，不能安眠 能传染恙虫病（古称沙虱毒）	None	None
+𧍻	None	同=𧍲	None	𧍲
+螋	sou1	[蠼螋]见“蠼(qu2)”	None	None
+𫋌	None	=蟘的类推简化字	None	蟘
+蜵	yuan2	[蜵蜎]曲折深远貌	None	None
+蜵	yuan2	同=蜎 孑孓	None	蜎
+蜵	yun1	[蜵蜎]虫名	None	None
+蝗	huang2	蝗虫 蝗科 躯体大多细长，绿色或黄褐色，前翅一对狭窄而坚韧，后翅一对宽大而柔软，善于飞行；后足强大，适于跳跃 种类很多 常常成群飞翔，吃掉大量农作物的茎叶 如：土蝗；飞蝗；蝗灾	None	None
+𧍭	quan2	[餘𧍭]也作“餘=泉” 贝名	None	泉
+螝	gui1	蛹，昆虫从幼虫过渡到成虫时的一种形态	None	None
+螝	hui3	同=虺 蝮蛇；传说中一身两口的怪蛇	None	虺
+蝺	qu3	好貌	None	None
+蝺	yu3	[蝺僂]也作“=傴僂” 腰背弯曲	None	傴
+䗔	hou2	[螔䗔]见“螔(si1)”	None	None
+䗔	hou4	水中动物名	None	None
+𧍓	shuai4	[蟋𧍓]同“蟋=蟀” 虫名 蟋蟀科	None	蟀
+𧎘	yan2	[蚰𧎘]也作“蚰=蜒” 虫名	None	蜒
+𧍢	yan2	[蚰𧎘]也作“蚰=蜒” 虫名	None	蜒
+𧍢	yan2	虫行貌	None	None
+𧍢	yin3	同=𧓒(蚓)	None	𧓒
+𧍶	lv4	虫名	None	None
+蝓	yu2	[螔蝓]见“螔(yi2)”	None	None
+𧍬	e4	虫名	None	None
+𧎙	jiao3	@	None	None
+𧍕	jue2	[渠𧍕]蜣蜋 一说天社	None	None
+蝯	yuan2	兽名 猴属 也作=猿	None	猿
+𧏇	None	同=蠫	None	蠫
+蝬	zong1	[三蝬]蛤属	None	None
+蝜	fu4	[蝜蠜]也作“=負蠜” 虫名	None	負
+𧎃	cui4	虫名	None	None
+𧍯	feng1	虫窟	None	None
+䗓	cong1	蜻蛉，蜻蜓	None	None
+𧍰	long2	虫名	None	None
+𧍸	None	同=螽	None	螽
+蝏	ting2	[蝏䗒]一种长而狭的蚌，形似马刀	None	None
+蝷	li4	[螇蝷]也作“螇=蚸” 蝗的一种	None	蚸
+蝷	xi1	[蝷易]也作“=蜥易” 爬行动物	None	蜥
+𧍁	None	同=蜨	None	蜨
 𧍝	None	录入中	None	None
 蝱	None	录入中	None	None
 蝣	None	录入中	None	None
