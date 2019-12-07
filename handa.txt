@@ -56225,40 +56225,52 @@
 𧌕	None	同=蝣	None	蝣
 蝫	zhu1	[蜛蝫]也作“蜛蠩” 水中动物，可食	None	None
 𧌉	lu4	[魁𧌉]也作“魁陸” 即蚶子	None	None
-䗀	None	录入中	None	None
-蝁	None	录入中	None	None
-蜞	None	录入中	None	None
-蜝	None	录入中	None	None
-𧌗	None	录入中	None	None
-蜡	None	录入中	None	None
-𧍗	None	录入中	None	None
-𧍷	None	录入中	None	None
-𧍣	None	录入中	None	None
-蝧	None	录入中	None	None
-𧍠	None	录入中	None	None
-𧍙	None	录入中	None	None
-𧍟	None	录入中	None	None
-𧌔	None	录入中	None	None
-𧌨	None	录入中	None	None
-𧎀	None	录入中	None	None
-蜥	None	录入中	None	None
-蜤	None	录入中	None	None
-蜙	None	录入中	None	None
-𧌻	None	录入中	None	None
-蝀	None	录入中	None	None
-蜮	None	录入中	None	None
-𧌒	None	录入中	None	None
-𧌟	None	录入中	None	None
-蜸	None	录入中	None	None
-𧌐	None	录入中	None	None
-蜽	None	录入中	None	None
-𧎔	None	录入中	None	None
-䗁	None	录入中	None	None
-𧌄	None	录入中	None	None
-𧌝	None	录入中	None	None
-𧌥	None	录入中	None	None
-𧌙	None	录入中	None	None
-蜨	None	录入中	None	None
+䗀	cheng1	蛤类动物	None	None
+蝁	e4	腹蛇一类的毒蛇	None	None
+蜞	qi1	[蟛蜞]也作“蟚=蜝”、“蟚蜞”、“彭蜞” 蟹的一种 方蟹科 体小，螯足无毛，红色 穴居水边 能伤害禾苗，损坏田埂和堤岸	None	蜝
+蜞	qi1	水蛭，蚂蟥	None	None
+蜝	None	同=蜞	None	蜞
+𧌗	zou3	虫名	None	None
+蜡	qu4	蝇的幼虫	None	None
+蜡	zha4	古代年终大祭万物	None	None
+蜡	zha4	同=䖳 水母	None	䖳
+蜡	ji2	虫名	None	None
+蜡	la4	=蠟的简化字	None	蠟
+𧍗	None	同=蠚	None	蠚
+𧍷	None	同=蠚	None	蠚
+𧍣	None	同=蠆	None	蠆
+蝧	ying1	[𧓓蝧]虫名 见“𧓓”	None	None
+蝧	ying1	蜂类	None	None
+𧍠	jie2	海中动物名	None	None
+𧍙	fan4	蜂	None	None
+𧍟	mao2	[螌𧍟]也作“螌=蝥” 虫名	None	蝥
+𧌔	zhi1	虫名 似蜥蜴	None	None
+𧌨	None	同=蜥	None	蜥
+𧎀	None	同=蜥	None	蜥
+蜥	xi1	[蜥蜴]也作“蜥易” 俗称“四脚蛇” 爬行动物 身体像蛇，但有四肢，身上有细鳞，脚上有钩爪，尾巴细长，易断，能再生 生活在草丛中，捕食昆虫和其他小动物 种类甚多	None	None
+蜤	si1	[蜤螽]虫名 即螽=斯	None	斯
+蜤	xi1	[蜤蜴]同“=蜥蜴”	None	蜥
+蜙	song1	[蜙蝑]也作“=蚣蝑” 即螽斯	None	蚣
+𧌻	song1	[𧌻蝑]也作“=蚣蝑” 虫名	None	蚣
+蝀	dong1	螮蝀的省称 指虹	None	None
+蜮	yu4	传说中的一种害人动物 如：鬼蜮	None	None
+蜮	yu4	通=𧎢 一种食禾苗的害虫	None	𧎢
+蜮	guo1	同=蟈 蛤蟆	None	蟈
+𧌒	None	同=蜮	None	蜮
+𧌟	None	同=蚪	None	蚪
+蜸	qian3	[蜸蚕]蚯蚓	None	None
+𧌐	ci4	[𧌐𧐎]又名蜚蠊 蟑螂	None	None
+蜽	liang3	[蛧蜽]见“蛧”	None	None
+𧎔	None	同=蟒	None	蟒
+䗁	ji4	蝉名	None	None
+䗁	qi1	长脚蜘蛛	None	None
+𧌄	e4	虫名	None	None
+𧌄	ye4	[𧌄蝶]蝴蝶	None	None
+𧌝	tong2	赤色	None	None
+𧌥	None	同=蜥	None	蜥
+𧌙	min2	虫名	None	None
+蜨	die2	同=蝶 蝴蝶	None	蝶
+蜨	die2	一种海蟹	None	None
 䗃	None	录入中	None	None
 𧌩	None	录入中	None	None
 𧌼	None	录入中	None	None
