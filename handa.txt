@@ -55976,36 +55976,51 @@
 𧊗	None	同=餌	None	餌
 蛬	qiong2	同=蛩 蟋蟀	None	蛩
 𧊮	None	同=蛬	None	蛬
-蛨	None	录入中	None	None
-蛕	None	录入中	None	None
-𧊘	None	录入中	None	None
-𧊥	None	录入中	None	None
-𧊑	None	录入中	None	None
-蛚	None	录入中	None	None
-𧊿	None	录入中	None	None
-蛱	None	录入中	None	None
-蛦	None	录入中	None	None
-蛲	None	录入中	None	None
-𧊪	None	录入中	None	None
-蛭	None	录入中	None	None
-䖪	None	录入中	None	None
-蛳	None	录入中	None	None
-𧊨	None	录入中	None	None
-𧊠	None	录入中	None	None
-𧊣	None	录入中	None	None
-䖵	None	录入中	None	None
-蛐	None	录入中	None	None
-𧊚	None	录入中	None	None
-𧊭	None	录入中	None	None
-𧊩	None	录入中	None	None
-𧋏	None	录入中	None	None
-蛔	None	录入中	None	None
-蛧	None	录入中	None	None
-蛛	None	录入中	None	None
-𧊦	None	录入中	None	None
-蜓	None	录入中	None	None
-蛞	None	录入中	None	None
-𫊸	None	录入中	None	None
+⿱亚虫	None	=蝁的类推简化字	None	蝁
+⿰虫过	None	=𧒖的类推简化字	None	𧒖
+蛨	mo4	[虴蛨]虫名 灰蚱蜢	None	None
+蛕	hui2	同=蛔	None	蛔
+蛕	hui3	毒虫名	None	None
+𧊘	ku4	虫名	None	None
+𧊥	xu4	海蟀	None	None
+𧊑	None	=蛖的讹字	None	蛖
+蛚	lie4	[蜻蛚]见“蜻(jing1)”	None	None
+𧊿	None	同=蛚	None	蛚
+蛱	None	=蛺的简化字	None	蛺
+蛦	yi2	[𧒀蛦]见“𧒀”	None	None
+蛲	None	=蟯的简化字	None	蟯
+𧊪	None	同=𧈦	None	𧈦
+蛭	zhi4	蚂蟥 环节动物 体一般长而扁平，略似蚯蚓，前后各有一个吸盘 生活在淡水或湿润处，能吸人畜的血 如：水蛭；泥蛭；草蛭；山蛭	None	None
+蛭	zhi4	兽名	None	None
+蛭	zhi4	通=垤(die2) 小山丘	None	垤
+蛭	zhi4	姓	None	None
+䖪	zi1	虫	None	None
+䖪	zi1	蹈	None	None
+䖪	zi1	虫名 似蝉	None	None
+䖪	zi1	同=𪕊	None	𪕊
+䖪	ci1	同=蠀	None	蠀
+蛳	None	=螄的简化字	None	螄
+𬠅	None	=蟷的了天津站	None	蟷
+𧊨	None	同=蚦(蚺)	None	蚦
+𧊠	yu2	同=蝓	None	蝓
+𧊠	shu1	[蠼𧊠]多足虫	None	None
+𧊣	yi4	虫名	None	None
+䖵	kun1	虫类的总称	None	None
+蛐	qu1	[蛐蟮]也作“=曲蟮”、“曲蟺” 即蚯蚓	None	曲
+𧊚	tong2	虫名	None	None
+𧊭	yin1	[𧊭䗸]即“=蠮螉” 细腰蜂	None	蠮
+𧊩	None	同=䗬(蜂)	None	䗬
+𧋏	yi4	虫行貌	None	None
+蛔	hui2	蛔虫 人或家畜肠内的一种寄生虫 蛔虫科 形状像蚯蚓，白色或米黄色，卵随粪便排出体外，进入土壤，附在蔬菜或饮水中，如被人、畜吞下，又可发育成成虫，造成疾病	None	None
+⿰虫岂	None	=螘的类推简化字	None	螘
+蛧	wang3	[蛧蜽]也作“=魍魉” 传说中的精怪名	None	魍
+蛛	zhu1	蜘蛛	None	None
+𧊦	fou3	蚕卧	None	None
+蜓	dian4	[蝘蜓]见“蝘”	None	None
+蜓	ting2	[蜓蚞]又名“螇螰” 蝉名	None	None
+蛞	kuo4	[蛞螻]蝼蛄	None	None
+蛞	she2	[蛞蚗]也作“蛥蚗” 蝉名	None	None
+𫊸	None	=蟜的类推简化字	None	蟜
 蜒	None	录入中	None	None
 蜑	None	录入中	None	None
 蛜	None	录入中	None	None
