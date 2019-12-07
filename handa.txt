@@ -56352,53 +56352,77 @@
 蜰	fei2	臭虫 又名床虱，壁虱 臭虫科 身体扁平，红棕色，头短，腹大，有触角 体内有臭腺，能放出臭味 白天栖息于墙、床、家具等缝隙中，夜晚活动，刺吸人畜血液	None	None
 蜰	fei4	[蜰𧔥]传说中的神蛇	None	None
 𧌘	fei4	[𧌘𧔥]即“=蜰𧔥” 传说中的神蛇	None	蜰
-蜩	None	录入中	None	None
-𧍀	None	录入中	None	None
-蜪	None	录入中	None	None
-蜭	None	录入中	None	None
-䗇	None	录入中	None	None
-𫋇	None	录入中	None	None
-𧌬	None	录入中	None	None
-蜳	None	录入中	None	None
-𧌊	None	录入中	None	None
-蜶	None	录入中	None	None
-𧍄	None	录入中	None	None
-𧌃	None	录入中	None	None
-䗈	None	录入中	None	None
-蜟	None	录入中	None	None
-蜷	None	录入中	None	None
-䗒	None	录入中	None	None
-蝉	None	录入中	None	None
-䗊	None	录入中	None	None
-䗆	None	录入中	None	None
-𧌆	None	录入中	None	None
-蜿	None	录入中	None	None
-䗕	None	录入中	None	None
-蜜	None	录入中	None	None
-螂	None	录入中	None	None
-蜧	None	录入中	None	None
-𧌍	None	录入中	None	None
-𧌈	None	录入中	None	None
-蜛	None	录入中	None	None
-𧌑	None	录入中	None	None
-蜢	None	录入中	None	None
-蜬	None	录入中	None	None
-𧌡	None	录入中	None	None
-𧌣	None	录入中	None	None
-𧍂	None	录入中	None	None
-𧌦	None	录入中	None	None
-蝃	None	录入中	None	None
-蝳	None	录入中	None	None
-䗋	None	录入中	None	None
-𧏤	None	录入中	None	None
-𧎣	None	录入中	None	None
-蝶	None	录入中	None	None
-䗖	None	录入中	None	None
-𧏥	None	录入中	None	None
-蝾	None	录入中	None	None
-蝴	None	录入中	None	None
-𧍵	None	录入中	None	None
-𧍾	None	录入中	None	None
+蜩	tiao2	蝉名	None	None
+蜩	tiao2	兽名	None	None
+蜩	diao4	[蜩蟉]龙首动貌	None	None
+𧍀	shi3	@	None	None
+𧍀	li3	@	None	None
+蜪	tao4	[蝮蜪]蝗的幼虫	None	None
+蜪	tao4	蜪伴 伙伴、同伴	None	None
+蜭	han4	毛虫 有毒，螫人	None	None
+䗇	ju2	[䗇鼀]蟾蜍	None	None
+䗇	qu1	蚯蚓	None	None
+𫋇	None	=蟂的类推简化字	None	蟂
+𧌬	None	同=𧐑(𧎾)	None	𧐑
+蜳	dun1	[螴蜳]见“螴”	None	None
+蜳	tun1	[蜳𧍪]也作“=𧑒𧍪” 虫名	None	𧑒
+𧌊	xie4	同=蝑 蟹酱	None	蝑
+蜶	suo4	虫名	None	None
+𧍄	None	向前行进的样子	None	None
+𧌃	za1	虫多貌	None	None
+䗈	None	同=蝱	None	蝱
+蜟	yu4	[蝮蜟]也作“復蜟”、“復=育” 1.蝉的幼虫 2.蝉蜕下的壳	None	育
+蜷	quan2	虫形诘屈	None	None
+蜷	quan2	屈曲；弯曲	None	None
+䗒	bing4	[蝏䗒]见“蝏”	None	None
+蝉	None	=蟬的简化字	None	蟬
+䗊	tan4	[蚦䗊]也作“=蚺䗊”、“=舑舕” 吐舌的样子	None	蚺
+䗆	guan3	雨下虫名	None	None
+䗆	guan1	蚂蚁	None	None
+𧌆	kong1	蝉蜕	None	None
+𧌆	kong1	虫蜕	None	None
+蜿	wan1	动貌	None	None
+蜿	wan1	弯曲，不直	None	None
+蜿	wan3	[蜿蟺]1.屈曲盘旋 2.蚯蚓的别名	None	None
+䗕	None	同=蜿	None	蜿
+蜜	mi4	蜂蜜	None	None
+蜜	mi4	像蜂蜜的东西 如：糖蜜	None	None
+蜜	mi4	甜美 如：甜言蜜语	None	None
+蜜	mi4	赤蜂名	None	None
+蜜	mi4	螟子 又名蜜虫	None	None
+蜜	mi4	用同=密 精到细致	None	密
+螂	lang2	[螳螂]见“螳”	None	None
+蜧	li4	传说中的一种神蛇 也作=蜦	None	蜦
+蜧	li4	大虾蟆	None	None
+𧌍	lu4	[𧌍聽]虫名 似蜥蜴，居树上，常下树伤人	None	None
+𧌈	fu4	[鼠𧌈]也作“𧑓蝜” 即蛜蝛	None	None
+蜛	ju1	[蜛蠩]也作“蜛蝫” 1.一种水生动物 2.虾蟆	None	None
+𧌑	qu1	[蛣𧌑]见“蛣”	None	None
+蜢	meng3	[蚱蜢]见“蚱”	None	None
+蜢	meng4	蛤蟆、青蛙和蟾蜍的统称	None	None
+蜬	han2	小螺	None	None
+蜬	han2	小贝	None	None
+𧌡	None	同=虱	None	虱
+𧌣	er3	小虫	None	None
+𧍂	xiao2	@	None	None
+𧌦	None	同=䖟	None	䖟
+蝃	di4	[蝃蝀]也作“=螮蝀” 虹	None	螮
+蝃	zhuo1	[蝃蝥]蜘蛛的一种	None	None
+蝳	du2	[蝳蜍]蜘蛛	None	None
+蝳	dai4	[蝳蝐]也作“=玳瑁”、“瑇瑁”一种爬行动物，形似龟	None	玳
+⿰虫贲	None	=蟦的类推简化字	None	蟦
+䗋	mou2	[蝤䗋]也作“蝤=蛑” 梭子蟹	None	蛑
+𧏤	None	同=茿	None	茿
+𧎣	rong2	虫名	None	None
+𧎣	rong2	虫行貌	None	None
+蝶	die2	蝴蝶	None	None
+蝶	tie1	[蝶𧌏]虫名	None	None
+䗖	None	=螮的类推简化字	None	螮
+𧏥	jie2	水中动物名	None	None
+蝾	None	=蠑的简化字	None	蠑
+蝴	hu2	[蝴蝶]也作“=胡蝶” 虫名 翅膀阔大，腹部细长 静止时四翅竖立在背部 喜在花间草地飞行，吸食花蜜 种类很多，如粉蝶、蛱蝶、黄蝶、凤蝶等等	None	胡
+𧍵	hu2	蜂属	None	None
+𧍾	None	同=蟗	None	蟗
 蝻	None	录入中	None	None
 螆	None	录入中	None	None
 蝘	None	录入中	None	None
