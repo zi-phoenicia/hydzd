@@ -55937,26 +55937,45 @@
 蛁	diao1	蛁蟟，蝉名 黑色，腹面淡绿色，前后翅透明，中胸背板上有十字形隆起斑纹 夏秋之际出来鸣叫	None	None
 蚾	pi2	虫名	None	None
 蚾	bo3	[蚵蚾]1.蟾蜍类 2.䗪虫	None	None
-蛏	None	录入中	None	None
-𧉤	None	录入中	None	None
-𧉟	None	录入中	None	None
-䖥	None	录入中	None	None
-𧉯	None	录入中	None	None
-蚴	None	录入中	None	None
-䖱	None	录入中	None	None
-蛪	None	录入中	None	None
-𧊖	None	录入中	None	None
-𧊞	None	录入中	None	None
-𧊕	None	录入中	None	None
-蛙	None	录入中	None	None
-䖯	None	录入中	None	None
-蛣	None	录入中	None	None
-蛩	None	录入中	None	None
-蛰	None	录入中	None	None
-蛓	None	录入中	None	None
-𧊗	None	录入中	None	None
-蛬	None	录入中	None	None
-𧊮	None	录入中	None	None
+⿰虫𠬤	None	=蠌的类推简化字	None	蠌
+蛏	None	=蟶的简化字	None	蟶
+⿰虫𢀖	None	=蛵的类推简化字	None	蛵
+𧉤	fan4	虫名	None	None
+𧉟	tai1	黑贝 也作=貽	None	貽
+䖥	None	同=蟊	None	蟊
+𧉯	None	同=䱕	None	䱕
+蚴	you3	[蚴虬]龙形蜿曲貌	None	None
+蚴	you4	绦虫、吸血虫、线虫等的幼体 如：毛蚴；胞蚴；尾蚴	None	None
+蚴	niu4	动，改变原来的位置或状态	None	None
+䖱	kuang1	海中大虾	None	None
+蛪	qie4	[蛪蚼]虫名 似蝉而小	None	None
+蛪	qie4	虫名	None	None
+蛪	ni2	同=蜺(霓) 虹的一种	None	蜺
+𧊖	shi4	[𧊖䘃]也作“=蟙䘃” 即蝙蝠	None	蟙
+𧊞	xing2	虫名	None	None
+𧊕	song1	虫名	None	None
+蛙	wa1	两栖动物 无尾，后肢长，前肢短，趾有蹼，善于跳跃和泅水 捕食昆虫，对农业有益 种类很多，青蛙是常见的一种	None	None
+蛙	wa1	淫邪	None	None
+蛙	jue2	[蝭蛙]也作“題=鴂” 子归鸟	None	鴂
+䖯	kui2	蝎子一类毒虫	None	None
+䖯	kui2	同=奎 星名，二十八宿之一	None	奎
+䖯	wa1	同=蛙	None	蛙
+蛣	jie2	[蛣𧌑]也作“蛣䖦” 又名蝎 木中蛀虫	None	None
+蛣	jie2	蝉名	None	None
+蛣	jie2	[蛣蜣]蜣蜋	None	None
+蛣	qie2	[𧎫蛣]也作“璅蛣” 又名海镜 省称蛣 蚌的一种，体内常有小蟹寄生	None	None
+蛣	qie2	蚌之小者	None	None
+蛩	qiong2	[蛩蛩]1.古代传说中的异兽，青色，状如马 2.忧思的样子	None	None
+蛩	qiong2	蝉蛻	None	None
+蛩	qiong2	蝗虫	None	None
+蛩	qiong2	蟋蟀	None	None
+蛩	qiong2	象声词 足步声	None	None
+蛩	gong3	蚰蜒	None	None
+蛰	None	=蟄的简化字	None	蟄
+蛓	ci4	毛虫 刺蛾科黄刺蛾的幼虫，俗称“洋辣子” 体侧生丛刺，能螫人，茧壳坚硬，状如雀卵，胶着在树枝或树干上 食树叶，对树木危害很大	None	None
+𧊗	None	同=餌	None	餌
+蛬	qiong2	同=蛩 蟋蟀	None	蛩
+𧊮	None	同=蛬	None	蛬
 蛨	None	录入中	None	None
 蛕	None	录入中	None	None
 𧊘	None	录入中	None	None
