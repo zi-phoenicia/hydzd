@@ -56610,44 +56610,60 @@
 𧎽	None	同=䗯	None	䗯
 螒	han4	纺织娘 昆虫 螽斯科，褐色或绿色，头小，善跳跃，鸣声如纺车的声音 生活在草地里，吃青草和树叶等	None	None
 螙	None	同=蠹	None	蠹
-𧎳	None	录入中	None	None
-𧐖	None	录入中	None	None
-䗚	None	录入中	None	None
-𧎺	None	录入中	None	None
-𧐒	None	录入中	None	None
-𧏋	None	录入中	None	None
-螎	None	录入中	None	None
-融	None	录入中	None	None
-𧏆	None	录入中	None	None
-𧏦	None	录入中	None	None
-螈	None	录入中	None	None
-𧏐	None	录入中	None	None
-𧏿	None	录入中	None	None
+𧎳	suo3	虫名	None	None
+𧐖	lian2	[蜷𧐖]也作“𧐖蜷” 盘曲貌	None	None
+𧐖	lian4	[赤𧐖]蛇名	None	None
+䗚	bo2	[䗚蟭]螵蛸 螳蜋的卵块	None	None
+𧎺	ge1	虫名	None	None
+𧐒	su4	[䗱𧐒]见“䗱(pu2)”	None	None
+𧏋	qiu1	[次𧏋]蜘蛛	None	None
+螎	None	同=融	None	融
+融	rong2	炊气上出	None	None
+融	rong2	大明；大亮	None	None
+融	rong2	昌盛	None	None
+融	rong2	融化；消融	None	None
+融	rong2	融合；调和 如：融会贯通；水乳交融	None	None
+融	rong2	和乐；恬适	None	None
+融	rong2	流通 如：金融	None	None
+融	rong2	长久	None	None
+融	rong2	火神祝融的省称	None	None
+融	rong2	姓	None	None
+𧏆	dou3	蝌蚪	None	None
+𧏦	None	同=蠕	None	蠕
+螈	yuan2	[蠑螈]见“蠑”	None	None
+螈	yuan2	同=𧔞	None	𧔞
+𧏐	None	同=𧔞	None	𧔞
+𧏿	zhu2	[馬𧏿]也作“馬蚰” 即马陆	None	None
 𧏔	None	录入中	None	None
-螶	None	录入中	None	None
-𧎢	None	录入中	None	None
-𧎲	None	录入中	None	None
-𧎾	None	录入中	None	None
-𧎫	None	录入中	None	None
-𧏻	None	录入中	None	None
-𧏒	None	录入中	None	None
-𧏧	None	录入中	None	None
-𧏈	None	录入中	None	None
-螘	None	录入中	None	None
-𧎯	None	录入中	None	None
-𧎵	None	录入中	None	None
-𧏨	None	录入中	None	None
-𧎬	None	录入中	None	None
-䗢	None	录入中	None	None
-䗗	None	录入中	None	None
-䗛	None	录入中	None	None
-螑	None	录入中	None	None
-𧎭	None	录入中	None	None
-螅	None	录入中	None	None
-螐	None	录入中	None	None
-螄	None	录入中	None	None
-𧏍	None	录入中	None	None
-螕	None	录入中	None	None
+螶	qu2	[螶𧎾]也作“=渠略” 蜉蝣别名	None	渠
+螶	ju4	兽名	None	None
+𧎢	None	同=蟘	None	蟘
+𧎲	zu2	[𧎲𧎲]虫集貌	None	None
+𧎾	lve4	[螶𧎾]甲你“螶”	None	None
+𧎫	suo3	[𧎫蛣]也作“=璅蛣” 即海镜 见“蛣”	None	璅
+𧏻	bi4	虫名	None	None
+𧏒	None	同=蛬	None	蛬
+𧏧	hui4	@	None	None
+𧏈	None	同=蝒	None	蝒
+螘	yi3	同=蟻	None	蟻
+𬠠	None	=蠈的类推简化字	None	蠈
+𧎯	que1	[蛚𧎯]闪电 古籍多作“列=𡙇”、“列=缺”、“烈缺”	None	𡙇
+𧎵	xi4	虫名 似蝟	None	None
+𧏨	None	同=𧎵	None	𧎵
+𧎬	None	同=𧎢	None	𧎢
+䗢	zao3	同=蚤 跳蚤	None	蚤
+䗗	ji1	蛾子 一种和蝴蝶相似的昆虫	None	None
+䗗	ji1	萤火虫	None	None
+䗛	xiu1	虫名	None	None
+螑	xiu1	[赳螑]龙伸颈行走貌	None	None
+𧎭	ye4	虫名	None	None
+螅	xi1	[螅蟀]也作“=蟋蟀” 虫名	None	蟋
+螅	ci4	同=蛓	None	蛓
+螐	wu1	[螐蠋]也作“=烏蠋” 蛾蝶类的幼虫	None	烏
+螄	si1	螺蛳 田螺科若干小型种的通称 贝壳有环棱，也有壳面有棘状或乳头状突起的 可供食用	None	None
+𧏍	None	同=螄	None	螄
+螕	bi1	寄生在牛马鸡犬等牲畜身上的一种吸血昆虫 如牛虱、狗虱等	None	None
+螕	pi1	[螕蜉]也作“=蚍蜉” 大蚂蚁	None	蚍
 𧏩	None	录入中	None	None
 𧏀	None	录入中	None	None
 𧏕	None	录入中	None	None
