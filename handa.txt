@@ -56223,8 +56223,8 @@
 蝅	None	同=蠶	None	蠶
 䗅	chang2	[䗅𧕯]蚰蜒	None	None
 𧌕	None	同=蝣	None	蝣
-蝫	None	录入中	None	None
-𧌉	None	录入中	None	None
+蝫	zhu1	[蜛蝫]也作“蜛蠩” 水中动物，可食	None	None
+𧌉	lu4	[魁𧌉]也作“魁陸” 即蚶子	None	None
 䗀	None	录入中	None	None
 蝁	None	录入中	None	None
 蜞	None	录入中	None	None
