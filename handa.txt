@@ -56523,10 +56523,12 @@
 蝷	li4	[螇蝷]也作“螇=蚸” 蝗的一种	None	蚸
 蝷	xi1	[蝷易]也作“=蜥易” 爬行动物	None	蜥
 𧍁	None	同=蜨	None	蜨
-𧍝	None	录入中	None	None
-蝱	None	录入中	None	None
-蝣	None	录入中	None	None
-䗐	None	录入中	None	None
+𧍝	ti2	[𧍝蟧]也作“=蝭蟧” 蝉名	None	蝭
+蝱	meng2	同=虻	None	虻
+蝱	meng2	贝母 也作=𦯶	None	𦯶
+蝱	meng2	传说中的怪鸟名	None	None
+蝣	you2	昆虫名 蜉蝣的省称	None	None
+䗐	shi1	[蛄䗐]米象，米中蛀虫	None	None
 𧏙	None	录入中	None	None
 蝼	None	录入中	None	None
 蝤	None	录入中	None	None
