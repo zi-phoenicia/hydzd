@@ -56043,11 +56043,17 @@
 蛤	ha2	蛤蟆 青蛙和蟾蜍的统称	None	None
 蛤	ha1	含油的食物变质涩口	None	None
 蛤	e4	虫名	None	None
-𧊧	None	录入中	None	None
-䖴	None	录入中	None	None
-蛫	None	录入中	None	None
-䖲	None	录入中	None	None
-𧊙	None	录入中	None	None
+𧊧	ge2	同=蛤	None	蛤
+𧊧	e4	虫	None	None
+䖴	yao2	虫名	None	None
+䖴	yao2	同=珧 一种海蚌 通称“江珧”	None	珧
+蛫	gui3	蟹属	None	None
+蛫	gui3	传说中的异兽 状如龟，白身赤首	None	None
+蛫	gui3	猿类	None	None
+蛫	gui3	鼠妇虫	None	None
+䖲	xun2	虫名	None	None
+䖲	zong1	[蛪䖲]虫名	None	None
+𧊙	zhi3	虫名	None	None
 蛒	None	录入中	None	None
 蛥	None	录入中	None	None
 𧊤	None	录入中	None	None
