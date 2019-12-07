@@ -56219,9 +56219,10 @@
 蜯	bang4	同=蚌	None	蚌
 蜻	jing1	[蜻蛚]蟋蟀	None	None
 蜻	qing1	蜻蜓，蜻蛉 身体细长，胸部有翅两对 生活在水边，捕食蚊子等小飞虫 幼虫叫水虿 今生物学分蜻蜓、蜻蛉为二	None	None
-蝅	None	录入中	None	None
-䗅	None	录入中	None	None
-𧌕	None	录入中	None	None
+⿰虫责	None	=𧐐的类推简化字	None	𧐐
+蝅	None	同=蠶	None	蠶
+䗅	chang2	[䗅𧕯]蚰蜒	None	None
+𧌕	None	同=蝣	None	蝣
 蝫	None	录入中	None	None
 𧌉	None	录入中	None	None
 䗀	None	录入中	None	None
