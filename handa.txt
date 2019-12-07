@@ -56038,8 +56038,11 @@
 𧊔	yan3	[螾𧊔]蚰蜒	None	None
 䖰	pai4	[蠓䖰]小飞虫	None	None
 𧊓	None	同=蜩	None	蜩
-𧊲	None	录入中	None	None
-蛤	None	录入中	None	None
+𧊲	None	[𧖣𧊲]古籍中指像龙的动物 古代塑其形象于殿脊上	None	None
+蛤	ge2	蛤蜊、文蛤等瓣鳃纲软体动物 产于浅海泥沙中，也可以人工养殖 古人认为由燕雀等变化而成	None	None
+蛤	ha2	蛤蟆 青蛙和蟾蜍的统称	None	None
+蛤	ha1	含油的食物变质涩口	None	None
+蛤	e4	虫名	None	None
 𧊧	None	录入中	None	None
 䖴	None	录入中	None	None
 蛫	None	录入中	None	None
@@ -56047,7 +56050,6 @@
 𧊙	None	录入中	None	None
 蛒	None	录入中	None	None
 蛥	None	录入中	None	None
-蛮	None	录入中	None	None
 𧊤	None	录入中	None	None
 蛴	None	录入中	None	None
 蛟	None	录入中	None	None
