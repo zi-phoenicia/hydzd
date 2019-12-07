@@ -56423,22 +56423,29 @@
 蝴	hu2	[蝴蝶]也作“=胡蝶” 虫名 翅膀阔大，腹部细长 静止时四翅竖立在背部 喜在花间草地飞行，吸食花蜜 种类很多，如粉蝶、蛱蝶、黄蝶、凤蝶等等	None	胡
 𧍵	hu2	蜂属	None	None
 𧍾	None	同=蟗	None	蟗
-蝻	None	录入中	None	None
-螆	None	录入中	None	None
-蝘	None	录入中	None	None
-蝲	None	录入中	None	None
-蝠	None	录入中	None	None
-䗎	None	录入中	None	None
-𧍔	None	录入中	None	None
-𧍴	None	录入中	None	None
-𧍧	None	录入中	None	None
-𧎞	None	录入中	None	None
-蝛	None	录入中	None	None
-蝢	None	录入中	None	None
-𧍹	None	录入中	None	None
-蝒	None	录入中	None	None
-蝡	None	录入中	None	None
-蝰	None	录入中	None	None
+蝻	nan3	蝗的幼虫 形似成虫而较小，头大，仅有翅芽 常成群吃稻、麦、玉米等禾本科植物 如：蝗蝻；除蝻；蝻子	None	None
+螆	ci4	[螆蛦]也作“=兹夷” 即蟕蠵 龟属 背壳分为十余枚，相互密接，同人的掌纹相似，所以称为螆蛦掌	None	兹
+螆	ci4	同=蛓	None	蛓
+蝘	yan3	[蝘蜓]壁虎 又名“守宫” 壁虎科 背面暗灰色，有黑色带状斑纹，尾巴圆锥形，易断，多能再生 常在屋壁宫墙活动，捕食蜘蛛、蚊、蝇等小动物 古籍多与蜥蜴、蝾螈等通称	None	None
+蝘	yan3	蝉的一种	None	None
+蝘	yan3	如=鼹、=鼴 鼠的一类	None	鼹
+蝲	la4	[蝲蟽]1.虫名 2.不干净	None	None
+⿱剌虫	None	同=蝲	None	蝲
+蝠	fu2	蝙蝠	None	None
+蝠	fu2	用同=蝮	None	蝮
+䗎	yan1	虫名	None	None
+𧍔	yao1	毒蛇名	None	None
+𧍴	lian3	[赤𧍴]同“赤=𧐖” 蛇名	None	𧐖
+𧍧	None	同=螊	None	螊
+𧎞	None	同=蚌	None	蚌
+蝛	wei1	[蛜蝛]虫名 省称“蝛”	None	None
+蝢	xie2	[肸蝢]即月氏，古西域国名	None	None
+𧍹	None	同=蝒	None	蝒
+蝒	mian2	蚱蝉	None	None
+蝡	ruan3	蠕动 也作=蠕	None	蠕
+蝡	ruan3	蛇名	None	None
+蝰	kui2	蛹名	None	None
+蝰	kui2	蝰蛇 毒蛇的一种 有黑斑蝰蛇、白蝰、青蝰等种类	None	None
 𧍿	None	录入中	None	None
 𧍺	None	录入中	None	None
 蝔	None	录入中	None	None
