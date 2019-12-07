@@ -56021,17 +56021,23 @@
 蛞	kuo4	[蛞螻]蝼蛄	None	None
 蛞	she2	[蛞蚗]也作“蛥蚗” 蝉名	None	None
 𫊸	None	=蟜的类推简化字	None	蟜
-蜒	None	录入中	None	None
-蜑	None	录入中	None	None
-蛜	None	录入中	None	None
-𧊰	None	录入中	None	None
-蛗	None	录入中	None	None
-䖮	None	录入中	None	None
-𧊛	None	录入中	None	None
-𧊽	None	录入中	None	None
-𧊔	None	录入中	None	None
-䖰	None	录入中	None	None
-𧊓	None	录入中	None	None
+蜒	yan2	蜿蜒，龙蛇爬行貌	None	None
+蜒	yan2	蜒蚰 又名“蛞蝓”、“鼻涕虫” 蛞蝓科 形似去壳蜗牛，有两对触角，身体能分泌粘液，爬行后常留下银白色条痕 是农作物的害虫	None	None
+蜒	yan4	蟃蜒 兽名	None	None
+蜒	dan4	同=蜑	None	蜑
+蜑	dan4	我国古代南方少数民族名	None	None
+蜑	dan4	我国南方以舟楫为家、从事渔业的水上居民	None	None
+蜑	dan4	蜑民的船	None	None
+蜑	dan4	同=蛋 禽类或龟蛇等所产的卵	None	蛋
+蛜	yi1	[蛜蝛]也作“蛜威” 鼠妇虫 俗称地鸡、地虱 潮虫科 体椭圆形，灰褐色，生活在路上潮湿处	None	None
+𧊰	None	同=蛜	None	蛜
+蛗	fu4	[蛗螽]也作“=阜螽” 蚱蜢	None	阜
+䖮	None	同=蠁	None	蠁
+𧊛	qu2	同=蚼 大蚂蚁	None	蚼
+𧊽	xing2	@	None	None
+𧊔	yan3	[螾𧊔]蚰蜒	None	None
+䖰	pai4	[蠓䖰]小飞虫	None	None
+𧊓	None	同=蜩	None	蜩
 𧊲	None	录入中	None	None
 蛤	None	录入中	None	None
 𧊧	None	录入中	None	None
