@@ -55897,32 +55897,46 @@
 蚼	qu2	[玄蚼]大蚂蚁	None	None
 蚼	xu4	同=𧏺	None	𧏺
 䖤	None	同=蜿	None	蜿
-蚫	None	录入中	None	None
-蛀	None	录入中	None	None
-𧉶	None	录入中	None	None
-蚿	None	录入中	None	None
-䖫	None	录入中	None	None
-𧉞	None	录入中	None	None
-𧉢	None	录入中	None	None
-𧉴	None	录入中	None	None
-𧉡	None	录入中	None	None
-蛇	None	录入中	None	None
-𧉵	None	录入中	None	None
-𧊢	None	录入中	None	None
-䖩	None	录入中	None	None
-𧊯	None	录入中	None	None
-𧉠	None	录入中	None	None
-蚭	None	录入中	None	None
-𧉬	None	录入中	None	None
-𧊈	None	录入中	None	None
-𧉳	None	录入中	None	None
-蛋	None	录入中	None	None
-蚩	None	录入中	None	None
-䖦	None	录入中	None	None
-𧉭	None	录入中	None	None
-𧉪	None	录入中	None	None
-蛁	None	录入中	None	None
-蚾	None	录入中	None	None
+蚫	bao4	同=鮑 鳆的俗名	None	鮑
+蚫	pao2	@	None	None
+蛀	zhu4	蛀虫	None	None
+蛀	zhu4	（蛀虫）咬坏	None	None
+𧉶	None	同=蛀	None	蛀
+蚿	xian2	马蚿 又名马陆、百足 节肢动物，山蛩虫科 身体圆长，长寸余，由很多环节组成，各节有足一至二对，背面有黄黑色相间的环纹，如果用东西碰它，就会蜷缩成环形，放出臭味 生活在阴湿的地方，食腐殖质，有时会损害农作物 古人误认为它有发声器能发出鸣声	None	None
+䖫	bang4	同=蚌	None	蚌
+𧉞	zhu3	虫名	None	None
+𧉢	xue2	虫名	None	None
+𧉴	None	同=蜜	None	蜜
+𧉡	rong3	小虫行	None	None
+蛇	she2	爬行动物 身体圆而细长，有鳞，无四肢，以肋骨自由伸缩而行 有的有毒，有的无毒 种类甚多 捕食蛙等小动物，大蛇也能吞食较大的动物	None	None
+蛇	she2	星名	None	None
+蛇	she2	人的生年的十二属相之一 在干支纪年法中，凡地支“巳”的年分，即为蛇年 凡在蛇年生的人，即属蛇	None	None
+蛇	she2	蛇山的省称 在今湖北省武汉市 以山形蜿蜒如蛇得名	None	None
+蛇	she2	姓	None	None
+蛇	yi2	[委蛇]见“委”	None	None
+蛇	tuo3	尺蠖	None	None
+蛇	chi2	[毆蛇]地名 在今山东省宁阳县东北	None	None
+𧉵	None	同=蚅	None	蚅
+𧊢	None	=蚻的讹字	None	蚻
+䖩	bi4	蜂名	None	None
+𧊯	None	=𧋔的讹字	None	𧋔
+𧉠	None	同=蛓	None	蛓
+蚭	ni2	[䖡蚭]见“䖡”	None	None
+𧉬	None	同=蟁(蚊)	None	蟁
+𧊈	None	同=蟁(蚊)	None	蟁
+𧉳	None	同=蚌	None	蚌
+蛋	dan4	禽类或龟、蛇等所产的卵	None	None
+蛋	dan4	形状像蛋的东西 如：石蛋；脸蛋；山药蛋	None	None
+蛋	dan4	骂人的话 1.放在某些形容词或名词的后面，组成代表人的词 含贬义 如：混蛋；糊涂蛋；王八蛋 2.放在某些动词后面，使那个动作带贬义 如：捣蛋；滚蛋	None	None
+蛋	dan4	同=蜑	None	蜑
+䖦	qu1	[蛣䖦]见“蛣”	None	None
+䖦	zhuo1	[䖦蟱]蜘蛛的一种	None	None
+𧉭	nu3	[水𧉭]也作“水=弩” 又名蜮 传说中的一种害人动物	None	弩
+𧉪	jia1	米中小黑甲虫	None	None
+蛁	diao1	虫名	None	None
+蛁	diao1	蛁蟟，蝉名 黑色，腹面淡绿色，前后翅透明，中胸背板上有十字形隆起斑纹 夏秋之际出来鸣叫	None	None
+蚾	pi2	虫名	None	None
+蚾	bo3	[蚵蚾]1.蟾蜍类 2.䗪虫	None	None
 蛏	None	录入中	None	None
 𧉤	None	录入中	None	None
 𧉟	None	录入中	None	None
