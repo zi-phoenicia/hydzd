@@ -56529,25 +56529,36 @@
 蝱	meng2	传说中的怪鸟名	None	None
 蝣	you2	昆虫名 蜉蝣的省称	None	None
 䗐	shi1	[蛄䗐]米象，米中蛀虫	None	None
-𧏙	None	录入中	None	None
-蝼	None	录入中	None	None
-蝤	None	录入中	None	None
-蟡	None	录入中	None	None
-蝖	None	录入中	None	None
-𧍱	None	录入中	None	None
-𧎡	None	录入中	None	None
-䗏	None	录入中	None	None
-蝙	None	录入中	None	None
-𧍮	None	录入中	None	None
-䗝	None	录入中	None	None
-𧍦	None	录入中	None	None
-𧐆	None	录入中	None	None
-蝦	None	录入中	None	None
-𧎂	None	录入中	None	None
-蝨	None	录入中	None	None
-𧍫	None	录入中	None	None
-蝞	None	录入中	None	None
-蝑	None	录入中	None	None
+𧏙	None	同=蜣	None	蜣
+蝼	None	同=螻	None	螻
+蝤	qiu2	[蝤蠐]天牛的幼虫 天牛科 黄白色，身长足短，呈圆筒形 蛀食树木枝干，是森林、桑树和果树的主要害虫	None	None
+蝤	jiu1	[蝤蛑]梭子蟹 蝤蛑科 头胸甲宽大，一般呈梭形 后组扁平似桨，适于游泳 常群栖浅海海底 肉味鲜美	None	None
+蝤	you2	[蜉蝤]也作“蜉=蝣” 虫名	None	蝣
+蝖	xuan1	[蝖螜]又名“蠀螬” 即蛴螬 金龟子的幼虫	None	None
+蝖	xuan1	虫行动貌	None	None
+𧍱	die2	[𧍱蟷]也作“=螲蟷” 一种生活在地下的蜘蛛	None	螲
+𧎡	gong1	[守𧎡]也作“守=宫” 壁虎	None	宫
+䗏	sou1	[蛷䗏]也作“蠼螋” 昆虫名	None	None
+蝙	bian1	[蝙蝠]哺乳动物 头部和躯干像老鼠，前后肢都有薄膜和身体连着，夜间在空中飞翔，捕食蚊、蛾等昆虫，休息时用爪倒挂在屋檐下或树上，冬季在隐蔽的地方冬眠 种类较多	None	None
+蝙	pian2	鱼名	None	None
+𧍮	jiong3	[𧍮𧑗]一种像蛙的动物	None	None
+䗝	None	同=蠶	None	蠶
+𧍦	None	=蚕的讹字	None	蚕
+𧐆	None	同=𧉁	None	𧉁
+蝦	ha2	[蝦蟆]也作“=蛤蟆”、“蝦蟇”、“蝦䗫” 1.青蛙和蟾蜍的统称 2.指月亮 3.旧时巡夜人敲梆子报时的蛤蟆更的简称	None	蛤
+蝦	xia1	节肢动物 身长，体外有软壳，头上有须，胸腹部有附肢 生活在水中，会跳跃，捕食小虫 种类很多，可以吃	None	None
+蝦	xia1	官名 满语对侍卫的称呼	None	None
+蝦	xia1	通=赮(霞xia2) 彩色的云	None	赮
+蝦	jia3	同=徦 至	None	徦
+𧎂	None	同=蝦	None	蝦
+蝨	shi1	寄生在人畜身上的一种昆虫 浅黄或灰白、灰黑色，头小，腹大，没有翅膀 卵白色，椭圆形 吸食血液 能传染疾病	None	None
+蝨	shi1	比喻寄生作恶的人或有害的事物	None	None
+蝨	shi1	置身，厕处	None	None
+蝨	shi1	鱼病名 瘦而生白点者叫蝨	None	None
+𧍫	wei4	[蛒𧍫]见“蛒”	None	None
+蝞	mei4	一种水生动物 似虾，寄居龟壳中	None	None
+蝑	xu1	[蚣蝑]见“蚣”	None	None
+蝑	xie4	蟹酱	None	None
 𧍛	None	录入中	None	None
 𧍜	None	录入中	None	None
 𧎮	None	录入中	None	None
