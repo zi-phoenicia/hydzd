@@ -56338,13 +56338,20 @@
 蜦	lun3	[蝹蜦]蛇行貌	None	None
 𬠔	None	=蜵的类推简化字	None	蜵
 𧌤	None	同=蜭	None	蜭
-䗄	None	录入中	None	None
-𧌅	None	录入中	None	None
-蝕	None	录入中	None	None
-𧌌	None	录入中	None	None
-𧌇	None	录入中	None	None
-蜰	None	录入中	None	None
-𧌘	None	录入中	None	None
+䗄	fu3	虫名	None	None
+䗄	fu3	金花虫 也称“叶甲” 叶甲科 体小型至中型，呈圆卵状，触角中等 圆眼接近前胸 种类极多，植食性，其中不少是农业害虫，如大猿叶虫、黄守瓜等	None	None
+𧌅	shou4	虫	None	None
+蝕	shi2	虫等蛀伤物 如：蛀蚀；蠹蚀	None	None
+蝕	shi2	损伤；侵蚀 如：剥蚀；腐蚀；风蚀	None	None
+蝕	shi2	亏耗，亏缺 如：蚀本	None	None
+蝕	li4	谷名 在今陕西省西安市长安区西南	None	None
+蝕	long2	同=豅	None	豅
+𧌌	xiu1	蜘蛛	None	None
+𧌇	peng2	虫名	None	None
+蜰	fei2	蠦蜰 俗称蟑螂	None	None
+蜰	fei2	臭虫 又名床虱，壁虱 臭虫科 身体扁平，红棕色，头短，腹大，有触角 体内有臭腺，能放出臭味 白天栖息于墙、床、家具等缝隙中，夜晚活动，刺吸人畜血液	None	None
+蜰	fei4	[蜰𧔥]传说中的神蛇	None	None
+𧌘	fei4	[𧌘𧔥]即“=蜰𧔥” 传说中的神蛇	None	蜰
 蜩	None	录入中	None	None
 𧍀	None	录入中	None	None
 蜪	None	录入中	None	None
