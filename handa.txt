@@ -56271,44 +56271,73 @@
 𧌙	min2	虫名	None	None
 蜨	die2	同=蝶 蝴蝶	None	蝶
 蜨	die2	一种海蟹	None	None
-䗃	None	录入中	None	None
-𧌩	None	录入中	None	None
-𧌼	None	录入中	None	None
-𧍃	None	录入中	None	None
-蜚	None	录入中	None	None
-𧌧	None	录入中	None	None
-𧌭	None	录入中	None	None
-䗂	None	录入中	None	None
-𧌪	None	录入中	None	None
-蜾	None	录入中	None	None
-蜫	None	录入中	None	None
-蝈	None	录入中	None	None
-䗉	None	录入中	None	None
-蜴	None	录入中	None	None
-𧌚	None	录入中	None	None
-𧌾	None	录入中	None	None
-𧌎	None	录入中	None	None
-蝇	None	录入中	None	None
-𧍚	None	录入中	None	None
-蜠	None	录入中	None	None
-𧌏	None	录入中	None	None
-蝄	None	录入中	None	None
-蝸	None	录入中	None	None
-蜘	None	录入中	None	None
-䖿	None	录入中	None	None
-蜲	None	录入中	None	None
-𧍳	None	录入中	None	None
-蜺	None	录入中	None	None
-蝂	None	录入中	None	None
-𧌿	None	录入中	None	None
-蜼	None	录入中	None	None
-蜱	None	录入中	None	None
-𧌠	None	录入中	None	None
-𧌓	None	录入中	None	None
-𧌛	None	录入中	None	None
-𧌖	None	录入中	None	None
-蜦	None	录入中	None	None
-𧌤	None	录入中	None	None
+⿰虫斩	None	=螹的类推简化字	None	螹
+䗃	zhan3	[馬䗃]马陆	None	None
+䗃	zhan3	蝉名	None	None
+𧌩	None	同=蠶	None	蠶
+𧌼	None	=蛭的讹字	None	蛭
+𧍃	fei3	同=蜚 虫名 属蝽类 一种有害的小飞虫 形椭圆，发恶臭，生草中，食稻花	None	蜚
+蜚	fei3	草螽 又名负蠜 昆虫名	None	None
+蜚	fei3	蜚蠊 即蟑螂	None	None
+蜚	fei3	一种有害的小飞虫 形椭圆，发恶臭，生草中，食稻花	None	None
+蜚	fei3	传说中的怪兽	None	None
+蜚	fei3	古代良马蜚鸿的省称	None	None
+蜚	fei3	大蚂蚁	None	None
+蜚	fei1	通=飛 如：流言蜚语；蜚短流长	None	飛
+蜚	pei4	[蜚林]地名	None	None
+蜚	bei4	同=琲	None	琲
+𧌧	hu3	似大蛇	None	None
+𧌭	None	同=螔	None	螔
+䗂	hu3	[䗂蜼]蝾螈	None	None
+䗂	hu3	蝇虎 蜘蛛的一种 跳蛛科 体小，白色或灰色，单眼四对，足短而粗壮，善跳跃 不结网，常在墙壁上捕食苍蝇和其他小虫	None	None
+𧌪	None	同=蛬	None	蛬
+蜾	guo3	[蜾蠃]又名“蠮螉” 寄生蜂的一种 胡蜂科 体青黑，细腰，常用泥土在墙上或树枝上做窝，捕捉螟蛉等小虫存在窝里，作为幼虫的食物 旧时误认蜾蠃养螟蛉为己子，所以有抱养的孩子称为“螟蛉子”的说法	None	None
+蜾	luo3	螔蝓	None	None
+蜫	None	同=䖵	None	䖵
+蝈	None	=蟈的简化字	None	蟈
+䗉	chang1	小蠃	None	None
+蜴	yi4	[蜥蜴]见“蜥”	None	None
+蜴	xi1	[眽蜴]见“眽”	None	None
+𧌚	xing1	乘飞貌	None	None
+𧌾	ding1	@ ……按：疑为=虰的繁化俗字	None	虰
+𧌎	tian3	虫名	None	None
+蝇	None	同=蠅	None	蠅
+𧍚	None	同=蛔	None	蛔
+蜠	jun4	一种大贝	None	None
+𧌏	ta4	[䗘𧌏]见“䗘”	None	None
+蝄	wang3	[蝄蜽]也作“=蛧蜽”、“=魍魉”、“魍蜽” 传说中的精怪名	None	蛧
+蝸	wo1	蜗牛 软体动物 大蜗牛科 有螺旋形扁圆的硬壳，头部有两对触角，腹面有扁平的脚，栖息在潮湿地区，危害植物 但近似的某些种类可食	None	None
+蝸	wo1	用同=媧(wa1)	None	媧
+蝸	wo1	姓	None	None
+蝸	luo2	同=蠃(螺)	None	蠃
+蝸	guo3	[蝸蠃]也作“=蜾蠃” 寄生蜂的一种	None	蜾
+蜘	zhi1	[蜘蛛]节肢动物 身体圆形或长圆形，分头胸部和腹部，有足四对，腹部有纺绩器，能分泌黏液，凝成细丝，结网捕食昆虫 生活在屋檐和草木间，种类很多	None	None
+䖿	None	同=蜊	None	蜊
+蜲	wei3	[蜲蜲蜿蜿]龙蛇之貌	None	None
+蜲	wei3	同=蟡 传说中的一种精怪名	None	蟡
+蜲	wei3	[蜲𧑓]也作“=委黍” 即鼠妇虫	None	委
+𧍳	None	同=𧊠	None	𧊠
+蜺	ni2	寒螿	None	None
+蜺	ni2	同=霓 虹的一种 也叫副虹	None	霓
+蝂	ban1	[蝜蝂]也作“負=版” 小虫名	None	版
+𧌿	ban3	[蝜𧌿]也作“蝜=蝂”、“負=版” 小虫名	None	蝂
+蜼	wei4	一种长尾猿	None	None
+蜼	wei3	虫名	None	None
+蜼	tong2	[蜼渠]也作“=䳋渠” 鸟名	None	䳋
+蜱	pi2	[蜱蛸]也作“=𧓎蛸” 即螵蛸，螳螂的卵块	None	𧓎
+蜱	pi2	辟虱 节肢动物，蜱总科 体扁平，头、胸部和腹部合在一起，成虫有足四对，幼足有足三对 种类很多，大多数吸人畜的血液，能传染脑炎、回归热、恙虫病等	None	None
+蜱	pi2	同=蠯(螷) 一种蚌	None	蠯
+蜱	miao2	虫名	None	None
+𧌠	piao1	[𧌠蛸]也作“=𧓎蛸”、“=螵蛸” 螳螂的卵块	None	𧓎
+𧌓	None	同=𧌛(蛗)	None	𧌛
+𧌛	None	同=蛗	None	蛗
+𧌖	xie4	同=蝑 蟹酱	None	蝑
+𧌖	she4	一种似蟹的虫	None	None
+蜦	lun2	古书里说的一种神蛇 黑色，潜于神渊能兴云雨	None	None
+蜦	lun2	大虾蟆	None	None
+蜦	lun3	[蝹蜦]蛇行貌	None	None
+𬠔	None	=蜵的类推简化字	None	蜵
+𧌤	None	同=蜭	None	蜭
 䗄	None	录入中	None	None
 𧌅	None	录入中	None	None
 蝕	None	录入中	None	None
