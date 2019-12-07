@@ -56130,22 +56130,32 @@
 蜃	shen4	传说中的蛟属，能吐气称海市蜃楼	None	None
 蜃	shen4	海市蜃楼 一种大气光学现象，古人误认为是大蜃吐气而成	None	None
 蜃	shen4	县名	None	None
-蛺	None	录入中	None	None
-蛖	None	录入中	None	None
-䖶	None	录入中	None	None
-𧋠	None	录入中	None	None
-蜌	None	录入中	None	None
-𧋝	None	录入中	None	None
-蛵	None	录入中	None	None
-蛸	None	录入中	None	None
-𧋯	None	录入中	None	None
-蛽	None	录入中	None	None
-蜈	None	录入中	None	None
-蜆	None	录入中	None	None
-𧋎	None	录入中	None	None
-𧋱	None	录入中	None	None
-𧋕	None	录入中	None	None
-蜎	None	录入中	None	None
+蛺	jia2	[蛺蝶]1.蝶类的总称 今生物学指蝴蝶的一类 成虫赤黄色，幼虫灰黑色 身上有许多刺，对农作物有害	None	None
+蛖	mang2	[蛖螻]蝼蛄类	None	None
+蛖	bang4	同=蚌	None	蚌
+䖶	hui1	猪用鼻拱物	None	None
+䖶	hui1	蝟属	None	None
+𧋠	li2	同=蠡	None	蠡
+𧋠	li3	鳢鱼	None	None
+蜌	bi4	一种长而狭的蚌，俗称“马刀”	None	None
+𧋝	None	同=蝶	None	蝶
+蛵	xing1	[丁蛵]也作“虰蛵”	None	None
+蛸	xiao1	[螵蛸]见“螵”	None	None
+蛸	xiao1	章鱼的省称 种类甚多，我国习见的有饭蛸、长腕蛸、真蛸等	None	None
+蛸	xiao1	姓	None	None
+蛸	shao1	长脚蜘蛛蟏蛸的省称	None	None
+𧋯	None	同=蛬	None	蛬
+蛽	None	同=貝	None	貝
+蜈	wu2	[蜈蚣]虫名 节肢动物 栖息于腐木、石隙中，昼伏夜出，行动敏捷 第一对足有毒腺，分泌毒液 捕食小昆虫 中医入药	None	None
+蜆	xian4	蝶类的幼虫 常以丝悬于草木枝叶及屋壁间，故又名缢女或缢虫	None	None
+蜆	xian3	软体动物 蚬科 介壳圆形或心脏形 表面有轮状纹 产于淡水中	None	None
+蜆	xian3	蜑家小姑娘的简称	None	None
+𧋎	li2	虫名	None	None
+𧋱	zhan1	@	None	None
+𧋕	kun4	虫名	None	None
+蜎	yuan1	[蜎蜎]虫类蠕动爬行貌	None	None
+蜎	yuan1	孑孓，蚊子的幼虫 又名=虷 体细长，胸部比头和腹宽大，没有足 游泳时身体一屈一伸 通称“跟斗虫”	None	虷
+蜎	yuan1	弯曲	None	None
 蜗	None	录入中	None	None
 𧊫	None	录入中	None	None
 𧋡	None	录入中	None	None
