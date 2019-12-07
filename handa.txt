@@ -56054,49 +56054,82 @@
 䖲	xun2	虫名	None	None
 䖲	zong1	[蛪䖲]虫名	None	None
 𧊙	zhi3	虫名	None	None
-蛒	None	录入中	None	None
-蛥	None	录入中	None	None
-𧊤	None	录入中	None	None
-蛴	None	录入中	None	None
-蛟	None	录入中	None	None
-𧊒	None	录入中	None	None
-𧊏	None	录入中	None	None
-蛘	None	录入中	None	None
-蛢	None	录入中	None	None
-䖭	None	录入中	None	None
-𧊾	None	录入中	None	None
-𧊜	None	录入中	None	None
-䖳	None	录入中	None	None
-𧌞	None	录入中	None	None
-𧊐	None	录入中	None	None
-𫊻	None	录入中	None	None
-蛝	None	录入中	None	None
-𧊱	None	录入中	None	None
-𧊟	None	录入中	None	None
-蛠	None	录入中	None	None
-蛡	None	录入中	None	None
-蛑	None	录入中	None	None
-𧋔	None	录入中	None	None
-𧋒	None	录入中	None	None
-𧋍	None	录入中	None	None
-蜇	None	录入中	None	None
-𧋳	None	录入中	None	None
-䖼	None	录入中	None	None
-蜐	None	录入中	None	None
-䖹	None	录入中	None	None
-𧋖	None	录入中	None	None
-𧋞	None	录入中	None	None
-蜹	None	录入中	None	None
-蛷	None	录入中	None	None
-𧋛	None	录入中	None	None
-蛼	None	录入中	None	None
-蜅	None	录入中	None	None
-𧋑	None	录入中	None	None
-𧋐	None	录入中	None	None
-𧋌	None	录入中	None	None
-𧋋	None	录入中	None	None
-蜄	None	录入中	None	None
-蜃	None	录入中	None	None
+𮔅	None	=蝜的类推简化字	None	蝜
+蛒	ge2	蛴螬 又名蛭蛒 金龟子的幼虫	None	None
+蛒	ge2	毒蜂名	None	None
+蛒	luo4	[蛒𧍫]也作“=絡緯” 即纺织娘 又名莎鸡	None	絡
+蛥	she2	[蛥蚗]蝉名	None	None
+蛮	None	同=蠻	None	蠻
+𧊤	yi4	同=蜴 蜥蜴	None	蜴
+蛴	None	=蠐的简化字	None	蠐
+蛟	jiao1	传说中能兴云雨、发洪水的龙	None	None
+蛟	jiao1	鳖、鳄之类	None	None
+蛟	jiao1	通=鮫 鲨鱼	None	鮫
+𧊒	ci4	[𧊒蝵]蜘蛛	None	None
+𧊏	gai1	虫名	None	None
+蛘	yang3	皮肤受刺激引起的需要抓挠的一种感觉 或作=癢	None	癢
+蛘	yang2	米象，米谷中的小黑甲虫	None	None
+蛢	ping2	虫名 即金龟子	None	None
+䖭	juan4	[䖭蠾]1.蛴螬，金龟子的幼虫	None	None
+䖭	juan1	[䖭蠣]蛸䗚	None	None
+𧊾	fan2	@	None	None
+𧊜	e4	鳄鱼 或作=鰐	None	鰐
+䖳	zha4	海蜇 水母	None	None
+䖳	zhe3	同=𧎩	None	𧎩
+𧌞	qi2	[蛜𧌞]蝎子	None	None
+𧊐	None	同=𧍶	None	𧍶
+𫊻	None	=蟳的类推简化字	None	蟳
+蛝	xian2	马蚿，即马陆	None	None
+蛝	xian2	蝮蜪 即蝝 蝗的幼虫	None	None
+蛝	xian2	蚁卵	None	None
+𧊱	duo3	[蛤𧊱]古地名 在今山东省惠民县南	None	None
+𧊟	ru2	虫名	None	None
+蛠	None	同=珕	None	珕
+蛡	yi4	蜂房	None	None
+蛡	yi4	虫行貌	None	None
+蛡	xu3	虫名	None	None
+蛡	xu3	虫飞	None	None
+蛑	mao2	同=𧔨(蟊) 食苗根的害虫	None	𧔨
+蛑	mao2	螳螂	None	None
+蛑	mao2	“蝤蛑”的单称	None	None
+𧋔	hong3	虫名	None	None
+𧋒	tong2	同=赨	None	赨
+𧋒	shi4	同=螫	None	螫
+𧋍	di4	[𧋍蝀]也作“=螮蝀” 虹的别称	None	螮
+𧋍	xue2	[江𧋍]动物名 似蟹	None	None
+蜇	zhe1	毒虫叮刺	None	None
+蜇	zhe1	刺痛	None	None
+蜇	zhe2	海蜇 一名水母 旧称=䖳 身体半球形，隆起成伞状，下面有许多触手，口腕缺裂成瓣片，一般呈青蓝色，也有白色的 生活在海中 可以吃	None	䖳
+𧋳	None	同=蛩	None	蛩
+䖼	None	同=𧍕	None	𧍕
+蜐	jie2	[石蜐]即龟足 铠茗荷儿科 体外有甲壳，体形似龟足，蔓足自壳口伸出索取食物 多固着在高潮线附近的岩缝里	None	None
+䖹	yang2	羊象 后作=蛘 象鼻虫科 成虫红褐色，头部前身似象鼻，鞘翅上有四个赤褐色斑纹 幼虫乳白色，体肥厚 吃米、稻、麦和高粱等粮食，是粮仓中的害虫	None	蛘
+𧋖	nie4	虫行貌	None	None
+𧋞	None	同=蝶	None	蝶
+蜹	rui4	同=蚋 蚊虫	None	蚋
+蜹	rui4	蠛蠓 也称醯鸡，古人误以为酒醋上的白霉变成，故名	None	None
+蜹	rui4	毒蛇名	None	None
+蜹	wei4	毒虫	None	None
+𮔚	None	=蟧的类推简化字	None	蟧
+蛷	qiu2	蛷螋，即蠼螋	None	None
+蛷	qiu2	患蠼螋疮	None	None
+𧋛	None	同=𧒔(蛷)	None	𧒔
+蛼	che1	[蛼螯]也作“=車螯” 蛤类 壳紫色，有斑点	None	車
+蜅	fu3	蟹属	None	None
+蜅	pu2	蛤属	None	None
+𧋑	geng3	虫名	None	None
+𧋐	xi1	[𧋐𧐎]1.壁虎 2.蟑螂 也作“=𧌐𧐎”	None	𧌐
+𧋌	du2	同=蠹	None	蠹
+𧋋	None	同=鼯	None	鼯
+𮔊	None	=蜽的类推简化字	None	蜽
+蜄	shen4	同=蜃	None	蜃
+蜄	zhen4	振动 也作=䟴	None	䟴
+蜃	shen4	大蛤	None	None
+蜃	shen4	祭器，腹部图画有蜃形的漆尊	None	None
+蜃	shen4	蚌蛤壳烧成的灰 古代烧蛤类之壳成灰，也作蜃炭 也称蜃	None	None
+蜃	shen4	传说中的蛟属，能吐气称海市蜃楼	None	None
+蜃	shen4	海市蜃楼 一种大气光学现象，古人误认为是大蜃吐气而成	None	None
+蜃	shen4	县名	None	None
 蛺	None	录入中	None	None
 蛖	None	录入中	None	None
 䖶	None	录入中	None	None
