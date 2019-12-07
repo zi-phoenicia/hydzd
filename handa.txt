@@ -56559,38 +56559,57 @@
 蝞	mei4	一种水生动物 似虾，寄居龟壳中	None	None
 蝑	xu1	[蚣蝑]见“蚣”	None	None
 蝑	xie4	蟹酱	None	None
-𧍛	None	录入中	None	None
-𧍜	None	录入中	None	None
-𧎮	None	录入中	None	None
-蝚	None	录入中	None	None
-𧎄	None	录入中	None	None
-蝥	None	录入中	None	None
-蝝	None	录入中	None	None
-䗍	None	录入中	None	None
-𧍼	None	录入中	None	None
-螓	None	录入中	None	None
-螯	None	录入中	None	None
-𧏾	None	录入中	None	None
-䗞	None	录入中	None	None
-𧎹	None	录入中	None	None
-𧏂	None	录入中	None	None
-螞	None	录入中	None	None
-𧍩	None	录入中	None	None
-𧎴	None	录入中	None	None
-螧	None	录入中	None	None
-螜	None	录入中	None	None
-𧏌	None	录入中	None	None
-䗘	None	录入中	None	None
-𧑍	None	录入中	None	None
-螨	None	录入中	None	None
-𧎦	None	录入中	None	None
-蟒	None	录入中	None	None
-蟆	None	录入中	None	None
-蟇	None	录入中	None	None
-𧐞	None	录入中	None	None
-𧎽	None	录入中	None	None
-螒	None	录入中	None	None
-螙	None	录入中	None	None
+𧍛	None	同=蛹	None	蛹
+𧍜	kui2	虫名	None	None
+𧎮	zao3	同=蚤 跳蚤	None	蚤
+蝚	rou2	蝼蛄类	None	None
+蝚	rou2	水蛭	None	None
+蝚	nao2	同=猱 兽名 猴属	None	猱
+𧎄	mou2	[䖦𧎄]也作“䖦=蟱” 即蜘蛛	None	蟱
+𧎄	wu4	[𧎄蛷]也作“=𧐙蛷” 蛷螋的别名	None	𧐙
+蝥	mao2	[螌蝥]见“螌(ban1)”	None	None
+蝥	mao2	同=蟊 食苗根的害虫	None	蟊
+蝥	mao2	蝥弧的省称 春秋诸侯建旗，蝥弧，郑伯旗名	None	None
+蝥	wu2	[鼄蝥]也作“蛛蝥” 蜘蛛别名	None	None
+蝥	wu4	[蝥蛷]也作“=𧐙蛷” 蛷螋别名	None	𧐙
+蝥	wu4	蠡名	None	None
+蝝	yuan2	蝗的幼虫 现在称“蝻”	None	None
+蝝	yuan2	蚁卵	None	None
+蝝	yuan1	同=蜎 虫名 孑孓	None	蜎
+䗍	li3	同=蠡 虫蛀木	None	蠡
+䗍	luo2	[螟䗍]匈奴部落名	None	None
+𧍼	None	同=蛚	None	蛚
+螓	qin2	一种绿色小蝉 方头广额，身有彩文，鸣声札札	None	None
+螯	ao2	螃蟹等节肢动物的变形的第一对脚，形状像钳子，能开合，用来取食或自卫	None	None
+螯	ao2	鞋属	None	None
+𧏾	ni4	虻虫	None	None
+𧏾	ni4	虫食病	None	None
+䗞	None	同=蠶	None	蠶
+𧎹	zui4	虫名	None	None
+𧏂	xie2	虫名	None	None
+螞	ma3	虫名	None	None
+螞	ma1	[螞螂]蜻蜓	None	None
+螞	ma4	[螞蚱]“蝗”的俗名 有的地方也兼指蚱蜢	None	None
+𧍩	jie2	蠸𧍩，又名蠸，瓜虫	None	None
+𧍩	jie2	蝗类	None	None
+𧎴	zhe2	有毒腺的虫子刺人或牲畜	None	None
+螧	None	同=蝦	None	蝦
+螜	hu2	虫名 蝼蛄	None	None
+𧏌	None	同=螯	None	螯
+䗘	ge2	[䗘𧌏]蛘，米象	None	None
+𧑍	hua2	大蛇	None	None
+螨	None	=蟎的简化字	None	蟎
+𧎦	None	同=蛬	None	蛬
+蟒	mang3	一种无毒的大蛇 蟒蛇科 体长可达6米，头部长，口大，舌的尖端有分叉 背黄褐色，有暗色斑点，腹部白色 多产于热带附近的森林里，捕食小禽兽 俗称“蟒蛇”，也叫“蚺蛇”	None	None
+蟒	mang3	明、清时皇子、亲王、一品至七品官所穿的蟒衣、蟒袍的简称 衣上用金线绣蟒，形状像龙，四爪 蟒数自八至五，按等级区别	None	None
+蟒	meng3	蚱蜢	None	None
+蟆	ma2	蛤蟆	None	None
+蟆	mo4	蚊类 色黑而小，夜伏昼飞，啮人称疮	None	None
+蟇	ma2	[蝦蟇]同“蝦=蟆”	None	蟆
+𧐞	None	=𧎲的讹字	None	𧎲
+𧎽	None	同=䗯	None	䗯
+螒	han4	纺织娘 昆虫 螽斯科，褐色或绿色，头小，善跳跃，鸣声如纺车的声音 生活在草地里，吃青草和树叶等	None	None
+螙	None	同=蠹	None	蠹
 𧎳	None	录入中	None	None
 𧐖	None	录入中	None	None
 䗚	None	录入中	None	None
