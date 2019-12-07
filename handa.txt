@@ -55806,19 +55806,32 @@
 蚓	yin3	蚯蚓	None	None
 䖡	nv4	[䖡蚭]蚰蜒	None	None
 蚆	ba1	海蚆，宝贝的别称 宝贝科 贝壳卵圆形，螺层不显著 壳口狭长，两缘有齿状突起，壳色美丽而有光泽	None	None
-蚩	None	录入中	None	None
-𧉃	None	录入中	None	None
-𧉐	None	录入中	None	None
-𧉣	None	录入中	None	None
-𧉨	None	录入中	None	None
-𧊡	None	录入中	None	None
-𧉧	None	录入中	None	None
-蚶	None	录入中	None	None
-𧊝	None	录入中	None	None
-蛄	None	录入中	None	None
-𧊬	None	录入中	None	None
-𧉱	None	录入中	None	None
-𧉹	None	录入中	None	None
+蚩	chi1	虫名	None	None
+蚩	chi1	无知，痴愚	None	None
+蚩	chi1	丑陋	None	None
+蚩	chi1	欺侮	None	None
+蚩	chi1	悖乱	None	None
+蚩	chi1	传说中的一种海兽	None	None
+蚩	chi1	通=嗤 讥笑	None	嗤
+蚩	chi1	姓	None	None
+𧉃	yun3	虫名	None	None
+𧉐	None	同=𧕟	None	𧕟
+𧉣	yu4	[蟙𧉣]虫名	None	None
+⿰虫戋	None	=䗃的类推简化字	None	䗃
+𧉨	None	同=蛩	None	蛩
+𧊡	None	同=蛩	None	蛩
+𧉧	qu3	[𧉧蚥]也作“=鼁𪓰” 蟾蜍	None	鼁
+𧉧	jie2	[石𧉧]也作“石=䂶” 节足动物 即龟足	None	䂶
+蚶	han1	蚶子 俗叫“瓦楞子”，又名“魁蛤” 软体动物，蚶科 介壳厚而坚硬，有突起的瓦楞状纵线，内壁白色，边缘有锯齿 生活在浅海泥沙中，可人工养殖 肉味鲜美，壳供药用，是我国著名食用贝类之一	None	None
+蚶	han2	同=蜬 小螺	None	蜬
+𧊝	None	同=蠚	None	蠚
+蛄	gu1	[蟪蛄]见“蟪”	None	None
+蛄	gu1	蝼蛄	None	None
+蛄	gu3	[蝲蛄]甲壳类动物的一属，形状似龙虾而小，第一对足呈螯状 生活在淡水中，是肺吸虫的中间宿主	None	None
+𮔂	None	=䗻的类推简化字	None	䗻
+𧊬	he4	毒虫咬刺	None	None
+𧉱	None	=蚞的讹字	None	蚞
+𧉹	None	同=蚱 “螞蚱”，亦作“螞𧉹”	None	蚱
 蚻	None	录入中	None	None
 蚵	None	录入中	None	None
 蛃	None	录入中	None	None
