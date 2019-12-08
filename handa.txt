@@ -57151,40 +57151,51 @@
 𬠷	None	=𧕦的类推简化字	None	𧕦
 蠑	rong2	[蠑螈]两栖动物，蝾螈科 形状像蜥蜴，头扁，表面粗糙，背面黑色，腹面红黄色，四肢短，尾侧扁 生活在水中，卵生 幼体形状像蝌蚪 吃小动物 古代也用来指蜥蜴	None	None
 𧓌	None	同=螢	None	螢
-蠙	None	录入中	None	None
-𧓫	None	录入中	None	None
-䗿	None	录入中	None	None
-𧓍	None	录入中	None	None
-蠗	None	录入中	None	None
-䗽	None	录入中	None	None
-𧓓	None	录入中	None	None
-蠢	None	录入中	None	None
-𧔄	None	录入中	None	None
-𧔁	None	录入中	None	None
-䘂	None	录入中	None	None
-𧔖	None	录入中	None	None
-𧔴	None	录入中	None	None
-蠜	None	录入中	None	None
-𧓱	None	录入中	None	None
-蠠	None	录入中	None	None
-𧓻	None	录入中	None	None
-𧓷	None	录入中	None	None
-𧔅	None	录入中	None	None
-𧔷	None	录入中	None	None
-𧔆	None	录入中	None	None
-𧔥	None	录入中	None	None
-蠝	None	录入中	None	None
-𧔇	None	录入中	None	None
-𧔘	None	录入中	None	None
-䘃	None	录入中	None	None
-𧓟	None	录入中	None	None
-𧔱	None	录入中	None	None
-𧓳	None	录入中	None	None
-𧔗	None	录入中	None	None
-蠫	None	录入中	None	None
-𧓾	None	录入中	None	None
-𧔧	None	录入中	None	None
-蠩	None	录入中	None	None
+蠙	None	同=玭	None	玭
+𧓫	None	同=蜜	None	蜜
+䗿	ning2	同=𧕝	None	𧕝
+䗿	ning3	[𧍮䗿]也作“𧍮=𧑶” 一种像蛙的动物	None	𧑶
+𧓍	None	同=玭	None	玭
+蠗	zhuo2	猴的一种	None	None
+蠗	zhuo2	小蜃	None	None
+䗽	wei4	吸食牛马血液的小虻虫	None	None
+䗽	wei4	蛘，米中小黑甲虫	None	None
+𧓓	ji4	[𧓓英]也作“=繼英”、“𧓓蝧” 虫名	None	繼
+蠢	chun3	虫动	None	None
+蠢	chun3	动	None	None
+蠢	chun3	不谦逊	None	None
+蠢	chun3	愚蠢	None	None
+蠢	chun3	笨拙	None	None
+蠢	chun3	小貌	None	None
+𧔄	None	同=蠍	None	蠍
+𧔁	None	=𧕢的讹字	None	𧕢
+䘂	None	同=䘋	None	䘋
+𧔖	su1	@	None	None
+𧔴	chai4	毒虫	None	None
+蠜	fan2	蚱蜢	None	None
+𧓱	None	同=蝘	None	蝘
+蠠	min3	[蠠没]勉力，努力	None	None
+蠠	mian2	同=蝒	None	蝒
+𧓻	lv4	[諸𧓻]虫名	None	None
+𧓷	None	同=蠽	None	蠽
+𧔅	sou4	@	None	None
+𧔷	jin4	[𧍧𧔷]蛤类	None	None
+𧔆	None	同=蚍	None	蚍
+𧔥	wei4	[肥𧔥]也作“蜰𧔥” 神蛇名	None	None
+蠝	None	同=䴎(鸓)	None	䴎
+𧔇	None	同=蠕	None	蠕
+𧔘	None	同=蠉	None	蠉
+䘃	mo4	[蟙䘃]见“蟙”	None	None
+䘃	mo4	同=蟔 虫名	None	蟔
+𧓟	None	同=蠢	None	蠢
+𧔱	None	同=蠆	None	蠆
+𧓳	None	同=蛭	None	蛭
+𧔗	None	=𦧵(話)的讹字	None	𦧵
+蠫	None	同=劙	None	劙
+𧓾	None	同=蠵	None	蠵
+𧔧	pang2	[𧔧蒙]也作“𧔧門” 人名	None	None
+蠩	zhu1	[蜛蠩]见“蜛”	None	None
+蠩	chu2	[蟾蠩]也作“蟾=蜍” 癞蛤蟆的别名	None	蜍
 𧓼	None	录入中	None	None
 𧔈	None	录入中	None	None
 𧔃	None	录入中	None	None
