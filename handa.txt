@@ -56697,46 +56697,67 @@
 螤	zhong1	同=鍾 古容量单位	None	鍾
 𧏎	None	同=蚊	None	蚊
 螡	None	同=蚉(蚊)	None	蚉
-螭	None	录入中	None	None
-螗	None	录入中	None	None
-𧏗	None	录入中	None	None
-𧏑	None	录入中	None	None
-螃	None	录入中	None	None
-𧏉	None	录入中	None	None
-𧏪	None	录入中	None	None
-螠	None	录入中	None	None
-螊	None	录入中	None	None
-螢	None	录入中	None	None
-螛	None	录入中	None	None
-䗙	None	录入中	None	None
-𧏖	None	录入中	None	None
-𧎧	None	录入中	None	None
-𧏏	None	录入中	None	None
-𧎥	None	录入中	None	None
-螟	None	录入中	None	None
-𧎰	None	录入中	None	None
-𧎨	None	录入中	None	None
-螴	None	录入中	None	None
-𧎤	None	录入中	None	None
-𧎱	None	录入中	None	None
-𧏬	None	录入中	None	None
-螚	None	录入中	None	None
-𧐙	None	录入中	None	None
-𧎻	None	录入中	None	None
-𧎶	None	录入中	None	None
-𧐍	None	录入中	None	None
-𧐐	None	录入中	None	None
-䗡	None	录入中	None	None
-𧐭	None	录入中	None	None
-螫	None	录入中	None	None
-蟄	None	录入中	None	None
-𧐜	None	录入中	None	None
-𧑑	None	录入中	None	None
-䗣	None	录入中	None	None
-螼	None	录入中	None	None
-蟥	None	录入中	None	None
-蟎	None	录入中	None	None
-蠎	None	录入中	None	None
+螭	chi1	古代传说中的一种龙 古代建筑中或工艺品上常用它的形状作装饰	None	None
+螭	chi1	猛兽名	None	None
+螭	chi1	同=魑	None	魑
+螗	tang2	蝉名 又名蝘、螗蜩、螗蛦、胡蝉 形体较小，背青绿色，头有花冠，喜鸣，声清亮	None	None
+螗	tang2	螳螂的省称	None	None
+𧏗	None	=蠀的类推简化字	None	蠀
+𧏑	ping2	[蝏𧏑]即“蝏=䗒” 一种长而狭的蚌	None	䗒
+螃	pang2	[螃蟹]即“蟹”	None	None
+螃	bang3	动物名 似蛤蟆，陆居，可食	None	None
+𧏉	None	同=蟒	None	蟒
+𧏪	None	同=𧎬(蟘)	None	𧎬
+螠	yi4	[螠女]也作“=縊女” 蝶类的幼虫	None	縊
+螠	yi4	无脊椎动物的一纲，雌雄异体，身体呈圆筒状，不分节，有少数刚毛 生活在海底泥沙中	None	None
+螊	lian2	蚌类，似蛤而长扁 产海中	None	None
+螊	lian2	蛇名	None	None
+螢	ying2	萤火虫 萤科 身体黄褐色，尾部有发光器，能发出绿色的光 白天伏在草丛中，夜晚出来飞行	None	None
+螛	he2	[輵螛]龙摇目吐舌貌	None	None
+螛	xia2	蝼蛄	None	None
+䗙	han2	[䗙䘆]蚯蚓	None	None
+𧏖	None	=蠙的类推简化字	None	蠙
+𧎧	None	同=𧐴	None	𧐴
+𧏏	None	同=蛆	None	蛆
+𧎥	shan4	蝇类摇动翅膀	None	None
+螟	ming2	螟虫，螟蛾的幼虫 主要生活在稻茎中，吃稻茎的髓部，危害很大 如：三化螟；二化螟；大螟	None	None
+𧎰	zhan3	虫名	None	None
+𧎨	chi2	虫名	None	None
+螴	chen2	[螴蜳]1.不安定 2.虫行	None	None
+𧎤	sun1	[蚟𧎤]也作“虻=孫” 蟋蟀	None	孫
+𧎱	ba1	虫名	None	None
+𧏬	None	同=嗤	None	嗤
+螚	nai4	小虻虫	None	None
+螚	nai2	同=能 鳖属	None	能
+螚	neng3	蜂类	None	None
+𧐙	wu4	同=𧎻	None	𧎻
+𧎻	wu4	同=𧎄	None	𧎄
+𧎻	mou2	同=蟊 吃苗根的害虫	None	蟊
+𧎶	None	同=蟣	None	蟣
+𧐍	chong1	[𧐍𧑓]即蜙蝑，螽斯别名	None	None
+𧐐	ji1	狭而长的小贝	None	None
+𧐐	ji1	虫名	None	None
+䗡	yan1	[䗡䘎]1.虫名 2.虫曲息	None	None
+䗡	yan2	[䗡淵]古籍中的地名	None	None
+𧐭	None	同=螫	None	螫
+螫	shi4	毒虫或毒蛇咬刺	None	None
+螫	shi4	毒害；危害	None	None
+螫	shi4	因恼怒而加害	None	None
+螫	shi4	蝎的前螯	None	None
+蟄	zhe2	动物冬眠，潜伏起来不食不动	None	None
+蟄	zhe2	冬季藏伏起来的动物	None	None
+蟄	zhe2	蛰居 长期隐居，不出头露面	None	None
+蟄	zhe2	崩塌	None	None
+蟄	zhe2	和集	None	None
+𧐜	None	同=螜	None	螜
+𧑑	beng3	虫乱飞貌	None	None
+䗣	han1	桑虫	None	None
+䗣	han4	瓜虫 危害农作物	None	None
+螼	qin3	蚯蚓	None	None
+蟥	huang2	[𧑐蟥]见“𧑐”	None	None
+蟎	man3	节肢动物的一类 头、胸和腹通常成为一整块，不分环节 绝大多数是圆形、椭圆形或长形 种类很多 有的寄生在人或其他动物体上，吸血液，传染疾病，如疥虫；有的危害仓库贮藏物品，如粉螨；有的危害农作物，如麦叶螨等	None	None
+⿱㒼虫	None	同=蟎	None	蟎
+蠎	None	同=蟒	None	蟒
 蟏	None	录入中	None	None
 螹	None	录入中	None	None
 𧐮	None	录入中	None	None
