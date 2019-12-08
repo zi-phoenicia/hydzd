@@ -74579,43 +74579,98 @@
 郮	zhou1	古国名	None	None
 郮	zhou1	姓	None	None
 𨜊	None	=卿的讹字	None	卿
-郭	None	录入中	None	None
-䣌	None	录入中	None	None
-部	None	录入中	None	None
-𨜎	None	录入中	None	None
-郸	None	录入中	None	None
-郯	None	录入中	None	None
-𨛱	None	录入中	None	None
-𨛯	None	录入中	None	None
-𨜌	None	录入中	None	None
-𨛮	None	录入中	None	None
-𨜈	None	录入中	None	None
-郷	None	录入中	None	None
-䣎	None	录入中	None	None
-𨜣	None	录入中	None	None
-𨜯	None	录入中	None	None
-郺	None	录入中	None	None
-𨜒	None	录入中	None	None
-𨜤	None	录入中	None	None
-郾	None	录入中	None	None
-𨜥	None	录入中	None	None
-鄄	None	录入中	None	None
-𨜦	None	录入中	None	None
-䣑	None	录入中	None	None
-𨜸	None	录入中	None	None
-𨜧	None	录入中	None	None
-𨜨	None	录入中	None	None
-鄁	None	录入中	None	None
-𨜓	None	录入中	None	None
-𨜜	None	录入中	None	None
-𨜑	None	录入中	None	None
-郹	None	录入中	None	None
-郻	None	录入中	None	None
-𨜖	None	录入中	None	None
-𨜵	None	录入中	None	None
-𨜐	None	录入中	None	None
-鄂	None	录入中	None	None
-𨜚	None	录入中	None	None
+⿰枭阝	None	=鄡的类推简化字	None	鄡
+⿰⿳亠一⿵冂万阝	None	同=𨜷	None	𨜷
+郭	guo1	春秋国名 在今山东省北部	None	None
+郭	guo1	外城，古代在城的外围加筑的一道城墙	None	None
+郭	guo1	物体的外框或外壳	None	None
+郭	guo1	扩张；扩大	None	None
+郭	guo1	皮	None	None
+郭	guo1	通=椁(guo3) 外棺	None	椁
+郭	guo1	姓	None	None
+郭	guo2	同=虢 古国名	None	虢
+⿰夜阝	ye4	同=夜 古地名，在山东省掖县	None	夜
+䣌	None	同=邸	None	邸
+部	bu4	汉地名 约在今甘肃省天水市市区、清水县、秦安县、两当县、礼县、徽县一带	None	None
+部	bu4	总领；统率	None	None
+部	bu4	安排；布置	None	None
+部	bu4	管；管辖	None	None
+部	bu4	分	None	None
+部	bu4	古代军事编制单位，后泛指军队	None	None
+部	bu4	古代地方行政区划名 1.方三十里为部 2.汉武帝称州为部	None	None
+部	bu4	旧时按察区域名，亦即谓分部按察	None	None
+部	bu4	部门 某些机关的名称或机关企业中按业务而分的单位 如：外交部；编辑部	None	None
+部	bu4	界	None	None
+部	bu4	部落，由若干血缘相近的氏族结合而成的集体	None	None
+部	bu4	门类；类别 多指书籍、文章等的分类	None	None
+部	bu4	部位；部分 如：上部；中部；内部；外部	None	None
+部	bu4	星名，即北斗七星的摇光	None	None
+部	bu4	盖斗	None	None
+部	bu4	量词 用于影片、书籍等 如：一部电影	None	None
+部	bu4	通=棓 大杖	None	棓
+部	pou3	阜，土山	None	None
+部	pou3	通=踣(bo2) 仆倒	None	踣
+部	pou3	姓	None	None
+𨜎	zhi1	古乡名	None	None
+郸	None	=鄲的简化字	None	鄲
+郯	tan2	古国名，相传为少皞的后裔 在今山东省郯城县北，战国初灭于越	None	None
+郯	tan2	古县名 春秋时郯子国 汉置郯县，属东海郡 东魏置郯郡，隋省入临沂 唐置郯城县，后废 元末复置 清属沂州府 在今山东省郯城县北	None	None
+郯	tan2	姓	None	None
+𨛱	chong2	同=崇 国名	None	崇
+𨛯	yi2	古乡名	None	None
+𨛯	yi2	古邑名	None	None
+𨜌	huan4	古国名	None	None
+𨛮	ju1	古国名	None	None
+𨜈	None	同=鄒	None	鄒
+⿰⿱刅木阝	liang2	古地名	None	None
+⿰⿱刅木阝	liang2	姓	None	None
+郷	None	同=鄉	None	鄉
+䣎	zi1	古乡名	None	None
+𨜣	None	同=𨜒	None	𨜒
+𨜯	None	同=郹	None	郹
+郺	yong1	多，大而多	None	None
+郺	yong1	举动迟缓，不轻快	None	None
+𨜒	ji4	古国名 也作=薊 旧治在今北京市西南	None	薊
+𨜒	ji4	姓	None	None
+𨜤	None	同=𨜷	None	𨜷
+郾	yan3	旧县名 古郾子国地，战国属魏，秦置郾县 隋改郾城县，故城在今河南省漯河市郾城区南	None	None
+郾	yan1	同=燕 古国名 燕国自称为“郾”，也作=匽	None	燕
+𨜥	None	同=酈	None	酈
+⿰匩阝	None	同=邼	None	邼
+鄄	juan4	春秋卫邑 汉为鄄城县 在今山东省鄄城县北旧城	None	None
+鄄	juan4	古邑名 在今山东省鄄城县北	None	None
+鄄	juan4	姓	None	None
+⿰要阝	yao1	古地名	None	None
+𨜦	None	同=郠	None	郠
+⿰⿸厂𢖶心	gong3	姓	None	None
+䣑	None	同=廛	None	廛
+𨜸	None	同=郈	None	郈
+𨜧	None	同=䘏	None	䘏
+𨜨	None	同=𨜴	None	𨜴
+鄁	None	同=邶	None	邶
+𨜓	zheng1	古地名	None	None
+𨜜	sheng3	同=渻 水名 亦丘名	None	渻
+𨜜	sheng3	古地名	None	None
+𨜑	qiao1	古县名	None	None
+郹	ju2	古邑名 春秋蔡邑 在今河南省新蔡县境	None	None
+郹	ju2	古地名 春秋卫地 在今山东省巨野县西南	None	None
+郹	ju2	姓	None	None
+郻	qiao1	古县名	None	None
+𨜖	yu2	地名	None	None
+𨜵	wen1	古地名 在今四川省境	None	None
+𨜐	xi3	汉侯国名	None	None
+鄂	e4	古县名 1.故址在今湖北省鄂州市 2.汉置，南朝宋省，故治在今河南省南阳市南	None	None
+鄂	e4	古国名 在今河南省沁阳市邘台镇	None	None
+鄂	e4	古邑名 春秋晋别邑 在今山西省乡宁县	None	None
+鄂	e4	湖北省的简称 因清代湖北省会武昌，古代称鄂州而得名	None	None
+鄂	e4	同=堮 边际	None	堮
+鄂	e4	捕兽器具	None	None
+鄂	e4	额，眉上发下的部分	None	None
+鄂	e4	通=愕 惊愕	None	愕
+鄂	e4	通=諤 直言	None	諤
+鄂	e4	通=萼 花托	None	萼
+鄂	e4	姓	None	None
+𨜚	None	同=郵	None	郵
 鄋	None	录入中	None	None
 𨜔	None	录入中	None	None
 𨜩	None	录入中	None	None
