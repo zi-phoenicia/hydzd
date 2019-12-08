@@ -57196,20 +57196,31 @@
 𧔧	pang2	[𧔧蒙]也作“𧔧門” 人名	None	None
 蠩	zhu1	[蜛蠩]见“蜛”	None	None
 蠩	chu2	[蟾蠩]也作“蟾=蜍” 癞蛤蟆的别名	None	蜍
-𧓼	None	录入中	None	None
-𧔈	None	录入中	None	None
-𧔃	None	录入中	None	None
-𧓺	None	录入中	None	None
-𧔂	None	录入中	None	None
-𧓹	None	录入中	None	None
-蠡	None	录入中	None	None
-蠟	None	录入中	None	None
-䘌	None	录入中	None	None
-𧔵	None	录入中	None	None
-䘉	None	录入中	None	None
-蠧	None	录入中	None	None
-𧔦	None	录入中	None	None
-蠴	None	录入中	None	None
+𧓼	None	同=蟱	None	蟱
+𧔈	None	同=蠲	None	蠲
+𧔃	None	同=𧔂	None	𧔂
+𧓺	xie4	虫名	None	None
+𧔂	xia2	蝼蛄	None	None
+𧓹	None	同=蚊	None	蚊
+蠡	li3	虫蛀木	None	None
+蠡	li3	器物因腐蚀或磨损而将断	None	None
+蠡	li3	县名 在河北省中部，潴龙河流域 汉置陆成县，元为蠡州，明改县	None	None
+蠡	li2	瓠瓢 如：管窥蠡测	None	None
+蠡	luo3	[瘯蠡]见“瘯”	None	None
+蠡	luo2	同=蠃	None	蠃
+蠡	li4	分割	None	None
+蠡	li4	虫名	None	None
+蠟	la4	动物、矿物或植物所产生的某些油质，具有可塑性，易熔化，不溶于水，溶于二硫化碳和苯 如：蜂蜡；白蜡；石蜡	None	None
+蠟	la4	蜡烛	None	None
+蠟	la4	用蜡涂抹	None	None
+蠟	la4	淡黄如蜡的颜色 如：腊梅	None	None
+䘌	None	同=𧏾	None	𧏾
+𧔵	None	同=𧔂	None	𧔂
+䘉	None	同=蠶	None	蠶
+蠧	None	同=蠹	None	蠹
+𧔦	ye1	[𧔦螉]也作“=蠮螉” 俗称细腰蜂	None	蠮
+𧔦	yan3	同=蝘 “𧔦蜓”也作“蝘蜓” 即壁虎	None	蝘
+蠴	None	同=薯	None	薯
 蠨	None	录入中	None	None
 𧔣	None	录入中	None	None
 𧔬	None	录入中	None	None
