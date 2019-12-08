@@ -57110,42 +57110,47 @@
 蠚	he1	虫毒	None	None
 蠚	he1	螫痛	None	None
 𧓵	None	同=𧍣(蠆)	None	𧍣
-蠛	None	录入中	None	None
-𧔩	None	录入中	None	None
-𧓿	None	录入中	None	None
-𧓕	None	录入中	None	None
-𧓨	None	录入中	None	None
-𧓞	None	录入中	None	None
-蠣	None	录入中	None	None
-𧓽	None	录入中	None	None
-𧓋	None	录入中	None	None
-蠒	None	录入中	None	None
-𧓠	None	录入中	None	None
-蠕	None	录入中	None	None
-𧓑	None	录入中	None	None
-𧓴	None	录入中	None	None
-𧓊	None	录入中	None	None
-𧔀	None	录入中	None	None
-𧓩	None	录入中	None	None
-䗾	None	录入中	None	None
-𧓘	None	录入中	None	None
-䗼	None	录入中	None	None
-𧓝	None	录入中	None	None
-𧓎	None	录入中	None	None
-𧓗	None	录入中	None	None
-𧓙	None	录入中	None	None
-𧓪	None	录入中	None	None
-𧓖	None	录入中	None	None
-𧓬	None	录入中	None	None
-𧓒	None	录入中	None	None
-蠔	None	录入中	None	None
-蠐	None	录入中	None	None
-𧒟	None	录入中	None	None
-𧓲	None	录入中	None	None
-𧓔	None	录入中	None	None
-𧓸	None	录入中	None	None
-蠑	None	录入中	None	None
-𧓌	None	录入中	None	None
+蠛	mie4	[蠛蠓]即“蠓” 昆虫名	None	None
+𧔏	ti2	食苗虫	None	None
+𧓿	mao2	[𧓿蜩]一种小蝉	None	None
+𧓿	mao2	同=蟊 吃苗根的害虫	None	蟊
+𧓕	dong1	[蛞𧓕]蝌蚪	None	None
+𧓨	None	同=𧈟(𧏾)	None	𧈟
+𧓞	None	同=𧒘(蜾)	None	𧒘
+蠣	li4	牡蛎 软体动物 牡蛎科 身体长卵圆形 有两面壳，淡紫色或灰褐色，生活在浅海泥沙中，肉味鲜美 壳烧成灰，可入药 也叫蠔	None	None
+𧓽	li4	同=厲(礪) 磨刀石	None	厲
+𧓽	chai4	同=蠆	None	蠆
+𧓋	chan2	[蠦𧓋]守宫别名	None	None
+蠒	None	同=繭	None	繭
+𧓠	None	同=蜾	None	蜾
+蠕	ru2	像虫类慢慢地行动	None	None
+𧓑	None	同=蚔	None	蚔
+𧓴	ting2	蚕二眠	None	None
+𧓊	None	同=蜚	None	蜚
+𧔀	None	同=蝡	None	蝡
+𧓩	can2	@	None	None
+䗾	None	同=蜆	None	蜆
+𧓘	tuan2	即鱉 俗称团鱼	None	None
+䗼	xun1	虫名	None	None
+䗼	xun1	蚕暖生者	None	None
+𧓝	None	同=𧓍(玭)	None	𧓍
+𧓎	pi2	[𧓎蛸]也作“=螵蛸” 螳螂的卵块	None	螵
+𧓎	bi1	同=螕	None	螕
+𧓗	yi2	[𧓗蝓]也作“=螔蝓” 蜗牛	None	螔
+𧓙	None	同=蟠	None	蟠
+𧓪	ya2	@	None	None
+𧓖	fei4	古籍中说的一种怪兽	None	None
+𧓬	None	同=蠵	None	蠵
+𧓒	None	同=螾(蚓)	None	螾
+蠔	hao2	牡蛎	None	None
+蠐	qi2	[蝤蠐]见“蝤”	None	None
+𧒟	None	同=𧍸(螽)	None	𧍸
+𧓲	None	同=癢(蛘)	None	癢
+𧓔	jing1	[𧓔蛚]虫名 也作“蜻蛚”、“𧓔𧊿”	None	None
+𧓸	zhi4	[𧓸蠋]虫名	None	None
+𬠷	None	=𧕦的类推简化字	None	𧕦
+蠑	rong2	[蠑螈]两栖动物，蝾螈科 形状像蜥蜴，头扁，表面粗糙，背面黑色，腹面红黄色，四肢短，尾侧扁 生活在水中，卵生 幼体形状像蝌蚪 吃小动物 古代也用来指蜥蜴	None	None
+𧓌	None	同=螢	None	螢
 蠙	None	录入中	None	None
 𧓫	None	录入中	None	None
 䗿	None	录入中	None	None
