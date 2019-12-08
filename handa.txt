@@ -75076,13 +75076,17 @@
 𨞻	None	同=鄜	None	鄜
 𩫩	None	同=郭	None	郭
 ⿰享𨜞	du1	@	None	None
-酀	None	录入中	None	None
-𫑮	None	录入中	None	None
-𨟑	None	录入中	None	None
-𨟘	None	录入中	None	None
-𨟕	None	录入中	None	None
+酀	yan4	古地名	None	None
+酀	yan3	人名	None	None
+𫑮	None	同=㕓	None	㕓
+𨟑	li4	古地名	None	None
+𨟘	None	同=酃	None	酃
+𨟕	None	同=鄑	None	鄑
+⿰盧阝	lu2	古地名	None	None
+⿰盧阝	lu2	姓	None	None
+⿰㬱阝	None	同=䣟	None	䣟
 酂	None	=酇的类推简化字	None	酇
-𨞾	None	录入中	None	None
+𨞾	xing1	古地名	None	None
 𨟐	None	同=䣘	None	䣘
 𨟍	None	同=郭	None	郭
 𨟞	None	同=都	None	都
@@ -75090,29 +75094,49 @@
 𨟖	mo2	同=磨 物体相摩擦	None	磨
 𨟏	yin2	古地名	None	None
 𨟛	None	录入中	None	None
-酄	None	录入中	None	None
+酄	huan1	春秋时鲁国城邑名 故地在今山东省肥城市西	None	None
+酄	quan1	古乡名 在今山西省闻喜县	None	None
 𨟟	None	同=𨟑	None	𨟑
-酃	None	录入中	None	None
+酃	ling2	古县名 1.汉置 晋废 故城在今湖南省衡阳市 2.南宋嘉定四年析茶陵县地置酃县 清属湖南省衡洲府 民国初属湖南省衡阳道 1994年改名炎陵县	None	None
+酃	ling2	古湖名 又名=零湖 在今湖南省衡阳市东	None	零
+酃	ling2	酒名 也作=醽	None	醽
+酃	ling2	姓	None	None
 𨟜	None	同=𨝸	None	𨝸
 𨟙	ying1	古地名	None	None
 𨟝	None	同=郁	None	郁
 酁	chan2	春秋时宋国地名	None	None
 酁	chan2	姓	None	None
-𨟚	None	录入中	None	None
+𨟚	rang2	古地名 在今河南省邓州市东南	None	None
+𨟚	rang2	姓	None	None
 𨟢	None	同=𨛶	None	𨛶
-酆	None	录入中	None	None
+酆	feng1	古国名 在今陕西省户县东	None	None
+酆	feng1	古地名 在今陕西省户县东	None	None
+酆	feng1	水名 也作=灃、=豐	None	灃
+酆	feng1	同=豐 丰盛；丰富	None	豐
+酆	feng1	重庆市丰都县的简称	None	None
+酆	feng1	姓	None	None
 𨟣	None	同=𨝸	None	𨝸
-𨟠	None	录入中	None	None
-酅	None	录入中	None	None
+𨟠	que4	古乡名 在山西省闻喜县	None	None
+𨟠	jue2	古地名	None	None
+𨟠	quan1	地名用字 大王𨟠，地名 在天津市郊区	None	None
+酅	xi1	春秋地名 1.春秋纪国邑 在今山东省青州市西北 2.春秋齐国地 在今山东省东阿县南	None	None
+酅	xi1	姓	None	None
 𨟨	None	同=郭	None	郭
 𨟤	None	同=鄜	None	鄜
-酈	None	录入中	None	None
+酈	li2	古地名 春秋属鲁	None	None
+酈	li2	古国名	None	None
+酈	zhi2	古县名 春秋楚郦邑 秦置为郦县，隋改为菊潭县 治今河南省南阳市西北	None	None
+酈	li4	姓	None	None
 𨟥	luo3	@	None	None
-酇	None	录入中	None	None
+酇	zan4	周代地方组织单位之一，一百家聚居的称呼	None	None
+酇	zan4	古县名 1.汉置 南朝梁废 故址在今湖北省老河口市西北 2.东晋侨置 东魏废 故址在今安徽省全椒县西南	None	None
+酇	zan4	姓	None	None
+酇	cuo2	古县名 秦置，属沛郡 治今河南省永城市西北	None	None
+酇	cuo2	白酒 后作=醝	None	醝
 𨟦	None	同=𨝍	None	𨝍
-𨞿	None	录入中	None	None
+𨞿	lang2	[不𨞿]邑名	None	None
 䣣	None	同=䣊	None	䣊
-䣤	None	录入中	None	None
+䣤	jue2	古乡名 在今山西省闻喜县	None	None
 𨟮	None	同=酃	None	酃
 𨟩	None	同=𨝸	None	𨝸
 𨟪	None	同=鄯	None	鄯
