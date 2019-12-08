@@ -74970,35 +74970,51 @@
 𨝻	None	同=鄩	None	鄩
 𨞉	None	同=鄄	None	鄄
 鄪	bi4	古邑名 春秋鲁地 在今山东省=费县西北	None	费
-𨞈	None	录入中	None	None
-鄧	None	录入中	None	None
-𨞔	None	录入中	None	None
-𨞯	None	录入中	None	None
-𨞦	None	录入中	None	None
-𨞠	None	录入中	None	None
-𨞡	None	录入中	None	None
-𨞑	None	录入中	None	None
-𨞨	None	录入中	None	None
-鄸	None	录入中	None	None
-𨞫	None	录入中	None	None
-𨞢	None	录入中	None	None
-𨞜	None	录入中	None	None
-𫑪	None	录入中	None	None
-𨞖	None	录入中	None	None
-𨞣	None	录入中	None	None
-𨝳	None	录入中	None	None
-𨞘	None	录入中	None	None
-𨞙	None	录入中	None	None
-鄴	None	录入中	None	None
-鄳	None	录入中	None	None
-𨞚	None	录入中	None	None
-鄷	None	录入中	None	None
-鄵	None	录入中	None	None
-𨞍	None	录入中	None	None
-𨞕	None	录入中	None	None
-𨞒	None	录入中	None	None
-鄶	None	录入中	None	None
-𨞥	None	录入中	None	None
+𨞈	None	[𨞈父𪔉]器名	None	None
+鄧	deng4	古国名 曼姓 在今湖北省襄樊市西北 公元前678年为楚所灭	None	None
+鄧	deng4	古地名 1.春秋蔡地，后属楚 在今河南省漯河市东南 2.春秋鲁地 在今山东省汶河以南、运河以北地区（清兖州府境） 3.战国楚地，秦置邓县，是故邓侯国 在今湖北省襄樊市北 4.战国魏邑，在今河南省孟州市西	None	None
+鄧	deng4	古州名 隋置，治今河南省邓州市 1913年改县，1988年改设邓州市	None	None
+鄧	deng4	逗弄	None	None
+鄧	deng4	澄净；纯净	None	None
+鄧	deng4	姓	None	None
+𨞔	None	同=䢽(巷)	None	䢽
+𨞯	None	同=鄸	None	鄸
+𨞦	None	同=𨞙	None	𨞙
+𨞠	None	同=巷	None	巷
+𨞡	None	同=鄶	None	鄶
+𨞑	weng4	臭气	None	None
+𨞨	gai4	古地名	None	None
+⿰⿱艹𭥭阝	None	同=𨞛	None	𨞛
+鄸	meng4	古地名 春秋曹邑 在今山东省曹县北	None	None
+鄸	meng4	姓	None	None
+鄸	meng4	古地名 春秋鲁邑	None	None
+𨞫	meng2	古邑名	None	None
+𨞢	qi1	同=䣛	None	䣛
+𨞜	None	=㪺的讹字	None	㪺
+𫑪	lei2	古地名	None	None
+𨞖	None	同=酃	None	酃
+𨞣	xu1	@	None	None
+𨝳	zi1	同=𨚖 1.古谷名 2.古县名	None	𨚖
+𨞘	xi3	古地名 在今山东省境	None	None
+𨞙	qu2	聚名	None	None
+⿰⿸虍⿱罒又阝	None	同=𨞘	None	𨞘
+鄴	ye4	旧县名 春秋齐桓公始筑城 战国魏置县 三国魏为邺都 晋避怀帝讳，改为临漳 此后，历为前秦、后赵、东魏、北齐的首都 隋复为邺县，宋废 1949年复置，1954年撤销 故址在今河北省临漳县西南	None	None
+鄴	ye4	姓	None	None
+鄳	meng2	古地名 1.[鄳阨]即=冥阨，古隘道名 即今河南省信阳市西南平靖关 2.古县名 西汉置 故治在今河南省罗山县西南九里	None	冥
+𨞚	None	同=鄳	None	鄳
+鄷	None	同=酆	None	酆
+鄵	cao4	古地名 春秋郑地 在今河南省新郑市至鲁山县之间	None	None
+鄵	cao4	姓	None	None
+鄵	sou1	同=𨜛(鄋)	None	𨜛
+𨞍	None	=鄂的讹字	None	鄂
+𬪗	huan2	姓	None	None
+𬪗	xian4	同=縣	None	縣
+𨞕	zhu2	古县名	None	None
+𨞕	chu4	人名	None	None
+𨞒	None	同=䣢	None	䣢
+鄶	kuai4	古国名 西周分封的诸侯国，相传为祝融之后，妘姓 公元前769年为郑所灭 在今河南省新密市东北	None	None
+鄶	kuai4	姓	None	None
+𨞥	None	同=郭	None	郭
 䣡	None	录入中	None	None
 𨞗	None	录入中	None	None
 𨞮	None	录入中	None	None
