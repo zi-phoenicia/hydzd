@@ -57304,29 +57304,33 @@
 𧕹	None	同=蠢	None	蠢
 蠺	None	同=蠶	None	蠶
 𧕜	None	同=𧔞	None	𧔞
-𧕩	None	烂 疑即“螎(融)”字	None	None
-𧕷	None	录入中	None	None
-䘍	None	录入中	None	None
-蠹	None	录入中	None	None
-𧕡	None	录入中	None	None
-蠶	None	录入中	None	None
-蠷	None	录入中	None	None
-𧕫	None	录入中	None	None
-𧕦	None	录入中	None	None
-𧕛	None	录入中	None	None
-蠵	None	录入中	None	None
-𧕲	None	录入中	None	None
-𧕟	None	录入中	None	None
-𧕠	None	录入中	None	None
-𧕮	None	录入中	None	None
-𧕢	None	录入中	None	None
-𧕝	None	录入中	None	None
-𧕸	None	录入中	None	None
-𧕴	None	录入中	None	None
-𧕰	None	录入中	None	None
-𧕯	None	录入中	None	None
-𧕹	None	录入中	None	None
-𧕼	None	录入中	None	None
+𧕩	None	烂 疑即=螎(融)字	None	螎
+𧕷	None	同=蠢	None	蠢
+䘍	None	同=蠆	None	蠆
+蠹	du4	蛀虫	None	None
+蠹	du4	蛀蚀	None	None
+蠹	du4	损坏，损害	None	None
+𧕡	fu4	蝗虫	None	None
+蠶	can2	蚕蛾科和天蚕科昆虫的通称 幼虫能吐丝结茧 茧丝可用作纤维资源 如：家蚕；柞蚕；蓖麻蚕	None	None
+蠶	can2	养蚕	None	None
+蠷	qu2	兽名 猿猴之类	None	None
+𧕫	None	同=蠝	None	蠝
+𧕦	tuo2	[𧕦圍]古籍中说的神名	None	None
+𧕛	None	同=𧕦	None	𧕦
+蠵	xi1	蠵龟	None	None
+𧕲	juan3	昆虫吮食	None	None
+𧕟	shuang1	虫名	None	None
+𧕠	None	同=螽	None	螽
+𧕮	li2	[螹𧕮]1.虫名 2.鱼名 3.无角龙	None	None
+𧕢	None	同=䗷	None	䗷
+𧕝	ning2	虫名 一说即蝼蛄	None	None
+𧕸	None	同=蝗	None	蝗
+𧕴	nan2	虫名	None	None
+𧕰	None	同=蜉	None	蜉
+𧕯	li2	[䗅𧕯]见“䗅”	None	None
+𧕯	shi1	螺	None	None
+𧕹	None	同=蠢	None	蠢
+𧕼	xu3	@ ……按：……疑为=翽的增旁繁化俗字	None	翽
 𧕓	None	录入中	None	None
 𧕵	None	录入中	None	None
 𧕺	None	录入中	None	None
