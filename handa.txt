@@ -56882,16 +56882,19 @@
 蟊	mao2	[蠿蟊]见“蠿”	None	None
 蟊	mao2	吃苗根的害虫	None	None
 蟊	meng2	古代占卜时的一种龟兆	None	None
-䗰	None	录入中	None	None
-蠁	None	录入中	None	None
-𧑀	None	录入中	None	None
-𧑰	None	录入中	None	None
-𧑨	None	录入中	None	None
-𧑜	None	录入中	None	None
-𧑡	None	录入中	None	None
-蟯	None	录入中	None	None
-𧑣	None	录入中	None	None
-𧑅	None	录入中	None	None
+⿱维虫	None	=䗽的类推简化字	None	䗽
+䗰	guan4	螺	None	None
+蠁	xiang3	土蛹	None	None
+蠁	xiang3	醯鸡 即蠛蠓 古人误以为酒醋上的白霉变成，故名	None	None
+𧑀	lve4	[渠𧑀]即螶𧎾 蜉蝣的别称	None	None
+𧑰	None	同=蟘	None	蟘
+𧑨	qie2	[𧑨蚼]也作“蛪蚼” 蝉的一种	None	None
+𧑜	pi2	虫名	None	None
+𧑡	pa2	虫名	None	None
+蟯	nao2	寄生虫名 尖尾线虫科 身体很小，白色，像线头 寄生在人体的小肠下部和大肠里 雌虫常从肛门爬出来产卵 患者常觉肛门奇痒，并有消瘦、食欲不振等症状	None	None
+蟯	rao4	虫动貌	None	None
+𧑣	None	同=蟯	None	蟯
+𧑅	None	同=蚎(蚏)	None	蚎
 蟦	None	录入中	None	None
 𧑱	None	录入中	None	None
 𧑭	None	录入中	None	None
