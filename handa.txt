@@ -57221,72 +57221,90 @@
 𧔦	ye1	[𧔦螉]也作“=蠮螉” 俗称细腰蜂	None	蠮
 𧔦	yan3	同=蝘 “𧔦蜓”也作“蝘蜓” 即壁虎	None	蝘
 蠴	None	同=薯	None	薯
-蠨	None	录入中	None	None
-𧔣	None	录入中	None	None
-𧔬	None	录入中	None	None
-䘈	None	录入中	None	None
-𧔝	None	录入中	None	None
-𧔞	None	录入中	None	None
-𧔯	None	录入中	None	None
-𧔻	None	录入中	None	None
-𧔪	None	录入中	None	None
-蠦	None	录入中	None	None
-𧔤	None	录入中	None	None
-𧔼	None	录入中	None	None
-𧔮	None	录入中	None	None
-𧔽	None	录入中	None	None
-𧔢	None	录入中	None	None
-蠭	None	录入中	None	None
-𧔳	None	录入中	None	None
-𧔫	None	录入中	None	None
-𧕔	None	录入中	None	None
-䘇	None	录入中	None	None
-蠬	None	录入中	None	None
-蠪	None	录入中	None	None
-𧔠	None	录入中	None	None
-𧔟	None	录入中	None	None
-𧔭	None	录入中	None	None
-𧕍	None	录入中	None	None
-䘆	None	录入中	None	None
-𧔲	None	录入中	None	None
-𧔡	None	录入中	None	None
-𧔨	None	录入中	None	None
-蠥	None	录入中	None	None
-䘅	None	录入中	None	None
-𧔠	None	录入中	None	None
-𧕨	None	录入中	None	None
-蠸	None	录入中	None	None
-𧕐	None	录入中	None	None
-蠮	None	录入中	None	None
-𧕅	None	录入中	None	None
-𧕆	None	录入中	None	None
-蠳	None	录入中	None	None
-𧕌	None	录入中	None	None
-蠱	None	录入中	None	None
-𧕞	None	录入中	None	None
-䘊	None	录入中	None	None
-𧕧	None	录入中	None	None
-𧕙	None	录入中	None	None
-𧕋	None	录入中	None	None
-䘋	None	录入中	None	None
-𧕥	None	录入中	None	None
-𧕤	None	录入中	None	None
-𧕉	None	录入中	None	None
-𧕃	None	录入中	None	None
-𧕇	None	录入中	None	None
-𧕊	None	录入中	None	None
-蠰	None	录入中	None	None
-𧕄	None	录入中	None	None
-蠯	None	录入中	None	None
-𧕕	None	录入中	None	None
-𧕎	None	录入中	None	None
-𧕈	None	录入中	None	None
-𧕒	None	录入中	None	None
-𧕑	None	录入中	None	None
-𧕹	None	录入中	None	None
-蠺	None	录入中	None	None
-𧕜	None	录入中	None	None
-𧕩	None	录入中	None	None
+蠨	xiao1	[蠨蛸]一种长脚小蜘蛛 蟏蛸科 身体细长，暗褐色 多在室内墙壁间结网 又称喜蛛或喜子，旧时以为是喜庆的预兆	None	None
+𧔣	ta4	虫名	None	None
+𧔬	du4	同=蠹	None	蠹
+𧔬	du4	食禾虫	None	None
+䘈	None	疑为=蠣的讹字	None	蠣
+𧔝	li4	野蚕	None	None
+𧔞	yuan2	原蚕 又叫晚蚕、再蚕、重蚕 即一年中孵化两次的蚕	None	None
+𧔯	None	同=𧖎(蚍)	None	𧖎
+𧔻	None	同=蚍	None	蚍
+𧔪	pin2	蟑螂	None	None
+蠦	lu2	[蠦蜰]蟑螂 又名“蜚”	None	None
+𧔤	xuan2	虫名	None	None
+𧔼	None	同=𧒎	None	𧒎
+𧔮	None	同=蟻	None	蟻
+𧔽	None	=𧓞的讹字	None	𧓞
+𧔢	None	同=䗃	None	䗃
+蠭	feng1	同=蜂	None	蜂
+蠭	feng1	通=鋒 锋利；锐气	None	鋒
+蠭	pang2	[蠭門]人名	None	None
+𧔳	tuo2	[涉𧔳]也作“涉=𧕦” 古籍中的神名	None	𧕦
+𧔫	None	同=蜳	None	蜳
+𧕔	None	同=𧔄(蠍)	None	𧔄
+䘇	None	同=蚊	None	蚊
+蠬	long2	[蠬蠭]虫名	None	None
+蠪	long2	[鮭蠪]传说中的神名	None	None
+蠪	long2	一种大蚂蚁，身上赤色斑驳	None	None
+蠪	long2	[蚵蠪]见“蚵(he2)”	None	None
+𧔠	xi1	同=𣟵 瓢勺	None	𣟵
+𧔟	None	同=螣	None	螣
+𧔭	qiu2	[次𧔭]也作“次=蟗” 蜘蛛的别称	None	蟗
+𧕍	ying2	[𧕍虰]肠中虫	None	None
+䘆	xian3	[寒䘆]蚯蚓别名	None	None
+𧔲	None	同=螟	None	螟
+𧔡	zhan3	虫名	None	None
+𧔨	mao2	食苗根的害虫 也比喻危害人民和国家的人 后作=蟊	None	蟊
+蠥	nie4	妖孽 后作=孽	None	孽
+蠥	nie4	忧	None	None
+䘅	None	同=螚	None	螚
+𧕨	zang4	石高险貌	None	None
+蠸	quan2	昆虫 又名“瓜萤”、“守瓜” 叶甲科 成虫橙黄色，有硬壳，幼虫黄白色，身上有细毛 是瓜类的主要害虫，也吃果树和豆类植物的叶	None	None
+蠸	quan2	虫咬刺	None	None
+蠸	huan4	大鳖	None	None
+𧕐	None	同=螬	None	螬
+蠮	ye1	[蠮螉]俗称细腰蜂 泥蜂科 黑色，腰细长，雌虫尾端有尾刺，能蜇人 独栖，掘地作巢，藏已麻痹的尺蠖等作为幼虫的食饵，成虫吸食花粉花蜜	None	None
+𧕅	ling2	[螟𧕅]也作“螟=蛉” 螟蛉蛾的幼虫	None	蛉
+𧕆	None	同=𣟵	None	𣟵
+蠳	ying1	鬼名 又叫摄龟 能食蛇	None	None
+𧕌	lve4	[螶𧕌]也作“螶=𧎾” 即蜉蝣	None	𧎾
+蠱	gu3	腹内中虫食之毒	None	None
+蠱	gu3	古籍中一种人工培养的毒虫	None	None
+蠱	gu3	枭磔死之鬼	None	None
+蠱	gu3	伤害人的热毒恶气	None	None
+蠱	gu3	蛀虫	None	None
+蠱	gu3	害人的邪术	None	None
+蠱	gu3	蛊惑，诱惑，迷惑	None	None
+蠱	gu3	事	None	None
+蠱	gu3	六十四卦之一，卦形为x，艮上巽下	None	None
+蠱	ye3	妖艳	None	None
+𧕞	wei4	𧔞蚕	None	None
+䘊	mie4	[䘊蠓]即=蠛蠓 也称蠓䘊	None	蠛
+𧕧	chai4	毒虫	None	None
+𧕙	qing1	@	None	None
+𧕋	yue4	[𧐔𧕋]见“𧐔”	None	None
+䘋	jian3	虫名	None	None
+𧕥	mo4	小蚊虫	None	None
+𧕤	mo4	[𧕤貈]螳螂	None	None
+𧕉	qi1	同=螇 土蜂	None	螇
+𧕃	chan2	蟹属	None	None
+𧕇	xian3	蛇名	None	None
+𧕊	None	同=蜨	None	蜨
+蠰	nang2	[蟷蠰]见“蟷”	None	None
+蠰	shang4	天牛的一种	None	None
+蠰	rang3	[蠰谿]灰蚱蜢	None	None
+𧕄	ying1	寒蝉	None	None
+蠯	None	同=螷	None	螷
+𧕕	None	同=蝱	None	蝱
+𧕎	qu2	[𧕎𧎾]也作“=螶𧎾” 蜉蝣	None	螶
+𧕈	None	同=螱	None	螱
+𧕒	fei3	同=蜚 1.古籍中说的一种怪兽 2.蟑螂	None	蜚
+𧕑	None	同=蟊	None	蟊
+𧕹	None	同=蠢	None	蠢
+蠺	None	同=蠶	None	蠶
+𧕜	None	同=𧔞	None	𧔞
+𧕩	None	烂 疑即“螎(融)”字	None	None
 𧕷	None	录入中	None	None
 䘍	None	录入中	None	None
 蠹	None	录入中	None	None
