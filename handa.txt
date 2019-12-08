@@ -75015,50 +75015,67 @@
 鄶	kuai4	古国名 西周分封的诸侯国，相传为祝融之后，妘姓 公元前769年为郑所灭 在今河南省新密市东北	None	None
 鄶	kuai4	姓	None	None
 𨞥	None	同=郭	None	郭
-䣡	None	录入中	None	None
-𨞗	None	录入中	None	None
-𨞮	None	录入中	None	None
-𨞰	None	录入中	None	None
-𨞸	None	录入中	None	None
-䣢	None	录入中	None	None
-𨞪	None	录入中	None	None
-鄹	None	录入中	None	None
-𨞼	None	录入中	None	None
-𨟁	None	录入中	None	None
-𨟂	None	录入中	None	None
-𨞺	None	录入中	None	None
-𨞬	None	录入中	None	None
-𨞹	None	录入中	None	None
-𨞱	None	录入中	None	None
-𨞲	None	录入中	None	None
-𨞷	None	录入中	None	None
-𨞶	None	录入中	None	None
-𨞳	None	录入中	None	None
-𨞭	None	录入中	None	None
-鄺	None	录入中	None	None
-𨞴	None	录入中	None	None
-𨞧	None	录入中	None	None
-𨞵	None	录入中	None	None
-𨞩	None	录入中	None	None
-𨟄	None	录入中	None	None
-𨟉	None	录入中	None	None
-鄻	None	录入中	None	None
-鄼	None	录入中	None	None
-𨟔	None	录入中	None	None
-鄿	None	录入中	None	None
-𨟗	None	录入中	None	None
-𨟅	None	录入中	None	None
-鄾	None	录入中	None	None
-𨞽	None	录入中	None	None
-𨟎	None	录入中	None	None
-𨟀	None	录入中	None	None
-𨟋	None	录入中	None	None
-𨟊	None	录入中	None	None
-𨟃	None	录入中	None	None
-𨟌	None	录入中	None	None
-鄽	None	录入中	None	None
-𨞻	None	录入中	None	None
-𩫩	None	录入中	None	None
+⿰⿸𢇶用阝	None	同=鄘	None	鄘
+䣡	yi2	古地名 在今安徽省泗县北	None	None
+𨞗	qun2	地名	None	None
+𨞮	None	同=聚 人们聚居的地方	None	聚
+𨞰	None	同=鄉	None	鄉
+𨞸	None	同=𨞰	None	𨞰
+䣢	ji2	古地名 在今四川省	None	None
+䣢	ji2	水名	None	None
+䣢	ji2	姓	None	None
+𨞪	chou2	古地名 在今四川省都江堰市境	None	None
+𨞪	shou4	古水名	None	None
+鄹	zou1	同=鄒 古国名	None	鄒
+鄹	zou1	同=郰 春秋鲁邑，孔子的家乡 在今山东省曲阜市东南	None	郰
+鄹	ju4	古亭名，在新丰	None	None
+鄹	ju4	同=聚 村落	None	聚
+𨞼	wan4	乡名	None	None
+𨞼	wan4	同=鄤 郑邑	None	鄤
+𨟁	None	=鄸的讹字	None	鄸
+𨟂	shi3	乡名	None	None
+𨞺	li4	姓	None	None
+𨞬	None	同=鄽	None	鄽
+𨞹	None	同=虨	None	虨
+𨞱	None	同=䣘	None	䣘
+⿰⿱罒⿺𠃊非阝	None	同=鄳	None	鄳
+𨞲	shen1	@	None	None
+𨞷	can2	亭名	None	None
+𨞶	qiao1	古亭名	None	None
+𨞳	None	同=劓 割鼻	None	劓
+𨞭	None	同=酁	None	酁
+鄺	kuang4	姓	None	None
+鄺	kuo4	分解；分割	None	None
+𬪜	qi2	古地名	None	None
+𨞴	None	同=𨟏	None	𨟏
+𨞧	None	同=鄰	None	鄰
+𨞵	None	同=鄮	None	鄮
+𨞩	que4	古地名	None	None
+𨟄	fan2	古乡名 在今陕西省西安市南	None	None
+⿱𪏯邑	None	同=𨛫	None	𨛫
+𨟉	None	同=㪺	None	㪺
+鄻	lian3	古地名	None	None
+鄼	None	同=酇	None	酇
+𨟔	None	同=𨞼	None	𨞼
+鄿	ji1	古县名 故治在今安徽省宿州市	None	None
+鄿	ji1	姓	None	None
+鄿	qi2	草名	None	None
+𨟗	None	同=鄬	None	鄬
+𨟅	None	同=𨟄	None	𨟄
+鄾	you1	古地名 春秋邓地 古鄾子国 在今湖北省襄樊市西北	None	None
+鄾	you1	姓	None	None
+𨞽	lei2	地名	None	None
+𨟎	None	同=酅	None	酅
+𨟀	None	同=𨛫	None	𨛫
+𨟋	None	[𨟋𣪘]器名	None	None
+𨟊	zhi4	古地名	None	None
+𨟊	zhi4	姓	None	None
+𨟃	zheng1	古国名	None	None
+𨟌	None	同=鄩	None	鄩
+鄽	None	同=廛	None	廛
+𨞻	None	同=鄜	None	鄜
+𩫩	None	同=郭	None	郭
+⿰享𨜞	du1	@	None	None
 酀	None	录入中	None	None
 𫑮	None	录入中	None	None
 𨟑	None	录入中	None	None
