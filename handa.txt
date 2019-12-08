@@ -74307,34 +74307,57 @@
 郕	cheng2	古邑名 春秋鲁孟氏邑 在今山东省宁阳县东北	None	None
 郕	cheng2	古国名 姬姓 周武王弟叔武的封国 在今山东省宁阳县东北	None	None
 郕	cheng2	姓	None	None
+⿰⿱平一阝	None	同=䣆	None	䣆
 郏	None	=郟的类推简化字	None	郟
-𨚾	None	录入中	None	None
-郅	None	录入中	None	None
+𨚾	xian1	@	None	None
+郅	zhi4	[郁郅]古县名 在今甘肃省庆阳市	None	None
+郅	zhi4	登陟	None	None
+郅	zhi4	通=至 大	None	至
+郅	zhi4	姓	None	None
+郅	ji2	[郅偈]高耸矗立貌	None	None
+郅	ji2	同=姞 姓	None	姞
 𨛆	None	同=邱	None	邱
-𨚖	None	录入中	None	None
-𨚰	None	录入中	None	None
-𨚯	None	录入中	None	None
-郘	None	录入中	None	None
+⿰⿱上⿹勹丿阝	zou1	@	None	None
+𨚖	zi1	古谷名	None	None
+𨚖	zi1	古县名	None	None
+𨚰	zao3	古邑名	None	None
+𨚯	tong2	同=桐 古地名	None	桐
+郘	lv3	古邑名 也作=吕 在今山西省霍州市南 春秋时属晋，为吕甥封邑	None	吕
+郘	lv3	古亭名	None	None
 𨚿	None	同=删	None	删
 𨛇	None	同=𨹌	None	𨹌
-𨚶	None	录入中	None	None
-邾	None	录入中	None	None
-䢾	None	录入中	None	None
-𨛀	None	录入中	None	None
-郔	None	录入中	None	None
-郋	None	录入中	None	None
-郈	None	录入中	None	None
-郍	None	录入中	None	None
+𨚶	nian2	古乡名 在今陕西省礼泉县东北谷口城境	None	None
+邾	zhu1	古国名 相传为颛顼后裔挟（一本作“俠”）所建立，曹姓 至周代，为鲁附庸 亦称邾娄，后改曰邹，战国时为楚所灭 故城在今山东省邹城市东南	None	None
+邾	zhu1	古邑名 战国楚地 楚宣王灭邾国，迁其君于此，故名 在今湖北省黄冈市境	None	None
+邾	zhu1	姓 古代邾国贵族以国为氏 后为楚灭，改为=朱	None	朱
+䢾	xian3	同=姺 古国名 相传旧址即今山东省曹县北之莘冢集	None	姺
+𨛀	None	同=郵	None	郵
+郔	yan2	古地名 1.春秋郑地 在今河南省郑州市南 2.春秋楚地 在今河南省项城市境	None	None
+郋	xi2	汉汝南郡召陵县所辖里名	None	None
+郈	hou4	古邑名 春秋鲁叔孙氏邑 也作⿰厚阝 在今山东省东平县东南，汶上县北	None	None
+郈	hou4	姓	None	None
+郍	nuo2	同=那	None	那
+郍	na3	同=哪	None	哪
+郍	fu2	隐藏	None	None
 𨛈	quan2	剔	None	None
 郐	None	=鄶的类推简化字	None	鄶
-郃	None	录入中	None	None
-郄	None	录入中	None	None
-䣀	None	录入中	None	None
-郇	None	录入中	None	None
-𨛊	None	录入中	None	None
-𨛅	None	录入中	None	None
-𨛰	None	录入中	None	None
-𨛉	None	录入中	None	None
+郃	he2	[郃陽]旧县名 在陕西省中部 也作“=合陽” 1964年改为合阳县	None	合
+郃	he2	水名	None	None
+郃	he2	姓	None	None
+郃	xia2	合	None	None
+郄	xi4	同=郤 也作=隙 1.空隙 2.古地名 3.姓	None	郤
+郄	xi4	通=𧮬(jue2) 疲劳	None	𧮬
+郄	qie4	姓	None	None
+䣀	gui3	[陸䣀]山名	None	None
+䣀	qi1	古地名	None	None
+䣀	wei2	古邑名	None	None
+郇	xun2	古国名 姬姓 周文王子封于此 春秋时为晋地 在今山西省临猗县西南	None	None
+郇	xun2	姓	None	None
+郇	huan2	姓	None	None
+𨛊	yin2	古地名	None	None
+𨛅	None	=卶的讹字	None	卶
+𨛰	zheng1	古国名	None	None
+𨛉	ji4	山名	None	None
 郊	None	录入中	None	None
 郂	None	录入中	None	None
 𨚳	None	录入中	None	None
