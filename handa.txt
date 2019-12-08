@@ -57069,32 +57069,47 @@
 蟾	chan2	传说月中有蟾蜍，故以“蟾”为月的代称	None	None
 蟾	chan2	屋檐下的排水设备	None	None
 蠏	None	同=蟹	None	蟹
-蟹	None	录入中	None	None
-𧒒	None	录入中	None	None
-𧓂	None	录入中	None	None
-蟺	None	录入中	None	None
-𧒐	None	录入中	None	None
-蠊	None	录入中	None	None
-蠀	None	录入中	None	None
-䗷	None	录入中	None	None
-𧒱	None	录入中	None	None
-䗸	None	录入中	None	None
-蟻	None	录入中	None	None
-䗹	None	录入中	None	None
-𧒡	None	录入中	None	None
-𧒧	None	录入中	None	None
-蟰	None	录入中	None	None
-𧒝	None	录入中	None	None
-𧓄	None	录入中	None	None
-𧒥	None	录入中	None	None
-𧒢	None	录入中	None	None
-蠘	None	录入中	None	None
-䘁	None	录入中	None	None
-䘄	None	录入中	None	None
-𧓜	None	录入中	None	None
-𧓏	None	录入中	None	None
-蠚	None	录入中	None	None
-𧓵	None	录入中	None	None
+蟹	xie4	螃蟹 甲壳类动物，全身有甲壳，前面的一对大脚成钳状，叫螯 横着走 腹部分节，俗叫脐，雄的尖脐，雌的团脐 种类很多，多数栖于海中，少数生活于淡水或咸淡水中，有些种类则水陆两栖或陆栖	None	None
+𧒒	None	同=蠭(蜂)	None	蠭
+𧓂	None	同=𧔄(蠍)	None	𧔄
+蟺	shan4	[夗蟺]也作“䖤蟺”、“蜿蟺” 1.屈曲盘旋 2.蚯蚓别名	None	None
+蟺	shan4	鳝鱼 也作=鱓(鱔)	None	鱓
+蟺	shan4	蜕变	None	None
+蟺	dan4	土蜂	None	None
+蟺	chan2	同=蟬 蝉科动物的通称	None	蟬
+蟺	tuo2	爬行动物 鳄鱼的一种	None	None
+𧒐	ye1	[𧒐螉]也作“=蠮螉” 细腰蜂	None	蠮
+蠊	lian2	[飛蠊]即“蜚蠊” 蟑螂的别称	None	None
+蠊	lian2	同=螊 蚌类	None	螊
+蠀	ci1	[蠀螬]也作“=蠐螬” 金龟子的幼虫	None	蠐
+蠀	ji2	[蠀𧑙]尺蠖虫	None	None
+䗷	yi4	蠮螉，细腰蜂	None	None
+𧒱	None	同=䗸	None	䗸
+䗸	yong1	虫名 蛘	None	None
+蟻	yi3	蚂蚁 蚁科昆虫的通称 一般体小，呈黑、褐、红等色 多在地下做窝成群居住，种类很多	None	None
+蟻	yi3	玄色	None	None
+蟻	yi3	酒上浮沫	None	None
+蟻	yi3	幼蚕	None	None
+蟻	yi3	姓	None	None
+蟻	ji3	同=蟣	None	蟣
+䗹	None	同=蛓	None	蛓
+𧒡	None	同=𧔂	None	𧔂
+𧒧	None	同=蜜	None	蜜
+蟰	None	同=蠨	None	蠨
+𧒝	zhan1	虫名	None	None
+𧓄	bi4	[蚼𧓄]也作“𪓟=鼊” 龟属	None	鼊
+𧒥	None	同=螯	None	螯
+𧒢	None	同=蝨	None	蝨
+蠘	jie2	梭子蟹 蝤蛑科 头胸部的甲略呈梭形，螯足长大，长栖息在海底	None	None
+䘁	None	同=𧓷(蠽)	None	𧓷
+䘄	zhu4	蝉类	None	None
+䘄	zhu4	毒虫	None	None
+𧓜	None	同=蠹	None	蠹
+𧓏	cong2	虫名	None	None
+蠚	he1	有毒腺的动物刺毒别的生物	None	None
+蠚	he1	虫毒	None	None
+蠚	he1	螫痛	None	None
+𧓵	None	同=𧍣(蠆)	None	𧍣
 蠛	None	录入中	None	None
 𧔩	None	录入中	None	None
 𧓿	None	录入中	None	None
