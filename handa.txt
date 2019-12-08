@@ -74705,13 +74705,36 @@
 郿	mei2	古地名 1.周郿邑 在今陕西省眉县东 2.春秋鲁邑 在今山东省东平县境 3.乡名 在今陕西省合阳县境	None	None
 郿	mei2	旧县名 战国秦置，治今陕西省眉县东渭河北岸 1964年改名眉县	None	None
 𨜏	ying2	姓 也作=盈	None	盈
-鄈	None	录入中	None	None
-𨜙	None	录入中	None	None
-鄊	None	录入中	None	None
-𨜕	None	录入中	None	None
-鄉	None	录入中	None	None
-䣖	None	录入中	None	None
-𦤡	None	录入中	None	None
+⿰貟阝	None	同=鄖	None	鄖
+鄈	kui2	古地名 也作=葵 鄈地有三 1.在今山西省临汾市境 2.春秋齐地 在今山东省淄博市东北 3.春秋宋地 在今河南省开封市东南	None	葵
+𨜙	None	同=𨛶	None	𨛶
+鄊	None	同=鄉	None	鄉
+𨜕	None	同=巷	None	巷
+鄉	xiang1	基层行政区划名，后指县以下的农业基层行政单位 1.周制，万二千五百家为乡 2.春秋齐制：十连为乡 3.十扁（甸）为乡 4.汉制，一百户为一里，十里一亭，十亭一乡 5.唐、宋迄今县级以下的行政区划	None	None
+鄉	xiang1	乡村，泛指城市以外的地区 如：四乡；下乡	None	None
+鄉	xiang1	出生地、家乡或祖籍	None	None
+鄉	xiang1	处所；地区	None	None
+鄉	xiang1	指某种境界或状态	None	None
+鄉	xiang1	喻辈类	None	None
+鄉	xiang1	本经之气位	None	None
+鄉	xiang1	香	None	None
+鄉	xiang1	古代乡大夫的略称	None	None
+鄉	xiang1	乡饮酒礼的略称	None	None
+鄉	xiang1	姓	None	None
+鄉	xiang3	救	None	None
+鄉	xiang3	通=響 回声	None	響
+鄉	xiang3	通=享 享受	None	享
+鄉	xiang4	方向；方位 也作=嚮(向)	None	嚮
+鄉	xiang4	面向；朝着 也作=向	None	向
+鄉	xiang4	趋向	None	None
+鄉	xiang4	景仰；向往	None	None
+鄉	xiang4	窗户	None	None
+鄉	xiang4	殿堂前两阶之间	None	None
+鄉	xiang4	从前；往时	None	None
+鄉	xiang4	副词 1.先时，往日 也作=曏 2.将；将要	None	曏
+鄉	xiang4	连词 表示假设，相当于“如果”	None	None
+䣖	None	同=䣕	None	䣕
+𦤡	None	同=鄓 也作=䭂	None	鄓
 𨝅	None	录入中	None	None
 䣕	None	录入中	None	None
 𨝜	None	录入中	None	None
