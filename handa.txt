@@ -56758,45 +56758,64 @@
 蟎	man3	节肢动物的一类 头、胸和腹通常成为一整块，不分环节 绝大多数是圆形、椭圆形或长形 种类很多 有的寄生在人或其他动物体上，吸血液，传染疾病，如疥虫；有的危害仓库贮藏物品，如粉螨；有的危害农作物，如麦叶螨等	None	None
 ⿱㒼虫	None	同=蟎	None	蟎
 蠎	None	同=蟒	None	蟒
-蟏	None	录入中	None	None
-螹	None	录入中	None	None
-𧐮	None	录入中	None	None
-𧐕	None	录入中	None	None
-螬	None	录入中	None	None
-𧐁	None	录入中	None	None
-𧏺	None	录入中	None	None
-𧐝	None	录入中	None	None
-𧐵	None	录入中	None	None
-螵	None	录入中	None	None
-䗟	None	录入中	None	None
-𧏽	None	录入中	None	None
-䗩	None	录入中	None	None
-𧐶	None	录入中	None	None
-螮	None	录入中	None	None
-䗮	None	录入中	None	None
-𧐅	None	录入中	None	None
-𧐬	None	录入中	None	None
-𧐑	None	录入中	None	None
-螳	None	录入中	None	None
-𧐓	None	录入中	None	None
-螻	None	录入中	None	None
-蟃	None	录入中	None	None
-𧑌	None	录入中	None	None
-𧐋	None	录入中	None	None
-𧐯	None	录入中	None	None
-螺	None	录入中	None	None
-蟈	None	录入中	None	None
-𧐌	None	录入中	None	None
-𧑵	None	录入中	None	None
-𧒖	None	录入中	None	None
-𧐰	None	录入中	None	None
-𧐉	None	录入中	None	None
-蟍	None	录入中	None	None
-𧐀	None	录入中	None	None
-𧐟	None	录入中	None	None
-𧐃	None	录入中	None	None
-䗯	None	录入中	None	None
-蟂	None	录入中	None	None
+蟏	None	=蠨的简化字	None	蠨
+螹	jian3	[螹離]也作“螹𧕮” 1.虫名 2.无角龙	None	None
+螹	chan2	[螹胡]也作“=獑胡” 兽名 猿属	None	獑
+𧐮	None	同=螹	None	螹
+𧐕	tuan2	同=鱄	None	鱄
+螬	cao2	[蠐螬]又名“螬蠐” 金龟子的幼虫 乳白色，圆柱状，体常弯曲呈马蹄形，背上多横皱纹 居于土中，吃农作物的根和茎，是害虫 俗呼为“地蚕”	None	None
+𧐁	su4	[䗱𧐁]也作“䗱=𧐒” 小虫名	None	𧐒
+𧏺	xu4	幺蚕	None	None
+𧏺	ou4	蚕眠	None	None
+𧐝	None	同=蚪	None	蚪
+𧐵	None	同=蚪	None	蚪
+螵	piao1	[螵蛸]1.螳螂的卵块 产在桑树上的叫“桑螵蛸” 2.乌贼鱼 也指乌贼鱼的骨	None	None
+䗟	yi4	虫名	None	None
+𧏽	ye1	[𧏽螉]也作“=蠮螉” 细腰蜂	None	蠮
+䗩	qi1	蟾蜍	None	None
+䗩	qi1	一群不同科、属的软体动物的总称 虽属腹足纲，但介壳上无螺旋，壳背隆起，略呈笠状，因而也称“笠贝”或“帽贝” 以腹足吸着海边岩礁上，食海水中浮游生物如藻类 如龟甲䗩、中华天窗䗩等 有的种类可供食用	None	None
+𧐶	None	同=䗩	None	䗩
+螮	di4	[螮蝀]古书上指虹	None	None
+螮	dai4	蜂子	None	None
+螮	dai4	蛇	None	None
+䗮	shuang3	虫名	None	None
+𧐅	qu1	同=蛆 蝇类的幼虫	None	蛆
+𧐬	hong2	@	None	None
+𧐑	None	同=𧎾	None	𧎾
+螳	tang2	[螳螂]也作“螳蜋” 昆虫名 全身绿色或土黄色，头呈三角形，触角呈丝状，胸部细长，有翅两对，前脚发达，好像镰刀 捕食害虫，对农业有益	None	None
+𧐓	ye3	虫	None	None
+螻	lou2	蝼蛄 一名天蝼 农业害虫 蝼蛄科 背部茶褐色，腹面灰黄色 前脚大，呈铲状，适于掘土 有尾须 生活在泥土中，昼伏夜出，吃农作物嫩茎 通称蝲蝲蛄，有的地区叫土狗子	None	None
+螻	lou2	被蚁蛀食	None	None
+螻	lou2	一种马病，其肉有臭味如蝼蛄	None	None
+螻	lou2	春秋时期晋国国君畜养禽兽的园林	None	None
+蟃	wan4	[蟃蜒]巨兽	None	None
+蟃	wan4	桑虫，即螟蛉	None	None
+𧑌	yi4	虫名	None	None
+𧐋	lve4	[螶𧐋]也作“螶=𧎾” 蜉蝣的别称	None	𧎾
+𧐯	lve4	[蟝𧐯]见“蟝”	None	None
+螺	luo2	具有回旋形硬壳的软体动物 如：田螺；海螺；络丝	None	None
+螺	luo2	螺杯的省称	None	None
+螺	luo2	螺髻的省称	None	None
+螺	luo2	古代用来画眉的一种青黑色矿物颜料螺子黛的省称	None	None
+螺	luo2	螺子墨的省称	None	None
+螺	luo2	法螺 军队或僧道用海螺壳做成的一种乐器	None	None
+螺	luo2	螺旋形的指纹	None	None
+蟈	yu4	同=蜮 一种传说中的害人动物	None	蜮
+蟈	guo1	蛤蟆	None	None
+蟈	guo1	[蟈蟈]一种像蝗虫的昆虫 翅短，腹大，雄虫借前翅基部摩擦发声 各地蝈蝈形体略有差异 危害农作物	None	None
+𧐌	wei3	虫名	None	None
+𧑵	None	兽名	None	None
+⿰虫婴	None	=蠳的类推简化字	None	蠳
+𧒖	guo4	[不𧒖]也作“不=過” 螳螂的别称	None	過
+𧐰	du2	@	None	None
+𧐉	zhi1	[𧐉蛛]也作“=䵹鼄” 即=蜘蛛	None	䵹
+蟍	li2	[螏蟍]也作“螏=𧑇” 蝍蛆别名	None	𧑇
+𧐀	None	同=蠰	None	蠰
+𧐟	mao2	[𧐟𦯌]青蛉	None	None
+𧐃	xie2	虫名	None	None
+䗯	jin4	虫名	None	None
+䗯	jin4	蛤类 一名“𧍧䗯”	None	None
+蟂	xiao1	水獭一类动物	None	None
 蟌	None	录入中	None	None
 𧏁	None	录入中	None	None
 䗥	None	录入中	None	None
