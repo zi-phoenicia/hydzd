@@ -57331,52 +57331,69 @@
 𧕯	shi1	螺	None	None
 𧕹	None	同=蠢	None	蠢
 𧕼	xu3	@ ……按：……疑为=翽的增旁繁化俗字	None	翽
-𧕓	None	录入中	None	None
-𧕵	None	录入中	None	None
-𧕺	None	录入中	None	None
-蠻	None	录入中	None	None
-𧕳	None	录入中	None	None
-𧕶	None	录入中	None	None
-𧕱	None	录入中	None	None
-𧕾	None	录入中	None	None
-𧖄	None	录入中	None	None
-𧕽	None	录入中	None	None
-𧕿	None	录入中	None	None
-蠼	None	录入中	None	None
-𧖆	None	录入中	None	None
-𧖁	None	录入中	None	None
-𧖊	None	录入中	None	None
-𧖅	None	录入中	None	None
-𧖀	None	录入中	None	None
-𧖋	None	录入中	None	None
-蠽	None	录入中	None	None
-𧖈	None	录入中	None	None
-𧖎	None	录入中	None	None
-𧖌	None	录入中	None	None
-𧖍	None	录入中	None	None
-𧖇	None	录入中	None	None
-𧖉	None	录入中	None	None
-蠾	None	录入中	None	None
-蠿	None	录入中	None	None
-𧖔	None	录入中	None	None
-𧖒	None	录入中	None	None
-𧖓	None	录入中	None	None
-𧖕	None	录入中	None	None
-𧖖	None	录入中	None	None
-䘎	None	录入中	None	None
-𧖗	None	录入中	None	None
-𧖑	None	录入中	None	None
-𧖚	None	录入中	None	None
-𧖛	None	录入中	None	None
-𧖙	None	录入中	None	None
-𧖘	None	录入中	None	None
-𧖜	None	录入中	None	None
-𧖠	None	录入中	None	None
-𧖝	None	录入中	None	None
-𧖞	None	录入中	None	None
-𧖢	None	录入中	None	None
-𧖣	None	录入中	None	None
-𧖤	None	录入中	None	None
+𧕓	zi1	[𧕓蠵]蠵龟	None	None
+𧕵	mi4	[𧕵没]也作“=蠠没” 勉力，努力	None	蠠
+𧕵	mi4	同=蜜 蜂蜜	None	蜜
+𧕺	shuang1	虫名	None	None
+蠻	man2	旧指我国古代南方的民族，也泛指一切少数民族	None	None
+蠻	man2	轻侮	None	None
+蠻	man2	粗野，不通情理 如：野蛮；蛮横	None	None
+蠻	man2	愣；强悍	None	None
+蠻	man2	对奴婢的贱称	None	None
+蠻	man2	水兽蠻蠻的省称	None	None
+蠻	man2	虫名	None	None
+蠻	man2	《庄子》寓言中的小国名	None	None
+蠻	man2	副词 方言 表示程度，相当于“很”	None	None
+蠻	man2	姓	None	None
+𧕳	None	同=蠃	None	蠃
+𧕶	None	同=蟻	None	蟻
+𧕱	xia2	蝼蛄	None	None
+𧕾	None	同=蠽	None	蠽
+𧖄	None	同=蠇(蠣)	None	蠇
+𧕽	None	同=蠶	None	蠶
+𧕿	fei3	同=蜚 昆虫名	None	蜚
+蠼	jue2	同=玃 猴子	None	玃
+蠼	jue2	龙的形貌	None	None
+蠼	qu2	[蠼螋]也作“=蠷螋” 虫名 俗称长脚蜈蚣 体扁平狭长，触角细长多节，尾部形状像夹子，故又名搜夹子 多生活在潮湿的地方	None	蠷
+𧖆	ta4	[蝲𧖆]也作“蝲=蟽” 虫名	None	蟽
+𧖁	xie1	同=蝎 蝎子	None	蝎
+𧖁	wen2	同=蚊	None	蚊
+𧖊	None	同=蠐	None	蠐
+𧖅	None	同=蜜	None	蜜
+𧖀	None	同=蠿	None	蠿
+⿰虫霸	ma2	同=蟆 “蛤蟆”，也作“哈⿰虫霸”	None	蟆
+𧖋	None	同=蟫	None	蟫
+蠽	jie2	[𧓿蠽]一种青色的小蝉	None	None
+𧖈	None	同=蚍	None	蚍
+𧖎	None	同=蚍	None	蚍
+𧖌	None	同=蠹	None	蠹
+𧖍	None	同=𧑥(螣)	None	𧑥
+𧖇	yong3	蚕	None	None
+𧖇	yong3	蛘	None	None
+𧖉	zhan3	虫名	None	None
+蠾	zhu2	[蠾蝓]蜘蛛	None	None
+蠾	zhu2	蚤	None	None
+蠾	zhu2	同=蠋 蛾蝶类的幼虫	None	蠋
+蠿	zhuo2	[蠿蟊]也作“=蝃蝥” 蜘蛛别名	None	蝃
+𧖔	lin4	蚊虫	None	None
+𧖒	nang2	[螳𧖒]也作“螳=蠰” 即螳=螂	None	蠰
+𧖓	None	同=融	None	融
+𧖕	None	同=蚍	None	蚍
+𧖖	None	同=蠻	None	蠻
+䘎	wan1	[䗡䘎]见“䗡(yan2)”	None	None
+𧖗	None	同=蠰	None	蠰
+𧖑	qiang2	同=强 米中小黑虫	None	强
+𧖚	fu2	[蚍𧖚]也作“蚍=蜉” 大蚁	None	蜉
+𧖛	None	同=𡳭	None	𡳭
+𧖙	xian3	同=蜆 小蛤	None	蜆
+𧖘	luan2	[𧖘蜛]虫名	None	None
+𧖜	ling2	萤火虫	None	None
+𧖠	sao1	@	None	None
+𧖝	None	同=蟭	None	蟭
+𧖞	None	同=鱣	None	鱣
+𧖢	hui4	@ ……按：……疑为=翽的增旁繁化俗字	None	翽
+𧖣	None	[𧖣𧊲]见“𧊲”	None	None
+𧖤	None	同=螬	None	螬
 网	None	同=網	None	網
 𦉯	None	同=网	None	网
 𦉬	ting1	[𦉬𦊓]也作“𦊓𦉬” 小网	None	None
