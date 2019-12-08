@@ -74518,27 +74518,50 @@
 都	du1	姓	None	None
 都	dou1	副词 1.全，全部 2.起强调语气的作用 3.相当于“已经”	None	None
 𨜃	None	同=𨜷	None	𨜷
-郰	None	录入中	None	None
-𨛳	None	录入中	None	None
-鄀	None	录入中	None	None
-䣐	None	录入中	None	None
-郴	None	录入中	None	None
-郲	None	录入中	None	None
-𨜄	None	录入中	None	None
-𨜅	None	录入中	None	None
-䣍	None	录入中	None	None
-𨜆	None	录入中	None	None
-郪	None	录入中	None	None
-𨛵	None	录入中	None	None
-䣊	None	录入中	None	None
-𨛴	None	录入中	None	None
-𨜍	None	录入中	None	None
-𨜇	None	录入中	None	None
-𫑡	None	录入中	None	None
-𨜋	None	录入中	None	None
-郵	None	录入中	None	None
-𨛲	None	录入中	None	None
-郳	None	录入中	None	None
+郰	zou1	春秋鲁邑 在今山东省曲阜市东南	None	None
+郰	ju3	古亭名 也作=鄹 在今陕西省新丰县境	None	鄹
+𨛳	xi2	古乡名 在今四川省邛崃市境	None	None
+𨛳	xi2	古蜀中一小国名	None	None
+𨛳	ji2	同=䣢	None	䣢
+鄀	ruo4	古国名 1.上鄀，被楚灭后为楚邑 春秋后期为楚都 在今湖北省宜城市东南 2.下鄀，在今河南省淅川县西南丹江左岸（原商密地） 后灭于晋，为晋邑	None	None
+鄀	ruo4	姓	None	None
+䣐	ying1	地名	None	None
+郴	chen1	地名 秦置郴县，汉属桂阳郡，隋置郴州，寻废 唐复制 元改郴阳县，为郴州路治；明废县入郴州，清为直隶州，1913年复改郴县	None	None
+郴	chen1	姓	None	None
+郴	lan2	古代齐国方言	None	None
+郲	lai2	古国名 姜姓 也作=萊 春秋鲁襄公六年（公元前567年）为齐所灭 其地在今山东省龙口市东南莱子城一带	None	萊
+郲	lai2	古地名 1.春秋郑地 今河南省荥阳市东釐城故址即其地 2.在四川	None	None
+郲	lai2	姓	None	None
+郲	lei3	[𨝀郲]见“𨝀”	None	None
+𨜄	None	同=鄠	None	鄠
+⿰奈阝	nai4	古地名	None	None
+𨜅	None	同=敧	None	敧
+䣍	yan3	古国名 也作=奄 嬴姓 商的盟国 周成王时，随同武庚和东方少数民族反抗周朝，为周公所灭 周公之子伯禽封于此 地在今山东省曲阜市旧称东	None	奄
+䣍	yan1	古邑名	None	None
+𨜆	None	同=郀	None	郀
+⿰⿱一⿰句又阝	None	同=𨚎	None	𨚎
+郪	qi1	古地名 战国魏地 在今安徽省界首市东北茨河南岸	None	None
+郪	qi1	古县名 西汉置，因郪江得名，晋废 隋大业时又置，唐为梓州治所 故址在今四川省三台县南	None	None
+郪	qi1	水名 即郪江 在四川省中江县、大英县境	None	None
+郪	qi1	姓	None	None
+𨛵	hu3	同=𨝘 古地名 在今山东省	None	𨝘
+䣊	dang3	古地名	None	None
+䣊	dang3	同=黨	None	黨
+𨛴	None	同=鄗	None	鄗
+𨜍	qiao4	古县名	None	None
+𨜇	None	同=鄡	None	鄡
+𫑡	None	=鄳的类推简化字	None	鄳
+𨜋	None	同=郜	None	郜
+郵	you2	古代传递文书、供应食宿和车马的驿站	None	None
+郵	you2	古代传送文件或书信的人	None	None
+郵	you2	邮递	None	None
+郵	you2	田间舍	None	None
+郵	you2	通=尤 1.过失 2.怨恨 3.最	None	尤
+郵	you2	姓	None	None
+郵	chui2	古地名	None	None
+𨛲	None	同=𨚶	None	𨚶
+郳	ni2	古国名 曹姓 其上世出于邾，为邾侠之后 夷父颜有功于周，其子友（一说名肥）别封为附庸，居郳 亦称小邾、小邾娄 战国时灭于楚 故址在今山东省滕州市东 一说在今山东省枣庄市西北	None	None
+郳	ni2	姓	None	None
 郫	None	录入中	None	None
 𨛭	None	录入中	None	None
 郩	None	录入中	None	None
