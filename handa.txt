@@ -56845,31 +56845,43 @@
 䗤	yong1	[䖺䗤]见“䖺”	None	None
 螰	lu4	[螇螰]见“螇”	None	None
 𧐳	lu4	[螇𧐳]也作“螇=螰” 蝉名	None	螰
-蟑	None	录入中	None	None
-𧏹	None	录入中	None	None
-𧏸	None	录入中	None	None
-螪	None	录入中	None	None
-𧐈	None	录入中	None	None
-𧐗	None	录入中	None	None
-䗠	None	录入中	None	None
-蟀	None	录入中	None	None
-𧒀	None	录入中	None	None
-蟞	None	录入中	None	None
-蟝	None	录入中	None	None
-螾	None	录入中	None	None
-𧐴	None	录入中	None	None
-螲	None	录入中	None	None
-𧑔	None	录入中	None	None
-𧐇	None	录入中	None	None
-螱	None	录入中	None	None
-𧐊	None	录入中	None	None
-蟁	None	录入中	None	None
-螿	None	录入中	None	None
-𧑟	None	录入中	None	None
-𧐔	None	录入中	None	None
-蟉	None	录入中	None	None
-𧐘	None	录入中	None	None
-蟊	None	录入中	None	None
+蟑	zhang1	[蟑螂]昆虫，体扁平，黑褐色 常在夜里出来偷吃食物，并能传染疾病，是一种害虫	None	None
+𧏹	ai4	一种吸食草木叶的虫	None	None
+𧏸	zhi1	虫名	None	None
+螪	shang1	[螪何]也作“螪蚵” 虫名 又名蛶	None	None
+螪	shang1	蜥蜴类	None	None
+螪	shang1	螪蚌虫	None	None
+𧐈	zu2	虾虫头上距	None	None
+𧐗	xuan2	[𧍲𧐗]见“𧍲”	None	None
+䗠	None	同=𧐗	None	𧐗
+蟀	shuai4	“蟋蟀”的简称	None	None
+𧒀	bi4	[𧒀蛦]也作“=𧌽蛦” 鸟名	None	𧌽
+蟞	bie1	[珠蟞]也作“珠=鼈” 鱼名	None	鼈
+蟞	bie1	同=鼈(鱉) 甲鱼	None	鼈
+蟞	bie1	[蟞蚨]蝶类的总称 今生物学指蝴蝶的一类	None	None
+蟞	bie2	[蟞蜉]即=蚍蜉 大蚂蚁	None	蚍
+蟝	qu2	[蟝𧐯]也作“=螶𧎾” 蜉蝣别名	None	螶
+螾	yin3	蚯蚓 后作=蚓	None	蚓
+螾	yin3	动貌	None	None
+螾	yin2	寒蝉	None	None
+𧐴	su4	[蝍𧐴]虫名，即尺蠖	None	None
+螲	zhi4	[螻螲]蝼蛄	None	None
+螲	die2	[螲蟷]一种生活在地下的小蜘蛛 又加“土蜘蛛”、“颠当虫” 螲蟷科 黑褐色，好掘土做圆筒形巢穴，穴上有盖，伺虫经过，翻盖捕捉；遇敌害，则闭盖躲避	None	None
+𧑔	dai4	虫名	None	None
+𧐇	None	同=螱	None	螱
+螱	wei4	白蚁	None	None
+𧐊	zhang1	虫名	None	None
+蟁	None	同=蚊	None	蚊
+螿	jiang1	寒蝉，也叫寒螿 又名蜺，寒蜩 身体小，黑色，有黄绿色斑点，深秋时出来鸣叫	None	None
+𧑟	None	同=𧍰	None	𧍰
+𧐔	xi2	[𧐔𧐔]虫貌	None	None
+𧐔	yi4	[𧐔𧕋]萤火虫	None	None
+蟉	liu2	[𧍘蟉]见“𧍘”	None	None
+蟉	liao4	[蜩蟉]见“蜩”	None	None
+𧐘	None	同=蟊	None	蟊
+蟊	mao2	[蠿蟊]见“蠿”	None	None
+蟊	mao2	吃苗根的害虫	None	None
+蟊	meng2	古代占卜时的一种龟兆	None	None
 䗰	None	录入中	None	None
 蠁	None	录入中	None	None
 𧑀	None	录入中	None	None
