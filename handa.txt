@@ -74358,30 +74358,57 @@
 𨛅	None	=卶的讹字	None	卶
 𨛰	zheng1	古国名	None	None
 𨛉	ji4	山名	None	None
-郊	None	录入中	None	None
-郂	None	录入中	None	None
-𨚳	None	录入中	None	None
-𨛁	None	录入中	None	None
-郱	None	录入中	None	None
-郑	None	录入中	None	None
-𨛂	None	录入中	None	None
-䢿	None	录入中	None	None
-郎	None	录入中	None	None
-郓	None	录入中	None	None
-𨛃	None	录入中	None	None
-𨛄	None	录入中	None	None
-𨚱	None	录入中	None	None
-𨚴	None	录入中	None	None
-䣁	None	录入中	None	None
-𨛚	None	录入中	None	None
-𨛛	None	录入中	None	None
-𨛜	None	录入中	None	None
-䣈	None	录入中	None	None
-𨛦	None	录入中	None	None
-𨛝	None	录入中	None	None
-𨛓	None	录入中	None	None
-𨛞	None	录入中	None	None
-郝	None	录入中	None	None
+⿰𬻻阝	None	同=邼	None	邼
+⿰亦阝	None	同=郝	None	郝
+郊	jiao1	城市周围的地区	None	None
+郊	jiao1	祭司名 古代祭天地的典礼	None	None
+郊	jiao1	古地名 1.春秋晋地 在今山西省临汾市西南一带 2.汉县名 亦作=洨	None	洨
+郊	jiao1	通=狡(jiao3) 狡猾	None	狡
+郊	jiao1	通=墝(qiao3) 土之枯薄者为墝	None	墝
+郊	jiao1	姓	None	None
+郂	gai1	古乡名	None	None
+郂	hai1	古邑名	None	None
+𨚳	huang1	古县名	None	None
+𨛁	None	同=邦	None	邦
+郱	ping2	古邑名 春秋纪地，后入齐 在今山东省临朐县东南	None	None
+郱	ping2	姓	None	None
+郑	None	=鄭的简化字	None	鄭
+𨛂	None	同=郯	None	郯
+䢿	an1	古里名 在今湖北省当阳市境	None	None
+郎	lang2	春秋鲁地名 1.鲁远邑 在今山东省鱼台县东北 2.鲁近邑 在今山东省曲阜市附近	None	None
+郎	lang2	官名 帝王侍从官的通称 郎，古=廊字 指宫殿廷廊，置侍卫人员所在 有议郎、中郎、郎中等名，统称曰郎 其职责原为护卫陪从、随时建议，备顾问差遣等侍从之职 战国始有，秦汉沿置，初属郎中令（后改光禄勋） 东汉以尚书台为政务中枢，其分曹任事者为尚书郎，始有郎官之名 其权威待遇均极厚重，职责范围亦异于昔日 后世遂以侍郎、郎中、员外郎为各部要职 魏晋除尚书郎外，秘书、黄门亦皆有郎 隋始于六部各置侍郎一人，以为尚书之副 唐于诸司皆置郎中，以员外郎为副，列于大夫之下 其制至清末始废	None	廊
+郎	lang2	旧时妇女对丈夫或情人的称呼	None	None
+郎	lang2	旧时对一般男子的尊称	None	None
+郎	lang2	旧时奴仆对主人的称呼	None	None
+郎	lang2	北朝人子呼其父亦曰郎	None	None
+郎	lang2	汉魏以后少年的通称	None	None
+郎	lang2	称别人的儿子	None	None
+郎	lang2	明、清间称兵士为郎	None	None
+郎	lang2	旧时对从事某种职业者的称呼 如：货郎；牛郎	None	None
+郎	lang2	元明间对出身贫寒者的称呼，与当时对贵族子弟和有财势者称呼为“秀”不同	None	None
+郎	lang2	姓	None	None
+郎	lang4	[屎壳郎]方言 蜣螂的别称 黑色昆虫，吃动物的尸体和粪尿等，常把粪滚成球形	None	None
+郓	None	=鄆的简化字	None	鄆
+𬩽	None	=鄩的类推简化字	None	鄩
+𨛃	None	同=鄒	None	鄒
+𨛄	None	同=鄒	None	鄒
+𨚱	sheng4	县名 在会稽	None	None
+𨚴	ru2	古地名	None	None
+䣁	yu3	汉代亭名 在今河南省泌阳市	None	None
+𨛚	None	同=𨚵	None	𨚵
+⿱𦒳邑	None	同=耆	None	耆
+𨛛	None	同=𨛤	None	𨛤
+⿰⿱⿰丨⺊不邑	None	同=都	None	都
+𨛜	xiang4	=巷道	None	巷
+䣈	None	同=巷	None	巷
+𨛦	None	同=郡	None	郡
+𨛝	None	同=邦	None	邦
+𨛓	long4	古邑名	None	None
+𨛞	None	同=𨚳	None	𨚳
+郝	hao3	古乡名 在今陕西省周至县	None	None
+郝	hao3	姓	None	None
+郝	shi4	[郝郝]耕，耕土解散	None	None
+⿰㠻阝	None	同=郗	None	郗
 𨛢	None	录入中	None	None
 䣇	None	录入中	None	None
 郣	None	录入中	None	None
