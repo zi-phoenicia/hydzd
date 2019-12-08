@@ -74892,29 +74892,49 @@
 𨞁	None	同=鄰	None	鄰
 𨞀	None	同=鄭	None	鄭
 䣠	None	同=䣟	None	䣟
-𨝮	None	录入中	None	None
-𨞛	None	录入中	None	None
-𨝵	None	录入中	None	None
-𨝶	None	录入中	None	None
-𨝍	None	录入中	None	None
-𨝸	None	录入中	None	None
-𨞋	None	录入中	None	None
-𨝷	None	录入中	None	None
-䣟	None	录入中	None	None
-𨞊	None	录入中	None	None
-鄲	None	录入中	None	None
-䣞	None	录入中	None	None
-𨞎	None	录入中	None	None
-𨝪	None	录入中	None	None
-鄦	None	录入中	None	None
-𨞃	None	录入中	None	None
-𨝰	None	录入中	None	None
-𨝱	None	录入中	None	None
-𨝲	None	录入中	None	None
-𨞓	None	录入中	None	None
-𨞄	None	录入中	None	None
-𨝫	None	录入中	None	None
-鄱	None	录入中	None	None
+𨝮	ju4	古亭名，字啊金陕西省新丰县境	None	None
+𨝮	zou1	同=鄒	None	鄒
+⿰⿱昔月阝	None	同=䣢	None	䣢
+𨞛	ge2	古乡名 在今湖北省老河口市西	None	None
+𨞛	ge2	同=葛 姓	None	葛
+𨝵	shan1	古地名	None	None
+⿰𣈅阝	None	同=𨝵	None	𨝵
+𨝶	None	同=鄑	None	鄑
+𨝍	qian1	古地名	None	None
+𨝸	tan2	古国名 在今山东省章丘市西 公元前684年为齐所灭 也作=譚	None	譚
+𨝸	tan2	古县名	None	None
+𨝸	tan2	姓	None	None
+𨞋	None	姓	None	None
+𨝷	None	同=鄝	None	鄝
+䣟	can2	古亭名 在今山东省博兴县南	None	None
+䣟	can2	草名	None	None
+䣟	can3	刺	None	None
+䣟	ti4	古亭名	None	None
+𨞊	None	=鄴的讹字	None	鄴
+⿰⿳口十囬阝	None	同=鄙	None	鄙
+鄲	dan1	[邯鄲]见“邯”	None	None
+鄲	dan1	通=但(dan4) 副词，表示范围，相当于“只”	None	但
+鄲	dan1	姓	None	None
+鄲	duo1	古地名 在今河南省鹿邑县东南 本汉侯国 古音“多”，今音“單”	None	None
+䣞	None	同=鄂	None	鄂
+𨞎	None	同=𨞖(酃)	None	𨞖
+𨝪	None	同=鄳	None	鄳
+鄦	xu3	古国名 后作=許 周初分封的诸侯国 姜姓 战国初被楚所灭 一说灭于魏 故地在今河南省许昌市东	None	許
+鄦	xu3	古地名	None	None
+鄦	xu3	姓	None	None
+𨞃	None	同=𨛫	None	𨛫
+𨝰	jiao3	古国名	None	None
+𨝱	qiao1	古地名	None	None
+𨝱	qiao1	古县名	None	None
+𨝲	gao1	古乡名	None	None
+𨝲	hao3	同=𨛴(鄗)	None	𨛴
+𨞓	yu4	姓	None	None
+𨞄	None	同=郵	None	郵
+𨝫	she4	古地名 在今安徽省东南部歙县	None	None
+𨝫	xi4	邑名	None	None
+鄱	po2	[鄱陽]县名 本为春秋楚之番邑，秦置番县，西汉改名番阳，东汉始作鄱阳 治所在今江西省鄱阳县东 三国吴移今鄱阳县 1957年改为=波阳县，2003年恢复鄱阳县名	None	波
+鄱	pi2	古县名	None	None
+鄱	pan2	古地名	None	None
 𨞅	None	录入中	None	None
 𨞌	None	录入中	None	None
 鄮	None	录入中	None	None
