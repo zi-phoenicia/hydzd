@@ -74230,15 +74230,34 @@
 邱	qiu1	同=丘 孔子名丘，因避讳，清雍正三年上谕除四书五经外，凡遇“丘”字，並加“阝”旁为“邱” 地名用字亦用“邱” 1.小山；土堆 2.坟墓 3.空；废墟 4.州名 唐置羁縻州 今云南省楚雄市地 5.姓	None	丘
 𨚮	hao4	邑名	None	None
 邻	None	=鄰的简化字	None	鄰
-邸	None	录入中	None	None
-邭	None	录入中	None	None
-邹	None	录入中	None	None
-𨚔	None	录入中	None	None
-邲	None	录入中	None	None
-𨚓	None	录入中	None	None
-𨚦	None	录入中	None	None
-䢺	None	录入中	None	None
-𨚧	None	录入中	None	None
+邸	di3	战国时诸国客馆，汉诸郡王侯为朝见而设置在京城的住所	None	None
+邸	di3	高级官员、贵族办事或居住的地方 如：官邸；府邸	None	None
+邸	di3	旅舍	None	None
+邸	di3	储存物资的处所	None	None
+邸	di3	市肆	None	None
+邸	di3	屏风	None	None
+邸	di3	古量器名	None	None
+邸	di3	停	None	None
+邸	di3	归	None	None
+邸	di3	通=抵 1.至，到 2.触	None	抵
+邸	di3	通=柢 根柢	None	柢
+邸	di3	邑名	None	None
+邸	di3	姓	None	None
+邭	ju4	古地名	None	None
+邹	None	同=鄒	None	鄒
+𨚔	bao1	古地名	None	None
+𨚔	bao1	姓	None	None
+𨚜	None	同=邦	None	邦
+⿰𠮦阝	None	同=邵	None	邵
+邲	bi4	古地名 春秋属郑 在今河南省荥阳市东北	None	None
+邲	bi4	姓	None	None
+邲	bian4	古水名，即汴水	None	None
+𨚓	bi4	同=鄪(費)	None	鄪
+𨚓	fei4	同=費 古地名，即古滑都 在今河南省偃师市东南	None	費
+𨚓	fu2	姓	None	None
+𨚦	None	同=邦	None	邦
+䢺	chu1	[䢺江]地名 在今四川省大邑县境	None	None
+𨚧	qie2	@	None	None
 邵	None	录入中	None	None
 𨚕	None	录入中	None	None
 𨚨	None	录入中	None	None
