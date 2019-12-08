@@ -74409,32 +74409,56 @@
 郝	hao3	姓	None	None
 郝	shi4	[郝郝]耕，耕土解散	None	None
 ⿰㠻阝	None	同=郗	None	郗
-𨛢	None	录入中	None	None
-䣇	None	录入中	None	None
-郣	None	录入中	None	None
-郙	None	录入中	None	None
-郠	None	录入中	None	None
-郚	None	录入中	None	None
-郖	None	录入中	None	None
-郦	None	录入中	None	None
-䣅	None	录入中	None	None
-𨛔	None	录入中	None	None
-郟	None	录入中	None	None
-𨛤	None	录入中	None	None
-䣆	None	录入中	None	None
-𨛒	None	录入中	None	None
-𨛖	None	录入中	None	None
-𨛕	None	录入中	None	None
-𨛍	None	录入中	None	None
-𨛎	None	录入中	None	None
-郢	None	录入中	None	None
-郥	None	录入中	None	None
-𨛋	None	录入中	None	None
-𨛡	None	录入中	None	None
-郧	None	录入中	None	None
-𨛟	None	录入中	None	None
-䣃	None	录入中	None	None
-郜	None	录入中	None	None
+𨛢	None	同=部	None	部
+䣇	qiu2	古地名	None	None
+䣇	qiu2	古乡名 在今河南省开封市东南	None	None
+郣	bo2	[郣海]汉郡名 也作“=渤海” 西汉治所在浮阳，东汉移治南皮	None	渤
+郣	bo2	地之隆起者	None	None
+郣	bo2	粉之细者	None	None
+郙	fu3	古亭名	None	None
+郙	fu3	古乡名	None	None
+郠	geng3	古邑名 春秋莒地 后属鲁 在今山东省沂水县西	None	None
+郚	wu2	古邑名 1.春秋纪邑，后属齐 故城在今山东省安丘市西南 2.春秋鲁邑 在今山东省泗水县东南	None	None
+郚	wu2	姓	None	None
+郚	yu2	[郚鄉]汉县名	None	None
+郖	dou4	古渡口名 在今河南省灵宝市西北 隋末置关，名郖津关 唐初废关置津	None	None
+郖	dou4	姓	None	None
+郦	None	=酈的简化字	None	酈
+䣅	chen2	古国名 在今河南省淮阳县西	None	None
+䣅	chen2	姓	None	None
+𨛔	fou3	地名	None	None
+郟	jia2	古邑名 春秋郑地，后属楚 在今河南省郟县	None	None
+郟	jia2	古地名 周之旧都 字啊金河南省洛阳市西	None	None
+郟	jia2	通=夾 古代宫室夹室的省称	None	夾
+郟	jia2	姓	None	None
+𨛤	hui2	乡名 在睢阳	None	None
+𬩾	None	同=郲	None	郲
+䣆	xing2	乡名	None	None
+𨛒	bu4	亭名	None	None
+𨛖	kuai4	古乡名 也作=蒯	None	蒯
+𨛖	kuai4	姓	None	None
+𨛕	you2	古乡名	None	None
+𨛕	you2	同=邮 古亭名	None	邮
+𨛍	shao4	古代大夫受封的土地 周制指离王城三百里的地面 也作=稍、=削	None	稍
+𨛍	shao4	古地名	None	None
+𨛎	han4	邑名 在南阳	None	None
+郢	ying3	古都邑名 1.春秋战国时楚国都城 今湖北省江陵县纪南城 先楚文王定都于此，昭王曾迁都于鄀，惠王新迁都鄢，不久又迁回 公元前278年秦拔郢，地入秦，在纪山之南，被称为纪郢（包括鄀、鄢二地） 又因地居楚国南境，故又有南郢之称 2.楚昭王十年吴师入郢，二年后昭王迁都鄀；惠王即位之处曾迁都鄢；顷襄王二十一年纪郢失陷，迁都陈；考烈王十年曾迁都巨（钜）阳，二十二年又迁都寿春 凡迁都所至之处均称为郢	None	None
+郢	ying3	楚别邑 故址在今湖北省江陵县东北，纪南城东南	None	None
+郢	ying3	节气名	None	None
+郢	ying3	姓	None	None
+郢	cheng2	古地名 在今陕西省咸阳市东 也作=程	None	程
+郥	None	同=闃	None	闃
+𨛋	li3	古亭名	None	None
+𨛋	li3	古邑名	None	None
+𨛋	li3	下邑	None	None
+𨛋	li3	同=俚 鄙俗	None	俚
+𨛡	yun2	同=鄖 古国名	None	鄖
+郧	None	=鄖的简化字	None	鄖
+𨛟	None	同=邦	None	邦
+䣃	None	=卸的讹字	None	卸
+郜	gao4	古国名，在今山东省成武县东南 春秋时为宋所灭	None	None
+郜	gao4	古邑名 1.春秋宋邑，即南郜 2.春秋晋邑，在今山西省祁县境	None	None
+郜	gao4	姓	None	None
 䣄	None	录入中	None	None
 郗	None	录入中	None	None
 𨛏	None	录入中	None	None
