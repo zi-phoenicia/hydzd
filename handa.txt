@@ -74810,29 +74810,57 @@
 鄢	yan1	周国名 春秋时为郑所灭，改名鄢陵，在今河南省鄢陵县西北	None	None
 鄢	yan1	古水名 源出湖北省保康县西南，曰深溪河 东流经南漳宜城二县，注于汉水 也作=漹 又名夷水 即今之蛮河	None	漹
 鄢	yan1	姓	None	None
-鄞	None	录入中	None	None
-𨝴	None	录入中	None	None
-𨞂	None	录入中	None	None
-𨝌	None	录入中	None	None
-䣛	None	录入中	None	None
-鄟	None	录入中	None	None
-郾	None	录入中	None	None
-𨝓	None	录入中	None	None
-𨞐	None	录入中	None	None
-鄠	None	录入中	None	None
-䣜	None	录入中	None	None
-𨝘	None	录入中	None	None
-䣘	None	录入中	None	None
-鄙	None	录入中	None	None
-䣚	None	录入中	None	None
-鄤	None	录入中	None	None
-䣙	None	录入中	None	None
-𨝡	None	录入中	None	None
-鄡	None	录入中	None	None
-鄥	None	录入中	None	None
-𨝔	None	录入中	None	None
-𨝋	None	录入中	None	None
-𨝎	None	录入中	None	None
+鄞	yin2	古地名 春秋时属越，在今浙江省奉化市东北	None	None
+鄞	yin2	旧县名 五代梁置，治今浙江省宁波市 2002年撤县，改设鄞州区	None	None
+𨝴	huang2	古国名 也作=黄	None	黄
+𨞂	None	同=酄	None	酄
+𨝌	gan1	春秋晋地 在今河北省成安县东南	None	None
+䣛	qi1	古地名，在今山东省	None	None
+䣛	xi1	同=厀	None	厀
+鄟	zhuan1	古国名 春秋时为鲁附庸国 鄟初被邾灭，鲁复取之，故一说为邾国邑名 在今山东省郯城县东北	None	None
+鄟	zhuan1	姓	None	None
+郾	None	同=郾	None	郾
+𨝓	piao2	地名	None	None
+𨞐	cheng2	地名	None	None
+鄠	hu4	地名 本夏之扈国 秦置鄠邑，汉改鄠县 故治在今陕西省户县北 隋徙今治 1964年改为=户县	None	户
+鄠	hu4	姓	None	None
+⿲卓𠧒阝	None	同=𨝌	None	𨝌
+䣜	cuo2	同=酇	None	酇
+𨝘	hu3	古地名	None	None
+䣘	tang2	古地名 故治在今江苏省南京市北部	None	None
+鄙	bi3	周代地方行政区划名	None	None
+鄙	bi3	小邑，周代王公子弟及卿大夫在王畿内的采邑	None	None
+鄙	bi3	郊野	None	None
+鄙	bi3	边邑，边远的地方	None	None
+鄙	bi3	狭；小	None	None
+鄙	bi3	庸俗；鄙陋	None	None
+鄙	bi3	质朴	None	None
+鄙	bi3	俚俗	None	None
+鄙	bi3	鄙吝	None	None
+鄙	bi3	蔽固不通	None	None
+鄙	bi3	恶	None	None
+鄙	bi3	轻视；鄙薄	None	None
+鄙	bi3	自谦之词	None	None
+鄙	bi3	国	None	None
+鄙	bi3	姓	None	None
+䣚	lou2	古乡名 在今河南省邓州市东南	None	None
+鄤	man4	古地名 春秋属郑 在今河南省荥阳市境	None	None
+鄤	wan4	同=𨞼	None	𨞼
+䣙	pei2	汉侯国名	None	None
+䣙	pei2	古乡名 1.在今陕西省户县 2.在今安徽省亳州市东南	None	None
+䣙	peng3	古国名 在今内蒙古自治区呼和浩特市西	None	None
+䣙	peng3	姓	None	None
+䣙	bei1	地名	None	None
+𨝡	None	=𨜿的讹字	None	𨜿
+鄡	qiao1	古县名 1.东汉改=郻县为鄡县 治所在今河北省辛集市东南 北齐改名安国 2.鄡阳县，汉高帝六年置 治所在今江西省都昌县东南鄱阳湖中 南朝宋永初二年废	None	郻
+鄡	qiao1	古亭名 在今河南省内乡县境	None	None
+鄡	qiao1	姓	None	None
+鄥	None	=鄡的讹字	None	鄡
+⿰皐阝	None	同=𨝲	None	𨝲
+𨝔	None	同=𨟃	None	𨟃
+⿰𭦌阝	None	同=鄫	None	鄫
+𨝋	zhai4	古地名 在今河南省郑州市东北	None	None
+𨝎	kang1	地名	None	None
 鄘	None	录入中	None	None
 鄜	None	录入中	None	None
 𨝧	None	录入中	None	None
