@@ -74562,13 +74562,23 @@
 𨛲	None	同=𨚶	None	𨚶
 郳	ni2	古国名 曹姓 其上世出于邾，为邾侠之后 夷父颜有功于周，其子友（一说名肥）别封为附庸，居郳 亦称小邾、小邾娄 战国时灭于楚 故址在今山东省滕州市东 一说在今山东省枣庄市西北	None	None
 郳	ni2	姓	None	None
-郫	None	录入中	None	None
-𨛭	None	录入中	None	None
-郩	None	录入中	None	None
-䣋	None	录入中	None	None
-𨛶	None	录入中	None	None
-郮	None	录入中	None	None
-𨜊	None	录入中	None	None
+郫	pi2	县名 古郫县，秦置郫县 在今四川省成都市西	None	None
+郫	pi2	春秋晋邑 在今河南省济源市西	None	None
+郫	pi2	江名 岷江支流，从四川省都江堰市分支，经过郫县，到成都市南与锦江合流	None	None
+郫	pi2	姓	None	None
+𨛭	shu1	古地名 也作=舒	None	舒
+𨛭	she4	古邑名	None	None
+郩	xiao2	古地名	None	None
+郩	xiao2	山名 在河南省西部 也作=崤	None	崤
+郩	ao3	古邑名	None	None
+⿰⿱爻月阝	None	同=郩	None	郩
+䣋	cai3	古地名	None	None
+𨛶	rou2	古乡名	None	None
+𨛶	shou3	古乡名	None	None
+𨛶	shou3	同=𨞪 古水名	None	𨞪
+郮	zhou1	古国名	None	None
+郮	zhou1	姓	None	None
+𨜊	None	=卿的讹字	None	卿
 郭	None	录入中	None	None
 䣌	None	录入中	None	None
 部	None	录入中	None	None
