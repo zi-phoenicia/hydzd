@@ -74671,27 +74671,40 @@
 鄂	e4	通=萼 花托	None	萼
 鄂	e4	姓	None	None
 𨜚	None	同=郵	None	郵
-鄋	None	录入中	None	None
-𨜔	None	录入中	None	None
-𨜩	None	录入中	None	None
-𨝀	None	录入中	None	None
-鄅	None	录入中	None	None
-鄇	None	录入中	None	None
-鄃	None	录入中	None	None
-𨜪	None	录入中	None	None
-𨜫	None	录入中	None	None
-𨜬	None	录入中	None	None
-𨜰	None	录入中	None	None
-鄬	None	录入中	None	None
-𨜱	None	录入中	None	None
-𨜳	None	录入中	None	None
-𨜛	None	录入中	None	None
-𨜛	None	录入中	None	None
-鄆	None	录入中	None	None
-𨜘	None	录入中	None	None
-郼	None	录入中	None	None
-郿	None	录入中	None	None
-𨜏	None	录入中	None	None
+⿰重阝	chong2	姓	None	None
+鄋	sou1	春秋时北方少数民族的一个小国，属长狄的一支 周顷王三年（公元前616年）为齐所灭 也作=𨜛 在今山东省中部济南市北 一说在今山东省博兴县西南	None	𨜛
+𨜔	huang2	古县名 在今浙江省境	None	None
+𨜔	huang2	古地名 在今河南省巩义市西南	None	None
+𨜩	quan2	[仲邮𨜩]=泉名 在今山西省闻喜县	None	泉
+𨝀	wei3	[𨝀郲]不平	None	None
+鄅	yu3	春秋国名 妘姓 后地入于鲁为启阳 旧治在今山东省临沂市北	None	None
+鄅	yu3	姓	None	None
+鄇	hou2	古地名 春秋温别邑，原属周，后入晋 在今河南省武陟县西南	None	None
+鄃	shu1	古县名 汉置 北齐省 故城在今山东省平原县西南，夏津县东北	None	None
+𨜪	None	同=郤	None	郤
+𨜫	None	同=鄇	None	鄇
+𨜬	None	同=郇	None	郇
+𬪍	None	=鄮的类推简化字	None	鄮
+⿰竒阝	None	同=𨜅	None	𨜅
+𨜰	jiang1	水名	None	None
+鄬	wei2	古地名 春秋郑地 在今河南省鲁山县境	None	None
+鄬	wei2	阪名	None	None
+鄬	wei2	姓	None	None
+𨜱	he2	古地名	None	None
+𨜱	he2	池	None	None
+𨜳	tong2	古国名	None	None
+𨜛	None	同=𨜛(鄋)	None	𨜛
+𨜛	None	同=鄋	None	鄋
+鄆	yun4	古地名 春秋鲁国有二郓邑：一在今山东省沂水县北 公元前616年，季孙行父所筑 鲁莒屡次争夺，称东郓 一在今山东省郓城县东 公元前588年鲁成公所筑，称西郓	None	None
+鄆	yun4	古州名 辖境在今山东省内 隋开皇十年（公元590）置 治所在万安 唐移治须昌 宋移治须城，辖境缩小 宋宣和元年升为东平府	None	None
+鄆	yun4	古乡名，汉沁水县 北齐废 故址在今河南省济源市境	None	None
+鄆	yun4	姓	None	None
+𨜘	None	=郾的讹字	None	郾
+⿰费阝	None	=鄪的类推简化字	None	鄪
+郼	yi1	殷国名	None	None
+郿	mei2	古地名 1.周郿邑 在今陕西省眉县东 2.春秋鲁邑 在今山东省东平县境 3.乡名 在今陕西省合阳县境	None	None
+郿	mei2	旧县名 战国秦置，治今陕西省眉县东渭河北岸 1964年改名眉县	None	None
+𨜏	ying2	姓 也作=盈	None	盈
 鄈	None	录入中	None	None
 𨜙	None	录入中	None	None
 鄊	None	录入中	None	None
