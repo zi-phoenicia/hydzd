@@ -56895,51 +56895,75 @@
 蟯	rao4	虫动貌	None	None
 𧑣	None	同=蟯	None	蟯
 𧑅	None	同=蚎(蚏)	None	蚎
-蟦	None	录入中	None	None
-𧑱	None	录入中	None	None
-𧑭	None	录入中	None	None
-蟢	None	录入中	None	None
-蟛	None	录入中	None	None
-蟚	None	录入中	None	None
-𧒕	None	录入中	None	None
-蟽	None	录入中	None	None
-𧑕	None	录入中	None	None
-𧑝	None	录入中	None	None
-蟖	None	录入中	None	None
-蟴	None	录入中	None	None
-蠂	None	录入中	None	None
-蠇	None	录入中	None	None
-蠆	None	录入中	None	None
-䗶	None	录入中	None	None
-𧒨	None	录入中	None	None
-蟼	None	录入中	None	None
-𧒣	None	录入中	None	None
-𧒚	None	录入中	None	None
-蟪	None	录入中	None	None
-𧑠	None	录入中	None	None
-蟗	None	录入中	None	None
-蟫	None	录入中	None	None
-𧑖	None	录入中	None	None
-𧑧	None	录入中	None	None
-𧑮	None	录入中	None	None
-蟩	None	录入中	None	None
-蟨	None	录入中	None	None
-蟟	None	录入中	None	None
-𧒈	None	录入中	None	None
-䗱	None	录入中	None	None
-𧑊	None	录入中	None	None
-𧑋	None	录入中	None	None
-𧒭	None	录入中	None	None
-蟲	None	录入中	None	None
-蟬	None	录入中	None	None
-𧑩	None	录入中	None	None
-蟔	None	录入中	None	None
-蟱	None	录入中	None	None
-𧑤	None	录入中	None	None
-𧑯	None	录入中	None	None
-𧑓	None	录入中	None	None
-𧒁	None	录入中	None	None
-𧑇	None	录入中	None	None
+蟦	fei2	蛴螬 亦名“蟦蛴” 金龟子的幼虫	None	None
+蟦	fei2	海蜇	None	None
+蟦	ben1	牡蛎	None	None
+𧑱	None	同=蜇	None	蜇
+𧑭	None	同=蜇	None	蜇
+蟢	xi3	[蟢子]也作“=喜子” 又名蟏蛸 蜘蛛的一种	None	喜
+蟛	peng2	[蟛𧑅]也作“蟛蚎” 小蟹	None	None
+蟚	peng2	[蟚蜞]也作“=蟛蜝”、“蟚蜝” 蟹的一种 方蟹科 体较小，头胸甲略呈方形；螯足五毛，步足有毛 穴居水边	None	蟛
+𧒕	qi1	古代夜间警戒守备所用的鼓	None	None
+蟽	da2	[蝲蟽]见“蝲”	None	None
+𧑕	wu1	田虫	None	None
+𧑝	chuan4	兔罥	None	None
+蟖	si1	[蛄蟖]见“蛄”	None	None
+蟴	si1	[蛄蟴]也作“蛄=蟖” 毛虫	None	蟖
+蠂	she4	蝗虫	None	None
+蠇	li4	牡蛎 后作=蠣	None	蠣
+蠆	chai4	蝎子一类的毒虫	None	None
+䗶	None	同=蠟	None	蠟
+𧒨	chai4	毒虫	None	None
+蟼	jing3	蛤蟆的一种	None	None
+𧒣	None	同=蠥	None	蠥
+𧒚	mao2	[螌𧒚]也作“螌=蝥” 虫名	None	蝥
+蟪	hui4	[蟪蛄]蝉的一种 蝉科 吻长，身体短，黄绿色，有黑色条纹，翅膀有黑斑，雄的腹部有发音器，五六月作“吱——吱吱”的鸣声 古代也指蛁蟟和山蝉	None	None
+𧑠	du4	木中虫	None	None
+蟗	qiu1	[次蟗]蜘蛛	None	None
+蟫	yin2	蠹鱼，又名衣鱼 衣鱼科 体长而扁，触角鞭状，体被银色细鳞，无翅 常栖于衣服、书籍中，啮食其上的浆糊及胶质物等	None	None
+蟫	xun2	[蟫蟫]1.相随而行貌 2.物动貌	None	None
+𧑖	ci4	蝎子	None	None
+𧑧	zhe2	虫名	None	None
+𧑮	None	同=蠕	None	蠕
+蟩	None	同=蟨	None	蟨
+蟨	jue2	兽名	None	None
+蟨	jue2	孑孓，蚊的幼虫	None	None
+蟟	liao2	[蛁蟟]蝉名	None	None
+蟟	liao2	一说为蚱蝉	None	None
+𧒈	li4	虫名	None	None
+䗱	pu2	[䗱𧐒]也作“䗱𧋐” 虫名	None	None
+䗱	pu4	[䗱螺]也作“䗱蠃” 蜗牛之类	None	None
+䗱	pu3	蛇属	None	None
+𧑊	jing3	虫	None	None
+𧑋	kui4	虫名	None	None
+𧒭	None	=𧔥的类推简化字	None	𧔥
+蟲	chong2	古代对一切动物的通称 如：大虫；长虫	None	None
+蟲	chong2	昆虫	None	None
+蟲	chong2	虫灾	None	None
+蟲	chong2	喻指具有某种特点或嗜好的人 如：懒虫；网虫	None	None
+蟲	chong2	地名 春秋邾国邑名 在今山东省济宁市东	None	None
+蟲	chong2	姓	None	None
+蟲	zhong4	虫咬	None	None
+蟲	tong2	[蟲蟲]后作“=爞爞” 热气蒸人的样子	None	爞
+蟬	chan2	蝉科动物的通称 种类很多，头和触角都很短 雄的腹部有发音器，能连续不断发出尖锐的声音 雌的不发声，但在腹部有听器 幼虫生活在土里，成虫吃植物的汁	None	None
+蟬	chan2	古代薄绸的一种，因其薄如蝉翼得名	None	None
+蟬	chan2	蝉冠的省称 古代侍从官员之冠用貂尾蝉文作为装饰，故名	None	None
+蟬	chan2	蝉鬓的省称	None	None
+蟬	chan2	连续不断 如：蝉联	None	None
+蟬	chan2	毒	None	None
+蟬	chan2	出	None	None
+蟬	ti2	[黏蟬]汉县名 在今朝鲜民族主义人民共和国平安南道境内	None	None
+蟬	shan4	[蜿蟬]也作“婉蟬” 盘曲行动貌	None	None
+𧑩	xuan1	虫行貌	None	None
+𧑩	xuan1	虫飞	None	None
+蟔	mo4	毛虫 即蛅蟴	None	None
+蟱	wu2	[蟱𧍪]青蚨	None	None
+蟱	mou2	[䖦蟱]见“䖦”	None	None
+𧑤	zhu3	[樕𧑤]山名	None	None
+𧑯	None	同=蠶	None	蠶
+𧑓	shu3	[𧐍𧑓]见“𧐍”	None	None
+𧒁	None	同=𧑓	None	𧑓
+𧑇	li2	[螏𧑇]见“螏”	None	None
 蟜	None	录入中	None	None
 䗴	None	录入中	None	None
 蟘	None	录入中	None	None
