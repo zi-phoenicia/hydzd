@@ -74735,24 +74735,32 @@
 鄉	xiang4	连词 表示假设，相当于“如果”	None	None
 䣖	None	同=䣕	None	䣕
 𦤡	None	同=鄓 也作=䭂	None	鄓
-𨝅	None	录入中	None	None
-䣕	None	录入中	None	None
-𨝜	None	录入中	None	None
-𨜴	None	录入中	None	None
-鄚	None	录入中	None	None
-𨝥	None	录入中	None	None
-𨝛	None	录入中	None	None
-鄑	None	录入中	None	None
-𨝊	None	录入中	None	None
-𨝆	None	录入中	None	None
-𨜥	None	录入中	None	None
-䣓	None	录入中	None	None
-𨜼	None	录入中	None	None
-鄏	None	录入中	None	None
-𨝇	None	录入中	None	None
-𨜻	None	录入中	None	None
-䣔	None	录入中	None	None
-鄖	None	录入中	None	None
+𨝅	None	同=鄉	None	鄉
+⿰⿱王回阝	bi3	@	None	None
+䣕	ma3	[存䣕]也作“𨚲䣕” 汉县名，在今四川省宜宾市	None	None
+𨝜	shun4	@	None	None
+𨜴	he2	古地名 在今山东省沂水县西北	None	None
+鄚	mao4	古地名 战国赵邑，汉置县，唐置州，后改“鄚”为=莫 宋废 故城在今河北省任丘市北	None	莫
+鄚	mao4	姓	None	None
+𨝥	None	同=郎	None	郎
+𨝛	tu2	地名	None	None
+鄑	zi1	古地名 春秋鲁地 在今山东省汶上县以南一带	None	None
+鄑	zi1	古邑名 春秋纪国邑 在今山东省昌邑市西北	None	None
+𨝊	None	=鄍的讹字	None	鄍
+𨝆	ge1	@	None	None
+𨜥	None	同=酈	None	酈
+䣓	li2	国名	None	None
+䣓	li4	同=鬲 古县名	None	鬲
+䣓	li4	姓	None	None
+𨜼	li4	古地名	None	None
+鄏	ru3	[郟鄏]古地名 在今河南省洛阳市境内	None	None
+鄏	ru3	姓	None	None
+𨝇	None	同=邼	None	邼
+𨜻	qian2	古聚名 在今山西省闻喜县	None	None
+䣔	suo3	古亭名 在河南	None	None
+鄖	yun2	古国名 也作=䢵 在今湖北省安陆市 春秋时为楚所灭	None	䢵
+鄖	yun2	古地名 1.春秋卫地 故城在今江苏省如皋市 2.春秋吴地，在今江苏省如皋市东	None	None
+鄖	yun2	姓	None	None
 𨝈	None	录入中	None	None
 鄓	None	录入中	None	None
 鄎	None	录入中	None	None
