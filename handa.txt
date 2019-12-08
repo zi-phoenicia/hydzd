@@ -57018,49 +57018,57 @@
 蟣	ji3	酒面上的浮沫	None	None
 蟣	qi2	水蛭 俗名蚂蟥	None	None
 𧑳	None	同=𧑀	None	𧑀
-𧒓	None	录入中	None	None
-蟶	None	录入中	None	None
-𧒤	None	录入中	None	None
-蠖	None	录入中	None	None
-𧓶	None	录入中	None	None
-蠓	None	录入中	None	None
-𧒗	None	录入中	None	None
-𧒔	None	录入中	None	None
-𧒼	None	录入中	None	None
-蟿	None	录入中	None	None
-𧒘	None	录入中	None	None
-䗵	None	录入中	None	None
-𧒏	None	录入中	None	None
-𧓐	None	录入中	None	None
-蟸	None	录入中	None	None
-𧒽	None	录入中	None	None
-𧒜	None	录入中	None	None
-蟕	None	录入中	None	None
-𧒩	None	录入中	None	None
-蟷	None	录入中	None	None
-𧒾	None	录入中	None	None
-𧒿	None	录入中	None	None
-蠈	None	录入中	None	None
-蠅	None	录入中	None	None
-蠍	None	录入中	None	None
-𧓃	None	录入中	None	None
-𧒛	None	录入中	None	None
-蠌	None	录入中	None	None
-蠉	None	录入中	None	None
-蠋	None	录入中	None	None
-𧒪	None	录入中	None	None
-𧒞	None	录入中	None	None
-𧒎	None	录入中	None	None
-䗻	None	录入中	None	None
-蠞	None	录入中	None	None
-𧒑	None	录入中	None	None
-𧒙	None	录入中	None	None
-𧒦	None	录入中	None	None
-𧓀	None	录入中	None	None
-𧓁	None	录入中	None	None
-𧓛	None	录入中	None	None
-蟾	None	录入中	None	None
-蠏	None	录入中	None	None
+𧒓	se4	[𧒓𧍓]蟋蟀	None	None
+蟶	cheng1	软体动物 竹蛏科 介壳两扇，形状狭而长，外面淡黄色，里面白色，生活在近岸的海水里，也可人工养殖，肉味鲜美 有缢蛏、竹蛏等种类	None	None
+𧒤	None	同=𧔄(蝎)	None	𧔄
+蠖	huo4	[尺蠖]也作“蚇蠖” 又名“步屈”、“造桥虫” 尺蠖蛾的幼虫 虫体细长，生长在树上，颜色像树皮，行动时身体一屈一伸地前进，像用大拇指和中指量尺寸一样 种类很多，危害果树、桑树和棉花等	None	None
+蠖	yue4	[蠖略]行步进止之貌	None	None
+𧓶	None	同=蜂	None	蜂
+蠓	meng3	蠓虫 蠓科 成虫体很小，褐色或黑色，幼虫长圆柱状，灰白色或带黄白色 雌虫吸人畜的血，能传染疾病	None	None
+𧒗	None	同=蝨	None	蝨
+𧒔	None	同=蛷	None	蛷
+𧒼	None	同=蟿	None	蟿
+蟿	qi4	[蟿螽]蝗的一种	None	None
+蟿	ji4	蛙属	None	None
+𧒘	None	同=蜾	None	蜾
+䗵	jiang1	僵蚕 发生白僵病而僵死的干燥蚕体 体内外有白色发粉末，中医用来治疗头风、喉痺、失音等症	None	None
+䗵	jiang1	蚕死貌	None	None
+𧒏	None	同=蜃	None	蜃
+𧓐	lie2	虫行貌	None	None
+蟸	None	同=蠡	None	蠡
+𧒽	lei2	海中动物，肉可食，也可人工饲养	None	None
+𧒜	lei2	虫名	None	None
+蟕	zui1	[蟕蠵]一种大龟	None	None
+𧒩	None	同=螗	None	螗
+蟷	dang1	[蟷蠰]也作“=螗蜋” 即=螳螂	None	螗
+𧒾	None	同=蟷	None	蟷
+𧒿	zei2	同=賊 一种食苗节的害虫	None	賊
+蠈	zei2	同=賊 一种食苗节的害虫	None	賊
+蠅	ying2	昆虫 种类很多，如苍蝇、青蝇、麻蝇等 其中苍蝇通常指家蝇，头部有一对复眼，产卵在肮脏腐臭的东西上，幼虫叫蛆 成虫能传染霍乱、伤寒等多种疾病	None	None
+蠍	None	同=蝎	None	蝎
+𧓃	None	同=蝎	None	蝎
+𧒛	None	=𧓱的讹字	None	𧓱
+蠌	ze2	[螖蠌]见“螖”	None	None
+蠉	xuan1	虫类屈曲盘旋而行或飞貌	None	None
+蠉	xuan1	孑孓，蚊子的幼虫 也作=蜎	None	蜎
+蠋	zhu2	蛾蝶类的幼虫	None	None
+蠋	zhu2	[𧓸蠋]见“𧓸”	None	None
+𧒪	None	=𧏈(蝒)的讹字	None	𧏈
+𧒞	None	同=蝟	None	蝟
+𧒎	e2	蚕蛾 也作=蛾	None	蛾
+𧒎	e2	姓	None	None
+䗻	None	同=蠞	None	蠞
+蠞	jie2	一种海蟹	None	None
+𧒑	shu3	[𧒑蝜]也作“=𧑓蝜” 螽斯别名	None	𧑓
+𧒙	fu4	[𧒙螽]也作“=𧌛螽” 蚱蜢	None	𧌛
+𧒦	None	同=蟄	None	蟄
+𧓀	ying1	@	None	None
+𧓁	ai4	@	None	None
+𧓛	None	同=蟥	None	蟥
+蟾	chan2	[蟾蜍]俗称“癞蛤蟆” 两栖动物 身体表面有许多疙瘩，内有毒腺，能分泌黏液 吃昆虫、蜗牛等小动物，对农业有益	None	None
+蟾	chan2	传说月中有蟾蜍，故以“蟾”为月的代称	None	None
+蟾	chan2	屋檐下的排水设备	None	None
+蠏	None	同=蟹	None	蟹
 蟹	None	录入中	None	None
 𧒒	None	录入中	None	None
 𧓂	None	录入中	None	None
