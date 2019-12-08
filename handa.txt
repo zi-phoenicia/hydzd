@@ -74258,20 +74258,32 @@
 𨚦	None	同=邦	None	邦
 䢺	chu1	[䢺江]地名 在今四川省大邑县境	None	None
 𨚧	qie2	@	None	None
-邵	None	录入中	None	None
-𨚕	None	录入中	None	None
-𨚨	None	录入中	None	None
-邰	None	录入中	None	None
-郌	None	录入中	None	None
-𨚻	None	录入中	None	None
-𨚵	None	录入中	None	None
-䢽	None	录入中	None	None
-𨚼	None	录入中	None	None
-𨚽	None	录入中	None	None
-郒	None	录入中	None	None
-邼	None	录入中	None	None
-䣂	None	录入中	None	None
-邽	None	录入中	None	None
+邵	shao4	古地名 春秋晋邑 在今河南省济源市西，山西省垣曲县东 后魏改为邵郡，后周改为邵州	None	None
+邵	shao4	古州名 相当于今福建省邵武市等地	None	None
+邵	shao4	古郡名，即邵陵郡，本昭陵郡，晋太康中改名，治今湖南省邵阳市	None	None
+邵	shao4	水名 邵水发源于湖南省邵东县回龙峰，在湖南省邵阳市城区注入资水	None	None
+邵	shao4	姓	None	None
+𨚕	bian4	邑名	None	None
+𨚕	bian4	姓	None	None
+𨚨	None	同=郈	None	郈
+邰	tai2	古国名 也作斄 在今陕西省武功县西南	None	None
+邰	tai2	古地名 也作=台 在今山东省费县南	None	台
+邰	tai2	姓	None	None
+郌	None	同=邽	None	邽
+𨚻	None	同=耆	None	耆
+𨚵	zai4	古国名 姬姓 也作=戴、=載 春秋时被宋所灭 在今河南省民权县东	None	戴
+𨚵	zai4	姓	None	None
+䢽	None	同=巷	None	巷
+𨚼	None	同=郁	None	郁
+⿱屾邑	ruo4	@	None	None
+𨚽	None	同=𨚶	None	𨚶
+郒	None	同=郎	None	郎
+邼	kuang1	古乡名 在今山西省闻喜县境	None	None
+䣂	lei3	[䣂陽]旧县名 在湖南省东南部 也作=耒 或作=洡 1986年改为耒阳市	None	耒
+邽	gui1	古县名 本邽戎地 公元前688年秦武公伐邽戎，取其地置邽县，后改为上邽县，1913年改天水县，1949年以天水县城区设市 在今甘肃省天水市 又分置下邽县于弘农，在今陕西省渭南市境	None	None
+邽	gui1	鸟名	None	None
+邽	gui1	通=圭 宝圭	None	圭
+邽	gui1	姓 春秋时有邽巽	None	None
 邿	None	录入中	None	None
 郆	ji2	古地名	None	None
 郆	ji2	山名	None	None
