@@ -74459,32 +74459,65 @@
 郜	gao4	古国名，在今山东省成武县东南 春秋时为宋所灭	None	None
 郜	gao4	古邑名 1.春秋宋邑，即南郜 2.春秋晋邑，在今山西省祁县境	None	None
 郜	gao4	姓	None	None
-䣄	None	录入中	None	None
-郗	None	录入中	None	None
-𨛏	None	录入中	None	None
-郤	None	录入中	None	None
-郛	None	录入中	None	None
-𨛣	None	录入中	None	None
-𨛥	None	录入中	None	None
-𨛌	None	录入中	None	None
-𨛧	None	录入中	None	None
-郡	None	录入中	None	None
-𨛑	None	录入中	None	None
-𨛠	None	录入中	None	None
-𨛐	None	录入中	None	None
-𨜞	None	录入中	None	None
-𨛿	None	录入中	None	None
-𨜀	None	录入中	None	None
-𨛬	None	录入中	None	None
-𨛷	None	录入中	None	None
-𨜁	None	录入中	None	None
-𨛸	None	录入中	None	None
-𨜂	None	录入中	None	None
-𨛫	None	录入中	None	None
-郶	None	录入中	None	None
-郬	None	录入中	None	None
-都	None	录入中	None	None
-𨜃	None	录入中	None	None
+䣄	tu2	古地名 在今山东省枣庄市西南	None	None
+郗	xi1	古地名 在今河南省沁阳市西南 也作=絺	None	絺
+郗	xi1	姓	None	None
+郗	xi1	骨节间	None	None
+𨛏	cuo4	山名	None	None
+郤	xi4	古邑名，当在今山西省沁水下游一带	None	None
+郤	xi4	仰放	None	None
+郤	xi4	通=𨻶 空隙；间隙	None	𨻶
+郤	xi4	姓	None	None
+郛	fu2	外城，古代指城圈外围的大城	None	None
+郛	fu2	不切实；不实在	None	None
+𨛣	None	同=𨙽	None	𨙽
+𨛥	pu2	城	None	None
+𨛌	mang2	古郡名、乡名 在今陕西省蓝田县	None	None
+𨛧	None	同=邳	None	邳
+郡	jun4	我国古代的地方行政区划 周制县大郡小，秦以后郡大县小	None	None
+郡	jun4	官；郡守	None	None
+郡	jun4	仍；频仍	None	None
+郡	jun4	姓	None	None
+𨛑	None	同=邔	None	邔
+𨛠	None	=郄的俗字	None	郄
+𨛐	jun4	古地名	None	None
+𨜞	None	同=都	None	都
+𨛿	None	同=聚	None	聚
+𨜀	None	同=𦤡(鄓) 也作=䭂	None	𦤡
+𨛬	pei2	古地名 𨛬乡，在今山西省闻喜县东	None	None
+𨛬	pei2	姓 也作=裴	None	裴
+𨛷	None	同=都	None	都
+𨜁	None	同=都	None	都
+𨛸	None	同=鄠	None	鄠
+𨜂	None	同=䣊	None	䣊
+𨛫	li2	商诸侯国名 在今山西省长治市西南 也作=黎	None	黎
+郶	None	同=部	None	部
+郬	qing1	地名	None	None
+都	du1	古代指有先君宗庙的城邑	None	None
+都	du1	大城市	None	None
+都	du1	首都，全国最高行政机关所在地	None	None
+都	du1	国	None	None
+都	du1	建都	None	None
+都	du1	下邑	None	None
+都	du1	古代行政区划名 1.夏制，十邑为都 2.周制，四县为都 3.四乡为都 4.十州为都 5.宋元明清县级以下的行政区划	None	None
+都	du1	汇聚；聚集	None	None
+都	du1	水停聚的地方	None	None
+都	du1	居	None	None
+都	du1	藏	None	None
+都	du1	总，总共	None	None
+都	du1	大	None	None
+都	du1	美盛	None	None
+都	du1	唐末藩镇亲军的称号	None	None
+都	du1	唐、宋军队的编制单位	None	None
+都	du1	对吏役的称呼	None	None
+都	du1	於	None	None
+都	du1	叹词 表示赞美，相当于“啊”	None	None
+都	du1	量词相当于“场”、“次”	None	None
+都	du1	象声词	None	None
+都	du1	小木桩 也称“椴”	None	None
+都	du1	姓	None	None
+都	dou1	副词 1.全，全部 2.起强调语气的作用 3.相当于“已经”	None	None
+𨜃	None	同=𨜷	None	𨜷
 郰	None	录入中	None	None
 𨛳	None	录入中	None	None
 鄀	None	录入中	None	None
