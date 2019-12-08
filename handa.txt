@@ -74861,25 +74861,37 @@
 ⿰𭦌阝	None	同=鄫	None	鄫
 𨝋	zhai4	古地名 在今河南省郑州市东北	None	None
 𨝎	kang1	地名	None	None
-鄘	None	录入中	None	None
-鄜	None	录入中	None	None
-𨝧	None	录入中	None	None
-鄣	None	录入中	None	None
-𨝗	None	录入中	None	None
-𨝕	None	录入中	None	None
-𨝢	None	录入中	None	None
-䣝	None	录入中	None	None
-鄝	None	录入中	None	None
-𨝣	None	录入中	None	None
-𨝤	None	录入中	None	None
-𨝐	None	录入中	None	None
-𨝑	None	录入中	None	None
-鄛	None	录入中	None	None
-𨞏	None	录入中	None	None
-𨝬	None	录入中	None	None
-𨞁	None	录入中	None	None
-𨞀	None	录入中	None	None
-䣠	None	录入中	None	None
+鄘	yong1	古国名 1.汉南国 在今湖北省竹山县东 2.周武王灭商后，三分京师之地，自纣城（朝歌）以南的地方称鄘，使管叔监殷于此 故城在今河南省新乡市西南	None	None
+鄘	yong1	通=墉 城	None	墉
+鄘	yong1	姓	None	None
+鄜	fu1	地名 战国魏雕阴邑 秦雕阴县，隋分置洛交县 元省县入州，清升为直隶州，民国改州为县 今属陕西省延安市 1964年改为富县	None	None
+鄜	fu1	姓	None	None
+鄜	lu4	地名	None	None
+𨝧	None	同=鄜	None	鄜
+鄣	zhang1	春秋纪邑 纪迁寿光后属莒	None	None
+鄣	zhang1	春秋齐的附庸国 在今山东省东平县东北	None	None
+鄣	zhang1	古郡名 秦置 汉为故鄣，属丹阳郡 治今浙江省安吉县西北	None	None
+鄣	zhang1	古县名 1.东汉置 属凉州陇西郡，在今甘肃省漳县西南 2.北魏孝文帝分万年置鄣县，在今陕西省西安市临潼区东北	None	None
+鄣	zhang4	同=障 1.阻塞；遮隔 2.秦汉边塞上险要处作防御用的城堡	None	障
+鄣	zhang4	通=瘴 瘴气	None	瘴
+𨝗	None	同=商	None	商
+⿰𠵊阝	None	=同=鄯	None	同
+𨝕	None	同=𨞨	None	𨞨
+𨝢	lou4	古地名	None	None
+⿰𡨼阝	None	同=𨜛	None	𨜛
+䣝	tu2	古地名 在今陕西省合阳县	None	None
+鄝	liao4	春秋国名 1.在今河南省唐河县 2.在今河南省固始县	None	None
+𨝣	None	=鄙的讹字	None	鄙
+𨝤	None	同=鄮	None	鄮
+𨝐	shen1	地名	None	None
+𨝑	guan4	亭名	None	None
+鄛	chao2	汉棘阳县乡名 在今河南省南阳市南	None	None
+鄛	chao2	古地名 也作=巢 君巢县，秦置 亦名居鄛 后汉永平中 徙封刘般为居巢侯国 东晋后废 在今安徽省巢湖市东北	None	巢
+𨞏	None	同=鄲	None	鄲
+𨝬	None	同=鄦	None	鄦
+𨞁	None	同=鄰	None	鄰
+𨞀	None	同=鄭	None	鄭
+䣠	None	同=䣟	None	䣟
 𨝮	None	录入中	None	None
 𨞛	None	录入中	None	None
 𨝵	None	录入中	None	None
