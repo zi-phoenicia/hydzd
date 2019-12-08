@@ -74761,37 +74761,55 @@
 鄖	yun2	古国名 也作=䢵 在今湖北省安陆市 春秋时为楚所灭	None	䢵
 鄖	yun2	古地名 1.春秋卫地 故城在今江苏省如皋市 2.春秋吴地，在今江苏省如皋市东	None	None
 鄖	yun2	姓	None	None
-𨝈	None	录入中	None	None
-鄓	None	录入中	None	None
-鄎	None	录入中	None	None
-鄔	None	录入中	None	None
-𢔴	None	录入中	None	None
-𨜾	None	录入中	None	None
-𨜺	None	录入中	None	None
-𨝁	None	录入中	None	None
-𨜗	None	录入中	None	None
-鄒	None	录入中	None	None
-鄗	None	录入中	None	None
-𨝏	None	录入中	None	None
-鄌	None	录入中	None	None
-𨜷	None	录入中	None	None
-鄐	None	录入中	None	None
-𨜶	None	录入中	None	None
-𨜽	None	录入中	None	None
-鄍	None	录入中	None	None
-𨜿	None	录入中	None	None
-𨜹	None	录入中	None	None
-𨝉	None	录入中	None	None
-𨝝	None	录入中	None	None
-𨝩	None	录入中	None	None
-𨝞	None	录入中	None	None
-𨝦	None	录入中	None	None
-𨝟	None	录入中	None	None
-𨝠	None	录入中	None	None
-鄨	None	录入中	None	None
-𨝖	None	录入中	None	None
-𨝨	None	录入中	None	None
-鄢	None	录入中	None	None
+⿰⿱罒电阝	None	同=鄳	None	鄳
+⿰⿳山⺊𠕁阝	kuai4	汉代诸侯国名	None	None
+𨝈	yu3	@	None	None
+鄓	ye4	臭	None	None
+鄎	xi1	古国名 西周分封的诸侯国 姬姓 公元前680年为楚所灭 在今河南省息县西南	None	None
+鄎	xi1	古地名 春秋齐南方边地	None	None
+鄔	wu1	古地名 1.春秋郑邑，后入周 在今河南省偃师市西南 2.春秋晋地，在今山西省介休市东北	None	None
+鄔	wu1	姓	None	None
+𢔴	yu4	乡名	None	None
+𨜾	chuang4	地名	None	None
+𨜺	weng1	古邑名	None	None
+𨝁	None	同=郇	None	郇
+𨜗	zou1	古地名	None	None
+鄒	zou1	古国名 相传为颛顼后裔挟所建立，曹姓，有今山东省费县、邹城市、滕州市、济宁市任城区、金乡县等地 建都于邾（今山东省曲阜市东南南陬村） 公元前614年邾文公迁都于绎（今山东省邹城市东南纪王城） 战国时为楚所灭 也称“邾婁”，省称“邾”	None	None
+鄒	zou1	旧县名 秦置，治今山东省邹城市东南 1992年改邹城市	None	None
+鄒	zou1	狭小；有村气不冠冕者	None	None
+鄒	zou1	姓	None	None
+鄒	ju4	[顏濁鄒]人名	None	None
+鄗	hao3	古地名 1.同=鎬 周武王的国都 故址在今陕西省西安市西 2.春秋属晋，战国属赵 故城在今河北省柏乡县北	None	鎬
+鄗	hao3	春秋齐地，当在今山东省蒙阴县西北 也作=蒿	None	蒿
+鄗	qiao2	古山名 在今河南省荥阳市境内	None	None
+鄗	jiao1	古地名	None	None
+鄗	jiao1	通=郊 城外	None	郊
+𨝏	li2	古乡名	None	None
+鄌	tang2	古国名	None	None
+𨜷	pang2	古亭名 在今河南省新蔡县境	None	None
+鄐	chu4	古地名 春秋晋邑 在今河南省温县境	None	None
+鄐	chu4	姓	None	None
+𨜶	yi4	地名	None	None
+𨜽	yi2	地名	None	None
+鄍	ming2	古邑名 春秋虞地，后属晋 在今山西省平陆县北	None	None
+𨜿	xu4	颓下	None	None
+𨜹	None	同=郖	None	郖
+𨝉	None	同=䣔	None	䣔
+𨝝	None	同=𨝌	None	𨝌
+𨝩	shan1	@	None	None
+⿰虖邑	None	同=鄠	None	鄠
+𨝞	hu4	同=扈	None	扈
+𨝦	dang4	古邑名	None	None
+𨝟	li2	同=黎 古国名	None	黎
+𨝠	None	同=𨝋	None	𨝋
+鄨	bi4	古县名 汉武帝建元六年（公元前135年）置犍为郡，鄨县为其治所 鄨县后属牂牁郡，在今贵州省遵义市西	None	None
+鄨	bi4	古水名	None	None
+𨝖	li2	山险怪状	None	None
+𨝨	zuo4	古地名	None	None
+鄢	yan1	古邑名 1.春秋楚别都，汉惠帝时改为宜城，在今湖北省宜城市 2.春秋莒邑 又名鄢陵、安陵，在今山东省沂水县境	None	None
+鄢	yan1	周国名 春秋时为郑所灭，改名鄢陵，在今河南省鄢陵县西北	None	None
+鄢	yan1	古水名 源出湖北省保康县西南，曰深溪河 东流经南漳宜城二县，注于汉水 也作=漹 又名夷水 即今之蛮河	None	漹
+鄢	yan1	姓	None	None
 鄞	None	录入中	None	None
 𨝴	None	录入中	None	None
 𨞂	None	录入中	None	None
