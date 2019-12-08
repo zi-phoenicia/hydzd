@@ -56816,31 +56816,35 @@
 䗯	jin4	虫名	None	None
 䗯	jin4	蛤类 一名“𧍧䗯”	None	None
 蟂	xiao1	水獭一类动物	None	None
-蟌	None	录入中	None	None
-𧏁	None	录入中	None	None
-䗥	None	录入中	None	None
-𧐱	None	录入中	None	None
-蟋	None	录入中	None	None
-𧐄	None	录入中	None	None
-螸	None	录入中	None	None
-𧐎	None	录入中	None	None
-𧐏	None	录入中	None	None
-䗨	None	录入中	None	None
-蟓	None	录入中	None	None
-𧐲	None	录入中	None	None
-螽	None	录入中	None	None
-𧏼	None	录入中	None	None
-𧐛	None	录入中	None	None
-𧐚	None	录入中	None	None
-蟅	None	录入中	None	None
-䗪	None	录入中	None	None
-䗫	None	录入中	None	None
-𧐷	None	录入中	None	None
-螷	None	录入中	None	None
-䗧	None	录入中	None	None
-䗤	None	录入中	None	None
-螰	None	录入中	None	None
-𧐳	None	录入中	None	None
+蟌	None	同=䗓	None	䗓
+𧏁	None	同=蚳	None	蚳
+䗥	zong1	[螉䗥]即螉 生活在牛马等家畜的皮肤肌筋间的小虫	None	None
+䗥	zong1	蠮螉 俗称细腰蜂	None	None
+𧐱	cong2	[𧐱蝑]即蚣蝑 螽斯别名	None	None
+蟋	xi1	[蟋蟀]昆虫 蟋蟀科 身体黑褐色，触角很长，后腿粗大，善于跳跃 尾部有尾须一堆，雌的两根尾须之间有一个产卵管 雄的好斗，两翅摩擦能发声 生活在阴湿的地方，吃植物的根和茎，对农业有害	None	None
+𧐄	yu4	螽飞貌	None	None
+𧐄	yu2	同=螸	None	螸
+螸	yu2	腹部膏腴下垂	None	None
+螸	yu2	虫名	None	None
+𧐎	mi4	[𧌐𧐎]见“𧌐”	None	None
+𧐏	None	同=蚳	None	蚳
+䗨	yu2	蠹鱼 蛀蚀衣服、书籍的蠹虫	None	None
+蟓	xiang4	桑蚕	None	None
+𧐲	chan2	@	None	None
+螽	zhong1	虫名 害虫 有阜螽、草螽、蜤螽、土螽等 旧说为蝗类的总名 今以阜螽、蟿螽、土螽属蝗科，蜤螽、草螽属螽斯科	None	None
+𧏼	None	同=蛀	None	蛀
+𧐛	None	同=蝮	None	蝮
+𧐚	None	同=蟅	None	蟅
+蟅	zhe4	[蟅蟒]蚱蜢	None	None
+蟅	zhe4	同=䗪	None	䗪
+䗪	zhe4	地鳖虫 又名“土鳖” 体扁，棕黑色，雄的有翅，雌的无翅 常在住宅墙根的土内活动 中医入药	None	None
+䗫	ma2	同=蟆	None	蟆
+𧐷	None	同=蠮	None	蠮
+螷	pi2	蚌的一种，其形狭长	None	None
+䗧	kang1	[䗧𧉅]虫名 即蜻蛉	None	None
+䗤	yong1	[䖺䗤]见“䖺”	None	None
+螰	lu4	[螇螰]见“螇”	None	None
+𧐳	lu4	[螇𧐳]也作“螇=螰” 蝉名	None	螰
 蟑	None	录入中	None	None
 𧏹	None	录入中	None	None
 𧏸	None	录入中	None	None
