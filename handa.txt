@@ -74284,15 +74284,29 @@
 邽	gui1	鸟名	None	None
 邽	gui1	通=圭 宝圭	None	圭
 邽	gui1	姓 春秋时有邽巽	None	None
-邿	None	录入中	None	None
+邿	shi1	古国名 春秋时为鲁附庸国，妊姓 后被鲁所灭 在今山东省济宁市东南	None	None
+邿	shi1	山名 在今山东省平阴县西	None	None
+邿	shi1	姓	None	None
 郆	ji2	古地名	None	None
 郆	ji2	山名	None	None
-䢼	None	录入中	None	None
+䢼	gong1	古邑名	None	None
+䢼	gong1	古亭名 在今江西省庐山	None	None
+䢼	gong1	姓	None	None
+䢼	gong1	山名	None	None
 䢻	chen2	古地名	None	None
-郁	None	录入中	None	None
-𨚲	None	录入中	None	None
-郀	None	录入中	None	None
-郕	None	录入中	None	None
+郁	yu4	[郁夷]古地名 汉置县 治今陕西省宝鸡市陈仓区	None	None
+郁	yu4	物实无中核者谓之郁	None	None
+郁	yu4	通=鬱 香气；香气浓烈	None	鬱
+郁	yu4	通=彧 文采明盛貌	None	彧
+郁	yu4	通=薁 山李	None	薁
+郁	yu4	通=燠 温暖	None	燠
+郁	yu4	姓	None	None
+𨚲	cun2	[𨚲䣕]古县名 治今四川省宜宾县	None	None
+郀	ku1	[郀首]古地名 在今山西省临猗县西南	None	None
+⿰⿱一句阝	None	同=𨚎	None	𨚎
+郕	cheng2	古邑名 春秋鲁孟氏邑 在今山东省宁阳县东北	None	None
+郕	cheng2	古国名 姬姓 周武王弟叔武的封国 在今山东省宁阳县东北	None	None
+郕	cheng2	姓	None	None
 郏	None	=郟的类推简化字	None	郟
 𨚾	None	录入中	None	None
 郅	None	录入中	None	None
