@@ -74935,21 +74935,41 @@
 鄱	po2	[鄱陽]县名 本为春秋楚之番邑，秦置番县，西汉改名番阳，东汉始作鄱阳 治所在今江西省鄱阳县东 三国吴移今鄱阳县 1957年改为=波阳县，2003年恢复鄱阳县名	None	波
 鄱	pi2	古县名	None	None
 鄱	pan2	古地名	None	None
-𨞅	None	录入中	None	None
-𨞌	None	录入中	None	None
-鄮	None	录入中	None	None
-𨞆	None	录入中	None	None
-𨝭	None	录入中	None	None
-𨝯	None	录入中	None	None
-鄯	None	录入中	None	None
-鄰	None	录入中	None	None
-鄭	None	录入中	None	None
-鄫	None	录入中	None	None
-𨞇	None	录入中	None	None
-鄩	None	录入中	None	None
-𨝻	None	录入中	None	None
-𨞉	None	录入中	None	None
-鄪	None	录入中	None	None
+𨞅	None	同=郿	None	郿
+𨞌	duo1	古地名	None	None
+鄮	mao4	古县名 秦置 治所在今浙江省宁波市鄞州区东 鄮山之北，因山得名 隋废	None	None
+鄮	mao4	姓	None	None
+𨞆	None	同=鄮	None	鄮
+𨝭	feng2	古国名	None	None
+𨝯	tong2	古国名	None	None
+𨝯	tong2	姓	None	None
+鄯	shan4	[鄯善]1.古西域国名 原名楼兰 汉昭帝元凤四年改楼兰为鄯善 故城在今新疆维吾尔自治区若羌县东 2.县名	None	None
+鄯	shan4	古州名 北魏孝昌二年（公元526年）置鄯州 治今青海省乐都县	None	None
+鄯	shan4	姓	None	None
+鄰	lin2	古代居民组织名 1.五家为邻 2.八家为邻 3.四家为邻	None	None
+鄰	lin2	邻国；邻居	None	None
+鄰	lin2	古称君主的近臣	None	None
+鄰	lin2	邑	None	None
+鄰	lin2	亲，亲密	None	None
+鄰	lin2	相邻；邻近	None	None
+鄰	lin2	通=栗 坚实；丰实	None	栗
+鄰	lin2	通=燐 燐火	None	燐
+鄰	lin2	姓	None	None
+鄰	lin4	破敝 也作=甐	None	甐
+鄭	zheng4	古国名 1.姬姓 本周西都畿内地，周宣王封弟友于此，在今陕西省华县西北 平王东迁，郑徙于潧洧之上，是为新郑，即今河南省新郑市 2.隋末，王世充自立为王，国号郑 都洛阳，后为唐所灭	None	None
+鄭	zheng4	原指春秋战国时郑国的民间音乐，后与所谓雅乐对举，指与雅乐相背的“淫邪之音”	None	None
+鄭	zheng4	郑重；殷勤	None	None
+鄭	zheng4	姓	None	None
+鄫	zeng1	古国名 1.周国名 姒姓 夏禹之后封此，后属齐 鲁襄公六年（公元前567年）灭于莒 在今山东省苍山县西北	None	None
+鄫	zeng1	古州名 隋开皇十六年（公元596年）置，大业初废，唐武德四年复置 寻废 治今山东省枣庄市南旧峄县	None	None
+鄫	zeng1	姓	None	None
+𨞇	None	同=郯	None	郯
+鄩	xun2	古地名 在今河南省巩义市西南	None	None
+鄩	xun2	古国名 姒姓 在今山东省潍坊市西南	None	None
+鄩	xun2	姓	None	None
+𨝻	None	同=鄩	None	鄩
+𨞉	None	同=鄄	None	鄄
+鄪	bi4	古邑名 春秋鲁地 在今山东省=费县西北	None	费
 𨞈	None	录入中	None	None
 鄧	None	录入中	None	None
 𨞔	None	录入中	None	None
