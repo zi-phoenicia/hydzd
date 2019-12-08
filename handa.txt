@@ -56964,44 +56964,60 @@
 𧑓	shu3	[𧐍𧑓]见“𧐍”	None	None
 𧒁	None	同=𧑓	None	𧑓
 𧑇	li2	[螏𧑇]见“螏”	None	None
-蟜	None	录入中	None	None
-䗴	None	录入中	None	None
-蟘	None	录入中	None	None
-䗺	None	录入中	None	None
-蟭	None	录入中	None	None
-𧑦	None	录入中	None	None
-𧑉	None	录入中	None	None
-𧒂	None	录入中	None	None
-𧑬	None	录入中	None	None
-𧑄	None	录入中	None	None
-蟠	None	录入中	None	None
-𧑪	None	录入中	None	None
-蠄	None	录入中	None	None
-蟡	None	录入中	None	None
-𧑴	None	录入中	None	None
-𧑙	None	录入中	None	None
-𧑒	None	录入中	None	None
-𧑆	None	录入中	None	None
-蟙	None	录入中	None	None
-𧒃	None	录入中	None	None
-蟮	None	录入中	None	None
-𧑞	None	录入中	None	None
-䗲	None	录入中	None	None
-蟧	None	录入中	None	None
-𧑘	None	录入中	None	None
-𧑚	None	录入中	None	None
-𧑲	None	录入中	None	None
-𧑗	None	录入中	None	None
-𧒠	None	录入中	None	None
-蟳	None	录入中	None	None
-𧑏	None	录入中	None	None
-𧑈	None	录入中	None	None
-蟤	None	录入中	None	None
-𧑎	None	录入中	None	None
-𧑐	None	录入中	None	None
-𧑫	None	录入中	None	None
-蟣	None	录入中	None	None
-𧑳	None	录入中	None	None
+蟜	jiao3	毒虫	None	None
+蟜	jiao3	文身野人	None	None
+蟜	jiao3	姓 相传为古代高阳氏玄孙蟜牛之后	None	None
+蟜	qiao2	[蠪蟜]蚂蚁	None	None
+䗴	ting2	古无脊椎动物 “纺锤石”的简称 有孔虫化石的一类 壳为石灰质，多呈纺锤形 最初出现于石炭纪早期，至二叠纪末期绝灭 是详细划分石炭纪和二叠纪地层的标准化石之一	None	None
+蟘	te4	吃苗叶的害虫	None	None
+䗺	yan3	[䖤䗺]即蜿蜒 蛇类爬行的样子	None	None
+䗺	dan4	同=蜑	None	蜑
+蟭	jiao1	[䗚蟭]见“䗚”	None	None
+𧑦	xie2	虫名	None	None
+𧑉	None	=𧒂的讹字	None	𧒂
+𧒂	fu4	[𧒂螽]即=䘀螽 蚱蜢	None	䘀
+𧑬	None	同=𧑄	None	𧑄
+𧑄	None	同=螽	None	螽
+蟠	pan2	盘曲；环绕	None	None
+蟠	pan2	周遍；遍及	None	None
+蟠	pan2	周，匝	None	None
+蟠	pan2	大	None	None
+蟠	fan2	鼠妇虫 又名“蛜蝛”	None	None
+𧑪	None	同=蟠	None	蟠
+蠄	qin2	虫名	None	None
+蟡	gui3	古籍里说的水中动物	None	None
+𧑴	None	同=龜	None	龜
+𧑙	zu2	[蠀𧑙]见“蠀”	None	None
+𧑒	tun1	[𧑒𧍪]虫名 即青蚨	None	None
+𧑆	zhong1	同=蝩 蝗虫	None	蝩
+蟙	zhi2	[蟙䘃]蝙蝠	None	None
+蟙	zhi2	蟹的一种	None	None
+𧒃	None	同=蛘	None	蛘
+蟮	shan4	[蛐蟮]见“蛐”	None	None
+蟮	shan4	同=蟺(鱔) 鳝鱼	None	蟺
+𧑞	None	同=螣	None	螣
+䗲	lin4	萤火虫	None	None
+蟧	lao2	小的螖蠌	None	None
+蟧	lao2	小蝉	None	None
+蟧	liao2	同=蟟 蚱蝉	None	蟟
+𧑘	dang4	摇动	None	None
+𧑚	han2	[𧑚䘆]也作“=䗙䘆” 蚯蚓别名	None	䗙
+𧑲	None	同=𧐴	None	𧐴
+𧑗	ning4	蝉名	None	None
+𧑗	ning4	[𧍮𧑗]见“𧍮”	None	None
+𧑶	None	同=𧑗	None	𧑗
+𧒠	None	同=𧑗	None	𧑗
+蟳	xun2	一种海里生长的蟹 蝤蛑科 头胸甲横卵圆形，表面隆起 螯足强大，第四对步足扁平似桨，适于游泳	None	None
+𧑏	None	同=蠾	None	蠾
+𧑈	fei4	虫名	None	None
+蟤	zhuan1	[蜿蟤]1.龙屈貌 2.虫不申貌 3.蛇名	None	None
+𧑎	cui4	虫名	None	None
+𧑐	yu4	[𧑐蟥]甲虫，金龟子	None	None
+𧑫	sao4	疥疮	None	None
+蟣	ji3	虱的卵	None	None
+蟣	ji3	酒面上的浮沫	None	None
+蟣	qi2	水蛭 俗名蚂蟥	None	None
+𧑳	None	同=𧑀	None	𧑀
 𧒓	None	录入中	None	None
 蟶	None	录入中	None	None
 𧒤	None	录入中	None	None
