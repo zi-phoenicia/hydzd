@@ -20406,32 +20406,68 @@
 𢖇	zhai3	[𢖇𢖆]同“=𤢒獬”	None	𤢒
 𢕹	None	同=徹	None	徹
 𢕾	None	同=避	None	避
-衞	None	录入中	None	None
-衟	None	录入中	None	None
-𢖋	None	录入中	None	None
-𢖉	None	录入中	None	None
-𢖎	None	录入中	None	None
-𢖌	None	录入中	None	None
-徽	None	录入中	None	None
-徾	None	录入中	None	None
-𢖍	None	录入中	None	None
-𢖊	None	录入中	None	None
-𧗿	None	录入中	None	None
-㣷	None	录入中	None	None
-𢕬	None	录入中	None	None
-𢖈	None	录入中	None	None
-𧘀	None	录入中	None	None
-𢖑	None	录入中	None	None
-𢖏	None	录入中	None	None
-𢖗	None	录入中	None	None
-𢖒	None	录入中	None	None
-𢖔	None	录入中	None	None
-𧘃	None	录入中	None	None
-𢖐	None	录入中	None	None
-𧘂	None	录入中	None	None
-𢖙	None	录入中	None	None
-𢖛	None	录入中	None	None
-𢖚	None	录入中	None	None
+衞	wei4	守卫；防护	None	None
+衞	wei4	任守御防护之职者 如：门卫；侍卫	None	None
+衞	wei4	谋求	None	None
+衞	wei4	边陲；边远的地方	None	None
+衞	wei4	箭杆上的羽毛	None	None
+衞	wei4	中医名词 “衞氣”的简称	None	None
+衞	wei4	肢体	None	None
+衞	wei4	古代九服之一；也指五服之一	None	None
+衞	wei4	驴的别名	None	None
+衞	wei4	宋代时俗赞美事物之辞	None	None
+衞	wei4	明代军队屯田驻防编制名 一般均冠以所在驻地之名，后相沿成地名 如：威海卫	None	None
+衞	wei4	清代户口编制名，以三千户为一卫	None	None
+衞	wei4	周朝国名 周武王少弟康叔初封于康，后封于殷，故墟朝歌（在今河南省淇县东北）是为卫，辖地在今河北省南部和河南省北部一带 文公迁楚丘，故城在今河南省滑县；成公又徙帝丘，即今河南省濮阳市西南之颛顼城，秦二世时，国灭	None	None
+衞	wei4	水名 源出河北省灵寿县东北，南流至县东南，合滹沱河	None	None
+衞	wei4	西藏一部分地域的旧称 西藏旧分阿里、藏（后藏）、卫（前藏）和康四部 有时又合称阿里、藏二部为藏，卫、康二部为卫，总称曰卫藏 故卫为前藏的别称，也为前藏与康二部的合称	None	None
+衞	wei4	姓	None	None
+衞	wei4	通=璏(zhi4)	None	璏
+衟	None	同=道	None	道
+𢖋	xian2	@	None	None
+𢖉	None	同=撤	None	撤
+𢖎	None	同=𢕖	None	𢕖
+𢖌	None	@	None	None
+徽	hui1	绳索	None	None
+徽	hui1	束缚；捆绑	None	None
+徽	hui1	琴徽，系琴弦的绳，用以限定可以弹奏的部分	None	None
+徽	hui1	绑腿布	None	None
+徽	hui1	标志；符号 如：国徽；校徽	None	None
+徽	hui1	旗帜	None	None
+徽	hui1	美；善	None	None
+徽	hui1	停止；静止	None	None
+徽	hui1	弹奏	None	None
+徽	hui1	通=褘 古代妇女用来蔽膝或覆头的佩巾	None	褘
+徽	hui1	通=緯(wei3) 织	None	緯
+徽	hui1	徽州的省称 旧府治在今安徽省歙县 如：徽墨；徽商 又安徽省的简称	None	None
+徽	hui1	姓	None	None
+⿲彳⿱山里攵	None	同=黴	None	黴
+徾	mei2	[徾徾]相随貌	None	None
+𢖍	None	同=衡	None	衡
+𢖊	ping1	使	None	None
+𧗿	shuai4	率领，带领	None	None
+𧗿	shuai4	遵循	None	None
+𧗿	shuai4	导	None	None
+㣷	ning4	[㣷㣷]行貌	None	None
+𢕬	sa4	众行貌	None	None
+𢕬	sa4	行不进貌	None	None
+𢕬	sa4	不及	None	None
+𢕬	sa4	同=馺	None	馺
+𢕬	sa4	同=趿 行貌	None	趿
+𢖈	tiao4	行貌	None	None
+𧘀	None	=𡭑的讹字	None	𡭑
+𢖑	cuan2	[𢖑𢓆]也作“𢖑𢓃” 迷路貌	None	None
+𢖏	su4	行不住	None	None
+⿰彳⿳十𦉼㠯	None	同=𢖎	None	𢖎
+𢖗	None	同=竦	None	竦
+𢖒	None	同=優	None	優
+𢖔	None	同=儤	None	儤
+𧘃	hang2	[𧘃𧘅]也作“=䘕衏”	None	䘕
+𢖐	None	同=儦	None	儦
+𧘂	None	同=衝	None	衝
+𢖙	None	同=𧽺(䟐)	None	𧽺
+𢖛	hei1	@	None	None
+𢖚	None	=𢖔的讹字	None	𢖔
 徿	None	录入中	None	None
 𢖜	None	录入中	None	None
 𢖘	None	录入中	None	None
