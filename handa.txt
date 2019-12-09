@@ -20275,37 +20275,137 @@
 𢕯	dian4	[𢕯𢖝]也作“𢖝𢕯” 行貌	None	None
 𢕶	None	同=復	None	復
 𢕱	None	同=遠	None	遠
-徵	None	录入中	None	None
-𧗼	None	录入中	None	None
-衝	None	录入中	None	None
-𢕪	None	录入中	None	None
-𢕷	None	录入中	None	None
-𧗹	None	录入中	None	None
-徸	None	录入中	None	None
-𢕮	None	录入中	None	None
-徹	None	录入中	None	None
-𢕰	None	录入中	None	None
-衜	None	录入中	None	None
-𢕲	None	录入中	None	None
-徲	None	录入中	None	None
-衛	None	录入中	None	None
-䘘	None	录入中	None	None
-衠	None	录入中	None	None
-𢕺	None	录入中	None	None
-𢖃	None	录入中	None	None
-𢕼	None	录入中	None	None
-𢖄	None	录入中	None	None
-𢖅	None	录入中	None	None
-徼	None	录入中	None	None
-𢕽	None	录入中	None	None
-徻	None	录入中	None	None
-𢕻	None	录入中	None	None
-衡	None	录入中	None	None
-𢖆	None	录入中	None	None
-㣶	None	录入中	None	None
-𢖇	None	录入中	None	None
-𢕹	None	录入中	None	None
-𢕾	None	录入中	None	None
+⿲彳丨𮏖	None	同=僕	None	僕
+徵	zheng1	召，征召	None	None
+徵	zheng1	求；取	None	None
+徵	zheng1	敛取；征收	None	None
+徵	zheng1	徭役；租税	None	None
+徵	zheng1	证验；效应	None	None
+徵	zheng1	征兆；迹象	None	None
+徵	zheng1	证明	None	None
+徵	zheng1	征聘；纳币以成婚礼	None	None
+徵	zheng1	追究；责问	None	None
+徵	zheng1	典，主管	None	None
+徵	zheng1	虚	None	None
+徵	zheng1	姓	None	None
+徵	zhi3	古代五声音阶的第四音，又名“迭” 相当于工尺谱上的“六”，现在简谱上的“5”	None	None
+徵	cheng2	通=懲	None	懲
+徵	cheng2	用同=澂 澄清	None	澂
+徵	cheng2	古地名 在今陕西省澄城县西南	None	None
+𧗼	hui1	美	None	None
+衝	chong1	通途，大路	None	None
+衝	chong1	通道交叉的地方	None	None
+衝	chong1	重要的	None	None
+衝	chong1	古代用以冲击敌阵或敌城的战车	None	None
+衝	chong1	冒着，顶着	None	None
+衝	chong1	碰撞；突击 如：冲锋；横冲直撞；冲决罗网	None	None
+衝	chong1	冲撞；触犯	None	None
+衝	chong1	刺；穿过	None	None
+衝	chong1	水流灌注或水力撞击 如：冲刷；冲注	None	None
+衝	chong1	突破；破除	None	None
+衝	chong1	天文学名词 当某一在地球轨道外的行星运行到跟地球、太阳成一直线，而地球正处在这一外行星与太阳之间的位置时，即从地球上看，太阳和外行星黄经相差180°，那时行星在子夜中天，叫做=衝	None	衝
+衝	chong1	古代五星家谓相对应、相反为“衝”	None	None
+衝	chong1	中医名词 冲脉 “奇经八脉”之一	None	None
+衝	chong1	凸出、突起貌	None	None
+衝	chong1	动	None	None
+衝	chong3	[衝蓯]相入貌	None	None
+衝	chong4	朝着，对着	None	None
+衝	chong4	介词 介绍地点或对象，相当于“向”、“朝” 如：他回头冲我笑	None	None
+衝	chong4	力量充足或猛烈	None	None
+衝	chong4	冲压 如：冲床；在钢板上冲一个孔	None	None
+衝	chong4	介词 表示凭借，根据	None	None
+𢕪	jiao3	行貌	None	None
+𢕷	yi2	同=蛇(迤)	None	蛇
+𧗹	xin4	[𧗹𧗹]暗行貌	None	None
+𧗹	xian1	开貌	None	None
+𧗹	xian1	见	None	None
+徸	chong1	行貌	None	None
+徸	zhong1	同=蹱	None	蹱
+徸	zhong3	同=㣫	None	㣫
+𢕮	zha4	步立貌	None	None
+徹	che4	撤除；撤销	None	None
+徹	che4	拆除；毁坏	None	None
+徹	che4	通；穿	None	None
+徹	che4	通达；通晓	None	None
+徹	che4	清澈；透明	None	None
+徹	che4	遍；满	None	None
+徹	che4	尽；终了	None	None
+徹	che4	剥取	None	None
+徹	che4	周朝的田税制度	None	None
+徹	che4	治	None	None
+徹	che4	遵循	None	None
+徹	che4	列	None	None
+徹	che4	动；触动	None	None
+徹	che4	栅栏	None	None
+徹	che4	车迹 后作=轍	None	轍
+徹	che4	姓	None	None
+𢕰	None	同=遵	None	遵
+衜	None	同=道	None	道
+𢕲	None	@	None	None
+徲	ti2	久	None	None
+徲	ti2	久待	None	None
+徲	ti2	迟到	None	None
+徲	chi2	[徲徲]往来貌	None	None
+衛	None	同=衞	None	衞
+䘘	yu4	同=御	None	御
+䘘	su4	净	None	None
+衠	zhun1	真；正；纯粹	None	None
+衠	zhun1	全，尽	None	None
+衠	zhun1	尽，总是	None	None
+𢕺	hui4	[𢕺𢕺]室宇显敞貌	None	None
+𢖃	None	同=僕	None	僕
+𢕼	None	同=還	None	還
+𢖄	chong2	行	None	None
+𢖅	yi2	@	None	None
+徼	jiao4	巡察；巡逻	None	None
+徼	jiao4	边境；边界	None	None
+徼	jiao4	小路	None	None
+徼	jiao4	终极；归终	None	None
+徼	jiao4	激发；激励	None	None
+徼	jiao3	[徼幸]也作“=僥幸” 由于偶然的原因获得成功或免去灾祸	None	僥
+徼	jiao3	通=繳 纠缠，徼绕不明	None	繳
+徼	jiao1	窃取；抄袭	None	None
+徼	yao1	同=邀 1.求取；谋求 2.招致 3.阻拦；拦截	None	邀
+𢕽	None	=𢕂(䟈)	None	𢕂
+徻	hui4	[徻徻]屋宇显敞貌	None	None
+𢕻	shan4	行走迅速貌	None	None
+衡	heng2	古代绑在牛角上以防触人的横木	None	None
+衡	heng2	车辕头上的横木	None	None
+衡	heng2	架在门窗或屋梁上的横木	None	None
+衡	heng2	横，与“直”相对	None	None
+衡	heng2	战国时张仪所创连横之策的省称	None	None
+衡	heng2	违逆；对抗	None	None
+衡	heng2	古代天文仪器上的横管，用以观测日月星辰	None	None
+衡	heng2	北斗第五星	None	None
+衡	heng2	喻行政权力中枢	None	None
+衡	heng2	泛指北斗	None	None
+衡	heng2	横簪，古代用以固冠的冕饰	None	None
+衡	heng2	古代楼殿边的栏杆	None	None
+衡	heng2	眉毛，或指眉上的部位	None	None
+衡	heng2	古乐器铜钟顶的平处	None	None
+衡	heng2	秤杆；秤	None	None
+衡	heng2	称重量	None	None
+衡	heng2	衡量；评定	None	None
+衡	heng2	权柄，权力	None	None
+衡	heng2	量词 古衡制单位，十斤	None	None
+衡	heng2	平正，不偏	None	None
+衡	heng2	准则；标准	None	None
+衡	heng2	古代理财家术语，犹言物价政策	None	None
+衡	heng2	佩玉上的横玉，用以系璜和冲牙 也作=珩	None	珩
+衡	heng2	香草名 杜衡的省称	None	None
+衡	heng2	古代掌管山林的官	None	None
+衡	heng2	通=桁 木架	None	桁
+衡	heng2	山名，即衡山的省称 五岳之一，湖南省衡山等县境内 古称南岳	None	None
+衡	heng2	古地名 隋开皇中置衡州，以衡山得名 治所在衡阳，辖境相当于今湖南省衡山县、常宁市、耒阳市间的湘水流域，隋大业初改为衡山郡，唐武德四年夏改为衡州，元至元中改为路，明洪武初改为府	None	None
+衡	heng2	水名 衡水的省称	None	None
+衡	heng2	姓	None	None
+𢖆	jie3	[𢖇𢖆]同“𤢒=獬” 见“𢖇”	None	獬
+㣶	zhan1	走	None	None
+㣶	zhan1	藏	None	None
+㣶	zhan1	同=邅	None	邅
+𢖇	zhai3	[𢖇𢖆]同“=𤢒獬”	None	𤢒
+𢕹	None	同=徹	None	徹
+𢕾	None	同=避	None	避
 衞	None	录入中	None	None
 衟	None	录入中	None	None
 𢖋	None	录入中	None	None
