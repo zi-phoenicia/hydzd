@@ -19603,56 +19603,126 @@
 𢓐	None	=𢒾的讹字	None	𢒾
 𢓉	None	同=返	None	返
 𢓅	None	同=從	None	從
-彸	None	录入中	None	None
+彸	zhong1	[征彸]1.惊慌失措貌 2.行貌	None	None
 𢓑	None	@	None	None
 𢓈	None	同=徇	None	徇
-𢓋	None	录入中	None	None
-役	None	录入中	None	None
-彷	None	录入中	None	None
-征	None	录入中	None	None
-𢓖	None	录入中	None	None
-𢓕	None	录入中	None	None
-徂	None	录入中	None	None
-㣙	None	录入中	None	None
-𢓒	None	录入中	None	None
-徃	None	录入中	None	None
-𢓓	None	录入中	None	None
-𧗞	None	录入中	None	None
-𧗟	None	录入中	None	None
-彾	None	录入中	None	None
-𧗝	None	录入中	None	None
-彽	None	录入中	None	None
-㣘	None	录入中	None	None
-𢓘	None	录入中	None	None
-往	None	录入中	None	None
-𢓔	None	录入中	None	None
-𢓚	None	录入中	None	None
-彿	None	录入中	None	None
-𢓙	None	录入中	None	None
-彼	None	录入中	None	None
-径	None	录入中	None	None
-径	None	录入中	None	None
-衎	None	录入中	None	None
-𢓦	None	录入中	None	None
-𧗡	None	录入中	None	None
-㣜	None	录入中	None	None
-㣝	None	录入中	None	None
-徍	None	录入中	None	None
-待	None	录入中	None	None
-㣟	None	录入中	None	None
-𢓧	None	录入中	None	None
-徔	None	录入中	None	None
-𢓣	None	录入中	None	None
-徆	None	录入中	None	None
-𢓢	None	录入中	None	None
-𧗢	None	录入中	None	None
-𢓡	None	录入中	None	None
-𢓗	None	录入中	None	None
-㣠	None	录入中	None	None
-㣚	None	录入中	None	None
-𢓨	None	录入中	None	None
-𧗣	None	录入中	None	None
-徊	None	录入中	None	None
+𢓋	ang4	[𧇠𢓋]行不端	None	None
+役	yi4	服兵役；戍守边疆 如：现役；退役	None	None
+役	yi4	士卒；服兵役的人	None	None
+役	yi4	事情；事件	None	None
+役	yi4	劳役；出劳力的事	None	None
+役	yi4	服劳役的人	None	None
+役	yi4	仆役；差役；役夫	None	None
+役	yi4	使役；驱使	None	None
+役	yi4	引；牵系	None	None
+役	yi4	门生，弟子	None	None
+役	yi4	职分；职责	None	None
+役	yi4	职位低微的官员	None	None
+役	yi4	排列成行	None	None
+役	yi4	助	None	None
+役	yi4	为；作为	None	None
+彷	pang2	[彷徨]1.徘徊；游荡 2.犹豫不定 3.传说中的虫名	None	None
+彷	fang3	[彷彿]也作“=仿佛” 好像；大概相似	None	仿
+彷	fang2	同=妨 损害；阻碍	None	妨
+征	zheng1	远行	None	None
+征	zheng1	征伐；征戍	None	None
+征	zheng1	争夺；夺取	None	None
+征	zheng1	赋税	None	None
+征	zheng1	用同=鉦	None	鉦
+征	zheng1	姓	None	None
+征	zheng1	=徵(一)的简化字	None	徵
+𢓖	pi1	走貌	None	None
+𢓖	pi1	同=伾	None	伾
+𢓕	yin2	行貌	None	None
+徂	cu2	往；去	None	None
+徂	cu2	至；到	None	None
+徂	cu2	存在	None	None
+徂	cu2	已往的；过去的	None	None
+徂	cu2	通=祖(zu3) 开始	None	祖
+徂	cu2	通=殂 死亡	None	殂
+徂	cu2	通=駔(zu3) 骏马	None	駔
+徂	cu2	通=阻(zu3) 阻止	None	阻
+徂	cu2	古国名	None	None
+㣙	di2	从容平易而行	None	None
+㣙	zhou4	同=宙 无限时间的总称	None	宙
+𢓒	ran2	迟行	None	None
+徃	None	同=往	None	往
+𢓓	None	同=作	None	作
+𧗞	None	同=𧗟(行)	None	𧗟
+𧗟	None	同=行	None	行
+彾	ling2	[彾𢓳]也作“=伶俜” 行貌	None	伶
+彾	ling2	[彾㣔]也作“=伶仃”、“=跉䟓” 独行	None	伶
+彾	ling3	雨后径	None	None
+𧗝	None	同=軌	None	軌
+彽	di1	[彽徊]徘徊	None	None
+㣘	None	同=跔	None	跔
+𢓘	tong2	姓 ……又疑为=佟的误字	None	佟
+𢓘	tao1	纼头铜饰	None	None
+往	wang3	去；到（某处） 与“来”、“返”相对	None	None
+往	wang3	交际；来往	None	None
+往	wang3	昔时；过去	None	None
+往	wang3	以后	None	None
+往	wang3	劳	None	None
+往	wang3	送	None	None
+往	wang3	死；死者	None	None
+往	wang3	外 超过某种限度或范围	None	None
+往	wang3	亡去	None	None
+往	wang3	介词 表示动作行为的方向，相当于“朝”、“向”	None	None
+往	wang3	归向	None	None
+𢓔	sa4	行貌	None	None
+𢓚	None	同=𢓡	None	𢓡
+彿	fu2	[彷彿]见“彷”	None	None
+𢓙	yin3	塗炭	None	None
+彼	bi3	代词 1.指示代词 那 与“此”相对 2.第三人称代词 他；别人；对方	None	None
+彼	bi3	斜	None	None
+彼	bi3	通=匪(fei1) 非	None	匪
+彼	bi3	通=被(pi1)	None	被
+径	None	=徑的简化字	None	徑
+衎	kan4	和乐，愉快	None	None
+衎	kan4	安定	None	None
+衎	kan4	和适自得	None	None
+衎	kan4	姓	None	None
+衎	kan3	诚信；刚直	None	None
+衎	kan3	舒缓从容貌	None	None
+𢓦	None	同=御	None	御
+𧗡	None	=衎的讹字	None	衎
+㣜	xing2	行貌	None	None
+㣝	song1	姓	None	None
+徍	wang3	同=往	None	往
+徍	wa1	[徍徥]邪行貌	None	None
+待	dai4	等候	None	None
+待	dai4	防备；防御	None	None
+待	dai4	供给；备用	None	None
+待	dai4	对待；招待	None	None
+待	dai4	依靠；仗恃	None	None
+待	dai4	必须；需要	None	None
+待	dai4	宽容；容忍	None	None
+待	dai4	想要；打算	None	None
+待	dai4	将要	None	None
+待	dai4	语气词，用在句末或句中，相当于“啊”	None	None
+待	dai4	通=持(chi2) 执；扶助	None	持
+待	dai4	通=特(te4)	None	特
+待	dai1	停留；逗留	None	None
+㣟	xi4	行	None	None
+𢓧	di4	我国近代数学名词，微积分符号之一	None	None
+徔	None	同=從	None	從
+𢓣	song1	姓	None	None
+徆	xi1	行	None	None
+𢓢	kua4	行	None	None
+𧗢	None	=𧗝的讹字	None	𧗝
+𭛩	None	同=徑	None	徑
+𢓡	yi2	平坦 后作=夷	None	夷
+𢓡	ti2	[屖𢓡]也作“屖=㣢” 休息	None	㣢
+𢓗	ci3	行貌	None	None
+㣠	tao1	纼头铜饰	None	None
+㣠	tong2	同=佟	None	佟
+㣚	tong3	[徿㣚]见“徿”	None	None
+㣚	tong4	同=衕	None	衕
+㣚	dong4	同=侗 直；无阻碍	None	侗
+𢓨	ye1	[𢕟𢓨]见“𢕟”	None	None
+𧗣	None	同=衡	None	衡
+徊	hui2	环绕；回转 也作=回、=迴	None	回
+徊	huai2	[徘徊]见“徘”	None	None
 𢓩	None	录入中	None	None
 𢓠	None	录入中	None	None
 㣛	None	录入中	None	None
