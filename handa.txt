@@ -20143,32 +20143,60 @@
 衙	yu4	竹名 古代交州所产由衙的省称	None	None
 𢔹	None	=𢕂(䟈)	None	𢕂
 𢔸	None	同=𧽺(䟐)	None	𧽺
-𢕏	None	录入中	None	None
-𢔶	None	录入中	None	None
-𢕃	None	录入中	None	None
-𧗲	None	录入中	None	None
-微	None	录入中	None	None
-𢕄	None	录入中	None	None
-𢕅	None	录入中	None	None
-衘	None	录入中	None	None
-𢕇	None	录入中	None	None
-𢕈	None	录入中	None	None
-徭	None	录入中	None	None
-徯	None	录入中	None	None
-𢕊	None	录入中	None	None
+⿰彳𡘤	None	同=俺	None	俺
+𢕏	None	同=蹕	None	蹕
+𢔶	None	同=得	None	得
+𢕃	None	同=㣬	None	㣬
+𧗲	zheng1	同=徴(徵)	None	徴
+微	wei1	隐蔽；藏匿	None	None
+微	wei1	秘密地；偷偷地	None	None
+微	wei1	伺察；侦察	None	None
+微	wei1	精妙；深奥	None	None
+微	wei1	不明；昏暗	None	None
+微	wei1	细；小	None	None
+微	wei1	少	None	None
+微	wei1	日月亏缺	None	None
+微	wei1	卑贱	None	None
+微	wei1	衰微；衰落	None	None
+微	wei1	中医脉象之一，指脉搏微小而软，似有若无	None	None
+微	wei1	量词 1.古代极小的量度单位 一寸的百分之一，或一两的百万分之一 2.角度弧度的单位，一秒的六十分之一	None	None
+微	wei1	离	None	None
+微	wei1	无；没有	None	None
+微	wei1	副词 1.表示程度，相当于“稍微”、“稍稍” 2.表示否定，相当于“非”、“不是”	None	None
+微	wei1	通=尾(wei3) 交尾	None	尾
+微	wei1	脚胫生湿疮	None	None
+微	wei1	通=徽(hui1) 善	None	徽
+微	wei1	古诸侯国名 1.殷代畿内之封地 2.殷周时西南夷之国	None	None
+微	wei1	姓	None	None
+𢕄	None	同=微	None	微
+𢕅	shuai4	@ ……按：……疑即=𧗿的俗字	None	𧗿
+衘	xian2	同=銜	None	銜
+衘	yu4	同=御	None	御
+𢕇	None	同=𢕩	None	𢕩
+𢕈	None	同=聳	None	聳
+徭	yao2	劳役	None	None
+徭	yao2	旧时对=瑶族的称谓	None	瑶
+徭	yao2	姓	None	None
+徯	xi1	等待	None	None
+徯	xi1	小路	None	None
+𢕊	None	同=徇	None	徇
 𢔺	None	录入中	None	None
-䚘	None	录入中	None	None
-𢕝	None	录入中	None	None
+䚘	cheng2	角长	None	None
+𢕝	None	同=𢓱	None	𢓱
 𢕍	None	录入中	None	None
-𧗳	None	录入中	None	None
-𧗶	None	录入中	None	None
-𢕎	None	录入中	None	None
-徬	None	录入中	None	None
-𧗵	None	录入中	None	None
-𢕋	None	录入中	None	None
-㣯	None	录入中	None	None
-𢕌	None	录入中	None	None
-𧗴	None	录入中	None	None
+𧗳	None	同=衒	None	衒
+𧗶	ge1	@	None	None
+𢕎	zhong1	疾行貌	None	None
+徬	bang4	人在车辕旁驱使牲畜	None	None
+徬	bang4	同=傍 临近；接近	None	傍
+徬	pang2	[徬徨]徘徊；犹豫	None	None
+𧗵	None	同=𧗿(率)	None	𧗿
+𢕋	yuan4	[䘕𢕋]同“䘕=衏”	None	衏
+㣯	xie4	[徶㣯]见“徶”	None	None
+㣯	xie4	[㣰㣯]摇	None	None
+𢕌	None	同=遲	None	遲
+𧗴	yong3	巷道	None	None
+𧗴	yong3	官府或庭中的中路	None	None
 㣱	None	录入中	None	None
 𢕥	None	录入中	None	None
 𢕞	None	录入中	None	None
