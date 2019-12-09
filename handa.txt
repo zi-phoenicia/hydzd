@@ -20031,37 +20031,118 @@
 衕	tong4	通道；巷道	None	None
 衕	dong4	病名 腹泄	None	None
 𧗬	None	同=微	None	微
-御	None	录入中	None	None
-𢔬	None	录入中	None	None
-𢔣	None	录入中	None	None
-㣫	None	录入中	None	None
-復	None	录入中	None	None
-徨	None	录入中	None	None
-循	None	录入中	None	None
-𢔭	None	录入中	None	None
-𢔃	None	录入中	None	None
-𢔢	None	录入中	None	None
-𧗫	None	录入中	None	None
-𢔱	None	录入中	None	None
-㣪	None	录入中	None	None
-㣭	None	录入中	None	None
-𧗱	None	录入中	None	None
-徧	None	录入中	None	None
-徦	None	录入中	None	None
-𢔦	None	录入中	None	None
-𢔧	None	录入中	None	None
-徫	None	录入中	None	None
-𢔮	None	录入中	None	None
-𢔳	None	录入中	None	None
-𢔟	None	录入中	None	None
-𢕁	None	录入中	None	None
-𢕟	None	录入中	None	None
-𢔵	None	录入中	None	None
-徰	None	录入中	None	None
-𢕂	None	录入中	None	None
-衙	None	录入中	None	None
-𢔹	None	录入中	None	None
-𢔸	None	录入中	None	None
+御	yu4	驾驭车马 也作=馭	None	馭
+御	yu4	驾驭车马的人	None	None
+御	yu4	古代六艺之一	None	None
+御	yu4	乘	None	None
+御	yu4	治理；统治	None	None
+御	yu4	指帝王所用或与之有关的事物	None	None
+御	yu4	宫中女官名	None	None
+御	yu4	嫔妃	None	None
+御	yu4	与女子同居	None	None
+御	yu4	侍奉	None	None
+御	yu4	侍从；仆役	None	None
+御	yu4	进献	None	None
+御	yu4	服用之类物件	None	None
+御	yu4	到；登临	None	None
+御	yu4	制约	None	None
+御	yu4	时	None	None
+御	yu4	凭靠；倚	None	None
+御	yu4	待	None	None
+御	yu4	陈列	None	None
+御	yu4	同=禦 今为“禦”的简化字 1.抵挡 2.阻止；禁止	None	禦
+御	yu4	通=啎(wu3) 违逆	None	啎
+御	yu4	姓	None	None
+御	ya4	通=迓 迎接	None	迓
+𢔬	None	同=御	None	御
+𢔣	cha1	行貌	None	None
+𢔣	sha3	走得快	None	None
+㣫	zhong3	同=踵	None	踵
+㣫	dong4	同=動	None	動
+復	fu4	返回；还	None	None
+復	fu4	恢复	None	None
+復	fu4	报复	None	None
+復	fu4	报答	None	None
+復	fu4	告诉；答复	None	None
+復	fu4	补偿	None	None
+復	fu4	实践；履行	None	None
+復	fu4	事毕	None	None
+復	fu4	遏止	None	None
+復	fu4	免除（赋税徭役）	None	None
+復	fu4	宽宥；优待	None	None
+復	fu4	安宁；安抚	None	None
+復	fu4	古称人死后招其魂归来	None	None
+復	fu4	六十四卦之一，卦形为x，震下坤上	None	None
+復	fu4	副词 1.表示重复或继续，相当于“再” 2.表示反问或加强语气 3.表示频度 相当于“又”、“也”	None	None
+復	fu4	连词 表示并列关系 相当于“又”、“与”	None	None
+復	fu4	助词 起补充或调节音节作用	None	None
+復	fu4	通=複 1.双重；夹层 如：复姓；复线 2.重复；再来一次	None	複
+復	fu4	通=覆 1.覆盖 2.倾覆 3.考求	None	覆
+復	fu4	通=腹 1.肚子 2.厚盛	None	腹
+復	fu4	通=𥨍 地室	None	𥨍
+復	fu4	古州名 1.治今湖北省仙桃市西 2.治今辽宁省瓦房店市 辽、清二代置	None	None
+復	fu4	姓	None	None
+徨	huang2	[徨徨]心神不安	None	None
+徨	huang2	往	None	None
+循	xun2	顺着；沿着	None	None
+循	xun2	依循；遵从 如：循名责实	None	None
+循	xun2	按次序	None	None
+循	xun2	步行	None	None
+循	xun2	恭谨	None	None
+循	xun2	善	None	None
+循	xun2	述；追述	None	None
+循	xun2	安抚；慰问	None	None
+循	xun2	大；扩大	None	None
+循	xun2	通=巡 巡视	None	巡
+循	xun2	通=揗 抚摩	None	揗
+𢔭	None	同=𢔦(徲)	None	𢔦
+𢔃	None	同=履	None	履
+𢔢	yu2	行貌	None	None
+𧗫	jue2	疲惫	None	None
+𢔱	jue2	疲惫	None	None
+𢔱	que4	同=卻 撤退	None	卻
+㣪	huan3	[𢕫㣪]见“𢕫”	None	None
+㣭	zong1	数	None	None
+㣭	zong1	行	None	None
+𫹛	None	同=遊	None	遊
+𧗱	shu4	同=術	None	術
+𧗱	yu4	@	None	None
+徧	bian4	同=遍	None	遍
+徧	pian2	同=蹁	None	蹁
+徧	pian1	同=偏 偏激；不正	None	偏
+徦	jia3	至	None	None
+徦	jia3	来	None	None
+徦	jia3	且	None	None
+徦	jia3	借	None	None
+徦	jia3	姓	None	None
+徦	xia2	同=遐 远	None	遐
+𢔦	None	同=徲	None	徲
+𢔧	bing4	旁；侧	None	None
+徫	wei3	行貌	None	None
+𢔮	None	同=狷	None	狷
+𢔳	sao1	[𢔳𢔇]缓行貌	None	None
+𢔳	sao4	同=𨃣	None	𨃣
+𢔟	rou3	往来	None	None
+𢔟	niu3	同=狃	None	狃
+𢕁	None	同=衖	None	衖
+𢕟	ao4	[𢕟𢓨]也作“=獓𤝱” 传说中的兽名	None	獓
+𢕟	ao4	同=傲 傲慢	None	傲
+𢔵	None	同=遘	None	遘
+徰	None	同=征	None	征
+𢕂	None	同=䟈	None	䟈
+衙	yu3	[衙衙]列队行进的样子	None	None
+衙	yu3	疏远貌	None	None
+衙	ya2	旧时官署之称	None	None
+衙	ya2	唐代皇帝坐理朝政的前殿叫“衙” 后世也因此称皇宫前殿叫“衙”	None	None
+衙	ya2	旧时官吏到上司办公地点排班参见，禀白公事	None	None
+衙	ya2	排列成行的事物	None	None
+衙	ya2	地名，在今陕西省澄城县西北	None	None
+衙	ya2	姓	None	None
+衙	yu4	通=御 迎面阻止	None	御
+衙	yu4	通=禦 强横，豪强	None	禦
+衙	yu4	竹名 古代交州所产由衙的省称	None	None
+𢔹	None	=𢕂(䟈)	None	𢕂
+𢔸	None	同=𧽺(䟐)	None	𧽺
 𢕏	None	录入中	None	None
 𢔶	None	录入中	None	None
 𢕃	None	录入中	None	None
