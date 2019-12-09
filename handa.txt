@@ -20007,20 +20007,30 @@
 ⿰彳⿱刀羊	None	同=𢔦	None	𢔦
 㣧	None	同=胤	None	胤
 𧗭	None	同=愆	None	愆
-街	None	录入中	None	None
-衖	None	录入中	None	None
-𢔯	None	录入中	None	None
-𢔡	None	录入中	None	None
-𢔤	None	录入中	None	None
-𧗰	None	录入中	None	None
-𢔩	None	录入中	None	None
-𢔠	None	录入中	None	None
-徥	None	录入中	None	None
-㣬	None	录入中	None	None
-𢔨	None	录入中	None	None
-𢔥	None	录入中	None	None
-衕	None	录入中	None	None
-𧗬	None	录入中	None	None
+街	jie1	城市的大道 如：大街小巷	None	None
+街	jie1	市集	None	None
+街	jie1	姓	None	None
+衖	xiang4	同=巷 胡同	None	巷
+衖	long4	南方呼小巷为=弄，字也作“衖”	None	弄
+𢔯	None	同=蝲	None	蝲
+𢔡	kai1	[徘𢔡]行恶	None	None
+𢔤	cheng4	[𢔤𢔤]走	None	None
+𧗰	None	小儿戏物 又胡同名	None	None
+𢔩	cong1	慢步行走	None	None
+𢔩	song3	[𢔩𢔩]迅疾貌	None	None
+𢔠	qi4	小行貌	None	None
+徥	shi4	偕行貌；行走貌	None	None
+徥	shi4	同=是 准则	None	是
+徥	shi4	用同=恃 依仗	None	恃
+徥	shi4	苗条貌	None	None
+徥	ti3	停止	None	None
+㣬	qi4	[㣬㣬]行貌	None	None
+𢔨	None	同=得	None	得
+𢔥	yu4	行走	None	None
+𢔥	yu4	急行貌	None	None
+衕	tong4	通道；巷道	None	None
+衕	dong4	病名 腹泄	None	None
+𧗬	None	同=微	None	微
 御	None	录入中	None	None
 𢔬	None	录入中	None	None
 𢔣	None	录入中	None	None
