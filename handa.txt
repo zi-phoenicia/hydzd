@@ -19723,30 +19723,129 @@
 𧗣	None	同=衡	None	衡
 徊	hui2	环绕；回转 也作=回、=迴	None	回
 徊	huai2	[徘徊]见“徘”	None	None
-𢓩	None	录入中	None	None
-𢓠	None	录入中	None	None
-㣛	None	录入中	None	None
-𢓝	None	录入中	None	None
-㣞	None	录入中	None	None
-徇	None	录入中	None	None
-𢓜	None	录入中	None	None
-徉	None	录入中	None	None
-𢓟	None	录入中	None	None
-衍	None	录入中	None	None
-律	None	录入中	None	None
-很	None	录入中	None	None
-𢓞	None	录入中	None	None
-後	None	录入中	None	None
-𧗦	None	录入中	None	None
-衏	None	录入中	None	None
-徒	None	录入中	None	None
-𢓲	None	录入中	None	None
-𧗩	None	录入中	None	None
-㣣	None	录入中	None	None
-𢓻	None	录入中	None	None
-徕	None	录入中	None	None
-𧗨	None	录入中	None	None
-徑	None	录入中	None	None
+⿲彳午亍	None	同=御	None	御
+𢓩	None	同=任	None	任
+𢓠	None	同=侁	None	侁
+㣛	ta4	行貌	None	None
+㣛	hui4	同=會	None	會
+𢓝	tiao1	同=佻 独行貌	None	佻
+㣞	duo2	行	None	None
+徇	xun4	巡视；巡行	None	None
+徇	xun4	巡行示众；示众	None	None
+徇	xun4	当众宣令	None	None
+徇	xun4	炫耀；夸示	None	None
+徇	xun4	夺取	None	None
+徇	xun4	谋求	None	None
+徇	xun4	迅速；敏捷	None	None
+徇	xun4	同=殉 为达到某种目的而死	None	殉
+徇	xun4	止	None	None
+徇	xun4	使	None	None
+徇	xun4	依从；曲从	None	None
+徇	xun4	环绕	None	None
+徇	xun4	周遍	None	None
+𢓜	ge2	至；来 后作=格	None	格
+𢓜	ge2	登	None	None
+徉	yang2	[徜徉]见“徜”	None	None
+徉	yang2	用同=佯 假装	None	佯
+𢓟	zhou2	行	None	None
+衍	yan3	水循河道流汇于海	None	None
+衍	yan3	溢出	None	None
+衍	yan3	丰富；富足	None	None
+衍	yan3	指动植物孳生繁茂	None	None
+衍	yan3	多余	None	None
+衍	yan3	估计在刊抄过程中的字句误增	None	None
+衍	yan3	散开；分布	None	None
+衍	yan3	广大	None	None
+衍	yan3	远	None	None
+衍	yan3	达，到，至	None	None
+衍	yan3	竹箱之类的盛器	None	None
+衍	yan3	低而平坦之地	None	None
+衍	yan3	山坡	None	None
+衍	yan3	沼泽	None	None
+衍	yan3	推演；演述	None	None
+衍	yan3	扩展；扩充	None	None
+衍	yan3	演变	None	None
+衍	yan3	地名 战国魏邑，即衍氏 故地在今河南省郑州市北	None	None
+衍	yan3	姓	None	None
+衍	yan2	佛教术语 摩訶衍的省称，即所谓“乘”	None	None
+衍	yan2	通=延 1.延进；延请；导入 2.延续；延伸	None	延
+律	lv4	古代用来校正乐音标准的管状仪器 以管的长短来确定音阶 从低音算起，成奇数的六个管叫律，称偶数的六个管叫吕 统称十二律	None	None
+律	lv4	音律；乐律 古人按乐音的高低分为六律和六吕，合成十二律	None	None
+律	lv4	法律；法令	None	None
+律	lv4	规律；规则 如：定律；格律；周期律	None	None
+律	lv4	依法治理、处治	None	None
+律	lv4	约束 如：严于律己	None	None
+律	lv4	遵守；效法	None	None
+律	lv4	衡量	None	None
+律	lv4	古代爵位的等级	None	None
+律	lv4	律诗的简称 如：五律；七律；排律	None	None
+律	lv4	梳理头发	None	None
+律	lv4	述	None	None
+律	lv4	始	None	None
+律	lv4	旧指传呼犯人	None	None
+律	lv4	向前推进	None	None
+律	lv4	指佛教专守戒律的 如：律宗；律寺	None	None
+律	lv4	通=硉(lu4) 礌，击	None	硉
+律	lv4	捕鸟的长柄网	None	None
+律	lv4	姓	None	None
+很	hen3	违逆，不听从	None	None
+很	hen3	险恶；凶暴 后作=狠	None	狠
+很	hen3	争讼	None	None
+很	hen3	行难	None	None
+很	hen3	=恨	None	恨
+很	hen3	副词 表示程度，相当于“甚”、“非常”	None	None
+𢓞	zheng1	行不正	None	None
+後	hou4	时间较晚 与“先”、“前”相对	None	None
+後	hou4	位置在后 与“前”相对	None	None
+後	hou4	落在后面	None	None
+後	hou4	次序靠近末尾的 如：后排；后三名	None	None
+後	hou4	将来；未来	None	None
+後	hou4	子孙；后代	None	None
+後	hou4	指弟媳	None	None
+後	hou4	摈弃	None	None
+後	hou4	肛门	None	None
+後	hou4	语气词 用于句中或句末，相当于“呵”或“啊”	None	None
+後	hou4	姓	None	None
+𧗦	xing2	行貌	None	None
+衏	yuan4	[䘕衏]见“䘕”	None	None
+徒	tu2	步行	None	None
+徒	tu2	步兵；兵卒	None	None
+徒	tu2	跟从的人	None	None
+徒	tu2	徒党；同一类或同一派别的人	None	None
+徒	tu2	门人；弟子	None	None
+徒	tu2	役使	None	None
+徒	tu2	服徭役的人	None	None
+徒	tu2	徒刑，古代刑法名 即拘禁使服劳役	None	None
+徒	tu2	服劳役的犯人	None	None
+徒	tu2	人（多为贬义）	None	None
+徒	tu2	众	None	None
+徒	tu2	独	None	None
+徒	tu2	裸露	None	None
+徒	tu2	空	None	None
+徒	tu2	副词 1.表示范围，相当于“只”、“仅仅” 2.白白地 3.表示转折，相当于“乃”、“却”	None	None
+徒	tu2	通=涂(途) 道路	None	涂
+徒	tu2	姓	None	None
+𢓲	wu2	同=吾	None	吾
+𢓲	hu2	[𢓲㣚]同“=胡同”	None	胡
+𧗩	la4	不能举足	None	None
+㣣	shan4	[𢓕㣣]行摇曳貌	None	None
+𢓻	None	同=𢓙	None	𢓙
+徕	None	=徠的简化字	None	徠
+𧗨	None	同=御	None	御
+徑	jing4	小路	None	None
+徑	jing4	走小路；走近路	None	None
+徑	jing4	泛指道路	None	None
+徑	jing4	迹	None	None
+徑	jing4	行	None	None
+徑	jing4	疾速	None	None
+徑	jing4	直径	None	None
+徑	jing4	轻	None	None
+徑	jing4	度量；衡量	None	None
+徑	jing4	长	None	None
+徑	jing4	径直；直截了当	None	None
+徑	jing4	副词 1.表示承接关系，相当于“就”、“即” 2.特地；特意	None	None
+徑	jing1	取道；经过	None	None
+徑	jing1	南北为径	None	None
 徏	None	录入中	None	None
 𢔜	None	录入中	None	None
 𢓮	None	录入中	None	None
