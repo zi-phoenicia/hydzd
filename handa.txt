@@ -20468,30 +20468,43 @@
 𢖙	None	同=𧽺(䟐)	None	𧽺
 𢖛	hei1	@	None	None
 𢖚	None	=𢖔的讹字	None	𢖔
-徿	None	录入中	None	None
-𢖜	None	录入中	None	None
-𢖘	None	录入中	None	None
-䘙	None	录入中	None	None
-𧘄	None	录入中	None	None
-𢖡	None	录入中	None	None
-忁	None	录入中	None	None
-𢖢	None	录入中	None	None
-𢖝	None	录入中	None	None
-𢖟	None	录入中	None	None
-𢖞	None	录入中	None	None
-忀	None	录入中	None	None
-𧘅	None	录入中	None	None
-𢖤	None	录入中	None	None
-忂	None	录入中	None	None
-𢖣	None	录入中	None	None
-鰴	None	录入中	None	None
-𢖥	None	录入中	None	None
-𧘆	None	录入中	None	None
-𢖦	None	录入中	None	None
-黴	None	录入中	None	None
-衢	None	录入中	None	None
-𢖧	None	录入中	None	None
-𢖨	None	录入中	None	None
+⿲亻⿳山一鱼攵	None	=鰴的类推简化字	None	鰴
+徿	long4	[徿徸]行不正	None	None
+徿	long3	[徿㣚]直行	None	None
+𢖜	None	同=衝	None	衝
+𢖘	None	同=𧾨	None	𧾨
+䘙	None	同=衞	None	衞
+𧘄	None	同=導	None	導
+𢖡	None	同=御	None	御
+忁	None	同=𢖔(儤)	None	𢖔
+𢖢	None	同=農	None	農
+𢖝	xian4	[𢕯𢖝]见“𢕯”	None	None
+𢖟	you2	行	None	None
+𢖞	None	同=儳	None	儳
+忀	xiang1	[忀徉]也作“=襄羊”、“=相羊” 1.徘徊 2.逍遥	None	襄
+忀	rang3	同=躟 快走貌	None	躟
+𧘅	None	同=衏	None	衏
+𢖤	tai2	头垂貌	None	None
+忂	qu2	同=躣 行貌	None	躣
+忂	ju4	姓	None	None
+𢖣	None	同=徱	None	徱
+鰴	hui1	大耳多力的鱼	None	None
+𢖥	None	同=𨇻	None	𨇻
+𧘆	None	同=衢	None	衢
+𢖦	jue2	往	None	None
+𢖦	jue2	行貌	None	None
+黴	mei2	霉菌 体呈丝状，丛生，种类很多，有青霉、绿霉等	None	None
+黴	mei2	物因受潮生霉菌而变色变质	None	None
+黴	mei2	面垢黑	None	None
+黴	mei4	点笔	None	None
+黴	mei4	濡笔	None	None
+衢	qu2	道路	None	None
+衢	qu2	分岔的道路	None	None
+衢	qu2	树枝分错、分岔	None	None
+衢	qu2	地名 在浙江省西部 唐置衢州，因境内有三衢山 民国改衢县	None	None
+衢	qu2	姓	None	None
+𢖧	nang4	行貌	None	None
+𢖨	None	同=𧲝	None	𧲝
 彡	shan1	须毛及饰画的花纹	None	None
 彡	shan1	毛长	None	None
 彡	shan1	毛发貌	None	None
