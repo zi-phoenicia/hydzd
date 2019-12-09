@@ -19926,39 +19926,87 @@
 徙	xi3	癣	None	None
 徙	si1	古国名	None	None
 徙	si1	古地名	None	None
-徙	si1	录入中	None	None
-𢔄	None	录入中	None	None
-徜	None	录入中	None	None
-得	None	录入中	None	None
-𢔕	None	录入中	None	None
-𢔎	None	录入中	None	None
-衔	None	录入中	None	None
-𢔖	None	录入中	None	None
-𢔊	None	录入中	None	None
-𢔝	None	录入中	None	None
-㣦	None	录入中	None	None
-𢔗	None	录入中	None	None
-㣥	None	录入中	None	None
-𢔌	None	录入中	None	None
-𢔘	None	录入中	None	None
-從	None	录入中	None	None
-𢔍	None	录入中	None	None
-𢔏	None	录入中	None	None
-衑	None	录入中	None	None
-徟	None	录入中	None	None
-𢔐	None	录入中	None	None
-𢔇	None	录入中	None	None
-𢔙	None	录入中	None	None
-𢔚	None	录入中	None	None
-衒	None	录入中	None	None
-𢔑	None	录入中	None	None
-𢔆	None	录入中	None	None
-徖	None	录入中	None	None
-徤	None	录入中	None	None
-𢔔	None	录入中	None	None
-𢔈	None	录入中	None	None
-㣧	None	录入中	None	None
-𧗭	None	录入中	None	None
+⿰彳歩	None	同=徒	None	徒
+𢔄	None	同=趠	None	趠
+徜	chang2	[徜徉]也作“=尚羊”、“=倘佯” 1.徘徊 2.闲游；安闲自在地来去	None	尚
+得	de2	得到；获得 与“失”相对	None	None
+得	de2	贪得	None	None
+得	de2	采用；采取	None	None
+得	de2	相遇；遇到	None	None
+得	de2	控制；驾驭	None	None
+得	de2	便利；有利	None	None
+得	de2	投合；投契	None	None
+得	de2	适合；适当	None	None
+得	de2	晓悟；了解	None	None
+得	de2	完成	None	None
+得	de2	足；满足	None	None
+得	de2	及；到	None	None
+得	de2	可；能够	None	None
+得	de2	用于结束谈话的时候，表示同意或禁止	None	None
+得	de2	副词 1.表示反诘，相当于“岂”、“难道” 2.表示着重，特举，相当于“特”、“仅”	None	None
+得	de2	通=德	None	德
+得	dei3	必须；应该	None	None
+得	de5	助词 1.用于动词后面，表示可能、能够 如：这房子还住得 2.用于动词或形容词后面，连结表示结果或程度的补语 如：跑得快；累得汗流满面；风大得很 3.用在动词后面，表示动作完成 相当于“了” 4.用于句末，表示语气	None	None
+𢔕	None	同=退	None	退
+𢔎	None	同=往	None	往
+⿰彳𭀡	None	同=𢓝	None	𢓝
+衔	None	=銜的简化字	None	銜
+𢔖	None	同=衡	None	衡
+𢔊	chi2	行	None	None
+𢔝	None	=𢔣的讹字	None	𢔣
+㣦	wei1	[㣦彵]同“=逶迤”	None	逶
+𢔗	None	同=徒	None	徒
+㣥	None	同=偫	None	偫
+𢔌	None	同=俾	None	俾
+𢔘	None	同=𢔱	None	𢔱
+從	cong2	随行；跟随	None	None
+從	cong2	追逐	None	None
+從	cong2	随着；接着	None	None
+從	cong2	随从者	None	None
+從	cong2	率；带领	None	None
+從	cong2	牵	None	None
+從	cong2	听从；依顺	None	None
+從	cong2	采取某种处理方式或态度 如：从速；丧事从简；坦白从宽	None	None
+從	cong2	言词顺畅	None	None
+從	cong2	和顺之道；正常秩序	None	None
+從	cong2	为；从事	None	None
+從	cong2	用来指出汉字所由构成的部分	None	None
+從	cong2	同宗 堂房亲属	None	None
+從	cong2	次；副 古代官品有正，有从	None	None
+從	cong2	从属的；次要的 如：从犯；主从不分	None	None
+從	cong2	副词 从来；向来 如：他从不迟到；他从未去过北京	None	None
+從	cong2	介词 1.表示起点，相当于“自”，“由” 2.表示对象，相当于“向” 3.表示原因、途径，相当于“因”、“由” 4.表示任凭	None	None
+從	cong2	多；重叠	None	None
+從	cong2	姓	None	None
+從	cong2	[從容]1.舒缓安闲；不慌不忙 2.举动 3.调解；斡旋 4.（时间或经济）充分；宽裕	None	None
+從	zong4	通=縱 1.南北为纵，东西为横 2.长；竖 3.放；放纵 4.连词 纵然；尽管	None	縱
+從	zong1	同=蹤 踪迹	None	蹤
+從	zong1	同=鬃 髻高	None	鬃
+從	song3	[從容]同“=慫恿(慂)” 鼓动	None	慫
+從	zong3	[從從]高大貌	None	None
+𢔍	None	同=佾	None	佾
+𢔏	None	同=後	None	後
+衑	ling2	道	None	None
+徟	zhou1	[徟𢕔]行貌	None	None
+𢔐	None	=𢕊的讹字	None	𢕊
+𢔇	tao2	[𢔳𢔇]见“𢔳”	None	None
+𢔙	cu4	拟声状貌词 形容风、火急骤猛烈的情状和声响	None	None
+𢔚	None	同=徬	None	徬
+衒	xuan4	沿街叫卖	None	None
+衒	xuan4	古谓女子不经媒妁而与男子交往	None	None
+衒	xuan4	炫耀	None	None
+衒	xuan4	迷惑；惑乱	None	None
+衒	xuan4	同=袨 华丽之服；盛装	None	袨
+𢔑	quan3	徐行	None	None
+𢔆	qi4	[𢔆集]人众貌	None	None
+徖	cong2	安	None	None
+徤	None	同=健	None	健
+𢔔	han3	水进入船中	None	None
+𢔔	ji2	@	None	None
+𢔈	han2	水进入船中	None	None
+⿰彳⿱刀羊	None	同=𢔦	None	𢔦
+㣧	None	同=胤	None	胤
+𧗭	None	同=愆	None	愆
 街	None	录入中	None	None
 衖	None	录入中	None	None
 𢔯	None	录入中	None	None
