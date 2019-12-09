@@ -19846,50 +19846,87 @@
 徑	jing4	副词 1.表示承接关系，相当于“就”、“即” 2.特地；特意	None	None
 徑	jing1	取道；经过	None	None
 徑	jing1	南北为径	None	None
-徏	None	录入中	None	None
-𢔜	None	录入中	None	None
-𢓮	None	录入中	None	None
-𧗧	None	录入中	None	None
-徎	None	录入中	None	None
-𢓼	None	录入中	None	None
-𢓴	None	录入中	None	None
-𢓳	None	录入中	None	None
-𢓷	None	录入中	None	None
-𢓵	None	录入中	None	None
-𢓽	None	录入中	None	None
-徐	None	录入中	None	None
-𢓬	None	录入中	None	None
-𢓾	None	录入中	None	None
-𢓰	None	录入中	None	None
-𢓯	None	录入中	None	None
-𢓱	None	录入中	None	None
-𢓿	None	录入中	None	None
-䘕	None	录入中	None	None
-𢓫	None	录入中	None	None
-従	None	录入中	None	None
-㣢	None	录入中	None	None
-𢔀	None	录入中	None	None
-𢓸	None	录入中	None	None
-𢓶	None	录入中	None	None
-𢓪	None	录入中	None	None
-𢓭	None	录入中	None	None
-𢕆	None	录入中	None	None
-𧗪	None	录入中	None	None
-𢔪	None	录入中	None	None
-𢔁	None	录入中	None	None
-徣	None	录入中	None	None
-徝	None	录入中	None	None
-徠	None	录入中	None	None
-𢔋	None	录入中	None	None
-術	None	录入中	None	None
-𢔅	None	录入中	None	None
-徛	None	录入中	None	None
-𢔂	None	录入中	None	None
-徢	None	录入中	None	None
-㣤	None	录入中	None	None
-𢔉	None	录入中	None	None
-徘	None	录入中	None	None
-徙	None	录入中	None	None
+⿰彳𫭠	None	同=往	None	往
+徏	None	同=陟	None	陟
+𢔜	None	同=修	None	修
+𢓮	xiao1	行貌	None	None
+𧗧	None	同=往	None	往
+徎	cheng3	同=逞 疾行	None	逞
+徎	zheng3	小路	None	None
+𢓼	None	同=很	None	很
+𢓴	None	同=退	None	退
+𢓳	None	同=𢖊	None	𢖊
+𢓷	None	同=御	None	御
+𢓵	xiu4	[𢓵𢔲]也作“=宿留” 行相待	None	宿
+𢓽	None	同=徯	None	徯
+徐	xu2	缓慢；慢慢地 如：徐行；清风徐来	None	None
+徐	xu2	安闲、稳重貌	None	None
+徐	xu2	散开；舒展	None	None
+徐	xu2	通=俱(ju4) 全；都	None	俱
+徐	xu2	古州名 徐州的省称	None	None
+徐	xu2	古国名 徐族为古代九夷之一，分布在淮河中下游地区 周初建立徐国，后为吴国所灭	None	None
+徐	xu2	姓	None	None
+𢓬	xie1	讼	None	None
+𢓾	None	同=俗	None	俗
+𢓰	tuo3	安行貌	None	None
+𢓯	guang4	扇𢓯	None	None
+𢓯	guang4	行走惊惶貌	None	None
+𢓯	wang3	同=往	None	往
+𢓱	feng2	使	None	None
+𢓱	feng4	烧炙龟甲产生的裂纹	None	None
+𢓿	None	同=悠	None	悠
+䘕	hang2	[䘕衏]也作“䘕=𢕋”、“䘕=院” 1.金元时指妓女 2.行业	None	𢕋
+𢓫	None	同=侁	None	侁
+従	None	同=從	None	從
+㣢	ti2	[屖㣢]休息	None	None
+𢔀	None	同=侵	None	侵
+𢓸	None	同=往	None	往
+𢓶	None	同=通	None	通
+𢓪	None	同=俟	None	俟
+𢓭	None	同=逡	None	逡
+𢕆	None	同=愆	None	愆
+𧗪	yu4	同=御	None	御
+𧗪	qu2	同=衢	None	衢
+𢔪	zhu1	月行	None	None
+𢔁	ling2	姓	None	None
+徣	None	同=借	None	借
+徝	zhi4	施	None	None
+徝	zhi4	同=陟 登；升；进	None	陟
+徠	lai2	到来 与“往”相对	None	None
+徠	lai2	招来；使……来	None	None
+徠	lai2	就	None	None
+徠	lai4	慰劳	None	None
+𢔋	song1	小行恐貌	None	None
+𢔋	song1	同=倯	None	倯
+術	shu4	都邑中的道路；也泛指街道、道路	None	None
+術	shu4	沟渠	None	None
+術	shu4	技艺；技术	None	None
+術	shu4	法；法律；法令	None	None
+術	shu4	办法；策略	None	None
+術	shu4	学说；主张	None	None
+術	shu4	学习；实践	None	None
+術	shu4	通=遂(sui4) 周代王城百里之外的远郊	None	遂
+術	shu4	通=述 述说；阐述	None	述
+術	shu4	通=殺(shai4) 差别；等第	None	殺
+術	shu4	姓	None	None
+𢔅	dong1	行貌	None	None
+徛	ji4	放在水中用以过河的石头 一说渡桥	None	None
+徛	ji4	立	None	None
+𢔂	yan4	匿	None	None
+徢	xie2	行动轻捷貌	None	None
+㣤	None	同=踐	None	踐
+𢔉	None	同=徑	None	徑
+徘	pai2	[徘徊]也作“=俳佪” 1.回旋往返貌 2.喻犹豫不决	None	俳
+徙	xi3	迁移	None	None
+徙	xi3	调职	None	None
+徙	xi3	避	None	None
+徙	xi3	踰；越	None	None
+徙	xi3	谪戍；流放犯人到边远地方	None	None
+徙	xi3	夺取	None	None
+徙	xi3	癣	None	None
+徙	si1	古国名	None	None
+徙	si1	古地名	None	None
+徙	si1	录入中	None	None
 𢔄	None	录入中	None	None
 徜	None	录入中	None	None
 得	None	录入中	None	None
