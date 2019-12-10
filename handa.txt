@@ -22469,38 +22469,85 @@
 𡨚	None	=寃的讹字	None	寃
 𡨛	feng1	@	None	None
 𡨆	None	同=宜	None	宜
-㝘	None	录入中	None	None
-𡨜	None	录入中	None	None
-宰	None	录入中	None	None
-𡨎	None	录入中	None	None
-𡨝	None	录入中	None	None
-㝗	None	录入中	None	None
-宭	None	录入中	None	None
-𡨞	None	录入中	None	None
-𡨉	None	录入中	None	None
-𡨅	None	录入中	None	None
-宻	None	录入中	None	None
-寈	None	录入中	None	None
-𡨲	None	录入中	None	None
-寇	None	录入中	None	None
-𡨥	None	录入中	None	None
-𡨳	None	录入中	None	None
-㝞	None	录入中	None	None
-㝡	None	录入中	None	None
-㝜	None	录入中	None	None
-㝝	None	录入中	None	None
-㝟	None	录入中	None	None
-寅	None	录入中	None	None
-𡨴	None	录入中	None	None
-寄	None	录入中	None	None
-𡨵	None	录入中	None	None
-𡨨	None	录入中	None	None
-寁	None	录入中	None	None
-寂	None	录入中	None	None
-㝠	None	录入中	None	None
-𡨶	None	录入中	None	None
-𡨣	None	录入中	None	None
-𡨷	None	录入中	None	None
+㝘	None	同=訔	None	訔
+𡨜	None	同=寂	None	寂
+宰	zai3	充当家奴的罪人	None	None
+宰	zai3	古官名 1.辅佐国君执政的百官之长 2.主掌某一专职之官 3.卿大夫的家臣 4.邑、县一级的地方行政长官	None	None
+宰	zai3	主宰者，处于支配地位的人和物	None	None
+宰	zai3	制，治理	None	None
+宰	zai3	杀牲；割肉	None	None
+宰	zai3	冢，坟墓	None	None
+宰	zai3	通=采(cai3) 封邑	None	采
+宰	zai3	通=滓(zi3) 渣滓	None	滓
+宰	zai3	姓	None	None
+𡨎	None	同=叜	None	叜
+𡨝	None	同=叟	None	叟
+㝗	lang2	[㝩㝗]屋宇空阔	None	None
+㝗	lang2	空旷	None	None
+宭	qun2	群居	None	None
+宭	qun2	通=窘(jiong3) 困迫	None	窘
+𡨞	None	同=寢	None	寢
+𡨉	None	同=毫	None	毫
+𡨅	ju2	不敢伸	None	None
+宻	None	同=密	None	密
+寈	None	同=青	None	青
+𡨲	jie2	@	None	None
+寇	kou4	暴乱；劫掠	None	None
+寇	kou4	侵略，进犯	None	None
+寇	kou4	盗贼	None	None
+寇	kou4	仇敌	None	None
+寇	kou4	兵器	None	None
+寇	kou4	物盛多	None	None
+寇	kou4	砍伐	None	None
+寇	kou4	姓	None	None
+𡨥	None	同=寇	None	寇
+⿱宀抺	None	同=寐	None	寐
+⿱𫲵业	None	同=虚	None	虚
+𡨳	xiong4	老弱	None	None
+𡨳	hun4	同=𠉣 年老健忘	None	𠉣
+㝞	ya1	[㝞𡨀]1.也作“㝞𡤫” 故作娇媚的样子 2.不正	None	None
+㝞	ya4	悬貌	None	None
+㝡	None	同=最	None	最
+㝜	None	同=𡩤	None	𡩤
+⿳宀十⿱日儿	None	同=寬	None	寬
+㝝	lin2	深	None	None
+㝟	None	=㒻的讹字	None	㒻
+寅	yin2	恭敬	None	None
+寅	yin2	地支的第三位 1.星次序数之一 古代天文学十二星次中的“析木”为寅 2.在历法中用以纪年，太岁（反木星）运行到析年为寅年，太岁年名摄提格 3.用以纪月，指夏历正月 4.用以纪时，指凌晨三至五时	None	None
+寅	yin2	五行属木	None	None
+寅	yin2	十二生肖属虎	None	None
+寅	yin2	对同官的敬称	None	None
+寅	yin2	演	None	None
+寅	yin2	强	None	None
+寅	yin2	前进	None	None
+寅	yin2	水潜行地中 后作=濥	None	濥
+寅	yin2	通=殥 边远	None	殥
+寅	yin2	深 后作=夤	None	夤
+寅	yin2	姓	None	None
+𡨴	None	同=寧	None	寧
+寄	ji4	托付；委托	None	None
+寄	ji4	附；依附	None	None
+寄	ji4	客居	None	None
+寄	ji4	放置，存放（常含暂时、权且之意）	None	None
+寄	ji4	寓托，寓意	None	None
+寄	ji4	托人传达或送交，今特指邮递	None	None
+寄	ji4	借	None	None
+寄	ji4	赠与	None	None
+寄	ji4	古代翻译东方语言的官	None	None
+寄	ji4	古代把罪人流放到东方边远地区的一种刑罚	None	None
+寄	ji4	相认的（亲属） 如：寄父；寄母；寄子	None	None
+𡨵	nai4	@	None	None
+𡨨	None	同=叟	None	叟
+寁	zan3	迅速；快捷	None	None
+寂	ji4	静，没有声音	None	None
+寂	ji4	安静	None	None
+寂	ji4	冷落；冷清	None	None
+寂	ji4	恬静；恬淡	None	None
+寂	ji4	佛教称僧尼死为“涅槃”，或叫“寂”、“宴寂”、“圆寂”、“寂灭”	None	None
+㝠	None	同=冥	None	冥
+𡨶	None	同=㝠(冥)	None	㝠
+𡨣	yu4	假寐	None	None
+𡨷	None	同=𡨳	None	𡨳
 㝛	None	录入中	None	None
 宿	None	录入中	None	None
 寉	None	录入中	None	None
