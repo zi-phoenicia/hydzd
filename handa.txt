@@ -22548,23 +22548,73 @@
 𡨶	None	同=㝠(冥)	None	㝠
 𡨣	yu4	假寐	None	None
 𡨷	None	同=𡨳	None	𡨳
-㝛	None	录入中	None	None
-宿	None	录入中	None	None
-寉	None	录入中	None	None
-寀	None	录入中	None	None
-𡨻	None	录入中	None	None
-𡨩	None	录入中	None	None
-寃	None	录入中	None	None
-𡨧	None	录入中	None	None
-𡨼	None	录入中	None	None
-密	None	录入中	None	None
-𡩌	None	录入中	None	None
-𡨦	None	录入中	None	None
-𡨢	None	录入中	None	None
-𡩍	None	录入中	None	None
-𡨤	None	录入中	None	None
-㝣	None	录入中	None	None
-𡩜	None	录入中	None	None
+㝛	None	同=宿	None	宿
+宿	su4	过夜，夜晚睡觉	None	None
+宿	su4	住，居住	None	None
+宿	su4	住宿的地方	None	None
+宿	su4	栖宿的鸟	None	None
+宿	su4	值宿守卫	None	None
+宿	su4	守；安	None	None
+宿	su4	留，停留	None	None
+宿	su4	隔夜，前一页	None	None
+宿	su4	隔年，前一年	None	None
+宿	su4	旧的	None	None
+宿	su4	老的，久于其事的	None	None
+宿	su4	有名望的人	None	None
+宿	su4	素来，积久	None	None
+宿	su4	大	None	None
+宿	su4	聚合	None	None
+宿	su4	早，预先	None	None
+宿	su4	通=肅 1.肃静 2.告诫 3.进奉；引进	None	肅
+宿	su4	通=縮(suo1) 取	None	縮
+宿	su4	古国名 在今山东省东平县东	None	None
+宿	su4	古州名 唐元和四年置 治今安徽省宿州市，1912年废为宿县	None	None
+宿	su4	旧县名 1912年由宿州改置 1992年并入安徽省宿州市	None	None
+宿	su4	姓	None	None
+宿	su4	[宿宿]也作“=蹜蹜” 小步慢行貌	None	蹜
+宿	xiu4	星辰；星座	None	None
+宿	xiu3	量词 一夜为一宿	None	None
+宿	qi1	同=戚 春秋时卫国邑名，在今河南省濮阳市北	None	戚
+寉	None	同=隺	None	隺
+⿱宀阜	None	同=堆	None	堆
+寀	None	同=采 1.古代卿大夫受封的土地 2.官；官职 3.文采	None	采
+𡨻	nou3	小乳貌	None	None
+𡨩	hun1	[𡨩方]古国名	None	None
+寃	None	同=冤	None	冤
+𡨧	None	同=宰	None	宰
+⿱宀𨐌	None	同=宰	None	宰
+𡨼	None	同=叟	None	叟
+⿱宀祋	None	同=寇	None	寇
+密	mi4	形状像堂屋的山	None	None
+密	mi4	深；幽深	None	None
+密	mi4	闭；塞	None	None
+密	mi4	秘密 如：保密；绝密；密电；密约	None	None
+密	mi4	隐蔽之处	None	None
+密	mi4	靠近；亲近	None	None
+密	mi4	稠密；浓密	None	None
+密	mi4	坚实	None	None
+密	mi4	细致；周严	None	None
+密	mi4	静默	None	None
+密	mi4	止	None	None
+密	mi4	安，安宁	None	None
+密	mi4	通=蜜	None	蜜
+密	mi4	荷根 也作=蔤	None	蔤
+密	mi4	古国名，即密须国 商时姞姓，周改封姬姓 故地在今甘肃省灵台县境	None	None
+密	mi4	古地名 1.春秋时莒国的都城 在今山东省诸城市境内 2.古州名 因境内密水得名 治所在今山东省诸城市	None	None
+密	mi4	旧县名 汉置县，故地在今河南省新密市东南，1994年改设新密市	None	None
+密	mi4	姓	None	None
+𡩌	None	人名用字	None	None
+𡨦	None	同=寢	None	寢
+𡨢	ju1	同=居 住所，房舍	None	居
+𡨢	ju1	储存，积蓄	None	None
+𡨢	ju1	帝室	None	None
+𡨢	ju1	同=䝻 卖	None	䝻
+⿱宀⿸𠃜贝	None	同=賓	None	賓
+𡩍	None	同=宬	None	宬
+𡨤	None	=窡的讹字	None	窡
+㝣	yi4	静	None	None
+㝣	yi4	安	None	None
+𡩜	None	同=憲	None	憲
 寒	None	录入中	None	None
 寋	None	录入中	None	None
 𡩖	None	录入中	None	None
