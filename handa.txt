@@ -22401,29 +22401,74 @@
 家	jie5	助词 用在修饰语后，相当于“地”、“的”	None	None
 家	gu1	[大家]妇女的尊称	None	None
 家	gu1	婆母	None	None
-宵	None	录入中	None	None
-𡨕	None	录入中	None	None
-宲	None	录入中	None	None
-宺	None	录入中	None	None
-宴	None	录入中	None	None
-𤱤	None	录入中	None	None
-𡨟	None	录入中	None	None
-𡨖	None	录入中	None	None
-宾	None	录入中	None	None
-宱	None	录入中	None	None
-𡨗	None	录入中	None	None
-𡨇	None	录入中	None	None
-𡨘	None	录入中	None	None
-𡨀	None	录入中	None	None
-宷	None	录入中	None	None
-𡨠	None	录入中	None	None
-𡨙	None	录入中	None	None
-𤕠	None	录入中	None	None
-容	None	录入中	None	None
-𡨡	None	录入中	None	None
-𡨚	None	录入中	None	None
-𡨛	None	录入中	None	None
-𡨆	None	录入中	None	None
+⿱宀尨	None	同=寵	None	寵
+宵	xiao1	夜 宵夜对举时指前半夜	None	None
+宵	xiao1	化	None	None
+宵	xiao1	通=小(xiao3)	None	小
+宵	xiao1	通=肖(xiao4) 类似；相像	None	肖
+宵	xiao1	通=綃 绮属	None	綃
+宵	xiao1	嗾使	None	None
+𡨕	None	同=冥	None	冥
+宲	bao3	同=𡧖	None	𡧖
+宲	shi2	同=實	None	實
+宺	huang3	同=𡧽	None	𡧽
+宴	yan4	安逸；安闲	None	None
+宴	yan4	安居；安息	None	None
+宴	yan4	喜；乐	None	None
+宴	yan4	安定	None	None
+宴	yan4	宴请，即以酒食款待宾客或聚在一起吃酒饭	None	None
+宴	yan4	酒食；筵席 如：设宴；盛宴；国宴	None	None
+宴	yan4	寝；内室	None	None
+宴	yan4	通=晏 晚；迟	None	晏
+宴	yan4	通=曣 日出时散发的温润之气	None	曣
+𤱤	None	同=𤲑	None	𤲑
+⿱宀邑	None	同=邑	None	邑
+⿳宀皿丁	None	同=寧	None	寧
+𡨟	None	=𡨂的讹字	None	𡨂
+𡨖	fen3	@	None	None
+宾	None	=賓的简化字	None	賓
+宱	zuo4	宽	None	None
+宱	zuo4	实	None	None
+⿱宀住	None	同=家	None	家
+𡨗	zao4	@	None	None
+𡨇	yao3	同=㝔	None	㝔
+𡨇	xiang3	同=響	None	響
+⿱宀皃	None	同=寬	None	寬
+𡨘	None	同=冤	None	冤
+𡨀	cha2	[㝞𡨀]见“㝞”	None	None
+宷	None	同=審	None	審
+𡨠	None	同=穏	None	穏
+𡨙	None	同=叜(叟)	None	叜
+𤕠	None	同=𤕟	None	𤕟
+容	rong2	盛载；容纳	None	None
+容	rong2	收留	None	None
+容	rong2	容量	None	None
+容	rong2	从容	None	None
+容	rong2	宽容；原谅	None	None
+容	rong2	古射礼唱获者用以防箭的蔽障物	None	None
+容	rong2	宜，合宜	None	None
+容	rong2	容貌；仪容	None	None
+容	rong2	修饰；装饰	None	None
+容	rong2	悦，欢喜	None	None
+容	rong2	样式	None	None
+容	rong2	礼仪；礼法	None	None
+容	rong2	法则，规律	None	None
+容	rong2	礼乐之官	None	None
+容	rong2	一种佩饰用的刀	None	None
+容	rong2	可；允许	None	None
+容	rong2	应当	None	None
+容	rong2	副词 或，或许	None	None
+容	rong2	同=鎔 1.铸钱的模子 2.熔铸	None	鎔
+容	rong2	通=公(gong1) 共同	None	公
+容	rong2	通=庸(yong1) 1.用 2.岂	None	庸
+容	rong2	古州名 在今广西壮族自治区东南部，邻接广东省 汉属合浦县，晋初置荡昌县，属合浦郡，梁改为阴石县，并置阴石郡，陈改为奉化县，隋改为普宁县，宋为容州，元为容州路，后降为州，明改为容县，属梧州府	None	None
+容	rong2	姓	None	None
+容	yong3	[容容]飞扬貌	None	None
+容	yong3	[從容]也作“慫=慂” 鼓动别人去做（某事）	None	慂
+𡨡	huan2	围墙；也指院落	None	None
+𡨚	None	=寃的讹字	None	寃
+𡨛	feng1	@	None	None
+𡨆	None	同=宜	None	宜
 㝘	None	录入中	None	None
 𡨜	None	录入中	None	None
 宰	None	录入中	None	None
