@@ -22320,28 +22320,87 @@
 𡧽	huang3	𡧽㝗	None	None
 𡧽	huang3	广	None	None
 𡧽	huang1	居	None	None
-宩	None	录入中	None	None
-㝕	None	录入中	None	None
-𡧾	None	录入中	None	None
-𡧿	None	录入中	None	None
-害	None	录入中	None	None
-㝙	None	录入中	None	None
-𡨒	None	录入中	None	None
-𡨄	None	录入中	None	None
-宼	None	录入中	None	None
-𡨁	None	录入中	None	None
-宯	None	录入中	None	None
-𡨊	None	录入中	None	None
-𠖉	None	录入中	None	None
-宽	None	录入中	None	None
-宧	None	录入中	None	None
-𡨃	None	录入中	None	None
-𡨂	None	录入中	None	None
-𡨓	None	录入中	None	None
-𡨈	None	录入中	None	None
-宸	None	录入中	None	None
-𡨔	None	录入中	None	None
-家	None	录入中	None	None
+𫳅	None	同=牢	None	牢
+宩	None	同=屎	None	屎
+㝕	None	同=寍(寧)	None	寍
+𡧾	None	同=寧	None	寧
+𡧿	None	同=𡩍(宬)	None	𡩍
+害	hai4	伤害；损害	None	None
+害	hai4	灾祸	None	None
+害	hai4	有害的，与“益”相对 如：害虫；害鸟	None	None
+害	hai4	杀害	None	None
+害	hai4	妨碍	None	None
+害	hai4	忌妒；忌惮	None	None
+害	hai4	胜过；超过	None	None
+害	hai4	险阻，险要之地	None	None
+害	hai4	杀气	None	None
+害	hai4	得病	None	None
+害	hai4	畏惧	None	None
+害	hai4	感觉到	None	None
+害	hai4	招致（某种后果）	None	None
+害	hai4	通=轄(xia2) 锁链	None	轄
+害	hai4	通=𡗦(jie4) 大	None	𡗦
+害	he2	代词 表示疑问 1.相当于“什么” 2.相当于“怎么”、“为什么”	None	None
+害	he2	通=曷 何不	None	曷
+害	he2	通=遏(e4) 阻止	None	遏
+㝙	None	同=寅	None	寅
+𡨒	None	=㝙的讹字	None	㝙
+𡨄	xia4	同=㙤 缝隙；裂缝	None	㙤
+𡨄	sai1	同=塞 堵塞	None	塞
+宼	None	同=寇	None	寇
+𡨁	None	同=寂	None	寂
+⿳𡧢丶丶	None	同=寒	None	寒
+宯	xiao1	气上蒸	None	None
+⿳宀圡夂	None	同=突	None	突
+𡨊	None	同=虔	None	虔
+⿳宀廿大	None	同=軍	None	軍
+宽	None	=寬的简化字	None	寬
+宧	yi2	房屋的东北角	None	None
+宧	yi2	养育	None	None
+𡨃	None	同=求	None	求
+⿱㝉㬰	None	同=寅	None	寅
+𡨂	None	同=寤	None	寤
+𡨓	None	同=栗	None	栗
+𡨈	None	同=宣	None	宣
+宸	chen2	屋檐；屋边	None	None
+宸	chen2	深邃的房屋	None	None
+宸	chen2	帝王的住处	None	None
+宸	chen2	王位、帝王的代称	None	None
+宸	chen2	天地相连处	None	None
+𡨔	None	同=宰	None	宰
+家	jia1	住所	None	None
+家	jia1	家庭	None	None
+家	jia1	古称夫或妻	None	None
+家	jia1	娶妻成家	None	None
+家	jia1	定居；安家	None	None
+家	jia1	家财；私产	None	None
+家	jia1	养家；治家	None	None
+家	jia1	量词 表示家庭、店铺、企业的单位 如：一家工厂；三家酒店	None	None
+家	jia1	谦辞 对人称自己的亲属（多指比自己年长的或辈分高的）	None	None
+家	jia1	称同姓的人	None	None
+家	jia1	驯化培育的或家生的 与“野”相对 如：家畜；家兔；家鼠	None	None
+家	jia1	内部的 与“外”相对	None	None
+家	jia1	朝廷	None	None
+家	jia1	都城	None	None
+家	jia1	指帝王或太子	None	None
+家	jia1	古代卿大夫及其家族或封地	None	None
+家	jia1	民族 如：苗家；侗家；傣家	None	None
+家	jia1	指某一集团或某一方面	None	None
+家	jia1	学术流派 如：儒家；法家；墨家；兵家	None	None
+家	jia1	某人	None	None
+家	jia1	具有某种专长、特征，或从事某种专门活动的人 如：音乐家；科学家；野心家；政治家；社会活动家	None	None
+家	jia1	经营某种行业的人家或具有某种身份的人 如：渔家；店家；厂家；东家	None	None
+家	jia1	古代医书上指患某种病的人	None	None
+家	jia1	伏几，即竹夫人	None	None
+家	jia1	助词 词缀，相当于“样”、“似的”	None	None
+家	jia1	用同=傢 如：家什；家具；家生	None	傢
+家	jia1	姓	None	None
+家	jia4	通=稼 种植谷物	None	稼
+家	jia4	通=嫁 移去	None	嫁
+家	jia5	助词 后缀 1.用于名词之后，表示属于某一类人 如：孩子家；姑娘家；学生家 2.用于代词后	None	None
+家	jie5	助词 用在修饰语后，相当于“地”、“的”	None	None
+家	gu1	[大家]妇女的尊称	None	None
+家	gu1	婆母	None	None
 宵	None	录入中	None	None
 𡨕	None	录入中	None	None
 宲	None	录入中	None	None
