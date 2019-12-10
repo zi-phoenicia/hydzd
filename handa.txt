@@ -22194,34 +22194,132 @@
 宖	hong2	同=宏 房屋幽深而有回响	None	宏
 宖	hong2	安	None	None
 𡧨	None	同=窋	None	窋
-𡧩	None	录入中	None	None
-𡧱	None	录入中	None	None
-𡧪	None	录入中	None	None
-宣	None	录入中	None	None
-宦	None	录入中	None	None
-宥	None	录入中	None	None
-宬	None	录入中	None	None
-室	None	录入中	None	None
-𡧯	None	录入中	None	None
-𡧮	None	录入中	None	None
-𡧹	None	录入中	None	None
-宫	None	录入中	None	None
-𡧰	None	录入中	None	None
-宪	None	录入中	None	None
-㝚	None	录入中	None	None
-𡧺	None	录入中	None	None
-𡧻	None	录入中	None	None
-㝓	None	录入中	None	None
-宨	None	录入中	None	None
-𡧼	None	录入中	None	None
-𤕞	None	录入中	None	None
-𡧬	None	录入中	None	None
-𡧭	None	录入中	None	None
-客	None	录入中	None	None
-㝖	None	录入中	None	None
-𡧫	None	录入中	None	None
-㝔	None	录入中	None	None
-𡧽	None	录入中	None	None
+⿱宀迂	None	同=䢓	None	䢓
+⿱宀𣅀	None	同=時	None	時
+𡧩	guai1	𡧩楼	None	None
+⿱宀𠮷	None	同=害	None	害
+𡧱	None	同=害	None	害
+𡧪	None	同=宅	None	宅
+宣	xuan1	天子宣室，古宫室名	None	None
+宣	xuan1	宽大	None	None
+宣	xuan1	骄；骄奢	None	None
+宣	xuan1	周遍；普遍	None	None
+宣	xuan1	传播；宣扬	None	None
+宣	xuan1	通；疏通	None	None
+宣	xuan1	发散；疏散	None	None
+宣	xuan1	显示；显露	None	None
+宣	xuan1	明白	None	None
+宣	xuan1	表达；表白	None	None
+宣	xuan1	帝王的诏书	None	None
+宣	xuan1	传达，多用于传达帝王的诏命	None	None
+宣	xuan1	尽	None	None
+宣	xuan1	（头发）黑白相杂	None	None
+宣	xuan1	头发皓白脱落	None	None
+宣	xuan1	古代度量单位，古尺一尺三又三分之一寸	None	None
+宣	xuan1	宣纸的简称	None	None
+宣	xuan1	宽缓	None	None
+宣	xuan1	六寸的大璧 也作=瑄	None	瑄
+宣	xuan1	用同=喧 声音大而嘈杂	None	喧
+宣	xuan1	地名 1.古州名 治所在今安徽省宣城市 2.明代宣府镇，驻所在今河北省张家口市（旧宣化市） 3.云南省宣威市 如：宣腿	None	None
+宣	xuan1	姓	None	None
+宦	huan4	学习官吏的事物	None	None
+宦	huan4	做官	None	None
+宦	huan4	官；官职	None	None
+宦	huan4	做贵族的奴仆	None	None
+宦	huan4	阉人；太监	None	None
+宦	huan4	阉（牛）	None	None
+宦	huan4	古星座名 共四星，属天市垣，在武仙、蛇夫两座内	None	None
+宦	huan4	通=貫(guan4) 服事，侍奉	None	貫
+宦	huan4	姓	None	None
+宥	you4	宽仁，宽待	None	None
+宥	you4	宽恕；赦免	None	None
+宥	you4	空	None	None
+宥	you4	通=囿 局限	None	囿
+宥	you4	通=侑 助兴；酬答	None	侑
+宥	you4	通=右	None	右
+宥	you4	通=祐 保祐	None	祐
+宥	you4	古州名 1.唐开元二十六年（公元738年）置 治所在延恩（今内蒙古自治区鄂托克旗南） 宝应后废 2.唐元和九年（公元814年）于旧宥州东北置 延恩仍为治所 后移治长泽县（今内蒙古自治区鄂托克旗东南域川古城） 宋时属西夏 蒙古废	None	None
+宥	you4	姓	None	None
+宬	cheng2	容纳；容盛	None	None
+宬	cheng2	藏书室 明清时专指皇宫收藏文书档案的地方	None	None
+宬	cheng2	㡅 一种盛物器具	None	None
+室	shi4	房间；内室	None	None
+室	shi4	房屋；住宅	None	None
+室	shi4	家；户	None	None
+室	shi4	家人	None	None
+室	shi4	家产；家财	None	None
+室	shi4	妻子	None	None
+室	shi4	朝廷；王朝	None	None
+室	shi4	坟墓	None	None
+室	shi4	刀剑的鞘	None	None
+室	shi4	机关、工厂、学校等内部的工作单位 如：办公室；研究室；图书室；手术室；收发室	None	None
+室	shi4	星名 也称“營室” 二十八宿之一，北方玄武七宿的第六宿 有星二颗	None	None
+室	shi4	姓	None	None
+𡧯	None	同=寂	None	寂
+𡧮	None	同=㝔	None	㝔
+𡧹	dai4	@	None	None
+宫	gong1	房屋的通称	None	None
+宫	gong1	围墙，院墙	None	None
+宫	gong1	围绕	None	None
+宫	gong1	帝王的住所	None	None
+宫	gong1	宗庙	None	None
+宫	gong1	神庙	None	None
+宫	gong1	古称学校	None	None
+宫	gong1	今称文化活动或娱乐的场所 如：少年宫；民族宫；文化宫；科学宫	None	None
+宫	gong1	妇女子宫的省称 如：刮宫；扩宫；宫颈炎	None	None
+宫	gong1	牲畜的栏圈	None	None
+宫	gong1	历法名词 周天三十度为一宫，即周天三百六十度的十二分之一 又指古代划分星空的区域	None	None
+宫	gong1	古代五刑之一 阉割男子生殖器，或将妇女幽闭于宫中（一说破坏女性生殖机能），原系惩办淫乱的刑罚，后也施于一般所谓“罪人”	None	None
+宫	gong1	指心脏	None	None
+宫	gong1	中医术语，指五藏神所在之部位	None	None
+宫	gong1	古代五声音阶的第一音，相当于工尺谱上的“上”，现代简谱上的“1”	None	None
+宫	gong1	古代音乐术语 指以宫声为主的调式，相当于西乐中的“C”调 我国古代音律称宫、商、角、变徵、徵、羽、变宫为七声，其中以任何一声为主，皆可构成一种调式 凡以宫声为主的调式称“宫”，以商、角、变徵、徵、羽、变宫等声为主者称“調”；明、清以来的南曲用五宫八调，合成十三调，其中常用这有五宫四调，合成“九宫”	None	None
+宫	gong1	通=躬	None	躬
+宫	gong1	古国名	None	None
+宫	gong1	姓	None	None
+𡧰	None	同=𡧖	None	𡧖
+宪	xxx	同=𡨳	None	𡨳
+宪	xian4	=憲的简化字	None	憲
+𭓯	None	同=害	None	害
+㝚	yan2	@	None	None
+𡧺	None	同=官	None	官
+𡧻	None	同=若	None	若
+㝓	ke4	同=䆟 合	None	䆟
+宨	tiao3	轻佻放肆	None	None
+𡧼	None	同=賔(賓)	None	賔
+𤕞	zhu4	前进貌	None	None
+𡧬	None	同=𡧽	None	𡧽
+𡧭	gui4	毁	None	None
+𡧭	gui3	通	None	None
+客	ke4	宾客；客人	None	None
+客	ke4	寄居；旅居	None	None
+客	ke4	门客；食客 即寄食于贵族豪门并为之服务的人	None	None
+客	ke4	诸侯出使他国的使臣	None	None
+客	ke4	客卿，即在本国做官的外国人	None	None
+客	ke4	以客礼相待；礼遇	None	None
+客	ke4	外来的盗寇或敌人	None	None
+客	ke4	旅人；游子	None	None
+客	ke4	顾客	None	None
+客	ke4	商贩；行商	None	None
+客	ke4	佃农；佃户	None	None
+客	ke4	泛指某人	None	None
+客	ke4	指从事某种活动或具有某种专长的人	None	None
+客	ke4	指鬼怪	None	None
+客	ke4	次要的	None	None
+客	ke4	不以人们主观意志为转移而存在的 如：客观；客体	None	None
+客	ke4	过去的（时间） 如：客岁；客冬	None	None
+客	ke4	方言 量词 用于论份出售的食品	None	None
+客	ke4	姓	None	None
+客	qia4	同=疴 小儿惊厥	None	疴
+㝖	None	=𡨆的讹字	None	𡨆
+𡧫	None	同=宄	None	宄
+⿱宀⿸丶⿸⿻𠂇丿厶	None	同=宏	None	宏
+㝔	yao3	房屋的东南角	None	None
+㝔	yao3	户枢声	None	None
+㝔	yao3	隐暗	None	None
+𡧽	huang3	𡧽㝗	None	None
+𡧽	huang3	广	None	None
+𡧽	huang1	居	None	None
 宩	None	录入中	None	None
 㝕	None	录入中	None	None
 𡧾	None	录入中	None	None
