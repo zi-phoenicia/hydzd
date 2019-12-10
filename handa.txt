@@ -22148,18 +22148,52 @@
 宙	zhou4	天空	None	None
 宙	zhou4	地质学名词，地质年代划分的最大单位 根据生物的发展和演化以及在地层中发现化石的情况，整个地质年代可以划分为隐生宙和显生宙两个单位	None	None
 𡧥	hu1	@	None	None
-官	None	录入中	None	None
-𡧚	None	录入中	None	None
-𡧦	None	录入中	None	None
-𡧙	None	录入中	None	None
-𡧧	None	录入中	None	None
-宛	None	录入中	None	None
-宔	None	录入中	None	None
-实	None	录入中	None	None
-宓	None	录入中	None	None
-𡧖	None	录入中	None	None
-宖	None	录入中	None	None
-𡧨	None	录入中	None	None
+官	guan1	馆舍	None	None
+官	guan1	官署；任所	None	None
+官	guan1	官职；职位	None	None
+官	guan1	官员；官吏	None	None
+官	guan1	居官；做官	None	None
+官	guan1	官府；政府	None	None
+官	guan1	公，与“私”相对	None	None
+官	guan1	职责	None	None
+官	guan1	尽职，守职分	None	None
+官	guan1	职业；行业	None	None
+官	guan1	取法；效法	None	None
+官	guan1	局限	None	None
+官	guan1	器官	None	None
+官	guan1	对君主、尊长的敬称	None	None
+官	guan1	对人的尊称	None	None
+官	guan1	古代军事编制单位，十车为官	None	None
+官	guan1	宋代瓷窑名	None	None
+官	guan1	通=管(guan3) 管理；掌管	None	管
+官	guan1	通=關 通；往来	None	關
+官	guan1	姓	None	None
+𡧚	None	同=家	None	家
+𡧦	None	同=衡	None	衡
+𡧙	pao4	醉起	None	None
+𡧧	None	同=宜	None	宜
+宛	wan3	屈草自覆	None	None
+宛	wan3	弯曲；曲折	None	None
+宛	wan3	凹入；低洼	None	None
+宛	wan3	释散貌	None	None
+宛	wan3	晃荡；摇动	None	None
+宛	wan3	好像	None	None
+宛	wan3	事物真切可见，历历在目	None	None
+宛	wan3	顺利；顺遂	None	None
+宛	wan3	小	None	None
+宛	wan3	通=苑 萎死貌	None	苑
+宛	wan3	姓	None	None
+宛	yuan1	古县名	None	None
+宛	yun3	通=藴(yun4) 积聚	None	藴
+宛	yu4	通=鬱 郁滞；郁结	None	鬱
+宔	zhu3	古代宗庙中藏神主的石函	None	None
+实	None	=實的简化字	None	實
+宓	mi4	同=密 1.安定；安宁；平静 2.寂静；静默 3.止 4.秘密；不公开	None	密
+宓	fu2	姓	None	None
+𡧖	bao3	宝藏 后作=寶	None	寶
+宖	hong2	同=宏 房屋幽深而有回响	None	宏
+宖	hong2	安	None	None
+𡧨	None	同=窋	None	窋
 𡧩	None	录入中	None	None
 𡧱	None	录入中	None	None
 𡧪	None	录入中	None	None
