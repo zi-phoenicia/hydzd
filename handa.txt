@@ -23331,37 +23331,104 @@
 㞐	None	同=居	None	居
 㞑	None	同=尾	None	尾
 屄	bi1	女性外生殖器	None	None
-屈	None	录入中	None	None
-𡱊	None	录入中	None	None
-𡱔	None	录入中	None	None
-𡱓	None	录入中	None	None
-𡱠	None	录入中	None	None
-𡱡	None	录入中	None	None
-𡱒	None	录入中	None	None
-𡱌	None	录入中	None	None
-㞖	None	录入中	None	None
-屍	None	录入中	None	None
-𡱐	None	录入中	None	None
-屋	None	录入中	None	None
-𡱦	None	录入中	None	None
-屌	None	录入中	None	None
-𡱎	None	录入中	None	None
-㞒	None	录入中	None	None
-𡱜	None	录入中	None	None
-㞕	None	录入中	None	None
-㞓	None	录入中	None	None
-㞔	None	录入中	None	None
-𡱕	None	录入中	None	None
-𡱍	None	录入中	None	None
-𡱝	None	录入中	None	None
-屏	None	录入中	None	None
-屎	None	录入中	None	None
-𡱞	None	录入中	None	None
-𡱑	None	录入中	None	None
-𡱏	None	录入中	None	None
-𡱟	None	录入中	None	None
-𡱯	None	录入中	None	None
-𡱷	None	录入中	None	None
+𫵘	None	同=屄	None	屄
+屈	qu1	无尾	None	None
+屈	qu1	短	None	None
+屈	qu1	弯曲；曲折	None	None
+屈	qu1	屈服；屈从	None	None
+屈	qu1	委屈；冤屈	None	None
+屈	qu1	强迫	None	None
+屈	qu1	短亏；亏损 如：理屈词穷	None	None
+屈	qu1	断绝	None	None
+屈	qu1	穷困；困窘	None	None
+屈	qu1	集中；聚积	None	None
+屈	qu1	交错陈列	None	None
+屈	qu1	收治；治理	None	None
+屈	qu1	邀请	None	None
+屈	qu1	郁	None	None
+屈	qu1	轧	None	None
+屈	qu1	量词 相当于“个”、“块”	None	None
+屈	qu1	古邑名 春秋晋地 在今山西省吉县北，盛产良马	None	None
+屈	qu1	姓	None	None
+屈	jue2	枯竭，穷尽	None	None
+屈	jue2	固执 后作=倔	None	倔
+屈	jue2	高起，突起 后作=崛	None	崛
+屈	que4	[屈狄]也作“=𦁐狄” 古代贵妇人的一种服装	None	𦁐
+屈	ju2	[狂屈]理性颠倒失常	None	None
+𡱊	shui3	@	None	None
+𡱔	zhi3	同=旨	None	旨
+𡱔	qi4	身欹坐	None	None
+𡱔	qi4	同=㞓 臀	None	㞓
+𡱓	None	同=尾	None	尾
+⿸尸⿱土大	None	同=屎	None	屎
+𡱠	None	同=克	None	克
+𡱡	None	同=𡱷	None	𡱷
+𡱒	None	同=臀	None	臀
+𡱌	huan2	袋	None	None
+㞖	ci1	此	None	None
+㞖	ci4	[㞖𡳆]足前却	None	None
+屍	shi1	尸体；人或动物死后的遗体	None	None
+屍	shi4	似皴貌	None	None
+𡱐	yi2	蹲踞	None	None
+屋	wu1	房舍，房间	None	None
+屋	wu1	室深处	None	None
+屋	wu1	建屋以覆盖	None	None
+屋	wu1	帷幄，帐幕 后作=幄	None	幄
+屋	wu1	车盖	None	None
+屋	wu1	盖棺的小帐	None	None
+屋	wu1	古人帽子顶部高起的部分	None	None
+屋	wu1	具，具备	None	None
+屋	wu1	古代井田的区划，三百亩为屋	None	None
+屋	wu1	家	None	None
+屋	wu1	终止	None	None
+屋	wu1	古代刑法之一 专指贵族在户内受刑，与一般人在市上受刑有别 后作=剭	None	剭
+屋	wo1	古代半地穴式住室建筑的顶部覆盖	None	None
+𡱦	None	同=蹝	None	蹝
+屌	diao3	男性外生殖器	None	None
+屌	diao3	骂人的粗话	None	None
+𡱎	None	同=肩	None	肩
+㞒	xie4	睡时的鼾声	None	None
+㞒	xie4	作力貌	None	None
+㞒	xi4	[奰㞒]壮大貌 也作“奰=屭”	None	屭
+𡱜	zhao4	@	None	None
+㞕	None	同=屑	None	屑
+㞓	qi4	臀部	None	None
+㞓	qi4	身体斜坐	None	None
+㞓	ji1	男性外生殖器	None	None
+㞔	shi3	人名	None	None
+𡱕	None	同=尾	None	尾
+𡱍	None	同=骸	None	骸
+𡱝	None	同=犀	None	犀
+屏	ping2	当门的小墙，照壁	None	None
+屏	ping2	墙；屏障之物	None	None
+屏	ping2	屏风	None	None
+屏	ping2	字画的条幅 如：条屏；挂屏；字屏	None	None
+屏	ping2	类似画屏那样的东西 如：荧光屏	None	None
+屏	ping2	城角和阙上的小楼	None	None
+屏	ping2	星名	None	None
+屏	bing3	退避	None	None
+屏	bing3	蒙蔽；隐瞒	None	None
+屏	bing3	保护	None	None
+屏	bing3	隐藏；收藏	None	None
+屏	bing3	隐蔽的（屋室） 也作=庰	None	庰
+屏	bing3	抑止	None	None
+屏	bing3	除去；排除	None	None
+屏	bing3	放逐	None	None
+屏	bing4	厕所	None	None
+屏	bing1	[屏營]也作“屏盈” 1.彷徨 2.惶惧貌	None	None
+屎	shi3	粪便	None	None
+屎	shi3	眼、耳等器官的分泌物 如：眼屎；耳屎	None	None
+屎	shi3	排泄	None	None
+屎	shi3	形容技艺低劣	None	None
+屎	xi1	呻吟	None	None
+𡱞	None	同=㡿(斥)	None	㡿
+𡱑	juan1	尻	None	None
+𡱏	None	=䋀的讹字	None	䋀
+𡱟	None	同=孕	None	孕
+⿸尸⿱三月	None	同=屑	None	屑
+𡱯	long4	同=弄 巷子	None	弄
+⿸𡰥矢	None	同=屎	None	屎
+𡱷	die2	下	None	None
 展	None	录入中	None	None
 㞗	None	录入中	None	None
 屒	None	录入中	None	None
