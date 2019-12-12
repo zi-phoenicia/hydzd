@@ -23429,41 +23429,94 @@
 𡱯	long4	同=弄 巷子	None	弄
 ⿸𡰥矢	None	同=屎	None	屎
 𡱷	die2	下	None	None
-展	None	录入中	None	None
-㞗	None	录入中	None	None
-屒	None	录入中	None	None
-𡱰	None	录入中	None	None
-𡱧	None	录入中	None	None
-屑	None	录入中	None	None
-屓	None	录入中	None	None
-𡱵	None	录入中	None	None
-屘	None	录入中	None	None
-屔	None	录入中	None	None
-屐	None	录入中	None	None
-𡱱	None	录入中	None	None
-𡱣	None	录入中	None	None
-𡱲	None	录入中	None	None
-屖	None	录入中	None	None
-𡱨	None	录入中	None	None
-𡱳	None	录入中	None	None
-𡱤	None	录入中	None	None
-屙	None	录入中	None	None
-𡲂	None	录入中	None	None
-𡱢	None	录入中	None	None
-𡱥	None	录入中	None	None
-𡱴	None	录入中	None	None
-𡲌	None	录入中	None	None
-屠	None	录入中	None	None
-𡱻	None	录入中	None	None
-𡱾	None	录入中	None	None
-屚	None	录入中	None	None
-𡲃	None	录入中	None	None
-㞘	None	录入中	None	None
-屝	None	录入中	None	None
-𡱼	None	录入中	None	None
-𡱿	None	录入中	None	None
-𡲍	None	录入中	None	None
-㞙	None	录入中	None	None
+展	zhan3	转，转动	None	None
+展	zhan3	舒展，张开	None	None
+展	zhan3	延长，放宽	None	None
+展	zhan3	直	None	None
+展	zhan3	扩展；扩大	None	None
+展	zhan3	申述；陈述	None	None
+展	zhan3	陈，陈列	None	None
+展	zhan3	展览 如：画展；展销	None	None
+展	zhan3	整理	None	None
+展	zhan3	记录	None	None
+展	zhan3	诚实	None	None
+展	zhan3	确实，的确	None	None
+展	zhan3	省视；瞻仰	None	None
+展	zhan3	施行；施展	None	None
+展	zhan3	演奏	None	None
+展	zhan3	由	None	None
+展	zhan3	用同=顫(zhan4) 发抖	None	顫
+展	zhan3	用同=沾(zhan1)	None	沾
+展	zhan3	揩抹	None	None
+展	zhan3	难	None	None
+展	zhan3	通=亶(dan3) 厚；重	None	亶
+展	zhan3	通=襢(zhan4) 古代后妃及命妇的一种礼服	None	襢
+展	zhan3	姓	None	None
+㞗	qiu2	男性生殖器	None	None
+㞗	qiu2	口语中骂人的粗话	None	None
+⿸尸亜	None	同=屙	None	屙
+屒	zhen3	伏貌	None	None
+屒	zhen3	屋宇	None	None
+屒	zhen3	重唇	None	None
+𡱰	None	同=𡰪	None	𡰪
+𡱧	None	同=尻	None	尻
+屑	xie4	不安	None	None
+屑	xie4	劬劳；劳累	None	None
+屑	xie4	碎末 如：木屑；煤屑；米屑；铁屑	None	None
+屑	xie4	粉碎，研成粉末	None	None
+屑	xie4	琐碎；微小	None	None
+屑	xie4	轻忽，轻视	None	None
+屑	xie4	快，迅速	None	None
+屑	xie4	狡诈	None	None
+屑	xie4	苟	None	None
+屑	xie4	不得已	None	None
+屑	xie4	敬	None	None
+屑	xie4	顾惜，放在心上	None	None
+屑	xie4	清洁；洁好	None	None
+屓	xie4	同=㞒 作力貌	None	㞒
+𡱵	None	[曾子𡱵簠]器名	None	None
+屘	man3	方言 台湾地区称少子为“屘”	None	None
+屔	ni2	四边高中间低可以盛水的山丘	None	None
+屔	ni2	同=㞾	None	㞾
+屐	ji1	木头鞋	None	None
+屐	ji1	泛指鞋	None	None
+𡱱	zhu4	履	None	None
+𡱣	xu4	履属	None	None
+𡱲	None	同=尾	None	尾
+屖	xi1	[屖遟]同“=棲遲” 滞留不进	None	棲
+屖	xi1	坚硬	None	None
+𡱨	None	同=辜	None	辜
+𡱳	suo3	@	None	None
+𡱤	None	同=尿	None	尿
+屙	e1	排泄（大小便） 如：屙屎；屙尿	None	None
+𡲂	None	同=徂	None	徂
+𡱢	None	同=竢	None	竢
+𡱥	None	同=朘	None	朘
+𡱴	None	同=尿	None	尿
+⿸尸抦	None	同=漏	None	漏
+𡲌	None	同=尼	None	尼
+屠	tu2	宰杀牲畜	None	None
+屠	tu2	以宰杀牲畜为职业的人	None	None
+屠	tu2	杀戮	None	None
+屠	tu2	毁灭	None	None
+屠	tu2	割裂；分裂	None	None
+屠	tu2	通=瘏 病	None	瘏
+屠	tu2	通=杜(du4) 杜塞；杜绝	None	杜
+屠	tu2	用同=荼	None	荼
+屠	tu2	古地名 在今陕西省西安市长安区东南	None	None
+屠	tu2	姓	None	None
+𭕣	None	同=絇	None	絇
+𡱻	None	同=屙	None	屙
+𡱾	ju3	小貌	None	None
+屚	None	同=漏	None	漏
+𡲃	None	同=屋	None	屋
+㞘	du1	同=䐁	None	䐁
+屝	fei4	用草、麻、皮等做的鞋	None	None
+𡱼	ke4	同=髁	None	髁
+𡱼	kua4	同=骻	None	骻
+𡱿	None	同=易	None	易
+𡲍	None	同=兵	None	兵
+㞙	None	同=尿	None	尿
 𡲎	None	录入中	None	None
 屜	None	录入中	None	None
 𡲁	None	录入中	None	None
