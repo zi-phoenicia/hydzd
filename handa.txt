@@ -22806,22 +22806,70 @@
 𡪒	zi3	@	None	None
 𡪀	None	同=宜	None	宜
 𡪓	None	同=寶	None	寶
-察	None	录入中	None	None
-㝩	None	录入中	None	None
-𡪔	None	录入中	None	None
-𡩻	None	录入中	None	None
-𡪖	None	录入中	None	None
-𡪕	None	录入中	None	None
-寧	None	录入中	None	None
-𡪯	None	录入中	None	None
-寤	None	录入中	None	None
-𡩽	None	录入中	None	None
-𡪘	None	录入中	None	None
-𡪁	None	录入中	None	None
-寣	None	录入中	None	None
-寢	None	录入中	None	None
-㝫	None	录入中	None	None
-𡪙	None	录入中	None	None
+⿱宀⿲彳丨𠬶	None	同=寢	None	寢
+察	cha2	详审，细究	None	None
+察	cha2	考察；调查	None	None
+察	cha2	考察后予以推举	None	None
+察	cha2	细看	None	None
+察	cha2	知晓；明了	None	None
+察	cha2	辨别，区分	None	None
+察	cha2	清除，明晰	None	None
+察	cha2	明智；聪慧	None	None
+察	cha2	通=蔡(cai4) 野草	None	蔡
+察	cha2	通=際(ji4) 1.至，达到 2.边沿	None	際
+察	cha2	通=殺(sha1)	None	殺
+察	cha2	象声词 也作=嚓	None	嚓
+察	cha2	旧察哈尔省的简称 如：晋察冀边区	None	None
+察	cha2	姓	None	None
+察	cui4	伺	None	None
+㝩	kang1	空虚	None	None
+𡪔	None	同=親	None	親
+𡩻	None	同=浸	None	浸
+𡪖	None	同=密	None	密
+𡪕	None	同=寧	None	寧
+寧	ning2	安宁，安定	None	None
+寧	ning2	静	None	None
+寧	ning2	止息	None	None
+寧	ning2	已嫁女子回娘家探望父母；也泛指省亲	None	None
+寧	ning2	归，返回	None	None
+寧	ning2	因凶丧告假	None	None
+寧	ning2	必定	None	None
+寧	ning2	却，向后退	None	None
+寧	ning2	金代乐名	None	None
+寧	ning2	地名 1.古地名 汉置宁县，属上谷郡，治所在今河北省宣化县西北 2.江苏省南京市的简称 清代为江宁府治，故名 如：沪宁铁路 3.旧宁夏省和今宁夏回族自治区的简称 如：陕甘宁地区	None	None
+寧	ning2	姓	None	None
+寧	ning4	代词 1.表示疑问，相当于“何” 2.指事事物，相当于“如此”	None	None
+寧	ning4	副词 1.表示反诘，相当于“岂”、“难道” 2.表示语气，相当于“乃”、“曾”	None	None
+寧	ning4	连词 表示选择 如：宁愿；宁可	None	None
+寧	ning4	助词	None	None
+𡪯	None	同=𠪚(玁)	None	𠪚
+寤	wu4	睡醒	None	None
+寤	wu4	做梦	None	None
+寤	wu4	通=悟 醒悟，明白	None	悟
+寤	wu4	通=晤 见面	None	晤
+寤	wu4	通=啎(牾wu3) 逆	None	啎
+𡩽	mang2	睡眠	None	None
+𡪘	None	同=𡬍	None	𡬍
+𡪁	an2	梦话	None	None
+寣	hu1	从睡到醒为一寣，即睡一觉	None	None
+寣	hu1	小儿啼哭声	None	None
+寣	hu1	叹词 呼声	None	None
+寢	qin3	病卧；躺卧	None	None
+寢	qin3	睡觉	None	None
+寢	qin3	君王的宫室	None	None
+寢	qin3	居室；卧室	None	None
+寢	qin3	宗庙中藏祖先衣冠的后殿	None	None
+寢	qin3	帝王陵园中的正殿	None	None
+寢	qin3	止，息	None	None
+寢	qin3	搁置；扣压	None	None
+寢	qin3	伏，隐藏	None	None
+寢	qin3	容貌丑陋	None	None
+寢	qin3	通=浸(jin4) 逐渐	None	浸
+寢	qin3	通=侵(qin1) 侵犯	None	侵
+寢	qin3	古地名 即寝丘 在今河南省沈丘县东南	None	None
+寢	qin3	姓	None	None
+㝫	long2	天形	None	None
+𡪙	an4	@	None	None
 寥	None	录入中	None	None
 𡩿	None	录入中	None	None
 𡪚	None	录入中	None	None
