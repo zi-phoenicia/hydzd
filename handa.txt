@@ -23172,41 +23172,91 @@
 𢑾	None	=䂍的讹字	None	䂍
 彠	None	同=蒦	None	蒦
 𢑿	None	同=囊	None	囊
-尸	None	录入中	None	None
-尺	None	录入中	None	None
-𡰥	None	录入中	None	None
-𡰨	None	录入中	None	None
-𡰦	None	录入中	None	None
-尻	None	录入中	None	None
-尼	None	录入中	None	None
-𡰤	None	录入中	None	None
-𡰮	None	录入中	None	None
-㞋	None	录入中	None	None
-𡰱	None	录入中	None	None
-𠧕	None	录入中	None	None
-𡰪	None	录入中	None	None
-𡰯	None	录入中	None	None
-𡰭	None	录入中	None	None
-尽	None	录入中	None	None
-𡰩	None	录入中	None	None
-𡰲	None	录入中	None	None
-𡰬	None	录入中	None	None
-㞌	None	录入中	None	None
-𡰳	None	录入中	None	None
-𡰫	None	录入中	None	None
-层	None	录入中	None	None
-𡰸	None	录入中	None	None
-𡰽	None	录入中	None	None
-屁	None	录入中	None	None
-𡰵	None	录入中	None	None
-𡰶	None	录入中	None	None
-屃	None	录入中	None	None
-尿	None	录入中	None	None
-尾	None	录入中	None	None
-𡰹	None	录入中	None	None
-𪨊	None	录入中	None	None
-㞏	None	录入中	None	None
-𡰾	None	录入中	None	None
+尸	shi1	陈，陈列	None	None
+尸	shi1	古代祭祀时代表死者受祭的活人（一般以臣下或死者的晚辈充任）	None	None
+尸	shi1	神主，神像	None	None
+尸	shi1	主，主体	None	None
+尸	shi1	主持；执掌	None	None
+尸	shi1	喻坐享禄位，不干实事	None	None
+尸	shi1	尸体 后作=屍	None	屍
+尸	shi1	陈列尸体以示众	None	None
+尸	shi1	舒展	None	None
+尸	shi1	姓	None	None
+尺	chi3	量词 1.旧长度单位 a.市制中的长度单位，“市尺”的简称 b.古代长度单位 各代制度不一 2.相当于“幅”	None	None
+尺	chi3	尺子，量长度的器具 如：皮尺；卡尺；计算尺	None	None
+尺	chi3	像尺一样的条状物 如：戒尺；镇尺	None	None
+尺	chi3	喻法度或标准	None	None
+尺	chi3	喻短小或狭小	None	None
+尺	chi3	中医诊脉部位之一 “尺脉”的简称 手掌后桡骨高处下为寸；寸下一指处为关；关下一指处为尺	None	None
+尺	che3	工尺谱符号之一，表示音阶上的一级	None	None
+𡰥	ren2	同=仁	None	仁
+𡰥	yi2	同=夷	None	夷
+𡰨	dang1	@	None	None
+𡰦	None	同=𡰫	None	𡰫
+尻	kao1	臀部	None	None
+尻	kao1	肛门	None	None
+尻	kao1	指男子对女子的性行为	None	None
+尻	kao1	髋骨	None	None
+尻	kao1	托根之处	None	None
+尼	ni2	近，亲近	None	None
+尼	ni2	安	None	None
+尼	ni2	和	None	None
+尼	ni2	出家修行的女佛教徒 梵语比丘尼(Bhikṣuṇī)的省称，也称尼姑	None	None
+尼	ni2	姓	None	None
+尼	ni3	停止；制止	None	None
+𡰤	None	同=歹	None	歹
+𡰮	None	同=歹	None	歹
+㞋	nian3	同=𡰫	None	𡰫
+㞋	ji2	理	None	None
+𡰱	None	同=尼	None	尼
+𠧕	he2	@	None	None
+𡰪	None	同=䐁	None	䐁
+𡰯	shi3	同=豕	None	豕
+𡰯	diao3	同=屌	None	屌
+𡰯	bei3	@	None	None
+𡰭	None	同=夭	None	夭
+⿸尸⿸丶七	None	同=屁	None	屁
+尽	jin4	同=盡	None	盡
+尽	jin3	=儘的简化字	None	儘
+𡰩	None	同=良	None	良
+𡰲	xian2	@	None	None
+𡰬	None	同=身	None	身
+㞌	None	同=孕	None	孕
+𡰳	None	同=卷	None	卷
+𡰫	nian3	柔皮	None	None
+𡰫	nian3	柔弱	None	None
+层	None	=層的简化字	None	層
+𡰸	None	同=屐	None	屐
+𡰽	ai4	尾	None	None
+屁	pi4	从肛门排出的臭气 如：屁滚尿流；放屁	None	None
+屁	pi4	常用来骂人或指斥诗文、语言的荒谬 如：屁诗；屁话；你懂个屁	None	None
+屁	pi4	指臀部 如：拍马屁	None	None
+𡰵	None	同=屐	None	屐
+𡰶	None	同=看	None	看
+屃	None	=屓的类推简化字	None	屓
+尿	niao4	人和动物体由肾脏产生，从尿道排泄出来的液体	None	None
+尿	niao4	撒尿 如：尿炕	None	None
+尿	niao4	方言 理会	None	None
+尿	sui1	方言 小便 如：膀胱又名尿脬；撒尿又叫屙尿	None	None
+尾	wei3	尾巴，鸟、兽、虫、鱼等脊椎动物驱赶末端突出的部分（通常指肛门以后的部分） 一般把身体后端的器官统称尾，如尾羽、尾鳍、尾鳃、尾柄、尾扇等	None	None
+尾	wei3	鸟兽虫鱼交配	None	None
+尾	wei3	末端；末尾 如：年尾；船尾；尾声	None	None
+尾	wei3	主要部分以外的部分；没有了结的事情 如：尾数；扫尾	None	None
+尾	wei3	在后跟随	None	None
+尾	wei3	水流的下游	None	None
+尾	wei3	边际；边界	None	None
+尾	wei3	星名 二十八宿之一，东方苍龙七宿的第六宿 有星九颗	None	None
+尾	wei3	量词 相当于“头”、“条”	None	None
+尾	wei3	通=媺(mei3) 好貌	None	媺
+尾	wei3	姓	None	None
+尾	yi3	口语音 用于“尾巴”、“尾儿”等词	None	None
+𡰹	zhi2	同=㞏	None	㞏
+𪨊	None	=㞞的类推简化字	None	㞞
+㞏	zhe2	[㞚㞏]见“㞚”	None	None
+㞏	jie2	[㞚㞏]1.从后面追随 2.小步	None	None
+𡰾	ci1	同=𧠵 偷看	None	𧠵
+𡰾	ci1	此	None	None
+𡰾	ci1	突然	None	None
 𡰺	None	录入中	None	None
 𡰻	None	录入中	None	None
 㞎	None	录入中	None	None
