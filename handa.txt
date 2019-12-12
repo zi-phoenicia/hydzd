@@ -22870,60 +22870,143 @@
 寢	qin3	姓	None	None
 㝫	long2	天形	None	None
 𡪙	an4	@	None	None
-寥	None	录入中	None	None
-𡩿	None	录入中	None	None
-𡪚	None	录入中	None	None
-實	None	录入中	None	None
-𡪡	None	录入中	None	None
-𡪰	None	录入中	None	None
-𡫜	None	录入中	None	None
-寭	None	录入中	None	None
-𡪱	None	录入中	None	None
-寮	None	录入中	None	None
-𡪲	None	录入中	None	None
-𡪽	None	录入中	None	None
-𡪣	None	录入中	None	None
-𡪳	None	录入中	None	None
-㝯	None	录入中	None	None
-𡪴	None	录入中	None	None
-寫	None	录入中	None	None
-寯	None	录入中	None	None
-𡪢	None	录入中	None	None
-𡪿	None	录入中	None	None
-𡪵	None	录入中	None	None
-審	None	录入中	None	None
-𡪼	None	录入中	None	None
-𡪠	None	录入中	None	None
-㝭	None	录入中	None	None
-𡪟	None	录入中	None	None
-𡪆	None	录入中	None	None
-𡪥	None	录入中	None	None
-𡪶	None	录入中	None	None
-𡪷	None	录入中	None	None
-㝮	None	录入中	None	None
-𡪸	None	录入中	None	None
-𡪹	None	录入中	None	None
-𡪺	None	录入中	None	None
-𡫅	None	录入中	None	None
-𤎟	None	录入中	None	None
-𡫁	None	录入中	None	None
-𡪾	None	录入中	None	None
-寰	None	录入中	None	None
-𡫀	None	录入中	None	None
-𡫄	None	录入中	None	None
-𡫏	None	录入中	None	None
-𡫃	None	录入中	None	None
-𡫂	None	录入中	None	None
-䞿	None	录入中	None	None
-𡫙	None	录入中	None	None
-𡫑	None	录入中	None	None
-𡫝	None	录入中	None	None
-𡫚	None	录入中	None	None
-𧡧	None	录入中	None	None
-𡫛	None	录入中	None	None
-寲	None	录入中	None	None
-寱	None	录入中	None	None
-𡫒	None	录入中	None	None
+⿱安㘴	None	同=穩	None	穩
+寥	liao2	空虚	None	None
+寥	liao2	寂静；寂寞	None	None
+寥	liao2	空旷；高远	None	None
+寥	liao2	天空	None	None
+寥	liao2	稀疏；稀少	None	None
+寥	liao2	深	None	None
+寥	liao2	藏	None	None
+寥	liao2	用同=聊 依赖；依托	None	聊
+寥	liao2	姓	None	None
+𡩿	None	同=塞	None	塞
+𡪚	None	=䆯的讹字	None	䆯
+實	shi2	富裕	None	None
+實	shi2	财富	None	None
+實	shi2	物资，器物	None	None
+實	shi2	满	None	None
+實	shi2	盛，填塞	None	None
+實	shi2	充实，使加强	None	None
+實	shi2	指坚实（力量强）的地方	None	None
+實	shi2	果实；种子	None	None
+實	shi2	事实	None	None
+實	shi2	纯朴的品质	None	None
+實	shi2	真诚，不虚假	None	None
+實	shi2	验明；核实	None	None
+實	shi2	据实陈报	None	None
+實	shi2	真实	None	None
+實	shi2	诚意；诚实	None	None
+實	shi2	哲学名词 指实际内容 与“名”相对	None	None
+實	shi2	古代数学名词 指被乘数或被除数 与“法”相对 如以3除6或乘6，则6为实，3为法	None	None
+實	shi2	中医术语 1.指邪气亢盛 2.治疗方法之一，滋补	None	None
+實	shi2	副词 1.实在；确实 2.果然 3.终于	None	None
+實	shi2	通=寔 相当于=是 1.此，这 2.即，就是	None	寔
+實	shi2	语气词 用于句中，加强语意	None	None
+實	shi2	姓	None	None
+實	zhi4	通=至	None	至
+𡪡	None	同=窾	None	窾
+𡪰	None	同=𡨳	None	𡨳
+𡫜	None	同=寒	None	寒
+寭	hui4	察	None	None
+𡪱	ji4	@	None	None
+寮	liao2	小窗	None	None
+寮	liao2	僧舍	None	None
+寮	liao2	同=僚 官吏，也指一起做官的人	None	僚
+寮	liao2	通=寥	None	寥
+寮	liao2	民族名 老挝国内的主要民族 泰国北部及东北部也有寮人	None	None
+寮	liao2	姓	None	None
+𡪲	None	同=實	None	實
+𡪽	None	同=窺	None	窺
+𡪣	None	=竁的讹字	None	竁
+𡪳	zuo2	@	None	None
+㝯	None	同=僑	None	僑
+𡪴	None	同=宿	None	宿
+寫	xie3	移置；放置	None	None
+寫	xie3	输送	None	None
+寫	xie3	倾吐，倾述	None	None
+寫	xie3	除，去掉	None	None
+寫	xie3	尽	None	None
+寫	xie3	书写，誊录	None	None
+寫	xie3	创作；写作	None	None
+寫	xie3	描写 如：抒写；写景；写实	None	None
+寫	xie3	绘画 如：写生；写真	None	None
+寫	xie3	租赁，确定某种出租或雇用关系	None	None
+寫	xie3	摹仿；摹拟	None	None
+寫	xie3	用模型浇铸	None	None
+寫	xie3	忧	None	None
+寫	xie3	思	None	None
+寫	xie3	程	None	None
+寫	xie4	同=瀉 1.倾泻；倾注 2.中医术语 一种与“补”相反的治疗原则和方法	None	瀉
+寫	xie4	通=卸 把东西去掉或拿下来	None	卸
+寫	xie4	用同=泄 泄露	None	泄
+寯	jun4	积聚	None	None
+寯	jun4	才能杰出的人	None	None
+𡪢	None	同=寢	None	寢
+𡪿	None	同=奥	None	奥
+𡪵	qi2	@	None	None
+審	shen3	知道 如：審悉	None	None
+審	shen3	明白；清楚	None	None
+審	shen3	详细；周密	None	None
+審	shen3	慎重	None	None
+審	shen3	正，不偏斜	None	None
+審	shen3	固定；安定	None	None
+審	shen3	真实；果真	None	None
+審	shen3	考察；研究	None	None
+審	shen3	辨别	None	None
+審	shen3	审问，审讯	None	None
+審	shen3	审核；审查	None	None
+審	shen3	询问	None	None
+審	shen3	量词 束数	None	None
+審	shen3	姓	None	None
+審	pan2	通=潘 水回流处	None	潘
+𡪼	None	同=㝩	None	㝩
+𡪠	ceng1	室	None	None
+㝭	xing3	醒悟	None	None
+𡪟	None	同=㝭	None	㝭
+𡪆	None	同=響	None	響
+𡪥	None	同=響	None	響
+⿰⿻凵巿叜	None	同=搜	None	搜
+𡪶	None	同=𡬖	None	𡬖
+𡪷	None	同=寢	None	寢
+㝮	cui4	边塞；也指放逐（到边塞）	None	None
+𡪸	None	计算面积单位的旧译名 (法cehtiare)即阿尔(法are)的百分之一 后废弃不用	None	None
+𡪹	None	=寥的讹字	None	寥
+𡪺	zheng1	[𡪺宏]也作“=䆸宏” 屋响	None	䆸
+𡫅	None	同=賔(賓)	None	賔
+⿰𡧱孝	None	同=哮	None	哮
+𤎟	None	同=烟	None	烟
+⿱宀𤋯	None	同=僚	None	僚
+𡫁	qi1	同=戚	None	戚
+𡫁	chen4	至	None	None
+𡪾	None	同=寓	None	寓
+寰	huan2	指京都周围方千里之地，即王畿	None	None
+寰	huan2	广大的境域 如：寰宇；寰海；人寰	None	None
+寰	huan2	古代王宫的围墙	None	None
+寰	huan2	居住	None	None
+寰	huan2	用同=環	None	環
+寰	huan2	古州名 五代后唐置，故址在今山西省朔州市	None	None
+寰	xian4	同=縣 1.行政区划单位名 2.王畿	None	縣
+𡫀	ji1	扬貌	None	None
+⿱宀艁	zao4	同=造 制造	None	造
+𡫄	None	同=究	None	究
+𡫏	None	同=浸	None	浸
+𡫃	ning2	昊天	None	None
+𡫂	None	同=羂	None	羂
+䞿	qian1	走貌	None	None
+䞿	qian1	同=𧽐 行走艰难	None	𧽐
+𡫙	None	同=寒	None	寒
+𡫑	None	同=㝪	None	㝪
+𡫝	None	同=寥	None	寥
+𡫚	None	同=禋	None	禋
+𧡧	None	同=竀	None	竀
+𡫛	None	同=㝰	None	㝰
+寲	yi2	察	None	None
+寲	yi2	便	None	None
+寲	yi2	难	None	None
+寱	yi4	同=囈 说梦话	None	囈
+寱	yi4	惊	None	None
+𡫒	None	同=寢	None	寢
 𡫳	None	录入中	None	None
 𡫟	None	录入中	None	None
 𡫤	None	录入中	None	None
