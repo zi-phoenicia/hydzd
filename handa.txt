@@ -22615,32 +22615,73 @@
 㝣	yi4	静	None	None
 㝣	yi4	安	None	None
 𡩜	None	同=憲	None	憲
-寒	None	录入中	None	None
-寋	None	录入中	None	None
-𡩖	None	录入中	None	None
-𡩆	None	录入中	None	None
-富	None	录入中	None	None
-𡨾	None	录入中	None	None
-𡩝	None	录入中	None	None
-𡩟	None	录入中	None	None
-寕	None	录入中	None	None
-𡩂	None	录入中	None	None
-𡩅	None	录入中	None	None
-寊	None	录入中	None	None
-𡨽	None	录入中	None	None
-𡩈	None	录入中	None	None
-寔	None	录入中	None	None
-𡩇	None	录入中	None	None
-寓	None	录入中	None	None
-寑	None	录入中	None	None
-㝢	None	录入中	None	None
-𡨿	None	录入中	None	None
-𡩗	None	录入中	None	None
-𡩄	None	录入中	None	None
-𡩁	None	录入中	None	None
-𡩘	None	录入中	None	None
-𪧘	None	录入中	None	None
-𡩙	None	录入中	None	None
+寒	han2	冷	None	None
+寒	han2	感到冷	None	None
+寒	han2	寒冷的季节 与“暑”相对	None	None
+寒	han2	贫困	None	None
+寒	han2	卑微；微贱	None	None
+寒	han2	谦辞	None	None
+寒	han2	特指终止盟约	None	None
+寒	han2	恐惧；战栗	None	None
+寒	han2	声音凄凉	None	None
+寒	han2	凋零；枯萎	None	None
+寒	han2	中医术语 1.外感“六淫”之一 中医以风、寒、暑、湿、燥、火为“六淫” 寒属阴邪，易伤阳气而影响气血活动 2.病名，由寒邪引起的机能衰退的病症	None	None
+寒	han2	将肉类用酱渍成冷冻食品	None	None
+寒	han2	河神，即司寒	None	None
+寒	han2	拔取	None	None
+寒	han2	虞夏时国名 在今山东省潍坊市东北	None	None
+寒	han2	姓	None	None
+寋	jian3	单独击磬	None	None
+寋	jian3	同=謇 口吃	None	謇
+寋	jian3	女子人名用字	None	None
+寋	jian3	姓	None	None
+𡩖	None	同=寬	None	寬
+⿳宀十⿱日小	None	同=寡	None	寡
+𡩆	tuo2	囊；连囊	None	None
+富	fu4	完备	None	None
+富	fu4	盛，多	None	None
+富	fu4	财物；财富	None	None
+富	fu4	财物多 与“贫”、“穷”相对	None	None
+富	fu4	使富裕	None	None
+富	fu4	“富农”的简称	None	None
+富	fu4	通=福(fu2) 降福；保佑	None	福
+富	fu4	古州名 在今广西壮族自治区昭平县境	None	None
+富	fu4	姓	None	None
+𡨾	None	同=煙	None	煙
+𡩝	None	[𡩝鼎]器名	None	None
+𡩟	None	同=寅	None	寅
+寕	None	同=寧	None	寧
+𡩂	huan2	古地名	None	None
+𡩅	None	同=家	None	家
+寊	zhen1	人名用字	None	None
+𡨽	sheng3	宫中的官署	None	None
+𡩈	None	同=苗	None	苗
+寔	shi2	止	None	None
+寔	shi2	通=是(shi4) 此，这	None	是
+寔	shi2	通=實	None	實
+寔	shi2	通=寘(zhi4) 放置	None	寘
+寔	shi2	姓	None	None
+𡩇	qiao1	[𡩇寥]空	None	None
+寓	yu4	寄居	None	None
+寓	yu4	居处，住所	None	None
+寓	yu4	寄，投寄	None	None
+寓	yu4	寄存	None	None
+寓	yu4	托付；委托	None	None
+寓	yu4	把希望、意愿、感情等寄托于他人或他事他物	None	None
+寓	yu4	鸟名 后作=䴁	None	䴁
+寓	yu4	通=偶(ou3)	None	偶
+寓	yu4	疣病	None	None
+寓	yu4	通=宇(yu3)	None	宇
+⿱宫寸	None	同=守	None	守
+寑	None	同=寢	None	寢
+㝢	None	同=宇	None	宇
+𡨿	yu4	火种	None	None
+𡩗	None	同=愈	None	愈
+𡩄	wan3	引	None	None
+𡩁	None	同=親	None	親
+𡩘	yin4	[顛𡩘]也作“攧𡩘” 犹“悵惘”	None	None
+𪧘	None	同=寠	None	寠
+𡩙	None	同=家	None	家
 寪	None	录入中	None	None
 𡩃	None	录入中	None	None
 𡩉	None	录入中	None	None
