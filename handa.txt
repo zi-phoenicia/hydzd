@@ -23257,29 +23257,80 @@
 𡰾	ci1	同=𧠵 偷看	None	𧠵
 𡰾	ci1	此	None	None
 𡰾	ci1	突然	None	None
-𡰺	None	录入中	None	None
-𡰻	None	录入中	None	None
-㞎	None	录入中	None	None
-𡰼	None	录入中	None	None
-局	None	录入中	None	None
-屆	None	录入中	None	None
-𡱅	None	录入中	None	None
-屉	None	录入中	None	None
-居	None	录入中	None	None
-𡱆	None	录入中	None	None
-𡱂	None	录入中	None	None
-𡱇	None	录入中	None	None
-屇	None	录入中	None	None
-届	None	录入中	None	None
-𡱋	None	录入中	None	None
-𡱁	None	录入中	None	None
-𡰿	None	录入中	None	None
-𡱈	None	录入中	None	None
-𡱃	None	录入中	None	None
-𡱀	None	录入中	None	None
-㞐	None	录入中	None	None
-㞑	None	录入中	None	None
-屄	None	录入中	None	None
+⿸凥几	None	同=臀	None	臀
+𡰺	None	同=㼱	None	㼱
+𡰻	None	同=皮	None	皮
+㞎	ba3	[㞎㞎]屎；粪便 多用于小儿语	None	None
+㞎	pa1	方言 量词	None	None
+𡰼	None	同=尻	None	尻
+局	ju2	局促	None	None
+局	ju2	狭小	None	None
+局	ju2	弯曲	None	None
+局	ju2	卷	None	None
+局	ju2	近；短	None	None
+局	ju2	局部；部分	None	None
+局	ju2	官署、机构的名称 如：卫生局；文化局；邮局	None	None
+局	ju2	职务；职事	None	None
+局	ju2	某些商业机构的名称 如：书局；镖局	None	None
+局	ju2	棋盘	None	None
+局	ju2	量词 棋类或某些球类比赛中分阶段的一次胜负为一局 如：排球、乒乓球赛一场之中有三局或七局	None	None
+局	ju2	局面；形势 如：大局；时局	None	None
+局	ju2	旧时称宴游娱乐性集会为局	None	None
+局	ju2	室	None	None
+局	ju2	盒子	None	None
+局	ju2	人的气量、心胸	None	None
+局	ju2	催逼，逼迫	None	None
+局	ju2	圈套	None	None
+屆	None	同=届	None	届
+𡱅	qu1	@	None	None
+屉	ti4	鞍屉，马鞍垫子	None	None
+屉	ti4	抽屉，安装在卓、柜等家具中可以抽出推进用以盛物的器具	None	None
+屉	ti4	笼屉，用竹木或其他材料制成的用以蒸食物的器具	None	None
+屉	ti4	窗棂，窗格子	None	None
+居	ju1	蹲 后作=踞	None	踞
+居	ju1	坐	None	None
+居	ju1	居住	None	None
+居	ju1	住所	None	None
+居	ju1	闲居	None	None
+居	ju1	卑下	None	None
+居	ju1	止，停	None	None
+居	ju1	处在，处于	None	None
+居	ju1	存放；放置	None	None
+居	ju1	守持；担任	None	None
+居	ju1	安	None	None
+居	ju1	地位	None	None
+居	ju1	辨别	None	None
+居	ju1	占，占据	None	None
+居	ju1	为	None	None
+居	ju1	积蓄；囤积	None	None
+居	ju1	指活着的人	None	None
+居	ju1	平时，平常	None	None
+居	ju1	通=錮(gu4) 堵塞	None	錮
+居	ju1	通=倨(ju4) 傲慢	None	倨
+居	ju1	通=舉(ju3)	None	舉
+居	ju1	姓	None	None
+居	ji1	语气词 1.用于句中 2.用于句末，表示疑问 3.表示感叹，相当于“乎”	None	None
+𡱆	None	同=屬	None	屬
+𡱂	None	同=臀	None	臀
+⿸尸⿱一⿻䒑乚	None	同=㞑(尾)	None	㞑
+𡱇	dian1	尼	None	None
+屇	tian2	穴	None	None
+届	jie4	行动不便	None	None
+届	jie4	极限，穷极	None	None
+届	jie4	至，到 如：届时；届期	None	None
+届	jie4	舍	None	None
+届	jie4	当	None	None
+届	jie4	量词 相当于“次”、“期” 如：第一届全国体育运动大会；应届毕业生	None	None
+𡱋	None	=㽕的讹字	None	㽕
+𡱁	shi3	同=屎	None	屎
+𡱁	shi3	陈设；陈列	None	None
+𡰿	pu2	行走促迫	None	None
+𡱈	None	同=局	None	局
+𡱃	None	同=㣇	None	㣇
+𡱀	None	同=克	None	克
+㞐	None	同=居	None	居
+㞑	None	同=尾	None	尾
+屄	bi1	女性外生殖器	None	None
 屈	None	录入中	None	None
 𡱊	None	录入中	None	None
 𡱔	None	录入中	None	None
