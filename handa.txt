@@ -22682,53 +22682,84 @@
 𡩘	yin4	[顛𡩘]也作“攧𡩘” 犹“悵惘”	None	None
 𪧘	None	同=寠	None	寠
 𡩙	None	同=家	None	家
-寪	None	录入中	None	None
-𡩃	None	录入中	None	None
-𡩉	None	录入中	None	None
-甯	None	录入中	None	None
-寍	None	录入中	None	None
-𡩫	None	录入中	None	None
-𡩚	None	录入中	None	None
-寐	None	录入中	None	None
-寎	None	录入中	None	None
-𡩛	None	录入中	None	None
-𡩀	None	录入中	None	None
-𡩧	None	录入中	None	None
-寚	None	录入中	None	None
-㝤	None	录入中	None	None
-𡪄	None	录入中	None	None
-㝨	None	录入中	None	None
-𡪅	None	录入中	None	None
-𡪤	None	录入中	None	None
-寞	None	录入中	None	None
-寛	None	录入中	None	None
-寘	None	录入中	None	None
-𡩡	None	录入中	None	None
-𡩦	None	录入中	None	None
-𡩪	None	录入中	None	None
-𡩵	None	录入中	None	None
-𡩶	None	录入中	None	None
-𡩷	None	录入中	None	None
-𡩸	None	录入中	None	None
-𡩤	None	录入中	None	None
-𡩢	None	录入中	None	None
-㝦	None	录入中	None	None
-寙	None	录入中	None	None
-𡪃	None	录入中	None	None
-𡩨	None	录入中	None	None
-𡩹	None	录入中	None	None
-𡩥	None	录入中	None	None
-𡩣	None	录入中	None	None
-𡪂	None	录入中	None	None
-寝	None	录入中	None	None
-寖	None	录入中	None	None
-𡩺	None	录入中	None	None
-寗	None	录入中	None	None
-𡩠	None	录入中	None	None
-𡪗	None	录入中	None	None
-𡩩	None	录入中	None	None
-㝥	None	录入中	None	None
-㝧	None	录入中	None	None
+⿳宀丷見	None	同=寬	None	寬
+寪	wei3	屋宇开张貌	None	None
+寪	wei3	姓	None	None
+寪	wei2	[隉寪]不安貌	None	None
+𡩃	geng3	[𡬆𡩃]见“𡬆”	None	None
+𡩉	None	同=嚮	None	嚮
+甯	ning4	同=寧	None	寧
+甯	ning4	古邑名 故址在今河南省获嘉县境	None	None
+甯	ning4	姓	None	None
+寍	None	同=寧	None	寧
+𡩫	qiong2	同=窮 尽	None	窮
+𡩚	jia1	同=家	None	家
+𡩚	zhuan4	同=篆	None	篆
+寐	mei4	睡着	None	None
+寐	mei4	鱼名 后作=鮇	None	鮇
+寐	mei4	通=沬 相当于“已”	None	沬
+寎	bing4	卧惊病	None	None
+寎	bing3	同=窉 1.农历三月的别称 2.穴	None	窉
+寎	bing3	嗜睡	None	None
+𡩛	None	计算面积单位的旧译名(法hectare)，即阿尔(法are)的百倍 后废弃不用	None	None
+𡩀	None	=𡩵的讹字	None	𡩵
+⿰⿱宀幺⿱宀幺	None	同=宜	None	宜
+𡩧	None	同=寶	None	寶
+寚	None	同=寶	None	寶
+㝤	gou4	夜	None	None
+㝤	gou4	屋室深密处	None	None
+⿱宀恚	None	同=寅	None	寅
+𡪄	None	同=貯	None	貯
+㝨	None	[師㝨𣪘]器名	None	None
+𡪅	lou4	地名 也作=𠖛	None	𠖛
+𡪤	None	同=宰	None	宰
+寞	mo4	[寂寞]1.寂静，无声响 2.恬淡	None	None
+寞	mo4	冷落；孤单 如：落寞；索寞	None	None
+寛	None	同=寬	None	寬
+寘	zhi4	安置；安放	None	None
+寘	zhi4	废止；弃置	None	None
+寘	zhi4	致，尽力	None	None
+寘	tian2	通=窴(填) 填塞	None	窴
+⿳宀十𡭨	None	同=寡	None	寡
+⿳守日小	None	同=僚	None	僚
+𡩡	suo3	入室搜索	None	None
+𡩡	suo3	寻求	None	None
+𡩡	suo3	索取	None	None
+𡩡	suo3	好	None	None
+𡩡	suo3	孤独；寂寞	None	None
+𡩦	None	同=宣	None	宣
+𡩪	None	同=寅	None	寅
+⿳㝉自小	None	同=寡	None	寡
+⿱㝉𣐩	None	同=苗	None	苗
+𡩵	None	同=家	None	家
+𡩶	yang2	汉译佛经译音用字	None	None
+𡩷	None	同=宴	None	宴
+𡩸	yao2	房屋	None	None
+𡩤	xi1	夜	None	None
+𡩤	xi1	丧	None	None
+𡩢	None	同=窱	None	窱
+㝦	None	同=寯	None	寯
+⿱宀臬	None	同=苗	None	苗
+寙	yu3	懒惰	None	None
+𡪃	None	同=奥	None	奥
+𡩨	None	同=審	None	審
+𡩹	None	=窞的讹字	None	窞
+𡩥	weng3	室中暗	None	None
+𡩣	jie2	覆	None	None
+𡪂	None	同=釐	None	釐
+寝	None	=寢的简化字	None	寢
+寖	jin4	同=浸	None	浸
+寖	jin4	用同=寢(qin3) 睡眠	None	寢
+𡩺	None	=寣的讹字	None	寣
+⿱宀𢚘	None	=寣的讹字	None	寣
+⿱宀⿰衤𪠲	None	同=寇	None	寇
+寗	None	同=甯	None	甯
+𡩠	None	同=𡪢(寢)	None	𡪢
+𡪗	e4	寝而头动	None	None
+𡩩	mang2	梦话	None	None
+𡩩	mang2	睡着	None	None
+㝥	None	同=𡬍	None	𡬍
+㝧	None	同=穩	None	穩
 㝬	None	录入中	None	None
 𡪌	None	录入中	None	None
 㝪	None	录入中	None	None
