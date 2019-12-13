@@ -28925,30 +28925,111 @@
 𣑯	None	同=桃	None	桃
 𣑰	None	同=桼(漆)	None	桼
 𣑂	hu4	栗子成熟裂开	None	None
-桅	None	录入中	None	None
-栒	None	录入中	None	None
-栺	None	录入中	None	None
-栙	None	录入中	None	None
-桀	None	录入中	None	None
-格	None	录入中	None	None
-栘	None	录入中	None	None
-棦	None	录入中	None	None
-栬	None	录入中	None	None
-栾	None	录入中	None	None
-桨	None	录入中	None	None
-栤	None	录入中	None	None
-𣐼	None	录入中	None	None
-桩	None	录入中	None	None
-𪲎	None	录入中	None	None
-校	None	录入中	None	None
-栨	None	录入中	None	None
-栥	None	录入中	None	None
-𣐿	None	录入中	None	None
-核	None	录入中	None	None
-𣑁	None	录入中	None	None
-样	None	录入中	None	None
-栟	None	录入中	None	None
-栚	None	录入中	None	None
+⿰木兊	None	同=梲	None	梲
+桅	wei2	桅杆 船上用以扬帆的柱竿	None	None
+桅	gui3	短矛	None	None
+栒	xun2	木名	None	None
+栒	xun2	树的枝干	None	None
+栒	xun2	古邑名	None	None
+栒	sun3	同=簨 古代悬钟、鼓、磬的架上横木	None	簨
+栺	yi4	[枍栺]见“枍”	None	None
+栺	zhi1	[栺栭]1.木名 2.栭柱	None	None
+栺	zhi3	木名	None	None
+栙	xiang2	[栙雙]用篾席做的船帆	None	None
+桀	jie2	鸡栖息的木桩	None	None
+桀	jie2	才能出众的人 也作=傑	None	傑
+桀	jie2	特出；高出 也作=傑	None	傑
+桀	jie2	勇健	None	None
+桀	jie2	凶暴；凶悍	None	None
+桀	jie2	举	None	None
+桀	jie2	夏代末君主名 与商纣同以暴虐著称	None	None
+桀	jie2	姓	None	None
+格	ge2	树木的长枝条	None	None
+格	ge2	张网的木桩	None	None
+格	ge2	（放置、支撑器物的）架子	None	None
+格	ge2	木栅栏	None	None
+格	ge2	阻止；搁置	None	None
+格	ge2	限制	None	None
+格	ge2	拘执	None	None
+格	ge2	收丝器 也称篗头	None	None
+格	ge2	方形的框子，或用线条组成的四方形 如：方格纸；花格布；五格儿的食盒	None	None
+格	ge2	正；纠正	None	None
+格	ge2	品质，风度 如：风格；格调	None	None
+格	ge2	尺度	None	None
+格	ge2	法式；标准 如：格律；合格；破格	None	None
+格	ge2	法律；制度	None	None
+格	ge2	古时的刑具	None	None
+格	ge2	推究	None	None
+格	ge2	至，来	None	None
+格	ge2	感通；感动	None	None
+格	ge2	击打；格斗	None	None
+格	ge2	抵敌；匹敌	None	None
+格	ge2	陷阱	None	None
+格	ge2	箭靶	None	None
+格	ge2	语言学术语 某些语言中名次（有的包括代词、形容词）的语法范畴，用词尾变化来表示它和别的词之间的语法关系 如：俄语的名词、代词、形容词都有六个格	None	None
+格	ge2	逻辑学术语 指根据中项在大小前提中的位置的不同而分的三段论的不同形式 如：同格；三段论的格	None	None
+格	ge2	中医学术语 脉象之一	None	None
+格	ge2	量词 1.块 2.方言 间 如：盖了房子三十格	None	None
+格	ge2	通=輅(lu4) 车辕上供牵挽的横木	None	輅
+格	ge2	通=垎(he2) 坚硬；强悍	None	垎
+格	ge2	姓	None	None
+格	luo4	篱笆	None	None
+格	luo4	通=落 1.村落 2.零落	None	落
+格	he4	[格澤]星名	None	None
+格	ge1	[格格]象声词 如：格格地笑了起来	None	None
+栘	yi2	木名 即唐棣	None	None
+棦	cheng1	木束	None	None
+栬	zui4	小木桩	None	None
+栾	None	同=欒	None	欒
+桨	None	=槳的简化字	None	槳
+⿰木𣅀	None	同=栺	None	栺
+栤	bing4	[𤖳栤]象声词 劈树声	None	None
+𣐼	None	=𣔳的讹字	None	𣔳
+桩	None	=樁的简化字	None	樁
+𪲎	None	=櫅的类推简化字	None	櫅
+校	jiao4	古代刑具 枷械的统称	None	None
+校	jiao4	栅栏	None	None
+校	jiao4	古代军队的一种建制	None	None
+校	jiao4	古代的军职级别	None	None
+校	jiao4	比较；相比	None	None
+校	jiao4	计较；考虑	None	None
+校	jiao4	报复	None	None
+校	jiao4	违抗；对抗	None	None
+校	jiao4	订正；考订 如：校对；校雠	None	None
+校	jiao4	考核；考究	None	None
+校	jiao4	计算；查点	None	None
+校	jiao4	相交；交往	None	None
+校	jiao4	病愈	None	None
+校	xiao4	学校 如：校址；校庆	None	None
+校	xiao4	现代军队中低于将、高于尉的军衔 如：上校；中校	None	None
+校	xiao4	通=效 仿效	None	效
+校	xiao4	姓	None	None
+校	jiao3	颜色的一种，似绿	None	None
+校	jiao3	通=絞 疾，快	None	絞
+校	qiao1	通=骹 古代几、豆等器物的脚	None	骹
+⿱𠅃木	None	同=雜	None	雜
+栨	ci4	楣栨	None	None
+栨	ci4	疔疖之类	None	None
+栥	zi1	欂栌，即屋柱上短方木	None	None
+𣐿	yi1	[樿𣐿]木名 一说箭筩	None	None
+⿰木产	None	=㯆的类推简化字	None	㯆
+核	gai1	木名 古代某些少数民族以其皮为箧，状如镜匣	None	None
+核	gai1	通=荄 草根	None	荄
+核	he2	果实中心坚硬并包含果仁的部分 如：核桃；杏核	None	None
+核	he2	有核的果实	None	None
+核	he2	核心；中心	None	None
+核	he2	原子核的简称 如：核能；核武器；核燃料	None	None
+核	he2	实在；真实	None	None
+核	he2	对照；考查 如：核实；核算	None	None
+核	kai4	檐	None	None
+核	hu2	[核儿]核果中心坚硬并包含果仁的部分 也指物体中像核的部分 用于某些口语词 如：梨核儿；核桃儿；煤核儿；冰核儿	None	None
+𣑁	chong4	木㮔	None	None
+样	yang2	槌，即搁架在蚕箔上的横木	None	None
+样	yang4	=樣的简化字	None	樣
+栟	bing1	果木名 栟榈，即棕榈	None	None
+栟	ben1	[栟茶]地名，在江苏省海安市	None	None
+栚	zhen4	搁架蚕箔的横木	None	None
+栚	zhen4	木名 山矾科，常绿灌木或小乔木 早春开花，花白色 核果圆锥形，可榨油，供机械润滑及制肥皂 叶广披针形，革质，烧灰可代明矾作媒染剂 根、叶、花均入药 木材坚韧，可制家具、农具或其他工具	None	None
 桊	None	录入中	None	None
 栦	None	录入中	None	None
 𣑱	None	录入中	None	None
