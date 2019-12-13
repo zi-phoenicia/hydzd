@@ -28783,15 +28783,22 @@
 栜	se4	木名 即桋	None	None
 栜	se4	树枝上长	None	None
 栜	ci4	楣属	None	None
-𣐸	None	录入中	None	None
-栖	None	录入中	None	None
-栢	None	录入中	None	None
-栯	None	录入中	None	None
-栫	None	录入中	None	None
-栭	None	录入中	None	None
-桍	None	录入中	None	None
-𣑨	None	录入中	None	None
-栵	None	录入中	None	None
+𣐸	None	同=栝	None	栝
+栖	None	同=棲	None	棲
+⿸厌木	None	=檿的类推简化字	None	檿
+栢	None	同=柏	None	柏
+栯	you3	木名	None	None
+栯	yu4	[栯李]果木名 也作“=郁李” 蔷薇科，落叶小灌木 春季开花，花淡红色，可供观赏 果实小，球形，暗红色 可食 种子称郁李仁，可入药	None	郁
+栫	jian4	用柴木壅塞或围住 也指篱笆	None	None
+栫	zun4	木名	None	None
+栭	er2	枓，柱上支承大梁的方木	None	None
+栭	er2	木名 栭栗，即茅栗 壳斗科，落叶小乔木 壳斗近球形 坚果扁球形，可食用 壳斗和树皮含鞣质，木材可做家具	None	None
+栭	er2	枯木上生的菌类植物，即木耳 木耳科 子实体形如人耳，有光木耳和毛木耳之分 光木耳供食用，中药列为滋补品	None	None
+桍	ku1	木名	None	None
+桍	ku1	空	None	None
+𣑨	None	同=無	None	無
+栵	lie4	木名 栵栗，又名栭栗，即茅栗	None	None
+栵	lie4	丛生的小树	None	None
 桋	None	录入中	None	None
 㭨	None	录入中	None	None
 桡	None	录入中	None	None
