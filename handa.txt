@@ -28542,21 +28542,43 @@
 柎	fu3	通=坿 涂注	None	坿
 柎	fu4	[楄柎]藉尸木	None	None
 柋	dai4	架蚕箔的立柱	None	None
-柏	None	录入中	None	None
-柝	None	录入中	None	None
-栀	None	录入中	None	None
-柧	None	录入中	None	None
-𣐍	None	录入中	None	None
-𣐐	None	录入中	None	None
-柗	None	录入中	None	None
-㭔	None	录入中	None	None
-𣐰	None	录入中	None	None
-柃	None	录入中	None	None
-柢	None	录入中	None	None
-栎	None	录入中	None	None
-𪱾	None	录入中	None	None
-枸	None	录入中	None	None
-栅	None	录入中	None	None
+柏	bai3	木名 柏科植物的泛称 常绿乔木 叶小，鳞形 果球形 有侧柏、圆柏、刺柏多种 性耐寒 木质坚硬，纹理致密，为优良用材	None	None
+柏	bai3	通=伯 1.大 2.古代官名	None	伯
+柏	bai3	通=迫(po4) 逼近；贴近	None	迫
+柏	bai3	古国名 故地在今河南省西平县西	None	None
+柏	bai3	姓	None	None
+柏	bo2	[柏林]德国城市名	None	None
+柏	bo4	[黄柏]木名，即黄=檗	None	檗
+柝	tuo4	旧时巡夜人敲以报更的木梆 也作=𣟄	None	𣟄
+柝	tuo4	木判；使分裂	None	None
+柝	tuo4	通=拓 开拓；扩充	None	拓
+栀	None	同=梔	None	梔
+柧	gu1	棱角 也指有棱之木	None	None
+𣐍	None	同=橛	None	橛
+𣐐	None	同=檷	None	檷
+柗	None	同=松	None	松
+㭔	lu2	木名	None	None
+𣐰	None	=𣑂的讹字	None	𣑂
+柃	ling2	木名 柃木，山茶科，灌木 嫩枝有棱，无毛或有疏毛 叶肉质，椭圆形至矩形披针形，边缘有钝齿 花白色 果实圆球形 枝叶入药，烧成灰，灰汁可为媒染剂 果为染料 可为细工和炭薪用材	None	None
+柃	ling2	栏干的横木	None	None
+柢	di3	树的主根 也泛指树根	None	None
+柢	di3	喻指事物的本源或基础	None	None
+柢	di3	牲之本体，古代用于祭祀 也作=胝	None	胝
+柢	di3	通=氐 略，大略	None	氐
+柢	chi2	碓衡，杵柄	None	None
+柢	chi2	桃	None	None
+栎	None	=櫟的简化字	None	櫟
+𪱾	None	=檷的类推简化字	None	檷
+枸	ju3	植物名，即蒌叶 又名蒟酱、扶留藤 胡椒科，藤本，近木质 叶互生，大而厚，卵状长圆形 浆果肉质，绿黄色 叶可入药	None	None
+枸	ju3	木名 枳枸，即拐枣 也称“枳椇”	None	None
+枸	gou3	[枸杞]见“杞”	None	None
+枸	gou1	同=𣕌 弯曲	None	𣕌
+枸	gou1	树根盘错	None	None
+枸	gou1	轴限	None	None
+枸	qu2	立木	None	None
+栅	zha4	栅栏 用竹、木、铁条等做成的阻拦物 如：木栅；铁栅；栅门	None	None
+栅	shan1	[栅極]多极电子管中最靠近阴极的一个电极	None	None
+栅	ce4	[上栅]地名 在广东省中山市	None	None
 柳	None	录入中	None	None
 柊	None	录入中	None	None
 栁	None	录入中	None	None
