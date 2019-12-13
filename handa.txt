@@ -28579,20 +28579,59 @@
 栅	zha4	栅栏 用竹、木、铁条等做成的阻拦物 如：木栅；铁栅；栅门	None	None
 栅	shan1	[栅極]多极电子管中最靠近阴极的一个电极	None	None
 栅	ce4	[上栅]地名 在广东省中山市	None	None
-柳	None	录入中	None	None
-柊	None	录入中	None	None
-栁	None	录入中	None	None
-枹	None	录入中	None	None
-柱	None	录入中	None	None
-柿	None	录入中	None	None
-柆	None	录入中	None	None
-栏	None	录入中	None	None
-柈	None	录入中	None	None
-柒	None	录入中	None	None
-染	None	录入中	None	None
-柠	None	录入中	None	None
-柼	None	录入中	None	None
-柁	None	录入中	None	None
+柳	liu3	木名 柳属植物的泛称 杨柳科，落叶乔木或灌木 枝条柔韧，叶狭长 种子有毛 柳有多种，常见的有垂柳、红皮柳等	None	None
+柳	liu3	聚集	None	None
+柳	liu3	古代整套棺盖饰的总称	None	None
+柳	liu3	丧车 也泛指车	None	None
+柳	liu3	星名 二十八宿之一，南方朱雀七宿的第三宿，有星八颗 也作=咮	None	咮
+柳	liu3	古代五声“羽”的别名	None	None
+柳	liu3	用同=綹 量词 常用于发、须等线状物	None	綹
+柳	liu3	通=瘤(liu2) 瘤子	None	瘤
+柳	liu3	古州名 唐代置，治今广西壮族自治区柳州市 亦为柳州市的简称	None	None
+柳	liu3	姓	None	None
+柊	zhong1	[柊楑]也作“=終葵” 堆	None	終
+柊	zhong1	木名	None	None
+栁	None	同=柳	None	柳
+⿰木刍	None	=㮲的类推简化字	None	㮲
+枹	fu2	鼓槌	None	None
+枹	fu2	[枹薊]草名，即白术，菊科 根茎粗大，略呈拳状，可入药	None	None
+枹	fu2	[枹罕]古郡县名 治所在今甘肃省临夏市	None	None
+枹	bao1	木名 枹树，即枹栎 壳斗科，落叶乔木 壳斗杯形，包围坚果四分之一至三分之一 坚果卵形至椭圆形 种子含淀粉；树皮、壳斗含鞣质；木材坚硬，宜作器具和车轮用材，亦可充薪炭	None	None
+柱	zhu4	支撑屋宇的直立构件，即屋柱	None	None
+柱	zhu4	泛指柱子或柱状物 如：水柱；花柱；胶柱鼓瑟	None	None
+柱	zhu4	琴瑟上面系弦的木块	None	None
+柱	zhu4	直立高耸	None	None
+柱	zhu4	姓	None	None
+柱	zhu3	[柱夫]草名 俗名野蚕豆、红花菜、翘翘花 蔓生，细叶，紫花，可食	None	None
+柱	zhu3	塞，阻塞	None	None
+柱	zhu3	支撑；拄持	None	None
+柿	shi4	木名 柿，柿树科，落叶乔木 果圆或方形，色红或黄 除甘柿外，果实味涩，脱涩后味甘 果供生食，或制柿饼、柿酒等 柿蒂与柿饼可入药 树供观赏	None	None
+柆	la1	折木	None	None
+柆	la1	栅栏	None	None
+栏	None	=欄的简化字	None	欄
+柈	pan2	同=槃(盤) 盛物的器皿	None	槃
+柈	pan4	木名	None	None
+柈	ban4	[柈子]方言 大块的劈柴	None	None
+柒	qi1	同=漆 1.古水名 2.木名 3.指漆树的胶汁做成的涂料 4.上过漆的	None	漆
+柒	qi1	数词 =七的大写	None	七
+柒	qi1	姓	None	None
+染	ran3	使布帛等物着色	None	None
+染	ran3	指书画着色落墨	None	None
+染	ran3	浸染；玷污	None	None
+染	ran3	感染，传染（疾病）	None	None
+染	ran3	熏染	None	None
+染	ran3	连累；牵连	None	None
+染	ran3	指男女性关系	None	None
+染	ran3	豆豉酱	None	None
+染	ran3	姓	None	None
+柠	chu3	同=楮 木名	None	楮
+柠	zhu4	木名，即梧桐	None	None
+柠	ning2	=檸的简化字	None	檸
+柼	yao3	㧒拽物之	None	None
+柁	duo4	同=舵 控制船舰等行驶方向的装置	None	舵
+柁	tuo2	木叶落	None	None
+柁	tuo2	木结构屋架中顺着前后方向架在柱子上的横木	None	None
+柁	tuo3	木坚貌	None	None
 柲	None	录入中	None	None
 栐	None	录入中	None	None
 柌	None	录入中	None	None
