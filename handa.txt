@@ -28810,27 +28810,61 @@
 桎	zhi4	车辖	None	None
 𣐹	None	同=椒	None	椒
 𣐑	ci2	木名 无𣐑木，一种小樟木，即棆	None	None
-柴	None	录入中	None	None
-桌	None	录入中	None	None
-桢	None	录入中	None	None
-㭞	None	录入中	None	None
-桄	None	录入中	None	None
-档	None	录入中	None	None
-𣑬	None	录入中	None	None
-栧	None	录入中	None	None
-桐	None	录入中	None	None
-𣑸	None	录入中	None	None
-梠	None	录入中	None	None
-栶	None	录入中	None	None
-𣑭	None	录入中	None	None
-𣑹	None	录入中	None	None
-𣑩	None	录入中	None	None
-桤	None	录入中	None	None
-𣐶	None	录入中	None	None
-𦊻	None	录入中	None	None
-株	None	录入中	None	None
-㭠	None	录入中	None	None
-梃	None	录入中	None	None
+柴	chai2	小木散材 也指作燃料的木柴 如：柴火；劈柴	None	None
+柴	chai2	烧柴祭天	None	None
+柴	chai2	方言 干瘦；不松软	None	None
+柴	chai2	古县名 故址在今山东省新泰市西	None	None
+柴	chai2	姓	None	None
+柴	ci1	[柴池]也作“=偨池”、“柴虒”、“=差池” 参差不齐	None	偨
+柴	zhai4	用于防卫的栅栏；营垒 如：鹿柴；柴篱	None	None
+柴	zhai4	用木围护四周，或以柴覆盖、堵塞	None	None
+柴	zi4	通=㧘 1.聚积 2.按摩颊旁	None	㧘
+桌	zhuo1	几案；桌子 如：书桌；小圆桌	None	None
+桌	zhuo1	量词 以桌数论的人数或饭菜 如：一桌酒席；来了三桌客人	None	None
+桌	zhuo1	同=卓 1.高明；高超 2.姓	None	卓
+桢	None	=楨的简化字	None	楨
+㭞	lie4	恶木	None	None
+桄	guang4	充；充满	None	None
+桄	guang4	车、船、梯、床、织机等机物上的横木	None	None
+桄	guang4	把线绕在桄子（绕线器具）上 如：把线桄上	None	None
+桄	guang4	量词 用于以桄子为计量线束、线圈的单位 如：一桄线	None	None
+桄	guang1	[桄榔]木名 又称“砂糖椰子”、“糖树” 棕榈科，常绿高大乔木 花序的汁可制糖，髓心可制淀粉	None	None
+档	None	=檔的简化字	None	檔
+𣑬	None	=捍的讹字	None	捍
+栧	yi4	同=枻 楫 一说为舵	None	枻
+桐	tong2	木名 古书中多指梧桐科的梧桐，还有大戟科的油桐，玄参科的泡桐等	None	None
+桐	tong2	通=僮 儿童，未成年的人	None	僮
+桐	tong2	古地名 在今河南省虞城县东北 相传商代伊尹放太甲于此	None	None
+桐	tong2	春秋国名 辖境在今安徽省桐城市西北	None	None
+桐	tong2	姓	None	None
+桐	tong1	轻脱貌	None	None
+桐	tong1	通=通 通达	None	通
+桐	dong4	水名 在今安徽省广德县	None	None
+𣑸	tong2	林	None	None
+𣑸	tong2	同=桐	None	桐
+梠	lv3	屋檐	None	None
+梠	lv3	同=稆 野生稻	None	稆
+栶	yin1	木名	None	None
+𣑭	None	同=柵	None	柵
+𣑹	xian1	𣑹柈	None	None
+𣑩	None	木名	None	None
+桤	None	=榿的简化字	None	榿
+𣐶	None	同=柺	None	柺
+𦊻	fan2	@	None	None
+株	zhu1	露出地面的树根、树干或树桩 如：守株待兔	None	None
+株	zhu1	泛指草木	None	None
+株	zhu1	植株 如：幼株；株距	None	None
+株	zhu1	量词 用于计算草木	None	None
+株	zhu1	特指斗鸡得胜者	None	None
+株	zhu1	株连；牵连	None	None
+㭠	xian3	㭠木	None	None
+㭠	xian3	枣木	None	None
+梃	ting3	植物的干 如：木梃；竹梃	None	None
+梃	ting3	劲直；挺直	None	None
+梃	ting3	杖棒	None	None
+梃	ting3	木片	None	None
+梃	ting3	杀猪后，在猪腿上割一个口子，用铁棍贴着皮层往里捅叫做梃 捅成沟之后，往里吹气，使猪皮绷紧，以便去毛除垢	None	None
+梃	ting3	梃猪用的铁棍	None	None
 栝	None	录入中	None	None
 桥	None	录入中	None	None
 㭚	None	录入中	None	None
