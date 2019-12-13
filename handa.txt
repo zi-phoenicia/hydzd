@@ -28717,27 +28717,72 @@
 梆	bang1	象声词 形容某些撞击声	None	None
 栻	shi4	古代占卜时日的器具，后世称为星盘	None	None
 栻	shi4	木名	None	None
-㭢	None	录入中	None	None
-㭜	None	录入中	None	None
-桂	None	录入中	None	None
-㭙	None	录入中	None	None
-枽	None	录入中	None	None
-桔	None	录入中	None	None
-𣑥	None	录入中	None	None
-栲	None	录入中	None	None
-栳	None	录入中	None	None
-𣑦	None	录入中	None	None
-栽	None	录入中	None	None
-𣑧	None	录入中	None	None
-栮	None	录入中	None	None
-栱	None	录入中	None	None
-㭟	None	录入中	None	None
-㭝	None	录入中	None	None
-桓	None	录入中	None	None
-栕	None	录入中	None	None
-𫞉	None	录入中	None	None
-栗	None	录入中	None	None
-栜	None	录入中	None	None
+⿰木⿱二日	None	同=栺	None	栺
+㭢	xin1	机	None	None
+㭜	rong2	木名 似槐	None	None
+桂	gui4	木名，即肉桂 樟科，常绿乔木 叶子长椭圆形，有三条叶脉 果实椭圆形，紫红色 叶、小枝、碎皮和果是提取芳香油（桂油）的原料 树皮灰褐色，含挥发油，通称“桂皮”，可作香料 皮与嫩枝均可入药	None	None
+桂	gui4	木名 木犀科，常绿灌木或小乔木 秋季开花，花簇生于叶腋，黄色或白色，极芳香，为珍贵的观赏植物 花可提取芳香油或用作食品、糖果的香料 如：丹桂；银桂；桂花	None	None
+桂	gui4	木名 月桂，樟科，常绿小乔木 原产地中海一带 古代希腊人用月桂树叶编的帽子授予杰出的诗人或竞技的优胜者，称“桂冠” 后来欧洲习俗以桂冠为光荣称号	None	None
+桂	gui4	竹名 即筀竹	None	None
+桂	gui4	借指（昂贵的）薪柴	None	None
+桂	gui4	传说月中有树曰桂，故桂借指月亮	None	None
+桂	gui4	桂籍，科举考试登第者的名籍	None	None
+桂	gui4	古州名 故治即今广西壮族自治区桂林市	None	None
+桂	gui4	广西壮族自治区的简称	None	None
+桂	gui4	姓	None	None
+㭙	zhe2	搁架在蚕箔上的横木	None	None
+枽	None	同=枼	None	枼
+桔	jie2	[桔梗]桔梗科，多年生草本植物 根可入药	None	None
+桔	jie2	直木	None	None
+桔	jie2	“桔槔”的简称 又作动词，以为“吊”	None	None
+桔	xie2	[桔柣]春秋郑国城门名	None	None
+桔	ju2	同=橘	None	橘
+𣑥	None	同=栲	None	栲
+栲	kao3	木名 野鸦椿，又名山樗 壳斗科，落叶灌木或小乔木 初夏开花，花小，黄白色，圆锥花序 果裂开，内面鲜红色 种子蓝红色 木材可制器具 根或根皮、干果及花均可入药	None	None
+栲	kao3	壳斗科栲属植物的总称 多为常绿乔木 种类很多，如刺栲、南岭栲 木材坚硬，可为支柱、船橹、轮轴等 树枝含单宁，可提制栲㬵或染鱼网 种子含淀粉，可供食用	None	None
+栲	kao3	指栲㬵 如：栲底皮鞋	None	None
+栲	kao3	用同=拷 拷打	None	拷
+栳	lao3	[栲栳]1.用柳条或竹篾编成的圆形盛物器具 也称笆斗 2.像栲栳般的	None	None
+𣑦	qiong2	和谐	None	None
+栽	zai4	筑墙立板	None	None
+栽	zai1	种植；殖，养殖	None	None
+栽	zai1	秧子；幼苗 如：花栽子；柳栽子	None	None
+栽	zai1	安上 如：栽绒；栽赃	None	None
+栽	zai1	跌，跌倒 如：栽了一跤	None	None
+栽	zai1	搁载	None	None
+栽	zai1	姓	None	None
+𣑧	duo4	同=垛 设置箭靶的小土墙	None	垛
+栮	er3	木耳 也作=栭	None	栭
+栱	gong3	立柱和横梁之间成弓形的承重结构 其与方形木块纵横交错层叠构成枓栱，逐层向外挑出形成上大下小的托座，兼有装饰效果，为我国传统建筑造型的主要特征之一	None	None
+㭟	None	同=拲	None	拲
+㭝	qiu2	亭名	None	None
+㭝	qiu2	荆	None	None
+㭝	ou4	同=𣓕 地名	None	𣓕
+𭪆	None	=檛的类推简化字	None	檛
+桓	huan2	本指古代邮亭旁边用为表识的柱子，后也泛指寺、墓、桥梁等用作表识或其他用途的柱子	None	None
+桓	huan2	大	None	None
+桓	huan2	忧	None	None
+桓	huan2	盘桓	None	None
+桓	huan2	木名 叶似柳，皮黄白色	None	None
+桓	huan2	水名 即今白龙江 发源于甘肃省西倾山	None	None
+桓	huan2	山名 在今江苏省铜山县东北	None	None
+桓	huan2	姓	None	None
+栕	None	同=桭	None	桭
+𫞉	None	同=柳	None	柳
+栗	li4	木名 板栗，壳斗科，落叶乔木 果实为坚果，包在多刺的壳斗内 种子供食用，也可入药 木材坚实，供建筑和制器具用	None	None
+栗	li4	栗树的果实 又加“栗子”或“板栗”	None	None
+栗	li4	（作物的果实）成熟、饱满	None	None
+栗	li4	坚实；结实	None	None
+栗	li4	威严；庄严	None	None
+栗	li4	以篦梳发	None	None
+栗	li4	通=慄 因恐惧或寒冷而发抖	None	慄
+栗	li4	通=歷 越过；跨越	None	歷
+栗	li4	汉县名 治所在今河南省夏邑县	None	None
+栗	li4	姓	None	None
+栗	lie4	通=裂 析；裂开；破裂	None	裂
+栜	se4	木名 即桋	None	None
+栜	se4	树枝上长	None	None
+栜	ci4	楣属	None	None
 𣐸	None	录入中	None	None
 栖	None	录入中	None	None
 栢	None	录入中	None	None
