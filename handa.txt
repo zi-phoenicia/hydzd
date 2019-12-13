@@ -29128,31 +29128,82 @@
 桲	po5	[榅桲]见“榅”	None	None
 㭪	fu1	木丛聚	None	None
 㭱	None	同=匣	None	匣
-梗	None	录入中	None	None
-梀	None	录入中	None	None
-梧	None	录入中	None	None
-梪	None	录入中	None	None
-梄	None	录入中	None	None
-㟚	None	录入中	None	None
-𪲔	None	录入中	None	None
-𣒯	None	录入中	None	None
-桭	None	录入中	None	None
-桺	None	录入中	None	None
-桮	None	录入中	None	None
-梜	None	录入中	None	None
-𣒸	None	录入中	None	None
-㭬	None	录入中	None	None
-梾	None	录入中	None	None
-梿	None	录入中	None	None
-梐	None	录入中	None	None
-桱	None	录入中	None	None
-梷	None	录入中	None	None
-㭴	None	录入中	None	None
-𣒹	None	录入中	None	None
-梢	None	录入中	None	None
-桿	None	录入中	None	None
-桯	None	录入中	None	None
-𣑀	None	录入中	None	None
+梗	geng3	木名 刺榆，榆科，落叶小乔木或灌木状 小枝先端成刺 叶椭圆形，坚果扁，上半边有偏斜之翅 茎皮纤维可制绳、织带和人造棉 种子可榨油，嫩叶可食，木材坚实，可作农具、车辆等	None	None
+梗	geng3	草木刺人	None	None
+梗	geng3	有刺的草木	None	None
+梗	geng3	植物的枝、根或茎 如：花梗；高粱梗	None	None
+梗	geng3	强硬；勇猛	None	None
+梗	geng3	正直；耿直	None	None
+梗	geng3	挺直 如：梗着脖子	None	None
+梗	geng3	阻塞；抵御	None	None
+梗	geng3	病；灾祸	None	None
+梗	geng3	大略 如：梗概	None	None
+梗	geng3	姓 金有史咏妻梗氏	None	None
+梀	su4	短椽	None	None
+梀	yin4	束	None	None
+梧	wu2	木名 梧桐，落叶乔木 幼树皮绿色、平滑 阔叶掌状分裂，叶柄长 种子炒熟后可食，也可榨油 树皮纤维可造纸，制绳索 叶入药或作农药 木材白色，质轻而坚韧，可供制造乐器和各种器具 古代多以梧桐木为棺，因而一名櫬	None	None
+梧	wu2	屋梁上两头起支架作用的斜柱	None	None
+梧	wu2	支撑	None	None
+梧	wu2	古地名 1.在今河南省荥阳市西 2.在今江苏省徐州市西部	None	None
+梧	wu2	古州名 唐武德四年（621年）置，治苍梧（今广西壮族自治区梧州市）	None	None
+梧	wu2	姓	None	None
+梧	wu4	违逆，抵触	None	None
+梧	yu3	同=敔 乐器名	None	敔
+梪	dou4	同=豆 1.古代食器 2.古代的一种容量单位	None	豆
+梄	you3	木名	None	None
+㟚	None	同=𨙸(岐)	None	𨙸
+𪲔	None	=欐的类推简化字	None	欐
+𣒯	None	同=桓	None	桓
+桭	zhen1	屋檐	None	None
+桭	chen1	两柱间	None	None
+桭	zhen4	整	None	None
+桺	None	同=柳	None	柳
+桮	bei1	盛饮料的器皿 后作=杯	None	杯
+桮	bei1	盘盏之属	None	None
+桮	bei1	姓	None	None
+梜	jia1	检柙 护书的夹子，也指匣子	None	None
+梜	jia1	同=筴 筷子	None	筴
+梜	jia1	木理乱	None	None
+梜	jia1	木名	None	None
+𣒸	kuang4	门框	None	None
+㭬	None	=椓的讹字	None	椓
+⿱⿰歹㐄木	None	同=桀	None	桀
+梾	None	=棶的类推简化字	None	棶
+梿	None	=槤的类推简化字	None	槤
+梐	bi4	[梐枑]古代官署前阻挡行人的障碍物，用木条交叉做成 俗称“行马”，或称“拒马叉子”	None	None
+梐	bi4	牢笼	None	None
+桱	jing4	床前几	None	None
+桱	jing4	木名 似杉而硬	None	None
+桱	jing4	经丝具	None	None
+梷	jing4	洁	None	None
+㭴	None	=樫的类推简化字	None	樫
+𣒹	suo1	木名	None	None
+梢	shao1	树尖或树枝的末端	None	None
+梢	shao1	事物的末尾或时间的尽头 如：眉梢；春梢	None	None
+梢	shao1	舵尾	None	None
+梢	shao1	朝向	None	None
+梢	shao1	竿	None	None
+梢	shao1	桶	None	None
+梢	shao1	钱；赌本	None	None
+梢	shao1	用同=捎 捎带	None	捎
+梢	shao1	通=箾 击	None	箾
+梢	shao1	通=旓 旌旗的飘带	None	旓
+梢	shao4	同=𣕇(掣) 削尖；尖细	None	𣕇
+梢	shao4	砍伐枝叶	None	None
+梢	shao3	木长直貌	None	None
+梢	shao3	渐	None	None
+梢	shao3	冲激	None	None
+梢	sao3	圆锥形物体大、小两个截面直径的差与两个截面间距离的比叫梢，也叫锥度	None	None
+桿	han4	木	None	None
+桿	gan3	同=杆	None	杆
+桿	gan3	旧作英美长度布耳(pole)的通称，一桿合5.0292米	None	None
+桯	ting1	床前几	None	None
+桯	ting1	横木	None	None
+桯	ting1	碓等工具的杆子或短木 如：锥桯	None	None
+桯	ying2	同=楹 厅堂前部的柱子	None	楹
+桯	ying2	盖杠，古时车柄下面较粗的一段	None	None
+⿰木时	None	=榯的类推简化字	None	榯
+𣑀	None	同=杇	None	杇
 梖	None	录入中	None	None
 梘	None	录入中	None	None
 𣒨	None	录入中	None	None
