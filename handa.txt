@@ -28449,25 +28449,63 @@
 枮	xian1	木名	None	None
 枮	zhen1	同=椹 砧板	None	椹
 栌	None	=櫨的简化字	None	櫨
-柦	None	录入中	None	None
-查	None	录入中	None	None
-柤	None	录入中	None	None
-査	None	录入中	None	None
-柙	None	录入中	None	None
-柛	None	录入中	None	None
-枵	None	录入中	None	None
-𣐬	None	录入中	None	None
-𣐭	None	录入中	None	None
-柚	None	录入中	None	None
-枳	None	录入中	None	None
-柍	None	录入中	None	None
-柷	None	录入中	None	None
-㭒	None	录入中	None	None
-柺	None	录入中	None	None
-柟	None	录入中	None	None
-柵	None	录入中	None	None
-𣐒	None	录入中	None	None
-𣐮	None	录入中	None	None
+柦	dan4	一种像几而无脚的木器	None	None
+查	cha2	同=楂 木筏	None	楂
+查	cha2	同=槎 1.斜砍；劈削 2.树木砍伐后留下的残桩 3.树杈	None	槎
+查	cha2	考察；检查 如：盘查；追查；查账；查办；查访	None	None
+查	cha2	翻检（图书） 如：查字典；查地图；查资料	None	None
+查	cha2	用同=叉 叉子	None	叉
+查	zha1	同=樝(楂) 山楂	None	樝
+查	zha1	古指放纵不拘礼度的人	None	None
+查	zha1	方言 带刺 北方人自称，义略同于=咱	None	咱
+查	zha1	用同=渣 渣滓	None	渣
+查	zha1	用同=奓(zha4) 张开；阔	None	奓
+查	zha1	姓	None	None
+查	chai2	[查郎]旧时官吏的俗称	None	None
+柤	zha1	木栏，指木栅、行马和水堰之类的拦阻物	None	None
+柤	zha1	斫余的残桩	None	None
+柤	zha1	同=樝(楂) 木名 即山楂	None	樝
+柤	zha1	渣滓	None	None
+柤	zu3	通=俎 古代的祭器	None	俎
+柤	zu1	春秋时楚地名 故址在今江苏省邳州市西北	None	None
+査	None	同=查	None	查
+柙	xia2	关猛兽或其他畜兽的木笼	None	None
+柙	xia2	（用囚笼、囚车）关押，押解	None	None
+柙	xia2	通=匣 匣，柜	None	匣
+柙	xia2	通=押(ya1) 帘轴，用以镇帘	None	押
+柙	jia3	木名	None	None
+柛	shen1	树木自死	None	None
+枵	xiao1	大木而中空貌	None	None
+枵	xiao1	空虚	None	None
+枵	xiao1	布类的丝缕稀疏而薄 如：枵薄	None	None
+枵	xiao1	十二星次之一 玄枵的省称 与二十八宿配为女、虚、危三宿	None	None
+𣐬	None	同=杻(杽)	None	杻
+𣐭	None	同=果	None	果
+柚	you4	木名 柚子树 芸香科，常绿乔木 叶大而厚，呈卵形，叶柄有倒心形宽翅 花白而香 果实即柚子，大球形至扁球形或梨形，果皮淡黄 果肉白或粉红，可供食用 果皮、花、叶可提芳香油	None	None
+柚	you2	[柚梧]竹的一种	None	None
+柚	you2	柚木，马鞭草科 落叶大乔木 花白而香，核果略作球形 木材暗褐色，坚硬，耐腐蚀，纹理美观，适于造车船、桥梁、家具等	None	None
+柚	zhou2	织布机部件筘 常与“杼（梭子）”连用 “杼柚”指织布机 也泛指纺织	None	None
+枳	zhi3	木名 枸橘，又称“臭橘” 芸香科，灌木或小乔木 有粗刺，果小，味酸，不能食，可入药 中药称未成熟者为“枳实”，称成熟已干者为“枳壳”	None	None
+枳	zhi3	连词 表示承接关系，相当于“則”	None	None
+枳	zhi3	通=疻 伤害	None	疻
+枳	zhi3	古县名 战国时楚有枳邑，汉置枳县，属巴郡 故地在今重庆市涪陵区	None	None
+枳	zhi1	[枳首蛇]蛇名 省称“枳首”	None	None
+枳	zhi1	通=胑(肢) 肢体	None	胑
+柍	yang3	木名 柍梅	None	None
+柍	yang3	屋宇中央	None	None
+柍	yang3	架屋貌	None	None
+柍	yang4	打谷脱粒的器具，即连枷	None	None
+柍	ying1	杏	None	None
+柷	zhu4	古代一种木制的打击乐器	None	None
+柷	zhu4	木名	None	None
+㭒	si4	锹、臿一类的挖土农具 后作=耜	None	耜
+㭒	si4	古代运土的工具	None	None
+柺	guai3	木杖，拐棍	None	None
+柟	ran3	木名，即梅	None	None
+柟	nan2	同=楠 木名	None	楠
+柵	None	同=栅	None	栅
+𣐒	None	同=𣔲	None	𣔲
+𣐮	dai1	@	None	None
 柶	None	录入中	None	None
 柬	None	录入中	None	None
 𣐏	None	录入中	None	None
