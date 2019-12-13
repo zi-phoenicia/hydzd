@@ -28368,34 +28368,87 @@
 栈	None	=棧的简化字	None	棧
 柾	None	同=柩	None	柩
 桒	None	同=桑	None	桑
-枿	None	录入中	None	None
-桏	None	录入中	None	None
-㭕	None	录入中	None	None
-柑	None	录入中	None	None
-某	None	录入中	None	None
-枻	None	录入中	None	None
-枼	None	录入中	None	None
-荣	None	录入中	None	None
-枯	None	录入中	None	None
-栉	None	录入中	None	None
-枾	None	录入中	None	None
-柯	None	录入中	None	None
-𣐈	None	录入中	None	None
-柄	None	录入中	None	None
-𣐫	None	录入中	None	None
-栃	None	录入中	None	None
-柸	None	录入中	None	None
-柘	None	录入中	None	None
-䂞	None	录入中	None	None
-柨	None	录入中	None	None
-栊	None	录入中	None	None
-柭	None	录入中	None	None
-柩	None	录入中	None	None
-枰	None	录入中	None	None
-栋	None	录入中	None	None
-𣐋	None	录入中	None	None
-枮	None	录入中	None	None
-栌	None	录入中	None	None
+枿	nie4	同=蘖 1.树木砍伐后留下的桩子 2.草木砍伐后余桩重生的枝条	None	蘖
+桏	qiong2	木名	None	None
+㭕	qu1	放置驴背上驮载东西的木板	None	None
+柑	gan1	木名 柑属植物的泛称 芸香科 种类较多，常绿灌木或小乔木 叶长卵形，开白色小花，果实比橘大，球形稍扁，橙黄色，味酸甜不一，可供生食或加工 果皮较厚 树皮、叶、花、果皮、种子都可入药	None	None
+柑	gan1	果名 柑树的果实	None	None
+柑	qian2	通=拑 用木衔马口	None	拑
+某	mei2	酸果 后作=梅	None	梅
+某	mou3	指失传的人名或时间	None	None
+某	mou3	指一定的人、地、事、物，不明言其名	None	None
+某	mou3	指不定的人、地、事、物 如：某甲；某地；某种线索	None	None
+某	mou3	自称的谦辞	None	None
+枻	yi4	船舷	None	None
+枻	yi4	短桨 一说为舵	None	None
+枻	xie4	矫正弓弩的器具	None	None
+枼	ye4	叶 后作=葉	None	葉
+枼	ye4	薄木片	None	None
+枼	ye4	同=楪 窗牖	None	楪
+枼	ye4	通=世(shi4) 世代	None	世
+荣	None	=榮的简化字	None	榮
+枯	ku1	枯槁，草木失去水分或失去生机 如：枯木逢春	None	None
+枯	ku1	干涸；干枯 如：枯鱼之肆；海枯石烂	None	None
+枯	ku1	干瘦；憔悴	None	None
+枯	ku1	疲乏	None	None
+枯	ku1	肉已烂尽的骸骨	None	None
+枯	ku1	方言 皱	None	None
+枯	ku1	芝麻、大豆、菜籽等榨油后剩余的渣滓 如：油枯	None	None
+枯	ku1	空；虚	None	None
+枯	ku1	齐市暴尸	None	None
+枯	ku1	山榆	None	None
+枯	ku1	通=楛(hu4) 木名	None	楛
+枯	ku1	通=楛(ku3) 粗糙，草率	None	楛
+枯	gu1	荼	None	None
+栉	None	=櫛的简化字	None	櫛
+枾	shi4	木名 后作=柿	None	柿
+柯	ke1	柄，斧柄	None	None
+柯	ke1	尺度 长三尺之称	None	None
+柯	ke1	草木的枝茎	None	None
+柯	ke1	碗、盂之类的器物	None	None
+柯	ke1	木名 柯属植物的泛称 壳斗科，常绿乔木 木材坚实，为建筑、舟车等优良用材 果实为坚果，隔年成熟 皮可作药用	None	None
+柯	ke1	用同=舸 船	None	舸
+柯	ke1	地名 1.春秋齐地 故地在今山东省东阿县西南 2.春秋卫地 故地在今河南省内黄县西北	None	None
+柯	ke1	姓	None	None
+𣐈	None	同=枾(柿)	None	枾
+柄	bing3	斧的把 也泛指器物的把 如：刀柄	None	None
+柄	bing3	量词 用于有柄之物	None	None
+柄	bing3	指在言行上被人抓住的材料 如：把柄	None	None
+柄	bing3	植物花叶或果实跟茎和枝连着的部分 如：花柄；叶柄	None	None
+柄	bing3	权力	None	None
+柄	bing3	同=抦(秉) 执掌，掌握	None	抦
+柄	bing3	姓	None	None
+𣐫	yang1	@	None	None
+栃	None	=櫔的类推简化字	None	櫔
+柸	pei1	[柸治]郁郁不乐	None	None
+柸	bei1	同=杯 盛饮料的器皿	None	杯
+柘	zhe4	木名 柘树 桑科，落叶灌木或小乔木 树皮灰褐色，有长刺，叶卵形或倒卵形 果红色，近球形 叶可喂蚕，茎皮可造纸，根皮能入药 木材密致坚韧，可制弓 木汁能染赤黄色 果可食并可酿酒	None	None
+柘	zhe4	柘叶	None	None
+柘	zhe4	柘黄，赤黄色 自唐以来为帝王服色	None	None
+柘	zhe4	指“柘枝舞” 唐代教坊里的舞曲名	None	None
+柘	zhe4	通=蔗 甘蔗	None	蔗
+柘	zhe4	古县名 故地在今河南省柘城县西北	None	None
+柘	zhe4	姓	None	None
+䂞	None	同=柘	None	柘
+柨	bu4	木名	None	None
+柨	pu1	[蔽柨]木名	None	None
+栊	None	=櫳的简化字	None	櫳
+柭	ba1	棒，木杖	None	None
+柭	fu2	同=柫 农具名 连枷	None	柫
+柭	bo2	箭杪	None	None
+柭	bie1	梧	None	None
+柭	pai4	木生枝叶	None	None
+柩	jiu4	装着尸体的棺材 如：灵柩；柩车	None	None
+柩	jiu4	汉时谓铭曰柩	None	None
+柩	jiu4	求	None	None
+枰	ping2	棋局；棋盘	None	None
+枰	ping2	独坐的板床	None	None
+枰	ping2	木名 又名平仲木	None	None
+栋	None	=棟的简化字	None	棟
+𣐋	yue4	木名	None	None
+枮	xian1	木名	None	None
+枮	zhen1	同=椹 砧板	None	椹
+栌	None	=櫨的简化字	None	櫨
 柦	None	录入中	None	None
 查	None	录入中	None	None
 柤	None	录入中	None	None
