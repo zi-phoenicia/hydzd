@@ -29204,9 +29204,14 @@
 桯	ying2	盖杠，古时车柄下面较粗的一段	None	None
 ⿰木时	None	=榯的类推简化字	None	榯
 𣑀	None	同=杇	None	杇
-梖	None	录入中	None	None
-梘	None	录入中	None	None
-𣒨	None	录入中	None	None
+梖	bei4	[梖多]梵语pattra的音译字 即贝叶树 常绿乔木 叶子叫贝叶，用水沤后可以代纸做书写材料，古代印度人多用以写佛经，后称用贝叶写的佛经为“贝叶经”	None	None
+梘	jian3	同=筧 引水的竹、木管子	None	筧
+梘	jian3	以槽输送	None	None
+梘	jian3	方言 肥皂叫“番枧”，也简称“枧”	None	None
+梘	xian4	检	None	None
+梘	jian4	栓	None	None
+梘	jian4	棺盖	None	None
+𣒨	None	同=根	None	根
 梩	None	录入中	None	None
 梬	None	录入中	None	None
 梱	None	录入中	None	None
