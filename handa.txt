@@ -29030,33 +29030,78 @@
 栟	ben1	[栟茶]地名，在江苏省海安市	None	None
 栚	zhen4	搁架蚕箔的横木	None	None
 栚	zhen4	木名 山矾科，常绿灌木或小乔木 早春开花，花白色 核果圆锥形，可榨油，供机械润滑及制肥皂 叶广披针形，革质，烧灰可代明矾作媒染剂 根、叶、花均入药 木材坚韧，可制家具、农具或其他工具	None	None
-桊	None	录入中	None	None
-栦	None	录入中	None	None
-𣑱	None	录入中	None	None
-𣑃	None	录入中	None	None
-𣑄	None	录入中	None	None
-桉	None	录入中	None	None
-案	None	录入中	None	None
-𣑪	None	录入中	None	None
-𣑵	None	录入中	None	None
-桪	None	录入中	None	None
-梛	None	录入中	None	None
-根	None	录入中	None	None
-𣐻	None	录入中	None	None
-𣐺	None	录入中	None	None
-桗	None	录入中	None	None
-桇	None	录入中	None	None
-栛	None	录入中	None	None
-栩	None	录入中	None	None
-桙	None	录入中	None	None
-桑	None	录入中	None	None
-桚	None	录入中	None	None
-梇	None	录入中	None	None
-𣒭	None	录入中	None	None
-械	None	录入中	None	None
-梊	None	录入中	None	None
-𣒆	None	录入中	None	None
-梽	None	录入中	None	None
+桊	juan4	穿在牛鼻环上的小铁环或小木棍	None	None
+桊	quan1	同=棬 曲木制成的盂	None	棬
+栦	chou2	木名	None	None
+𣑱	None	=染的讹字	None	染
+𣑃	zhua3	手把物	None	None
+鿄	None	同=梁	None	梁
+𣑄	None	同=棺	None	棺
+桉	an1	桉树 桃金娘科桉树属植物的泛称 常绿乔木 原产澳大利亚及马来西亚，广泛引种于亚洲热带和亚热带各地 我国四川省中部及长江以南也种植 树干高而直，木材坚韧耐久，可供枕木、矿柱、桥梁、建筑等用 枝叶可以提制桉油 又为绿化树和蜜源植物	None	None
+桉	an4	同=案 1.《字汇·木部》桉，同案 2.木名	None	案
+案	an4	几一类的木制器物 1.古时进食用的短足木盘 如：举案齐眉 2.憩用坐榻 3.长方形的桌子 如：书案；桌案	None	None
+案	an4	案件，涉及法律或政治的事件 如：犯案；破案；五卅惨案	None	None
+案	an4	处理公事的文书、成例及狱讼判定的结论 如：备案；有案可稽	None	None
+案	an4	有关建议、计划之类的文件 如：提案；方案；草案；议案	None	None
+案	an4	连词 表示承接关系，相当于“于是”、“则”	None	None
+案	an4	语气词	None	None
+案	an4	盂	None	None
+案	an4	通=按 1.抚；用手压下 2.抑止；停止 3.考察；研求 4.举劾；查办 5.按照；依据	None	按
+案	an4	通=安(an1) 安抚	None	安
+案	an4	界限	None	None
+案	an4	木名	None	None
+⿰木军	None	=楎的类推简化字	None	楎
+𣑪	None	同=栴	None	栴
+𣑵	None	姓氏用字	None	None
+桪	None	=樳的类推简化字	None	樳
+梛	nuo2	木名	None	None
+根	gen1	植物长在土中（或水中）的部分 其主要功能为吸收养分和固定植物上部分，有的根还能贮藏养料	None	None
+根	gen1	物体的基部 如：耳根；舌根；树根；墙根	None	None
+根	gen1	事物的本源；根由 如：祸根；穷根；刨根问底；知根知底	None	None
+根	gen1	植根	None	None
+根	gen1	追究；根究	None	None
+根	gen1	根除；彻底清除	None	None
+根	gen1	佛学名词 1.指人所具有的能产生感觉或善恶观念的机体或精神力量 如：六根（指人的眼、耳、鼻、舌、身、意） 2.生殖器	None	None
+根	gen1	数学名词 1.代数方程中未知数的值，或称代数方程的解 2.方根的简称	None	None
+根	gen1	化学名词 指带电的基 如：氨根；硫酸根	None	None
+根	gen1	量词 用于计算草木或条状物 如：一根木桩；两根钢钎；三根丝线	None	None
+根	gen1	边；前	None	None
+𣐻	None	同=限	None	限
+⿰木尽	None	=㯸的类推简化字	None	㯸
+𣐺	han4	树木垂挂花实	None	None
+桗	duo3	树根	None	None
+桗	duo3	用同=朵(duo3) 量词	None	朵
+桇	ru2	木名	None	None
+栛	li4	木名	None	None
+栛	li4	果名	None	None
+栩	xu3	木名 栎，即麻栎	None	None
+栩	xu3	形容欢畅或生动活泼（的样子），多叠用 如：栩栩如生	None	None
+栩	xu3	姓	None	None
+栩	yu3	[栩陽]地名	None	None
+桙	yu2	同=杅 浴盆；盂	None	杅
+桙	mou2	器名	None	None
+桙	mou2	用同=模(mu2) 形状；样子	None	模
+桑	sang1	木名 桑科桑属植物的泛称 落叶乔木 叶卵圆形，分裂或不分裂，边缘有锯齿形 果实为聚花果，名“桑椹”，成熟时呈紫黑色或白色，味甜 桑树种类很多，主要有山桑、鸡桑、华桑等 叶可饲蚕；果可食用和酿酒；木材可制各种器具；枝条可编筐；枝条树皮可制纸，叶、果、枝、根、皮可供药用	None	None
+桑	sang1	桑叶	None	None
+桑	sang1	采桑	None	None
+桑	sang1	种桑养蚕	None	None
+桑	sang1	箕星之精	None	None
+桑	sang1	古地名 故址在今河南省灵宝市北	None	None
+桑	sang1	姓	None	None
+桚	None	同=拶	None	拶
+梼	None	=檮的类推简化字	None	檮
+梇	long4	木名	None	None
+梇	long4	[梇棟]古县名 故地在今山西省姚安县北	None	None
+𣒭	None	同=栽	None	栽
+械	xie4	镣铐和枷之类的刑具	None	None
+械	xie4	拘系；拘束	None	None
+械	xie4	器械；用具	None	None
+械	xie4	武器	None	None
+械	xie4	治	None	None
+梊	di4	同=摕 撮取；掠取	None	摕
+梊	di4	两指急持	None	None
+𣒆	qiao4	[枳𣒆]同“枳=壳” 药名	None	壳
+梽	zhi4	[梽木山]地名 在湖南省	None	None
 㭯	None	录入中	None	None
 𣓋	None	录入中	None	None
 𣓃	None	录入中	None	None
