@@ -29102,21 +29102,32 @@
 梊	di4	两指急持	None	None
 𣒆	qiao4	[枳𣒆]同“枳=壳” 药名	None	壳
 梽	zhi4	[梽木山]地名 在湖南省	None	None
-㭯	None	录入中	None	None
-𣓋	None	录入中	None	None
-𣓃	None	录入中	None	None
-𣓎	None	录入中	None	None
-棻	None	录入中	None	None
-𣓒	None	录入中	None	None
-𣐵	None	录入中	None	None
-𣒮	None	录入中	None	None
-梵	None	录入中	None	None
-椘	None	录入中	None	None
-𣒶	None	录入中	None	None
-梂	None	录入中	None	None
-桲	None	录入中	None	None
-㭪	None	录入中	None	None
-㭱	None	录入中	None	None
+⿰木𡉵	None	同=桃	None	桃
+㭯	zhe2	木小叶	None	None
+㭯	die2	[㭯㰔]蘑菇	None	None
+𣓋	pi2	木名	None	None
+𣓃	nei4	[𣓃𣓃]草木果实下垂貌	None	None
+𣓎	None	同=枖	None	枖
+棻	fen1	同=梤 香木	None	梤
+棻	fen1	通=紛 茂盛貌	None	紛
+𣓒	shan4	接檐	None	None
+𣐵	yi2	船上的舀水器	None	None
+𣒮	None	同=社	None	社
+梵	fan4	同=芃 草盛貌	None	芃
+梵	fan4	梵语为古印度书面语，故对印度等地的事物，常冠以梵字，以示与中华有别 如：梵文；梵语 ……又佛经原由梵语写成，故凡与佛家有关的事物，皆称梵 如：梵钟；梵音	None	None
+梵	fan4	梵文brahman或brāhma的音译词 “梵摩”、“婆罗贺摩”、“梵览磨”的略音，意为清静，寂静	None	None
+梵	fan4	诵经	None	None
+梵	fan4	同=檒 风吹树上	None	檒
+梵	fan4	姓	None	None
+椘	None	同=楚	None	楚
+𣒶	None	同=李	None	李
+梂	qiu2	栎树的果实	None	None
+梂	qiu2	凿子柄	None	None
+梂	qiu2	器物的底座	None	None
+桲	bo2	连枷，打谷脱粒的器具	None	None
+桲	po5	[榅桲]见“榅”	None	None
+㭪	fu1	木丛聚	None	None
+㭱	None	同=匣	None	匣
 梗	None	录入中	None	None
 梀	None	录入中	None	None
 梧	None	录入中	None	None
