@@ -28799,12 +28799,17 @@
 𣑨	None	同=無	None	無
 栵	lie4	木名 栵栗，又名栭栗，即茅栗	None	None
 栵	lie4	丛生的小树	None	None
-桋	None	录入中	None	None
-㭨	None	录入中	None	None
-桡	None	录入中	None	None
-桎	None	录入中	None	None
-𣐹	None	录入中	None	None
-𣐑	None	录入中	None	None
+𬂩	None	同=梜	None	梜
+桋	yi2	木名 苦槠栲，又名赤栜 壳斗科，常绿乔木 种子俗称苦槠子，可磨作苦槠豆腐 木材致密坚韧，可做车毂、农具	None	None
+桋	ti2	[桋桑]初生的嫩桑条 又称女桑	None	None
+桋	ti2	树木的长条	None	None
+㭨	None	同=椰	None	椰
+桡	None	=橈的简化字	None	橈
+桎	zhi4	拘束犯人两脚的刑具 引申为给两脚带上刑具	None	None
+桎	zhi4	束缚；窒碍	None	None
+桎	zhi4	车辖	None	None
+𣐹	None	同=椒	None	椒
+𣐑	ci2	木名 无𣐑木，一种小樟木，即棆	None	None
 柴	None	录入中	None	None
 桌	None	录入中	None	None
 桢	None	录入中	None	None
