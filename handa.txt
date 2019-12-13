@@ -28679,21 +28679,44 @@
 柀	bi3	木名，即榧	None	None
 柀	bi3	离析；破裂	None	None
 柀	bi3	一部分	None	None
-柽	None	录入中	None	None
-𣐕	None	录入中	None	None
-树	None	录入中	None	None
-㭓	None	录入中	None	None
-枱	None	录入中	None	None
-枲	None	录入中	None	None
-柕	None	录入中	None	None
-柔	None	录入中	None	None
-𣐱	None	录入中	None	None
-栂	None	录入中	None	None
-柪	None	录入中	None	None
-框	None	录入中	None	None
-栔	None	录入中	None	None
-梆	None	录入中	None	None
-栻	None	录入中	None	None
+⿰木𠬤	None	=檡的类推简化字	None	檡
+柽	jue2	同=𣐍(橛)	None	𣐍
+柽	cheng1	=檉的简化字	None	檉
+𣐕	None	=桱的类推简化字	None	桱
+树	None	=樹的简化字	None	樹
+㭓	bian4	同=閞 门柱上的斗拱	None	閞
+枱	si4	耒端	None	None
+枱	ci2	同=柌 柄，镰柄	None	柌
+枱	tai2	同=檯 桌类	None	檯
+枲	xi3	大麻的雄株，开雄花，不结实 也泛指麻	None	None
+柕	None	同=楙	None	楙
+柔	rou2	木质软和，可以曲直 也泛称软弱，与“剛”相对 如：柔弱；柔肠；柔茹刚吐	None	None
+柔	rou2	使软；使弱 如：柔麻（加工使麻变软）	None	None
+柔	rou2	草木初生；幼嫩	None	None
+柔	rou2	温和；温顺	None	None
+柔	rou2	润泽	None	None
+柔	rou2	安抚；怀柔	None	None
+柔	rou2	汉代侯国名 治所在今山东省临沂市境内	None	None
+柔	rou2	姓	None	None
+𣐱	None	同=柔	None	柔
+栂	None	同=梅	None	梅
+柪	ao1	曲木	None	None
+柪	ao4	木纠屈	None	None
+框	kuang4	棺门	None	None
+框	kuang4	嵌在墙上为安装门窗用的架子 如：门框；窗框	None	None
+框	kuang4	框儿，镶在器物周围起约束、支撑或保护作用的东西 如：镜框	None	None
+框	kuang4	指（事物）固有的格式，原有的范围，传统的做法	None	None
+框	kuang4	方言 在文字、图片或器物的周围镶加边儿	None	None
+框	kuang2	柩	None	None
+栔	qi4	同=契 刻	None	契
+梆	bang1	木名	None	None
+梆	bang1	巡更或旧时官衙用以示集散的响器 用竹筒或斫木制成，俗称梆子	None	None
+梆	bang1	我国地方戏曲梆子腔打击乐器梆子的简称 如：随梆唱曲	None	None
+梆	bang1	方言 敲打	None	None
+梆	bang1	量词 用于计算竹筒之类数目的单位	None	None
+梆	bang1	象声词 形容某些撞击声	None	None
+栻	shi4	古代占卜时日的器具，后世称为星盘	None	None
+栻	shi4	木名	None	None
 㭢	None	录入中	None	None
 㭜	None	录入中	None	None
 桂	None	录入中	None	None
