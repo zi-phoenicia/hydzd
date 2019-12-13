@@ -23646,17 +23646,49 @@
 𡳫	None	=樓的讹字	None	樓
 屩	jue1	草鞋	None	None
 屪	liao2	男性外生殖器	None	None
-㞡	None	录入中	None	None
-𡳯	None	录入中	None	None
-𡳬	None	录入中	None	None
-𡳮	None	录入中	None	None
-𡳭	None	录入中	None	None
-屫	None	录入中	None	None
-屬	None	录入中	None	None
-𡳸	None	录入中	None	None
-𡳼	None	录入中	None	None
-屭	None	录入中	None	None
-𡳻	None	录入中	None	None
+⿱㞌𡥷	None	同=孱	None	孱
+㞡	None	同=展	None	展
+𡳯	None	同=屩	None	屩
+𡳬	None	同=廬	None	廬
+𡳮	ji1	@	None	None
+𡳭	chi3	移蚕	None	None
+屫	None	同=屩	None	屩
+屬	zhu3	连接；连续	None	None
+屬	zhu3	跟随	None	None
+屬	zhu3	至；及	None	None
+屬	zhu3	佩；系	None	None
+屬	zhu3	聚集，会集	None	None
+屬	zhu3	朝谒，朝会	None	None
+屬	zhu3	专注	None	None
+屬	zhu3	缀辑，撰写	None	None
+屬	zhu3	托付，委托 后作=囑	None	囑
+屬	zhu3	叮嘱；告诫 后作=囑	None	囑
+屬	zhu3	推托，借口	None	None
+屬	zhu3	劝，邀	None	None
+屬	zhu3	足；充足	None	None
+屬	zhu3	面临，面对	None	None
+屬	zhu3	徽志，徽号	None	None
+屬	zhu3	量词 特指成套的铠甲	None	None
+屬	zhu3	解	None	None
+屬	zhu3	副词 表示时间 1.正，正值 2.近时；方才 3.从前，往昔	None	None
+屬	zhu3	通=矚 看；望	None	矚
+屬	zhu3	通=注(zhu4) 灌注；倾注	None	注
+屬	zhu3	通=媰(chu2) 怀孕	None	媰
+屬	shu3	类别；种类	None	None
+屬	shu3	现代生物学名词 生物学中把同一科的生物群按照彼此相似的程度再分为不同的群，叫做属 属以下为种 如：猫属；虎属；稻属；小麦属	None	None
+屬	shu3	同辈；同伙	None	None
+屬	shu3	亲属	None	None
+屬	shu3	归属；附属	None	None
+屬	shu3	系，是 如：查明属实	None	None
+屬	shu3	属相 干支纪年，用十二支配十二种动物：子鼠、丑牛、寅虎、卯兔、辰龙、巳蛇、午马、未羊、申猴、酉鸡、戌狗、亥猪 这叫十二属，也叫十二生肖 人生在那一年，就“属”那种动物，叫“属相” 如：老张属马，老李属牛	None	None
+屬	shu3	官吏；属吏	None	None
+屬	shu3	属员；徒众	None	None
+屬	shu3	统属，率领	None	None
+屬	shu3	古代行政区域名 1.五国为一属 2.十县为一属	None	None
+𡳸	li4	鞋底	None	None
+𡳼	None	同=𩋎	None	𩋎
+屭	None	同=㞒	None	㞒
+𡳻	None	同=屓	None	屓
 弓	gong1	射箭或打弹的兵器 多用坚韧的木条弯成弧形，两端系弦，张弦发射	None	None
 弓	gong1	形状或作用像弓的器具 如：弹弓；胡琴弓；弹棉花用的弓	None	None
 弓	gong1	弯曲；使弯曲 如：弓着腿坐着	None	None
