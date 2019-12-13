@@ -28632,21 +28632,53 @@
 柁	tuo2	木叶落	None	None
 柁	tuo2	木结构屋架中顺着前后方向架在柱子上的横木	None	None
 柁	tuo3	木坚貌	None	None
-柲	None	录入中	None	None
-栐	None	录入中	None	None
-柌	None	录入中	None	None
-𣐓	None	录入中	None	None
-柅	None	录入中	None	None
-𣐊	None	录入中	None	None
-𣐉	None	录入中	None	None
-柫	None	录入中	None	None
-𣐌	None	录入中	None	None
-柮	None	录入中	None	None
-𣐯	None	录入中	None	None
-枷	None	录入中	None	None
-架	None	录入中	None	None
-柖	None	录入中	None	None
-柀	None	录入中	None	None
+⿰木写	None	=𣞐的类推简化字	None	𣞐
+柲	bi4	古代兵器的柄 也泛指器物的柄	None	None
+柲	bi4	刺	None	None
+柲	bi4	弓檠 绑在弓里保护弓的竹片	None	None
+柲	bi4	偶	None	None
+柲	bie2	拗	None	None
+柲	bie2	戾	None	None
+柲	bie2	手㧙物	None	None
+栐	yong3	木名	None	None
+柌	ci2	柄，镰柄	None	None
+𣐓	yi2	船名	None	None
+柅	ni3	木名	None	None
+柅	ni3	塞于车轮下的制动木块	None	None
+柅	ni3	络丝工具	None	None
+柅	ni3	遏止；停止	None	None
+柅	ni3	[椅柅]见“椅(yi3)”	None	None
+柅	chi4	同=杘 络丝车的摇把	None	杘
+𣐊	kao3	同=栲 木名	None	栲
+𣐊	ju2	木名	None	None
+𣐊	ju2	蔓椒	None	None
+𣐊	ju2	同=檋 登山用具	None	檋
+𣐉	None	同=杘	None	杘
+柫	fu2	农具名 连枷	None	None
+柫	fu2	击	None	None
+𣐌	None	同=梳	None	梳
+柮	duo4	[榾柮]也作“檮柮” 块柴，树疙瘩或树兜子	None	None
+柮	duo4	断	None	None
+柮	zuo2	[柮枂]柱端木	None	None
+柮	wu4	同=杌 树无枝	None	杌
+𣐯	None	=崇的讹字	None	崇
+枷	jia1	农具名 连枷	None	None
+枷	jia1	古刑具 加在犯人的颈脖上	None	None
+枷	jia4	通=架 衣架	None	架
+架	jia4	支承或搁置物体的用具或构件 如：衣架；书架；屋架；葡萄架	None	None
+架	jia4	架设；构筑 如：架桥；架电线	None	None
+架	jia4	交错；重叠	None	None
+架	jia4	支承；支撑	None	None
+架	jia4	捏造；虚构 如：架词诬控	None	None
+架	jia4	争斗 如：吵架；打架；劝架	None	None
+架	jia4	量词 1.两柱之间为一架 2.用于由某些机件构成的或有支架的物体 如：一架飞机；两架收音机 3.方言 山一座叫一架	None	None
+架	jia4	用同=駕 超越；凌驾其上	None	駕
+柖	shao2	树摇动貌	None	None
+柖	shao2	箭靶	None	None
+柖	shao3	浴床	None	None
+柀	bi3	木名，即榧	None	None
+柀	bi3	离析；破裂	None	None
+柀	bi3	一部分	None	None
 柽	None	录入中	None	None
 𣐕	None	录入中	None	None
 树	None	录入中	None	None
