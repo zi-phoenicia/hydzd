@@ -28506,17 +28506,42 @@
 柵	None	同=栅	None	栅
 𣐒	None	同=𣔲	None	𣔲
 𣐮	dai1	@	None	None
-柶	None	录入中	None	None
-柬	None	录入中	None	None
-𣐏	None	录入中	None	None
-𦊧	None	录入中	None	None
-𣑍	None	录入中	None	None
-柣	None	录入中	None	None
-柞	None	录入中	None	None
-柇	None	录入中	None	None
-柂	None	录入中	None	None
-柎	None	录入中	None	None
-柋	None	录入中	None	None
+柶	si4	古代礼器，状如匙 以角或其他材料制成，两头屈曲，用以舀取食物	None	None
+柬	jian3	选择；挑选 后作=揀	None	揀
+柬	jian3	简略 后作=簡	None	簡
+柬	jian3	柬帖 信札、名帖等的统称 如：请柬	None	None
+柬	jian3	国名 柬埔寨的省称	None	None
+𣐏	nian3	木名	None	None
+𦊧	hu4	网	None	None
+𣑍	None	同=柺	None	柺
+柣	zhi4	门槛	None	None
+柣	die2	[桔柣]见“桔”	None	None
+柞	zuo4	木名 柞木，大风子科，常绿灌木或小乔木 生棘刺 叶卵形或长椭圆状卵形 木质坚硬，可作家具，叶可入药 可作观赏树	None	None
+柞	zuo4	木名，即麻栎	None	None
+柞	zuo4	通=酢 客人以酒回敬主人	None	酢
+柞	zuo4	古代国名	None	None
+柞	ze2	砍，斜斫	None	None
+柞	ze2	狭窄 后作=窄	None	窄
+柞	ze2	铺在椽上瓦下的竹席 也作=笮	None	笮
+柞	ze2	通=咋 声大	None	咋
+柞	ze2	[柞鄂]也作“柞㮙” 捕兽槛中机	None	None
+柞	zha4	[柞水]水名 汉水支流	None	None
+柞	zha4	用同=拃(zha3) 量词 指张开大拇指和食指两端间的距离	None	拃
+柇	None	同=𤖱	None	𤖱
+柂	yi2	木名 即白椴 像白杨	None	None
+柂	duo4	同=舵 控制船舶行驶方向的装置	None	舵
+柂	duo4	导；引 也作=拕	None	拕
+柂	li2	[柯柂]酒名	None	None
+柎	fu1	钟鼓架的足 也泛指一般器物的足	None	None
+柎	fu1	花托，或指花萼；也指草木子房	None	None
+柎	fu1	斗上横木	None	None
+柎	fu1	字版（板）	None	None
+柎	fu1	同=泭 筏	None	泭
+柎	fu3	同=弣 弓把中部	None	弣
+柎	fu3	通=拊 1.倚抚 2.击打 3.乐器名	None	拊
+柎	fu3	通=坿 涂注	None	坿
+柎	fu4	[楄柎]藉尸木	None	None
+柋	dai4	架蚕箔的立柱	None	None
 柏	None	录入中	None	None
 柝	None	录入中	None	None
 栀	None	录入中	None	None
