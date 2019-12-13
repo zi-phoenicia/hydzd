@@ -28865,31 +28865,66 @@
 梃	ting3	木片	None	None
 梃	ting3	杀猪后，在猪腿上割一个口子，用铁棍贴着皮层往里捅叫做梃 捅成沟之后，往里吹气，使猪皮绷紧，以便去毛除垢	None	None
 梃	ting3	梃猪用的铁棍	None	None
-栝	None	录入中	None	None
-桥	None	录入中	None	None
-㭚	None	录入中	None	None
-栴	None	录入中	None	None
-𣐾	None	录入中	None	None
-栿	None	录入中	None	None
-桕	None	录入中	None	None
-栰	None	录入中	None	None
-梴	None	录入中	None	None
-栣	None	录入中	None	None
-栠	None	录入中	None	None
-桦	None	录入中	None	None
-桘	None	录入中	None	None
-桖	None	录入中	None	None
-㭡	None	录入中	None	None
-桁	None	录入中	None	None
-㭛	None	录入中	None	None
-𣑮	None	录入中	None	None
-栓	None	录入中	None	None
-桧	None	录入中	None	None
-㭘	None	录入中	None	None
-桃	None	录入中	None	None
-𣑯	None	录入中	None	None
-𣑰	None	录入中	None	None
-𣑂	None	录入中	None	None
+栝	tian3	拔火棍	None	None
+栝	tian3	木杖	None	None
+栝	kuo4	=檃	None	檃
+栝	kuo4	箭末扣弦处	None	None
+栝	kuo4	木名，即桧	None	None
+⿰木迁	None	=櫏的类推简化字	None	櫏
+桥	None	=橋的简化字	None	橋
+㭚	lv3	木名	None	None
+㭚	lv3	通=棜(yu4) 古代承放酒器的礼器	None	棜
+栴	zhan1	[栴檀]1.檀香，檀香科，常绿小乔木 木材极香，可制器具、扇骨等 刨片入药，为芳香、健胃剂 蒸馏所得的檀香油，可作肥料的香料 2.山茶科的紫茎属植物	None	None
+𣐾	None	同=薅	None	薅
+栿	fu2	房梁	None	None
+桕	jiu4	木名 乌桕，大戟科，落叶乔木 叶互生，稍成菱形，秋天变红 种子外面有一层白色脂肪叫桕脂，可用来制作蜡烛与肥皂 种子可榨油 叶子可作黑色染料；树皮与叶均可入药	None	None
+桕	jiu4	桕脂	None	None
+桕	jiu4	旧式门上合榫的槽	None	None
+栰	fa2	同=橃 海中大船	None	橃
+栰	fa2	同=筏 渡水用的木排	None	筏
+梴	chan1	木长貌	None	None
+梴	chan1	碓机	None	None
+梴	chan1	通=筵(yan2) 垫席	None	筵
+栣	ren3	禁御	None	None
+栣	ren3	同=栠	None	栠
+栠	ren3	柔弱貌	None	None
+桦	None	=樺的简化字	None	樺
+桘	None	同=槌	None	槌
+桖	xue4	木名	None	None
+㭡	xi4	[㭡陽]山名	None	None
+㭡	xin4	簆，经丝具	None	None
+桁	heng2	屋梁上或门、窗框上的横木 今称檩子、桁条	None	None
+桁	heng2	葬具	None	None
+桁	hang2	加在犯人颈上或脚上的大型刑具	None	None
+桁	hang2	同=航(斻) 连船而成的浮桥	None	航
+桁	hang2	量词 用于成行的东西	None	None
+桁	hang4	衣架	None	None
+㭛	pai4	藤属 一说木皮	None	None
+㭛	ba4	榺，即筘	None	None
+𣑮	None	树名	None	None
+栓	shuan1	木钉 后用以称器物上可以开关的机件 如：门栓；枪栓；消火栓	None	None
+栓	shuan1	塞子 也泛指形状像塞子的东西 如：栓剂	None	None
+栓	shuan1	贯物	None	None
+栓	shuan4	概	None	None
+栓	quan2	盂	None	None
+桧	None	=檜的简化字	None	檜
+𬂮	None	=榝的类推简化字	None	榝
+㭘	ge2	剑鞘	None	None
+㭘	he2	[㭘棔]木名	None	None
+桃	tao2	木名 桃，蔷薇科，落叶小乔木 春季开花，花淡红、粉红或白色 果实略呈球形，表面有毛茸 花可供观赏 果味甜，可供生食，也可加工成桃脯或罐头食品 核仁、花与干幼果可入药	None	None
+桃	tao2	桃树的果	None	None
+桃	tao2	桃花	None	None
+桃	tao2	指形状像桃的其他果实 如：胡桃；棉桃	None	None
+桃	tao2	像桃花一样的颜色 古多用来形容女子的颜面	None	None
+桃	tao2	桃花开放的时令 如：桃汛	None	None
+桃	tao2	地名 春秋鲁邑 故址在今山东省汶上县东北	None	None
+桃	tao2	汉代水名 属涿郡	None	None
+桃	tao2	姓	None	None
+桃	tiao1	长柄（勺）	None	None
+桃	zhao3	同=𤕷 版	None	𤕷
+𣑯	None	同=桃	None	桃
+𣑰	None	同=桼(漆)	None	桼
+𣑂	hu4	栗子成熟裂开	None	None
 桅	None	录入中	None	None
 栒	None	录入中	None	None
 栺	None	录入中	None	None
