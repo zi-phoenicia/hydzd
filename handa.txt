@@ -30545,26 +30545,65 @@
 槻	gui1	木名 牛犀科梣属的几种植物 如：小叶白蜡树、苦枥木、秦岭白蜡树等落叶乔木，木质刚劲而有弹性，能耐久 树皮灰褐色，可入药，称“秦皮”	None	None
 槼	gui1	同=規	None	規
 㯊	hen2	平量木	None	None
-槸	None	录入中	None	None
-槷	None	录入中	None	None
-𣙗	None	录入中	None	None
-𣙲	None	录入中	None	None
-㯏	None	录入中	None	None
-樭	None	录入中	None	None
-𣘪	None	录入中	None	None
-𣛰	None	录入中	None	None
-𣚋	None	录入中	None	None
-𣙻	None	录入中	None	None
-槿	None	录入中	None	None
-横	None	录入中	None	None
-樠	None	录入中	None	None
-𣚖	None	录入中	None	None
-橗	None	录入中	None	None
-㯣	None	录入中	None	None
-𣚜	None	录入中	None	None
-㯜	None	录入中	None	None
-𣚥	None	录入中	None	None
-㯄	None	录入中	None	None
+槸	yi4	树枝相磨	None	None
+槷	nie4	危槷不安	None	None
+槷	nie4	古代观测日影的标杆 后作=臬	None	臬
+槷	nie4	同=臬 箭靶的中心	None	臬
+槷	nie4	同=闑 门橛	None	闑
+槷	xie4	同=楔 木楔	None	楔
+槷	yi4	同=槸 树枝相磨	None	槸
+𣙗	nie4	[杌𣙗]同“杌=槷” 也作“杌=隉”	None	槷
+𣙗	nie4	木楔	None	None
+𣙗	nie4	门南旁木	None	None
+𣙲	None	=橐的讹字	None	橐
+㯏	None	同=穀	None	穀
+樭	None	同=棋	None	棋
+𣘪	lao2	木名	None	None
+𣛰	None	同=鐯	None	鐯
+𣚋	ye2	木名 皮可以做席子	None	None
+𣙻	zou1	草木子聚生	None	None
+槿	jin3	木名，即木槿 锦葵科，落叶灌木 夏秋开花，花有白、紫、红诸色，朝开暮闭，栽培供观赏，兼作绿篱 花、皮可入药 茎的纤维可造纸	None	None
+槿	qin2	柄	None	None
+横	heng2	门前木栅栏 也泛称横栏之木	None	None
+横	heng2	横亘；横贯	None	None
+横	heng2	横渡；跨越	None	None
+横	heng2	横断	None	None
+横	heng2	横向 与“纵”的方向相对 1.直线为纵，平线为横 2.南北为纵，东西为横 3.经为纵，纬为横	None	None
+横	heng2	使物体横向（拿着或放着）	None	None
+横	heng2	连横 战国时张仪游说六国共事秦国的一种外交策略 与“合纵”相对	None	None
+横	heng2	侧；旁边	None	None
+横	heng2	斜视	None	None
+横	heng2	遮盖	None	None
+横	heng2	充溢；充满	None	None
+横	heng2	广远；广阔	None	None
+横	heng2	交错；纷杂	None	None
+横	heng2	汉字笔画名 如：横、竖、撇、点、折	None	None
+横	heng2	通=衡 古代的司察官	None	衡
+横	heng2	通=黌(hong2) 学；学校	None	黌
+横	heng2	古地名 故址在今河南省商丘市西南	None	None
+横	heng2	姓	None	None
+横	heng4	放纵；横暴	None	None
+横	heng4	枉，冤屈	None	None
+横	heng4	意外；不测	None	None
+横	heng4	中医术语 1.指腠理不顺 2.脉象名 3.病名	None	None
+横	guang1	光	None	None
+横	guang1	门名	None	None
+横	guang4	通=桄 车、船、梯、床、织机等上的横木	None	桄
+横	huang2	同=撗 草名	None	撗
+横	huang3	同=櫎	None	櫎
+樠	man3	木名 松心木	None	None
+樠	man3	渗溢貌	None	None
+樠	lang3	同=榔 木名	None	榔
+𣚖	an1	木名	None	None
+橗	meng2	木名	None	None
+橗	meng2	木心	None	None
+㯣	None	同=棻	None	棻
+𣚜	song1	小笼	None	None
+㯜	cui4	同=椊 木朽	None	椊
+𣚥	None	同=棛	None	棛
+⿰木萧	None	=櫹的类推简化字	None	櫹
+⿱林来	zao3	@	None	None
+㯄	zhi1	木盛	None	None
 㯃	None	录入中	None	None
 𣘲	None	录入中	None	None
 樯	None	录入中	None	None
