@@ -29968,29 +29968,69 @@
 楷	kai3	姓	None	None
 ⿰木⿱𡿧田	zi1	直立着的枯木	None	None
 𣗀	None	同=楷	None	楷
-楨	None	录入中	None	None
-㮚	None	录入中	None	None
-𣖴	None	录入中	None	None
-榄	None	录入中	None	None
-業	None	录入中	None	None
-㮐	None	录入中	None	None
-𣕇	None	录入中	None	None
-㮛	None	录入中	None	None
-𣗐	None	录入中	None	None
-楊	None	录入中	None	None
-楫	None	录入中	None	None
-𣔺	None	录入中	None	None
-𣕃	None	录入中	None	None
-榅	None	录入中	None	None
-楬	None	录入中	None	None
-𣕎	None	录入中	None	None
-椳	None	录入中	None	None
-楐	None	录入中	None	None
-楒	None	录入中	None	None
-㮙	None	录入中	None	None
-榀	None	录入中	None	None
-𣖎	None	录入中	None	None
-楍	None	录入中	None	None
+楨	zhen1	刚木；坚木	None	None
+楨	zhen1	木名 女贞，木犀科，常绿灌木或乔木 为习见的庭院或绿篱树种，可放养白蜡虫 木材细致，供细木工用 果实“女贞子”，椭圆形，成熟时紫蓝色，可入药	None	None
+楨	zhen1	古代筑墙时树立在两端的木柱	None	None
+楨	zhen1	主干；支柱	None	None
+㮚	li4	同=栗	None	栗
+㮚	li4	古代金工的一种	None	None
+𣖴	None	=𣖇的讹字	None	𣖇
+榄	None	=㰖的简化字	None	㰖
+業	ye4	古时乐器架子横木上的大版，刻如锯齿状，用以悬挂钟、鼓、磬等	None	None
+業	ye4	古代书册的夹板	None	None
+業	ye4	筑墙板	None	None
+業	ye4	学习的内容或过程 如：学业；毕业	None	None
+業	ye4	职业；业务	None	None
+業	ye4	产业；财产	None	None
+業	ye4	功烈；基业	None	None
+業	ye4	从事于；以……为职业	None	None
+業	ye4	使成业或乐业	None	None
+業	ye4	高达	None	None
+業	ye4	次序；次第	None	None
+業	ye4	创始	None	None
+業	ye4	既；已经	None	None
+業	ye4	佛教语 梵文karman(羯磨)的意译 业由身、口、意三处发动，叫三业 身业、口业各有两种性质：一是由言论、行动所表现出来的显而易见的效果，叫做表业；一是只有潜在思想未在言行方面表现出来，不能用感官观察和了知的，叫无表业 这些业又分为善、不善、非善非不善三种，是佛教善恶因果说的理论根据 1.表示个人的命运和缘分 2.罪孽，悖逆教规的行为	None	None
+業	ye4	通=陧 危貌	None	陧
+㮐	sheng3	三根木头交叉而成的支架，用来指称滤筲	None	None
+㮐	si4	同=杫 俎几；砧板	None	杫
+𣕇	xiao1	同=揱 削尖；尖细	None	揱
+㮛	chi2	同=匙 舀汤等用的小勺子	None	匙
+㮛	yi2	同=椸	None	椸
+𣗐	reng3	[𣗐桐]木名	None	None
+楊	yang2	木名 杨柳科杨属植物的泛称 落叶乔木 枝条上挺，种子有毛 种类很多，有银白杨、毛白杨、小叶杨等	None	None
+楊	yang2	草名，即“𦬸”	None	None
+楊	yang2	木名 杨桃，即猕猴桃 藤本 根、枝叶、茎中液汁可供药用	None	None
+楊	yang2	同=鸉 鸟名，即“白鷢”	None	鸉
+楊	yang2	战国初期哲学家杨朱及其学术派别的简称	None	None
+楊	yang2	通=揚 激扬	None	揚
+楊	yang2	周国名 姬姓 春秋时灭于晋	None	None
+楊	yang2	古邑县名 春秋时晋并杨，为羊舌肸的采邑，汉置杨县 故址在今山西省洪洞县东南	None	None
+楊	yang2	姓	None	None
+楫	ji2	船桨 短曰楫，长曰櫂	None	None
+楫	ji2	划（船、水）	None	None
+楫	ji2	林木	None	None
+楫	ji2	通=輯 聚集	None	輯
+𣔺	mao4	门框上的横木	None	None
+𣕃	yu4	木偶	None	None
+榅	wen1	[榅桲]木名 蔷薇科，落叶灌木或小乔木 果实秋季成熟，梨形或苹果形，黄色，味甘酸，有香气，可供生食、制蜜饯或药用 又可作洋梨砧木，有矮化作用	None	None
+榅	wen1	根	None	None
+榅	wen1	杉	None	None
+榅	yun4	木盛貌	None	None
+榅	yun4	椟	None	None
+榅	yun4	柱	None	None
+榅	yun4	杜梨	None	None
+楬	jie2	作标志用的小木桩	None	None
+楬	jie2	无装饰的；无修饰的	None	None
+楬	qia4	用以止乐的虎状木质乐器，即敔	None	None
+𣕎	xian4	[𤲭𣕎]间“𤲭”	None	None
+椳	wei1	承托门户转轴的门臼	None	None
+𭫀	None	=樻的类推简化字	None	樻
+楐	jie4	同=庎 用来搁置食器的架子	None	庎
+楒	si1	[相楒]也作“相=思” 木名	None	思
+㮙	e4	穽	None	None
+榀	pin3	量词 一个屋架叫一榀	None	None
+𣖎	None	同=楍	None	楍
+楍	None	同=本	None	本
 椯	None	录入中	None	None
 𣖃	None	录入中	None	None
 楞	None	录入中	None	None
