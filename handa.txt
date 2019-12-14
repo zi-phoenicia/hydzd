@@ -30249,45 +30249,82 @@
 榬	yuan2	姓	None	None
 𣖫	gu3	同=穀 木名，即构树	None	穀
 𣖫	que4	粗糙的竹杖 旧时为居父丧所用	None	None
-榰	None	录入中	None	None
-㮪	None	录入中	None	None
-榼	None	录入中	None	None
-𪳍	None	录入中	None	None
-樺	None	录入中	None	None
-𣖾	None	录入中	None	None
-𣙷	None	录入中	None	None
-模	None	录入中	None	None
-𣓝	None	录入中	None	None
-𣙘	None	录入中	None	None
-𣘻	None	录入中	None	None
-樥	None	录入中	None	None
-𣘘	None	录入中	None	None
-榗	None	录入中	None	None
-𣘡	None	录入中	None	None
-槙	None	录入中	None	None
-榦	None	录入中	None	None
-𣘒	None	录入中	None	None
-𣗲	None	录入中	None	None
-㮦	None	录入中	None	None
-槤	None	录入中	None	None
-𣖿	None	录入中	None	None
-榑	None	录入中	None	None
-㯈	None	录入中	None	None
-槅	None	录入中	None	None
-𣗳	None	录入中	None	None
-槚	None	录入中	None	None
-槈	None	录入中	None	None
-榎	None	录入中	None	None
-𣖻	None	录入中	None	None
-槗	None	录入中	None	None
-榞	None	录入中	None	None
-𣗂	None	录入中	None	None
-㯌	None	录入中	None	None
-㮷	None	录入中	None	None
-㮹	None	录入中	None	None
-𣖭	None	录入中	None	None
-槕	None	录入中	None	None
-𣗴	None	录入中	None	None
+榰	zhi1	柱脚	None	None
+榰	zhi1	拄，制成	None	None
+㮪	qiong2	一种小船	None	None
+榼	ke1	古时盛酒的容器	None	None
+榼	ke1	泛指盒类容器	None	None
+榼	ke1	鞘	None	None
+𪳍	None	=欇的类推简化字	None	欇
+樺	hua4	木名 白桦，也叫“桦木” 桦木科，落叶乔木 树皮白色，纸状，分层脱落 小枝细，单叶互生，先叶开花 果序单生下垂，圆柱形 木材致密，可制器具 树皮可制纸，可提白桦油	None	None
+𣗊	None	=樠的类推简化字	None	樠
+𣖾	bei4	木名，即盐肤木 漆树科，落叶灌木或小乔木 小枝，叶柄及花序都密生褐色柔毛，叶轴及柄常有翅，圆锥花序顶生，花小，黄白色 根、皮、叶、花、幼嫩枝苗等可供药用 树叶上寄生的五倍子亦入药	None	None
+⿰木⿱共车	None	=檋的类推简化字	None	檋
+𣙷	mang2	[𣙷果]即“=杧果” 见“杧”	None	杧
+模	mo2	法式；规范	None	None
+模	mo2	模范；榜样	None	None
+模	mo2	模仿；效法	None	None
+模	mo2	木名	None	None
+模	mo2	用同=摩 揣摩	None	摩
+模	mo2	用同=摹 照样子写或画	None	摹
+模	mu2	模子 如：铅模；铜模	None	None
+模	mu2	形状；样子	None	None
+𣓝	meng3	木名	None	None
+𣙘	cou4	鸟巢	None	None
+𣘻	cha	同=茶	None	茶
+𣘻	tu2	木名，即“楸”	None	None
+𣘻	tu2	同=荼 茅秀	None	荼
+樥	peng2	梁上槅	None	None
+𣘘	shen1	床前横木	None	None
+𣘘	shen1	箦版	None	None
+𣘘	zhen1	同=榛 木名	None	榛
+榗	jian4	木名 一说竹名	None	None
+榗	jin4	鼓名	None	None
+𣘡	None	同=桫	None	桫
+槙	dian1	树梢 后作=顛	None	顛
+槙	dian1	树倒仆 后作=顛	None	顛
+槙	zhen3	木理坚密	None	None
+槙	zhen3	木名 又叫罗汉松，即土杉 竹柏科，常绿乔木 叶螺旋状排列，条状披针形，上下两面有明显隆起的中脉 种子卵圆形，熟时肉质套被紫色或紫红色	None	None
+槙	zhen1	同=稹 草木根相迫迮	None	稹
+榦	gan4	古代筑墙时于夹板两边所竖的起固定作用的木柱	None	None
+榦	gan4	主干	None	None
+榦	gan4	胁；躯体；骸骨	None	None
+榦	gan4	柘木	None	None
+榦	gan4	柄	None	None
+榦	gan4	副词 用在句首表示反问 相当于“曷”、“怎么”	None	None
+榦	han2	指井垣、井栏或井栏上支撑辘轳的构件	None	None
+𣘒	None	同=榦	None	榦
+𣗲	yu2	@	None	None
+㮦	suo3	木枝上生	None	None
+㮦	suo3	木梢	None	None
+㮦	suo3	通=索 索求	None	索
+槤	lian2	木名	None	None
+槤	lian2	楼阁边相连的小屋	None	None
+槤	lian2	横关木	None	None
+槤	lian3	古代祭祀供盛黍稷的器具	None	None
+𣖿	zhi2	同=樴 小木桩	None	樴
+榑	fu2	[榑桑]同“=扶桑” 传说中的神树，为日出的地方	None	扶
+榑	fu4	木名	None	None
+榑	bo2	[榑櫨]也作“=欂櫨” 即斗拱	None	欂
+榑	bo2	同=欂 椽	None	欂
+㯈	None	同=樕	None	樕
+槅	ge2	大车轭	None	None
+槅	ge2	古代一种食器	None	None
+槅	ge2	门窗上用木条作成的格子 也指房屋或器物的隔板	None	None
+𣗳	None	同=樹	None	樹
+槚	None	=檟的简化字	None	檟
+槈	None	同=耨	None	耨
+榎	jia3	同=檟 木名 即楸	None	檟
+𣖻	hai3	木制酒器	None	None
+槗	None	同=橋	None	橋
+榞	yuan2	木名	None	None
+𣗂	None	同=楚	None	楚
+㯌	chuan2	[樄㯌]同“樄=椽”	None	椽
+㮷	ji1	木名	None	None
+㮹	zhi3	柠㮹	None	None
+𣖭	zhi2	[㮑𣖭]甲你“㮑”	None	None
+槕	None	同=桌	None	桌
+𣗴	None	同=直	None	直
 𣖪	None	录入中	None	None
 𣖳	None	录入中	None	None
 槛	None	录入中	None	None
