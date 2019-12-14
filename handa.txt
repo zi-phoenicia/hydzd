@@ -30223,7 +30223,8 @@
 榛	zhen1	木名 榛，桦木科，落叶灌木或乔木 果小而坚，近球形 果实可食用或榨油	None	None
 榛	zhen1	榛的果实，即“榛子”	None	None
 榛	zhen1	丛生的树木	None	None
-𣘢	None	录入中	None	None
+⿰木敖	None	同=𣘢	None	𣘢
+𣘢	None	同=𦪈	None	𦪈
 榡	None	录入中	None	None
 構	None	录入中	None	None
 𣘗	None	录入中	None	None
