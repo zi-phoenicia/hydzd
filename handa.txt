@@ -29378,22 +29378,40 @@
 桹	lang2	渔人结在船舷上敲击以驱鱼入网的长木棒	None	None
 桾	jun1	[桾櫏]也作“桾𣘝”、“桾杄” 木名 即黑枣，也叫软枣，梬枣 柿树科 落叶乔木 木材良好，用途很广，常作车轴 实小而长，形如瓠，干熟则蓝黑色，熟后可供食用，也可入药 又含鞣质，可制柿漆，作雨具的涂料 种仁可榨油制肥皂 树皮、树枝可提取栲㬵	None	None
 棂	None	=欞的简化字	None	欞
-梫	None	录入中	None	None
-楖	None	录入中	None	None
-𣒺	None	录入中	None	None
-梶	None	录入中	None	None
-梮	None	录入中	None	None
-梞	None	录入中	None	None
-梉	None	录入中	None	None
-梕	None	录入中	None	None
-桳	None	录入中	None	None
-桶	None	录入中	None	None
-梭	None	录入中	None	None
-㭮	None	录入中	None	None
-棒	None	录入中	None	None
-琹	None	录入中	None	None
-棈	None	录入中	None	None
-𣓁	None	录入中	None	None
+梫	qin3	木名 即桂 古书上指肉桂	None	None
+楖	zhi4	同=櫛 1.梳、篦的总称 2.梳头	None	櫛
+楖	zhi4	治木工	None	None
+楖	ji2	[楖栗]木名 可做拐杖，因以称杖	None	None
+楖	ji2	[楖裴]古县名 故地在今河北省成安县东北	None	None
+𣒺	None	同=杘	None	杘
+梶	wei3	树梢	None	None
+梮	ju1	同=㮂 抬举食物的用具，与梥相似	None	㮂
+梮	ju1	有锥的屐，山行时用以防滑	None	None
+梮	ju1	抬土的工具	None	None
+梮	ju1	棋盘	None	None
+梞	ji4	控制发射的机关	None	None
+⿰木⿱弓心	None	同=梞	None	梞
+梉	zhuang1	木名	None	None
+梉	zhuang1	用同=粧 梳妆	None	粧
+梕	None	同=杒	None	杒
+桳	ben4	同=㮥 船篷	None	㮥
+桳	ben4	同=軬 车弓，也指车篷	None	軬
+桶	tong3	古量器名 方形斛	None	None
+桶	tong3	盛水或其他东西的容器 一般为圆柱形，或有提梁 如：木桶；铁桶	None	None
+梭	xun4	梭木 ……一说为“胡桐”，即杨柳	None	None
+梭	xun4	木茂	None	None
+梭	suo1	梭子 牵引纬线与经线交织的织具 其形根据织机类型而定，一般为两端呈圆锥形的长方体，体腔中空以容纳纡子	None	None
+梭	suo1	量词 如：一梭子弹	None	None
+㭮	zuo4	笮	None	None
+㭮	zan4	同=桚(拶)	None	桚
+棒	bang4	棍，杖 也作=棓	None	棓
+棒	bang4	用棍棒打	None	None
+棒	bang4	方言 好，强	None	None
+棒	bang4	方言 坚硬，不柔软（多指食物） 如：肉没煮烂，还棒着呢！	None	None
+琹	None	同=琴	None	琴
+棈	qian4	木名	None	None
+𬃀	None	=槻的类推简化字	None	槻
+𣓁	None	同=栞	None	栞
 㮇	None	录入中	None	None
 棖	None	录入中	None	None
 𣓇	None	录入中	None	None
