@@ -30918,28 +30918,57 @@
 檧	song1	[桶檧]小笼	None	None
 𣝘	None	=𣟀的讹字	None	𣟀
 𣚅	None	同=㭙	None	㭙
-橭	None	录入中	None	None
-㯖	None	录入中	None	None
-樷	None	录入中	None	None
-㯬	None	录入中	None	None
-㯟	None	录入中	None	None
-橞	None	录入中	None	None
-𣚐	None	录入中	None	None
-橐	None	录入中	None	None
-𣚇	None	录入中	None	None
-𣘝	None	录入中	None	None
-橝	None	录入中	None	None
-橱	None	录入中	None	None
-𣛓	None	录入中	None	None
-𣚊	None	录入中	None	None
-𣙽	None	录入中	None	None
-橛	None	录入中	None	None
-橜	None	录入中	None	None
-橑	None	录入中	None	None
-橒	None	录入中	None	None
-𣚆	None	录入中	None	None
-橬	None	录入中	None	None
-𣚡	None	录入中	None	None
+橭	gu1	木名，即山榆 也作=枯	None	枯
+橭	gu1	树枝四面分布	None	None
+㯖	None	同=棏	None	棏
+樷	cong2	同=䕺 草丛生貌	None	䕺
+樷	cong2	同=叢 聚集	None	叢
+㯬	lian3	功勤	None	None
+㯟	None	同=麓	None	麓
+橞	hui4	木名	None	None
+𣚐	ru2	同=檽 梁上短木	None	檽
+橐	tuo2	袋子	None	None
+橐	tuo2	（用袋子）装；敛藏	None	None
+橐	tuo2	古代冶炼鼓风用具的外壳装置 又泛指这种用具，如今之风箱	None	None
+橐	tuo2	[橐臯]古地名 春秋时为橐臯邑，汉置橐臯县，东汉废，唐为橐臯镇 在今安徽省巢湖市西北=柘臯镇	None	柘
+橐	du4	古邑名	None	None
+橐	luo4	[橐駞]即=駱驼	None	駱
+𣚇	pao4	囊长大貌	None	None
+𣘝	qian1	[桾𣘝]同“桾=櫏” 见“桾”	None	櫏
+橝	dian3	屋檐	None	None
+橝	dian3	同=𠂼(扂) 门闩	None	𠂼
+橝	tan2	木名，即橉	None	None
+橝	tan2	养蚕用的槌	None	None
+橝	tan2	通=覃 长	None	覃
+橝	xin2	盾上竿	None	None
+𭫼	None	同=棘	None	棘
+橱	chu2	放置衣物、食品的家具 如：衣橱；书橱；碗橱	None	None
+𣛓	bo2	𣖍𣛓	None	None
+𣚊	None	同=㮕	None	㮕
+𣙽	None	同=櫪	None	櫪
+橛	jue2	木橛子，短木桩	None	None
+橛	jue2	古时门中间竖立作为限隔的短木	None	None
+橛	jue2	树木或禾稼的残根	None	None
+橛	jue2	秃	None	None
+橛	jue2	马口中所衔的横木，即马嚼子	None	None
+橛	jue2	犟；直	None	None
+橛	jue2	小段的木头 也指被分割开的一部分事物	None	None
+橛	jue2	同=嶡 俎，古代祭祀时陈列牛、羊等祭品的几	None	嶡
+橛	jue2	通=撅 1.敲击；击打 2.掘	None	撅
+橜	None	同=橛	None	橛
+⿰木⿻爽一	None	同=樉	None	樉
+⿲木⿱𡗜氺卩	None	同=𣛺	None	𣛺
+橑	lao3	屋椽	None	None
+橑	lao3	古代伞盖的骨架，伞弓子	None	None
+橑	lao3	柴薪	None	None
+橑	lao3	木名	None	None
+橒	yun2	木名	None	None
+橒	yun2	木纹	None	None
+𣚆	chun1	同=輴 古代用于泥路的一种交通工具	None	輴
+橬	qian2	积柴水中以聚鱼	None	None
+橬	qian2	量词 束	None	None
+橬	qin2	同=梣	None	梣
+𣚡	bi1	栖	None	None
 𣛔	None	录入中	None	None
 樸	None	录入中	None	None
 𣚠	None	录入中	None	None
