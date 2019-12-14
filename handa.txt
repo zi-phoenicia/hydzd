@@ -31440,39 +31440,59 @@
 㰅	zhe2	同=㭙 蚕箔搁架上的横木	None	㭙
 㰅	zhe2	书橱	None	None
 㰅	zhe2	同=擿 投弃	None	擿
-櫅	None	录入中	None	None
-檹	None	录入中	None	None
-檾	None	录入中	None	None
-檳	None	录入中	None	None
-檫	None	录入中	None	None
-櫁	None	录入中	None	None
-檸	None	录入中	None	None
-㯸	None	录入中	None	None
-櫭	None	录入中	None	None
-𣟁	None	录入中	None	None
-㰐	None	录入中	None	None
-𣞆	None	录入中	None	None
-櫇	None	录入中	None	None
-𣚟	None	录入中	None	None
-櫂	None	录入中	None	None
-櫈	None	录入中	None	None
-檰	None	录入中	None	None
-檵	None	录入中	None	None
-櫘	None	录入中	None	None
-𣞝	None	录入中	None	None
-𣞜	None	录入中	None	None
-𣞤	None	录入中	None	None
-𣞶	None	录入中	None	None
-櫕	None	录入中	None	None
-㰇	None	录入中	None	None
-𣞙	None	录入中	None	None
-櫝	None	录入中	None	None
-𣞔	None	录入中	None	None
-櫵	None	录入中	None	None
-𣞸	None	录入中	None	None
-𣞖	None	录入中	None	None
-𣞱	None	录入中	None	None
-𣞒	None	录入中	None	None
+櫅	ji1	白枣	None	None
+櫅	ji1	木名	None	None
+櫅	ji4	断木	None	None
+檹	yi1	[檹施]树木茂盛或枝条修长、柔顺貌	None	None
+檹	yi1	木名，即=椅	None	椅
+檾	qing3	麻类植物	None	None
+檳	bing1	[檳榔]果木名 棕榈科，常绿乔木 高十七米或更高，羽状复叶 果长椭圆形，橙红色，可入药	None	None
+檳	bin1	[槟子]槟子树，苹果树的一种 果实也叫槟子，比苹果小，红色，熟后转紫红，味酸甜带涩	None	None
+檫	cha2	木名 樟科，落叶乔木 树皮黄绿色有光泽，老后变成灰色，有纵裂 果近球形，果梗长，上端渐增粗，果托和果梗红色 木材优良，可供造船制家具 根含芳香油，根皮可入药	None	None
+檫	sa4	同=𣘤 象声词 草木摇动声	None	𣘤
+櫁	None	同=榓	None	榓
+檸	ning2	木名	None	None
+檸	ning2	[檸頭]吴地俗语，即木榫	None	None
+㯸	jin3	盂	None	None
+櫭	jie2	木钉	None	None
+櫭	jie2	同=楬 小木桩	None	楬
+櫭	ji4	车辖	None	None
+𣟁	tuo3	狭长器	None	None
+㰐	None	同=橢	None	橢
+𣞆	None	同=若	None	若
+櫇	po2	[櫇櫇]果子名	None	None
+𣚟	se4	木茂盛貌	None	None
+櫂	zhao4	同=棹 1.船桨 2.借指船 3.划（船）；摇	None	棹
+櫂	di4	木枝直上貌	None	None
+櫂	di4	盂	None	None
+櫈	None	同=凳	None	凳
+⿱維木	None	同=䌖	None	䌖
+檰	mian2	木名，即杜仲 杜仲科，落叶乔木 树皮折断牵拉，露出细丝 叶互生，长椭圆状卵形，有锯齿 果实周围有翅，全形扁平，长椭圆状 树皮、叶和果实所含的杜仲胶绝缘性强，为重要工业原料 皮可入药	None	None
+檵	ji4	[枸檵]木名，即枸=杞	None	杞
+檵	ji4	坚木	None	None
+櫘	None	同=槥	None	槥
+𣞝	zhuang1	掘 ……按：……疑为=樁的繁化俗字	None	樁
+𣞜	cou4	木名	None	None
+𣞤	wu2	茂盛；茂密 后作=蕪	None	蕪
+𣞤	wu2	没有 后作=無	None	無
+𣞶	None	同=檋	None	檋
+櫕	None	同=欑	None	欑
+㰇	None	同=櫼	None	櫼
+𣞙	sang3	鼓框木	None	None
+櫝	du2	函匣、柜一类的收藏用具 如：买椟还珠	None	None
+櫝	du2	放入椟中（收藏）	None	None
+櫝	du2	盛饭菜的食盒	None	None
+櫝	du2	木枕	None	None
+櫝	du2	小棺	None	None
+櫝	du2	木名，即樚木	None	None
+𧃹	None	同=鞢	None	鞢
+𣞔	tan4	木名	None	None
+櫵	None	同樵	None	None
+𣞸	None	同=檣	None	檣
+𣞖	None	同=蔡	None	蔡
+𣞱	None	同=檣	None	檣
+⿱林𢉖	None	同=麓	None	麓
+𣞒	fu1	[𣞒檻]木名	None	None
 㰆	None	录入中	None	None
 櫜	None	录入中	None	None
 櫏	None	录入中	None	None
