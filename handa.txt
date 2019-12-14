@@ -30324,26 +30324,35 @@
 㮹	zhi3	柠㮹	None	None
 𣖭	zhi2	[㮑𣖭]甲你“㮑”	None	None
 槕	None	同=桌	None	桌
-𣗴	None	同=直	None	直
-𣖪	None	录入中	None	None
-𣖳	None	录入中	None	None
-槛	None	录入中	None	None
-𣗋	None	录入中	None	None
-榯	None	录入中	None	None
-㮿	None	录入中	None	None
-榥	None	录入中	None	None
-榻	None	录入中	None	None
-㮨	None	录入中	None	None
-𣗼	None	录入中	None	None
-槑	None	录入中	None	None
-𣖮	None	录入中	None	None
-㮯	None	录入中	None	None
-榿	None	录入中	None	None
-𣗵	None	录入中	None	None
-𣗶	None	录入中	None	None
-𣖱	None	录入中	None	None
-𣖯	None	录入中	None	None
-𣖰	None	录入中	None	None
+⿱𠧴木	None	同=直	None	直
+𣗴	None	同=栗	None	栗
+𣖪	qu2	[𣖪𣖹]也作“=淭挐”、“=渠挐” 农具名，即杷	None	淭
+𣖳	qian2	斫木砧	None	None
+𣖳	qian2	廩	None	None
+槛	None	=檻的简化字	None	檻
+𣗋	None	=欓的类推简化字	None	欓
+榯	shi2	木竹直立貌	None	None
+榯	shi2	落榯，支持门枢的木头	None	None
+㮿	bi4	木名	None	None
+榥	huang3	读书床	None	None
+榥	huang3	帷屏之属 也指窗櫺	None	None
+榻	ta4	长狭而低的坐卧用具	None	None
+榻	ta4	几案	None	None
+榻	ta4	用同=搨 摹印；描摹	None	搨
+㮨	ji4	木名，即水松 杉科，落叶小乔木 叶二型，有冬芽的小枝具鳞形叶，冬季宿存；侧生小枝具条状钻形叶，两侧扁，常排列成羽状，冬季脱落 球果倒卵圆形 为我国特产植物 性喜水湿，常生河畔池边 木材耐水湿，可作桥梁等用 根材轻松，浮力大，可为救生具、木塞和斗笠，枝叶入药；球果、树皮可提栲胶，球果还可作染料	None	None
+𣗼	None	人名用字	None	None
+槑	None	同=梅	None	梅
+𣖮	ang4	[𣖮椿]木名	None	None
+㮯	hun2	没劈开的木薪	None	None
+㮯	hun2	完整 也指笼统	None	None
+㮯	hua2	木名	None	None
+榿	qi1	木名 桤木 桦木科，落叶乔木 叶长椭圆形，边缘有稀疏锯齿 木质坚韧，生长甚速，易于成林 可制器具、农具和建筑材料，或作染料 嫩叶可以作茶叶的代用品	None	None
+𣗵	gang1	同=掆 举；抬	None	掆
+𣗵	gang1	同=剛	None	剛
+𣗶	ta4	[榙𣗶]见“榙”	None	None
+𣖱	zui1	同=樶 木节	None	樶
+𣖯	qin4	同=䈜 用墨汁蘸笔	None	䈜
+𣖰	pi2	木名 ……按：……疑为=𣓋的俗字	None	𣓋
 樤	None	录入中	None	None
 樇	None	录入中	None	None
 榫	None	录入中	None	None
