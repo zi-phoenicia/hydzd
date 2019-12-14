@@ -29212,32 +29212,71 @@
 梘	jian4	栓	None	None
 梘	jian4	棺盖	None	None
 𣒨	None	同=根	None	根
-梩	None	录入中	None	None
-梬	None	录入中	None	None
-梱	None	录入中	None	None
-梋	None	录入中	None	None
-梙	None	录入中	None	None
-𣒌	None	录入中	None	None
-㭭	None	录入中	None	None
-𣒈	None	录入中	None	None
-梣	None	录入中	None	None
-梤	None	录入中	None	None
-𣒩	None	录入中	None	None
-𣒪	None	录入中	None	None
-𣒻	None	录入中	None	None
-梏	None	录入中	None	None
-梸	None	录入中	None	None
-梨	None	录入中	None	None
-𣒇	None	录入中	None	None
-𣒰	None	录入中	None	None
-𣒀	None	录入中	None	None
-梅	None	录入中	None	None
-𣒫	None	录入中	None	None
-梹	None	录入中	None	None
-𣒼	None	录入中	None	None
-梍	None	录入中	None	None
-梟	None	录入中	None	None
-梎	None	录入中	None	None
+梩	si1	同=㭒(耜) 锹、锸一类的挖土农具	None	㭒
+梩	qi3	同=杞	None	杞
+梬	ying3	果木名 梬枣，也叫桾櫏，即黑枣	None	None
+梱	kun3	同=閫 门橛，门限	None	閫
+梱	kun3	扣，敲击	None	None
+梱	kun3	至	None	None
+梱	kun3	使等齐	None	None
+梱	hun2	同=㮯 未劈开的大木头	None	㮯
+梋	xuan1	碗一类的器皿	None	None
+梋	xuan1	木名	None	None
+梋	xuan1	圌	None	None
+梋	xuan1	制作规的模子	None	None
+梋	juan1	车环	None	None
+梋	xie2	[柃梋]烧麦具	None	None
+梙	None	同=槵	None	槵
+𣒌	None	=楇的类推简化字	None	楇
+⿰木⿱口丑	None	同=㮲	None	㮲
+㭭	ba1	木名	None	None
+㭭	ba1	同=朳 1.𡊅具，也作扫除之用 2.无齿耙	None	朳
+㭭	bei4	契券	None	None
+㭭	bie1	古代兵器的柄	None	None
+𣒈	None	同=枉	None	枉
+梣	chen2	木名 也叫白蜡树 木犀科 落叶乔木 木材坚韧，供制家具、农具、车辆等用 枝条可编筐，树皮称“秦皮”，中医学上用为清热药 树可放养白蜡虫以取白蜡，又为固沙树种	None	None
+梤	fen2	香木	None	None
+𣒩	None	同=㭼	None	㭼
+𣒪	None	同=𣓗	None	𣓗
+𣒻	None	=𥙰的讹字	None	𥙰
+梏	gu4	刑具名，手铐	None	None
+梏	gu4	戴上手铐 也泛指械系；拘系	None	None
+梏	gu4	为了防牛触人而套在牛角上的横木	None	None
+梏	gu4	打	None	None
+梏	gu4	通=攪(jiao3) 搅扰	None	攪
+梏	jue2	通=覺 高大；正直	None	覺
+梸	None	同=梨	None	梨
+梨	None	同=棃	None	棃
+𣒇	tu1	杖指 也作=𢬳	None	𢬳
+𣒰	None	同=栴	None	栴
+𣒀	None	同=㯀	None	㯀
+梅	mei2	柟，即楠	None	None
+梅	mei2	果木名 蔷薇科，落叶乔木，也少有灌木 早春开花，后生叶芽 花以白色、淡红色为主 气味清香 核果近球形，未熟时为青色，成熟后一般呈黄色，味极酸 果实可生食，也可以制成蜜饯和果酱等 未熟果加工成乌梅，供药用，花供观赏 木质坚实，可作器物	None	None
+梅	mei2	梅树的果实称酸果，即酸梅子	None	None
+梅	mei2	梅树的花 也指腊梅科的腊梅花	None	None
+梅	mei2	悲酸貌	None	None
+梅	mei2	节侯名 初夏时节，江、淮流域的雨季较长，正值梅子黄熟时期，古称这一时期为“梅”或“梅雨时节” 又因这时空气潮湿，器物易霉，故又称“梅雨时节” 又因这时空气潮湿，器物易霉，故又称“霉雨时节”	None	None
+梅	mei2	商代国名 故城在今安徽省亳州市南	None	None
+梅	mei2	古州名 北宋置，治今广东省梅州市	None	None
+梅	mei2	姓	None	None
+𣒫	None	同=梅	None	梅
+梹	bing1	[梹榔]同“=檳榔”	None	檳
+𣒼	tiao2	同=條 山楸	None	條
+⿰木皁	None	同=梍	None	梍
+梍	zao4	木名，即皂荚树 落叶乔木 枝上有刺，羽状复叶，小叶卵形或长圆形 总状花序，花淡黄色 结荚果，扁平，褐色，可用以洗衣物 刺、荚果和树皮可入药	None	None
+梍	zao4	同=皁 栎实	None	皁
+梟	xiao1	鸟纲鸱鸮科各种鸟的泛称 也作=鴞 即猫头鹰	None	鴞
+梟	xiao1	豪雄；不驯顺	None	None
+梟	xiao1	魁首，首领	None	None
+梟	xiao1	旧时指私贩食盐的人	None	None
+梟	xiao1	斩；悬头示众	None	None
+梟	xiao1	山顶	None	None
+梟	xiao1	古代博戏樗蒲的彩名，么为枭，得么者胜	None	None
+梟	xiao1	等；级	None	None
+梟	xiao1	通=撓(nao2) 淆乱	None	撓
+梟	xiao1	姓	None	None
+梎	ao1	[梎柌]镰柄	None	None
+梎	you4	木名	None	None
 梔	None	录入中	None	None
 𣒃	None	录入中	None	None
 梌	None	录入中	None	None
