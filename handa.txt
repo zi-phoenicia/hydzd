@@ -31257,44 +31257,89 @@
 𣛽	zha4	木名	None	None
 𣜀	None	同=樾	None	樾
 𣜤	None	同=梭	None	梭
-櫛	None	录入中	None	None
-𣝑	None	录入中	None	None
-𦦗	None	录入中	None	None
-檓	None	录入中	None	None
-𣛻	None	录入中	None	None
-櫆	None	录入中	None	None
-檄	None	录入中	None	None
-𣜥	None	录入中	None	None
-𣜈	None	录入中	None	None
-檢	None	录入中	None	None
-檜	None	录入中	None	None
-𣜬	None	录入中	None	None
-㯶	None	录入中	None	None
-𣝗	None	录入中	None	None
-檐	None	录入中	None	None
-檞	None	录入中	None	None
-㯯	None	录入中	None	None
-𣛶	None	录入中	None	None
-檩	None	录入中	None	None
-檀	None	录入中	None	None
-檁	None	录入中	None	None
-檍	None	录入中	None	None
-𣝂	None	录入中	None	None
-檥	None	录入中	None	None
-𣜆	None	录入中	None	None
-檨	None	录入中	None	None
-𣜭	None	录入中	None	None
-𣜃	None	录入中	None	None
-檆	None	录入中	None	None
-𣜧	None	录入中	None	None
-𣛱	None	录入中	None	None
-橚	None	录入中	None	None
-檘	None	录入中	None	None
-檗	None	录入中	None	None
-𣜨	None	录入中	None	None
-𣛿	None	录入中	None	None
-𣜹	None	录入中	None	None
-檯	None	录入中	None	None
+櫛	zhi4	梳篦的总称	None	None
+櫛	zhi4	梳理头发	None	None
+櫛	zhi4	清除	None	None
+櫛	zhi4	烛末，烛将燃尽处	None	None
+𣝑	yu4	抬运食物的器具	None	None
+𣝑	yu2	竹子编成的舆床	None	None
+𦦗	jiang1	木	None	None
+檓	hui3	花椒的别名	None	None
+𣛻	die2	屋笮板	None	None
+櫆	kui2	同=魁 汤匙	None	魁
+檄	xi2	古代官方用来征召、晓喻或声讨的文书	None	None
+檄	xi2	以文书征召、声讨、晓喻等曰檄	None	None
+檄	xi2	树高削无旁枝	None	None
+𣜥	None	同=檄	None	檄
+𣜈	None	同=秦	None	秦
+檢	jian3	古代封书题签	None	None
+檢	jian3	法度	None	None
+檢	jian3	品行；节操	None	None
+檢	jian3	约束；限制	None	None
+檢	jian3	考查；察验	None	None
+檢	jian3	文书草稿	None	None
+檢	jian3	拣，挑选	None	None
+檢	jian3	拾取	None	None
+檢	jian3	扰	None	None
+檢	jian3	等同；齐比	None	None
+檢	jian3	姓	None	None
+檜	gui4	木名，即圆柏 一名“栝”，也叫“桧柏” 柏科，常绿乔木，高可达二十米 树冠圆锥形 叶有鳞形和刺形两种 雌雄异株，有的同株 寿命长达数百年 木材淡黄褐色至红褐色，细致坚实，有芳香，耐腐，供建筑及制家具工艺品等用 枝叶可入药，根、干、枝叶可提挥发油，种子可提润滑油	None	None
+檜	gui4	古代棺材盖上的装饰	None	None
+檜	gui4	古国名 也作=鄶 在今河南省新密市东南	None	鄶
+檜	hui4	人名用字 秦桧，南宋奸臣	None	None
+𣜬	ai4	人名用字	None	None
+㯶	None	同=椶	None	椶
+𣝗	hu2	同=核 果核	None	核
+檐	yan2	屋顶向旁伸出的边沿部分 如：屋檐；房檐；廊檐	None	None
+檐	yan2	檐下的平台	None	None
+檐	yan2	某些器物四边冒出状似屋檐的部分 如：帽檐	None	None
+檐	dan4	同=擔 1.担子，挑子 2.扁担 3.量词	None	擔
+檐	dan4	肩舆之类	None	None
+檐	dan1	同=擔 举；负荷；肩挑	None	擔
+檞	jie3	木名 松樠	None	None
+㯯	gong4	同=㔶 小杯	None	㔶
+㯯	gong4	格木	None	None
+㯯	dan3	箱子一类的东西	None	None
+㯯	ju4	[㯯盨]顶在头上用以盛物的器具	None	None
+𣛶	sha1	同=榝 茱萸	None	榝
+檩	lin3	架在房梁上托住椽子的横木 也称桁条、檩条	None	None
+檀	tan2	木名 古书中称檀的木很多，时无定指 常指豆科的黄檀，落叶乔木，木材坚韧，可制车辆和用具等 豆科的紫檀，常绿大乔木，木材红棕色，通称“红木”，坚重细致，可制优良家具及乐器等，树脂和木材削片和锉末入药，治疮毒 榆科的青檀，落叶乔木，木材坚硬，纹理直，结构细，可作建筑和器具用材，树皮为制造宣纸的主要原料	None	None
+檀	tan2	木名 “栴檀”的简称，即檀香	None	None
+檀	tan2	浅绛色，或浅赭色	None	None
+檀	tan2	器具名	None	None
+檀	tan2	台名	None	None
+檀	tan2	姓	None	None
+檀	shan4	人名用字	None	None
+檁	None	同=檩	None	檩
+檍	yi4	木名，俗称万年木 木质坚致，可作车、弓材	None	None
+𣝂	hun2	木名	None	None
+檥	yi3	立木以表物	None	None
+檥	yi3	同=艤 使船靠岸	None	艤
+檥	yi3	木名	None	None
+𣜆	None	同=橏	None	橏
+檨	None	同=檨	None	檨
+⿰木数	None	=櫢的类推简化字	None	櫢
+𣜭	jian3	同=翦 砍伐	None	翦
+𣜃	None	=槱的讹字	None	槱
+檆	None	同=杉	None	杉
+𣜧	qiong2	博子	None	None
+𣛱	dan3	木名	None	None
+𣛱	lan3	[橄𣛱]即“橄=欖” 果名	None	欖
+⿰木䀄	None	同=樒	None	樒
+橚	su4	木长貌	None	None
+橚	su4	木名	None	None
+橚	xiao1	[橚槮]也作“=櫹槮” 见“櫹”	None	櫹
+橚	qiu1	同=楸 木名，即楸树	None	楸
+檘	ping2	同=枰 枰仲木名	None	枰
+檘	bo4	同=檗	None	檗
+檗	bo4	木名，即黄檗 也称“黄=柏”、“檗木”、“黄柀椤” 芸香科，落叶乔木 树皮厚，软木质，深纵裂 木材坚硬，供作建筑、航空器材、细木工等用 茎可制黄色染料，树皮可制软木，亦可入药	None	柏
+檗	bi4	槃	None	None
+𣜨	juan4	履缝饰	None	None
+𣜨	juan4	缘编	None	None
+𣛿	None	同=櫲	None	櫲
+𣜹	ti4	选蚕换箔	None	None
+檯	tai2	木名	None	None
+檯	tai2	桌类 如：写字台；工作台	None	None
 𣝔	None	录入中	None	None
 檮	None	录入中	None	None
 𣝷	None	录入中	None	None
