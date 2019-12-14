@@ -30673,15 +30673,19 @@
 槬	hua4	（钟）横大；宽大	None	None
 樉	shuang3	木名	None	None
 樉	shuang3	木茂貌	None	None
-𣙴	None	录入中	None	None
-樗	None	录入中	None	None
-㯇	None	录入中	None	None
-樐	None	录入中	None	None
-𣚛	None	录入中	None	None
-樝	None	录入中	None	None
-𣘭	None	录入中	None	None
-㯉	None	录入中	None	None
-樘	None	录入中	None	None
+𣙴	jie2	细枝	None	None
+樗	chu1	木名，即臭椿 苦木科，落叶乔木 抗旱性较强，耐烟尘，生长快，为工矿区较适宜的绿化树之一 木材粗硬，不耐水湿，可供胶合板、建筑、造纸用，根皮可入药	None	None
+樗	chu1	古代博戏樗蒲的简称	None	None
+樗	chu1	姓	None	None
+㯇	None	同=梐	None	梐
+樐	None	同=櫓	None	櫓
+𣚛	None	同=𧇽(虡)	None	𧇽
+樝	zha1	果木名，即山楂 后作=楂	None	楂
+𣘭	None	同=柙	None	柙
+㯉	None	同=檴	None	檴
+樘	cheng1	同=撐 支柱 支撑	None	撐
+樘	tang2	车樘	None	None
+樘	tang2	门、窗框 如：门樘；窗樘 又作量词 如：称一副门框、门扇和一副窗框、窗扇为一樘	None	None
 𣙟	None	录入中	None	None
 𣘥	None	录入中	None	None
 樓	None	录入中	None	None
