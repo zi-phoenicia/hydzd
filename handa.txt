@@ -29412,13 +29412,24 @@
 棈	qian4	木名	None	None
 𬃀	None	=槻的类推简化字	None	槻
 𣓁	None	同=栞	None	栞
-㮇	None	录入中	None	None
-棖	None	录入中	None	None
-𣓇	None	录入中	None	None
-𣔘	None	录入中	None	None
-𣔮	None	录入中	None	None
-楮	None	录入中	None	None
-𣔭	None	录入中	None	None
+㮇	tian4	同=栝 拨火棍；木棍	None	栝
+㮇	tian4	古式板门上的柱形部件，有立㮇，拨㮇	None	None
+棖	cheng2	斜柱；木柱	None	None
+棖	cheng2	古时门两旁所竖的木柱	None	None
+棖	cheng2	支撑 也作=𣥺	None	𣥺
+棖	cheng2	触动	None	None
+棖	cheng2	用同=橙 国名	None	橙
+棖	cheng2	姓	None	None
+棖	chang2	人名用字	None	None
+𣓇	None	同=栔(契)	None	栔
+𣔘	qi4	同=契 刻	None	契
+𣔮	zai1	同=栽	None	栽
+楮	chu3	木名，即“構”	None	None
+楮	chu3	纸的代称	None	None
+楮	chu3	纸币 宋、金、元时发行的纸币，多用楮皮纸制成，故名 也叫“楮币”、“楮券”	None	None
+楮	chu3	姓	None	None
+楮	zhu1	同=櫧 木名	None	櫧
+𣔭	None	=掘的讹字	None	掘
 棱	None	录入中	None	None
 𣓘	None	录入中	None	None
 椏	None	录入中	None	None
