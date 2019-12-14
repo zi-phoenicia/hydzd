@@ -30686,9 +30686,17 @@
 樘	cheng1	同=撐 支柱 支撑	None	撐
 樘	tang2	车樘	None	None
 樘	tang2	门、窗框 如：门樘；窗樘 又作量词 如：称一副门框、门扇和一副窗框、窗扇为一樘	None	None
-𣙟	None	录入中	None	None
-𣘥	None	录入中	None	None
-樓	None	录入中	None	None
+𣙟	tang2	[𣙟棣]同“=棠棣”	None	棠
+𣘥	bi4	木名	None	None
+樓	lou2	两层以上的房屋，楼房	None	None
+樓	lou2	指楼房的一层 如：一层楼（平地的一层）；二楼	None	None
+樓	lou2	房间上部空间附设的可供藏物或住人的分层结构 如：暗楼；阁楼	None	None
+樓	lou2	建筑物的上层部分或上层结构	None	None
+樓	lou2	有上层的车船，其上层也叫楼	None	None
+樓	lou2	古代指筑成的狭而修曲的土台	None	None
+樓	lou2	茶肆、酒店、妓院等场所也称楼	None	None
+樓	lou2	姓	None	None
+樓	lv2	[離樓]参差貌	None	None
 槾	None	录入中	None	None
 𣚣	None	录入中	None	None
 𣙳	None	录入中	None	None
