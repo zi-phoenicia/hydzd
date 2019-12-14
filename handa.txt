@@ -29526,9 +29526,13 @@
 𥒯	None	同=煉	None	煉
 㮋	None	同=栯	None	栯
 㮈	None	同=㮏	None	㮏
-椅	None	录入中	None	None
-㭺	None	录入中	None	None
-𣔏	None	录入中	None	None
+椅	yi1	木名 即山桐子，大风子科，落叶乔木 果实为浆果，球形，红色 木材可制小家具 种子可榨油制肥皂或作润滑油	None	None
+椅	yi3	[椅柅]木弱貌	None	None
+椅	yi3	有靠背的坐具 如：藤椅；躺椅	None	None
+㭺	yan3	果木名 即柰，海棠果	None	None
+㭺	yan4	[㭺𣟺]木名	None	None
+㭺	an1	同=𣚖 木名	None	𣚖
+𣔏	None	同=枿	None	枿
 椓	None	录入中	None	None
 𣓉	None	录入中	None	None
 棲	None	录入中	None	None
