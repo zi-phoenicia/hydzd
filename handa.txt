@@ -31085,22 +31085,34 @@
 𣚌	shi4	木名	None	None
 𣚂	None	同=檹	None	檹
 㯙	zhe2	枣	None	None
-橀	None	录入中	None	None
-橏	None	录入中	None	None
-檨	None	录入中	None	None
-橉	None	录入中	None	None
-樽	None	录入中	None	None
-橂	None	录入中	None	None
-檤	None	录入中	None	None
-𣜦	None	录入中	None	None
-𣛙	None	录入中	None	None
-𣚞	None	录入中	None	None
-𪳸	None	录入中	None	None
-檖	None	录入中	None	None
-橧	None	录入中	None	None
-橩	None	录入中	None	None
-橯	None	录入中	None	None
-𣚘	None	录入中	None	None
+橀	xi1	[榽橀]见“榽”	None	None
+橏	zhan3	木名	None	None
+橏	zhan3	木瘤	None	None
+橏	jian3	[橏榐]树长貌	None	None
+檨	she1	果木名，即杧果	None	None
+橉	lin4	木名 一名橝 橉筋木，树高达，质坚硬，可供染绛色，叶可酿酒	None	None
+橉	lin4	树皮	None	None
+橉	lin4	门槛	None	None
+樽	zun1	盛酒器	None	None
+樽	zun1	林木茂盛的样子	None	None
+樽	zun1	通=撙(zun3) 抑止	None	撙
+橂	dian4	木理坚密	None	None
+檤	dao4	木名	None	None
+𣜦	None	同=檤	None	檤
+𣛙	None	同=藥	None	藥
+𣚞	None	=檐的讹字	None	檐
+𪳸	None	同=𡑻	None	𡑻
+檖	sui4	木名，即山梨 果子似梨而小，可食	None	None
+檖	sui4	顺	None	None
+檖	sui4	通=邃 深邃	None	邃
+⿰木𠔥	None	同=槏	None	槏
+橧	zeng1	聚集柴木以为居处	None	None
+橧	ceng2	猪圈及猪睡的垫草	None	None
+橩	qiong2	木名	None	None
+橩	qiong2	古代博戏樗蒲的骰子	None	None
+橯	None	同=耮	None	耮
+𣚘	yi4	骏马名 相传为周穆王八骏之一	None	None
+⿰木⿱穴伯	None	同=摍	None	摍
 橣	None	录入中	None	None
 𣚩	None	录入中	None	None
 𣛚	None	录入中	None	None
