@@ -29654,17 +29654,35 @@
 棃	li2	姓	None	None
 㮃	wei1	农具	None	None
 㮃	rui2	同=桵 木名	None	桵
-棅	None	录入中	None	None
-楰	None	录入中	None	None
-棿	None	录入中	None	None
-椎	None	录入中	None	None
-㮅	None	录入中	None	None
-𣓛	None	录入中	None	None
-棉	None	录入中	None	None
-椑	None	录入中	None	None
-𣖐	None	录入中	None	None
-𣓡	None	录入中	None	None
-𣔬	None	录入中	None	None
+棅	None	同=柄	None	柄
+楰	yu2	木名 鼠梓，楸的一种，一名苦楸	None	None
+棿	ni2	同=輗 大车车杠前端与车衡衔接处的关键	None	輗
+棿	ni2	通=掜(ni3) 比拟	None	掜
+棿	nie4	[杌棿]不安	None	None
+椎	chui2	捶击的器具 后作=槌	None	槌
+椎	chui2	敲打 后作=捶	None	捶
+椎	chui2	朴实；迟钝	None	None
+椎	chui2	秃头	None	None
+椎	chui2	同=錘	None	錘
+椎	zhui1	木名	None	None
+椎	zhui1	椎骨 如：颈椎；胸椎；腰椎	None	None
+㮅	zhui1	木名	None	None
+𣓛	you4	木名	None	None
+棉	mian2	木棉，也叫“攀枝花”、“英雄树” 落叶乔木，花红色 种子表皮有许多白色纤维，可用于装枕头、垫褥等	None	None
+棉	mian2	棉属植物的泛称 我国古称“古终籐” 锦葵科，一年生或多年生草本或灌木 种类很多，其中以陆地棉在我国栽培最广 纤维可纺织或作棉絮 棉籽可榨油供食用或工业用，油粕可作饲料或肥料 棉籽绒是制造火药和塑料的重要原料 茎的韧皮纤维可制绳索和造纸 如：棉田；植棉能手	None	None
+棉	mian2	棉花，即棉桃中的纤维；棉絮 如：棉纱；棉衣；棉被	None	None
+棉	mian2	绵薄；微薄	None	None
+棉	mian2	屋檐	None	None
+椑	pi2	古代一种扁圆形的盛酒器	None	None
+椑	pi2	斧柄；椭圆形的柄	None	None
+椑	bei1	果木名 柿的一种 熟果青黑色，可生食，汁可染	None	None
+椑	bei1	木名 即鼠李 鼠李科，小乔木或灌木 树皮暗灰褐色 叶有长柄，长圆状卵形或阔倒披针形 核果球形，成熟时黑紫色 种子卵形，背面有沟 种子油可作润滑油 果肉、根、皮可入药 茎皮和叶可提取栲胶 树皮和果可作黄色染料 木材坚实，可制家具，供雕刻	None	None
+椑	bei1	汉县名，属琅玡郡，故城在今山东省莒县南	None	None
+椑	bi4	内棺，最里面的一层棺	None	None
+椑	pai2	籍	None	None
+𣖐	pai1	[𣖐撻]即=拍撻，田垅被暴雨拍平	None	拍
+𣓡	None	同=綱	None	綱
+𣔬	pi2	同=椑 古代一种椭圆形的盛酒器	None	椑
 𣔙	None	录入中	None	None
 𣔓	None	录入中	None	None
 棆	None	录入中	None	None
