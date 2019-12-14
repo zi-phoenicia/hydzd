@@ -31181,52 +31181,76 @@
 檴	hua4	同=樺 桦木	None	樺
 𣟀	peng4	草木盛貌	None	None
 𣝏	gao4	苦木名	None	None
-𣝸	None	录入中	None	None
-𣝈	None	录入中	None	None
-檬	None	录入中	None	None
-檊	None	录入中	None	None
-㯲	None	录入中	None	None
-檚	None	录入中	None	None
-𣝹	None	录入中	None	None
-檣	None	录入中	None	None
-𣛺	None	录入中	None	None
-㯃	None	录入中	None	None
-𣜪	None	录入中	None	None
-𣜺	None	录入中	None	None
-檕	None	录入中	None	None
-橿	None	录入中	None	None
-㯱	None	录入中	None	None
-𣝐	None	录入中	None	None
-檦	None	录入中	None	None
-檟	None	录入中	None	None
-𣜇	None	录入中	None	None
-𣛴	None	录入中	None	None
-𣝚	None	录入中	None	None
-𣜡	None	录入中	None	None
-檑	None	录入中	None	None
-𣛲	None	录入中	None	None
-㯪	None	录入中	None	None
-𣝽	None	录入中	None	None
-𣛷	None	录入中	None	None
-檅	None	录入中	None	None
-𣚁	None	录入中	None	None
-𣚀	None	录入中	None	None
-𣛼	None	录入中	None	None
-㯫	None	录入中	None	None
-𣝛	None	录入中	None	None
-㯭	None	录入中	None	None
-檏	None	录入中	None	None
-檔	None	录入中	None	None
-𣛸	None	录入中	None	None
-𣜢	None	录入中	None	None
-㯝	None	录入中	None	None
-檂	None	录入中	None	None
-橾	None	录入中	None	None
-𣜣	None	录入中	None	None
-檡	None	录入中	None	None
-㯰	None	录入中	None	None
-檈	None	录入中	None	None
-檌	None	录入中	None	None
+𣝸	chui4	@	None	None
+𣝈	lian2	草木疏貌	None	None
+檬	meng2	木名	None	None
+檊	gan4	同=杆 柘树 一说檀木	None	杆
+㯲	jin4	竹木格 一说用以扞门	None	None
+檚	None	同=楚	None	楚
+𣝹	None	同=麓	None	麓
+檣	qiang2	船帆柱，即桅杆	None	None
+檣	qiang2	边；壁	None	None
+𣛺	qi1	木名 可以作杖	None	None
+𣙉	None	同=㯃	None	㯃
+𣜪	None	同=樉	None	樉
+𣜺	wen2	木威	None	None
+檕	ji4	[檕梅]山楂的别名	None	None
+檕	ji4	桔槔的横木 一端系重物，一端系水桶，可以上下，也可以转动，用以取物	None	None
+橿	jiang1	木名，即檍	None	None
+橿	jiang1	锄柄	None	None
+⿰木赖	None	=櫴的类推简化字	None	櫴
+㯱	pao1	囊张大貌	None	None
+㯱	pao1	包裹	None	None
+𣝐	piao2	櫜	None	None
+檦	biao3	=表	None	表
+檦	biao3	柱类	None	None
+檟	jia3	木名，即楸	None	None
+檟	jia3	茶树；茶	None	None
+𣜇	ji2	木名，即柽	None	None
+𣛴	han3	木裂貌	None	None
+𣝚	lie4	木疏貌	None	None
+𣜡	None	同=欚	None	欚
+檑	lei2	木名	None	None
+檑	lei4	檑木，古代作战从高处推下打击敌人的大木	None	None
+檑	lei4	同=礧 自高处推石下击	None	礧
+𣛲	None	同=㯉	None	㯉
+㯪	None	同=櫺	None	櫺
+𣝽	han1	节约	None	None
+𣛷	zhan3	木名	None	None
+檅	None	同=槥	None	槥
+𣚁	zi1	[𣚁欈]木名	None	None
+𣚀	zi1	[𣚀欈]同“=𣚁欈”	None	𣚁
+𣛼	None	同=𣟵	None	𣟵
+㯫	qu2	藩篱	None	None
+𣝛	None	同=虡	None	虡
+㯭	None	同=櫓	None	櫓
+檏	None	同=樸	None	樸
+檔	dang1	床	None	None
+檔	dang1	木名	None	None
+檔	dang4	横木的框格 如：框档；床档	None	None
+檔	dang4	存放公文案卷的橱架 如：归档；存档	None	None
+檔	dang4	档案 如：查档	None	None
+檔	dang4	货物的等第 如：高档商品；低档货	None	None
+檔	dang4	方言 水手	None	None
+檔	dang4	方言 （时间或空间上的）空隙 如：空档；缺档；填档	None	None
+檔	dang4	方言 件；桩；批 如：来了一档人；几档子事儿一齐来；可把我忙坏了	None	None
+檔	dang4	指曲艺杂技表演一个节目 如：先听一档大鼓，再看一档戏法儿	None	None
+𣛸	ze2	木名	None	None
+𣜢	luo3	@	None	None
+㯝	lu4	木名，即桐	None	None
+檂	nong2	木名	None	None
+檂	nong2	木盛密貌	None	None
+橾	shu1	车毂中贯轴的空腔	None	None
+橾	qiao1	同=鍬 铁锹	None	鍬
+橾	sao1	[櫹橾]木长貌	None	None
+𣜣	qin2	掘	None	None
+檡	zhai2	木名 檡棘 其木理细密而坚韧，古代用以制作射箭的扳指	None	None
+檡	shi4	果木名 梬枣	None	None
+檡	tu2	[於檡]同“於=菟”	None	菟
+㯰	None	同=植	None	植
+檈	xuan2	古代有足的圆形食物托盘	None	None
+檈	xuan2	以绳转轴裁木为器	None	None
+檌	None	=𢶀的讹字	None	𢶀
 𣝋	None	录入中	None	None
 㯮	None	录入中	None	None
 𣜫	None	录入中	None	None
