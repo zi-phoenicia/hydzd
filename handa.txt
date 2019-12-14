@@ -31369,43 +31369,77 @@
 𣞈	None	同=㯱	None	㯱
 㯻	gun3	束；捆	None	None
 𣝄	None	同=㯛	None	㯛
-檻	None	录入中	None	None
-㯺	None	录入中	None	None
-𣝌	None	录入中	None	None
-㯹	None	录入中	None	None
-櫔	None	录入中	None	None
-𣝓	None	录入中	None	None
-檿	None	录入中	None	None
-𣞀	None	录入中	None	None
-檶	None	录入中	None	None
-檷	None	录入中	None	None
-檽	None	录入中	None	None
-𣜁	None	录入中	None	None
-𣝉	None	录入中	None	None
-𣝇	None	录入中	None	None
-櫚	None	录入中	None	None
-櫊	None	录入中	None	None
-檲	None	录入中	None	None
-𣝞	None	录入中	None	None
-𣝻	None	录入中	None	None
-橆	None	录入中	None	None
-櫄	None	录入中	None	None
-櫡	None	录入中	None	None
-檱	None	录入中	None	None
-𣝕	None	录入中	None	None
-𣝁	None	录入中	None	None
-𣝎	None	录入中	None	None
-𣝃	None	录入中	None	None
-㯷	None	录入中	None	None
-𣝼	None	录入中	None	None
-檭	None	录入中	None	None
-檼	None	录入中	None	None
-𣝊	None	录入中	None	None
-𣝅	None	录入中	None	None
-𣝆	None	录入中	None	None
-檺	None	录入中	None	None
-櫎	None	录入中	None	None
-㰅	None	录入中	None	None
+檻	jian3	关牲畜野兽的栅栏	None	None
+檻	jian3	槛车；囚车	None	None
+檻	jian3	捕捉野兽的机具	None	None
+檻	jian3	禁闭；拘囚	None	None
+檻	jian3	栏杆；栏板	None	None
+檻	jian3	四方加板的船	None	None
+檻	jian3	同=㯺 柜	None	㯺
+檻	jian3	通=濫(lan4)	None	濫
+檻	kan3	门槛；门限	None	None
+㯺	xian4	柜	None	None
+㯺	xian4	同=壏 坚土	None	壏
+㯺	xian4	木藃暴	None	None
+𣝌	jin3	木名	None	None
+㯹	None	=檦的讹字	None	檦
+櫔	li4	木名	None	None
+𣝓	None	同=檿	None	檿
+檿	yan3	木名 檿桑，古称山桑 桑科，落叶乔木 叶互生 实长椭圆形 内皮可作纸，木质坚硬，可制弓或车辕	None	None
+𣞀	None	同=檀	None	檀
+檶	qian1	同=杴 泄水器	None	杴
+檷	ni3	络丝工具 俗名络子	None	None
+檷	ni3	制动器具	None	None
+檷	mi2	[檷枸]山名	None	None
+檽	nou4	木名	None	None
+檽	ruan3	果木名 檽枣，又叫君迁子，即黑枣	None	None
+檽	ruan3	同=䓴 木耳	None	䓴
+檽	ru2	梁上短柱	None	None
+𣜁	ci1	杶	None	None
+𣝉	dui4	车箱	None	None
+𣝇	shuo4	[𣝇虜]县名 西汉富陵县，新莽称𣝇虜县，故址在今江苏省盱眙县东北	None	None
+櫚	lv2	[花櫚]木名 豆科，小乔木 木理细，似紫檀，质坚色赤，有花纹 可作器具或扇骨 根、枝、叶可入药	None	None
+⿰木⿵門𬽪	None	同=檐	None	檐
+櫊	None	同=閣	None	閣
+檲	tuan2	大木	None	None
+𣝞	jiao1	蒜束	None	None
+𣝞	jiao1	束	None	None
+𣝻	None	同=觴	None	觴
+橆	None	同=無	None	無
+櫄	None	同=杶(椿)	None	杶
+櫡	zhuo2	大锄、斧头之类的工具	None	None
+櫡	zhu4	同=箸 筷子	None	箸
+檱	None	同=棋	None	棋
+𣝕	jian1	香木名	None	None
+𣝁	pai2	筏的别名 用竹木编的渡水用具	None	None
+𣝁	bei1	木名 像柿	None	None
+𣝎	yan3	[篕𣝎]也作“篕=棪” 粗竹席	None	棪
+𣝃	None	同=箜	None	箜
+㯷	pu2	御枣	None	None
+㯷	pu2	同=樸 丛生的树木	None	樸
+㯷	pu2	坚	None	None
+㯷	pu2	古县名	None	None
+𣝼	None	同=櫋	None	櫋
+檭	yin2	木名，即银杏，又名白果 银杏科，落叶乔木 其仁可食，也可入药 木材优良，供雕刻、图版、建筑之用	None	None
+檼	yin4	屋栋	None	None
+檼	yin3	同=檃 矫正曲木的器具	None	檃
+𣝊	None	同=欃	None	欃
+𣝅	ai4	木名	None	None
+𣝅	ai4	同=礙 阻碍	None	礙
+𣝅	ai4	门下木	None	None
+𣝅	ai4	外闭	None	None
+𣝆	None	同=擬	None	擬
+檺	gao3	木名	None	None
+櫎	huang3	支搁物品的器具 也特指兵器架	None	None
+櫎	huang3	同=幌 帷幔 也指窗棂	None	幌
+櫎	guang4	同=横 俎跗横木	None	横
+櫎	guang4	价格	None	None
+櫎	gua3	长	None	None
+櫎	gu4	方言 估计	None	None
+㰅	di2	同=樀	None	樀
+㰅	zhe2	同=㭙 蚕箔搁架上的横木	None	㭙
+㰅	zhe2	书橱	None	None
+㰅	zhe2	同=擿 投弃	None	擿
 櫅	None	录入中	None	None
 檹	None	录入中	None	None
 檾	None	录入中	None	None
