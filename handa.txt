@@ -29783,11 +29783,18 @@
 椌	kong1	器物朴	None	None
 椌	kong1	虚	None	None
 𣔛	kang3	方言 盖住	None	None
-椀	None	录入中	None	None
-榔	None	录入中	None	None
-𣓅	None	录入中	None	None
-棙	None	录入中	None	None
-𣓖	None	录入中	None	None
+⿰木⿱宀㕣	None	同=松	None	松
+椀	None	同=盌(碗)	None	盌
+榔	lang2	=桹，槟榔，又桄榔	None	桹
+榔	lang2	同=桹 捕鱼时用以敲船惊鱼的长木条	None	桹
+榔	lang3	木名 即榔榆，也称“脱皮榆”、“小叶榆” 榆科，落叶乔木 木材坚硬致密，可以制车轮、农具、家具等 树皮可作蜡纸及人造棉原料，又可制绳索	None	None
+𣓅	qian3	同=槏	None	槏
+𣓅	qian3	不安	None	None
+棙	li4	机纽	None	None
+棙	li4	弹奏琵琶等的拨子	None	None
+棙	lie4	木名 即南烛 杜鹃花科，落叶小乔木，常为灌木 叶卵形或椭圆形，革质 蒴果近球形 其变种綟木，落叶灌木，叶较薄，果较小 枝叶和果实可入药，有毒	None	None
+棙	lie4	用同=捩 转动	None	捩
+𣓖	None	同=枅	None	枅
 棨	None	录入中	None	None
 椖	None	录入中	None	None
 𣓠	None	录入中	None	None
