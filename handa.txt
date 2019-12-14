@@ -31553,41 +31553,63 @@
 櫓	lu3	比桨长大的划船工具	None	None
 𣞗	liu2	木名，即杙	None	None
 櫧	zhu1	木名，即青椆 壳斗科，常绿乔木 实为坚果，有椀状壳斗，可食 木材不易开裂，弹力强，可供作枕木、车轴、榨油设备等	None	None
-櫥	None	同=檣	None	檣
-櫠	None	录入中	None	None
-𣞐	None	录入中	None	None
-㰂	None	录入中	None	None
-𣞟	None	录入中	None	None
-𣟑	None	录入中	None	None
-櫲	None	录入中	None	None
-𣞵	None	录入中	None	None
-櫞	None	录入中	None	None
-㯿	None	录入中	None	None
-𣟌	None	录入中	None	None
-𣟍	None	录入中	None	None
-㰊	None	录入中	None	None
-𣟶	None	录入中	None	None
-欂	None	录入中	None	None
-櫹	None	录入中	None	None
-櫮	None	录入中	None	None
-𣟈	None	录入中	None	None
-櫴	None	录入中	None	None
-𣟄	None	录入中	None	None
-𣟏	None	录入中	None	None
-㰖	None	录入中	None	None
-櫪	None	录入中	None	None
-㰌	None	录入中	None	None
-㰉	None	录入中	None	None
-㰋	None	录入中	None	None
-櫨	None	录入中	None	None
-櫩	None	录入中	None	None
-𣟳	None	录入中	None	None
-𪴙	None	录入中	None	None
-㰏	None	录入中	None	None
-櫸	None	录入中	None	None
-㰒	None	录入中	None	None
-𣟉	None	录入中	None	None
-櫯	None	录入中	None	None
+⿰木⿸广⿱圭回	None	同=檣	None	檣
+櫥	None	同=橱	None	橱
+櫠	fei4	果木名 柚属	None	None
+𣞐	xie3	案	None	None
+㰂	shen3	木名 其汁可为酒	None	None
+𣞟	chen1	同=縝 纑缕；丝缕	None	縝
+𣟑	liu2	木名	None	None
+櫲	yu4	木名，即“枕” 也作=豫	None	豫
+𣞵	None	同=葚	None	葚
+櫞	yuan2	木名，即枸櫞 又名佛手柑 芸香科，小乔木或大灌木 果实卵形，皮粗厚而有芳香，熟时柠檬黄色，味苦，果供观赏，瓤制枸櫞酸，果皮、花、叶可提芳香油，果皮供药用	None	None
+㯿	lie4	勺柄	None	None
+㯿	lie4	植物名，即紫藤	None	None
+㯿	la4	木名，即水蜡树	None	None
+𣟌	li4	木名 皮可造纸	None	None
+𣟌	li4	收丝筐的柄	None	None
+𣟍	None	同=𣟌	None	𣟌
+㰊	xian2	木名 细叶	None	None
+𣟶	None	同=樵	None	樵
+欂	bo2	斗拱	None	None
+欂	bo2	[欂櫨]壁柱	None	None
+欂	bo2	椽	None	None
+欂	bo2	木名	None	None
+櫹	xiao1	[櫹槮]也作“=橚槮” 1.草木茂盛貌 2.花叶已落，茎独立貌	None	橚
+櫹	qiu1	木名，即=楸	None	楸
+櫹	xiu1	木长貌	None	None
+櫮	e4	花盛貌	None	None
+櫮	e4	同=萼	None	萼
+𣟈	chui4	草名 ……一说=𦺶的讹字	None	𦺶
+櫴	None	同=攋	None	攋
+𣟄	None	同=柝	None	柝
+𣟏	pao1	长大 ……按：……疑是=㯱的讹俗字	None	㯱
+㰖	None	同=欖	None	欖
+櫪	li4	[櫪㯕]古时刑具 即”拶指“	None	None
+櫪	li4	马槽 也指马房	None	None
+櫪	li4	养蚕器，蚕箔	None	None
+櫪	li4	同=櫟 木名	None	櫟
+櫪	li4	用同=瀝	None	瀝
+㰌	None	同=榷	None	榷
+㰉	None	同=榛	None	榛
+㰋	pin2	果木名，即槟榔 也作=檳	None	檳
+㰋	pin2	[㰋婆]果名	None	None
+⿱頻木	None	同=㰋	None	㰋
+櫨	lu2	[櫨橘]果名，也叫甘栌 柑橘的一种	None	None
+櫨	lu2	斗拱	None	None
+櫨	lu2	木名 黄栌木，漆树科，落叶灌木 叶卵形或倒卵形 初夏开花 木材可制器具，兼作黄色染料	None	None
+櫨	lv2	[諸櫨]也作”諸=慮“ 藤名	None	慮
+櫩	yan2	同=檐 1.屋檐 2.檐下的走廊	None	檐
+櫩	yan3	续折木 也作=𢸴	None	𢸴
+𣟳	xuan2	[𣟳味]果木名，枣属	None	None
+⿱⿲木缶木同	None	同=鬱	None	鬱
+𪴙	None	=欑的类推简化字	None	欑
+㰏	None	同=篙	None	篙
+櫸	ju3	木名 榆科，落叶乔木 叶互生，排为二列，椭圆状卵形，单锯齿，羽状脉，有毛 叶、木皮可入药 木材纹理细，坚实而耐水湿，可供造船、建筑、桥梁等用	None	None
+櫸	ju3	木名 枫杨，又叫榉柳 胡桃科，落叶乔木 羽状复叶，互生，叶轴有翅，小叶长椭圆形，有细锯齿，有毒 坚果两侧具长椭圆形斜长的翅 木材轻软，可制箱板、火柴杆、家具等 树皮可取纤维制绳索 种子可榨油 叶的水浸液和粉剂可制农药，苗木可作嫁接胡桃的砧木	None	None
+㰒	xue2	@	None	None
+𣟉	huai4	木名	None	None
+櫯	su1	[櫯枋]木名 可作染料	None	None
 𣟤	None	录入中	None	None
 𣟊	None	录入中	None	None
 𣟎	None	录入中	None	None
