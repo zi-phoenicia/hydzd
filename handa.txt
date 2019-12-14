@@ -31340,26 +31340,35 @@
 𣜹	ti4	选蚕换箔	None	None
 檯	tai2	木名	None	None
 檯	tai2	桌类 如：写字台；工作台	None	None
-𣝔	None	录入中	None	None
-檮	None	录入中	None	None
-𣝷	None	录入中	None	None
-𣝒	None	录入中	None	None
-櫀	None	录入中	None	None
-𣟦	None	录入中	None	None
-𣞕	None	录入中	None	None
-櫙	None	录入中	None	None
-櫗	None	录入中	None	None
-𣞑	None	录入中	None	None
-𣞷	None	录入中	None	None
-櫒	None	录入中	None	None
-𣞓	None	录入中	None	None
-𣝿	None	录入中	None	None
-櫃	None	录入中	None	None
-𣝺	None	录入中	None	None
-㯾	None	录入中	None	None
-𣞈	None	录入中	None	None
-㯻	None	录入中	None	None
-𣝄	None	录入中	None	None
+𣝔	None	同=𣟄(柝)	None	𣟄
+檮	tao2	[檮杌]1.断木 2.传说中的恶兽名 3.传说为远古的恶人“四凶”之一 4.楚史名	None	None
+檮	tao2	通=擣(dao3) 捣碎	None	擣
+檮	chou2	刚木	None	None
+檮	chou2	通=籌 数码	None	籌
+檮	dao4	棺木	None	None
+𣝷	None	同=檮	None	檮
+𣝒	she4	[宜𣝒]神名	None	None
+櫀	None	同=棋	None	棋
+𣟦	zha2	[𦾏𣟦]花叶重叠的样子	None	None
+𣞕	None	同=槸	None	槸
+櫙	ou1	木名，即刺榆	None	None
+櫙	ou1	树木枯死	None	None
+櫗	mie4	木索	None	None
+櫗	mei4	[櫗楔]1.细小貌 2.木不方正	None	None
+𣞑	meng2	同=甍 屋栋	None	甍
+𣞷	None	同=𣚜	None	𣚜
+櫒	se4	同=𣘤 象声词 草木摇动声	None	𣘤
+𣞓	lu4	[𣞓心]柿名	None	None
+𣝿	None	同=檣	None	檣
+櫃	gui4	本指小匣，后泛称收藏衣物文件等的柜子 如：衣柜；钱柜；碗柜；壁柜	None	None
+櫃	gui4	四周高起以蓄水的地方 也指“柜田”，即四周封土以调节水利的田	None	None
+櫃	gui4	柜台；柜房 也只商店 如：掌柜的；现款都交柜了	None	None
+𣝺	None	同=柯	None	柯
+㯾	zao1	木名	None	None
+㯾	zao1	同=槽 果木花实相半	None	槽
+𣞈	None	同=㯱	None	㯱
+㯻	gun3	束；捆	None	None
+𣝄	None	同=㯛	None	㯛
 檻	None	录入中	None	None
 㯺	None	录入中	None	None
 𣝌	None	录入中	None	None
