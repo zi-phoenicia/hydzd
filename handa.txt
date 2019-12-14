@@ -30847,35 +30847,77 @@
 㯍	None	同=槳	None	槳
 槳	jiang3	划船的工具	None	None
 槳	jiang1	柯	None	None
-槢	None	录入中	None	None
-樛	None	录入中	None	None
-槮	None	录入中	None	None
-樌	None	录入中	None	None
-樔	None	录入中	None	None
-樲	None	录入中	None	None
-𣚃	None	录入中	None	None
-𣚒	None	录入中	None	None
-𣛒	None	录入中	None	None
-㯘	None	录入中	None	None
-橈	None	录入中	None	None
-𣚝	None	录入中	None	None
-樾	None	录入中	None	None
-橨	None	录入中	None	None
-樹	None	录入中	None	None
-橽	None	录入中	None	None
-㯛	None	录入中	None	None
-㯦	None	录入中	None	None
-㯕	None	录入中	None	None
-𣚄	None	录入中	None	None
-𣚨	None	录入中	None	None
-𫞐	None	录入中	None	None
-橊	None	录入中	None	None
-𣛳	None	录入中	None	None
-㯳	None	录入中	None	None
-檠	None	录入中	None	None
-檧	None	录入中	None	None
-𣝘	None	录入中	None	None
-𣚅	None	录入中	None	None
+𬄩	None	=櫽的类推简化字	None	櫽
+槢	xi2	木名 坚木	None	None
+槢	xi2	楔，指接合之木	None	None
+槢	die2	柃中栓	None	None
+槢	die2	槛下横木	None	None
+樛	jiu1	树木向下弯曲	None	None
+樛	jiu1	蔓椒	None	None
+樛	jiu1	通=摎 1.绞结 2.求	None	摎
+樛	jiu1	姓	None	None
+樛	liao2	木名	None	None
+槮	sen1	树木高耸貌	None	None
+槮	sen1	同=罧	None	罧
+槮	shen3	木实名	None	None
+⿰木绵	None	=檰的类推简化字	None	檰
+樌	guan4	同=灌 丛生的树木	None	灌
+樔	chao2	泽中守望的草楼	None	None
+樔	chao2	鸟窝 也指未有房屋前人在树上的住处	None	None
+樔	chao1	同=罺 捕鱼用的小网	None	罺
+樔	jiao3	通=劋(剿) 截断	None	劋
+樲	er4	木名 即酸枣	None	None
+樲	zhi4	以木拒轮	None	None
+𣚃	jie2	[𣚃槹]也作“=㮮槹” 汲水具	None	㮮
+𣚒	pa2	木名 即棠	None	None
+𣛒	None	同=𥊨(𥉆)	None	𥊨
+㯘	kuan3	同=梡 1.断木 2.俎名，形有足如案	None	梡
+㯘	kuan3	杼声齐	None	None
+橈	nao2	木头弯曲	None	None
+橈	nao2	弯曲	None	None
+橈	nao2	屈服	None	None
+橈	nao2	屈枉；歪曲	None	None
+橈	nao2	削弱；摧折	None	None
+橈	nao2	柔弱长艳貌	None	None
+橈	nao2	乱；搅乱	None	None
+橈	nao2	古代军法术语 顾望	None	None
+橈	rao2	船桨	None	None
+橈	rao2	榾	None	None
+橈	rao2	通=燿(yao4) 荣	None	燿
+𣚝	wo3	枝下垂	None	None
+樾	yue4	树荫；树间隙地	None	None
+樾	yue4	道旁林荫树	None	None
+橨	fen2	枰仲木的别名	None	None
+橨	fen4	器物的脚	None	None
+橨	fei4	船边木	None	None
+樹	shu4	木本植物的总称	None	None
+樹	shu4	种；植	None	None
+樹	shu4	树立；建立	None	None
+樹	shu4	直竖	None	None
+樹	shu4	门屏；照壁	None	None
+樹	shu4	本干（榦）	None	None
+樹	shu4	床前横木	None	None
+樹	shu4	量词 表示树木的单位，相当于“株”、“棵”	None	None
+樹	shu4	姓	None	None
+橽	ta4	洩水器具	None	None
+㯛	hu2	枣的一种 上锐下胀，大如瓠形	None	None
+㯦	None	同=棊(棋)	None	棊
+㯕	xi1	[櫪㯕]见“櫪”	None	None
+㯕	xi1	[㯅㯕]见“㯅”	None	None
+𣚄	si1	木柴	None	None
+𣚨	None	同=無	None	無
+𫞐	None	同=權	None	權
+橊	None	同=榴	None	榴
+𣛳	None	同=𣔵	None	𣔵
+㯳	None	同=檠	None	檠
+檠	qing2	古代校正弓弩的器具	None	None
+檠	qing2	烛台；灯架	None	None
+檠	qing2	灯	None	None
+檠	qing2	同=擎 举；托	None	擎
+檠	jing4	有脚的盘碟	None	None
+檧	song1	[桶檧]小笼	None	None
+𣝘	None	=𣟀的讹字	None	𣟀
+𣚅	None	同=㭙	None	㭙
 橭	None	录入中	None	None
 㯖	None	录入中	None	None
 樷	None	录入中	None	None
