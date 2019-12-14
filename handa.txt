@@ -30740,12 +30740,32 @@
 𣘛	dou1	木名	None	None
 𣘛	dou1	同=蔸 1.指树木的根和靠近根部的茎 2.量词 相当于“棵”或“丛” 如：一𣘛树；两𣘛白菜；三𣘛禾	None	蔸
 槹	None	同=槔	None	槔
-樂	None	录入中	None	None
-𣘟	None	录入中	None	None
-樬	None	录入中	None	None
-𣘩	None	录入中	None	None
-𣘱	None	录入中	None	None
-樅	None	录入中	None	None
+樂	yue4	音乐	None	None
+樂	yue4	唱；奏	None	None
+樂	yue4	乐器	None	None
+樂	yue4	乐工	None	None
+樂	yue4	指儒家六经中的《乐经》	None	None
+樂	yue4	生	None	None
+樂	yue4	姓	None	None
+樂	le4	喜悦；愉快	None	None
+樂	le4	乐于；安于	None	None
+樂	le4	安乐	None	None
+樂	le4	笑 如：乐得合不上嘴；他说个笑话把大家逗乐了	None	None
+樂	le4	旧指“声色”	None	None
+樂	le4	姓 （与樂yue4不同姓）	None	None
+樂	yao4	喜好	None	None
+樂	luo4	[爆樂]树枝叶稀疏貌 也作“爆=爍”	None	爍
+樂	liao2	通=𤻲(療) 治疗	None	𤻲
+𣘟	qia1	木名 ……一说为=椵的讹字	None	椵
+樬	None	同=棇	None	棇
+⿰木⿳丿⿵冂米丂	None	同=樾	None	樾
+𣘩	None	同=杫	None	杫
+𣘱	None	同=棏	None	棏
+樅	cong1	木名，即冷杉 松科，常绿乔木 皮灰色，老时色褐且生龟裂，易剥落 叶线形，密生，边缘常向内卷；夏月开花，果圆锥形，长三四寸 木材轻软，可作建筑制器及造纸材料 又广东省、湖南省一带读=松如枞 故枞树即指松树	None	松
+樅	cong1	簴上牙	None	None
+樅	cong1	用同=摐(chuang1) 撞击	None	摐
+樅	cong1	姓	None	None
+樅	zong1	[樅陽]地名 汉名枞阳，唐名桐城，今复名枞阳县 在安徽省南部，长江北岸	None	None
 樖	None	录入中	None	None
 樊	None	录入中	None	None
 𣘞	None	录入中	None	None
