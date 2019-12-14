@@ -30178,30 +30178,51 @@
 概	gai4	用同=蓋 压倒；胜过	None	蓋
 概	gui4	杖	None	None
 概	jie2	同=櫭(楬)，小木桩	None	櫭
-㮣	None	录入中	None	None
-椵	None	录入中	None	None
-楃	None	录入中	None	None
-𣕋	None	录入中	None	None
-𣓜	None	录入中	None	None
-椲	None	录入中	None	None
-楣	None	录入中	None	None
-楈	None	录入中	None	None
-𣕐	None	录入中	None	None
-𣕁	None	录入中	None	None
-楹	None	录入中	None	None
-楑	None	录入中	None	None
-𣔽	None	录入中	None	None
-㮻	None	录入中	None	None
-楙	None	录入中	None	None
-楺	None	录入中	None	None
-㮘	None	录入中	None	None
-楘	None	录入中	None	None
-㮗	None	录入中	None	None
-𣕀	None	录入中	None	None
-椽	None	录入中	None	None
-𣖊	None	录入中	None	None
-㮮	None	录入中	None	None
-榛	None	录入中	None	None
+㮣	gai4	同=概	None	概
+㮣	gai4	通=慨 感慨	None	慨
+㮣	gai4	通=溉 洗涤	None	溉
+㮣	gai4	姓	None	None
+椵	jia3	木名 柚类	None	None
+椵	jia1	古时系犬具	None	None
+椵	jia1	同=枷 刑具	None	枷
+楃	wo3	木帐	None	None
+𣕋	None	同=榍	None	榍
+⿰木昬	None	同=棔	None	棔
+𣓜	None	同=梳	None	梳
+椲	wei3	木名	None	None
+椲	hui1	同=楎 钉在墙上作挂衣物用的木橛	None	楎
+楣	mei2	屋檐口椽端的横板	None	None
+楣	mei2	门框上的横木 也叫门楣	None	None
+楣	mei2	房屋的横梁，即二梁	None	None
+楈	xu1	[楈枒]木名，即椰子树	None	None
+楈	xu1	犁	None	None
+𣕐	None	同=桑	None	桑
+𣕁	yi2	[𣕁㯕]弓弩的楔木	None	None
+楹	ying2	厅堂的前柱 也泛指柱子	None	None
+楹	ying2	量词 计算房屋的单位 屋一列为一楹	None	None
+楑	kui2	同=揆	None	揆
+楑	kui2	[柊楑]见“柊”	None	None
+𣔽	ji4	木下垂貌	None	None
+㮻	None	同=搔	None	搔
+⿰木⿳⿶凵又𡭔又	None	同=椶	None	椶
+楙	mao4	同=茂 茂盛	None	茂
+楙	mao4	果木名 即木瓜 蔷薇科，落叶灌木或小乔木 春末夏初开花 果实秋季成熟，椭圆，味酸涩，有香气，经蒸煮或蜜渍后可食用 可入药	None	None
+楙	mao4	通=貿 交易	None	貿
+楺	rou3	同=煣 使木弯曲	None	煣
+楺	rou2	木名	None	None
+㮘	mao2	木名 冬桃	None	None
+楘	mu4	车辕上绑扎加固的皮带，也作为装饰	None	None
+楘	mu4	通=柔(rou2)	None	柔
+㮗	qin2	同=矜 矛柄	None	矜
+𣕀	None	同=枿	None	枿
+椽	chuan2	椽子，安在檩子上承接屋面和瓦片的木条	None	None
+椽	chuan2	指房屋间数	None	None
+𣖊	lie4	同=栵 木名	None	栵
+𣖊	li4	同=例	None	例
+㮮	jie2	[㮮槹]也作“=挈臯”，即桔槔 井上汲水的工具	None	挈
+榛	zhen1	木名 榛，桦木科，落叶灌木或乔木 果小而坚，近球形 果实可食用或榨油	None	None
+榛	zhen1	榛的果实，即“榛子”	None	None
+榛	zhen1	丛生的树木	None	None
 𣘢	None	录入中	None	None
 榡	None	录入中	None	None
 構	None	录入中	None	None
