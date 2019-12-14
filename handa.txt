@@ -29703,45 +29703,86 @@
 棇	song1	同=𣚜	None	𣚜
 棚	peng2	楼阁 我国传统楼房的一种，供远眺、游憩、藏书、供佛等用	None	None
 棚	peng2	用竹木等搭成的篷架或简陋的小屋 如：工棚；凉棚；棚户	None	None
-棴	None	录入中	None	None
-𣔚	None	录入中	None	None
-椆	None	录入中	None	None
-棔	None	录入中	None	None
-𡙚	None	录入中	None	None
-𣓓	None	录入中	None	None
-㭸	None	录入中	None	None
-𣖑	None	录入中	None	None
-𣓗	None	录入中	None	None
-𣓌	None	录入中	None	None
-𣓂	None	录入中	None	None
-椈	None	录入中	None	None
-𣖣	None	录入中	None	None
-椋	None	录入中	None	None
-椁	None	录入中	None	None
-棭	None	录入中	None	None
-㭽	None	录入中	None	None
-椊	None	录入中	None	None
-𣓙	None	录入中	None	None
-𪲮	None	录入中	None	None
-椉	None	录入中	None	None
-㮄	None	录入中	None	None
-棓	None	录入中	None	None
-椄	None	录入中	None	None
-棜	None	录入中	None	None
-棄	None	录入中	None	None
-棛	None	录入中	None	None
-棬	None	录入中	None	None
-椪	None	录入中	None	None
-椫	None	录入中	None	None
-㮡	None	录入中	None	None
-棪	None	录入中	None	None
-𣓐	None	录入中	None	None
-棕	None	录入中	None	None
-椗	None	录入中	None	None
-椬	None	录入中	None	None
-棺	None	录入中	None	None
-椌	None	录入中	None	None
-𣔛	None	录入中	None	None
+棚	peng2	朋党；帮派	None	None
+棚	peng2	清代军队的编制单位	None	None
+棚	peng2	量词 如：念了几棚经；养了几棚鸭子	None	None
+棴	fu2	[棴常]木名	None	None
+𣔚	pan2	同=盤 盘子	None	盤
+椆	chou2	木名	None	None
+椆	chou2	[椆水]古水名 在今河南省	None	None
+椆	zhou4	[木椆]船篙木	None	None
+椆	diao1	[椆苕]木名	None	None
+棔	hun1	木名 即合欢，也作“合棔”、“㭘棔” 豆科，落叶乔木 叶夜间成对相合 夏季开花，花淡红色 木材红褐色，纹理直，结构细，干燥时易裂，可制家具、枕木等	None	None
+𡙚	None	同=載	None	載
+𣓓	None	同=𣖼	None	𣖼
+㭸	tu2	树枝四布	None	None
+㭸	tu2	同=梌 木名，即楸	None	梌
+𣖑	None	=掏的讹字	None	掏
+𣓗	hu1	高貌	None	None
+𣓌	gao1	同=槹(槔)	None	槹
+𣓌	jiu4	木名 即=桕	None	桕
+𣓌	ju2	同=椈 柏	None	椈
+𣓂	None	同=𣖾	None	𣖾
+椈	ju2	木名 即柏	None	None
+𣖣	ju2	=枸子	None	枸
+椋	liang2	木名，即棶	None	None
+椁	guo3	古代棺有两重，外曰椁，内曰棺	None	None
+椁	guo3	外加（材木），以求厚实	None	None
+椁	guo3	木名	None	None
+椁	guo3	测度	None	None
+棭	yi4	木名	None	None
+㭽	di3	㰅	None	None
+㭽	di3	同=柢	None	柢
+椊	zu2	柱头的榫头	None	None
+椊	zu2	[椊杌]1.以柄入孔 2.木短出貌	None	None
+椊	cui4	木朽	None	None
+椊	cui4	通=脆 易折；易碎	None	脆
+𣓙	None	同=椒	None	椒
+𪲮	None	=櫠的类推简化字	None	櫠
+椉	None	同=乘	None	乘
+㮄	None	同=榜	None	榜
+棓	bang4	棍，杖 后作=棒	None	棒
+棓	bang4	连枷	None	None
+棓	bang4	星宿名 “天棓”的简称	None	None
+棓	bang4	根	None	None
+棓	pou3	铺在悬绝不平处的跳板	None	None
+棓	pou3	木名	None	None
+棓	bei4	[五棓]即五倍子蚜，一种寄生在盐肤木上形成虫瘿（即五倍子）的蚜虫 可入药，也可用于制革、制墨或做染料	None	None
+棓	pei2	姓	None	None
+棓	bei1	同=杯 古代盛羹及注酒器	None	杯
+椄	jie1	嫁接花木 后作=接	None	接
+椄	jie2	[椄槢]连接桎梏两孔的木梁	None	None
+椄	qie4	木名	None	None
+棜	yu4	古礼器 祭祀时用以承放兽、馔或酒樽的木盘 长方形，无足，大小不一	None	None
+棄	qi4	舍去；抛开	None	None
+棄	qi4	除；废除	None	None
+棄	qi4	遗忘	None	None
+棄	qi4	放逐，古代刑罚	None	None
+棄	qi4	抛尸于野	None	None
+棄	qi4	人名 即后稷	None	None
+棛	yu4	车的覆栏	None	None
+棬	quan1	屈木制成的盂	None	None
+棬	quan1	一种制茶的器具	None	None
+棬	quan1	羯鼓上的一环状部件	None	None
+棬	quan1	圆圈形	None	None
+棬	juan4	同=桊 穿在牛鼻上的小铁环或小木棍	None	桊
+棬	quan2	用力貌	None	None
+椪	peng4	[椪柑]柑的一种	None	None
+椫	None	=樿的类推简化字	None	樿
+㮡	None	同=爟	None	爟
+棪	yan3	木名 㯈其	None	None
+棪	yan4	一种有胶质的树	None	None
+𣓐	you2	同=由 树枯死或砍伐后重生新枝	None	由
+棕	None	同=椶	None	椶
+椗	None	同=碇 系船的石墩或铁锚	None	碇
+椬	yi2	[椬悟]1.地名，在台湾省云林县 2.木名 又名福建胡颓子、锅底刺、柿糊 胡颓子科，常绿大灌木，原产于福建省、台湾省 枝具长棘刺，幼枝被褐色鳞片 叶倒长卵形 花银白色，外面密被鳞片 果实卵球形，密被银白色鳞片，成熟时红色，可食用 根、叶可供药用，主治风湿性关节炎、哮喘、肾虚腰痛	None	None
+棺	guan1	棺材，装殓死人的器具	None	None
+棺	guan4	用棺殓尸	None	None
+椌	qiang1	古打击乐器名，即柷	None	None
+椌	kong1	古代塔下宫室的名称	None	None
+椌	kong1	器物朴	None	None
+椌	kong1	虚	None	None
+𣔛	kang3	方言 盖住	None	None
 椀	None	录入中	None	None
 榔	None	录入中	None	None
 𣓅	None	录入中	None	None
