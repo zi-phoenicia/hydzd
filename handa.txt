@@ -29430,37 +29430,92 @@
 楮	chu3	姓	None	None
 楮	zhu1	同=櫧 木名	None	櫧
 𣔭	None	=掘的讹字	None	掘
-棱	None	录入中	None	None
-𣓘	None	录入中	None	None
-椏	None	录入中	None	None
-棋	None	录入中	None	None
-棊	None	录入中	None	None
-椰	None	录入中	None	None
-棷	None	录入中	None	None
-棸	None	录入中	None	None
-楛	None	录入中	None	None
-棤	None	录入中	None	None
-楉	None	录入中	None	None
-𣕈	None	录入中	None	None
-楧	None	录入中	None	None
-𣕉	None	录入中	None	None
-𣔶	None	录入中	None	None
-植	None	录入中	None	None
-𣔎	None	录入中	None	None
-𣓟	None	录入中	None	None
-楪	None	录入中	None	None
-𥚌	None	录入中	None	None
-森	None	录入中	None	None
-𣓏	None	录入中	None	None
-椞	None	录入中	None	None
-棶	None	录入中	None	None
-棽	None	录入中	None	None
-棼	None	录入中	None	None
-𣓕	None	录入中	None	None
-棾	None	录入中	None	None
-𣓑	None	录入中	None	None
-𣕏	None	录入中	None	None
-棟	None	录入中	None	None
+棱	leng2	方而有四角的木头	None	None
+棱	leng2	同一物体的面与面交接处，即棱角；或表面一条条凸起来的部分 如：冰棱；瓦棱；棱镜	None	None
+棱	leng2	威势；严厉	None	None
+棱	leng4	田埂 古时用以约计田亩的单位	None	None
+棱	leng4	用同=楞 失神；发呆	None	楞
+棱	leng1	[不棱登]助词 常用为某些形容词的后缀 也作“不=愣登” 如：红不棱登；花不棱登	None	愣
+棱	ling2	[穆棱]市名 在黑龙江省	None	None
+棱	cheng1	酢柚	None	None
+𣓘	None	同=𣙜	None	𣙜
+椏	ya1	草木的分枝	None	None
+椏	ya1	掩，闭	None	None
+椏	ya1	木名	None	None
+椏	e3	[㰁椏]见“㰁”	None	None
+棋	qi2	一种文体用具 如：围棋；军棋	None	None
+棋	qi2	通=琪 玉名	None	琪
+棋	ji1	树根；根基	None	None
+棊	None	同=棋	None	棋
+椰	ye1	果木名 椰子，棕榈科，常绿乔木 叶羽状全裂，裂片条状披针形 坚果倒卵形或近球形 果皮厚而纤维质，内果皮骨质 椰肉供食用或榨油 液汁可作饮料 外、中果皮纤维可制船缆、刷子，内果皮可制活性炭 果壳可制各种器皿 木材可以作建筑材料 叶子可编席和盖棚，根可以提制染料	None	None
+棷	zou1	大柴	None	None
+棷	zou1	木名	None	None
+棷	zou1	树的小叶	None	None
+棷	zou1	盾	None	None
+棷	zou1	棨	None	None
+棷	zou1	通=菆 麻秆	None	菆
+棷	sou3	同=藪 草泽	None	藪
+棸	zhou2	木名	None	None
+棸	zhou2	姓	None	None
+楛	hu4	木名 茎似荆，叶如蓍，木可做箭杆、编器物	None	None
+楛	ku3	粗劣；不坚固或不精细	None	None
+棤	cuo4	树皮粗皱	None	None
+楉	ruo4	[楉榴]即石榴	None	None
+⿰木⿱艹⿻十䒑	None	同=㯜	None	㯜
+⿰木𦬹	None	同=樝	None	樝
+𣕈	None	同=樝	None	樝
+楧	yang3	同=柍	None	柍
+𣕉	gou3	[𣕉杞]同“=枸杞”	None	枸
+𣔶	fan2	同=𦨲 船舷	None	𦨲
+𣔶	fan4	同=范 模子	None	范
+植	zhi2	门外闭时用以加锁的中立直木	None	None
+植	zhi2	木柱	None	None
+植	zhi2	棱	None	None
+植	zhi2	刚强；刚直	None	None
+植	zhi2	平直；笔直	None	None
+植	zhi2	栽种 如：植树	None	None
+植	zhi2	生长	None	None
+植	zhi2	植物	None	None
+植	zhi2	树立	None	None
+植	zhi2	行列	None	None
+植	zhi2	扶植	None	None
+植	zhi2	倚；拄	None	None
+植	zhi2	将主；监督工事的主管人	None	None
+植	zhi2	多	None	None
+植	zhi2	搁置；放置 后作=置	None	置
+植	zhi2	通=殖 瘠弱	None	殖
+植	zhi2	通=志(zhi4) 意志；志向	None	志
+植	zhi2	姓	None	None
+𣔎	None	同=楠	None	楠
+𣓟	None	同=直	None	直
+⿰木𭩠	None	同=楪	None	楪
+𥚌	None	同=祼	None	祼
+森	sen1	树木高耸繁密貌	None	None
+森	sen1	众多；众盛	None	None
+森	sen1	阴森幽暗貌	None	None
+森	sen1	森严	None	None
+森	sen1	峙立；高耸	None	None
+森	sen1	姓	None	None
+𣓏	jin4	承樽的几案	None	None
+𢽳	None	同=散	None	散
+椞	xi4	持止	None	None
+棶	lai2	木名 一名“椋子木” 山茱萸科，落叶乔木或灌木 叶对生，椭圆状卵形 核果球形，紫色 树皮和叶可提栲㬵 树皮亦可入药 种子榨油可制皂和润滑油 木材细致坚硬，宜作车轮、车轴及建筑材料	None	None
+棽	chen1	枝条茂密貌 也指纷垂繁盛貌	None	None
+棼	fen2	复屋的栋	None	None
+棼	fen2	楼阁	None	None
+棼	fen2	众多，交错貌	None	None
+棼	fen2	麻布	None	None
+棼	fen2	通=紊(wen3) 纷乱	None	紊
+棼	fen4	人名用字	None	None
+棼	fen1	[棼棼]纷扰貌	None	None
+𣓕	ou4	地名	None	None
+棾	qing2	木名	None	None
+𣓑	None	同=𢍚	None	𢍚
+𣕏	zhuan3	[夗𣕏]簙，即蚕具	None	None
+棟	dong4	屋的正梁	None	None
+棟	dong4	量词 房屋一座叫一栋	None	None
+棟	dong4	方言 旧时蜀人谓岭为栋	None	None
+棟	dong4	姓	None	None
 棫	None	录入中	None	None
 𣓊	None	录入中	None	None
 𣓈	None	录入中	None	None
