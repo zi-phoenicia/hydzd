@@ -29516,15 +29516,16 @@
 棟	dong4	量词 房屋一座叫一栋	None	None
 棟	dong4	方言 旧时蜀人谓岭为栋	None	None
 棟	dong4	姓	None	None
-棫	None	录入中	None	None
-𣓊	None	录入中	None	None
-𣓈	None	录入中	None	None
-𣔯	None	录入中	None	None
-椟	None	录入中	None	None
-𣒽	None	录入中	None	None
-𥒯	None	录入中	None	None
-㮋	None	录入中	None	None
-㮈	None	录入中	None	None
+棫	yu4	木名 即蕤核，通称“白桵” 蔷薇科，灌木 小枝灰绿色，有刺 核果球形，暗紫红色，有蜡粉 核左右压扁呈卵球形 果实供酿酒，食用 果仁含油并可入药	None	None
+棫	yu4	木名，即柞	None	None
+𣓊	zi4	木名	None	None
+𣓈	liang3	松脂	None	None
+𣔯	yu3	松	None	None
+椟	None	=櫝的简化字	None	櫝
+𣒽	None	同=𣐑	None	𣐑
+𥒯	None	同=煉	None	煉
+㮋	None	同=栯	None	栯
+㮈	None	同=㮏	None	㮏
 椅	None	录入中	None	None
 㭺	None	录入中	None	None
 𣔏	None	录入中	None	None
