@@ -30158,11 +30158,26 @@
 楁	he2	椸架	None	None
 楎	hui1	三爪犂，即今用以播种的耧车 一说犂上曲木	None	None
 楎	hui1	钉在墙上作挂衣物用的木橛	None	None
-楄	None	录入中	None	None
-𣕄	None	录入中	None	None
-𣖒	None	录入中	None	None
-𣕑	None	录入中	None	None
-概	None	录入中	None	None
+楄	pian2	方木	None	None
+楄	pian2	匾额	None	None
+楄	pian2	（木屐）底板	None	None
+楄	pian2	木名	None	None
+𣕄	jiong1	木名	None	None
+𣖒	None	同=棎	None	棎
+𣕑	None	同=楚	None	楚
+概	gai4	古代量谷物时刮平斗斛的器具	None	None
+概	gai4	刮平	None	None
+概	gai4	量，限量	None	None
+概	gai4	相摩；连接	None	None
+概	gai4	系念；关切	None	None
+概	gai4	气度；节操	None	None
+概	gai4	景象；状况	None	None
+概	gai4	梗概；大略	None	None
+概	gai4	古代漆饰的酒樽	None	None
+概	gai4	副词 表示范围，相当于“全”、“都”	None	None
+概	gai4	用同=蓋 压倒；胜过	None	蓋
+概	gui4	杖	None	None
+概	jie2	同=櫭(楬)，小木桩	None	櫭
 㮣	None	录入中	None	None
 椵	None	录入中	None	None
 楃	None	录入中	None	None
