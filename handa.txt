@@ -30464,18 +30464,42 @@
 槊	shuo4	同=矟 长矛	None	矟
 槊	shuo4	古代的一种博戏，即双陆	None	None
 𣖬	jue2	[𣖬株]山名	None	None
-榮	None	录入中	None	None
-㮫	None	录入中	None	None
-寨	None	录入中	None	None
-榢	None	录入中	None	None
-槟	None	录入中	None	None
-榨	None	录入中	None	None
-榕	None	录入中	None	None
-㮤	None	录入中	None	None
-榟	None	录入中	None	None
-樃	None	录入中	None	None
-㮾	None	录入中	None	None
-槠	None	录入中	None	None
+⿱欮木	None	同=𣖬	None	𣖬
+榮	rong2	桐木 古书多指梧桐	None	None
+榮	rong2	草本植物的花 又为花的通称	None	None
+榮	rong2	繁茂；盛多	None	None
+榮	rong2	荣显；富贵	None	None
+榮	rong2	光荣；美誉	None	None
+榮	rong2	美色；光润	None	None
+榮	rong2	中医指人体的营养作用或血液循环功能的一个方面，血为荣，气为卫	None	None
+榮	rong2	飞檐，屋檐两头翘起的部分	None	None
+榮	rong2	抛弃	None	None
+榮	rong2	通=營(ying2) 迷惑	None	營
+榮	rong2	古国名 在今陕西省户县西	None	None
+榮	rong2	古州名 今县名，在四川省	None	None
+榮	rong2	姓	None	None
+㮫	he2	所以辅木转	None	None
+㮫	he2	木转貌	None	None
+㮫	xia2	正弓弩的木器	None	None
+㮫	qia4	同=𥴭 古代用以止乐的虎状木器	None	𥴭
+寨	zhai4	羊栏；羊圈	None	None
+寨	zhai4	防守用的栅栏；篱笆	None	None
+寨	zhai4	营垒	None	None
+寨	zhai4	村庄；村落 多用为地名 如：龙驹寨（陕西）；金寨（安徽）；六寨（广西）；大寨（山西）	None	None
+寨	se4	安	None	None
+寨	qian1	同=𣟋	None	𣟋
+榢	None	同=架	None	架
+槟	None	=檳的简化字	None	檳
+榨	zha4	挤压出物体汁液的器具	None	None
+榨	zha4	压出物体里的液汁 如：榨油；榨甘蔗	None	None
+榨	zha4	挤压；逼迫	None	None
+榕	rong2	木名，榕树 桑科，常绿乔木 树干分枝多，覆盖面广，有气根 花黄色或淡红色；果实呈倒卵形，黄色或赤褐色 此树产热带地方 木料可制器具，树皮可入药，果可食 又为观赏树	None	None
+榕	rong2	福建省福州市的别称	None	None
+㮤	None	同=松	None	松
+榟	None	同=梓	None	梓
+樃	lang3	木名	None	None
+㮾	lang3	[㮾梨]地名 在湖南省	None	None
+槠	None	=櫧的简化字	None	櫧
 榠	None	录入中	None	None
 榷	None	录入中	None	None
 榓	None	录入中	None	None
