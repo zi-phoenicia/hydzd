@@ -30604,16 +30604,29 @@
 ⿰木萧	None	=櫹的类推简化字	None	櫹
 ⿱林来	zao3	@	None	None
 㯄	zhi1	木盛	None	None
-㯃	None	录入中	None	None
-𣘲	None	录入中	None	None
-樯	None	录入中	None	None
-槧	None	录入中	None	None
-槫	None	录入中	None	None
-𣚢	None	录入中	None	None
-槽	None	录入中	None	None
-𣙙	None	录入中	None	None
-樕	None	录入中	None	None
-𣘯	None	录入中	None	None
+㯃	None	同=桼(漆)	None	桼
+𣘲	shen1	同=𨐔 多	None	𨐔
+樯	None	=檣的简化字	None	檣
+槧	qian4	书版 古代削木为牍，未经书写的素版称椠	None	None
+槧	qian4	书的版本或刻成的书籍	None	None
+槧	qian4	简札；书信	None	None
+槫	tuan2	屋栋，即檩子	None	None
+槫	tuan2	通=摶 1.圆 2.结聚	None	摶
+槫	shuan4	同=輲 古代运载棺柩的车子	None	輲
+槫	shuan4	同=𡭐 古代一种盛酒的器皿	None	𡭐
+槫	quan2	同=輇 古代无辐的木制车轮	None	輇
+𣚢	zhuan4	木名	None	None
+槽	cao2	四围高中间低，盛饲料喂牲畜的器具	None	None
+槽	cao2	泛指某些四边高起，中间陷入的器具	None	None
+槽	cao2	琵琶一类乐器上架弦的格子，也叫“象” 以檀木或玉石制成的叫檀槽或石槽	None	None
+槽	cao2	水道；沟渠	None	None
+槽	cao2	物体中间凹下 如：槽钢；槽牙	None	None
+槽	cao2	柔木	None	None
+槽	cao2	量词 1.安置门窗或屋内隔断的单位 如：两槽隔扇，一槽窗户 2.旧时把仰瓦铺在两椽中间的从梁上到檐口的一溜屋瓦叫做一槽瓦 3.大小大致相同而同在一槽吃食的一批猪叫一槽猪	None	None
+槽	zao1	果木花实相半	None	None
+𣙙	None	同=樕	None	樕
+樕	su4	[樸樕]小树	None	None
+𣘯	None	同=𦊫	None	𦊫
 樞	None	录入中	None	None
 樫	None	录入中	None	None
 𣙞	None	录入中	None	None
