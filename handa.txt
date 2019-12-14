@@ -29701,7 +29701,8 @@
 椕	bin1	木分	None	None
 棇	cong1	同=楤 尖头担	None	楤
 棇	song1	同=𣚜	None	𣚜
-棚	None	录入中	None	None
+棚	peng2	楼阁 我国传统楼房的一种，供远眺、游憩、藏书、供佛等用	None	None
+棚	peng2	用竹木等搭成的篷架或简陋的小屋 如：工棚；凉棚；棚户	None	None
 棴	None	录入中	None	None
 𣔚	None	录入中	None	None
 椆	None	录入中	None	None
