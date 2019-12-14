@@ -30697,31 +30697,49 @@
 樓	lou2	茶肆、酒店、妓院等场所也称楼	None	None
 樓	lou2	姓	None	None
 樓	lv2	[離樓]参差貌	None	None
-槾	None	录入中	None	None
-𣚣	None	录入中	None	None
-𣙳	None	录入中	None	None
-樏	None	录入中	None	None
-槶	None	录入中	None	None
-槵	None	录入中	None	None
-𣙠	None	录入中	None	None
-槯	None	录入中	None	None
-𣙡	None	录入中	None	None
-𦌆	None	录入中	None	None
-樱	None	录入中	None	None
-𣙢	None	录入中	None	None
-檛	None	录入中	None	None
-権	None	录入中	None	None
-𣘴	None	录入中	None	None
-𣘷	None	录入中	None	None
-𣘠	None	录入中	None	None
-𣘧	None	录入中	None	None
-𣙱	None	录入中	None	None
-樦	None	录入中	None	None
-𣘜	None	录入中	None	None
-𣘖	None	录入中	None	None
-樢	None	录入中	None	None
-𣘛	None	录入中	None	None
-槹	None	录入中	None	None
+槾	man4	抹子，泥工的一种抹墙工具	None	None
+槾	man4	贪	None	None
+槾	man4	木名	None	None
+槾	man4	木脂	None	None
+槾	man4	屋檐	None	None
+槾	wan4	木名，即荆	None	None
+槾	man1	同=樠	None	樠
+𣚣	None	同=耕	None	耕
+⿰木⿱𠀐回	None	同=椔	None	椔
+𣙳	None	同=梳	None	梳
+樏	lei3	食器名，即“扁榼” 似盘，中有隔	None	None
+樏	lei3	木实	None	None
+樏	lei2	同=欙 登山用具	None	欙
+樏	lei2	用同=虆 盛土笼	None	虆
+槶	gui4	器物的内腔	None	None
+槶	gui4	古代妇女盖发的一种首饰 也作=幗	None	幗
+槵	huan4	木名，即无患子 无患子科 落叶乔木 果皮可代肥皂、润滑油；木材可制农具等 根、果可入药，果核可作念珠 俗称“菩提子”	None	None
+𣙠	None	@	None	None
+槯	cui1	木名 可作杖	None	None
+槯	zui3	木蕴积	None	None
+𣙡	None	同=爾	None	爾
+𦌆	jiao1	抄网罗	None	None
+樱	None	=櫻的简化字	None	櫻
+𣙢	juan4	同=圈 养牲畜的木栏	None	圈
+檛	zhua1	杖；鞭	None	None
+檛	zhua1	击，打击	None	None
+檛	zhua1	一种管乐器名	None	None
+権	None	同=權	None	權
+𣘴	None	=檭的类推简化字	None	檭
+⿰木𬀷	None	同=楊	None	楊
+𣘷	None	=𣝕的类推简化字	None	𣝕
+𣘠	gao3	柄	None	None
+𣘧	fu1	同=柎 花萼 也指草木子房	None	柎
+𣙱	gou3	同=𣕉(枸) 即枸杞	None	𣕉
+樦	None	同=䇠	None	䇠
+𣘜	None	同=笞	None	笞
+𣘖	jian1	[𣘖子]古代博戏樗蒲的彩名	None	None
+樢	niao3	同=蔦 树上的一种寄生木	None	蔦
+樢	mu4	鸟名 或说即鹧鸪别名	None	None
+樢	mu4	日本国宫舍门外悬榜用的木柱	None	None
+𣘛	dou1	木名	None	None
+𣘛	dou1	同=蔸 1.指树木的根和靠近根部的茎 2.量词 相当于“棵”或“丛” 如：一𣘛树；两𣘛白菜；三𣘛禾	None	蔸
+槹	None	同=槔	None	槔
 樂	None	录入中	None	None
 𣘟	None	录入中	None	None
 樬	None	录入中	None	None
