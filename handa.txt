@@ -31493,43 +31493,67 @@
 𣞱	None	同=檣	None	檣
 ⿱林𢉖	None	同=麓	None	麓
 𣞒	fu1	[𣞒檻]木名	None	None
-㰆	None	录入中	None	None
-櫜	None	录入中	None	None
-櫏	None	录入中	None	None
-㰁	None	录入中	None	None
-櫌	None	录入中	None	None
-𣞘	None	录入中	None	None
-𣟆	None	录入中	None	None
-櫫	None	录入中	None	None
-櫖	None	录入中	None	None
-𣞞	None	录入中	None	None
-𣞹	None	录入中	None	None
-𣞺	None	录入中	None	None
-㰄	None	录入中	None	None
-櫢	None	录入中	None	None
-𣟧	None	录入中	None	None
-櫑	None	录入中	None	None
-櫐	None	录入中	None	None
-𣞲	None	录入中	None	None
-𣞻	None	录入中	None	None
-𣝙	None	录入中	None	None
-㰎	None	录入中	None	None
-𣞰	None	录入中	None	None
-𦉚	None	录入中	None	None
-𣞳	None	录入中	None	None
-𣞴	None	录入中	None	None
-㰀	None	录入中	None	None
-𣟨	None	录入中	None	None
-𣞚	None	录入中	None	None
-櫋	None	录入中	None	None
-㰃	None	录入中	None	None
-櫟	None	录入中	None	None
-櫍	None	录入中	None	None
-𣞛	None	录入中	None	None
-櫓	None	录入中	None	None
-𣞗	None	录入中	None	None
-櫧	None	录入中	None	None
-櫥	None	录入中	None	None
+⿳⿻丨𠮛圂木	None	同=㯻	None	㯻
+㰆	bei4	同=韛 吹火器具，俗称风箱	None	韛
+櫜	gao1	囊	None	None
+櫜	gao1	收藏盔甲、弓箭的器具	None	None
+櫜	gao1	收藏；储藏	None	None
+櫏	qian1	[桾櫏]见“桾”	None	None
+㰁	luo3	[㰁椏]也作“椏㰁” 树斜貌	None	None
+⿱磊木	None	同=㰁	None	㰁
+櫌	None	同=耰	None	耰
+𣞘	xian1	同=杴 锹属	None	杴
+𣟆	liao2	柏木	None	None
+櫫	zhu1	[楬櫫]也作“櫫楬” 用作标记的木桩	None	None
+櫖	lv4	[諸櫖]即山櫐，蔓草名	None	None
+櫖	chu1	同=樗 木名，即臭椿	None	樗
+𣞞	None	同=朴	None	朴
+𣞹	None	同=檋	None	檋
+𣞺	None	=㩧的讹字	None	㩧
+㰄	None	同=𣚙	None	𣚙
+櫢	sou3	[櫢檽]树木茂盛	None	None
+𣟧	None	@	None	None
+櫑	lei2	同=罍 古代盛酒的容器	None	罍
+櫑	lei2	饰有饕餮纹的食物盛器	None	None
+櫑	lei2	用同=擂	None	擂
+櫑	lei2	用同=檑 檑木	None	檑
+櫑	lei3	[櫑具]古剑名 木柄上镶有蓓蕾形的玉饰，故又因以名剑	None	None
+櫐	lei3	同=蘽 蔓草名	None	蘽
+𣞲	None	同=檈	None	檈
+𣞻	None	同=耙	None	耙
+𣝙	None	同=杶	None	杶
+㰎	None	同=檇	None	檇
+𣞰	lian4	陈	None	None
+𣞰	lian4	蚕箔	None	None
+⿳𠂉卌⿱一⿰𣏐木	None	同=無	None	無
+𦉚	None	同=鬱	None	鬱
+𣞳	None	[逼𣞳]逼迫	None	None
+𣞴	li2	@	None	None
+㰀	li2	木名	None	None
+𣟨	None	同=樻	None	樻
+𣞚	None	同=槎	None	槎
+櫋	mian2	屋檐板，即楣	None	None
+㰃	mian2	同=檰 木名	None	檰
+㰃	mian4	屋箦	None	None
+櫟	li4	木名，即麻栎 壳斗科，落叶乔木 壳斗杯形，坚果卵圆形 种子含淀粉，果可入药 幼叶可饲柞蚕 各部均含有鞣质，可提栲胶，供鞣皮或做染料 木材坚硬，供车辆枕木和机械用材 因其木理斜曲，宜作薪炭，古人常喻作不材之木	None	None
+櫟	li4	栏杆	None	None
+櫟	li4	搏击	None	None
+櫟	li4	超越	None	None
+櫟	li4	传说中的鸟名	None	None
+櫟	li4	刮擦器物以作声	None	None
+櫟	li4	古地名 1.春秋时郑国别都，在今河南省禹州市 2.春秋时晋地，在今山西省永济市西南 3.春秋时楚地，在今河南省新蔡县西北	None	None
+櫟	luo4	人名用字	None	None
+櫟	yue4	[櫟陽]古县名 秦置，治所在今陕西省西安市临潼区北渭水北岸，东汉废入万年县，唐武德初改万年复置，治所在故县西南（今临潼北），元至元初并入临潼县	None	None
+櫍	zhi4	钟鼓架子的脚或其他器物的脚	None	None
+櫍	zhi4	砧木或垫木	None	None
+𣞛	None	同=椶	None	椶
+櫓	lu3	兵器 大盾	None	None
+櫓	lu3	顶部没有遮盖的望楼	None	None
+櫓	lu3	战车的一种	None	None
+櫓	lu3	比桨长大的划船工具	None	None
+𣞗	liu2	木名，即杙	None	None
+櫧	zhu1	木名，即青椆 壳斗科，常绿乔木 实为坚果，有椀状壳斗，可食 木材不易开裂，弹力强，可供作枕木、车轴、榨油设备等	None	None
+櫥	None	同=檣	None	檣
 櫠	None	录入中	None	None
 𣞐	None	录入中	None	None
 㰂	None	录入中	None	None
