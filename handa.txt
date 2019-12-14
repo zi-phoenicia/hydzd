@@ -30422,25 +30422,48 @@
 槀	kao4	同=槁 犒劳 后作=犒	None	槁
 槨	None	同=椁	None	椁
 榳	ting2	[㯪榳]长木貌	None	None
-𣖵	None	录入中	None	None
-槉	None	录入中	None	None
-𣖸	None	录入中	None	None
-𣖷	None	录入中	None	None
-樆	None	录入中	None	None
-榶	None	录入中	None	None
-槞	None	录入中	None	None
-𣘙	None	录入中	None	None
-榜	None	录入中	None	None
-𣖺	None	录入中	None	None
-㮵	None	录入中	None	None
-槒	None	录入中	None	None
-榚	None	录入中	None	None
-𣗹	None	录入中	None	None
-榏	None	录入中	None	None
-槏	None	录入中	None	None
-㮶	None	录入中	None	None
-槊	None	录入中	None	None
-𣖬	None	录入中	None	None
+𣖵	cuo2	同=㭫 果木名 李的一种	None	㭫
+槉	ji2	栱，立柱和横梁之间成弓形的承重结构	None	None
+𣖸	ti2	研米槌	None	None
+𣖷	ji2	屋檼木	None	None
+樆	li2	木名，即山梨	None	None
+樆	chi1	布木	None	None
+榶	tang2	木名	None	None
+榶	tang2	碗	None	None
+槞	None	同=櫳	None	櫳
+𣘙	bang4	同=棓 木杖	None	棓
+榜	beng1	正弓弩器	None	None
+榜	beng1	古代刑罚之一	None	None
+榜	bang3	木片；木板	None	None
+榜	bang3	匾额	None	None
+榜	bang3	告示应试取录的名单	None	None
+榜	bang3	公开张贴的文书、告示	None	None
+榜	bang3	题署	None	None
+榜	bang3	屋栋	None	None
+榜	bang3	量词 计算面积的单位	None	None
+榜	bang4	桨，摇船的工具	None	None
+榜	bang4	船	None	None
+榜	bang4	摇桨使船前进	None	None
+榜	bang4	击；鞭打	None	None
+榜	bang4	用同=傍 依傍	None	傍
+榜	pang1	木名	None	None
+榜	pang1	用同=旁 旁边	None	旁
+𣖺	None	同=㭚	None	㭚
+㮵	zhan1	[㮵檀]同“=栴檀” 见“栴”	None	栴
+槒	None	同=慉	None	慉
+榚	yao3	木长貌	None	None
+𣗹	yang4	@	None	None
+榏	None	同=艗	None	艗
+槏	qian3	户	None	None
+槏	qian3	窗户两边的柱子	None	None
+槏	xian4	盂	None	None
+槏	lian2	同=廉	None	廉
+㮶	shuo4	木名	None	None
+㮶	shuo4	栅栏	None	None
+㮶	shuo4	同=矟 长矛	None	矟
+槊	shuo4	同=矟 长矛	None	矟
+槊	shuo4	古代的一种博戏，即双陆	None	None
+𣖬	jue2	[𣖬株]山名	None	None
 榮	None	录入中	None	None
 㮫	None	录入中	None	None
 寨	None	录入中	None	None
