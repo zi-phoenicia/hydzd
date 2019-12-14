@@ -30766,25 +30766,42 @@
 樅	cong1	用同=摐(chuang1) 撞击	None	摐
 樅	cong1	姓	None	None
 樅	zong1	[樅陽]地名 汉名枞阳，唐名桐城，今复名枞阳县 在安徽省南部，长江北岸	None	None
-樖	None	录入中	None	None
-樊	None	录入中	None	None
-𣘞	None	录入中	None	None
-𣙚	None	录入中	None	None
-橡	None	录入中	None	None
-橥	None	录入中	None	None
-槲	None	录入中	None	None
-𣘳	None	录入中	None	None
-𣘤	None	录入中	None	None
-㯎	None	录入中	None	None
-𣘨	None	录入中	None	None
-𣙤	None	录入中	None	None
-樜	None	录入中	None	None
-㯅	None	录入中	None	None
-𣖲	None	录入中	None	None
-𣙛	None	录入中	None	None
-槺	None	录入中	None	None
-槦	None	录入中	None	None
-樚	None	录入中	None	None
+樖	ke1	竹枝相磨戛 一说树枝交连	None	None
+樊	fan2	马负过重，止而不前	None	None
+樊	fan2	关鸟兽的笼子	None	None
+樊	fan2	同=藩 篱笆	None	藩
+樊	fan2	筑篱围绕	None	None
+樊	fan2	边；边缘	None	None
+樊	fan2	纷杂貌	None	None
+樊	fan2	通=鞶(pan2) 马腹带	None	鞶
+樊	fan2	古地名 1.春秋周京都辖邑，一名阳樊，在今河南省济源市西南 2.樊城的简称 其城在湖北省襄樊市	None	None
+樊	fan2	姓	None	None
+樊	fan4	[樊桐]传说中的山名	None	None
+𣘞	han2	同=𤬰(𤬯)	None	𤬰
+𣙚	None	同=榕	None	榕
+⿰木𭦌	None	同=橧	None	橧
+橡	xiang4	木名，即栎 一般指栎实	None	None
+橥	None	同=櫫	None	櫫
+槲	hu2	木名 槲，即柞栎 壳斗科，落叶乔木 叶互生，倒卵形，缘边波状缺齿，下面密生星状毛 坚果圆卵形，有碗状壳斗 木材坚实，供建筑、枕木、器具等用，也可培养香菇 壳斗及树皮可提栲胶 叶子可以饲养柞蚕 果实可入药，脱涩后可供食用	None	None
+𣘳	None	同=槲	None	槲
+𣘤	cha2	木名	None	None
+𣘤	sa4	草木摇动声	None	None
+㯎	nen4	[㯎𣞇]愚痴	None	None
+𣘨	e3	[𣘨橠]木盛貌	None	None
+𣘨	e1	[𣘨橠]树枝长柔貌	None	None
+𣙤	None	同=𣚘	None	𣚘
+⿰木⿳亠由日	None	同=槽	None	槽
+樜	zhe4	同=柘 木名	None	柘
+㯅	pi2	[㯅㯕]向下生长的树枝	None	None
+㯅	bi1	[㯅㯕]小树；树裁	None	None
+𣖲	None	同=𣐑	None	𣐑
+𣙛	yi2	[委𣙛]同“委=蛇（逶=迤）”	None	蛇
+槺	kang1	同=䆲(㝩) 虚空	None	䆲
+槦	yong1	木名，即榕	None	None
+槦	yong1	兵器架	None	None
+樚	lu4	[樚木]醉鱼草 马钱科，落叶灌木 叶对生，长椭圆披针形 夏日茎梢抽长穗状花序，花冠筒状，边缘四裂，红紫色 茎叶有毒，揉碎投河中，能使鱼麻醉，故名醉鱼草	None	None
+樚	du2	同=櫝	None	櫝
+⿰木𢉖	None	同=樚	None	樚
 樟	None	录入中	None	None
 樈	None	录入中	None	None
 㯆	None	录入中	None	None
