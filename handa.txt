@@ -29880,19 +29880,31 @@
 𣕊	None	=㮇的讹字	None	㮇
 ⿰木贲	None	=橨的类推简化字	None	橨
 𣖋	None	同=栽	None	栽
-楳	None	录入中	None	None
-椹	None	录入中	None	None
-榵	None	录入中	None	None
-㮖	None	录入中	None	None
-楪	None	录入中	None	None
-𣖨	None	录入中	None	None
-㮱	None	录入中	None	None
-榙	None	录入中	None	None
-槆	None	录入中	None	None
-𣖥	None	录入中	None	None
-楜	None	录入中	None	None
-楠	None	录入中	None	None
-㮏	None	录入中	None	None
+⿰木𡋡	None	同=榬	None	榬
+楳	None	同=梅	None	梅
+椹	zhen1	斫木砧 也泛指捶或砸东西时用的垫板	None	None
+椹	shen4	同=葚 桑树果实	None	葚
+椹	shen4	树经伐倒后置阴湿出生出的菌	None	None
+榵	rong2	木名 似檀	None	None
+㮖	jia2	搁放	None	None
+㮖	jia2	鼓	None	None
+楪	ye4	窗子	None	None
+楪	ye4	[楪榆]汉代地名 故地在今云南省大理市东北	None	None
+楪	die2	同=牒 床箦；床板	None	牒
+楪	die2	同=碟 盛食物的小盘	None	碟
+𣖨	zi3	木名	None	None
+⿰木带	None	=㯂的类推简化字	None	㯂
+㮱	shen1	草木茂盛的样子	None	None
+榙	da2	[榙𣝋]也作“榙𣗶” 果名	None	None
+槆	None	同=橁	None	橁
+⿰木⿱亚女	None	同=櫻	None	櫻
+⿱艹冧	None	同=檾	None	檾
+𣖥	None	同=橭	None	橭
+楜	hu2	[楜椒]同“=胡椒” 多年生藤本植物 原产热带亚洲，我国南方有栽培 果实作香辛调味品（胡椒粉）；中医学上以未成熟的果实入药，功能温中散寒，主治胃寒腹痛、呕吐等症	None	胡
+楠	nan2	木名 即楠木 樟科，常绿乔木 木材纹理细密，质地坚硬，富有香味，是建筑和制器具的贵重材料，也可供造船用	None	None
+㮏	nai4	同=柰	None	柰
+㮏	ni4	木立死	None	None
+㮏	na4	蘖生貌	None	None
 楂	None	录入中	None	None
 榃	None	录入中	None	None
 𣕽	None	录入中	None	None
