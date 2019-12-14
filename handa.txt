@@ -29795,21 +29795,55 @@
 棙	lie4	木名 即南烛 杜鹃花科，落叶小乔木，常为灌木 叶卵形或椭圆形，革质 蒴果近球形 其变种綟木，落叶灌木，叶较薄，果较小 枝叶和果实可入药，有毒	None	None
 棙	lie4	用同=捩 转动	None	捩
 𣓖	None	同=枅	None	枅
-棨	None	录入中	None	None
-椖	None	录入中	None	None
-𣓠	None	录入中	None	None
-棎	None	录入中	None	None
+棨	qi3	古代作通行用的一种木制的符信 又名“傳”	None	None
+棨	qi3	古代官吏出行时用作前导的一种仪仗 用木制成，形状似戟，上有赤黑色缯衣	None	None
+棨	qi3	古代搁置兵器的栅台	None	None
+棨	qi3	树木的小枝条	None	None
+棨	qi3	制茶器具 又名锥 又指用棨穿茶	None	None
+椖	None	同=棚	None	棚
+𣓠	None	同=柳	None	柳
+棎	chan2	果名	None	None
 𣕓	None	录入中	None	None
-楗	None	录入中	None	None
-棣	None	录入中	None	None
-椂	None	录入中	None	None
-椐	None	录入中	None	None
-㭾	None	录入中	None	None
-𣓔	None	录入中	None	None
-㭹	None	录入中	None	None
-𣔖	None	录入中	None	None
-椭	None	录入中	None	None
-極	None	录入中	None	None
+楗	jian4	关门的木闩	None	None
+楗	jian4	河工以埽料所筑的柱桩	None	None
+楗	jian4	遏制；堵塞	None	None
+楗	jian4	骨骼名	None	None
+楗	jian4	刚木	None	None
+楗	jian3	通=蹇 马跛行貌	None	蹇
+⿰木肃	None	=橚的类推简化字	None	橚
+棣	di4	木名 常棣，即“白棣” 果实如樱桃	None	None
+棣	di4	兄弟	None	None
+棣	di4	姓	None	None
+棣	ti4	通；达	None	None
+棣	dai4	[棣棣]文雅安和的样子	None	None
+椂	lu4	木名	None	None
+椐	ju1	木名，即灵寿木 树小，多肿节，古时以为手杖	None	None
+椐	ju1	篱笆	None	None
+椐	ju1	木名，即=櫸	None	櫸
+㭾	jue2	断木	None	None
+𣓔	mi4	[檵𣓔]木名	None	None
+㭹	None	同=𢮂 一说=㡉的讹字	None	𢮂
+𣔖	None	同=㮲	None	㮲
+椭	None	=橢的简化字	None	橢
+極	ji2	房屋的中栋，正梁	None	None
+極	ji2	顶点，最高的地位	None	None
+極	ji2	至；到	None	None
+極	ji2	尽头；终了	None	None
+極	ji2	尽，穷尽	None	None
+極	ji2	远	None	None
+極	ji2	边际；边界	None	None
+極	ji2	最高的；最终的	None	None
+極	ji2	中，正中	None	None
+極	ji2	北极星	None	None
+極	ji2	藏	None	None
+極	ji2	出，生出	None	None
+極	ji2	疲困	None	None
+極	ji2	口吃，说话结巴	None	None
+極	ji2	木名	None	None
+極	ji2	月阳名之一	None	None
+極	ji2	古代天文学推算历元的术语	None	None
+極	ji2	数词 古代数目字，其数诸说不一	None	None
+極	ji2	天文学名词 1.在球面上和一个大圆上各点角距离相等的两点，叫做该大圆的极 如地球自转轴同地球表面相交的两点，叫做“地极” 在北半球的叫“北极”，在南半球的叫“南极” 2.球轴同球面相交的点，叫做该球的“极” 3.地球自转轴延长同天球相交的两点，叫做“天极”	None	None
 㮀	None	录入中	None	None
 椮	None	录入中	None	None
 𣔗	None	录入中	None	None
