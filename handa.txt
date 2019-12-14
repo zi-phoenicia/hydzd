@@ -29277,17 +29277,27 @@
 梟	xiao1	姓	None	None
 梎	ao1	[梎柌]镰柄	None	None
 梎	you4	木名	None	None
-梔	None	录入中	None	None
-𣒃	None	录入中	None	None
-梌	None	录入中	None	None
-𣒅	None	录入中	None	None
-桸	None	录入中	None	None
-检	None	录入中	None	None
-桼	None	录入中	None	None
-㭫	None	录入中	None	None
-桽	None	录入中	None	None
-㭲	None	录入中	None	None
-㭩	None	录入中	None	None
+⿰木兎	None	同=㭸	None	㭸
+梔	zhi1	木名 栀子，茜草科，常绿灌木 初夏开白花，稍带黄晕，有香气 果长椭圆形，赤黄色，可入药，又可作黄色染料 木黄褐色，质密而坚实，可供雕刻等用	None	None
+梔	zhi1	桑树的一种	None	None
+𣒃	xi2	农具名 耧	None	None
+𣒃	xi2	农具名 柃𣒃，熬麦器	None	None
+𣒃	xi2	小矛	None	None
+梌	tu2	木名 即楸	None	None
+梌	tu2	木名 北方人谓枫曰梌	None	None
+梌	cha2	刺木	None	None
+梌	tu1	锐	None	None
+𣒅	zhen4	同=榐	None	榐
+桸	xi1	木名 其汁可饮	None	None
+桸	xi1	同=𣟵	None	𣟵
+检	None	=檢的简化字	None	檢
+桼	None	同=漆 1.用漆树皮里的黏液做成的涂料 2.以漆涂饰物 3.漆树 4.黑色 5.通=七 数目字 6.姓 7.水名	None	漆
+㭫	cuo2	果木名 李的一种	None	None
+㭫	cuan2	同=菆	None	菆
+桽	wen3	稳	None	None
+㭲	None	同=极	None	极
+㭩	lie4	木名	None	None
+㭩	lie4	桅杆	None	None
 𣑿	None	录入中	None	None
 桴	None	录入中	None	None
 桵	None	录入中	None	None
