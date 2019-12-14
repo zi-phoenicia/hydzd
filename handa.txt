@@ -29844,17 +29844,42 @@
 極	ji2	古代天文学推算历元的术语	None	None
 極	ji2	数词 古代数目字，其数诸说不一	None	None
 極	ji2	天文学名词 1.在球面上和一个大圆上各点角距离相等的两点，叫做该大圆的极 如地球自转轴同地球表面相交的两点，叫做“地极” 在北半球的叫“北极”，在南半球的叫“南极” 2.球轴同球面相交的点，叫做该球的“极” 3.地球自转轴延长同天球相交的两点，叫做“天极”	None	None
-㮀	None	录入中	None	None
-椮	None	录入中	None	None
-𣔗	None	录入中	None	None
-棳	None	录入中	None	None
-椔	None	录入中	None	None
-𣔜	None	录入中	None	None
-楔	None	录入中	None	None
-楱	None	录入中	None	None
-椿	None	录入中	None	None
-𣕊	None	录入中	None	None
-𣖋	None	录入中	None	None
+極	ji2	磁体的两端 如：南极；北极 又电源或电器上电流进入或流出的一端 如：正极；负极；阳极；阴极	None	None
+極	ji2	数学中极坐标的原点	None	None
+極	ji2	古时射箭用的手指套 套在右手食指、中指、无名指上，便于引弓放弦	None	None
+極	ji2	井上的辘轳	None	None
+極	ji2	副词 表示程度，相当于“最”、“很”、“狠”	None	None
+極	ji2	通=殛 罪大而诛	None	殛
+極	ji2	通=亟 急	None	亟
+極	ji2	春秋时鲁附庸国名 故址在今山东省金乡县东南	None	None
+極	ji2	姓	None	None
+㮀	han2	潜通水具	None	None
+㮀	han2	同=函 匣子	None	函
+㮀	han2	木名	None	None
+椮	None	=槮的类推简化字	None	槮
+𣔗	shen1	麻滓	None	None
+棳	zhuo1	木名	None	None
+棳	zhuo1	梁上的短柱，即=梲	None	梲
+棳	zhuo1	用同=綴(zhui4) 连结	None	綴
+椔	None	同⿰木⿱𡿧田	None	None
+𣔜	None	同=栵	None	栵
+⿰木⿱⿰丰力廾	None	同=楔	None	楔
+楔	xie1	楔子 上平厚下扁锐的木块，用以填塞榫眼空隙，使之固定	None	None
+楔	xie1	以楔形物插入	None	None
+楔	xie1	门两旁的木柱	None	None
+楔	xie1	木名 樱桃	None	None
+楔	xie1	木名 似松有刺者	None	None
+楔	xie1	数学名词 五个平面构成的立体叫楔，也叫劈	None	None
+楔	xie1	物理学上简单机械之一 也叫劈或尖劈	None	None
+𬃘	None	=樲的类推简化字	None	樲
+楱	zou4	[𨫒楱]铁齿耙	None	None
+楱	zou4	插	None	None
+楱	cou4	果名 橘类	None	None
+椿	chun1	古代传说中的木名	None	None
+椿	chun1	木名 香椿，楝科，落叶乔木 叶有特殊气味，花芳香 嫩芽可作菜食；木材通直，是造船、建筑材料；种子椭圆形，一端有膜质长翅，可榨油；根、皮及果可入药 宋以前又名櫄、杶、橁 有时也指“臭椿（樗）”	None	None
+𣕊	None	=㮇的讹字	None	㮇
+⿰木贲	None	=橨的类推简化字	None	橨
+𣖋	None	同=栽	None	栽
 楳	None	录入中	None	None
 椹	None	录入中	None	None
 榵	None	录入中	None	None
