@@ -29533,28 +29533,80 @@
 㭺	yan4	[㭺𣟺]木名	None	None
 㭺	an1	同=𣚖 木名	None	𣚖
 𣔏	None	同=枿	None	枿
-椓	None	录入中	None	None
-𣓉	None	录入中	None	None
-棲	None	录入中	None	None
-椠	None	录入中	None	None
-棧	None	录入中	None	None
-棑	None	录入中	None	None
-棐	None	录入中	None	None
-椒	None	录入中	None	None
-𣒄	None	录入中	None	None
-𣒉	None	录入中	None	None
-棹	None	录入中	None	None
-㮚	None	录入中	None	None
-椃	None	录入中	None	None
-㭻	None	录入中	None	None
-棠	None	录入中	None	None
-棏	None	录入中	None	None
-椇	None	录入中	None	None
-㮂	None	录入中	None	None
-棵	None	录入中	None	None
-𣔑	None	录入中	None	None
-棍	None	录入中	None	None
-𣓍	None	录入中	None	None
+椓	zhuo2	敲；捶	None	None
+椓	zhuo2	古代割去男性生殖器的酷刑，即宫刑 后作=斀	None	斀
+椓	zhuo2	割了生殖器的男人	None	None
+椓	zhuo2	攻讦	None	None
+𣓉	sha4	木理起貌	None	None
+𣓉	jie2	连接	None	None
+棲	qi1	鸟类停留、歇宿	None	None
+棲	qi1	居住；停留	None	None
+棲	qi1	栖息的地方	None	None
+棲	qi1	床	None	None
+棲	qi1	搁置	None	None
+棲	xi1	[棲棲]1.忙碌，不安定貌 2.简阅车马貌	None	None
+椠	None	=槧的简化字	None	槧
+棧	zhan4	关牲畜的棚或栅栏	None	None
+棧	zhan4	编竹木隔档	None	None
+棧	zhan4	（在栈内）加料精养	None	None
+棧	zhan4	古代在山岩绝险处架木而成的路	None	None
+棧	zhan4	小桥	None	None
+棧	zhan4	古代用竹木做成的车子	None	None
+棧	zhan4	留宿客商和堆放货物的处所 如：客栈；货栈；堆栈	None	None
+棧	zhan4	姓	None	None
+棧	zhan3	小钟	None	None
+棧	chen2	众盛貌	None	None
+棑	pai2	筏子	None	None
+棑	pai2	盾	None	None
+棑	bei4	木名	None	None
+棑	bei4	船后木排	None	None
+棑	pei4	舟前木	None	None
+棐	fei3	辅正弓弩的器具	None	None
+棐	fei3	辅助	None	None
+棐	fei3	用同=扉(fei1) 门	None	扉
+棐	fei3	通=菲 菲薄；微薄	None	菲
+棐	fei3	通=匪 非；不	None	匪
+棐	fei3	通=篚 盛物的椭圆形竹器	None	篚
+棐	fei3	通=榧 木名，即香榧	None	榧
+棐	fei3	春秋时郑国地名，即棐林 故地在今河南省郑州市南	None	None
+棐	fei2	[即棐]古县名 汉置 故地在今河北省肥乡县南 也作“即=裴”	None	裴
+椒	jiao1	木名 即花椒，又名檓 芸香科，落叶灌木或小乔木 具香气 单数羽状复叶，果实作调味料，并可提芳香油入药 种子可榨油，叶制农药	None	None
+椒	jiao1	花椒子	None	None
+椒	jiao1	蔬菜名 有蕃椒、辣椒等	None	None
+椒	jiao1	山巅	None	None
+椒	jiao1	古邑名 春秋楚邑	None	None
+椒	jiao1	姓 春秋时楚国伍举，也作椒举	None	None
+𣒄	xie1	木名	None	None
+𣒉	None	同=楷	None	楷
+棹	zhao4	同=櫂 1.船桨 2.划（船）	None	櫂
+棹	zhuo2	木名	None	None
+棹	zhuo2	同=桌	None	桌
+㮚	None	同=栗	None	栗
+椃	None	同=𣘫	None	𣘫
+㭻	None	同=棠	None	棠
+棠	tang2	木名 甘棠 有红白两种 红者木质坚韧；白者果实可吃，也名杜梨	None	None
+棠	tang2	通=樘 车樘，车两旁控制车进退的横木	None	樘
+棠	tang2	通=塘 堤	None	塘
+棠	tang2	古地名 1.指春秋鲁地，在今山东省鱼台县北 2.指春秋齐地，在今山东省聊城市西北 3.指春秋楚地，在今江苏省南京市六合区 4.指春秋莱地，在今山东省即墨市南	None	None
+棠	tang2	姓	None	None
+棏	de2	木名	None	None
+棏	zhe2	同=㭙	None	㭙
+椇	ju3	木名 也指它的果实 即拐枣，也叫枳椇 鼠李科，落叶乔木 叶广卵形，边缘有锯齿 果实近球形，干燥 果梗肥厚扭曲，熟时肉质红棕色，味甜，供食用，亦可酿酒 木材供建筑及制精细家具 树皮、木汁及叶可入药	None	None
+椇	ju3	俎的一种 古代放祭品的礼器	None	None
+㮂	ju3	抬举食物的用具，与案相似	None	None
+㮂	ju3	舆	None	None
+棵	kuan3	同=梡	None	梡
+棵	ke3	俎名	None	None
+棵	ke1	量词 用于植物 如：一棵树；一棵草	None	None
+𣔑	None	同=檋	None	檋
+棍	hun4	木名	None	None
+棍	hun4	捆，束	None	None
+棍	hun4	混同	None	None
+棍	ao1	枝柯	None	None
+棍	gun3	能够转动，用以缠绕线、弦的旋钮	None	None
+棍	gun4	棍棒 如：木棍；铁棍	None	None
+棍	gun4	无赖；坏人 如：恶棍；讼棍；游棍	None	None
+𣓍	None	同=𣔺	None	𣔺
 㭿	None	录入中	None	None
 𣔴	None	录入中	None	None
 棝	None	录入中	None	None
