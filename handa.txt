@@ -30225,15 +30225,30 @@
 榛	zhen1	丛生的树木	None	None
 ⿰木敖	None	同=𣘢	None	𣘢
 𣘢	None	同=𦪈	None	𦪈
-榡	None	录入中	None	None
-構	None	录入中	None	None
-𣘗	None	录入中	None	None
-榧	None	录入中	None	None
-榪	None	录入中	None	None
-槓	None	录入中	None	None
-榸	None	录入中	None	None
-榬	None	录入中	None	None
-𣖫	None	录入中	None	None
+榡	su4	同=素 器物未加装饰	None	素
+構	gou4	架屋	None	None
+構	gou4	房屋；屋宇	None	None
+構	gou4	交合；连结	None	None
+構	gou4	造成；缔造	None	None
+構	gou4	草拟；写作	None	None
+構	gou4	指文艺作品	None	None
+構	gou4	图谋	None	None
+構	gou4	挑拨；离间	None	None
+構	gou4	木名 构树 桑科，落叶乔木 有乳汁，叶卵形，上面有糙毛，下面密生柔毛 花果球形，肉质，红色 适应性强，喜光，耐烟尘 木材供制器具、家具、薪炭等 茎皮作优质造纸原料 种子油供制皂、油漆用 果（楮实子）及根皮入药 叶及乳汁治疮癣	None	None
+構	gou4	牛羊乳汁	None	None
+構	gou4	通=購 购赏；悬赏	None	購
+構	jue2	同=桷 方形的椽子	None	桷
+𣘗	ni4	木名	None	None
+榧	fei3	木名 香榧，也叫“野杉” 红豆杉科，常绿乔木 果实较榧子，可供食用，也可榨油、入药 木材耐水湿，可作造船材料	None	None
+榪	ma4	床头横木	None	None
+榪	ma3	[榪槎]也作“榪杈”、“榪乂” 三脚木架	None	None
+槓	None	同=杠	None	杠
+榸	zhai1	枯木根、桩	None	None
+榬	yuan2	古代络丝的器具	None	None
+榬	yuan2	古时悬挂钟磬的架子	None	None
+榬	yuan2	姓	None	None
+𣖫	gu3	同=穀 木名，即构树	None	穀
+𣖫	que4	粗糙的竹杖 旧时为居父丧所用	None	None
 榰	None	录入中	None	None
 㮪	None	录入中	None	None
 榼	None	录入中	None	None
