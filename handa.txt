@@ -30500,31 +30500,51 @@
 樃	lang3	木名	None	None
 㮾	lang3	[㮾梨]地名 在湖南省	None	None
 槠	None	=櫧的简化字	None	櫧
-榠	None	录入中	None	None
-榷	None	录入中	None	None
-榓	None	录入中	None	None
-𣖽	None	录入中	None	None
-榐	None	录入中	None	None
-榍	None	录入中	None	None
-榒	None	录入中	None	None
-樄	None	录入中	None	None
-槂	None	录入中	None	None
-㯁	None	录入中	None	None
-𣖹	None	录入中	None	None
-㮥	None	录入中	None	None
-𣗺	None	录入中	None	None
-樋	None	录入中	None	None
-𣗻	None	录入中	None	None
-㮭	None	录入中	None	None
-𣖶	None	录入中	None	None
-槡	None	录入中	None	None
-槥	None	录入中	None	None
-樁	None	录入中	None	None
-樍	None	录入中	None	None
-𣘬	None	录入中	None	None
-槻	None	录入中	None	None
-槼	None	录入中	None	None
-㯊	None	录入中	None	None
+榠	ming2	[榠樝]状似木瓜 榠樝，蔷薇科，落叶乔木 果实为浆果，味涩，供药用	None	None
+榠	ming2	同=茗 晚采的茶	None	茗
+榷	que4	架在水上的横木，即独木桥	None	None
+榷	que4	专营；专卖	None	None
+榷	que4	税	None	None
+榷	que4	商量；研讨	None	None
+榷	que4	坚固	None	None
+榷	que4	木名	None	None
+榓	mi4	项目 似槐	None	None
+⿳木彐⿹勹⿰屮又	None	同=昏	None	昏
+𣖽	None	同=梫	None	梫
+榐	zhan3	木名	None	None
+榐	zhan3	同=盞 杯盏	None	盞
+榐	chan3	[橏榐]见“橏(jian3)”	None	None
+榐	nian3	同=碾 碾子	None	碾
+榐	zhen4	木名	None	None
+榍	xie4	门限	None	None
+榍	xie4	木名	None	None
+榍	xie4	同=楔 木楔	None	楔
+榒	nuo4	木名	None	None
+樄	chen2	[樄㯌]也作“樄椽”、“=陳椽” 经营驰逐	None	陳
+槂	sun1	[公槂]木名，即银杏	None	None
+㯁	pei2	版	None	None
+㯁	pei2	同=棓 姓	None	棓
+𣖹	ru2	[淭𣖹]也作“渠=挐” 农具名，即杷	None	挐
+㮥	ben4	船篷	None	None
+㮥	fen3	同=軬 1.车篷 2.篷车	None	軬
+𣗺	ku1	𣔗饼	None	None
+樋	tong4	木名 一说即木通科植物木通二字的合写	None	None
+𣗻	zhi4	帆索	None	None
+㮭	xian2	同=椷 杯	None	椷
+𣖶	None	同=楘	None	楘
+槡	None	同=桑	None	桑
+槥	hui4	小棺	None	None
+槥	hui4	同=橞 木名	None	橞
+樁	zhuang1	木橛 也泛称揳入地中的桩柱 如：铁桩；水泥桩	None	None
+樁	zhuang1	储物备用的内库 宋代有“封桩库” 又储备，储存	None	None
+樁	zhuang1	旧时赌博头家称“坐庄”，或称“做桩”，意取稳定不动 如：蹲桩；下桩	None	None
+樁	zhuang1	量词 多指事情的件数	None	None
+樁	chong1	击；刺	None	None
+樍	ze2	木名，即柽木	None	None
+𣘬	li2	木名 枝条可为大索	None	None
+槻	gui1	木名 牛犀科梣属的几种植物 如：小叶白蜡树、苦枥木、秦岭白蜡树等落叶乔木，木质刚劲而有弹性，能耐久 树皮灰褐色，可入药，称“秦皮”	None	None
+槼	gui1	同=規	None	規
+㯊	hen2	平量木	None	None
 槸	None	录入中	None	None
 槷	None	录入中	None	None
 𣙗	None	录入中	None	None
