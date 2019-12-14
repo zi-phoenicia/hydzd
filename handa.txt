@@ -29905,12 +29905,29 @@
 㮏	nai4	同=柰	None	柰
 㮏	ni4	木立死	None	None
 㮏	na4	蘖生貌	None	None
-楂	None	录入中	None	None
-榃	None	录入中	None	None
-𣕽	None	录入中	None	None
-𣕾	None	录入中	None	None
-楚	None	录入中	None	None
-𣕿	None	录入中	None	None
+楂	cha2	木筏	None	None
+楂	cha2	柴门	None	None
+楂	cha2	同=槎 树枝；树杈	None	槎
+楂	cha2	树木砍伐后留下的残桩	None	None
+楂	cha2	叉子	None	None
+楂	cha2	姓	None	None
+楂	zha1	果木名，指蔷薇科山楂、野山楂一类的植物 果实红色、味酸，可食，也可入药	None	None
+楂	zha1	木名	None	None
+榃	tan2	方言 坑；水塘 多用作地名	None	None
+𣕽	None	同=𣓕	None	𣓕
+𣕾	chou2	@	None	None
+𣕾	bi4	@	None	None
+楚	chu3	丛莽	None	None
+楚	chu3	木名，牡荆属植物 马鞭草科 落叶灌木或小乔木 枝干坚劲，可以作杖	None	None
+楚	chu3	古时的刑杖，或学校扑责生徒的小杖 也指用杖打	None	None
+楚	chu3	痛苦	None	None
+楚	chu3	整齐	None	None
+楚	chu3	粗俗	None	None
+楚	chu3	鲜明；华美	None	None
+楚	chu3	古国名 1.周代诸侯国，战国时七雄之一 芈姓 熊绎受封于周成王，立国于荆山一带，都丹阳，周人称为荆蛮 后建都于郢 春秋、战国时，国势强盛，疆域扩大；其后渐弱，屡败于秦，迁都至陈，又迁寿春 至王负刍，为秦所灭 2.秦楚之际，自秦二世元年（公元前209年）至汉六年（公元前201年），八年之间，先陈胜起兵于蕲，自号楚王，后襄彊、景驹及怀王亦自号楚王 汉元年项羽自立为楚王，都下邳，汉六年，国除 3.五代十国之一 马殷据今湖南省，都长沙，称楚王 至马希萼、希崇时，为南唐所灭，历六主，五十六年（公元896年-951年）	None	None
+楚	chu3	今之湖南省、湖北省 特指湖北省	None	None
+楚	chu3	姓	None	None
+𣕿	None	同=棗	None	棗
 椻	None	录入中	None	None
 楋	None	录入中	None	None
 楅	None	录入中	None	None
