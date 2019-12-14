@@ -29298,36 +29298,86 @@
 㭲	None	同=极	None	极
 㭩	lie4	木名	None	None
 㭩	lie4	桅杆	None	None
-𣑿	None	录入中	None	None
-桴	None	录入中	None	None
-桵	None	录入中	None	None
-梒	None	录入中	None	None
-𣒬	None	录入中	None	None
-桰	None	录入中	None	None
-梚	None	录入中	None	None
-梑	None	录入中	None	None
-桷	None	录入中	None	None
-桻	None	录入中	None	None
-梈	None	录入中	None	None
-𣒷	None	录入中	None	None
-梓	None	录入中	None	None
-𣓀	None	录入中	None	None
-𣒂	None	录入中	None	None
-梳	None	录入中	None	None
-𪲛	None	录入中	None	None
-棁	None	录入中	None	None
-𣔐	None	录入中	None	None
-𣒁	None	录入中	None	None
-梯	None	录入中	None	None
-桫	None	录入中	None	None
-桬	None	录入中	None	None
-梁	None	录入中	None	None
-巣	None	录入中	None	None
-梡	None	录入中	None	None
-梥	None	录入中	None	None
-桹	None	录入中	None	None
-桾	None	录入中	None	None
-棂	None	录入中	None	None
+⿱爫呆	None	同=保	None	保
+𣑿	fu2	同=枹 击鼓槌	None	枹
+桴	fu2	房屋的二梁 也泛指房栋	None	None
+桴	fu2	用竹或木编成的小筏子	None	None
+桴	fu2	通=枹 鼓槌	None	枹
+桴	fu2	通=孚 孵伏，孵化	None	孚
+桵	rui2	木名 白桵，即棫	None	None
+梒	han2	果木名 即樱桃	None	None
+𣒬	None	同=𣛺	None	𣛺
+桰	kuo4	矫揉曲木的工具 后作=栝	None	栝
+桰	kuo4	箭末扣弦处 后作=栝	None	栝
+桰	kuo4	同=檜	None	檜
+梚	wan3	木名	None	None
+梑	di2	木名	None	None
+桷	jue2	方形的椽子	None	None
+桷	jue2	屋角斜柱	None	None
+桷	jue2	横平像桷的树枝	None	None
+桷	jue2	悬蚕箔的柱子	None	None
+桻	feng1	树梢	None	None
+桻	feng4	[桻子]肩负竹篓的商贩	None	None
+梈	peng1	木弩	None	None
+𣒷	han4	草木垂实	None	None
+梓	zi3	木名 紫葳科，落叶乔木 嫩叶可食，木材轻软耐朽，可供建筑及家具、乐器等用 皮可入药	None	None
+梓	zi3	治木器 或指治木器的人	None	None
+梓	zi3	饮器	None	None
+梓	zi3	印书的雕版 后因指印刷	None	None
+梓	zi3	故乡的代称	None	None
+梓	zi3	古州名 隋开皇末以新州改名，治所在今四川省三台县	None	None
+梓	zi3	梓州路的简称 北宋咸平四年置，治所在今四川省三台县	None	None
+梓	zi3	姓	None	None
+𣓀	zhen1	同=榛 果木名	None	榛
+𣓀	zhen3	草木众齐	None	None
+𣒂	dian4	门押	None	None
+梳	shu1	梳子	None	None
+梳	shu1	以梳理发	None	None
+梳	shu1	疏理；疏导	None	None
+𪲛	None	=檵的类推简化字	None	檵
+棁	tuo1	杖；棒	None	None
+棁	tuo1	通=脱 疏略；简略	None	脱
+棁	zhuo1	梁上的短柱	None	None
+棁	rui4	通=鋭 尖锐	None	鋭
+𣔐	zhi3	枝𣔐	None	None
+𣒁	None	同=栚	None	栚
+梯	ti1	梯子，便利人上下的用具或设备 如：楼梯；软梯；电梯	None	None
+梯	ti1	比喻导致事故的因由	None	None
+梯	ti1	梯形的 如：梯田；梯河	None	None
+梯	ti1	凭；依着	None	None
+梯	ti1	攀登 如：梯山航海	None	None
+梯	ti1	姓	None	None
+梯	ti2	通=荑 嫩芽；发芽	None	荑
+桫	suo1	木名 桫椤，蕨类植物 木本 茎柱状，高而直立 茎含淀粉，可供食用	None	None
+桬	sha1	[桬棠]木名 花赤，实味似李，无核	None	None
+梁	liang2	桥 如：桥梁；津梁	None	None
+梁	liang2	架桥	None	None
+梁	liang2	堤堰；鱼堰	None	None
+梁	liang2	屋梁 架在墙上或柱子上支撑房顶的横木	None	None
+梁	liang2	身体或物体上句中拱起或呈弧形的部分 如：脊梁；鼻梁；山梁	None	None
+梁	liang2	冠上横脊 古代统治阶级区分等级的冠饰	None	None
+梁	liang2	通=粱	None	粱
+梁	liang2	通=掠(lve4) 掠夺	None	掠
+梁	liang2	国名 1.周时诸侯国 2.战国七雄之一，即魏 魏惠王于公元前362年徙都大梁，故称梁 3.隋末梁师都据朔方郡称帝，国号梁 据有今陕西省北部、内蒙古自治区西南部等地，唐初被灭 4.罗川令萧铣于公元617年入据巴陵，自称梁王，次年称帝，据有今湖北省南部、湖南省、广东省等地，唐初被灭 5.吴兴太守沈法兴于公元619年据毗陵建国，自称梁王 据今江苏省、安徽省、长江以南土地，唐初被灭 6.元至元中甘麻剌据云南，自封梁王 后为明所灭	None	None
+梁	liang2	朝代名 1.南朝萧衍（梁武帝）所建（公元502-557年） 2.五代朱温（梁太祖）所建，史称后梁（公元907-923年）	None	None
+梁	liang2	古地名 春秋时周邑，后属楚，在今河南省汝州市东	None	None
+梁	liang2	古九州之一	None	None
+梁	liang2	古州名 三国魏景元四年（263年）置，治所在沔阳县（今陕西省勉县东）	None	None
+梁	liang2	古县名 秦置，治所在今河南省汝州市西南	None	None
+梁	liang2	古代山名 即今陕西省韩城市西北的山地	None	None
+梁	liang2	姓	None	None
+巣	None	同=巢	None	巢
+梡	han2	未劈开的木柴	None	None
+梡	han2	枝	None	None
+梡	kuan3	俎，虞舜时祭祀中陈列全牲等祭品的礼器，形有四足如几案	None	None
+梡	kuan3	木名	None	None
+梡	kuan3	刮摩	None	None
+梡	kuan3	捆在一起的柴枝	None	None
+梥	None	同=松	None	松
+桹	lang2	高木	None	None
+桹	lang2	渔人结在船舷上敲击以驱鱼入网的长木棒	None	None
+桾	jun1	[桾櫏]也作“桾𣘝”、“桾杄” 木名 即黑枣，也叫软枣，梬枣 柿树科 落叶乔木 木材良好，用途很广，常作车轴 实小而长，形如瓠，干熟则蓝黑色，熟后可供食用，也可入药 又含鞣质，可制柿漆，作雨具的涂料 种仁可榨油制肥皂 树皮、树枝可提取栲㬵	None	None
+棂	None	=欞的简化字	None	欞
 梫	None	录入中	None	None
 楖	None	录入中	None	None
 𣒺	None	录入中	None	None
