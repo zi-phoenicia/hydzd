@@ -30393,19 +30393,35 @@
 㮬	weng1	果木名	None	None
 㮳	zhen4	同=𣏖 木名	None	𣏖
 㮳	zhen4	同=栚 搁架蚕箔的横木	None	栚
-𣖼	None	录入中	None	None
-𣗽	None	录入中	None	None
-𣗸	None	录入中	None	None
-𣘑	None	录入中	None	None
-槰	None	录入中	None	None
-榤	None	录入中	None	None
-榴	None	录入中	None	None
-㮲	None	录入中	None	None
-榱	None	录入中	None	None
-槁	None	录入中	None	None
-槀	None	录入中	None	None
-槨	None	录入中	None	None
-榳	None	录入中	None	None
+⿰木⿸厃𠮷	None	同=檐	None	檐
+𣖼	xun2	大木，可作锄柄	None	None
+𣗽	None	同=㮰	None	㮰
+𣗸	tuo4	木叶落	None	None
+𣘑	None	同=檾	None	檾
+槰	peng4	同=𣟀 草木盛貌	None	𣟀
+榤	jie2	同=桀 木桩 也指鸡栖息的木桩	None	桀
+榴	liu2	果木名，即石榴 原名安石榴 石榴科，落叶灌木或小乔木 种子肉质层，供鲜食或加工成清凉饮料 花供观赏 果皮可以入药	None	None
+⿰木㽜	None	同=榴	None	榴
+㮲	chou1	木桊，即穿在牛鼻中系绳的小竹、木㮰或小铁环	None	None
+㮲	chou1	板木不正	None	None
+榱	cui1	即椽，放在檩上支持屋面和瓦片的木条	None	None
+槁	gao3	枯木	None	None
+槁	gao3	干枯	None	None
+槁	gao3	羸瘦；干瘪	None	None
+槁	gao3	死	None	None
+槁	gao3	敲打	None	None
+槁	gao3	同=笴 弓材	None	笴
+槁	kao4	犒劳 后作=犒	None	犒
+槁	gao1	木名	None	None
+槁	gao1	通=篙 撑船竿	None	篙
+槀	gao3	同=槁 干枯	None	槁
+槀	gao3	通=稾 草；草率	None	稾
+槀	gao3	东汉县名 故地在今河北省藁城市	None	None
+槀	gao3	[槀本]香草名，即藁本 伞形科，多年生草本 根茎及根可入药	None	None
+槀	gao3	箭干	None	None
+槀	kao4	同=槁 犒劳 后作=犒	None	槁
+槨	None	同=椁	None	椁
+榳	ting2	[㯪榳]长木貌	None	None
 𣖵	None	录入中	None	None
 槉	None	录入中	None	None
 𣖸	None	录入中	None	None
