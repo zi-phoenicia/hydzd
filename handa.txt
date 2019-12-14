@@ -30079,51 +30079,85 @@
 楯	chun1	同=䡅(輴) 1.古代载棺柩的车 2.古代用于泥路的一种交通工具	None	䡅
 楯	chun1	案	None	None
 椼	yan3	木名	None	None
-𣖅	None	录入中	None	None
-榆	None	录入中	None	None
-𣕆	None	录入中	None	None
-㮝	None	录入中	None	None
-楥	None	录入中	None	None
-椶	None	录入中	None	None
-𣔷	None	录入中	None	None
-𣔹	None	录入中	None	None
-𣕍	None	录入中	None	None
-𣖆	None	录入中	None	None
-𣔵	None	录入中	None	None
-𣕌	None	录入中	None	None
-楓	None	录入中	None	None
-楤	None	录入中	None	None
-𠣺	None	录入中	None	None
-楟	None	录入中	None	None
-𣖇	None	录入中	None	None
-𣖈	None	录入中	None	None
-𣓄	None	录入中	None	None
-𣔳	None	录入中	None	None
-㮞	None	录入中	None	None
-楶	None	录入中	None	None
-榇	None	录入中	None	None
-楌	None	录入中	None	None
-楴	None	录入中	None	None
-椸	None	录入中	None	None
-𣕛	None	录入中	None	None
-榈	None	录入中	None	None
-槎	None	录入中	None	None
-𣕂	None	录入中	None	None
-㮸	None	录入中	None	None
-楼	None	录入中	None	None
-椾	None	录入中	None	None
-㮍	None	录入中	None	None
-楢	None	录入中	None	None
-𣔾	None	录入中	None	None
-𣕲	None	录入中	None	None
-㮓	None	录入中	None	None
-榉	None	录入中	None	None
-楦	None	录入中	None	None
-𣖉	None	录入中	None	None
-𣔻	None	录入中	None	None
-𣔱	None	录入中	None	None
-楁	None	录入中	None	None
-楎	None	录入中	None	None
+⿱衍木	None	同=椼	None	椼
+𣖅	ti2	同=𣹲 研米槌	None	𣹲
+榆	yu2	木名 榆科植物泛称 种类很多，其中“白榆”叶为椭圆或倒卵形，三四月开花，色淡绿而紫 果实扁圆，可拌面蒸食，木材坚致，可供建筑或制器具用 树皮纤维柔韧，可代麻 果实、树皮和叶可入药	None	None
+榆	yu2	星名	None	None
+榆	yu2	通=輸(shu1) 泻	None	輸
+榆	yu2	通=摇(yao2) 摇动	None	摇
+榆	yu2	姓	None	None
+𣕆	None	同=橀	None	橀
+㮝	he2	角械	None	None
+㮝	he2	木下白	None	None
+㮝	he2	木名	None	None
+㮝	he2	案足	None	None
+楥	xuan4	同=楦 鞋楦	None	楦
+楥	yuan2	木名 柜柳，即榉柳	None	None
+楥	yuan2	栅栏；篱笆	None	None
+楥	yuan2	同=榬 古代络丝的器具	None	榬
+椶	zong1	木名 即棕榈 棕榈科，常绿乔木 茎圆柱形，不分枝，叶如扇形，簇生于茎端 叶鞘纤维质，暗褐色，俗称棕毛，可入药 杆可作屋柱、扇骨等 嫩叶经漂白可制扇、草帽 棕皮（亦称棕毛）可制绳索、蓑衣、毡毯等 常作观赏植物	None	None
+𣔷	xiao2	蚕棏	None	None
+𣔹	hou2	[𣔹桃]果名	None	None
+𣕍	sun3	同=簨 古代悬挂钟、鼓、磬的架上横木	None	簨
+𣖆	yun2	木名	None	None
+𣔵	chan2	同=欃 彗星的别名 一说木名	None	欃
+𣕌	gou1	同=枸	None	枸
+楓	feng1	木名，即枫香树 金缕梅科，落叶大乔木 古一名“欇欇”，今俗称枫树，秋叶艳红，故有“红枫”、“丹枫”之称 蒴果集生 木材轻软、细致，但易开裂，不耐朽，可制箱板 树脂、根、叶、果均入药 古诗词中，秋令红叶植物也称“枫”	None	None
+楓	feng1	槭属植物俗也称枫 如鸡爪枫、三角枫等	None	None
+楓	fan2	同=杋	None	杋
+楤	song3	木名 楤木，俗称“鹊不踏” 五加科 落叶灌木或乔木 树上耸无枝 茎有大刺，叶有小刺 果实近球形，紫黑色 树皮或称“海桐皮”，可入药	None	None
+楤	cong1	尖头担 用以挑柴草捆	None	None
+𠣺	bao4	木名	None	None
+⿰木亰	None	同=椋	None	椋
+⿰木㚆	None	同=椱	None	椱
+楟	ting2	木名 山梨	None	None
+𣖇	None	同=直	None	直
+𣖈	None	同=直	None	直
+𣓄	None	同=枇	None	枇
+𣔳	None	同=柝	None	柝
+㮞	None	同=楶	None	楶
+楶	jie2	斗拱，柱上支承大梁的方木	None	None
+榇	None	=櫬的简化字	None	櫬
+楌	yan2	木名	None	None
+楴	ti4	整发钗	None	None
+楴	di3	同=柢 树根	None	柢
+楴	shi4	木名	None	None
+椸	yi2	衣架	None	None
+椸	yi2	床前的几案	None	None
+𣕛	None	同=構	None	構
+榈	None	=櫚的简化字	None	櫚
+槎	zha3	斜砍；劈削	None	None
+槎	cha2	树枝；树杈	None	None
+槎	cha2	同=茬 庄稼收割后留在地里的短桩	None	茬
+槎	cha2	古代南方对人民的一种称呼	None	None
+槎	cha2	用同=碴 指提到的事，或人家刚说完的话	None	碴
+槎	cha2	同=楂 竹、木筏	None	楂
+𣕂	None	同=𢯭	None	𢯭
+㮸	None	=𠌡的讹字	None	𠌡
+⿰木类	None	同=樓	None	樓
+楼	None	=樓的简化字	None	樓
+椾	jian1	同=箋	None	箋
+椾	zhan4	同=棧 栈道	None	棧
+㮍	None	同=牋(箋)	None	牋
+楢	you2	木名 宜作车材，充薪炭	None	None
+楢	you3	同=槱 聚集（木柴以备燃烧）	None	槱
+𣔾	None	同=檖	None	檖
+𣕲	None	同=㮓	None	㮓
+㮓	None	同=亙(亘)	None	亙
+榉	None	=櫸的简化字	None	櫸
+楦	xuan4	楦子，做些用的模型	None	None
+楦	xuan4	用东西填紧或撑大物体的中空部分	None	None
+𬃫	None	=櫶的类推简化字	None	櫶
+𣖉	shan1	@	None	None
+𣔻	tu2	关闭门户所用的立木	None	None
+𣔻	tu2	榾柮，即树兜子，块柴	None	None
+𣔻	chan2	同=棎	None	棎
+𣔱	sou1	同=艘 船的总名	None	艘
+𣔱	sou1	木名，似白杨	None	None
+楁	he2	鞍楁	None	None
+楁	he2	椸架	None	None
+楎	hui1	三爪犂，即今用以播种的耧车 一说犂上曲木	None	None
+楎	hui1	钉在墙上作挂衣物用的木橛	None	None
 楄	None	录入中	None	None
 𣕄	None	录入中	None	None
 𣖒	None	录入中	None	None
