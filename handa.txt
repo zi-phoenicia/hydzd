@@ -29928,31 +29928,46 @@
 楚	chu3	今之湖南省、湖北省 特指湖北省	None	None
 楚	chu3	姓	None	None
 𣕿	None	同=棗	None	棗
-椻	None	录入中	None	None
-楋	None	录入中	None	None
-楅	None	录入中	None	None
-𣔿	None	录入中	None	None
-㮒	None	录入中	None	None
-楆	None	录入中	None	None
-𣖀	None	录入中	None	None
-𣖌	None	录入中	None	None
-楝	None	录入中	None	None
-楕	None	录入中	None	None
-椷	None	录入中	None	None
-楲	None	录入中	None	None
-𣖍	None	录入中	None	None
-㮎	None	录入中	None	None
-㮟	None	录入中	None	None
-㮌	None	录入中	None	None
-㮕	None	录入中	None	None
-𣔸	None	录入中	None	None
-楏	None	录入中	None	None
-𣖁	None	录入中	None	None
-𣖂	None	录入中	None	None
-㮜	None	录入中	None	None
-楷	None	录入中	None	None
-椔	None	录入中	None	None
-𣗀	None	录入中	None	None
+椻	yan4	堆木设障	None	None
+椻	ya4	同=揠 拔	None	揠
+楋	la4	木名	None	None
+楅	bi1	加在牛角上以防触人的横木	None	None
+楅	bi1	古代插箭的器具	None	None
+楅	bi1	木门后用以连结门板的横衬	None	None
+𣔿	None	同=㯺	None	㯺
+㮒	yan1	[㮒支]同“=橪支”	None	橪
+㮒	yin1	同=禋 祭	None	禋
+楆	yao1	枣名	None	None
+𣖀	None	同=梗	None	梗
+𣖌	zhi3	[𣖌𣕌]同“=䅩䅓” （草木）屈曲不伸	None	䅩
+楝	lian4	木名 楝树，又名苦楝 楝科，落叶乔木 小叶卵形或椭圆形，边缘有钝锯齿 圆锥花序，淡紫色 核果短矩圆状或近球形 种子油可制油漆、润滑油等；花可蒸芳香油；皮、叶、果入药；木材坚实，易加工，供制家具、乐器、舟车、农具等和建筑用	None	None
+楕	None	同=橢	None	橢
+椷	jian1	匣子；小箱子	None	None
+椷	jian1	杯子	None	None
+椷	jian1	用同=緘 书信；书信及其他物件的封口	None	緘
+椷	han2	同=函 容纳	None	函
+楲	wei1	小便器 典籍中“楲”、“窬（大便器）”连用，统称便器，即今便桶之类	None	None
+楲	wei1	决塘木，也叫通陂竇，即连通蓄水池塘与灌溉沟渠的闸柵	None	None
+𣖍	None	𣖍棖	None	None
+㮎	None	同=盃(杯)	None	盃
+㮟	nian3	磨㮟 ……按：……疑即=碾的会意，俗字	None	碾
+㮟	ka1	[㮟㮟]方言 角落；缝隙 也喻指狭窄或偏僻的地方	None	None
+㮌	None	同=棉	None	棉
+㮕	ruan3	同=檽	None	檽
+㮕	ruan3	果名，即梬枣	None	None
+㮕	ruan3	植物名 红兰，即红花 菊科，一年生草本 花呈橘红色，可入药	None	None
+𣔸	yin3	古地名	None	None
+楏	kui2	锄柄	None	None
+𣖁	None	同=榼	None	榼
+𣖂	None	同=枿(蘖)	None	枿
+㮜	zang1	木板盛物	None	None
+楷	jie1	木名，即黄连木 漆树科，落叶乔木 木质黄色，坚硬，细致，耐久，可供建筑、细木工等用 嫩叶可食或代用	None	None
+楷	jie1	喻人的品格刚直	None	None
+楷	kai3	法式；典范	None	None
+楷	kai3	汉字形体之一 楷书，也叫正书，真书	None	None
+楷	kai3	姓	None	None
+⿰木⿱𡿧田	zi1	直立着的枯木	None	None
+𣗀	None	同=楷	None	楷
 楨	None	录入中	None	None
 㮚	None	录入中	None	None
 𣖴	None	录入中	None	None
