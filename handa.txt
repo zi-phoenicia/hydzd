@@ -30627,17 +30627,52 @@
 𣙙	None	同=樕	None	樕
 樕	su4	[樸樕]小树	None	None
 𣘯	None	同=𦊫	None	𦊫
-樞	None	录入中	None	None
-樫	None	录入中	None	None
-𣙞	None	录入中	None	None
-標	None	录入中	None	None
-槱	None	录入中	None	None
-𣘦	None	录入中	None	None
-𣘣	None	录入中	None	None
-槭	None	录入中	None	None
-㯂	None	录入中	None	None
-槬	None	录入中	None	None
-樉	None	录入中	None	None
+樞	shu1	户枢 旧式门的转轴或承轴臼	None	None
+樞	shu1	指主开发的机关	None	None
+樞	shu1	枢纽关键；要领	None	None
+樞	shu1	旧指国家发号施令的机构或朝廷重臣	None	None
+樞	shu1	中医经络穴位名，即髀枢	None	None
+樞	shu1	本原；原始	None	None
+樞	shu1	星名 北斗第一星，也称“天枢”	None	None
+樞	shu1	姓	None	None
+樞	ou1	木名，即刺榆	None	None
+樫	jian1	[樫鳥]一名槠鸟，或名橿鸟，鸣禽类 形似乌，嘴脚皆黑，体之上面赤褐带灰色 体长约七寸 栖于山林，秋末到平野，食果实种子等	None	None
+𣙞	None	同=枓	None	枓
+標	biao1	树梢 也泛指末梢	None	None
+標	biao1	顶端	None	None
+標	biao1	柱竿之类	None	None
+標	biao1	旗帜	None	None
+標	biao1	指事物非根本性的一面 与“本”相对	None	None
+標	biao1	古代指北斗七星的第五至第七星	None	None
+標	biao1	始 与“终”相对	None	None
+標	biao1	标举；树立	None	None
+標	biao1	显出；表明	None	None
+標	biao1	标志；记号	None	None
+標	biao1	署名；书题	None	None
+標	biao1	用比价方式发包工程或买卖货物的手续 如：招标；投标；开标	None	None
+標	biao1	清代军队编制的名称 督抚等管辖的绿营兵称标	None	None
+標	biao1	古代兵器名	None	None
+標	biao1	榜样；准的	None	None
+標	biao1	格调；风度	None	None
+標	biao1	标致；美好	None	None
+標	biao1	威风；脾气	None	None
+標	biao1	用同=摽(piao1) 击；击杀	None	摽
+標	biao3	木名	None	None
+標	biao3	用同=瞟(piao3) 紧紧盯住	None	瞟
+標	biao3	落	None	None
+槱	you3	聚集（木柴以备燃烧）	None	None
+槱	you3	木柴	None	None
+槱	you3	烧；熏	None	None
+槱	chao3	同=炒	None	炒
+𣘦	yi1	同=黟 黑木，俗名㮧木	None	黟
+𣘣	chun2	木名	None	None
+槭	qi4	木名 槭树科槭树属植物的泛称 落叶乔木 主要特征为具对生叶和双翅果 种类繁多，我国产的有百余种 如：鸡爪槭（鸡爪枫）；平基槭（元宝树）；三角枫等 嫩叶可当蔬菜，种子可食 木材坚韧，可作器具 也可作观赏植物	None	None
+槭	qi4	用同=慽(qi1) 悲伤	None	慽
+槭	se4	树枝光秃，叶凋落貌	None	None
+㯂	dai4	搁架蚕箔的木柱	None	None
+槬	hua4	（钟）横大；宽大	None	None
+樉	shuang3	木名	None	None
+樉	shuang3	木茂貌	None	None
 𣙴	None	录入中	None	None
 樗	None	录入中	None	None
 㯇	None	录入中	None	None
