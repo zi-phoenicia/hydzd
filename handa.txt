@@ -30969,35 +30969,67 @@
 橬	qian2	量词 束	None	None
 橬	qin2	同=梣	None	梣
 𣚡	bi1	栖	None	None
-𣛔	None	录入中	None	None
-樸	None	录入中	None	None
-𣚠	None	录入中	None	None
-橖	None	录入中	None	None
-橕	None	录入中	None	None
-𣛟	None	录入中	None	None
-樶	None	录入中	None	None
-㯥	None	录入中	None	None
-檙	None	录入中	None	None
-檝	None	录入中	None	None
-橍	None	录入中	None	None
-㯗	None	录入中	None	None
-𣛕	None	录入中	None	None
-𣚕	None	录入中	None	None
-橺	None	录入中	None	None
-橌	None	录入中	None	None
-𣚤	None	录入中	None	None
-𣚧	None	录入中	None	None
-樻	None	录入中	None	None
-樿	None	录入中	None	None
-𣛫	None	录入中	None	None
-𣛹	None	录入中	None	None
-𣜅	None	录入中	None	None
-橆	None	录入中	None	None
-橅	None	录入中	None	None
-橇	None	录入中	None	None
-㯔	None	录入中	None	None
-橋	None	录入中	None	None
-𣛖	None	录入中	None	None
+⿱歮木	None	同=橤	None	橤
+𣛔	ji2	拘持	None	None
+樸	pu3	未经加工成器的木材	None	None
+樸	pu3	砍伐	None	None
+樸	pu3	本质；本性	None	None
+樸	pu3	质朴；厚重	None	None
+樸	pu3	指货物的成本	None	None
+樸	pu2	丛生的树木	None	None
+樸	pu2	采，即柞木	None	None
+樸	pu2	附着；依附	None	None
+𣚠	zhi3	木枝	None	None
+橖	tang2	车木	None	None
+橖	cheng1	同=樘 支柱；支撑	None	樘
+橕	cheng1	同=樘 支柱；支撑	None	樘
+橕	cheng1	橃	None	None
+𣛟	None	同=橕	None	橕
+樶	zui1	木节	None	None
+樶	zui1	橇	None	None
+㯥	cao2	同=曹	None	曹
+㯥	cao2	周匝，一周天	None	None
+㯥	zao2	日出明	None	None
+檙	cheng2	同=朾 撞击	None	朾
+檝	ji2	同=楫 船桨	None	楫
+橍	ran4	木名	None	None
+㯗	xian2	木名	None	None
+𣛕	chua3	树分杈	None	None
+𣚕	ye4	叶动貌	None	None
+𣚕	yan3	山桑	None	None
+橺	None	同=橌	None	橌
+橌	xian3	大木貌	None	None
+𣚤	None	同=樹	None	樹
+⿰木𭦟	None	同=槾	None	槾
+𣚧	None	同=𣘫	None	𣘫
+樻	kui4	木名，即椐 又名灵寿木 多肿节，可为手杖	None	None
+樻	kui4	同=匱(櫃) 收藏衣物、食物的家具	None	匱
+樿	shan4	木名 又名白理木 木质坚硬，纹白，可制梳、杓等物	None	None
+𣛫	hu2	枣名	None	None
+𣛹	chuan2	木名	None	None
+𣛹	chuai3	箠	None	None
+𣛹	chuai3	剟	None	None
+𣜅	None	同=椯	None	椯
+橆	wu3	同=蕪 丰茂；丰盛	None	蕪
+橆	wu2	同=無 没有	None	無
+橅	mo2	同=模 1.法式；规范 2.照着样子写或画	None	模
+橅	mo2	同=撫(fu3) 抚摩	None	撫
+橇	qiao1	古代用于泥地上行走的乘具 ……今指在冰雪上滑行的交通工具，即“雪橇”，俗名“爬犁”	None	None
+㯔	cui4	重捣	None	None
+橋	qiao2	桥梁，架在水上或空中以便通行的建筑物	None	None
+橋	qiao2	器物上的横梁	None	None
+橋	qiao2	木名	None	None
+橋	qiao2	通=喬 高	None	喬
+橋	qiao2	姓	None	None
+橋	jiao1	桔槔，井上汲水的工具 或指桔槔上的衡	None	None
+橋	jiao1	通=憍 骄傲；骄矜	None	憍
+橋	jiao4	牛贯鼻木	None	None
+橋	qiao1	同=橇 泥地或雪地上行走的乘具	None	橇
+橋	jiao3	通=檋 山行用具	None	檋
+橋	jiao3	通=矯 1.矫正 2.伪，虚假	None	矯
+橋	jiao3	劲疾	None	None
+橋	jiao3	通=槁(gao3) 干枯	None	槁
+𣛖	None	同=栲	None	栲
 㯚	None	录入中	None	None
 橁	None	录入中	None	None
 𣛗	None	录入中	None	None
