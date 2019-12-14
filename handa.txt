@@ -31030,38 +31030,61 @@
 橋	jiao3	劲疾	None	None
 橋	jiao3	通=槁(gao3) 干枯	None	槁
 𣛖	None	同=栲	None	栲
-㯚	None	录入中	None	None
-橁	None	录入中	None	None
-𣛗	None	录入中	None	None
-𣚔	None	录入中	None	None
-𣚙	None	录入中	None	None
-𣛜	None	录入中	None	None
-檇	None	录入中	None	None
-樵	None	录入中	None	None
-𣛘	None	录入中	None	None
-橰	None	录入中	None	None
-𣙾	None	录入中	None	None
-𣛝	None	录入中	None	None
-㯓	None	录入中	None	None
-㯡	None	录入中	None	None
-橎	None	录入中	None	None
-㯤	None	录入中	None	None
-𤕩	None	录入中	None	None
-檎	None	录入中	None	None
-橓	None	录入中	None	None
-橹	None	录入中	None	None
-橪	None	录入中	None	None
-橮	None	录入中	None	None
-𣚪	None	录入中	None	None
-𣚏	None	录入中	None	None
-橔	None	录入中	None	None
-橠	None	录入中	None	None
-橦	None	录入中	None	None
-樴	None	录入中	None	None
-𣚍	None	录入中	None	None
-𣚌	None	录入中	None	None
-𣚂	None	录入中	None	None
-㯙	None	录入中	None	None
+⿰木𥬳	None	同=𣖨	None	𣖨
+㯚	ta1	[㯚𣝋]同“=榙𣝋”	None	榙
+橁	chun1	木名，即香椿	None	None
+𣛗	luo4	[㰚𣛗]即“籬=落” 篱笆	None	落
+𣚔	xi4	木鞋	None	None
+𣚙	jian1	小栗	None	None
+𣚙	jian4	山梅	None	None
+𣛜	None	同=雜	None	雜
+檇	zui4	[檇李]1.果名 李的一种 皮色鲜红，肉多浆汁，味甜美 浙江省嘉兴市、桐乡市一带所产最著名 2.古地名 故地在今浙江省嘉兴市一带	None	None
+檇	zui4	以木捶物	None	None
+樵	qiao2	薪柴	None	None
+樵	qiao2	砍伐；打柴	None	None
+樵	qiao2	打柴的人	None	None
+樵	qiao2	焚烧	None	None
+樵	qiao2	通=譙 楼的别名	None	譙
+𣛘	None	同=榭	None	榭
+橰	None	同=槔	None	槔
+𣙾	None	同=樾	None	樾
+𣛝	None	同=楯	None	楯
+㯓	ta4	同=榻 类似床的坐卧用具	None	榻
+㯓	ta4	同=䈳 窗扇	None	䈳
+㯡	pao4	在木器上涂漆灰，待干后磨平再上漆	None	None
+㯡	pao2	赤黑之漆	None	None
+橎	fan3	木名	None	None
+㯤	li4	同=棘 酸枣	None	棘
+𤕩	None	同=樊	None	樊
+檎	qin2	[林檎]果木名，即花红 又叫“沙果” 蔷薇科，落叶小乔木 果卵形或近球形，黄色或红色，似苹果而小，可鲜食或加工制果干及酿酒 或谓此果味甘，果林能招众禽，故又有“林檎”、“来=禽”之名	None	禽
+橓	None	同=蕣	None	蕣
+⿰木⿸厃⿱八𢀛	None	同=檐	None	檐
+橹	None	=櫓的简化字	None	櫓
+橪	ran3	酸小枣	None	None
+橪	ran3	染	None	None
+橪	yan1	[橪支]也作“=撚支” 香草名 一说木名	None	撚
+橮	None	同=柳	None	柳
+𣚪	chui2	木垂	None	None
+𣚏	xu1	古代一种起土工具	None	None
+橔	dun1	枯	None	None
+橔	tui2	同=𧝋 棺木上的覆盖物	None	𧝋
+橠	nuo3	[𣘨橠]见“𣘨”	None	None
+橠	nuo2	[𣘨橠]见“𣘨”	None	None
+橦	chuang2	帐柱	None	None
+橦	chuang2	竿；柱	None	None
+橦	chuang2	穿在渡河缆绳上用以渡人的木筒	None	None
+橦	tong2	木名，即草棉 花可织布	None	None
+橦	zhong1	量词 木一截叫一橦	None	None
+橦	chong1	刺；击	None	None
+橦	chong1	通=䡴 古代陷阵车	None	䡴
+樴	zhi2	小木桩 也泛指桩子	None	None
+樴	zhi2	量词 相当于“枚”	None	None
+樴	yi4	同=杙 果木名	None	杙
+𣚍	None	同=檍	None	檍
+𣚌	di2	同=樀 屋檐	None	樀
+𣚌	shi4	木名	None	None
+𣚂	None	同=檹	None	檹
+㯙	zhe2	枣	None	None
 橀	None	录入中	None	None
 橏	None	录入中	None	None
 檨	None	录入中	None	None
