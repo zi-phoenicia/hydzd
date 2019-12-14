@@ -31610,31 +31610,70 @@
 㰒	xue2	@	None	None
 𣟉	huai4	木名	None	None
 櫯	su1	[櫯枋]木名 可作染料	None	None
-𣟤	None	录入中	None	None
-𣟊	None	录入中	None	None
-𣟎	None	录入中	None	None
-櫰	None	录入中	None	None
-櫬	None	录入中	None	None
-櫳	None	录入中	None	None
-㰍	None	录入中	None	None
-𣟥	None	录入中	None	None
-𣟅	None	录入中	None	None
-𣟐	None	录入中	None	None
-㰕	None	录入中	None	None
-櫿	None	录入中	None	None
-櫶	None	录入中	None	None
-𣟋	None	录入中	None	None
-㰑	None	录入中	None	None
-櫱	None	录入中	None	None
-櫽	None	录入中	None	None
-𣟇	None	录入中	None	None
-𣠝	None	录入中	None	None
-權	None	录入中	None	None
-𣠔	None	录入中	None	None
-櫺	None	录入中	None	None
-𣠌	None	录入中	None	None
-𣟷	None	录入中	None	None
-𣟵	None	录入中	None	None
+⿰木⿳⺈囗⺌⿱灬日	None	同=櫓	None	櫓
+𣟤	ying3	木名	None	None
+𣟊	niao3	木长弱貌	None	None
+𣟎	None	同=那	None	那
+櫰	huai2	木名 槐科，叶大色黑	None	None
+櫰	gui1	木名 其状如棠，圆叶赤实 实大如木瓜	None	None
+櫬	chen4	古称椑棺、空棺为榇 后泛指棺材	None	None
+櫬	chen4	梧桐的一种，即青桐	None	None
+櫬	chen4	樵薪	None	None
+櫬	qin4	木名，即木槿	None	None
+櫬	guan4	汲水器	None	None
+櫳	long2	围养禽兽的栅栏	None	None
+櫳	long2	窗上格木；窗户	None	None
+櫳	long2	用同=攏 梳理	None	攏
+㰍	long2	窗上格木；窗户 后作=櫳	None	櫳
+㰍	long2	同=櫳 养禽兽的牢笼	None	櫳
+𣟥	None	同=檍	None	檍
+𣟅	None	同=楹	None	楹
+𣟐	tiao2	木名	None	None
+㰕	None	同=𣟵	None	𣟵
+𭬮	None	同=㰕	None	㰕
+櫿	ying2	木名	None	None
+櫶	xian2	[櫶木]即=蜆木，椴树科，常绿乔木 木材坚实细致，可供建筑及制船舰、机械等用，为我国珍贵用材树种之一	None	蜆
+𣟋	qian1	木名	None	None
+㰑	shan1	木实	None	None
+櫱	nie4	同=蘖 树木砍去后重生的枝条 后泛指事物始生	None	蘖
+櫱	nie4	同=𧕏(蠥) 禽兽虫蝗之怪	None	𧕏
+櫱	nie4	通=孼 罪恶；灾殃	None	孼
+櫽	yin3	同=檃	None	檃
+櫽	yin3	同=檼 屋栋	None	檼
+𣟇	xiao3	器名	None	None
+⿰桒奥	None	同=𣡉	None	𣡉
+𣠝	None	同=𣚠	None	𣚠
+權	quan2	木名	None	None
+權	quan2	秤锤 也指秤	None	None
+權	quan2	称量	None	None
+權	quan2	衡量；比较	None	None
+權	quan2	平均；平衡	None	None
+權	quan2	星名 北斗七星之一	None	None
+權	quan2	权力；权柄	None	None
+權	quan2	威势	None	None
+權	quan2	权力 如：人权；公民权；选举权；发言权	None	None
+權	quan2	谋略	None	None
+權	quan2	变通；权变 即衡量是非轻重，因事制宜 古代常与“经（至当不变的道理）”相对	None	None
+權	quan2	佛教名词 “方便”的异名 与“实”相对 适于一时机宜之法名“权”，究竟不变之法名“实”	None	None
+權	quan2	代理（官职）	None	None
+權	quan2	充当；当作	None	None
+權	quan2	重	None	None
+權	quan2	秉，持	None	None
+權	quan2	黄色	None	None
+權	quan2	副词 表示情态，相当于“姑且”、“暂且”	None	None
+權	quan2	通=顴 面颊	None	顴
+權	quan2	周代国名 故都城在今湖北省当阳市东南	None	None
+權	quan2	姓	None	None
+權	guan4	同=樌(灌) 丛生的树木	None	樌
+權	guan4	通=爟 权火，古代祭祀时所举的燎火	None	爟
+⿳林罒𡬠	None	同=鬱	None	鬱
+𣠔	None	同=㯻	None	㯻
+櫺	ling2	窗子、栏杆或门上雕有花纹的格子	None	None
+櫺	ling2	屋檐	None	None
+櫺	ling2	有屋的船	None	None
+𣠌	None	=𣡌的讹字	None	𣡌
+𣟷	None	=撇的讹字	None	撇
+𣟵	xi1	瓢勺	None	None
 櫻	None	录入中	None	None
 欄	None	录入中	None	None
 欁	None	录入中	None	None
