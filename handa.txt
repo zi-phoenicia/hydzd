@@ -31113,42 +31113,74 @@
 橯	None	同=耮	None	耮
 𣚘	yi4	骏马名 相传为周穆王八骏之一	None	None
 ⿰木⿱穴伯	None	同=摍	None	摍
-橣	None	录入中	None	None
-𣚩	None	录入中	None	None
-𣛚	None	录入中	None	None
-橤	None	录入中	None	None
-樳	None	录入中	None	None
-𣛛	None	录入中	None	None
-𣚑	None	录入中	None	None
-樨	None	录入中	None	None
-𣚚	None	录入中	None	None
-樼	None	录入中	None	None
-𣚦	None	录入中	None	None
-𣙿	None	录入中	None	None
-㯢	None	录入中	None	None
-檃	None	录入中	None	None
-𣚉	None	录入中	None	None
-𣙼	None	录入中	None	None
-橙	None	录入中	None	None
-橃	None	录入中	None	None
-𣛾	None	录入中	None	None
-橘	None	录入中	None	None
-𣜽	None	录入中	None	None
-𣚈	None	录入中	None	None
-𣚎	None	录入中	None	None
-橼	None	录入中	None	None
-𣚓	None	录入中	None	None
-機	None	录入中	None	None
-𣜩	None	录入中	None	None
-𣜂	None	录入中	None	None
-檉	None	录入中	None	None
-𣝾	None	录入中	None	None
-𣝍	None	录入中	None	None
-𣛵	None	录入中	None	None
-檋	None	录入中	None	None
-檴	None	录入中	None	None
-𣟀	None	录入中	None	None
-𣝏	None	录入中	None	None
+橣	ning3	木名	None	None
+𣚩	chi4	分蚕	None	None
+𣛚	rui3	木名	None	None
+𣛚	rui3	同=橤	None	橤
+橤	rui3	同=蘂(蕊) 花；花蕊	None	蘂
+橤	rui3	同=繠 下垂貌	None	繠
+樳	xun2	传说中的大树，似槐	None	None
+𣛛	None	同=樺	None	樺
+𣚑	None	同=檮	None	檮
+樨	xi1	[木樨]桂 也作“木=犀”	None	犀
+𣚚	None	同=欘	None	欘
+樼	None	同=榛	None	榛
+𣚦	None	同=弶	None	弶
+𣙿	fei4	木名	None	None
+𣙿	fei4	碎木片	None	None
+㯢	zhen4	同=𣒁(栚) 搁架蚕箔的横木	None	𣒁
+檃	yin3	[檃栝]也作“檃括”、“=櫽栝” 1.矫正竹木弯曲的器具 2.（就原有的文章、著作）剪裁改写	None	櫽
+𣚉	None	同=樛	None	樛
+𣙼	si4	同=枱 古代翻土农具的木柄	None	枱
+𣙼	ci2	同=柌 镰柄	None	柌
+橙	cheng2	果木名 果实为橙子 芸香科橙属植物的泛称 常绿小乔木 叶椭圆或卵形 果实球形或长球形，橙红或橙黄色 果实品质优良，耐贮藏，供生食或加工	None	None
+橙	cheng2	橙子色；红和黄合成的颜色	None	None
+橙	deng4	同=凳 有腿无靠背的坐具	None	凳
+橃	fa2	海中大船	None	None
+橃	fa2	同=筏 用竹、木制作的水上运输工具	None	筏
+橃	fei4	木名 似柚	None	None
+橃	fei4	屋栋头	None	None
+𣛾	tou4	古地名 在今陕西省高陵县境	None	None
+橘	ju2	果木名 果实为橘子 芸香科，常绿灌木和小乔木 初夏开花，白色 果扁圆形，红或橙黄色，味酸甜不一，供食用 果皮、种子、树叶等均可入药	None	None
+橘	ju2	月阳名之一	None	None
+𣜽	qiao1	@	None	None
+𣚈	None	同=槮	None	槮
+𣚎	lei3	果子	None	None
+𣚎	lei3	扁榼	None	None
+橼	None	=櫞的简化字	None	櫞
+𣚓	juan4	木名	None	None
+機	ji1	古代弩箭上的发动机关	None	None
+機	ji1	泛指简易的制动装置，也指设有这种装置的器械	None	None
+機	ji1	特指织布机	None	None
+機	ji1	古代抬尸体的用具	None	None
+機	ji1	飞机的简称 如：客机；机群	None	None
+機	ji1	髋臼 人体髂骨、耻骨和坐骨会合处的外面共同形成凹陷髋臼 它与股骨头构成能作各方向运动的髋关节	None	None
+機	ji1	智巧；机巧	None	None
+機	ji1	机会；时机	None	None
+機	ji1	机密或有保密性质的事件	None	None
+機	ji1	事情变化的关键；有重要关系的环节	None	None
+機	ji1	事物变化的原由	None	None
+機	ji1	素质；秉赋	None	None
+機	ji1	生活机能 如：有机体；无机化学	None	None
+機	ji1	比喻迅疾	None	None
+機	ji1	门限	None	None
+機	ji1	星名	None	None
+機	ji1	通=幾 1.事物变化的迹象和征兆 2.危	None	幾
+機	ji1	通=異(yi4) 奇异；殊异	None	異
+機	ji1	用同=几 几案	None	几
+𣜩	None	同=隸	None	隸
+𣜂	sa4	枯𣜂	None	None
+⿰木⿱⿰土右皿	None	同=𣡶	None	𣡶
+檉	cheng1	木名 河柳，即柽柳 柽柳科 落叶小乔木 枝干可编筐，枝叶可入药	None	None
+檉	cheng1	古地名 春秋宋邑 故址在今河南省淮阳县西北	None	None
+𣝾	None	同=榛	None	榛
+𣝍	bo2	壁柱	None	None
+𣛵	que4	同=皵 树皮粗糙	None	皵
+檋	ju2	山行用具 有锥之屐 又名檋车	None	None
+檴	huo4	木名 椰榆	None	None
+檴	hua4	同=樺 桦木	None	樺
+𣟀	peng4	草木盛貌	None	None
+𣝏	gao4	苦木名	None	None
 𣝸	None	录入中	None	None
 𣝈	None	录入中	None	None
 檬	None	录入中	None	None
