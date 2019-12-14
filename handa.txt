@@ -29607,26 +29607,53 @@
 棍	gun4	棍棒 如：木棍；铁棍	None	None
 棍	gun4	无赖；坏人 如：恶棍；讼棍；游棍	None	None
 𣓍	None	同=𣔺	None	𣔺
-㭿	None	录入中	None	None
-𣔴	None	录入中	None	None
-棝	None	录入中	None	None
-棘	None	录入中	None	None
-棗	None	录入中	None	None
-椤	None	录入中	None	None
-𣔲	None	录入中	None	None
-棞	None	录入中	None	None
-㭼	None	录入中	None	None
-棡	None	录入中	None	None
-棢	None	录入中	None	None
-楇	None	录入中	None	None
-𣔫	None	录入中	None	None
-𣔒	None	录入中	None	None
-𣓞	None	录入中	None	None
-椥	None	录入中	None	None
-棰	None	录入中	None	None
-𣔪	None	录入中	None	None
-棃	None	录入中	None	None
-㮃	None	录入中	None	None
+㭿	ang2	[飛㭿]斜桷	None	None
+㭿	ang2	用同=枊 系牛马的柱子	None	枊
+𣔴	None	同=㽕	None	㽕
+棝	gu4	[棝斗]器名 可射鼠	None	None
+棘	ji2	酸枣 落叶乔木，有刺 果实较枣小，味酸，种子、果皮、根可入药 为蜜源植物，核壳可制活性炭	None	None
+棘	ji2	泛指有芒刺的草木 如：荆棘丛生；披荆斩棘	None	None
+棘	ji2	刺 如：棘手	None	None
+棘	ji2	棱角整饬，锋刃锐利	None	None
+棘	ji2	陈列	None	None
+棘	ji2	通=亟 急迫；紧急	None	亟
+棘	ji2	通=戟(ji3) 古代兵器	None	戟
+棘	ji2	通=瘠 羸瘠；贫瘠	None	瘠
+棘	ji2	通=偪(逼, bi1) 逼使	None	偪
+棘	ji2	地名 1.春秋鲁国的都城，字啊金山东省肥城市南 2.春秋楚国的都城，在今河南省永城市南 3.春秋时齐邑，在今山东省淄博市临淄区西北	None	None
+棘	ji2	姓	None	None
+棗	zao3	落叶乔木 种类颇多 枝有刺，实为核果，形椭圆或长椭圆，鲜嫩时黄色，成熟后紫红色，味甘美，供食用或药用，或蜜炙为蜜枣，或晒为枣干，可久藏 木材坚硬，赤心，可供雕刻，作车船、家具等	None	None
+棗	zao3	枣子	None	None
+棗	zao3	姓	None	None
+椤	None	=欏的简化字	None	欏
+⿰木𡶣	None	同=𢲻	None	𢲻
+𣔲	jiong3	枰床	None	None
+棞	jun4	木名	None	None
+㭼	ta4	柱上支承大梁的方木，即枓	None	None
+棡	gang1	横墙木	None	None
+棡	gang1	乔木名 俗名青㭎，通名橡树	None	None
+棡	gang1	用同=掆(扛) 举；抬	None	掆
+棢	None	同=輞	None	輞
+楇	huo3	同=輠 古时车上盛擦车轴油的容器	None	輠
+楇	guo1	纺车上收丝的工具	None	None
+楇	kuo3	击；横击	None	None
+𣔫	shuan1	连㭓木	None	None
+𣔒	None	同=槊	None	槊
+𣓞	None	同=槊	None	槊
+椥	zhi1	[槟椥]越南地名	None	None
+棰	chui2	同=捶 敲打	None	捶
+棰	chui2	同=箠 鞭子；马鞭	None	箠
+棰	chui2	杖；棍棒	None	None
+棰	duo3	木丛生貌	None	None
+𣔪	None	人名用字	None	None
+棃	li2	果木名 蔷薇科棃属植物的泛称 落叶乔木 种类很多 果供生食或制成多种加工品 后作=梨	None	梨
+棃	li2	草名	None	None
+棃	li2	苍老	None	None
+棃	li2	通=剺 分离；割开	None	剺
+棃	li2	通=黎 众	None	黎
+棃	li2	姓	None	None
+㮃	wei1	农具	None	None
+㮃	rui2	同=桵 木名	None	桵
 棅	None	录入中	None	None
 楰	None	录入中	None	None
 棿	None	录入中	None	None
