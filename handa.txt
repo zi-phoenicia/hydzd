@@ -30031,31 +30031,54 @@
 榀	pin3	量词 一个屋架叫一榀	None	None
 𣖎	None	同=楍	None	楍
 楍	None	同=本	None	本
-椯	None	录入中	None	None
-𣖃	None	录入中	None	None
-楞	None	录入中	None	None
-榾	None	录入中	None	None
-榘	None	录入中	None	None
-𣖏	None	录入中	None	None
-𣕅	None	录入中	None	None
-㮑	None	录入中	None	None
-𣖄	None	录入中	None	None
-楸	None	录入中	None	None
-㮔	None	录入中	None	None
-椱	None	录入中	None	None
-𣔼	None	录入中	None	None
-椴	None	录入中	None	None
-楩	None	录入中	None	None
-㮴	None	录入中	None	None
-棩	None	录入中	None	None
-椺	None	录入中	None	None
-楻	None	录入中	None	None
-槐	None	录入中	None	None
-楽	None	录入中	None	None
-楀	None	录入中	None	None
-槌	None	录入中	None	None
-楯	None	录入中	None	None
-椼	None	录入中	None	None
+椯	duo3	箠	None	None
+椯	duo3	剟	None	None
+椯	duo3	度量	None	None
+椯	chuan2	木名	None	None
+椯	chuan2	同=𦓚 古代盛酒的器皿	None	𦓚
+𣖃	None	同=椯	None	椯
+楞	leng2	同=棱 1.四方木 2.棱角，或表面一条条凸起的部分	None	棱
+楞	leng4	同=愣 1.失神；发呆 2.鲁莽；冒失	None	愣
+榾	gu3	木名 枸榾木	None	None
+榾	gu3	榾柮；断木头	None	None
+榾	gu3	用同=滑 纷乱；浑浊	None	滑
+榘	None	同=矩	None	矩
+𣖏	None	同=𣕅	None	𣕅
+𣕅	pao4	古代的重量单位，常因物而异，树木不固定	None	None
+㮑	cha1	木折断声	None	None
+㮑	qi4	[㮑𣖭]林木貌	None	None
+𣖄	qiao1	匕	None	None
+楸	qiu1	木名 紫葳科，落叶乔木 树干端直，蒴果细长 木材细致，耐湿，供建筑、造船及制器具等用 叶可喂猪，又可治猪疮 种子亦可入药	None	None
+楸	qiu1	棋盘	None	None
+㮔	chong2	木𣑁	None	None
+㮔	tong2	同=橦	None	橦
+椱	fu4	织布机上卷布用的轴	None	None
+𣔼	None	同=𣘠	None	𣘠
+椴	duan4	木名 椴树科椴树属植物的泛称 落叶乔木 木材优良，纹理细致，供建筑、造纸及制家具、胶合板、火柴杆等用 又为观赏树和蜜源植物	None	None
+椴	duan4	木名 即木槿	None	None
+椴	duan4	木桩	None	None
+椴	duan4	用同=籪 插在河溪中捕鱼蟹的竹栅之类	None	籪
+楩	pian2	木名	None	None
+㮴	None	同=艘	None	艘
+棩	yuan1	木弯曲	None	None
+椺	xi2	钟椺	None	None
+楻	huang2	用同=艎 船；船舱	None	艎
+槐	huai2	木名 槐树 豆科 落叶乔木 夏季开黄白色蝶形花 果实为长荚，木材坚密，可供建筑和制器之用 花蕾种子可入药，花可作黄色染料	None	None
+槐	huai2	草名，即续断 川续断科植物的泛称 多年生草本 种类颇多，根可入药	None	None
+槐	huai2	姓	None	None
+楽	None	同=樂	None	樂
+楀	yu3	木名	None	None
+楀	yu3	姓	None	None
+槌	zhui4	搁架蚕箔的木柱	None	None
+槌	chui2	捶击的器具	None	None
+槌	dui1	同=搥 掷	None	搥
+楯	shun3	栏杆的横木，也指栏杆	None	None
+楯	shun3	通=揗 拔擢	None	揗
+楯	dun4	同=盾 古代武器名，即盾牌	None	盾
+楯	chun1	木名	None	None
+楯	chun1	同=䡅(輴) 1.古代载棺柩的车 2.古代用于泥路的一种交通工具	None	䡅
+楯	chun1	案	None	None
+椼	yan3	木名	None	None
 𣖅	None	录入中	None	None
 榆	None	录入中	None	None
 𣕆	None	录入中	None	None
