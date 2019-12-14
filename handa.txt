@@ -29683,19 +29683,24 @@
 𣖐	pai1	[𣖐撻]即=拍撻，田垅被暴雨拍平	None	拍
 𣓡	None	同=綱	None	綱
 𣔬	pi2	同=椑 古代一种椭圆形的盛酒器	None	椑
-𣔙	None	录入中	None	None
-𣔓	None	录入中	None	None
-棆	None	录入中	None	None
-㮁	None	录入中	None	None
-棥	None	录入中	None	None
-𣓚	None	录入中	None	None
-㮆	None	录入中	None	None
-𣔔	None	录入中	None	None
-棌	None	录入中	None	None
-𣓆	None	录入中	None	None
-棯	None	录入中	None	None
-椕	None	录入中	None	None
-棇	None	录入中	None	None
+𬃊	None	=櫍的类推简化字	None	櫍
+𣔙	xian1	同=掀 嘲掀，轰闹	None	掀
+𣔙	xian1	掘土或铲东西用的工具，头为板状，后有较长的柄，用钢铁或木料制成 也作=鍁、=杴	None	鍁
+𣔓	bi3	木名	None	None
+棆	lun2	木名 即大叶钓樟 樟科，落叶灌木 树皮光滑，有黑斑 叶纸质，矩圆形或倒卵状矩圆形 果实球形 种子含油，供制肥皂、润滑油等 果皮、枝、叶可提芳香油 根、皮可入药	None	None
+㮁	xiao2	[㮁桃]栀子	None	None
+棥	fan2	篱笆 后作=樊	None	樊
+𣓚	None	=𠌶(華)的讹字	None	𠌶
+㮆	None	同=𣡌(蘖)	None	𣡌
+𣔔	None	同=朞	None	朞
+棌	cai3	木名，即槲	None	None
+棌	cai3	木名 柞木，即麻栎	None	None
+𣓆	yin2	通水具	None	None
+棯	ren3	果木名 枣树的一种	None	None
+棯	shen3	同=㰂 木名	None	㰂
+椕	bin1	木分	None	None
+棇	cong1	同=楤 尖头担	None	楤
+棇	song1	同=𣚜	None	𣚜
 棚	None	录入中	None	None
 棴	None	录入中	None	None
 𣔚	None	录入中	None	None
