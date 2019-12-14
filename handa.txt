@@ -30353,25 +30353,46 @@
 𣖱	zui1	同=樶 木节	None	樶
 𣖯	qin4	同=䈜 用墨汁蘸笔	None	䈜
 𣖰	pi2	木名 ……按：……疑为=𣓋的俗字	None	𣓋
-樤	None	录入中	None	None
-樇	None	录入中	None	None
-榫	None	录入中	None	None
-槜	None	录入中	None	None
-榭	None	录入中	None	None
-槔	None	录入中	None	None
-㮩	None	录入中	None	None
-㮧	None	录入中	None	None
-㮰	None	录入中	None	None
-榹	None	录入中	None	None
-槃	None	录入中	None	None
-榝	None	录入中	None	None
-𣗷	None	录入中	None	None
-榣	None	录入中	None	None
-槄	None	录入中	None	None
-榽	None	录入中	None	None
-槍	None	录入中	None	None
-㮬	None	录入中	None	None
-㮳	None	录入中	None	None
+⿰木倩	None	同=棈	None	棈
+樤	tiao2	同=條 1.小枝 2.木名，即柚	None	條
+樇	xiu1	木名	None	None
+榫	sun3	器物两部分利用凹凸相接的凸出部分	None	None
+榫	sun3	联系；连结	None	None
+槜	None	同=檇	None	檇
+榭	xie4	建在高台上的木屋（多用于游观）	None	None
+榭	xie4	古代指无室的厅堂 也为藏器或讲军习武的处所	None	None
+槔	gao1	桔槔，井上汲水工具 也泛指吊物的简单机械	None	None
+槔	gao1	木名	None	None
+㮩	xi1	木名	None	None
+㮧	wu1	[㮧槦]木中箭笴	None	None
+㮧	wu1	[㮧椑]青柿	None	None
+㮧	wen1	[㮧桲]即“=榅桲”	None	榅
+㮰	pi2	屋檐前板	None	None
+榹	si1	木盘	None	None
+榹	si1	果木名 山桃，又称毛桃 蔷薇科，落叶乔木 该果球形，有沟，有毛 果肉干燥，离核 北方用作桃的砧木 树花供观赏	None	None
+槃	pan2	同=盤 1.承盘；盘子 2.量词	None	盤
+槃	pan2	犁辕前可转动的部分	None	None
+槃	pan2	通=般 1.旋转；盘绕 2.盘桓；徘徊 3.快乐；游乐	None	般
+槃	pan2	姓	None	None
+榝	sha1	植物名，似茱萸，为樗叶花椒的果实	None	None
+榝	xie4	櫼 一说山桃	None	None
+𣗷	None	同=桊	None	桊
+榣	yao2	树动；摇动	None	None
+榣	yao2	木名	None	None
+槄	tao1	木名 楸属	None	None
+榽	xi1	[榽橀]木名	None	None
+槍	qiang1	古代武器名 长柄有尖头的刺击兵器 或削木为之，或装置金属尖头	None	None
+槍	qiang1	火枪 我国在13世纪中期使用的突火枪是最早的火器 今指口径在20毫米以下发射枪弹的武器 如：手枪；步枪；机关枪	None	None
+槍	qiang1	指枪形的东西，如茶叶的嫩芽等	None	None
+槍	qiang1	掘土除草的农具	None	None
+槍	qiang1	冲抵；碰撞	None	None
+槍	qiang1	指代人应考	None	None
+槍	qiang1	姓	None	None
+槍	cheng1	[欃槍]彗星	None	None
+槍	qiang3	逆刺	None	None
+㮬	weng1	果木名	None	None
+㮳	zhen4	同=𣏖 木名	None	𣏖
+㮳	zhen4	同=栚 搁架蚕箔的横木	None	栚
 𣖼	None	录入中	None	None
 𣗽	None	录入中	None	None
 𣗸	None	录入中	None	None
