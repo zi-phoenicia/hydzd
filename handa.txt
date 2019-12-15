@@ -36217,16 +36217,35 @@
 𣇅	None	同=昴	None	昴
 ⿰日严	None	=曮的类推简化字	None	曮
 㫲	bei4	昏暗	None	None
-晡	None	录入中	None	None
-𣆳	None	录入中	None	None
-曹	None	录入中	None	None
-晤	None	录入中	None	None
-𣇥	None	录入中	None	None
-㫳	None	录入中	None	None
-晨	None	录入中	None	None
-𣆽	None	录入中	None	None
-𣇗	None	录入中	None	None
-𣆟	None	录入中	None	None
+晡	bu1	申时，即午后三时至五时	None	None
+晡	bu1	夜；晚	None	None
+𣆳	geng3	日光	None	None
+𣆳	geng3	日高	None	None
+曹	cao2	古代指诉讼的原告和被告 即两曹	None	None
+曹	cao2	辈；类	None	None
+曹	cao2	偶；组	None	None
+曹	cao2	群；众	None	None
+曹	cao2	古代分科办事的官署或部门	None	None
+曹	cao2	陈旧；腐烂	None	None
+曹	cao2	古国名 1.西周的诸侯国 周武王封弟振铎于曹，称曹叔振铎 建都定陶（今山东省定陶县西南），故地在今山东省菏泽市、定陶、曹县一带 公元前467年为宋所灭 2.古西域国名 故地在今乌兹别克斯坦撒马尔罕的北方和东北方一带 古为昭武诸国之一，一度属唐管辖	None	None
+曹	cao2	古邑名 也作=漕 春秋时卫邑 在今河南省滑县旧县城东	None	漕
+曹	cao2	古州名 北周改西兖州置州 治所在左城（今曹县西北） 唐辖境相当于今山东省菏泽市、曹县、成武县、东明县及河南省兰考县、民权县等地 金移治乘氏（今菏泽市） 清雍正间废	None	None
+曹	cao2	姓	None	None
+晤	wu4	觉悟，受启发而明白	None	None
+晤	wu4	聪明	None	None
+晤	wu4	相遇，见面	None	None
+𣇥	None	同=暄	None	暄
+㫳	None	同=晨	None	晨
+晨	chen2	早晨	None	None
+晨	chen2	鸡啼报晓	None	None
+晨	chen2	星名 也作=曟 二十八宿之一的房星，也泛指二十八宿	None	曟
+晨	chen2	同=辰 辰时	None	辰
+𣆽	ze4	明	None	None
+⿱日⿸厂⿰亻亇	None	同=㫹	None	㫹
+𣇗	shen1	引	None	None
+𣆟	xie1	少	None	None
+𣆟	jie1	元顺帝时宫中私室名，即“兀该”	None	None
+𣆟	xxx	少数民族姓	None	None
 𣆺	None	录入中	None	None
 晘	None	录入中	None	None
 晛	None	录入中	None	None
