@@ -96047,9 +96047,11 @@
 𪂓	ju1	同=岨 戴土的石山	None	岨
 𪂌	ta4	鸟名	None	None
 𪂌	ta4	鸟食	None	None
-𪃀	None	录入中	None	None
-䳠	None	录入中	None	None
-鵹	None	录入中	None	None
+𬸕	None	=鸎的类推简化字	None	鸎
+𪃀	None	同=𪆹	None	𪆹
+䳠	shui4	同=𨿠 鹞子	None	𨿠
+䳠	zhu4	不飞	None	None
+鵹	li2	[鵹黄]黃=鸝	None	鸝
 𪃪	None	录入中	None	None
 鶂	None	录入中	None	None
 鶃	None	录入中	None	None
