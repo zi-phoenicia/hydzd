@@ -31687,59 +31687,83 @@
 ⿰喿虎	None	同=鈂	None	鈂
 𣠍	None	同=杶	None	杶
 ⿳𠂉卌⿱一⿰枯木	None	同=無	None	無
-𦉠	None	录入中	None	None
-𣟹	None	录入中	None	None
-𣟰	None	录入中	None	None
-𣟺	None	录入中	None	None
-櫼	None	录入中	None	None
-櫾	None	录入中	None	None
-𣟾	None	录入中	None	None
-欃	None	录入中	None	None
-𣟲	None	录入中	None	None
-㰔	None	录入中	None	None
-欀	None	录入中	None	None
-𣠐	None	录入中	None	None
-𣟸	None	录入中	None	None
-𣟻	None	录入中	None	None
-𣟯	None	录入中	None	None
-𣟴	None	录入中	None	None
-𣠎	None	录入中	None	None
-𣠏	None	录入中	None	None
-𣟼	None	录入中	None	None
-𣟽	None	录入中	None	None
-欇	None	录入中	None	None
-𣠞	None	录入中	None	None
-𣠮	None	录入中	None	None
-𣡊	None	录入中	None	None
-𣠷	None	录入中	None	None
-㰛	None	录入中	None	None
-㰗	None	录入中	None	None
-𣠚	None	录入中	None	None
-𣠟	None	录入中	None	None
-欉	None	录入中	None	None
-欋	None	录入中	None	None
-𣠠	None	录入中	None	None
-欈	None	录入中	None	None
-𣠭	None	录入中	None	None
-𣠙	None	录入中	None	None
-欆	None	录入中	None	None
-𣠴	None	录入中	None	None
-欎	None	录入中	None	None
-𣠡	None	录入中	None	None
-𣠛	None	录入中	None	None
-㰚	None	录入中	None	None
-𣠯	None	录入中	None	None
-㰘	None	录入中	None	None
-𣠜	None	录入中	None	None
-𣡉	None	录入中	None	None
-𣡛	None	录入中	None	None
-𣡆	None	录入中	None	None
-㰙	None	录入中	None	None
-𣡀	None	录入中	None	None
-𣠻	None	录入中	None	None
-𣠿	None	录入中	None	None
-𣠽	None	录入中	None	None
-欐	None	录入中	None	None
+𦉠	None	=𦉚的讹字	None	𦉚
+𣟹	sen1	同=槮 木长貌	None	槮
+𣟰	yu2	同=𣝑	None	𣝑
+𣟺	lian4	[㭺𣟺]见“㭺”	None	None
+櫼	jian1	木楔；木签	None	None
+櫼	jian1	枊；即“斗拱”	None	None
+櫼	shan1	同=檆(杉)	None	檆
+櫾	you2	古书中所称昆仑山河隅之长木	None	None
+櫾	you4	同=柚 果木名	None	柚
+𣟾	None	同=櫾	None	櫾
+欃	chan2	木名，即檀	None	None
+欃	chan2	星名 彗星的别名 典籍中常“欃槍”连用	None	None
+欃	chan2	锐	None	None
+欃	zhan1	水门	None	None
+𣟲	xian3	木名	None	None
+㰔	xie4	[㭯㰔]见“㭯”	None	None
+欀	xiang2	木名 皮中含有淀粉，可供食用，树干可做建筑材料	None	None
+欀	xiang2	木器里衬	None	None
+欀	xiang2	支撑屋架的部件	None	None
+欀	rang4	行道树	None	None
+𣠐	None	同=椁	None	椁
+𣟸	None	同=攗	None	攗
+𣟻	None	=檍的讹字	None	檍
+𣟯	None	同=𣟋	None	𣟋
+𣟴	None	同=閂	None	閂
+𣠎	xiao1	分一木	None	None
+𣠏	zou1	麻属	None	None
+𣠏	zou1	麻未沤泡	None	None
+𣟼	jiu1	收束；坚缚	None	None
+𣟼	qiao1	麻经久雨而根坏死	None	None
+𣟼	qiao1	生麻，指未经沤治的麻	None	None
+𣟽	lao4	麻茎大者	None	None
+𣟽	lao4	施绞于鞋底	None	None
+欇	she4	植物名，即紫藤 也称虎櫐、虎豆 豆科，高大木质藤本 春季开花，蝶形花冠，青紫色 荚果长10厘米-15厘米，密生绒毛 久经栽培，供观赏；花和种子供食用；树皮纤维可织物；果实可入药	None	None
+欇	she4	杖	None	None
+欇	she4	木名，即枫香树	None	None
+𣠞	zhe4	风吹树叶动貌	None	None
+𣠞	she4	同=欇	None	欇
+𣠮	None	同=無	None	無
+𣡊	None	=襼的讹字	None	襼
+𣠷	jian3	栈	None	None
+㰛	yue4	[㰛陽]也作“=櫟陽” 县名	None	櫟
+㰗	qi1	同=槭 木名	None	槭
+𣠚	liu2	[扶𣠚]藤名	None	None
+𣠚	liu2	檐霤	None	None
+𣠟	None	同=梣	None	梣
+欉	cong2	草木丛生 ……一说同=叢	None	叢
+欋	qu2	四齿耙	None	None
+欋	qu2	木根盘错	None	None
+欋	qu2	同=𦔬	None	𦔬
+𣠠	lei3	[魁𣠠]也作“傀=儡” 木偶戏	None	儡
+欈	wei2	[𣚁欈]见“𣚁”	None	None
+欈	zui4	同=檇	None	檇
+𣠭	duan3	@	None	None
+𣠙	None	同=標	None	標
+欆	shuang1	棹船羽	None	None
+𣠴	None	地名用字	None	None
+欎	None	同=鬱	None	鬱
+𣠡	None	同=柚	None	柚
+𣠛	None	同=雜	None	雜
+㰚	li2	同=籬 篱笆	None	籬
+㰚	li2	客栈	None	None
+𣠯	None	同=𣟴(閂)	None	𣟴
+㰘	yi2	木名	None	None
+𣠜	zhao4	未燃尽的木头	None	None
+𣡉	yu4	育蚕器	None	None
+𣡛	None	同=柩	None	柩
+𣡆	None	同=𣞙	None	𣞙
+㰙	nuo2	[𣘨㰙]也作“𣘨=橠” 枝弱	None	橠
+𣡀	None	=攫的讹字	None	攫
+𣠻	None	同=㰆(韛)	None	㰆
+𣠿	None	=㯺的讹字	None	㯺
+𣠽	None	同=欛	None	欛
+欐	li4	屋梁	None	None
+欐	li4	木名	None	None
+欐	li4	小船	None	None
+欐	li3	[欐佹]支柱 一说重累	None	None
 𣠼	None	录入中	None	None
 𣠸	None	录入中	None	None
 欏	None	录入中	None	None
