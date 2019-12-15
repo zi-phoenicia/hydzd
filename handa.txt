@@ -96596,16 +96596,22 @@
 𪆙	None	同=鷢	None	鷢
 鷢	jue2	[白鷢]又名“鸉” 鸟名，即白鹞子	None	None
 ⿸厥鸟	None	=鷢的类推简化字	None	鷢
-鷯	None	录入中	None	None
-鹩	None	录入中	None	None
-𪆚	None	录入中	None	None
-𪅽	None	录入中	None	None
-䴆	None	录入中	None	None
-𪅶	None	录入中	None	None
-鷪	None	录入中	None	None
-鷴	None	录入中	None	None
-鷼	None	录入中	None	None
-鷳	None	录入中	None	None
+⿰𣷚鳥	None	同=𪄭	None	𪄭
+鷯	liao2	[刀鷯]也作“鳭鷯” 鸟名	None	None
+鷯	liao2	鸟名 鹑	None	None
+鹩	None	=鷯的简化字	None	鷯
+𪆚	None	=𪄮(顧)的讹字	None	𪄮
+𪅽	None	同=𩀿	None	𩀿
+䴆	pu2	[䴆𪇰]鸟名	None	None
+䴆	pu1	旧说一种会占卜的鸟	None	None
+𪅶	None	同=氅	None	氅
+鷪	None	同=鸎(鶯)	None	鸎
+鷴	xian2	鸟名 白鷴 也作=鷳 雄的背部白色，有黑纹，腹部黑蓝色；雌的全身为棕绿色 分布于我国南部 为有名的观赏鸟	None	鷳
+鷴	xian2	同=鷳 鹞鹰	None	鷳
+鷴	xian2	今雉科鹇属各种鸟的通称 如：蓝腹鹇；黑胸鹇；白鹇	None	None
+鷼	None	同=鷴	None	鷴
+鷳	xian2	鹞鹰	None	None
+鷳	xian2	鸟名，即白鹇 也作=鷴	None	鷴
 𪅵	None	录入中	None	None
 鷤	None	录入中	None	None
 𪅺	None	录入中	None	None
