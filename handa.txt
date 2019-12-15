@@ -36094,44 +36094,79 @@
 時	shi2	姓	None	None
 晎	hong3	[晎晎]日欲明	None	None
 ⿱日共	None	同=異	None	異
-晋	None	录入中	None	None
-㫫	None	录入中	None	None
-晅	None	录入中	None	None
-曺	None	录入中	None	None
-𣆘	None	录入中	None	None
-𣆛	None	录入中	None	None
-晒	None	录入中	None	None
-𣆝	None	录入中	None	None
-晇	None	录入中	None	None
-𣆒	None	录入中	None	None
-𣆭	None	录入中	None	None
-𣆧	None	录入中	None	None
-晠	None	录入中	None	None
-晟	None	录入中	None	None
-𠕠	None	录入中	None	None
-晓	None	录入中	None	None
-晊	None	录入中	None	None
-晉	None	录入中	None	None
-𣆨	None	录入中	None	None
-晄	None	录入中	None	None
-晃	None	录入中	None	None
-冔	None	录入中	None	None
-晍	None	录入中	None	None
-𣆪	None	录入中	None	None
-𣆩	None	录入中	None	None
-𣆠	None	录入中	None	None
-𣆵	None	录入中	None	None
-𣆫	None	录入中	None	None
-𣆴	None	录入中	None	None
-晔	None	录入中	None	None
-晌	None	录入中	None	None
-晑	None	录入中	None	None
-𣆔	None	录入中	None	None
-𣌭	None	录入中	None	None
-𣆗	None	录入中	None	None
-晀	None	录入中	None	None
-晁	None	录入中	None	None
-𣆾	None	录入中	None	None
+晋	jin4	进 如：晋京；晋谒	None	None
+晋	jin4	升 如：晋级	None	None
+晋	jin4	六十四卦之一 卦形为x，坤下离上	None	None
+晋	jin4	内，里面	None	None
+晋	jin4	按；抑止	None	None
+晋	jin4	俯，低	None	None
+晋	jin4	通=搢 插	None	搢
+晋	jin4	通=鐏(zun1) 戈柄下端圆锥形的金属套，可以插入地中	None	鐏
+晋	jin4	通=箭(jian4)	None	箭
+晋	jin4	古国名 周成王封弟叔虞於唐，叔虞子燮父改国号为晋，春秋时据有今山西省大部与河北省西南地区，地跨黄河两岸 后被其大夫韩、赵、魏所分而亡	None	None
+晋	jin4	朝代名 1.司马炎代魏称帝，国号晋，都洛阳，史称西晋（公元265-316年），共四帝，为前赵所灭 2.司马睿即位建康，保有江南之地，史称东晋（公元317-420年），共十一帝，为刘裕所取代 3.五代时，石敬瑭灭后唐称帝，国号晋，都洛阳，史称后晋（公元936-946年）	None	None
+晋	jin4	水名 源出山西省太原市西南悬瓮山，分北、中、南三渠，东流入汾河	None	None
+晋	jin4	地名 山西省的简称 因春秋时晋国在此建国而得名	None	None
+晋	jin4	姓	None	None
+㫫	None	同=顯	None	顯
+晅	xuan1	日气	None	None
+晅	xuan1	明	None	None
+晅	xuan1	晒干	None	None
+曺	None	同=曹	None	曹
+𣆘	shi3	明	None	None
+𣆛	an4	同=暗	None	暗
+𣆛	wan3	同=晚	None	晚
+晒	None	同=曬	None	曬
+𣆝	None	同=暖	None	暖
+晇	xu1	同=旴 日始出	None	旴
+晇	kua1	人名用字	None	None
+⿱日㚏	None	同=昊	None	昊
+𣆒	xu2	急速	None	None
+𣆭	None	人名用字	None	None
+𣆧	hao4	夏天	None	None
+晠	sheng4	同=晟 光明	None	晟
+晠	sheng4	同=盛 盛大	None	盛
+晟	sheng4	光明	None	None
+晟	sheng4	同=盛 盛大	None	盛
+晟	sheng4	盛器；饭匮	None	None
+晟	jing1	同=晶 光亮	None	晶
+晟	cheng2	姓	None	None
+𠕠	cheng2	盛饭器具 ……一说=盛的讹字	None	盛
+晓	None	=曉的简化字	None	曉
+晊	zhi4	大	None	None
+晊	zhi4	明	None	None
+晉	None	同=晋	None	晋
+𣆨	None	同=鼠	None	鼠
+晄	huang3	同=晃 明	None	晃
+晃	huang3	明亮；光亮	None	None
+晃	huang3	闪耀	None	None
+晃	huang3	很快地闪过 如：一晃而过；虚晃一枪	None	None
+晃	huang3	姓	None	None
+晃	huang4	摇，摆 如：摇晃；摇头晃脑	None	None
+冔	xu3	殷代冠名	None	None
+晍	None	同=曈	None	曈
+𣆪	None	同=厚	None	厚
+𣆩	None	同⿱冊日	None	None
+𣆠	None	同=鬼	None	鬼
+𣆵	fu2	日光 ……一说=𣆫的讹字	None	𣆫
+𣆫	chang1	同=昌	None	昌
+𣆫	bu1	同=晡	None	晡
+𣆴	shan1	更	None	None
+晔	None	=曄的简化字	None	曄
+晌	shang3	正午或午时前后 如：晌午；晌饭；晌觉	None	None
+晌	shang3	泛指不多久的时间，犹言片时，一时	None	None
+晌	shang3	方言 指半天的时间 如：上半晌；下半晌	None	None
+晌	shang3	量词 旧时计算田地面积的单位 我国东北田地面积以晌计，指一天所种的数量，所以晌也作天或日 辽宁省南部以六亩为一晌，辽宁省北部以十亩为一晌，吉林省、黑龙江省等地则以十二亩为一晌	None	None
+晑	xiang4	明	None	None
+𣆔	zhou4	光	None	None
+𣌭	hui4	同=會	None	會
+𣌭	da2	同=答	None	答
+𣆗	cha1	日照水	None	None
+晀	tiao3	明	None	None
+晁	zhao1	同=朝 早晨	None	朝
+晁	chao2	姓 也作=鼌、=朝	None	鼌
+晁	zhao4	[晁陽]县名	None	None
+𣆾	None	同=𣇲 ……一说=昏的讹字	None	𣇲
 曻	None	录入中	None	None
 㫥	None	录入中	None	None
 𣆚	None	录入中	None	None
