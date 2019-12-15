@@ -36465,45 +36465,65 @@
 普	pu3	遍，全面 如：普及；普天之下	None	None
 普	pu3	对历史上普鲁士公国的简称 如：普法战争；普奥同盟	None	None
 普	pu3	姓	None	None
-曾	None	录入中	None	None
-晱	None	录入中	None	None
-𣈍	None	录入中	None	None
-𣇬	None	录入中	None	None
-晼	None	录入中	None	None
-晵	None	录入中	None	None
-𣇯	None	录入中	None	None
-𣈎	None	录入中	None	None
-𣇨	None	录入中	None	None
-㫽	None	录入中	None	None
-𢑢	None	录入中	None	None
-㫶	None	录入中	None	None
-𦐮	None	录入中	None	None
-𣈠	None	录入中	None	None
-𣉄	None	录入中	None	None
-𣉅	None	录入中	None	None
-暙	None	录入中	None	None
-𣉡	None	录入中	None	None
-暁	None	录入中	None	None
-晸	None	录入中	None	None
-𣉊	None	录入中	None	None
-𣉪	None	录入中	None	None
-暔	None	录入中	None	None
-鼌	None	录入中	None	None
-𣉋	None	录入中	None	None
-暕	None	录入中	None	None
-㬄	None	录入中	None	None
-暊	None	录入中	None	None
-㬉	None	录入中	None	None
-𠹉	None	录入中	None	None
-𣉆	None	录入中	None	None
-𣉇	None	录入中	None	None
-暘	None	录入中	None	None
-㬂	None	录入中	None	None
-𣈦	None	录入中	None	None
-㬈	None	录入中	None	None
-暒	None	录入中	None	None
-暍	None	录入中	None	None
-𣉌	None	录入中	None	None
+曾	zeng1	副词 1.表示出乎意料，相当于“乃”、“竟” 2.表示相承，相当于“则”、“是”、“就”	None	None
+曾	zeng1	代词 表示疑问，相当于“何”、“怎”	None	None
+曾	zeng1	犹重 指中间隔两代的亲属 如：曾祖；曾孙	None	None
+曾	zeng1	谦辞 犹“末”	None	None
+曾	zeng1	高举貌	None	None
+曾	zeng1	通=增 增加	None	增
+曾	zeng1	通=橧 聚柴以作居处	None	橧
+曾	zeng1	姓	None	None
+曾	ceng2	副词 表示动作行为已经进行，相当于“尝”、“已经” 如：曾经，曾是	None	None
+曾	ceng2	深	None	None
+曾	ceng2	通=層 1.重叠 2.高	None	層
+晱	shan3	电	None	None
+晱	shan3	晶荧貌	None	None
+𣈍	die2	积	None	None
+𣇬	qiong4	日干物	None	None
+晼	wan3	[晼晚]太阳偏西	None	None
+晵	qi3	白日雨止；雨止日出 也泛指雨过天晴	None	None
+晵	qi3	姓	None	None
+晵	du3	人名用字	None	None
+𣇯	None	同=昴	None	昴
+𣈎	wei4	@ ……按：当是=彙的讹俗字	None	彙
+𣇨	dai4	[曖𣇨]同“曖=曃”	None	曃
+㫽	lu4	太阳无光	None	None
+𢑢	hu3	豕属	None	None
+㫶	zhou3	明	None	None
+𦐮	None	同=友	None	友
+𣈠	bian4	光	None	None
+𣉄	chi2	毒出虿尾	None	None
+𣉅	cou4	半春	None	None
+暙	chun1	人名用字	None	None
+𣉡	ting3	@	None	None
+晸	zheng3	日出貌	None	None
+𣉊	None	同=曉	None	曉
+𣉪	huang3	旱热	None	None
+暔	nan2	古代国名	None	None
+鼌	None	=鼂的类推简化字	None	鼂
+𣉋	None	同=䁏	None	䁏
+⿰日㪅	None	同=𣆳	None	𣆳
+暕	jian3	明，阴雨后晴	None	None
+暕	lan2	阴干	None	None
+㬄	chan4	[㬄㫱]也作“㫱㬄” 1.温湿 2.小赤	None	None
+暊	xu3	明	None	None
+㬉	None	同=暖	None	暖
+𠹉	None	同=嘗	None	嘗
+𣉆	None	=睼的讹字	None	睼
+𣉇	None	同=則	None	則
+暘	yang2	日出 古称旸谷为日出之处	None	None
+暘	yang2	日，太阳	None	None
+暘	yang2	晴；曝	None	None
+暘	yang2	明亮	None	None
+暘	yang2	日中时	None	None
+㬂	yu2	人名用字	None	None
+𣈦	None	同=㬂	None	㬂
+㬈	wen1	日出而温	None	None
+暒	None	同=晴	None	晴
+暍	ye1	伤暑，中暑	None	None
+暍	ye1	热	None	None
+暍	ye1	变色	None	None
+𣉌	None	人名用字	None	None
 𣈨	None	录入中	None	None
 㬋	None	录入中	None	None
 𣈪	None	录入中	None	None
