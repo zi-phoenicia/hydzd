@@ -49498,53 +49498,80 @@
 𥜅	None	同=禄	None	禄
 𥜐	min3	[𥜐免]也作“=閔免”、“=黽免” 勤勉；努力	None	閔
 𥜏	gui4	@	None	None
-禮	None	录入中	None	None
-禯	None	录入中	None	None
-𥜃	None	录入中	None	None
-禬	None	录入中	None	None
-䄡	None	录入中	None	None
-䄠	None	录入中	None	None
-𥜄	None	录入中	None	None
-禱	None	录入中	None	None
-𥜖	None	录入中	None	None
-𥜓	None	录入中	None	None
-禲	None	录入中	None	None
-𥜒	None	录入中	None	None
-禰	None	录入中	None	None
-𥜗	None	录入中	None	None
-𥜘	None	录入中	None	None
-𥜟	None	录入中	None	None
-䄢	None	录入中	None	None
-𥜙	None	录入中	None	None
-𥜔	None	录入中	None	None
-𥜚	None	录入中	None	None
-𥜣	None	录入中	None	None
-䄤	None	录入中	None	None
-𥜥	None	录入中	None	None
-𥜠	None	录入中	None	None
-𥜢	None	录入中	None	None
-𥜨	None	录入中	None	None
-𥜦	None	录入中	None	None
-𥜧	None	录入中	None	None
-𥜩	None	录入中	None	None
-禴	None	录入中	None	None
-禳	None	录入中	None	None
-𥜲	None	录入中	None	None
-𥜬	None	录入中	None	None
-𥜯	None	录入中	None	None
-禵	None	录入中	None	None
-𥜭	None	录入中	None	None
-𥜮	None	录入中	None	None
-𥜱	None	录入中	None	None
-𥜰	None	录入中	None	None
-禶	None	录入中	None	None
-禷	None	录入中	None	None
-𥜵	None	录入中	None	None
-𥜴	None	录入中	None	None
-𥜸	None	录入中	None	None
-𥜶	None	录入中	None	None
-𥜹	None	录入中	None	None
-䄥	None	录入中	None	None
+禮	li3	敬神，祭神以致福	None	None
+禮	li3	礼节；礼貌 如：敬礼；有礼	None	None
+禮	li3	我国奴隶社会、封建社会的等级制度以及与此相适应的行为准则和道德规范	None	None
+禮	li3	为表敬意或表隆重而举行的仪式 如：婚礼；丧礼	None	None
+禮	li3	礼物，表示敬意的赠品 如：送礼；厚礼	None	None
+禮	li3	以礼相待，敬重 如：礼贤下士	None	None
+禮	li3	膜拜	None	None
+禮	li3	宴饮	None	None
+禮	li3	儒家经典名 《周禮》、《儀禮》、《禮記》通称“三禮”	None	None
+禮	li3	用同=理	None	理
+禮	li3	姓	None	None
+禯	nong2	厚祭	None	None
+𥜃	yi4	周代祭名 正祭之次日再祭曰𥜃	None	None
+禬	gui4	祭名 1.会福祭 2.消灾除病之祭	None	None
+禬	gui4	春秋时诸侯聚合财物接济盟国之礼	None	None
+䄡	dan1	[䄡𥜓]古代北方少数民族名	None	None
+䄠	None	同=禪	None	禪
+𥜄	guan1	古县名	None	None
+禱	dao3	向神祝告求福 如：祷告；祈祷	None	None
+禱	dao3	祝颂之词	None	None
+禱	dao3	请求	None	None
+禱	dao3	通=禂 为牲畜祭祷	None	禂
+𥜖	bo2	@	None	None
+𥜓	lan2	[䄡𥜓]古代北方少数民族名 见“䄡”	None	None
+禲	li4	厉鬼，指死无后人葬祭之鬼	None	None
+𥜒	yan3	除灾求福之祭	None	None
+禰	ni3	奉祀亡父的宗庙	None	None
+禰	ni3	古代军旅之事，常载神主而行，随行神主称祢	None	None
+禰	ni3	效法；仿效	None	None
+禰	ni3	古地名 故地在今山东省菏泽市西	None	None
+禰	mi2	姓	None	None
+禰	xian3	同=𤣗 秋猎	None	𤣗
+𥜗	None	人名用字	None	None
+𥜘	None	同=禀	None	禀
+𥜟	None	=獷的讹字	None	獷
+䄢	None	同=齋	None	齋
+𥜙	can3	@	None	None
+𥜔	None	同=祧	None	祧
+𥜚	you3	福	None	None
+⿰礻题	None	=禵的类推简化字	None	禵
+𥜣	None	同=禱	None	禱
+䄤	lai4	堕坏	None	None
+䄤	lan3	惰于祭祀	None	None
+𥜥	None	同=禩(祀)	None	禩
+𥜠	None	同=祣	None	祣
+𥜢	None	=𥜮的讹字	None	𥜮
+𥜨	None	同=禮	None	禮
+𥜦	ni3	同=禰	None	禰
+𥜦	xian3	同=獮	None	獮
+𥜧	None	同=䄥	None	䄥
+𥜩	None	同=神	None	神
+禴	None	同=礿	None	礿
+禳	rang2	祭名 除邪消灾的祭祀	None	None
+𥜲	xian3	同=獮 秋猎	None	獮
+𥜲	jian3	恭敬	None	None
+𥜬	ni3	同=禰	None	禰
+𥜬	xian3	同=𥙮(獮)	None	𥙮
+𥜯	None	同=禫	None	禫
+禵	None	同=禔	None	禔
+𥜭	guo3	神享	None	None
+𥜮	None	=𢹲的讹字	None	𢹲
+𥜱	None	同=祟	None	祟
+𥜰	shi1	祭名	None	None
+禶	zan3	祭祀	None	None
+⿰礻⿱人壐	None	同=禒	None	禒
+禷	lei4	祭名 以特别事故祭祀天神	None	None
+⿰礻蘥	None	同=礿	None	礿
+⿰礻𣍘	None	同=䄚	None	䄚
+𥜵	que4	除灾祭	None	None
+𥜴	qian1	祭	None	None
+𥜸	None	同=禫	None	禫
+𥜶	kui2	祭夫	None	None
+𥜹	None	同=禱	None	禱
+䄥	ling2	神名	None	None
 甘	gan1	美味	None	None
 甘	gan1	甜，五味之一	None	None
 甘	gan1	觉得甜；觉得好吃	None	None
