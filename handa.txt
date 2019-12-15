@@ -96410,27 +96410,41 @@
 鷁	yi4	同=鶂 水鸟	None	鶂
 鷁	yi4	头上画着鷁鸟的船 后泛称船	None	None
 鹢	None	=鷁的类推简化字	None	鷁
-鶼	None	录入中	None	None
-鹣	None	录入中	None	None
-鶯	None	录入中	None	None
-𪄠	None	录入中	None	None
-𪄫	None	录入中	None	None
-𪃽	None	录入中	None	None
-𪃂	None	录入中	None	None
-鶷	None	录入中	None	None
-鶱	None	录入中	None	None
-𪃾	None	录入中	None	None
-𪄑	None	录入中	None	None
-𪄋	None	录入中	None	None
-鶴	None	录入中	None	None
-鹤	None	录入中	None	None
-𪄡	None	录入中	None	None
-鶸	None	录入中	None	None
-𪅋	None	录入中	None	None
-䳳	None	录入中	None	None
-䳱	None	录入中	None	None
-鶭	None	录入中	None	None
-𪄉	None	录入中	None	None
+鶼	jian1	[鶼鶼]鸟名 即比翼鸟 也单用	None	None
+鶼	qian1	鸟啄物	None	None
+鹣	None	=鶼的简化字	None	鶼
+鶯	ying1	鸟类羽毛有文彩貌	None	None
+鶯	ying1	鸟名 又名仓庚、黄莺、黄鹂、黄鸟 如：莺歌燕舞；草长莺飞	None	None
+鶯	ying1	鸟纲莺科鸟类的通称 体型大多较麻雀为小，羽毛以绿褐色、灰绿色为主，主食昆虫，是农林益鸟 在我国分布很广，种类甚多	None	None
+𪄠	None	同=鷘	None	鷘
+⿰涑鸟	None	=𪄠的类推简化字	None	𪄠
+𪄫	None	同=鵌	None	鵌
+𪃽	None	同=䳕	None	䳕
+𪃂	liu2	水鸟名	None	None
+𪃂	liu2	水名	None	None
+鶷	xia2	[鶷𪆰]鸟名 1.反舌鸟，又名白舌 2.白头乌	None	None
+⿰害鸟	None	=鶷的类推简化字	None	鶷
+鶱	xian1	高飞貌	None	None
+𬸣	None	=鶱的类推简化字	None	鶱
+𪃾	rong2	[𪃾鸀]鸟名	None	None
+𪄑	su4	[𪄑爽]同“=鷫鷞”	None	鷫
+𪄋	None	同=𪅮	None	𪅮
+鶴	he4	水鸟名 1.白鹤 2.今鹤科各种水鸟的泛称 似鹭和鹳 体羽白色、灰色或灰黑色，嘴长而直，腿长而细，翼大善飞 常活动于平原水际或池泽地带，以小动物或植物为食 我国有丹顶鹤、灰鹤和蓑羽鹤多种 其中丹顶鹤体态潇洒且罕见，故人们以为贵重，有仙鹤之称	None	None
+鶴	he4	喻白色	None	None
+鶴	he4	锄头的头部	None	None
+鶴	he4	星名	None	None
+鶴	he4	通=翯 洁白肥美貌	None	翯
+鶴	he4	古州名 1.唐置 故址在今湖南省怀化市附近 2.元置 故治在今云南省大理白族自治州内	None	None
+鶴	he4	姓	None	None
+鹤	None	=鹤的简化字	None	鹤
+𪄡	None	同=鸇	None	鸇
+鶸	ruo4	昆鸟	None	None
+鶸	ruo4	雀科，金翅雀某些鸟的别称 是遍布我国东北、东南广大地区的小鸣禽 如金翅雀，别称黄腰绿鶸、小碛鶸或芦花黄雀，以其羽色鲜黄艳丽，鸣声悦耳，常备饲为笼鸟	None	None
+𪅋	ling2	鸟名	None	None
+䳳	xu4	小鸟名	None	None
+䳱	None	同=鶩	None	鶩
+鶭	fang3	水鸟名 泽虞 护田鸟	None	None
+𪄉	yong1	[𪄉𪆫]也作“=雝𪆫”、“雝𪆂”、“𪄉渠”、“𪄉𪆂” 鸟名，鹡鸰	None	雝
 𪅖	None	录入中	None	None
 𪄻	None	录入中	None	None
 𪆊	None	录入中	None	None
