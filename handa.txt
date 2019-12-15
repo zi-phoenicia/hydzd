@@ -36061,13 +36061,39 @@
 昭	zhao1	通=韶(shao2) 乐名	None	韶
 昭	zhao1	姓	None	None
 昭	zhao4	同=照 照亮；照耀	None	照
-昪	None	录入中	None	None
-𣅺	None	录入中	None	None
-㫪	None	录入中	None	None
-𣆞	None	录入中	None	None
-晆	None	录入中	None	None
-時	None	录入中	None	None
-晎	None	录入中	None	None
+𬀮	None	=㬣的类推简化字	None	㬣
+昪	bian4	同=忭 喜乐貌	None	忭
+昪	bian4	光明	None	None
+𣅺	you3	[𣅺炄]也作“=㶭炄” 欲干	None	㶭
+㫪	None	同=舂	None	舂
+𣆞	None	同=是	None	是
+晆	kui2	晆别	None	None
+時	shi2	季度；季节	None	None
+時	shi2	计时单位 1.时辰 我国古代以一昼夜分为十二时辰，每一时辰为两小时，合为二十四小时 2.小时，一昼夜的二十四分之一	None	None
+時	shi2	光阴；岁月	None	None
+時	shi2	指现在或过去的某一个时候，犹言“今时”、“当时”、“那时”	None	None
+時	shi2	按照规定的或一定的时间 如：列车准时到站	None	None
+時	shi2	适时；合于时宜	None	None
+時	shi2	时代；时世	None	None
+時	shi2	时势；时局	None	None
+時	shi2	时机；时运	None	None
+時	shi2	时尚；时髦	None	None
+時	shi2	善，鲜美	None	None
+時	shi2	处，处于	None	None
+時	shi2	承，承受	None	None
+時	shi2	代词 表示近指，相当于“此”、“这”	None	None
+時	shi2	伺候；等待	None	None
+時	shi2	语法范畴之一 通过一定的语法形式表示行为动作的时间 一般分为三种：现在时、过去时、将来时	None	None
+時	shi2	副词 表示时间、频率 1.相当于“常常”、“经常” 2.相当于“有时”、“偶尔” 3.两个“时”字配合使用，表示时而这样，时而那样；一会儿这样，一会儿那样	None	None
+時	shi2	连词 相当于“而”	None	None
+時	shi2	语气词 表示停顿，相当于“呵”	None	None
+時	shi2	通=塒	None	塒
+時	shi2	通=司(si1) 掌管	None	司
+時	shi2	移植；栽种 后作=蒔	None	蒔
+時	shi2	水名，即时水 一名耏水，一作如水	None	None
+時	shi2	姓	None	None
+晎	hong3	[晎晎]日欲明	None	None
+⿱日共	None	同=異	None	異
 晋	None	录入中	None	None
 㫫	None	录入中	None	None
 晅	None	录入中	None	None
