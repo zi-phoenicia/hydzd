@@ -31764,60 +31764,85 @@
 欐	li4	木名	None	None
 欐	li4	小船	None	None
 欐	li3	[欐佹]支柱 一说重累	None	None
-𣠼	None	录入中	None	None
-𣠸	None	录入中	None	None
-欏	None	录入中	None	None
-欑	None	录入中	None	None
-𣠺	None	录入中	None	None
-𣡈	None	录入中	None	None
-𣡇	None	录入中	None	None
-欒	None	录入中	None	None
-𣠾	None	录入中	None	None
-𣡋	None	录入中	None	None
-欗	None	录入中	None	None
-𣡕	None	录入中	None	None
-𣡘	None	录入中	None	None
-𣡖	None	录入中	None	None
-𥽽	None	录入中	None	None
-𣡌	None	录入中	None	None
-欓	None	录入中	None	None
-欔	None	录入中	None	None
-𣡗	None	录入中	None	None
-𣡍	None	录入中	None	None
-𣡡	None	录入中	None	None
-𣠹	None	录入中	None	None
-𣡎	None	录入中	None	None
-𣡦	None	录入中	None	None
-欖	None	录入中	None	None
-欛	None	录入中	None	None
-𣡣	None	录入中	None	None
-𣡠	None	录入中	None	None
-𣡞	None	录入中	None	None
-𣡧	None	录入中	None	None
-𣡟	None	录入中	None	None
-欙	None	录入中	None	None
-欝	None	录入中	None	None
-𣡥	None	录入中	None	None
-欘	None	录入中	None	None
-欚	None	录入中	None	None
-欜	None	录入中	None	None
-𣡪	None	录入中	None	None
-𣡭	None	录入中	None	None
-𣡫	None	录入中	None	None
-𣡰	None	录入中	None	None
-𣡩	None	录入中	None	None
-𣡸	None	录入中	None	None
-𣡳	None	录入中	None	None
-𣡴	None	录入中	None	None
-𣡵	None	录入中	None	None
-欟	None	录入中	None	None
-𣡶	None	录入中	None	None
-𣡷	None	录入中	None	None
-欞	None	录入中	None	None
-𣡼	None	录入中	None	None
-𣡽	None	录入中	None	None
-𣡾	None	录入中	None	None
-𣡿	None	录入中	None	None
+𣠼	lao3	木名	None	None
+𣠸	shuan1	竖木桩	None	None
+欏	luo2	木名，即檖	None	None
+欏	luo2	木名，即桫椤	None	None
+欏	luo2	篱笆	None	None
+欏	luo3	裂	None	None
+欑	cuan2	积竹杖，即“殳”	None	None
+欑	cuan2	聚集；丛积	None	None
+欑	cuan2	稾葬，即停放棺木暂时不葬	None	None
+欑	zuan4	同=鑽 钻孔	None	鑽
+𣠺	qie4	饭臿	None	None
+𣡈	None	古人姓名用字	None	None
+𣡇	None	同=鬱	None	鬱
+欒	luan2	木名 也叫栾华、灯笼树 无患子科 落叶乔木，羽状复叶，小叶卵形，花淡黄色，圆锥花序，结蒴果，长椭圆形 种子圆形黑色，叶子含鞣质，可制栲胶 花可提黄色染料，又可入药	None	None
+欒	luan2	古钟口的两角	None	None
+欒	luan2	栱，建筑物立柱和横梁之间成弓形的承重结构	None	None
+欒	luan2	同=鑾 古时皇帝车驾所用的铃 也指皇帝的车驾	None	鑾
+欒	luan2	通=孿 双生子	None	孿
+欒	luan2	古邑名 春秋属晋 故址在今河北省赵县西北	None	None
+欒	luan2	姓	None	None
+⿰木⿸𢇞睘	None	同=𣟴	None	𣟴
+𣠾	None	同=𣜄	None	𣜄
+𣡋	ni3	络丝的架子	None	None
+欗	lan2	木名，桂类	None	None
+𣡕	yan4	@	None	None
+𣡘	None	同=槽	None	槽
+𣡖	None	同=韛	None	韛
+𥽽	None	同=䊲	None	䊲
+𣡌	None	同=蘖	None	蘖
+欓	dang3	果木名，即樗叶花椒 又叫“欓子”、“食茱萸” 芸香科 落叶乔木，有刺 果实红色，开裂 果实可入药 果油味辛辣，可作调味用	None	None
+欓	tang4	木桶	None	None
+欔	jue2	木名	None	None
+欔	jue2	铁锹一类的工具	None	None
+⿰木𪃌	None	同=鸉	None	鸉
+𣡗	None	同=𣛕	None	𣛕
+𣡍	None	同=棘	None	棘
+𣡡	None	同=鬱	None	鬱
+𣠹	zuo2	木锥	None	None
+𣡎	cen2	荒	None	None
+𣡦	None	同=囊	None	囊
+欖	lan3	木名，即“橄欖”	None	None
+欛	ba4	同=杷 把柄，器物的柄	None	杷
+欛	ba4	用同=耙 农具名	None	耙
+𣡣	None	同=橝	None	橝
+𣡠	mian2	木密貌	None	None
+𣡞	yan2	同=檐 屋顶向旁伸出的边沿部分	None	檐
+𣡧	lei2	食樽	None	None
+𣡟	die2	木名	None	None
+欙	lei2	登山的桥，即梮	None	None
+欙	lei2	通=縲 古代拘系囚犯的黑索	None	縲
+欙	luo3	木名	None	None
+欝	None	同=鬱	None	鬱
+𣡥	None	=爨的讹字	None	爨
+欘	zhu2	同=斸 古代锄头一类的农具	None	斸
+欘	zhu2	斧、锄等器具的把	None	None
+欘	zhu2	古代的角度单位，指六十七度三十分的角度	None	None
+欘	zhu2	树枝弯曲	None	None
+欚	li3	船	None	None
+欚	li3	捕鸟兽的网	None	None
+欜	nang2	木名	None	None
+欜	nang2	盛物器具	None	None
+𣡪	None	同=囊	None	囊
+𣡭	die2	木名	None	None
+𣡫	None	同=爵	None	爵
+𣡰	na3	@	None	None
+𣡩	wan1	曲木	None	None
+𣡸	None	同=欝(鬱)	None	欝
+𣡳	None	同=太	None	太
+𣡴	None	同=檋	None	檋
+𣡵	None	同=欒	None	欒
+欟	None	同=罐	None	罐
+𣡶	yan2	木名 㬵可作香	None	None
+𣡷	None	同=栗	None	栗
+欞	ling2	长木	None	None
+欞	ling2	同=櫺	None	櫺
+𣡼	None	同=栗	None	栗
+𣡽	sha1	@	None	None
+𣡾	hu1	@	None	None
+𣡿	None	同=䂎	None	䂎
 支	zhi1	去竹的枝	None	None
 支	zhi1	枝条 后作=枝	None	枝
 支	zhi1	四肢 后作=肢	None	肢
