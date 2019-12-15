@@ -36637,20 +36637,28 @@
 曄	ye4	光明灿烂貌	None	None
 曄	ye4	盛貌	None	None
 曅	None	同=曄	None	曄
-㬒	None	录入中	None	None
-暯	None	录入中	None	None
-暮	None	录入中	None	None
-𣊔	None	录入中	None	None
-𣊀	None	录入中	None	None
-㬐	None	录入中	None	None
-𣉮	None	录入中	None	None
-𣉙	None	录入中	None	None
-𣉫	None	录入中	None	None
-㬍	None	录入中	None	None
-㬏	None	录入中	None	None
-𡭂	None	录入中	None	None
-𣉺	None	录入中	None	None
-𣉓	None	录入中	None	None
+㬒	mang3	日无光	None	None
+暯	mo4	夕，傍晚	None	None
+暯	mo4	昏暗	None	None
+暯	mo4	虚无	None	None
+暮	mu4	日落时，傍晚	None	None
+暮	mu4	指时间靠后，接近终末	None	None
+暮	mu4	迟，晚	None	None
+暮	mu4	喻指年老，衰弱	None	None
+暮	mu4	姓	None	None
+𣊔	meng2	[𣊔㬝]日无光	None	None
+𣊀	None	=𣉪的讹字	None	𣉪
+㬐	jin4	同=晋 春秋时国名，即晋国	None	晋
+㬐	zi1	同=鄑 古地名 春秋时鲁地，约在今山东省汶上县以南	None	鄑
+𣉮	bin1	@	None	None
+𣉙	None	同=𤌹 	None	𤌹
+𣉫	None	同=𣉚	None	𣉚
+㬍	bo2	暴	None	None
+㬏	li4	明	None	None
+𡭂	None	=𡭂的讹字	None	𡭂
+⿰日䎡	None	同=暖	None	暖
+𣉺	None	同=𥏬(唐)	None	𥏬
+𣉓	qi1	同=㬤 曝晒	None	㬤
 嘗	None	录入中	None	None
 暢	None	录入中	None	None
 𤲰	None	录入中	None	None
