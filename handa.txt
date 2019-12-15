@@ -36562,21 +36562,37 @@
 會	kuai4	计算；总计	None	None
 會	kuai4	古代一种贵族帽子（用以结饰采玉）的缝隙；或古代作朝服的蔽膝的领缝	None	None
 會	kuai4	撮合买卖的中间人 后作=儈	None	儈
-暖	None	录入中	None	None
-㬊	None	录入中	None	None
-𣉈	None	录入中	None	None
-𠂄	None	录入中	None	None
-𣉑	None	录入中	None	None
-㬌	None	录入中	None	None
-暗	None	录入中	None	None
-暆	None	录入中	None	None
-㒾	None	录入中	None	None
-𠘀	None	录入中	None	None
-暛	None	录入中	None	None
-㬁	None	录入中	None	None
-暅	None	录入中	None	None
-𣈶	None	录入中	None	None
-暄	None	录入中	None	None
+會	kuai4	通=旝 古代旗的一种	None	旝
+會	kuai4	同=鄶 古国名	None	鄶
+會	kuo4	[會撮]后颈的椎骨	None	None
+暖	nuan3	温暖，暖和	None	None
+暖	xuan1	柔婉	None	None
+㬊	huan3	明	None	None
+㬊	huan3	姓	None	None
+⿱⿰氏古日	None	同=昏	None	昏
+𣉈	None	同=昏	None	昏
+𠂄	huan1	[𠂄兜]也作“=驩兜” 传说中尧时四凶之一	None	驩
+𣉑	None	=𠤙(廐)的讹字	None	𠤙
+㬌	jing4	日色	None	None
+暗	an4	光线不足；不明亮	None	None
+暗	an4	深幽	None	None
+暗	an4	没有光泽，不鲜艳	None	None
+暗	an4	夜；天黑	None	None
+暗	an4	昏昧；不明白	None	None
+暗	an4	默不作声；隐密 如：暗害；暗杀	None	None
+暆	yi2	日徐行貌	None	None
+暆	yi2	太阳西斜	None	None
+㒾	shi4	[㒾𠕦]也作“𠕦㒾” 覆盖头面的巾帕	None	None
+𠘀	None	同=冬	None	冬
+暛	suo3	明朗	None	None
+㬁	None	同=𣆗	None	𣆗
+暅	None	同=𣈶	None	𣈶
+𣈶	xuan3	日气	None	None
+𣈶	geng4	曝，晒	None	None
+𣈶	geng4	干燥	None	None
+暄	xuan1	同=煖(暖) 温暖	None	煖
+暄	xuan1	春末	None	None
+暄	xuan1	方言 物体内部空隙多而松软 如：馒头很暄；沙土地暄，不好走	None	None
 暉	None	录入中	None	None
 暈	None	录入中	None	None
 暇	None	录入中	None	None
