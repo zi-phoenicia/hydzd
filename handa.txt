@@ -36347,61 +36347,114 @@
 ⿱日⿸耳人	None	同=最	None	最
 ⿱日⿸耳⿱丿丶	None	同=最	None	最
 朂	None	同=勖	None	勖
-最	None	录入中	None	None
-𣈏	None	录入中	None	None
-𣇪	None	录入中	None	None
-暎	None	录入中	None	None
-𣇣	None	录入中	None	None
-晽	None	录入中	None	None
-𣇰	None	录入中	None	None
-𣈅	None	录入中	None	None
-𣇮	None	录入中	None	None
-晰	None	录入中	None	None
-晳	None	录入中	None	None
-𣌼	None	录入中	None	None
-𣈆	None	录入中	None	None
-𣈇	None	录入中	None	None
-晻	None	录入中	None	None
-𣈟	None	录入中	None	None
-㫸	None	录入中	None	None
-暂	None	录入中	None	None
-朁	None	录入中	None	None
-𠕥	None	录入中	None	None
-㫵	None	录入中	None	None
-𣈉	None	录入中	None	None
-晫	None	录入中	None	None
-𣇫	None	录入中	None	None
-晿	None	录入中	None	None
-晶	None	录入中	None	None
-𣇵	None	录入中	None	None
-晹	None	录入中	None	None
-晪	None	录入中	None	None
-𣈣	None	录入中	None	None
-㬅	None	录入中	None	None
-㫼	None	录入中	None	None
-智	None	录入中	None	None
-𣇦	None	录入中	None	None
-𣈊	None	录入中	None	None
-晲	None	录入中	None	None
-𣇭	None	录入中	None	None
-暀	None	录入中	None	None
-㫹	None	录入中	None	None
-㑹	None	录入中	None	None
-㫻	None	录入中	None	None
-㫺	None	录入中	None	None
-𣇴	None	录入中	None	None
-晭	None	录入中	None	None
-𣇲	None	录入中	None	None
-𠕤	None	录入中	None	None
-𠕣	None	录入中	None	None
-𣇤	None	录入中	None	None
-晷	None	录入中	None	None
-𣇧	None	录入中	None	None
-晾	None	录入中	None	None
-景	None	录入中	None	None
-𣈋	None	录入中	None	None
-𣈐	None	录入中	None	None
-𣈌	None	录入中	None	None
+最	zui4	冒犯而取之	None	None
+最	zui4	古代考核军功或政绩时以上者为最	None	None
+最	zui4	指居于首要地位的人或事物	None	None
+最	zui4	要，要言	None	None
+最	zui4	凡要，即簿书的纲要，总目	None	None
+最	zui4	聚，聚合	None	None
+最	zui4	副词 1.表示推测、估计，相当于“凡”、“总” 2.表示程度，相当于“极”、“尤” 3.表示时间，相当于“正”、“正在”	None	None
+最	zui4	姓	None	None
+最	cuo1	同=撮	None	撮
+𣈏	None	同=焟	None	焟
+𣇪	None	同=曜	None	曜
+暎	None	同=映	None	映
+𣇣	None	=置的讹字	None	置
+晽	lin2	[晽晽]想要知道的样子	None	None
+𣇰	lin2	[佛𣇰]也作“拂=菻” 古国名 我国隋唐时指东罗马帝国及其所属西亚地中海沿岸一带 宋时指塞尔柱突厥人统治下的小亚细亚一带	None	菻
+𣈅	None	同=曹	None	曹
+𣇮	None	同=晳(晰)	None	晳
+晰	xi1	清除；明白	None	None
+晰	xi1	明辨	None	None
+晳	xi1	同=晰 清除；明白	None	晰
+晳	xi1	同=皙 白	None	皙
+𣌼	None	同=曹	None	曹
+𣈆	None	同=晋	None	晋
+𣈇	None	同=暗	None	暗
+晻	an4	同=暗	None	暗
+晻	an3	[晻藹]1.阴暗貌 2.盛貌	None	None
+晻	yan3	[晻晻]日无光	None	None
+晻	yan3	通=渰 云起貌	None	渰
+晻	yan3	通=奄 覆盖；重合	None	奄
+𣈟	None	同=揚	None	揚
+⿱⿰歹氏日	None	同=𣇲	None	𣇲
+㫸	jie1	[㫸𣋲]日欲没	None	None
+暂	None	=暫的简化字	None	暫
+朁	can3	副词 表示出乎意料，相当于“曾”、“竟”	None	None
+朁	qian2	[於朁]古县名 属今浙江省杭州市	None	None
+朁	jian4	同=僭 虚假	None	僭
+𠕥	None	同=𠕭	None	𠕭
+㫵	fei1	日色	None	None
+𣈉	None	同=督	None	督
+晫	zhuo2	明盛貌	None	None
+𣇫	wo3	明	None	None
+晿	chang1	人名用字	None	None
+晶	jing1	光亮	None	None
+晶	jing1	明净	None	None
+晶	jing1	日，太阳	None	None
+晶	jing1	水晶的简称 一种矿石，古又名水玉、石英 如：茶晶；墨晶	None	None
+晶	jing1	晶体 如：结晶；单晶硅 又喻果实，成果	None	None
+𣇵	None	同=晶	None	晶
+⿱⿰日氏日	None	同=𣇲(昏)	None	𣇲
+晹	yi4	太阳在云层里忽隐忽现	None	None
+晪	tian3	明	None	None
+𣈣	None	=𣋋的类推简化字	None	𣋋
+㬅	None	同=曼	None	曼
+㫼	None	同=晣(晢)	None	晣
+智	zhi4	智慧；聪明	None	None
+智	zhi4	机智；谋略	None	None
+智	zhi4	指聪明，有智慧的人	None	None
+智	zhi4	知识	None	None
+智	zhi4	通=知(zhi1) 知道	None	知
+智	zhi4	春秋时晋国地名，在今山西省永济市北	None	None
+智	zhi4	姓	None	None
+𣇦	chui2	地名	None	None
+𣈊	mu4	@	None	None
+晲	ni3	过午日偏斜	None	None
+晲	ni3	明	None	None
+𣇭	None	同=暀	None	暀
+暀	wang3	光	None	None
+暀	wang3	德	None	None
+暀	wang3	是	None	None
+暀	wang3	日光	None	None
+暀	wang4	同=旺	None	旺
+㫹	shu4	明	None	None
+㫹	shu4	暖	None	None
+㑹	None	同=會	None	會
+㫻	kun4	日光	None	None
+㫺	None	同=昔	None	昔
+𣇴	None	人名用字	None	None
+晭	None	同=㫶	None	㫶
+𣇲	None	同=昏	None	昏
+𠕤	None	同=冤	None	冤
+𠕣	qia4	同=帢 古代士人戴的一种便帽	None	帢
+𣇤	None	同=昒	None	昒
+晷	gui3	日光；亮光	None	None
+晷	gui3	光阴；时间	None	None
+晷	gui3	指日晷，一种测日影以定时刻的仪器，也指仪器上立表的投影	None	None
+𣇧	zhe4	日赫	None	None
+晾	liang4	晒（东西）	None	None
+晾	liang4	把东西放在通风或阴凉的地方使干燥	None	None
+晾	liang4	同=凉 把热的东西放一会，使温度降低	None	凉
+景	jing3	日光，亮	None	None
+景	jing3	指太阳	None	None
+景	jing3	明；光明；明亮	None	None
+景	jing3	照	None	None
+景	jing3	情况；现象	None	None
+景	jing3	景色；景致	None	None
+景	jing3	剧本的一幕中因布景的不同而划分的段落 如：第二幕第一景	None	None
+景	jing3	时光；光景	None	None
+景	jing3	仰慕；仰望	None	None
+景	jing3	古代出门御尘的罩衣 后作=幜	None	幜
+景	jing3	钟乳，即钟面上隆起的部分	None	None
+景	jing3	物理学旧时称光谱为景	None	None
+景	jing3	大	None	None
+景	jing3	山名 1.指河北省邯郸县境的景山 2.指河南省景山	None	None
+景	jing3	姓	None	None
+景	ying3	阴影 后作=影	None	影
+𣈋	None	[沺𣈋]地名 在云南省境内	None	None
+𣈐	None	=脆的讹字	None	脆
+𣈌	None	=𥆴的讹字	None	𥆴
 晬	None	录入中	None	None
 㒽	None	录入中	None	None
 普	None	录入中	None	None
