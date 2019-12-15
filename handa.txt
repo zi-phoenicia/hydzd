@@ -96367,30 +96367,49 @@
 𪄇	None	同=𩾿	None	𩾿
 ⿰鳥⿱爫⿻正一	None	同=⿰⿱爫⿻正一鳥	None	⿰
 ⿰⿱爫⿻正一鳥	None	同=鷂	None	鷂
-鷂	None	录入中	None	None
-鹞	None	录入中	None	None
-𪅎	None	录入中	None	None
-鷄	None	录入中	None	None
-䳶	None	录入中	None	None
-鶬	None	录入中	None	None
-鶲	None	录入中	None	None
-鹟	None	录入中	None	None
-𪃻	None	录入中	None	None
-𪄢	None	录入中	None	None
-鶹	None	录入中	None	None
-鹠	None	录入中	None	None
-鶵	None	录入中	None	None
-𪄞	None	录入中	None	None
-鶮	None	录入中	None	None
-鶺	None	录入中	None	None
-鹡	None	录入中	None	None
-𪅆	None	录入中	None	None
-鶶	None	录入中	None	None
-𪄄	None	录入中	None	None
-𪄟	None	录入中	None	None
-𪅠	None	录入中	None	None
-鷁	None	录入中	None	None
-鹢	None	录入中	None	None
+鷂	yao4	雀鹰的俗称 古名“鶙鵳”、“鹬子”、“籠脱”，今通称“鷂鹰”、“鷂子” 形体像鹰而比鹰小，背灰褐色，腹白带赤，捕小鸟、小鸡为食	None	None
+鷂	yao4	鹰科鷂属各种鸟的通称 我国常见的有白尾鷂、鹊鷂、白头鹞等	None	None
+鷂	yao2	鸟名 野鸡的一种	None	None
+鹞	None	=鷂的简化字	None	鷂
+𪅎	None	同=鵮	None	鵮
+鷄	ji1	家禽	None	None
+鷄	ji1	小虫醯鸡的省称 即蠛蠓 古人误认为是由酒醋上的白霉所变成	None	None
+鷄	ji1	姓	None	None
+䳶	xi1	[䳶𪀦]也作“=鸂𪀦” 水鸟名	None	鸂
+䳶	ji1	同=雞	None	雞
+鶬	cang1	鸟名 麋鸹 似鹤，体苍青色 又名“鶬鴰” 也单用	None	None
+鶬	cang1	传说中的九头怪鸟 又名“奇鶬”、“鶬鸆”、“逆鶬”、“鬼車”	None	None
+鶬	cang1	[鶬鶊]也作“=倉庚” 鸟名 即黄鹂	None	倉
+鶬	cang1	鸟名 鶂	None	None
+鶬	qiang1	[鶬鶬]也作“=鏘鏘” 金属撞击声	None	鏘
+鶬	qiang1	金饰貌	None	None
+鶲	weng1	鸟名	None	None
+鶲	weng1	鸟类的一科 形体小，嘴稍扁平，常久栖树枝，窥视飞虫，突出捕获后，复飞返原处 种类甚多 如：乌鹟、北灰鹟、白眉鹟等 都是农林益鸟	None	None
+鹟	None	=鶲的类推简化字	None	鶲
+𪃻	None	同=䳮	None	䳮
+𪄢	None	同=𪄆	None	𪄆
+⿱鸟⿰鸟鸟	None	=𪈼的类推简化字	None	𪈼
+鶹	liu2	[鶹鷅]也作“=留離”、“=流離” 鸟名，即枭	None	留
+鶹	liu2	鸺鹠的省称	None	None
+鹠	None	=鶹的类推简化字	None	鶹
+鶵	None	同=雛	None	雛
+𪄞	None	同=鶵(雛)	None	鶵
+⿰⿱亠𭩠鳥	None	同=鸇	None	鸇
+鶮	he4	同=鶴	None	鶴
+鶮	hu2	古地名	None	None
+鶺	ji2	[鶺鴒]鸟名 鸟类鹡鸰属各种的通称 如：白鹡鸰、黄鹡鸰、山鹡鸰等 体小，嘴尖细，尾长 飞时呈波状，边飞边鸣 栖止时尾不断摇动 常在水边觅食昆虫	None	None
+鹡	None	=鶺的简化字	None	鶺
+𪅆	li2	[黄𪅆]也作“黃=鸝”	None	鸝
+鶶	tang2	[鶶鷵]鸟名	None	None
+⿰唐鸟	None	=鶶的类推简化字	None	鶶
+𪄄	None	同=鵰	None	鵰
+𪄟	None	同=鸇	None	鸇
+⿱⿰方⿱厶天鳥	None	同=鷟	None	鷟
+⿱玆鳥	None	同=鷀	None	鷀
+𪅠	None	[老𪅠]鸟名	None	None
+鷁	yi4	同=鶂 水鸟	None	鶂
+鷁	yi4	头上画着鷁鸟的船 后泛称船	None	None
+鹢	None	=鷁的类推简化字	None	鷁
 鶼	None	录入中	None	None
 鹣	None	录入中	None	None
 鶯	None	录入中	None	None
