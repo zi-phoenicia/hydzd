@@ -35880,36 +35880,102 @@
 𣅳	None	同=昃	None	昃
 𣅴	None	同=炄	None	炄
 旹	None	同=時	None	時
-春	None	录入中	None	None
-昩	None	录入中	None	None
-昧	None	录入中	None	None
-𣆇	None	录入中	None	None
-昰	None	录入中	None	None
-㫩	None	录入中	None	None
-是	None	录入中	None	None
-昮	None	录入中	None	None
-㫢	None	录入中	None	None
-昞	None	录入中	None	None
-昺	None	录入中	None	None
-昦	None	录入中	None	None
-昚	None	录入中	None	None
-昜	None	录入中	None	None
-昽	None	录入中	None	None
-𣆈	None	录入中	None	None
-显	None	录入中	None	None
-㫜	None	录入中	None	None
-冒	None	录入中	None	None
-𣅼	None	录入中	None	None
-𣆉	None	录入中	None	None
-𣆊	None	录入中	None	None
-𣆜	None	录入中	None	None
-映	None	录入中	None	None
-㫛	None	录入中	None	None
-𣅷	None	录入中	None	None
-𣅾	None	录入中	None	None
-𣌧	None	录入中	None	None
-𣅻	None	录入中	None	None
-𣌬	None	录入中	None	None
+春	chun1	一年四季的第一个季节 我国习惯指农历正月至三月	None	None
+春	chun1	泛指一年	None	None
+春	chun1	春色；喜色	None	None
+春	chun1	生长	None	None
+春	chun1	东方	None	None
+春	chun1	指男女情欲	None	None
+春	chun1	唐人呼酒为春	None	None
+春	chun1	方言 广东称禽鱼卵为春	None	None
+春	chun1	姓	None	None
+春	chun3	通=蠢 振作	None	蠢
+昩	mo4	日中不明	None	None
+昧	mei4	冥，昏暗	None	None
+昧	mei4	昏愚；迷乱	None	None
+昧	mei4	掩蔽不显；隐瞒	None	None
+昧	mei4	违背	None	None
+昧	mei4	贪；贪图	None	None
+昧	mei4	冒犯 如：冒昧	None	None
+昧	mei4	古乐名	None	None
+昧	mei4	星名	None	None
+昧	mei4	县名	None	None
+昧	wen3	割，割断	None	None
+昧	mo4	人名用字 春秋时吴有馀昧	None	None
+𣆇	None	同=㫘	None	㫘
+昰	shi4	同=是	None	是
+昰	xia4	同=夏	None	夏
+㫩	None	同=春	None	春
+是	shi4	正，直，与“曲”相对	None	None
+是	shi4	法则	None	None
+是	shi4	对，正确，与“非”相对 如：一无是处；自以为是	None	None
+是	shi4	表示肯定判断 1.表示解释或分类 2.表示存在 如：满身是汗；山上全是树；宿舍前面是花园 3.“是”前后是相同的词语（两次以上），连用这样的格式，表示严格区分，绝不含糊 如：敌是敌，友是友；一是一，二十二；丁是丁，卯是卯；说是说，做事做，有意见也不能耽误干活	None	None
+是	shi4	匡正；订正	None	None
+是	shi4	代词 1.表示近指，相当于“此”、“这” 2.表示确指，把宾语提在谓词之前 如：唯你是问；唯命是从；唯利是图	None	None
+是	shi4	表示加重或加强肯定语气 如：是谁告诉你的；是国防战士日日夜夜地保卫着祖国 在加强肯定语气中，又含有“的确”、“实在”的意思 如：这天气是冷；这本书是好	None	None
+是	shi4	表示凡是，任何 如：是活儿他都肯干	None	None
+是	shi4	用在选择问句、是非问句或反问句里 如：你是吃饭是吃面？你是累了不是？他不是走了吗？	None	None
+是	shi4	用在动词后面的两个数量结构之间，含有“算作”或“作数”的意思 如：走一步是一步	None	None
+是	shi4	表示应答的词 如：是，我马上去办	None	None
+是	shi4	副词 1.表示承接，相当于“则”、“就”、“便” 2.表示范围，相当于“只”	None	None
+是	shi4	连词 1.表示前后相关，相当于“于是” 2.表示因果关系，相当于“因此” 3.表示让步关系，相当于“虽”、“虽然”	None	None
+是	shi4	用同=試 尝试	None	試
+是	shi4	用同=甚(什) 什么；怎么	None	甚
+是	shi4	用同=甚 极，很	None	甚
+是	shi4	通=寔(shi2) 1.充实；充满 2.真实；实在	None	寔
+是	shi4	通=視 审视	None	視
+是	shi4	通=時 当时；此时；那时	None	時
+是	shi4	姓	None	None
+是	ti2	月边	None	None
+是	ti2	肯定；认为是正确的	None	None
+昮	zong4	功人	None	None
+㫢	qu4	@	None	None
+昞	bing3	同=炳 明，明亮	None	炳
+昞	fang3	同=昉 日初明	None	昉
+昺	bing3	同=炳 明，明亮	None	炳
+昦	None	同=昊	None	昊
+昚	None	同=慎	None	慎
+⿱日⿸厂彐	None	同=申	None	申
+昜	None	同=陽	None	陽
+昽	None	=曨的简化字	None	曨
+𣆈	huo4	@	None	None
+⿰日⿻十䒑	None	同=晬	None	晬
+显	None	=顯的简化字	None	顯
+㫜	tan3	明	None	None
+冒	mao4	帽子 后作=帽	None	帽
+冒	mao4	古代装殓死人所用的套子	None	None
+冒	mao4	覆盖	None	None
+冒	mao4	漫溢	None	None
+冒	mao4	干犯；触犯	None	None
+冒	mao4	顶着；不顾（险恶）	None	None
+冒	mao4	轻率；莽撞	None	None
+冒	mao4	假充；冒充 如：冒领；冒牌	None	None
+冒	mao4	向外透；往上升 如：冒烟；冒气；冒汗	None	None
+冒	mao4	贪	None	None
+冒	mao4	通=懣(men4) 气郁；中医指晕眩，昏厥	None	懣
+冒	mao4	嫉妒 后作=媢	None	媢
+冒	mao4	天子所执之玉，用以合诸侯之圭 后作=瑁	None	瑁
+冒	mao4	方言 没，没有 也作=冇	None	冇
+冒	mao4	姓	None	None
+冒	mao4	[瑇冒]同“瑇=瑁”	None	瑁
+冒	mo4	[冒頓]匈奴单于名	None	None
+𣅼	None	同=早	None	早
+𣆉	None	同=厚	None	厚
+𣆊	None	同=春	None	春
+𣆜	None	同=昧	None	昧
+映	ying4	照	None	None
+映	ying4	照映；相映	None	None
+映	ying4	光影	None	None
+映	ying4	遮蔽	None	None
+映	ying4	未时 午后一至三时	None	None
+映	yang3	[映㬒]不明	None	None
+㫛	guang4	阳明，明	None	None
+𣅷	xiong4	日中风	None	None
+𣅾	xi1	明昔	None	None
+𣌧	ce4	古代用竹片写文以祝告神明或告诫臣民 后作=冊(册)	None	冊
+𣅻	gua3	同=咼(剮)	None	咼
+𣅻	jiong1	明	None	None
+𣌬	ju3	人名用字	None	None
 星	None	录入中	None	None
 昳	None	录入中	None	None
 昨	None	录入中	None	None
