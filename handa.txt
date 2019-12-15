@@ -36659,39 +36659,76 @@
 ⿰日䎡	None	同=暖	None	暖
 𣉺	None	同=𥏬(唐)	None	𥏬
 𣉓	qi1	同=㬤 曝晒	None	㬤
-嘗	None	录入中	None	None
-暢	None	录入中	None	None
-𤲰	None	录入中	None	None
-𣉬	None	录入中	None	None
-暥	None	录入中	None	None
-𣉗	None	录入中	None	None
-暟	None	录入中	None	None
-暣	None	录入中	None	None
-暞	None	录入中	None	None
-暤	None	录入中	None	None
-𣉭	None	录入中	None	None
-𣉜	None	录入中	None	None
-暚	None	录入中	None	None
-暧	None	录入中	None	None
-暡	None	录入中	None	None
-𣉞	None	录入中	None	None
-暠	None	录入中	None	None
-𣉽	None	录入中	None	None
-㫸	None	录入中	None	None
-暜	None	录入中	None	None
-𣉖	None	录入中	None	None
-𣉯	None	录入中	None	None
-㬕	None	录入中	None	None
-𣉰	None	录入中	None	None
-暝	None	录入中	None	None
-𣉒	None	录入中	None	None
-暨	None	录入中	None	None
-𣉚	None	录入中	None	None
-𣉱	None	录入中	None	None
-𣉘	None	录入中	None	None
-𣊃	None	录入中	None	None
-𣉕	None	录入中	None	None
-㬎	None	录入中	None	None
+𭧋	None	=曭的类推简化字	None	曭
+嘗	chang2	辨别滋味	None	None
+嘗	chang2	吃，食	None	None
+嘗	chang2	滋味	None	None
+嘗	chang2	试，试探	None	None
+嘗	chang2	经历；经受	None	None
+嘗	chang2	秋祭名	None	None
+嘗	chang2	副词 1.表示动作行为已经发生，相当于“曾”、“曾经” 2.表示频度，相当于“常”、“经常”	None	None
+嘗	chang2	姓	None	None
+暢	chang4	通；达	None	None
+暢	chang4	长	None	None
+暢	chang4	舒展；表达	None	None
+暢	chang4	充，充实	None	None
+暢	chang4	旺盛	None	None
+暢	chang4	舒适；欢快	None	None
+暢	chang4	尽情	None	None
+暢	chang4	副词 表示程度，相当于“甚”、“极”	None	None
+暢	chang4	琴曲名	None	None
+暢	chang4	通=鬯 香草，也指用它酿的酒，古代多用以祭祀	None	鬯
+暢	chang4	通=觴(shang1) 斟酒自饮	None	觴
+暢	chang4	姓	None	None
+𤲰	mao4	[瑇𤲰]同“瑇=瑁”	None	瑁
+𣉬	None	同=照	None	照
+暥	yan4	广远	None	None
+𣉗	ang4	[𣉗𣉘]日无光	None	None
+暟	kai3	照	None	None
+暟	kai3	美；美德	None	None
+暣	None	同=㫓(氣)	None	㫓
+暞	None	同=曒	None	曒
+暤	hao4	同=皞 洁白明亮的样子	None	皞
+暤	hao4	同=昊	None	昊
+𣉭	None	同=蒙	None	蒙
+𣉜	sha1	@	None	None
+暚	yao3	日光	None	None
+暚	yao3	明	None	None
+暧	None	=曖的简化字	None	曖
+暡	weng3	[暡曚]日未明	None	None
+暡	weng3	气盛貌	None	None
+𣉞	None	同=暠	None	暠
+暠	gao3	明白	None	None
+暠	hao4	同=皓 白	None	皓
+𣉽	None	=瞝的讹字	None	瞝
+⿱日离	None	=㒿的类推简化字	None	㒿
+暜	None	同=普	None	普
+𣉖	xuan3	同=晅 日气	None	晅
+𣉯	None	[塗𣉯]地名	None	None
+㬕	yang2	明	None	None
+𣉰	None	同=彚	None	彚
+暝	ming2	同=冥 1.昏暗 2.日暮；夜晚 3.姓	None	冥
+𣉒	huo4	暂明	None	None
+暨	ji4	太阳初出，微露于地平线上	None	None
+暨	ji4	及；至；到	None	None
+暨	ji4	不及	None	None
+暨	ji4	果毅貌	None	None
+暨	ji4	连词 相当于“及”、“和”	None	None
+暨	ji4	息 也作=塈	None	塈
+暨	ji4	已	None	None
+暨	ji4	姓	None	None
+暨	jie4	同=届 行不便 又极；至	None	届
+𣉚	yang2	明	None	None
+𣉚	yang2	焦	None	None
+𣉱	None	同=暴	None	暴
+𣉘	nai4	[埃𣉘]浓云密布；日无光	None	None
+⿱日难	None	=㬮的类推简化字	None	㬮
+𣊃	mao4	昏乱；眩惑	None	None
+𣉕	sang4	[㫰𣉕]暴熭	None	None
+㬎	xian3	同=顯 1.明显；显著 2.显扬 3.头上明亮的装饰	None	顯
+㬎	xian3	丝结	None	None
+㬎	xian3	口急而不能畅言	None	None
+㬎	xian3	姓	None	None
 𣍈	None	录入中	None	None
 暳	None	录入中	None	None
 𣊄	None	录入中	None	None
