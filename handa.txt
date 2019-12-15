@@ -96041,10 +96041,12 @@
 鵿	sheng1	腾	None	None
 䳟	ming2	[鷦䳟]传说中的神鸟	None	None
 ⿰明鸟	None	=䳟的类推简化字	None	䳟
-𪂡	None	录入中	None	None
-𪂢	None	录入中	None	None
-𪂓	None	录入中	None	None
-𪂌	None	录入中	None	None
+𪂡	None	同=䳟	None	䳟
+𪂢	None	同=鴈	None	鴈
+𪂓	ju1	同=鴡 鴡鸠，鸟名	None	鴡
+𪂓	ju1	同=岨 戴土的石山	None	岨
+𪂌	ta4	鸟名	None	None
+𪂌	ta4	鸟食	None	None
 𪃀	None	录入中	None	None
 䳠	None	录入中	None	None
 鵹	None	录入中	None	None
