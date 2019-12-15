@@ -96297,29 +96297,40 @@
 𪄐	None	同=鸇	None	鸇
 𪄌	gong4	鸟让食	None	None
 𪃇	None	同=𪃤(𪃈)	None	𪃤
-𪄖	None	录入中	None	None
-𪄗	None	录入中	None	None
-鷨	None	录入中	None	None
-𪅇	None	录入中	None	None
-鷋	None	录入中	None	None
-鷏	None	录入中	None	None
-鶾	None	录入中	None	None
-䳵	None	录入中	None	None
-𪄪	None	录入中	None	None
-𪄎	None	录入中	None	None
-𪃿	None	录入中	None	None
-鷊	None	录入中	None	None
-鹝	None	录入中	None	None
-鷅	None	录入中	None	None
-𫛽	None	录入中	None	None
-𪄏	None	录入中	None	None
-𪄂	None	录入中	None	None
-𪄘	None	录入中	None	None
-𪄁	None	录入中	None	None
-鷝	None	录入中	None	None
-𪄊	None	录入中	None	None
-𪄙	None	录入中	None	None
-鷃	None	录入中	None	None
+⿰⿳工日夂鳥	None	同=𪄌	None	𪄌
+𪄖	qi2	@	None	None
+𪄗	hou4	[𪄗𪅃]也作“=𪇂𪅃” 野鸭	None	𪇂
+鷨	hua2	鸟名	None	None
+𪅇	meng4	[𪅇鳩]鸟名	None	None
+鷋	tu2	[鷋鳩]鸟名	None	None
+鷋	tu2	同=鵌 一种与鼠同穴而居的鸟	None	鵌
+鷋	tu2	与鵛 传说中的怪鸟	None	None
+⿰荼鸟	None	=鷋的类推简化字	None	鷋
+鷏	tian2	鸟名 蚊母 一名吐蚊鸟，夜鹰的别名 羽毛暗褐，背有纵纹，胸具横带 栖于山林，白天大都蹲伏在树枝上或树下草丛中，黄昏出动，捕食蚊虻，因其常在蚊虫聚集处张口食蚊，故古人误为吐蚊	None	None
+⿰真鸟	None	=鷏的类推简化字	None	鷏
+鶾	han4	肥鸡，又名“鶾(=翰)音”	None	翰
+鶾	han4	鸟名 天鸡，又名山鸡 也作=翰	None	翰
+䳵	chi4	[鸂䳵]也作“鸂=𪀦” 单用义同	None	𪀦
+𪄪	None	同=䳵	None	䳵
+𪄎	ge2	鸟名	None	None
+𪃿	None	同=𪀉	None	𪀉
+𬸠	None	=𪃿的类推简化字	None	𪃿
+鷊	yi4	同=鶃 鸟名	None	鶃
+鷊	yi4	鸟名 绶鸟，即土绶鸡	None	None
+鷊	yi4	绶草 也作=虉	None	虉
+鹝	None	=鷊的类推简化字	None	鷊
+鷅	li4	[鷅鶹]鸟名，即黄=鸝	None	鸝
+𫛽	None	=鷅的类推简化字	None	鷅
+𪄏	xian1	鸟名	None	None
+⿰𢙣鳥	None	同=𪅴	None	𪅴
+𪄂	xia4	鸟名	None	None
+𪄘	None	同=鷮	None	鷮
+𪄁	yuan2	鸟名	None	None
+⿰⿳⺊𠔿比鳥	None	同=𪄆	None	𪄆
+鷝	bi4	[鷝鴋]1.鸟名 2.神名	None	None
+𪄊	qu2	同=翵 左足白的鸟	None	翵
+𪄙	None	同=鸎(鶯)	None	鸎
+鷃	yan4	同=鴳 鸟名 老雇 又名鴳雀，雀形目百灵科小鸟	None	鴳
 𪄚	None	录入中	None	None
 鶰	None	录入中	None	None
 𪄍	None	录入中	None	None
