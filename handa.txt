@@ -35773,27 +35773,113 @@
 昐	fen1	日光	None	None
 昖	None	同=㫟	None	㫟
 𣅝	tu1	入水又出貌	None	None
-明	None	录入中	None	None
-𣅢	None	录入中	None	None
-昏	None	录入中	None	None
-昒	None	录入中	None	None
-㫚	None	录入中	None	None
-易	None	录入中	None	None
-昀	None	录入中	None	None
-昂	None	录入中	None	None
-𣅞	None	录入中	None	None
-昗	None	录入中	None	None
-旼	None	录入中	None	None
-旻	None	录入中	None	None
-昉	None	录入中	None	None
-昘	None	录入中	None	None
-昈	None	录入中	None	None
-𣅟	None	录入中	None	None
-𣌦	None	录入中	None	None
-𣅡	None	录入中	None	None
-𣅳	None	录入中	None	None
-𣅴	None	录入中	None	None
-旹	None	录入中	None	None
+明	None	光明；明亮 与“昏暗”相对	None	None
+明	None	修明；严明 指心地光明，政治或法纪清明	None	None
+明	None	指松明，照明物	None	None
+明	None	照亮	None	None
+明	None	点燃；点亮	None	None
+明	None	眼睛；视力	None	None
+明	None	明了；通晓	None	None
+明	None	分辨；区分	None	None
+明	None	明白；清楚	None	None
+明	None	彰明；显示	None	None
+明	None	聪明	None	None
+明	None	贤明；贤能	None	None
+明	None	长成；成就	None	None
+明	None	强盛；旺盛	None	None
+明	None	神名 祭神、供神及死者的祭物皆洁净，故称明	None	None
+明	None	尊敬	None	None
+明	None	佛家语，真言的别称	None	None
+明	None	指白昼	None	None
+明	None	旧指生或人世间	None	None
+明	None	今之次 如：明天；明年	None	None
+明	None	用同=名 称说	None	名
+明	None	通=萌(meng2) 1.庶民，老百姓 2.萌发	None	萌
+明	None	通=盟 对神发誓立约	None	盟
+明	None	通=鳴 鸡叫	None	鳴
+明	None	朝代名 公元1368年，朱元璋称帝，推翻元朝统治，建都南京，定国号明 到明成祖，迁都北京 公元1644年，李自成攻破北京，明朝被推翻 共历十六帝，统治277年	None	None
+明	None	古州名 唐开元二十六年设置，以境内有四明山得名 治所在鄞县（今浙江省宁波市南），辖境相当于今浙江省甬江流域及慈溪市、象山县、舟山群岛等地	None	None
+明	None	姓	None	None
+明	meng4	[明津]又作“=盟津”、“=孟津” 地名，在今河南省孟州市南	None	盟
+𣅢	None	同=晬	None	晬
+昏	hun1	日暮，天刚黑的时候	None	None
+昏	hun1	暗，昏暗	None	None
+昏	hun1	昏聩；迷乱	None	None
+昏	hun1	（目）不明	None	None
+昏	hun1	昏迷；失去知觉	None	None
+昏	hun1	早死	None	None
+昏	hun1	结婚 后作=婚	None	婚
+昏	hun1	通=閽 古代守门者官名	None	閽
+昏	hun1	通=敯(min3) 勉力	None	敯
+昏	hun1	通=泯(min3) 尽	None	泯
+昏	hun4	姓	None	None
+昒	hu1	天将明而未明之时	None	None
+昒	hu1	昏昧；不明白	None	None
+㫚	hu1	疾；速；瞬息之间	None	None
+㫚	hu1	量词 极微小的数量单位	None	None
+㫚	hu1	古代朝见时大臣所执的手板，用以纪事，后作=笏	None	笏
+㫚	hu1	古代剑名	None	None
+㫚	hu1	同=昒	None	昒
+㫚	hu1	通=忽 轻忽；忽视	None	忽
+易	yi4	蜥蜴，一种爬行动物 后作=蜴	None	蜴
+易	yi4	古代指阴阳变化消长的现象	None	None
+易	yi4	古代卜筮书，包括《連山》、《歸藏》、《周易》，合称三《易》 今仅存《周易》，简称《易》	None	None
+易	yi4	卜筮之象，古代以示吉凶祸福	None	None
+易	yi4	古代占卜官名	None	None
+易	yi4	改变	None	None
+易	yi4	替代	None	None
+易	yi4	交换	None	None
+易	yi4	移；蔓延	None	None
+易	yi4	夺	None	None
+易	yi4	异，不相同	None	None
+易	yi4	始	None	None
+易	yi4	如；像	None	None
+易	yi4	弹奏弦乐器指法之一，即中指向外，拨动琴弦	None	None
+易	yi4	庵	None	None
+易	yi4	副词 表示同样，相当于=亦	None	亦
+易	yi4	通=埸 疆埸；边界	None	埸
+易	yi4	通=賜(ci4) 赐给	None	賜
+易	yi4	州名 治所在今河北省易县	None	None
+易	yi4	易水的简称	None	None
+易	yi4	姓	None	None
+易	yi4	容易，跟“难”相对	None	None
+易	yi4	平易；平坦 与“险”义反	None	None
+易	yi4	和悦	None	None
+易	yi4	疾；速	None	None
+易	yi4	简易；简省	None	None
+易	yi4	简慢；轻率	None	None
+易	yi4	轻贱；轻视	None	None
+易	yi4	治，治理	None	None
+昀	yun2	日光	None	None
+昂	ang2	抬起；仰起	None	None
+昂	ang2	高	None	None
+昂	ang2	高涨，上升	None	None
+昂	ang2	振奋貌	None	None
+昂	ang2	日升	None	None
+昂	ang2	明	None	None
+昂	yang4	[昂昂]君之德	None	None
+𣅞	None	同=厥	None	厥
+昗	None	同=昃	None	昃
+旼	min2	[旼旼]和；和睦	None	None
+旼	min2	同=旻	None	旻
+旻	min2	秋，秋天	None	None
+旻	min2	天空	None	None
+旻	min2	通=閔 痛伤；悯惜	None	閔
+旻	min2	姓	None	None
+昉	fang3	日初明	None	None
+昉	fang3	起始	None	None
+昉	fang3	姓	None	None
+昘	fang3	同=訪	None	訪
+昘	fang3	同=昉	None	昉
+昈	hu4	明，分明	None	None
+昈	hu4	文采，斑斓的色彩	None	None
+昈	hu4	红色花纹；红光	None	None
+𣅟	dan1	日晚色	None	None
+𣌦	None	同=爭	None	爭
+𣅡	jue2	日蚀色	None	None
+𣅳	None	同=昃	None	昃
+𣅴	None	同=炄	None	炄
+旹	None	同=時	None	時
 春	None	录入中	None	None
 昩	None	录入中	None	None
 昧	None	录入中	None	None
