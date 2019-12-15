@@ -96470,48 +96470,66 @@
 䳻	can2	鸟名 雕	None	None
 䳻	can2	鹗的别名	None	None
 䳻	zhan4	一种形状似雕有白色斑纹的鸟	None	None
-鷒	None	录入中	None	None
-𪅘	None	录入中	None	None
-𪅙	None	录入中	None	None
-鷘	None	录入中	None	None
-鷗	None	录入中	None	None
-䳼	None	录入中	None	None
-𪅃	None	录入中	None	None
-鷖	None	录入中	None	None
-鹥	None	录入中	None	None
-鷞	None	录入中	None	None
-𪄮	None	录入中	None	None
-𪆛	None	录入中	None	None
-𪄹	None	录入中	None	None
-鷐	None	录入中	None	None
-𫜀	None	录入中	None	None
-𪅚	None	录入中	None	None
-鷜	None	录入中	None	None
-𪅛	None	录入中	None	None
-𪅅	None	录入中	None	None
-𪄼	None	录入中	None	None
-鷕	None	录入中	None	None
-䳽	None	录入中	None	None
-𪅁	None	录入中	None	None
-𪆌	None	录入中	None	None
-鹦	None	录入中	None	None
-𪆹	None	录入中	None	None
-𪅌	None	录入中	None	None
-鷑	None	录入中	None	None
-𪄴	None	录入中	None	None
-𪅈	None	录入中	None	None
-𪅝	None	录入中	None	None
-𪅜	None	录入中	None	None
-䳷	None	录入中	None	None
-𪅊	None	录入中	None	None
-䳺	None	录入中	None	None
-鷠	None	录入中	None	None
-䴂	None	录入中	None	None
-𪅞	None	录入中	None	None
-鷓	None	录入中	None	None
-鹧	None	录入中	None	None
-䳸	None	录入中	None	None
-鷛	None	录入中	None	None
+鷒	tuan2	[鸛鷒]见“鸛”	None	None
+𪅘	None	同=鷒	None	鷒
+𪅙	chi4	[鸂𪅙]同“鸂=鶒”	None	鶒
+鷘	chi4	[鸂鷘]同“鸂=鶒”	None	鶒
+鷗	ou1	水鸟名 又名“鷖”、“水鴞” 今为鸥科各种鸟的通称 体型大小不一，羽毛多灰、白色 翼长而尖，善飞翔；趾间有蹼，能游水 生活在海洋及内陆河川，以鱼类和昆虫等为食 种类繁多，我国常见的有海鸥、银鸥和燕鸥等	None	None
+鷗	ou1	姓	None	None
+䳼	None	同=鷗	None	鷗
+𪅃	piao3	鸟变	None	None
+𪅃	piao1	鸟飞	None	None
+鷖	yi1	鸥的别名	None	None
+鷖	yi4	鸟名 凤属 也作=翳	None	翳
+鷖	yi4	青黑色的缯 也作=繄	None	繄
+鹥	None	=鷖的简化字	None	鷖
+鷞	shuang1	[鷫鷞]见“鷫”	None	None
+鷞	shuang3	[鷞鳩]也作“=爽鳩” 鸟名 鹰	None	爽
+𮭪	None	=鷞的类推简化字	None	鷞
+𪄮	hu4	同=雇 农桑候鸟者	None	雇
+𪄮	gu4	同=顧 回头看	None	顧
+𪆛	xu1	@	None	None
+𮭕	he4	@	None	None
+𪄹	chang2	[䳯𪄹]见“䳯”	None	None
+鷐	chen2	[鷐風]也作“=晨風” 鸟名，即鹯	None	晨
+𫜀	None	=鷐的类推简化字	None	鷐
+𪅚	None	同=䳮	None	䳮
+鷜	lv2	[鵱鷜]见“鵱”	None	None
+鷜	lv3	[𪇖鷜]见“𪇖”	None	None
+𪅛	None	同=鷜	None	鷜
+𪅅	lve4	鸟名	None	None
+𪄼	None	同=鷕	None	鷕
+鷕	yao3	野鸡叫声	None	None
+鷕	yao3	泛指禽鸟叫声	None	None
+鷕	xiao4	野鸡	None	None
+⿱唯鸟	None	=鷕的类推简化字	None	鷕
+䳽	None	同=鸖(鶴)	None	鸖
+𪅁	None	=䳳的讹字	None	䳳
+⿰冏𩿊	None	同=䳟	None	䳟
+𪆌	None	同=䳟	None	䳟
+鹦	None	=鸚的簡化字	None	鸚
+𪆹	guo1	[𪆹鸁]鸟名 工雀，即鹪鹩	None	None
+𪅌	None	同=鸝	None	鸝
+鷑	ji2	[鷑鳩]又名“鵧鷑”、“烏䳎”	None	None
+⿰笠鸟	None	=鷑的类推简化字	None	鷑
+𪄴	min3	鸮	None	None
+𪄴	min3	鹗的别名	None	None
+𪅈	chong1	鸟不行	None	None
+𪅝	niao3	鸟名	None	None
+𪅜	None	同=𩀨(䳷)	None	𩀨
+䳷	cong2	鸡的别名	None	None
+𪅊	None	同=雉	None	雉
+䳺	None	同=鵪	None	鵪
+⿰酓鸟	None	=䳺的类推简化字	None	䳺
+鷠	yu2	鸟名	None	None
+䴂	xiang4	[䴂鵰]鸏䴀的别名	None	None
+𪅞	None	同=鵴	None	鵴
+⿰庻鳥	None	同=鷓	None	鷓
+鷓	None	[鷓鴣]1.鸟名 又名“越雉” 羽毛黑白相杂，腹背的眼状白斑更显著，足黄褐色 为我国南方留鸟 古人谐其鸣声为“行不得也哥哥”，在诗文中常用以表示思念故乡 2.曲调名，《山鷓鴣》的省称 3.唐、宋民间乐器名	None	None
+鹧	None	=鷓的简化字	None	鷓
+䳸	ma2	雁	None	None
+䳸	ma2	麻雀	None	None
+鷛	yong1	[鷛𪆫]同“=𪅟𪆫”	None	𪅟
 𪅟	None	录入中	None	None
 𪅂	None	录入中	None	None
 𪄱	None	录入中	None	None
