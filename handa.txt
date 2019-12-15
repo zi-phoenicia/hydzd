@@ -96331,28 +96331,42 @@
 𪄊	qu2	同=翵 左足白的鸟	None	翵
 𪄙	None	同=鸎(鶯)	None	鸎
 鷃	yan4	同=鴳 鸟名 老雇 又名鴳雀，雀形目百灵科小鸟	None	鴳
-𪄚	None	录入中	None	None
-鶰	None	录入中	None	None
-𪄍	None	录入中	None	None
-䳴	None	录入中	None	None
-𪅉	None	录入中	None	None
-鶽	None	录入中	None	None
-𪄩	None	录入中	None	None
-鷍	None	录入中	None	None
-鷎	None	录入中	None	None
-𪃼	None	录入中	None	None
-𪄛	None	录入中	None	None
-𪄝	None	录入中	None	None
-𪄜	None	录入中	None	None
-鶳	None	录入中	None	None
-𪄆	None	录入中	None	None
-𪉔	None	录入中	None	None
-鷉	None	录入中	None	None
-䴘	None	录入中	None	None
-鷈	None	录入中	None	None
-𪄀	None	录入中	None	None
-𪄅	None	录入中	None	None
-𪄇	None	录入中	None	None
+𮭨	None	=鷃的类推简化字	None	鷃
+𪄚	None	@	None	None
+鶰	yuan2	鸟名	None	None
+鶰	yuan2	长尾山雀属各种鸟的旧称，或专指银喉长尾山雀	None	None
+𪄍	None	同=鶚	None	鶚
+䳴	ta4	鸟名	None	None
+䳴	da2	[𪇹䳴]见“𪇹”	None	None
+⿰笄鳥	None	同=鵧	None	鵧
+𪅉	tian1	鸭	None	None
+鶽	sun3	同=隼 雕	None	隼
+鶽	xun4	飞	None	None
+⿰隼鸟	None	=鶽的类推简化字	None	鶽
+𪄩	None	同=鶽	None	鶽
+鷍	None	同=梟	None	梟
+鷎	None	同=鷱	None	鷱
+𪃼	xi1	鸟名	None	None
+𪃼	xi1	鸟食	None	None
+𪄛	xi1	鸟食 *=𪃼	None	𪃼
+𪄛	xi1	鸟名	None	None
+𪄝	wu1	@ ……按：疑为=烏的增旁俗字	None	烏
+𪄜	None	同=鶳	None	鶳
+鶳	shi1	鸟名	None	None
+鶳	shi1	大雀名	None	None
+𪄆	pi1	[𪄆鵊]即=鵯鵊 鸟名 即今雀形目之黑卷尾	None	鵯
+𪄆	pi2	[𪄆鷺]水鸟名	None	None
+𪉔	None	=𪄆的类推简化字	None	𪄆
+⿰鳥⿸𠂆⿸虍人	None	同⿰⿸𠂆⿸虍人鳥	None	None
+鷉	ti1	[鸊鷉]见“鸊”	None	None
+鷉	si1	鸟名	None	None
+䴘	None	=鷉的简化字	None	鷉
+鷈	ti1	[鸊鷈]同“鸊=鷉”	None	鷉
+𪄀	pan2	[𪄀𪃑]鸺鹠一类的鸟	None	None
+𪄅	sha1	鸟非得很快	None	None
+𪄇	None	同=𩾿	None	𩾿
+⿰鳥⿱爫⿻正一	None	同=⿰⿱爫⿻正一鳥	None	⿰
+⿰⿱爫⿻正一鳥	None	同=鷂	None	鷂
 鷂	None	录入中	None	None
 鹞	None	录入中	None	None
 𪅎	None	录入中	None	None
