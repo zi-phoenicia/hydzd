@@ -36399,7 +36399,7 @@
 晹	yi4	太阳在云层里忽隐忽现	None	None
 晪	tian3	明	None	None
 𣈣	None	=𣋋的类推简化字	None	𣋋
-㬅	None	同=曼	None	曼
+⿳日罒万	None	同=曼	None	曼
 㫼	None	同=晣(晢)	None	晣
 智	zhi4	智慧；聪明	None	None
 智	zhi4	机智；谋略	None	None
@@ -36524,13 +36524,44 @@
 暍	ye1	热	None	None
 暍	ye1	变色	None	None
 𣉌	None	人名用字	None	None
-𣈨	None	录入中	None	None
-㬋	None	录入中	None	None
-𣈪	None	录入中	None	None
-𣈧	None	录入中	None	None
-𣈥	None	录入中	None	None
-𠕦	None	录入中	None	None
-會	None	录入中	None	None
+㬅	None	同=曼	None	曼
+𣈨	None	同=旰	None	旰
+㬋	hou2	[羅㬋]同“羅=睺” 星名，为十一曜之一；又佛家称“阿修罗”之一，或为“羅㬋羅”的简称	None	睺
+𣈪	None	=𦝭的讹字	None	𦝭
+𣈧	None	同=旺	None	旺
+𣈥	tu1	日阴	None	None
+𠕦	yu4	[𠕦㒾]同“㒾𠕦” 见“㒾”	None	None
+會	hui4	盖子	None	None
+會	hui4	会合；聚合	None	None
+會	hui4	符合；投合	None	None
+會	hui4	相遇；会面	None	None
+會	hui4	盟誓；盟誓之辞	None	None
+會	hui4	有一定目的的聚会或集会 如：开会；辩论会；报告会；晚会；年会	None	None
+會	hui4	为一定目的成立的团体或组织 如：工会；农会；学会	None	None
+會	hui4	会试	None	None
+會	hui4	民间一种小规模经济互助形式 一般由发起人约集若干人，按期等量交款，首次由发起人使用，以后按议定或拈阄决定的顺序轮流使用	None	None
+會	hui4	大城市（通常指行政中心）；通衢要冲之地 如：都会；省会	None	None
+會	hui4	时机；机会 如：适逢其会	None	None
+會	hui4	领悟；理解 如：体会；意会；心领神会	None	None
+會	hui4	能；熟习；擅长 如：会英语；会游泳	None	None
+會	hui4	应当	None	None
+會	hui4	（多指在饭馆、茶楼中）付（款）	None	None
+會	hui4	调合；调配	None	None
+會	hui4	至	None	None
+會	hui4	对 如：会话	None	None
+會	hui4	灾厄；厄运	None	None
+會	hui4	中医经络穴位名	None	None
+會	hui4	古代历法用语 一万零八百年为一会	None	None
+會	hui4	南宋纸币“会子”的简称 会子，高宗绍兴三十年，由户部造，分一贯、五百、三百、二百四种，初并非钱币，仅视为茶盐钞引之属，后公私买卖之间流通无阻，遂以代钱	None	None
+會	hui4	副词 表示范围，相当于“皆”、“都”	None	None
+會	hui4	介词 表示时间，相当于“恰”、“正值” 如：会逢其适	None	None
+會	hui4	连词 相当于“与”、“同”、“和”	None	None
+會	hui4	用同=惠	None	惠
+會	hui4	通=繪 五彩的刺绣	None	繪
+會	hui4	姓	None	None
+會	kuai4	计算；总计	None	None
+會	kuai4	古代一种贵族帽子（用以结饰采玉）的缝隙；或古代作朝服的蔽膝的领缝	None	None
+會	kuai4	撮合买卖的中间人 后作=儈	None	儈
 暖	None	录入中	None	None
 㬊	None	录入中	None	None
 𣉈	None	录入中	None	None
