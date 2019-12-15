@@ -31674,10 +31674,19 @@
 𣠌	None	=𣡌的讹字	None	𣡌
 𣟷	None	=撇的讹字	None	撇
 𣟵	xi1	瓢勺	None	None
-櫻	None	录入中	None	None
-欄	None	录入中	None	None
-欁	None	录入中	None	None
-𣠍	None	录入中	None	None
+櫻	ying1	果木名 樱桃，蔷薇科，落叶乔木 果实小，球形，鲜红色，初夏成熟，稍甜带酸，可食，核可入药 木材细密而坚，可做器具	None	None
+櫻	ying1	花名 指樱花，樱桃花	None	None
+欄	lan2	栏杆	None	None
+欄	lan2	饲养家畜的圈	None	None
+欄	lan2	纸或织物上的分格界记	None	None
+欄	lan2	报刊按内容、性质划分的版面 如：群众来信栏；卫生知识栏；文艺栏 也称出版物版面的某些部位 如：左栏；右栏；通栏	None	None
+欄	lan2	木名，即辛夷，也叫紫玉兰 木兰科，落叶小乔木或灌木 早春先叶开花，外面紫色，内面近白色，微香 果实似玉兰 供观赏，干燥的花蕾可入药	None	None
+欄	lian4	同=楝 木名	None	楝
+欁	nong2	同=農	None	農
+欁	nong2	正	None	None
+⿰喿虎	None	同=鈂	None	鈂
+𣠍	None	同=杶	None	杶
+⿳𠂉卌⿱一⿰枯木	None	同=無	None	無
 𦉠	None	录入中	None	None
 𣟹	None	录入中	None	None
 𣟰	None	录入中	None	None
