@@ -96071,55 +96071,75 @@
 鵯	bei1	雀形目鹎科各种鸟的通称 大多呈群活动，叫声明亮动听，以野生小浆果及各种昆虫为食，为我国长江以南地区常见的留鸟 其品种有白头鹎、绿翅短脚鹎、红耳鹎、黄臀鹎、绿鹦嘴鹎等	None	None
 鹎	None	=鵯的类推简化字	None	鵯
 𪂃	None	同=鵯	None	鵯
-鵨	None	录入中	None	None
-鵭	None	录入中	None	None
-𪂤	None	录入中	None	None
-𪂥	None	录入中	None	None
-𪂀	None	录入中	None	None
-𪂾	None	录入中	None	None
-鵬	None	录入中	None	None
-鹏	None	录入中	None	None
-鵩	None	录入中	None	None
-𫛳	None	录入中	None	None
-鵰	None	录入中	None	None
-𫛲	None	录入中	None	None
-𪂆	None	录入中	None	None
-𪉎	None	录入中	None	None
-鵵	None	录入中	None	None
-鵮	None	录入中	None	None
-鹐	None	录入中	None	None
-𪂒	None	录入中	None	None
-鵴	None	录入中	None	None
-鶁	None	录入中	None	None
-鶉	None	录入中	None	None
-鹑	None	录入中	None	None
-𪂎	None	录入中	None	None
-鵺	None	录入中	None	None
-𪂑	None	录入中	None	None
-𪁽	None	录入中	None	None
-鶊	None	录入中	None	None
-鹒	None	录入中	None	None
-䳝	None	录入中	None	None
-𫛴	None	录入中	None	None
-𪂈	None	录入中	None	None
-鶑	None	录入中	None	None
-𪂔	None	录入中	None	None
-鵼	None	录入中	None	None
-鵷	None	录入中	None	None
-鹓	None	录入中	None	None
-𪂭	None	录入中	None	None
-𪂦	None	录入中	None	None
-𪂧	None	录入中	None	None
-𪂁	None	录入中	None	None
-鵳	None	录入中	None	None
-𪂨	None	录入中	None	None
-𪁷	None	录入中	None	None
-鹔	None	录入中	None	None
-𪂩	None	录入中	None	None
-鵦	None	录入中	None	None
-𪂪	None	录入中	None	None
-𪂋	None	录入中	None	None
-鶋	None	录入中	None	None
+鵨	None	同=𪅰	None	𪅰
+鵭	qin2	同=鳹 勾喙鸟	None	鳹
+𪂤	ming4	@	None	None
+𪂥	None	同=𪂀	None	𪂀
+𪂀	fu3	鸟名	None	None
+𪂾	fu4	鹞属	None	None
+鵬	feng4	同=𪈵	None	𪈵
+鵬	peng2	传说中的大鸟 又称大鹏	None	None
+鹏	None	=鵬的简化字	None	鵬
+鵩	fu2	鸟名 似鸮，古人以为不祥之鸟	None	None
+𫛳	None	=鵩的类推简化字	None	鵩
+鵰	diao1	同=雕 猛禽	None	雕
+鵰	diao1	刻镂 也作=彫	None	彫
+𫛲	None	=鵰的类推简化字	None	鵰
+𪂆	min2	鸟名 其状如翠鸟而赤喙	None	None
+𪉎	None	=𪂆的类推简化字	None	𪂆
+鵵	tu4	老鵵 又名木兔、鹇鸱 猫头鹰一类的鸟	None	None
+⿰兔鸟	None	=鵵的类推简化字	None	鵵
+鵮	qian1	鸟啄物	None	None
+鵮	qian1	喻以言语讥人	None	None
+鹐	None	=鵮的简化字	None	鵮
+𪂒	None	同=鶻	None	鶻
+鵴	ju2	[鴶鵴]见“鴶”	None	None
+⿰匊鸟	None	=鵴的类推简化字	None	鵴
+鶁	jing1	[羌鶁]鸟名	None	None
+鶉	chun2	鹌鹑 古称羽毛无斑者为鹌，有斑者为鹑，后混称鹌鹑	None	None
+鶉	chun2	赤凤	None	None
+鶉	chun2	星宿名 南方朱鸟七宿的总称	None	None
+鶉	chun2	喻破烂的衣服	None	None
+鶉	chun2	通=醇 纯美	None	醇
+鶉	tuan2	同=鷻 鸟名 雕	None	鷻
+鹑	None	=鶉的简化字	None	鶉
+𪂎	None	同=鶉	None	鶉
+鵺	ye4	传说中的鸟名 似雉，又名白鵺	None	None
+𪂑	None	同=鴟	None	鴟
+𪁽	su4	[鵓𪁽]鸟名	None	None
+鶊	geng1	[鶬鶊]见“鶬”	None	None
+鹒	None	=鶊的简化字	None	鶊
+䳝	pou3	雀名	None	None
+䳝	bu4	[䳝鴓]鸟名	None	None
+𫛴	None	=鷤的类推简化字	None	鷤
+𪂈	yan2	[𪂈離]传说一种雌雄同体的怪鸟	None	None
+𬸖	None	=𪂈的类推简化字	None	𪂈
+鶑	None	同=鶯	None	鶯
+⿰学鸟	None	=𪈔的类推简化字	None	𪈔
+𪂔	None	同=𦐈	None	𦐈
+鵼	kong1	怪鸟名	None	None
+⿰空鸟	None	=鵼的类推简化字	None	鵼
+鵷	yuan1	[鵷鶵]也作“鵷雛” 省称“鵷” 传说与凤凰同类的鸟	None	None
+鵷	yuan1	同=鴛 鸳鸯	None	鴛
+鹓	None	=鵷的类推简化字	None	鵷
+𪂭	None	同=䳃(𪂧)	None	䳃
+𪂦	wan3	同=𪂭 传说中的人名	None	𪂭
+𪂦	yuan1	同=鵷 鸟名 凤属	None	鵷
+𪂧	wan3	传说中的人名	None	None
+𪂁	None	同=𪅮	None	𪅮
+鵳	jian1	[鶙鵳]鹞一类的鸟	None	None
+⿰肩鸟	None	=鵳的类推简化字	None	鵳
+𪂨	None	同=𪁷(𪅮)	None	𪁷
+𪁷	None	同=𪅮	None	𪅮
+鹔	None	=鷫的类推简化字	None	鷫
+𪂩	None	人名用字	None	None
+鵦	lu4	鸟名	None	None
+𪂪	None	同=𪂋	None	𪂋
+𪂋	fu4	[巧𪂋]也作“巧=婦” 鹪鹩的别名	None	婦
+鶋	ju1	[鶢鶋]见“鶢”	None	None
+鶋	ju1	[鵯鶋]见“鵯”	None	None
+鶋	ju1	[鶌鶋]见“鶌”	None	None
+⿰居鸟	None	=鶋的类推简化字	None	鶋
 鶌	None	录入中	None	None
 𫛵	None	录入中	None	None
 鵽	None	录入中	None	None
