@@ -35738,21 +35738,41 @@
 𣅱	None	同=時	None	時
 ⿱⺌𣄼	None	同=首	None	首
 昍	xuan1	明	None	None
-昌	None	录入中	None	None
-冐	None	录入中	None	None
-𣅣	None	录入中	None	None
-𣅚	None	录入中	None	None
-旿	None	录入中	None	None
-𣅠	None	录入中	None	None
-昇	None	录入中	None	None
-𣅲	None	录入中	None	None
-昕	None	录入中	None	None
-昄	None	录入中	None	None
-㸓	None	录入中	None	None
-昑	None	录入中	None	None
-昐	None	录入中	None	None
-昖	None	录入中	None	None
-𣅝	None	录入中	None	None
+昌	chang1	美善；精当	None	None
+昌	chang1	美好貌	None	None
+昌	chang1	兴盛	None	None
+昌	chang1	泛指有生命之物	None	None
+昌	chang1	庆	None	None
+昌	chang1	光；明	None	None
+昌	chang1	显明	None	None
+昌	chang1	通=猖 狂妄放纵	None	猖
+昌	chang1	通=菖 草名，即“菖蒲”	None	菖
+昌	chang1	古州名 1.后魏置南荆州，西魏改为昌州，故治在今湖北省枣阳市东 2.唐置昌州，故治在今重庆市大足县东南 3.元置昌州，故治在今四川省西昌市南	None	None
+昌	chang4	同=唱(倡) 倡导	None	唱
+冐	None	同=冒	None	冒
+𣅣	None	同=豆	None	豆
+𣅚	na4	日入色	None	None
+𣅚	niu3	=𥄋的讹字	None	𥄋
+𬀪	None	=晛的类推简化字	None	晛
+旿	wu3	明	None	None
+旿	wu4	同=晤 明白；醒悟	None	晤
+𣅠	None	同=㫓(氣)	None	㫓
+昇	sheng1	上升	None	None
+昇	sheng1	登；上	None	None
+昇	sheng1	晋级	None	None
+昇	sheng1	州名 唐置 故治在今江苏省南京市 五代时相继改为金陵府、江宁府，宋仍称昇州	None	None
+昇	sheng1	姓	None	None
+𣅲	None	同=厥	None	厥
+昕	xin1	黎明；天明	None	None
+昕	xin1	鲜明；明亮	None	None
+昕	xuan1	[昕天]旧说天体北高南低，谓之昕天	None	None
+昄	ban3	大	None	None
+⿰日仐	None	同=昑	None	昑
+㸓	None	同=㫘	None	㫘
+昑	qin3	明	None	None
+昐	fen1	日光	None	None
+昖	None	同=㫟	None	㫟
+𣅝	tu1	入水又出貌	None	None
 明	None	录入中	None	None
 𣅢	None	录入中	None	None
 昏	None	录入中	None	None
