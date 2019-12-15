@@ -36315,20 +36315,38 @@
 晝	zhou4	地名 春秋时齐邑 故址在今山东省淄博市西北	None	None
 晝	zhou4	姓	None	None
 𣆲	qin1	日光	None	None
-𣆸	None	录入中	None	None
-𣇚	None	录入中	None	None
-晙	None	录入中	None	None
-晴	None	录入中	None	None
-替	None	录入中	None	None
-奣	None	录入中	None	None
-暁	None	录入中	None	None
-暏	None	录入中	None	None
-暑	None	录入中	None	None
-𣈡	None	录入中	None	None
-𣇩	None	录入中	None	None
-㫷	None	录入中	None	None
-𣇳	None	录入中	None	None
-朂	None	录入中	None	None
+⿱⿰彐彐𣄼	None	同=照	None	照
+𣆸	None	=𣪏的讹字	None	𣪏
+𣇚	None	同=晙	None	晙
+晙	jun4	早，明	None	None
+晙	jun4	敬	None	None
+晴	qing2	雨止云散 本指夜晴，后泛指天晴，也指晴天	None	None
+晴	qing2	喻（泪）止、干	None	None
+⿰日⿱𠀎彐	None	同=暳	None	暳
+替	ti4	废弃；废除	None	None
+替	ti4	衰落；衰败	None	None
+替	ti4	松弛；怠惰	None	None
+替	ti4	更，代	None	None
+替	ti4	待，逗留	None	None
+替	ti4	介词 表示对象 1.相当于“为”、“对”、“跟” 2.相当于“和”、“同”	None	None
+替	ti4	用同=屜 笼屉	None	屜
+替	ti4	姓	None	None
+奣	weng3	天色清明	None	None
+奣	weng3	地名	None	None
+暁	None	同=曉	None	曉
+暏	shu3	天亮 后作=曙	None	曙
+暏	du3	诘朝欲明	None	None
+暏	du3	明，显露	None	None
+暑	shu3	炎热；炎热的季节	None	None
+暑	shu3	中医学病因“六淫”之一，以为暑是阳邪，多在夏季致病	None	None
+𣈡	ti3	横首杖	None	None
+𣇩	None	同=𣉩	None	𣉩
+㫷	ji1	后	None	None
+㫷	ji1	同=期	None	期
+𣇳	ji1	同=稘(期) 周期；周年	None	稘
+⿱日⿸耳人	None	同=最	None	最
+⿱日⿸耳⿱丿丶	None	同=最	None	最
+朂	None	同=勖	None	勖
 最	None	录入中	None	None
 𣈏	None	录入中	None	None
 𣇪	None	录入中	None	None
