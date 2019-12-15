@@ -96180,51 +96180,61 @@
 鶛	jie1	雄鹩鹑	None	None
 鶛	jie4	鸟名	None	None
 ⿰皆鸟	None	=鶛的类推简化字	None	鶛
-𪃚	None	录入中	None	None
-𪃅	None	录入中	None	None
-𪃷	None	录入中	None	None
-鶪	None	录入中	None	None
-䴗	None	录入中	None	None
-鶗	None	录入中	None	None
-𫛸	None	录入中	None	None
-𪂿	None	录入中	None	None
-𪃦	None	录入中	None	None
-𪃐	None	录入中	None	None
-𪃧	None	录入中	None	None
-𫛹	None	录入中	None	None
-𪃌	None	录入中	None	None
-𪃑	None	录入中	None	None
-𪃍	None	录入中	None	None
-𪉐	None	录入中	None	None
-鶡	None	录入中	None	None
-鹖	None	录入中	None	None
-𪃄	None	录入中	None	None
-鶚	None	录入中	None	None
-鹗	None	录入中	None	None
-䳪	None	录入中	None	None
-鶻	None	录入中	None	None
-鹘	None	录入中	None	None
-𪃨	None	录入中	None	None
-𪃩	None	录入中	None	None
-鶖	None	录入中	None	None
-鹙	None	录入中	None	None
-䳯	None	录入中	None	None
-𪃃	None	录入中	None	None
-䳰	None	录入中	None	None
-𪃁	None	录入中	None	None
-䳨	None	录入中	None	None
-𪃶	None	录入中	None	None
-䳧	None	录入中	None	None
-𫛺	None	录入中	None	None
-鶞	None	录入中	None	None
-𪃫	None	录入中	None	None
-𪃝	None	录入中	None	None
-𪃎	None	录入中	None	None
-𪂻	None	录入中	None	None
-鶢	None	录入中	None	None
-𪃊	None	录入中	None	None
-𪂽	None	录入中	None	None
-䳮	None	录入中	None	None
+𪃚	None	同=䳳	None	䳳
+𪃅	xue1	鸟名	None	None
+𪃷	None	@	None	None
+鶪	None	同=鵙	None	鵙
+䴗	None	=鶪的简化字	None	鶪
+鶗	ti2	[鶗鴂]也作“=鵜鴂” 杜鹃鸟 单用义同	None	鵜
+鶗	chi2	[鶗鵳]即鹞	None	None
+𫛸	None	=鶗的类推简化字	None	鶗
+𪂿	None	同=鶗	None	鶗
+𪃦	None	同=𪃧(𪃐)	None	𪃧
+𪃐	miao3	[𪆄𪃐]鸟名 即鹪鹩	None	None
+𪃧	None	同=𪃐	None	𪃐
+𫛹	None	=𪃧的类推简化字	None	𪃧
+𪃌	None	同=鸉	None	鸉
+𪃑	mao4	[𪄀𪃑]见“𪄀”	None	None
+𪃍	yu2	传说中的怪鸟	None	None
+𪉐	None	=𪃍的类推简化字	None	𪃍
+鶡	he2	鸟名 又名鹖鸡	None	None
+鶡	he2	鹖冠的省称	None	None
+鶡	he2	青凤	None	None
+鶡	he2	鸟名 也作=䲸	None	䲸
+鶡	he4	同=鶴	None	鶴
+鹖	None	=鶡的简化字	None	鶡
+𪃄	sai1	鸟名	None	None
+鶚	e4	鸟名 鹗科 头、颈和腹部均白色而有暗褐色纵纹，背部暗褐色 上嘴呈钩状，爪锐利，外趾能前后转动 性凶猛 常在江河湖泊及海滨一带飞翔，捕食鱼类，故又称“鱼鹰”	None	None
+鹗	None	=鶚的简化字	None	鶚
+䳪	None	同=鷒	None	鷒
+鶻	gu3	[鶻鵃]鸟名 又名“鶻鳩” 一种小鸠	None	None
+鶻	hu2	隼 鹰属，猛禽，飞行轻捷迅速，常驯以捕鸟	None	None
+鹘	None	=鶻的简化字	None	鶻
+𪃨	ao1	[𪃨䴃顟]头大目深貌	None	None
+𪃩	None	同=鶖	None	鶖
+鶖	qiu1	[秃鶖]又名“鴜𪀧”、“扶老” 1.水鸟名 头颈无毛，性贪恶，食鱼、蛇、鸟雏等 2.嘲称无发之人	None	None
+鹙	None	=鶖的简化字	None	鶖
+䳯	chong2	[䳯𪄹]鸟名	None	None
+䳯	chong3	同=𨿿 小鸟飞貌	None	𨿿
+𪃃	None	同=鴔	None	鴔
+䳰	None	同=鴇	None	鴇
+𪃁	None	同=鴇	None	鴇
+䳨	None	同=凰	None	凰
+𬸛	None	=䳨的类推简化字	None	䳨
+𪃶	hou2	雕	None	None
+䳧	None	同=𪃶	None	𪃶
+𫛺	None	=䳧的类推简化字	None	䳧
+鶞	chun1	[鳻鶞]见“鳻”	None	None
+⿰盾鸟	None	=鶞的类推简化字	None	鶞
+𪃫	None	[鴞𪃫]鲢鱼的别名	None	None
+𪃝	None	同=𪀔	None	𪀔
+𪃎	yu2	鸟名	None	None
+𪂻	None	同=䳺(鵪)	None	䳺
+鶢	yuan2	[鶢鶋]也作“=爰居”，又名“雜縣” 海鸟	None	爰
+⿰爰鸟	None	=鶢的类推简化字	None	鶢
+𪃊	None	同=翪	None	翪
+𪂽	pen2	[𪂽鳩]也作“=鳻鳩” 斑鸠	None	鳻
+䳮	mo4	鸟惊视	None	None
 𪂷	None	录入中	None	None
 𪃓	None	录入中	None	None
 𪂺	None	录入中	None	None
