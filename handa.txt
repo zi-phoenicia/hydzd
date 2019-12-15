@@ -96270,22 +96270,33 @@
 鶥	mei2	画眉亚科各类鸟的通称 羽毛多为棕褐色，嘴尖，尾长，鸣声婉转 食虫，为益鸟 可笼饲，供观赏 我国常见的有画眉、棕颈钩嘴鹛、红顶鹛、黑脸噪鹛等	None	None
 鹛	None	=鶥的简化字	None	鶥
 𪃰	None	同=鶰	None	鶰
-䳫	None	录入中	None	None
-鶔	None	录入中	None	None
-鶩	None	录入中	None	None
-鹜	None	录入中	None	None
-鶨	None	录入中	None	None
-𪄈	None	录入中	None	None
-𪄕	None	录入中	None	None
-𪉒	None	录入中	None	None
-鷔	None	录入中	None	None
-𪉑	None	录入中	None	None
-𪃺	None	录入中	None	None
-鷌	None	录入中	None	None
-䳲	None	录入中	None	None
-𪄐	None	录入中	None	None
-𪄌	None	录入中	None	None
-𪃇	None	录入中	None	None
+䳫	None	同=𪆴	None	𪆴
+𫛼	None	=䳫的类推简化字	None	䳫
+鶔	rou2	[鶝鶔]见“鶝”	None	None
+⿰柔鸟	None	=鶔的类推简化字	None	鶔
+鶩	wu4	家鸭	None	None
+鶩	wu4	游水	None	None
+鶩	wu4	同=䨁 雏雀	None	䨁
+鶩	wu4	通=騖 奔驰	None	騖
+鹜	None	=鶩的简化字	None	鶩
+鶨	chuan4	鸟名 欺（䳢）老 又名鳹鶨、痴鸟，勾喙鸟	None	None
+鶨	zhi4	同=雉	None	雉
+⿰彖鸟	None	=鶨的类推简化字	None	鶨
+𪄈	None	=𪃆的讹字	None	𪃆
+𪄕	ban1	[𪄕鳩]同“=斑鳩” 鸟名	None	斑
+𪉒	None	=𪄕的类推简化字	None	𪄕
+鷔	ao2	传说中的不祥鸟 又称黄鷔 白身，赤口，似雁	None	None
+鷔	ao4	[鷔鳦]也作“=聱耴” 鱼鸟群聚鸣叫状	None	聱
+鷔	ao4	用同=傲	None	傲
+𪉑	None	=鷔的类推简化字	None	鷔
+𪃺	gou4	[𪃺鵒]鸟名	None	None
+鷌	ma3	鸟名 黄雀	None	None
+䳲	zhen4	鸟群飞貌	None	None
+䳲	zhen4	鸟名 白鹭	None	None
+⿱振鸟	None	=䳲的类推简化字	None	䳲
+𪄐	None	同=鸇	None	鸇
+𪄌	gong4	鸟让食	None	None
+𪃇	None	同=𪃤(𪃈)	None	𪃤
 𪄖	None	录入中	None	None
 𪄗	None	录入中	None	None
 鷨	None	录入中	None	None
