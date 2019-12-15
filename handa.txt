@@ -36796,58 +36796,90 @@
 曏	xiang3	明，表明	None	None
 曏	xiang3	介词 表示方向、对象，相当于“向”、“朝向”、“对着”	None	None
 曏	shang3	顷刻，不多久 后作=晌	None	晌
-𣊼	None	录入中	None	None
-曉	None	录入中	None	None
-暿	None	录入中	None	None
-曀	None	录入中	None	None
-𣊣	None	录入中	None	None
-𣋅	None	录入中	None	None
-𣊴	None	录入中	None	None
-𣋄	None	录入中	None	None
-曔	None	录入中	None	None
-𠕭	None	录入中	None	None
-𣊠	None	录入中	None	None
-曋	None	录入中	None	None
-𣊢	None	录入中	None	None
-𣊥	None	录入中	None	None
-𣊵	None	录入中	None	None
-曆	None	录入中	None	None
-暸	None	录入中	None	None
-曇	None	录入中	None	None
-㬜	None	录入中	None	None
-𣊺	None	录入中	None	None
-暻	None	录入中	None	None
-暺	None	录入中	None	None
-㬞	None	录入中	None	None
-㬱	None	录入中	None	None
-𣋉	None	录入中	None	None
-㬛	None	录入中	None	None
-𣊦	None	录入中	None	None
-㬙	None	录入中	None	None
-𣋐	None	录入中	None	None
-𣊧	None	录入中	None	None
-曌	None	录入中	None	None
-𣊤	None	录入中	None	None
-𣊷	None	录入中	None	None
-㬟	None	录入中	None	None
-𣊸	None	录入中	None	None
-㬗	None	录入中	None	None
-暾	None	录入中	None	None
-曈	None	录入中	None	None
-𣊹	None	录入中	None	None
-㬚	None	录入中	None	None
-暽	None	录入中	None	None
-𣍎	None	录入中	None	None
-㬝	None	录入中	None	None
-朆	None	录入中	None	None
-𣊞	None	录入中	None	None
-𠘗	None	录入中	None	None
-𣊽	None	录入中	None	None
-曊	None	录入中	None	None
-𣊻	None	录入中	None	None
-𣊨	None	录入中	None	None
-𠕮	None	录入中	None	None
-𣊡	None	录入中	None	None
+⿱奉明	None	同=勑	None	勑
+⿰日⿳𠀎彐心	None	同=暳	None	暳
+𣊼	None	同=糧	None	糧
+曉	xiao3	明	None	None
+曉	xiao3	天明 今专指天刚亮 如：晓行夜宿	None	None
+曉	xiao3	智；慧	None	None
+曉	xiao3	知道；理解	None	None
+曉	xiao3	告知；开导	None	None
+曉	xiao3	快	None	None
+曉	xiao3	过	None	None
+曉	xiao3	嬴	None	None
+曉	xiao3	姓	None	None
+暿	xi3	盛貌	None	None
+暿	xi3	热	None	None
+暿	xi1	同=熹 烤（肉）；炽热	None	熹
+曀	yi4	阴天而有风，天色阴沉	None	None
+曀	yi4	泛指晦暗不明	None	None
+𣊣	None	=𩊿的讹字	None	𩊿
+𣋅	None	同=㬫	None	㬫
+𣊴	None	同=𣉱(暴)	None	𣉱
+𣋄	tun1	人名	None	None
+⿰日𭪙	None	同=曄	None	曄
+曔	jing4	明；日明	None	None
+曔	jing4	干	None	None
+𠕭	zhao4	覆具	None	None
+𣊠	None	同=㬓	None	㬓
+曋	shen3	日所次隅	None	None
+𣊢	None	=曋的讹字	None	曋
+𣊥	None	同=曠	None	曠
+𣊵	None	同=暖	None	暖
+曆	li4	推算日月星辰运行及季节时令的方法	None	None
+曆	li4	治历法的人	None	None
+曆	li4	历书	None	None
+曆	li4	年代；寿命 也指迷信的“天数”	None	None
+曆	li4	数，数目	None	None
+曆	li4	用以记录的簿册	None	None
+暸	liao2	明	None	None
+曇	tan2	密布的云气 常叠用，形容乌云密布	None	None
+曇	tan2	译音用字，多见于佛经 如：昙摩	None	None
+曇	tan2	姓	None	None
+㬜	None	同=晋	None	晋
+𣊺	xian2	姓	None	None
+暻	jing3	明	None	None
+暻	jing3	同=景	None	景
+暺	None	同=㫜	None	㫜
+⿰日⿻乚⿱口⿰!印日	None	同=𣋋	None	𣋋
+㬞	None	同=暍	None	暍
+㬱	None	同=替	None	替
+𣋉	yu4	同=燠 热	None	燠
+㬛	xi1	日干物	None	None
+𣊦	None	=𦠪(昔)的讹字	None	𦠪
+㬙	wei3	日光	None	None
+𣋐	None	同=著	None	著
+𣊧	lang3	同=朤(朗)	None	朤
+𣊧	zhao4	同=照	None	照
+曌	zhao4	同=照 唐武则天为自己名字造的字	None	照
+⿰日⿸厃⿱八𢀛	None	同=曕	None	曕
+𣊤	None	同=農	None	農
+𣊷	None	同=從	None	從
+㬟	None	同=朆	None	朆
+𣊸	None	同=𢑢	None	𢑢
+⿳九⿰人从昌	None	同=厩	None	厩
+㬗	xian4	同=晛	None	晛
+㬗	xian4	暖	None	None
+暾	tun1	初升的太阳	None	None
+暾	tun1	渐出貌	None	None
+暾	tun1	（朝阳）照物貌	None	None
+暾	tun1	暖，热	None	None
+曈	tong2	[曈曨]1.日将出渐明貌 2.不甚分明	None	None
+𣊹	None	同=量	None	量
+㬚	che4	明	None	None
+暽	lin2	人名用字	None	None
+𣍎	None	同=甑	None	甑
+㬝	ceng2	[瞢㬝]见“瞢”	None	None
+㬝	song1	白貌 ……一说=𤾥的讹字	None	𤾥
+朆	fen1	方言 副词 表示否定，相当于“未曾”、“不曾”	None	None
+𣊞	xu4	不明貌	None	None
+𠘗	None	同=冬	None	冬
+𣊽	None	同=岷	None	岷
+曊	fei4	同=昲 暴晒；晒干	None	昲
+𣊻	None	同=暴	None	暴
+𣊨	None	同=春	None	春
+𠕮	None	=𦀒的讹字	None	𦀒
+𣊡	None	同=㬎	None	㬎
 𢅨	None	录入中	None	None
 𣋞	None	录入中	None	None
 㬦	None	录入中	None	None
