@@ -36729,47 +36729,73 @@
 㬎	xian3	丝结	None	None
 㬎	xian3	口急而不能畅言	None	None
 㬎	xian3	姓	None	None
-𣍈	None	录入中	None	None
-暳	None	录入中	None	None
-𣊄	None	录入中	None	None
-𣊝	None	录入中	None	None
-𣊒	None	录入中	None	None
-暬	None	录入中	None	None
-𣊓	None	录入中	None	None
-𣍆	None	录入中	None	None
-暵	None	录入中	None	None
-曂	None	录入中	None	None
-暪	None	录入中	None	None
-暴	None	录入中	None	None
-𣊙	None	录入中	None	None
-暫	None	录入中	None	None
-暷	None	录入中	None	None
-𣉿	None	录入中	None	None
-𣊛	None	录入中	None	None
-𡭂	None	录入中	None	None
-𣉾	None	录入中	None	None
-㬓	None	录入中	None	None
-𣊚	None	录入中	None	None
-𣊕	None	录入中	None	None
-𣊖	None	录入中	None	None
-𣉻	None	录入中	None	None
-𥡞	None	录入中	None	None
-𣊅	None	录入中	None	None
-暭	None	录入中	None	None
-暰	None	录入中	None	None
-暩	None	录入中	None	None
-𣊜	None	录入中	None	None
-暲	None	录入中	None	None
-𣊂	None	录入中	None	None
-暶	None	录入中	None	None
-𣉼	None	录入中	None	None
-𣊶	None	录入中	None	None
-暼	None	录入中	None	None
-𣉒	None	录入中	None	None
-曃	None	录入中	None	None
-𣊟	None	录入中	None	None
-㬔	None	录入中	None	None
-曏	None	录入中	None	None
+𣍈	None	同=豐	None	豐
+暳	hui4	小星	None	None
+暳	hui4	众星貌	None	None
+𣊄	None	同=熭	None	熭
+𣊝	sang4	[㫰𣊝]戏	None	None
+𣊒	None	同=是	None	是
+暬	xie4	同=褻 狎近；轻慢	None	褻
+𣊓	None	=暬的讹字	None	暬
+𣍆	ning2	告	None	None
+暵	han4	枯槁；干涸	None	None
+暵	han4	曝晒	None	None
+暵	han4	干旱	None	None
+曂	huang4	[曂㫰]明貌	None	None
+暪	men4	暗	None	None
+暴	pu4	晒，晒干 后作=曝	None	曝
+暴	bao4	暴露；显示	None	None
+暴	bao4	凶残；暴虐	None	None
+暴	bao4	损害；糟蹋	None	None
+暴	bao4	欺凌；侵害	None	None
+暴	bao4	轻侮；轻慢	None	None
+暴	bao4	急骤；猛烈	None	None
+暴	bao4	急躁 如：暴跳如雷	None	None
+暴	bao4	风暴，晴天骤起的大风	None	None
+暴	bao4	短促	None	None
+暴	bao4	空手搏击	None	None
+暴	bao4	副词 表示情态，相当于“突然”	None	None
+暴	bao4	古代行政单位名称，方六里之地为暴 又古代居民点的名称，五十家为暴	None	None
+暴	bao4	古地名 在今河南省原阳县西	None	None
+暴	bao4	姓	None	None
+暴	bo2	鼓起；凸出 又作=㿺	None	㿺
+𣊙	None	同=暫	None	暫
+暫	zan4	短时间	None	None
+暫	zan4	副词 1.表示时间 a.相当于“刚”、“方才” b.相当于“顿时”、“就” 2.表示频率 a.相当于“忽而”、“时而” b.相当于“偶尔”、“间或” 3.表示情态 a.相当于“仓卒”、“突然” b.相当于“暂且”、“姑且”	None	None
+暷	chuan2	日动	None	None
+𣉿	cao2	日晚	None	None
+𣊛	None	同=曹	None	曹
+𡭂	de2	弱貌	None	None
+𣉾	ou4	同=熰 温暖	None	熰
+㬓	piao4	曝晒	None	None
+𣊚	None	同=曅	None	曅
+𣊕	None	同=照	None	照
+𣊖	None	同=曑(參)	None	曑
+𣉻	None	同=智	None	智
+⿰智于	None	同=智	None	智
+𥡞	None	同=稽	None	稽
+𣊅	None	同=渴	None	渴
+暭	None	同=暤	None	暤
+暰	cong1	电光	None	None
+暩	None	同=喻	None	喻
+𣊜	None	同=終	None	終
+暲	zhang1	同=章 明	None	章
+暲	zhang1	日光上进	None	None
+⿱日章	None	同=暲	None	暲
+𣊂	None	=𣊜的讹字	None	𣊜
+暶	xuan2	明	None	None
+暶	xuan2	美貌	None	None
+𣉼	None	同=𣋞	None	𣋞
+𣊶	bie1	晒干	None	None
+暼	pie1	日落势	None	None
+𣉒	None	同=曤	None	曤
+曃	dai4	[曖曃]昏暗	None	None
+𣊟	kan4	日出貌	None	None
+㬔	hao2	违反；违背	None	None
+曏	xiang3	不久以前；往日	None	None
+曏	xiang3	明，表明	None	None
+曏	xiang3	介词 表示方向、对象，相当于“向”、“朝向”、“对着”	None	None
+曏	shang3	顷刻，不多久 后作=晌	None	晌
 𣊼	None	录入中	None	None
 曉	None	录入中	None	None
 暿	None	录入中	None	None
