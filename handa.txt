@@ -49441,44 +49441,63 @@
 䄚	cao2	祭猪神	None	None
 䄚	cao2	福祐	None	None
 𥛦	None	=褾的讹字	None	褾
-𥛬	None	录入中	None	None
-𥛡	None	录入中	None	None
-𥛳	None	录入中	None	None
-𥛜	None	录入中	None	None
-䄛	None	录入中	None	None
-禩	None	录入中	None	None
-𥛧	None	录入中	None	None
-禤	None	录入中	None	None
-𥛙	None	录入中	None	None
-𥛨	None	录入中	None	None
-𥛟	None	录入中	None	None
-𥛩	None	录入中	None	None
-𥛞	None	录入中	None	None
-𥛪	None	录入中	None	None
-𥛚	None	录入中	None	None
-𥛫	None	录入中	None	None
-禧	None	录入中	None	None
-𥛻	None	录入中	None	None
-𥛱	None	录入中	None	None
-𥛽	None	录入中	None	None
-𥜍	None	录入中	None	None
-禫	None	录入中	None	None
-𥛰	None	录入中	None	None
-禪	None	录入中	None	None
-䄟	None	录入中	None	None
-𥛲	None	录入中	None	None
-禦	None	录入中	None	None
-𥛮	None	录入中	None	None
-𥛾	None	录入中	None	None
-禭	None	录入中	None	None
-𥛿	None	录入中	None	None
-𥛯	None	录入中	None	None
-禨	None	录入中	None	None
-𥜑	None	录入中	None	None
-𥜎	None	录入中	None	None
-𥜅	None	录入中	None	None
-𥜐	None	录入中	None	None
-𥜏	None	录入中	None	None
+𥛬	None	=𥻳的讹字	None	𥻳
+𥛡	None	同=禋	None	禋
+𥛳	None	同=魖	None	魖
+𥛜	zu4	同=詛	None	詛
+𥛜	zu4	同=祖	None	祖
+䄛	None	同=膢	None	膢
+禩	None	同=祀	None	祀
+𥛧	None	=𡏱的讹字	None	𡏱
+禤	xuan1	姓	None	None
+𥛙	None	同=𫌅	None	𫌅
+𥛨	shi1	[㩥𥛨]毛羽入貌	None	None
+𥛟	pu3	久视	None	None
+𥛩	yu3	祭器	None	None
+𥛞	lu4	祭名	None	None
+𥛪	lu4	祭名 *=𥛞	None	𥛞
+𥛚	chi4	福	None	None
+𥛫	liang2	@	None	None
+禧	xi3	福；吉祥 如：年禧；恭贺新禧	None	None
+𥛻	None	同=𥛱(祊)	None	𥛱
+𥛱	None	同=祊	None	祊
+𥛽	None	同=𥛅	None	𥛅
+𥜍	None	同=禲	None	禲
+禫	dan4	祭名 除丧服的祭礼	None	None
+𥛰	liao4	同尞(燎) 古祭名 焚柴祭天	None	None
+禪	shan4	祭名 1.祭天之名 2.古代帝王祭山川土地之名	None	None
+禪	shan4	帝王让位给他姓 如：禅位；受禅	None	None
+禪	shan4	替代	None	None
+禪	chan2	佛教用语(梵文dhyа̄na的音译) 静思之意，是佛教的一种修行方法 如：坐禅	None	None
+禪	chan2	泛指有关佛教的事物	None	None
+禪	tan2	古国名	None	None
+䄟	cui4	重祭；屡祭	None	None
+䄟	cui4	谢	None	None
+𥛲	None	同=醮	None	醮
+禦	yu4	祭祀以祈免灾祸	None	None
+禦	yu4	禁止；防止	None	None
+禦	yu4	抗拒；抵挡	None	None
+禦	yu4	匹敌；相当	None	None
+禦	yu4	护卫	None	None
+禦	yu4	强暴；暴虐	None	None
+禦	yu4	古指大臣 后世指帝王的侍卫	None	None
+禦	yu4	挂在车前的竹帘	None	None
+禦	yu4	通=御 进献	None	御
+𥛮	None	同=膰	None	膰
+𥛾	None	同=䄍	None	䄍
+禭	sui4	祭名	None	None
+禭	sui4	神名	None	None
+𥛿	None	同=禋	None	禋
+𥛯	jue2	不详	None	None
+禨	ji1	祭鬼神以求福	None	None
+禨	ji1	旧谓鬼神降祸	None	None
+禨	ji4	沐后饮酒 又指沐后所饮之酒 也作=䤒	None	䤒
+禨	qi2	同=𧗒 血祭	None	𧗒
+𥜑	None	同=䄂(𥛅)	None	䄂
+𥜎	None	人名用字	None	None
+𥜅	None	同=禄	None	禄
+𥜐	min3	[𥜐免]也作“=閔免”、“=黽免” 勤勉；努力	None	閔
+𥜏	gui4	@	None	None
 禮	None	录入中	None	None
 禯	None	录入中	None	None
 𥜃	None	录入中	None	None
