@@ -96559,37 +96559,43 @@
 ⿰屠鸟	None	=鷵的类推简化字	None	鷵
 𪅿	None	同=𩁌	None	𩁌
 𪄶	xi2	[鴣𪄶]见“鴣”	None	None
+⿰⿱羽尒鳥	None	同=鷚	None	鷚
 鷚	liu4	天鸙 又名“天鹨”、“告天鸟”，即百灵科的云雀	None	None
 鷚	liu4	鹡鸰科鹨属各种鸟的通称 身体较小，嘴细长，尾巴长，吃害虫，为益鸟 有树鹨、水鹨、田鹨等	None	None
 鷚	liu4	小野鸡 又指雏鸡 也作=雡	None	雡
 鷚	liu4	鸭蛋	None	None
 鹨	None	=鹨的简化字	None	鹨
-𪅡	None	录入中	None	None
-𪅸	None	录入中	None	None
-䴃	None	录入中	None	None
-䴅	None	录入中	None	None
-𪅷	None	录入中	None	None
-鷧	None	录入中	None	None
-𪆖	None	录入中	None	None
-𪆪	None	录入中	None	None
-𪇄	None	录入中	None	None
-𪅴	None	录入中	None	None
-𪆁	None	录入中	None	None
-𪆗	None	录入中	None	None
-𪅾	None	录入中	None	None
-鷰	None	录入中	None	None
-𪇅	None	录入中	None	None
-𪅳	None	录入中	None	None
-𪆰	None	录入中	None	None
-𪆘	None	录入中	None	None
-𪆴	None	录入中	None	None
-𪆉	None	录入中	None	None
-𪄷	None	录入中	None	None
-鷣	None	录入中	None	None
-𫜃	None	录入中	None	None
-𪅼	None	录入中	None	None
-𪆙	None	录入中	None	None
-鷢	None	录入中	None	None
+𪅡	None	同=鷚	None	鷚
+𪅸	jie2	[𪅸𪈙]同“=𪃈𪈙” 鸟名	None	𪃈
+⿰替鳥	None	同=𪅽	None	𪅽
+䴃	nao2	[鳭䴃]见“鳭”	None	None
+䴅	ben1	传说中的鸟名	None	None
+𪅷	None	=𪄌的讹字	None	𪄌
+鷧	yi4	鸬鹚	None	None
+⿰壹鸟	None	=鷧的类推简化字	None	鷧
+𪆖	None	同=鷧	None	鷧
+𪆪	None	同=𪇄	None	𪇄
+⿰⿳士冖⿱一𡖉鳥	None	同=𪇄	None	𪇄
+𪅴	e4	鸟名 水𪅴	None	None
+𪆁	si1	[鸒𪆁]同“鸒=斯” 鸟名，即鹎鶋	None	斯
+𪆗	si1	[鸒𪆗]同“鸒=𪆁” 鸟名 即寒鸦	None	𪆁
+𪅾	qi1	[鵋𪅾]同“鵋=䳢”	None	䳢
+鷰	None	同=燕	None	燕
+𪇅	None	同=𪇳	None	𪇳
+𪅳	None	同=鶹	None	鶹
+𪆰	ya4	[鶷𪆰]见“鶷”	None	None
+𬸭	None	=𪆰的类推简化字	None	𪆰
+⿰⿳艹罒心鳥	None	同⿰𢙣鳥 *=𪅴	None	𪅴
+𪆘	None	[山𪁱𪆘]鸟名	None	None
+𪆴	kui2	[𪆴鳩]小鸠	None	None
+𪆉	None	⿰⿳士冖⿱一隹殳(=𪃟)的讹字	None	𪃟
+𪄷	xian1	一种似鹤而碧色的鸟	None	None
+鷣	yin2	鹞的别名	None	None
+𫜃	None	=鷣的类推简化字	None	鷣
+𪅼	li4	鸟名	None	None
+𪆙	None	同=鷢	None	鷢
+鷢	jue2	[白鷢]又名“鸉” 鸟名，即白鹞子	None	None
+⿸厥鸟	None	=鷢的类推简化字	None	鷢
 鷯	None	录入中	None	None
 鹩	None	录入中	None	None
 𪆚	None	录入中	None	None
