@@ -96235,32 +96235,41 @@
 𪃊	None	同=翪	None	翪
 𪂽	pen2	[𪂽鳩]也作“=鳻鳩” 斑鸠	None	鳻
 䳮	mo4	鸟惊视	None	None
-𪂷	None	录入中	None	None
-𪃓	None	录入中	None	None
-𪂺	None	录入中	None	None
-𪃒	None	录入中	None	None
-鶕	None	录入中	None	None
-𪃛	None	录入中	None	None
-鶙	None	录入中	None	None
-𪃬	None	录入中	None	None
-鷀	None	录入中	None	None
-鹚	None	录入中	None	None
-鶿	None	录入中	None	None
-𪃕	None	录入中	None	None
-𪃜	None	录入中	None	None
-䳦	None	录入中	None	None
-𪃗	None	录入中	None	None
-鶟	None	录入中	None	None
-𪃭	None	录入中	None	None
-𪂸	None	录入中	None	None
-鶤	None	录入中	None	None
-鶣	None	录入中	None	None
-𪄵	None	录入中	None	None
-𪃮	None	录入中	None	None
-𪃯	None	录入中	None	None
-鶥	None	录入中	None	None
-鹛	None	录入中	None	None
-𪃰	None	录入中	None	None
+𪂷	None	同=𪃶	None	𪃶
+𪃓	fu4	鹞的别名	None	None
+𬸚	None	=鸑的类推简化字	None	鸑
+𪂺	ji2	鸟名	None	None
+𪃒	duo2	[鸌𪃒]见“鸌”	None	None
+鶕	None	同=䳺(鵪)	None	䳺
+𪃛	jian4	鸟名	None	None
+鶙	None	同=鶗	None	鶗
+⿰帝鸟	None	同=鶗	None	鶗
+⿰娄鳥	None	同=鷜	None	鷜
+𪃬	None	同=䳺(鵪)	None	䳺
+鷀	ci2	[鸕鷀]见“鸕”	None	None
+鹚	None	=鷀的简化字	None	鷀
+鶿	ci2	[鸕鶿]也作“鸕=鷀”	None	鷀
+𪃕	None	同=鵅	None	鵅
+𪃜	None	=鶷的讹字	None	鶷
+䳦	xuan1	[𪀽䳦]见“𪀽”	None	None
+𪃗	None	同=䳦	None	䳦
+鶟	tu2	[鶟鶦]鸟名 白头翁	None	None
+⿰突鸟	None	=鶟的类推简化字	None	鶟
+⿰穾鳥	None	同=鶟	None	鶟
+𪃭	ke4	@ ……按：疑为=𪃾字之讹	None	𪃾
+𪂸	None	同=鷫	None	鷫
+鶤	kun1	[鶤雞]同“=鵾鷄” 也单用 1.大鸡 2.一种似鹤而大的水鸟 3.凤凰的别名 4.大鸟	None	鵾
+鶣	pian2	[鶣𪅃]轻貌	None	None
+鶣	bian3	同=扁 姓	None	扁
+𬸜	None	=鶣的类推简化字	None	鶣
+𪄵	ji4	鸟名	None	None
+𪄵	ji4	同=鵋	None	鵋
+𪃮	None	鸟名	None	None
+𪃯	None	同=𪂆	None	𪂆
+鶥	mei2	[鶥鴰]也作“=麋鴰” 鸟名 即鸧鸹	None	麋
+鶥	mei2	画眉亚科各类鸟的通称 羽毛多为棕褐色，嘴尖，尾长，鸣声婉转 食虫，为益鸟 可笼饲，供观赏 我国常见的有画眉、棕颈钩嘴鹛、红顶鹛、黑脸噪鹛等	None	None
+鹛	None	=鶥的简化字	None	鶥
+𪃰	None	同=鶰	None	鶰
 䳫	None	录入中	None	None
 鶔	None	录入中	None	None
 鶩	None	录入中	None	None
