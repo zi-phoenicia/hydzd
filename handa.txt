@@ -35976,15 +35976,37 @@
 𣅻	gua3	同=咼(剮)	None	咼
 𣅻	jiong1	明	None	None
 𣌬	ju3	人名用字	None	None
-星	None	录入中	None	None
-昳	None	录入中	None	None
-昨	None	录入中	None	None
-𣆋	None	录入中	None	None
-㫟	None	录入中	None	None
-昣	None	录入中	None	None
-昤	None	录入中	None	None
-𣆎	None	录入中	None	None
-㫝	None	录入中	None	None
+星	xing1	宇宙间能发光或反射光的天体 分恒星（如太阳）、行星（如地球）、卫星（如月球）、彗星、流星 一般指夜空闪亮的天体	None	None
+星	xing1	星宿；星座 1.二十八宿之一 南方朱鸟七宿的第四宿，也称七星 2.二十八宿的泛称 3.指五星 土、木、火、金、水等星的总称	None	None
+星	xing1	天文 形体明、暗、薄、蚀等现象 古时多指以星象推算吉凶的方术	None	None
+星	xing1	比喻星状物 多指细碎、细小或闪亮的东西 如：红星；汗星；海星	None	None
+星	xing1	古时特指妇女装饰面颊的美容花点	None	None
+星	xing1	戥、秤等衡器上记斤、两、钱的标志点	None	None
+星	xing1	喻指某种特别突出的、有特殊作用或才能的人 如：救星；灾星；歌星；寿星	None	None
+星	xing1	形容多而且散	None	None
+星	xing1	像流星那样，形容疾速	None	None
+星	xing1	喻指白	None	None
+星	xing1	形容细小，犹言一点点 如：星火燎原	None	None
+星	xing1	夜，星夜 多用于连夜赶路	None	None
+星	xing1	（雨止）星出	None	None
+星	xing1	仪仗名	None	None
+星	xing1	乐器名 即碰钟，一名碰铃	None	None
+星	xing1	原子核物理学术语 高能粒子射入核乳胶或云室、气泡室时，许多径迹从一点发出的现象 如：当一个宇宙射线粒子与核乳胶中原子核碰撞时，后者分裂为几个轻原子核或产生其他粒子沿各方向“飞溅”，其径迹表现为几条从一点（核的位置）开始的长短粗细不同的线段 因此，每一颗“星”，标志着一次高能核反应或一个多级衰变过程	None	None
+星	xing1	姓	None	None
+昳	die2	太阳偏西	None	None
+昳	die2	通=逸(yi4) 特出	None	逸
+昨	zuo2	隔日；今天的前一天	None	None
+昨	zuo2	泛指往日，过去	None	None
+昨	zuo2	通=酢(zuo4) 以酒回敬	None	酢
+昨	zuo2	姓	None	None
+𣆋	None	同=昣	None	昣
+⿳日八寸	None	同=㝵	None	㝵
+⿰日尒	None	同=昣	None	昣
+㫟	yan2	日行	None	None
+昣	zhen3	明	None	None
+昤	ling2	[昤曨]日光	None	None
+𣆎	None	同=鼠	None	鼠
+㫝	di1	日	None	None
 昫	None	录入中	None	None
 曷	None	录入中	None	None
 𣆑	None	录入中	None	None
