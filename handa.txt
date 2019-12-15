@@ -96140,34 +96140,46 @@
 鶋	ju1	[鵯鶋]见“鵯”	None	None
 鶋	ju1	[鶌鶋]见“鶌”	None	None
 ⿰居鸟	None	=鶋的类推简化字	None	鶋
-鶌	None	录入中	None	None
-𫛵	None	录入中	None	None
-鵽	None	录入中	None	None
-鶅	None	录入中	None	None
-𪃈	None	录入中	None	None
-𪃆	None	录入中	None	None
-𪂹	None	录入中	None	None
-𪃣	None	录入中	None	None
-𪃤	None	录入中	None	None
-𪃘	None	录入中	None	None
-𪃏	None	录入中	None	None
-𪉏	None	录入中	None	None
-䳬	None	录入中	None	None
-鶘	None	录入中	None	None
-鹕	None	录入中	None	None
-鶦	None	录入中	None	None
-𫛷	None	录入中	None	None
-𪃥	None	录入中	None	None
-𪂼	None	录入中	None	None
-鶠	None	录入中	None	None
-鶒	None	录入中	None	None
-𫛶	None	录入中	None	None
-鶝	None	录入中	None	None
-𪃋	None	录入中	None	None
-䳩	None	录入中	None	None
-𪂶	None	录入中	None	None
-𪃉	None	录入中	None	None
-鶛	None	录入中	None	None
+鶌	jue2	[鶌鳩]又名鹘鸼 一说小鸠	None	None
+鶌	qu1	[鶌鶋]鸟名	None	None
+𫛵	None	=鶌的类推简化字	None	鶌
+鵽	duo4	鵽鸠 又名寇雉、突厥雀，即毛腿沙鸡 外形似鸽 无后䟗，前三趾合生，密被短羽 冬时见于东三省南部、河北省、山东省等地，为不定性冬候鸟，常成群觅食	None	None
+鵽	duo4	古代传说中的忘母之鸟，即“青鵽”	None	None
+⿰叕鸟	None	=鵽的类推简化字	None	鵽
+鶅	zi1	古代东方野鸡的别名	None	None
+鶅	zi1	鵵轨鸟 一说为鵵鸱，即猫头鹰	None	None
+⿰甾鸟	None	=鶅的类推简化字	None	鶅
+𪃈	jie2	[𪃈𪇷]鸟名 凫属	None	None
+𪃆	zou4	鸟名	None	None
+𪂹	chun1	鸟名	None	None
+𪃣	None	=𪆊(𪅖)的讹字	None	𪆊
+𪃤	None	同=𪃈	None	𪃈
+𪃘	None	同=鳶	None	鳶
+𪃏	mei2	鸟媒，用以诱捕鸟类的鸟	None	None
+𪉏	None	=𪃏的类推简化字	None	𪃏
+䳬	None	同=鷊	None	鷊
+鶘	hu2	[鵜鶘]见“鵜”	None	None
+鹕	None	=鶘的简化字	None	鶘
+鶦	hu1	[鶟鶦]见“鶟”	None	None
+𫛷	None	=鶦的类推简化字	None	鶦
+𪃥	None	同=𪂼	None	𪂼
+𪂼	xiang1	鸟名	None	None
+鶠	yan3	凤的别名	None	None
+鶠	yan3	用同=鴳(yan4) 小鸟	None	鴳
+𬸘	None	=鶠的类推简化字	None	鶠
+鶒	chi4	[鸂鶒]见“鸂”	None	None
+𫛶	None	=鶒的类推简化字	None	鶒
+鶝	fu2	[鶝鶔]鸟名	None	None
+鶝	bi4	[鶝𪂉]鸟名 即戴胜鸟	None	None
+⿰畐鸟	None	=鶝的类推简化字	None	鶝
+𪃋	zhan1	同=鸇	None	鸇
+𪃋	jian1	[𪃋鳥]山名	None	None
+䳩	yao1	[鴒䳩]鸟名 也单用	None	None
+𪂶	xian2	鸟名	None	None
+𪃉	None	同=𩀋	None	𩀋
+鶛	jie1	雄鹩鹑	None	None
+鶛	jie4	鸟名	None	None
+⿰皆鸟	None	=鶛的类推简化字	None	鶛
 𪃚	None	录入中	None	None
 𪃅	None	录入中	None	None
 𪃷	None	录入中	None	None
