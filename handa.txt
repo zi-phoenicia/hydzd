@@ -96530,27 +96530,40 @@
 䳸	ma2	雁	None	None
 䳸	ma2	麻雀	None	None
 鷛	yong1	[鷛𪆫]同“=𪅟𪆫”	None	𪅟
-𪅟	None	录入中	None	None
-𪅂	None	录入中	None	None
-𪄱	None	录入中	None	None
-𪄲	None	录入中	None	None
-鷟	None	录入中	None	None
-𪅄	None	录入中	None	None
-鷩	None	录入中	None	None
-𫜁	None	录入中	None	None
-𪅍	None	录入中	None	None
-𪆂	None	录入中	None	None
-𪆫	None	录入中	None	None
-𪄺	None	录入中	None	None
-𪅢	None	录入中	None	None
-鶴	None	录入中	None	None
-𪅮	None	录入中	None	None
-𪄰	None	录入中	None	None
-鷵	None	录入中	None	None
-𪅿	None	录入中	None	None
-𪄶	None	录入中	None	None
-鷚	None	录入中	None	None
-鹨	None	录入中	None	None
+⿰庸鸟	None	=鷛的类推简化字	None	鷛
+𪅟	yong1	[𪅟𪆫]也作“=鷛𪆫”、“鷛𪆂”、“=庸渠” 水鸟名 又名“章渠”	None	鷛
+𪅂	zhang1	水鸡 又名“䴀渠”	None	None
+𪄱	di2	雉属鸟	None	None
+𪄲	shang1	[𪄲鶊]也作“=商庚” 又名“鶬鶊” 鸟名 即黄鹂	None	商
+⿰商鸟	None	=𪄲的类推简化字	None	𪄲
+鷟	zhuo2	[鸑鷟]凤凰；水鸟名 也单用	None	None
+𬸦	None	=鷟的类推简化字	None	鷟
+𪅄	su4	[鵓𪅄]同“鵓=𪁽” 鸟名	None	𪁽
+鷩	bi4	鸟名 雉的一种 又名鵕䴊、赤雉、赤鷩，即锦鸡 鸟性憋急，羽毛美丽	None	None
+鷩	bi4	一种绣有鷩形图案的礼服	None	None
+𫜁	None	=鷩的类推简化字	None	鷩
+𪅍	chi4	[鸂𪅍]同“鸂=鷘” 水鸟名	None	鷘
+⿰𬈆鳥	chi4	同=䳵 “鸂⿰𬈆鳥”，即“鸂䳵”	None	䳵
+𪆂	qu2	[𪄉𪆂]鸟名，即鹡鸰	None	None
+𪆂	qu2	[鷛𪆂]水鸟名	None	None
+𪆫	None	同=𪆂	None	𪆂
+⿰鸟渠	None	=𪆫的类推简化字	None	𪆫
+𪄺	kou4	[𪄺雉]也作“=寇雉” 鸟名，即鵽鸠	None	寇
+𪄺	kou4	水鸟名 鸭属	None	None
+𪅢	None	同=鸋	None	鸋
+鶴	None	同=鶴	None	鶴
+⿰鳥密	None	同=𪅮	None	𪅮
+𪅮	mi4	[𪅮肌]也作“=密肌” 鸟名	None	密
+𪄰	None	同=𪅮	None	𪅮
+鷵	tu2	[鶶鷵]见“鶶”	None	None
+⿰屠鸟	None	=鷵的类推简化字	None	鷵
+𪅿	None	同=𩁌	None	𩁌
+𪄶	xi2	[鴣𪄶]见“鴣”	None	None
+鷚	liu4	天鸙 又名“天鹨”、“告天鸟”，即百灵科的云雀	None	None
+鷚	liu4	鹡鸰科鹨属各种鸟的通称 身体较小，嘴细长，尾巴长，吃害虫，为益鸟 有树鹨、水鹨、田鹨等	None	None
+鷚	liu4	小野鸡 又指雏鸡 也作=雡	None	雡
+鷚	liu4	鸭蛋	None	None
+鹨	None	=鹨的简化字	None	鹨
 𪅡	None	录入中	None	None
 𪅸	None	录入中	None	None
 䴃	None	录入中	None	None
