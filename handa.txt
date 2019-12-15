@@ -36995,33 +36995,39 @@
 ⿰日⿱出㳟	None	同=曝	None	曝
 𣌏	de2	约	None	None
 𣌓	huan1	姓	None	None
-𣌈	None	录入中	None	None
-朇	None	录入中	None	None
-㬭	None	录入中	None	None
-曩	None	录入中	None	None
-𣌐	None	录入中	None	None
-𣌍	None	录入中	None	None
-㬬	None	录入中	None	None
-𣌑	None	录入中	None	None
-㒿	None	录入中	None	None
-𣌖	None	录入中	None	None
-㬮	None	录入中	None	None
-曬	None	录入中	None	None
-曮	None	录入中	None	None
-曪	None	录入中	None	None
-曫	None	录入中	None	None
-㬯	None	录入中	None	None
-𣌚	None	录入中	None	None
-曭	None	录入中	None	None
-𣌗	None	录入中	None	None
-𣌘	None	录入中	None	None
-𣍚	None	录入中	None	None
-𣌜	None	录入中	None	None
-曯	None	录入中	None	None
-𣌞	None	录入中	None	None
-𣌟	None	录入中	None	None
-𣍜	None	录入中	None	None
-𣌠	None	录入中	None	None
+⿰日⿳一⺌𠪚	None	同=曮	None	曮
+𣌈	None	同=㬍	None	㬍
+朇	pi2	益，增益 后作=裨	None	裨
+㬭	jiao4	同=皭 明；洁 古多用于人名	None	皭
+曩	nang3	从前；过去	None	None
+曩	nang3	副词 表示时间，相当于“昔”、“以往”	None	None
+曩	nang3	姓	None	None
+𣌐	None	同=曀	None	曀
+𣌍	nie4	同=㸎 暖	None	㸎
+㬬	ju4	姓	None	None
+𣌑	None	同=曝	None	曝
+㒿	li2	[接㒿]也作“接㒿” 古代一种头巾	None	None
+𣌖	None	同=㬮	None	㬮
+㬮	nan4	[安㬮]温和；温存	None	None
+曬	shai4	暴晒；晒干	None	None
+曬	shai4	展现	None	None
+曬	shai4	用同=煞 甚，极	None	煞
+曮	yan3	日行 也指日行的度次	None	None
+曪	luo3	[𣋟曪]见“𣋟”	None	None
+曫	luan2	黄昏	None	None
+㬯	lie4	日落	None	None
+𣌚	chun1	@	None	None
+⿰日⿳雨罒巫	None	同=昤	None	昤
+曭	tang3	不明	None	None
+𣌗	yue4	明	None	None
+𣌘	None	同=暾	None	暾
+𣍚	None	同=𢆅	None	𢆅
+𣌜	li4	星貌	None	None
+曯	zhu2	同=燭 照	None	燭
+𣌞	zhang1	@	None	None
+𣌟	ling2	[𣌟曨]同“=昤曨” 日光	None	昤
+𣍜	None	同=黌	None	黌
+𣌠	chun2	@	None	None
 水	shui3	无色无味的透明液体，分子式为H_2O	None	None
 水	shui3	泛指某些液态物 如：药水；铁水	None	None
 水	shui3	河流	None	None
