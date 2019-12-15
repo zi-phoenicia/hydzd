@@ -36167,32 +36167,56 @@
 晁	chao2	姓 也作=鼌、=朝	None	鼌
 晁	zhao4	[晁陽]县名	None	None
 𣆾	None	同=𣇲 ……一说=昏的讹字	None	𣇲
-曻	None	录入中	None	None
-㫥	None	录入中	None	None
-𣆚	None	录入中	None	None
-𠕝	None	录入中	None	None
-晈	None	录入中	None	None
-𣆖	None	录入中	None	None
-晐	None	录入中	None	None
-𣆬	None	录入中	None	None
-㫧	None	录入中	None	None
-𣆙	None	录入中	None	None
-㫨	None	录入中	None	None
-晏	None	录入中	None	None
-晖	None	录入中	None	None
-晕	None	录入中	None	None
-書	None	录入中	None	None
-𣆓	None	录入中	None	None
-𣆕	None	录入中	None	None
-𪰣	None	录入中	None	None
-𣇖	None	录入中	None	None
-㫱	None	录入中	None	None
-晣	None	录入中	None	None
-晢	None	录入中	None	None
-㫴	None	录入中	None	None
-𣆷	None	录入中	None	None
-𣇅	None	录入中	None	None
-㫲	None	录入中	None	None
+曻	None	同=昇	None	昇
+㫥	ming3	同=冥 昏暗	None	冥
+𣆚	nuo3	同=㡅 储藏室	None	㡅
+𣆚	chi3	同=侈 奢	None	侈
+𠕝	None	同=𣆚	None	𣆚
+晈	None	同=皎	None	皎
+𣆖	huang1	旱热	None	None
+晐	gai1	本指日光兼覆，引申为赅备；兼备；包容	None	None
+晐	gai1	咸；皆	None	None
+𣆬	None	同=𣆖	None	𣆖
+㫧	None	同=暴	None	暴
+𣆙	gan4	半干	None	None
+㫨	an1	@	None	None
+晏	yan4	晴朗	None	None
+晏	yan4	柔和；温和 常叠用	None	None
+晏	yan4	鲜盛；鲜艳	None	None
+晏	yan4	晚；迟	None	None
+晏	yan4	平静；安逸	None	None
+晏	yan4	姓	None	None
+晖	None	=暉的类推简化字	None	暉
+晕	None	=暈的简化字	None	暈
+書	shu1	书写；记载	None	None
+書	shu1	书籍；装订成册的著作	None	None
+書	shu1	特指历书、占书、刑书	None	None
+書	shu1	《尚书》的简称	None	None
+書	shu1	文字	None	None
+書	shu1	字体；字形	None	None
+書	shu1	指“六书”，即我国古代分析文字的理论	None	None
+書	shu1	书法	None	None
+書	shu1	簿牒文件等	None	None
+書	shu1	书信	None	None
+書	shu1	古代皇帝的诏书或臣下的奏记	None	None
+書	shu1	文体名 1.司马迁《史记》铺叙国家政体的一种文体 2.古代一种以议论为主的特殊文体	None	None
+書	shu1	某些曲艺的通称 如：说书；书场	None	None
+書	shu1	姓	None	None
+𣆓	None	同=昵	None	昵
+⿱丞日	cheng2	騃	None	None
+𣆕	xian4	妨	None	None
+𪰣	None	同=昱	None	昱
+𣇖	dian3	@	None	None
+㫱	nan3	温湿	None	None
+㫱	nan4	赤色	None	None
+晣	None	同=晢	None	晢
+晢	zhe2	光亮；明亮	None	None
+晢	zhe2	明察；明智	None	None
+㫴	None	=哮的讹字	None	哮
+𣆷	None	同=晁	None	晁
+𣇅	None	同=昴	None	昴
+⿰日严	None	=曮的类推简化字	None	曮
+㫲	bei4	昏暗	None	None
 晡	None	录入中	None	None
 𣆳	None	录入中	None	None
 曹	None	录入中	None	None
