@@ -36007,33 +36007,60 @@
 昤	ling2	[昤曨]日光	None	None
 𣆎	None	同=鼠	None	鼠
 㫝	di1	日	None	None
-昫	None	录入中	None	None
-曷	None	录入中	None	None
-𣆑	None	录入中	None	None
-昴	None	录入中	None	None
-昝	None	录入中	None	None
-昸	None	录入中	None	None
-㫡	None	录入中	None	None
-𣆌	None	录入中	None	None
-𣅹	None	录入中	None	None
-昿	None	录入中	None	None
-昱	None	录入中	None	None
-𣆍	None	录入中	None	None
-昡	None	录入中	None	None
-㫠	None	录入中	None	None
-𫞃	None	录入中	None	None
-𣅸	None	录入中	None	None
-昹	None	录入中	None	None
-昶	None	录入中	None	None
-㫤	None	录入中	None	None
-昵	None	录入中	None	None
-昼	None	录入中	None	None
-昬	None	录入中	None	None
-昲	None	录入中	None	None
-昢	None	录入中	None	None
-𣅽	None	录入中	None	None
-㫞	None	录入中	None	None
-昭	None	录入中	None	None
+昫	xu4	温暖；日出温	None	None
+昫	xu4	日光	None	None
+昫	xiong3	[發昫]军中旦明五鼓	None	None
+曷	he2	代词 表示疑问 1.相当于=何、“什么” 2.相当于“何日”、“何时” 3.怎么	None	何
+曷	he2	副词 1.表示反问语气，相当于“何不” 2.加强反问语气，相当于“岂”、“难道”	None	None
+曷	he2	通=蝎	None	蝎
+曷	he2	[曷旦]也作“=䳚旦”、“=鶡旦” 即“寒号虫” 参见“鶡”	None	䳚
+曷	e4	逮，及	None	None
+曷	e4	通=遏 止	None	遏
+曷	he4	同=愒 恫吓	None	愒
+𣆑	None	同⿱冊日	None	None
+昴	mao3	星宿名 二十八宿之一，西方白虎七宿的第四宿 有亮星七颗 也称“=髦头（=旄头）”	None	髦
+昝	zan3	用同=咱 我	None	咱
+昝	zan3	姓	None	None
+昸	None	同=冬	None	冬
+㫡	None	同=冬	None	冬
+𣆌	None	@	None	None
+𣅹	None	同=昪	None	昪
+昿	None	同=曠	None	曠
+昱	yu4	明天 后作=翌(yi4)	None	翌
+昱	yu4	光明；明亮	None	None
+昱	yu4	照耀 也作=煜	None	煜
+𣆍	ding3	@	None	None
+昡	xuan4	日光	None	None
+㫠	None	[㫠怯]水名	None	None
+𫞃	None	同=昭	None	昭
+𣅸	None	同=晲	None	晲
+昹	ai4	星名	None	None
+昶	chang3	白天时间长	None	None
+昶	chang3	到达	None	None
+昶	chang3	远	None	None
+昶	chang3	古代南诏称卿为昶	None	None
+昶	chang3	通=暢(chang4) 畅通；舒畅	None	暢
+㫤	None	同=昶	None	昶
+昵	ni4	同=暱 亲近	None	暱
+昵	ni4	距离近	None	None
+昵	ni3	通=禰 父庙	None	禰
+昵	zhi4	黏；胶合	None	None
+昼	None	=晝的简化字	None	晝
+昬	None	同=昏	None	昏
+昲	fei4	曝晒；晒干	None	None
+昲	fei4	光，日光	None	None
+昢	po4	日始出光未盛明貌	None	None
+昢	pei4	向晴	None	None
+𣅽	None	同=昢	None	昢
+㫞	None	同=㫦	None	㫦
+昭	zhao1	日明；光明	None	None
+昭	zhao1	明白；清楚	None	None
+昭	zhao1	辅助；开导	None	None
+昭	zhao1	彰明；显扬	None	None
+昭	zhao1	古时宗法制度，宗庙次序，始祖居中，二世、四世、六世，位于始祖的左方，称昭；三世、五世、七世，位于右方，称穆，用以分别宗族内部的长幼、亲疏和远近 又坟地葬位的左右次序，祭祀时，子孙也按此种规定排列行礼	None	None
+昭	zhao1	通=韶(shao2) 乐名	None	韶
+昭	zhao1	姓	None	None
+昭	zhao4	同=照 照亮；照耀	None	照
 昪	None	录入中	None	None
 𣅺	None	录入中	None	None
 㫪	None	录入中	None	None
