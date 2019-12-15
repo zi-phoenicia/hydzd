@@ -36455,9 +36455,16 @@
 𣈋	None	[沺𣈋]地名 在云南省境内	None	None
 𣈐	None	=脆的讹字	None	脆
 𣈌	None	=𥆴的讹字	None	𥆴
-晬	None	录入中	None	None
-㒽	None	录入中	None	None
-普	None	录入中	None	None
+晬	zui4	周	None	None
+晬	zui4	周年 又特指婴儿周岁或满百日	None	None
+晬	zui4	用同=睟 润泽貌	None	睟
+㒽	quan1	小儿帽	None	None
+普	pu3	日无色	None	None
+普	pu3	吐蕃俗称丈夫（成年男子）为普	None	None
+普	pu3	广大	None	None
+普	pu3	遍，全面 如：普及；普天之下	None	None
+普	pu3	对历史上普鲁士公国的简称 如：普法战争；普奥同盟	None	None
+普	pu3	姓	None	None
 曾	None	录入中	None	None
 晱	None	录入中	None	None
 𣈍	None	录入中	None	None
