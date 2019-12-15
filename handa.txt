@@ -36593,28 +36593,50 @@
 暄	xuan1	同=煖(暖) 温暖	None	煖
 暄	xuan1	春末	None	None
 暄	xuan1	方言 物体内部空隙多而松软 如：馒头很暄；沙土地暄，不好走	None	None
-暉	None	录入中	None	None
-暈	None	录入中	None	None
-暇	None	录入中	None	None
-㬆	None	录入中	None	None
-暋	None	录入中	None	None
-𪰶	None	录入中	None	None
-暐	None	录入中	None	None
-𣈤	None	录入中	None	None
-㬃	None	录入中	None	None
-暌	None	录入中	None	None
-𣉉	None	录入中	None	None
-𣈩	None	录入中	None	None
-𣉔	None	录入中	None	None
-暓	None	录入中	None	None
-𦀒	None	录入中	None	None
-𣊁	None	录入中	None	None
-暱	None	录入中	None	None
-朅	None	录入中	None	None
-𣉩	None	录入中	None	None
-𣉛	None	录入中	None	None
-曄	None	录入中	None	None
-曅	None	录入中	None	None
+暉	hui1	日光 也作=輝	None	輝
+暉	hui1	日色	None	None
+暉	hui1	明	None	None
+暉	hui1	用同=徽 琴徽	None	徽
+暈	yun4	日月周围的光圈	None	None
+暈	yun4	光影、色泽四周模糊的部分	None	None
+暈	yun4	浸润；扩散	None	None
+暈	yun4	昏眩 如：晕船；晕车	None	None
+暈	yun1	昏迷；失去知觉 如：晕倒；晕厥	None	None
+暇	xia2	空闲	None	None
+暇	xia2	从容；悠闲	None	None
+暇	jia3	赞美壮大之物称暇	None	None
+㬆	min3	同=湣 古谥号之一	None	湣
+暋	min3	强横；顽悍	None	None
+暋	min3	冒昧	None	None
+暋	min3	勉力；勉强	None	None
+暋	min2	烦闷	None	None
+𪰶	None	=曊的类推简化字	None	曊
+暐	wei3	光盛貌	None	None
+暐	wei3	同=㬙 日光	None	㬙
+𣈤	None	同=春	None	春
+㬃	tai2	日出	None	None
+暌	kui2	日入	None	None
+暌	kui2	隔开；分离	None	None
+𣉉	None	同=終	None	終
+𣈩	None	同=終	None	終
+𣉔	sao1	日色	None	None
+暓	None	同=𣊃	None	𣊃
+𦀒	None	同=冔	None	冔
+⿰日敖	None	同=𣊁	None	𣊁
+𣊁	ao2	日光	None	None
+暱	ni4	亲近	None	None
+暱	ni4	私	None	None
+暱	ni4	病	None	None
+朅	qie4	去；离去	None	None
+朅	qie4	武壮貌	None	None
+朅	qie4	助词 用于句首	None	None
+朅	qie4	通=曷(he2) 何	None	曷
+𣉩	ya4	同=亞	None	亞
+𣉩	ya4	姓 也作=𣇩	None	𣇩
+𣉛	shu1	晒	None	None
+曄	ye4	光明灿烂貌	None	None
+曄	ye4	盛貌	None	None
+曅	None	同=曄	None	曄
 㬒	None	录入中	None	None
 暯	None	录入中	None	None
 暮	None	录入中	None	None
