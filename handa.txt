@@ -96052,17 +96052,25 @@
 䳠	shui4	同=𨿠 鹞子	None	𨿠
 䳠	zhu4	不飞	None	None
 鵹	li2	[鵹黄]黃=鸝	None	鸝
-𪃪	None	录入中	None	None
-鶂	None	录入中	None	None
-鶃	None	录入中	None	None
-𪂄	None	录入中	None	None
-䳡	None	录入中	None	None
-鵻	None	录入中	None	None
-𪂣	None	录入中	None	None
-𪁼	None	录入中	None	None
-鵯	None	录入中	None	None
-鹎	None	录入中	None	None
-𪂃	None	录入中	None	None
+⿱𥝢鸟	None	=鵹的类推简化字	None	鵹
+𪃪	None	同=鵒	None	鵒
+鶂	yi4	水鸟名	None	None
+鶂	yi4	鹰科某些鸟类的地方名称 如：金雕，南名大山鶂；乌雕，南名乌小鶂	None	None
+⿰兒鸟	None	=鶂的类推简化字	None	鶂
+鶃	None	同=鶂	None	鶂
+⿰鸟兒	None	=鶃的类推简化字	None	鶃
+𪂄	wei4	一种小鸠 俗称火斑鸠	None	None
+䳡	yan4	同=鷃 鴽属	None	鷃
+䳡	zhui1	同=鵻 鳺鴀	None	鵻
+鵻	zhui1	鳺鴀，又名“䳕鳩”	None	None
+鵻	zhui1	草名 蓷 即益母草	None	None
+⿰鸟隹	None	=鵻的类推简化字	None	鵻
+𪂣	None	=鷕的讹字	None	鷕
+𪁼	mian2	莺鸣声	None	None
+鵯	bei1	[鵯鶋]也作“=卑居” 鸟名 又名鸒、雅乌、鹎乌 即今雀形目鸦科之寒鸦	None	卑
+鵯	bei1	雀形目鹎科各种鸟的通称 大多呈群活动，叫声明亮动听，以野生小浆果及各种昆虫为食，为我国长江以南地区常见的留鸟 其品种有白头鹎、绿翅短脚鹎、红耳鹎、黄臀鹎、绿鹦嘴鹎等	None	None
+鹎	None	=鵯的类推简化字	None	鵯
+𪂃	None	同=鵯	None	鵯
 鵨	None	录入中	None	None
 鵭	None	录入中	None	None
 𪂤	None	录入中	None	None
