@@ -95997,40 +95997,50 @@
 鹊	None	=鵲的简化字	None	鵲
 鶓	miao2	鸟名	None	None
 鹋	None	=鶓的简化字	None	鶓
-鶧	None	录入中	None	None
-𪃖	None	录入中	None	None
-𪂂	None	录入中	None	None
-𪃔	None	录入中	None	None
-鶜	None	录入中	None	None
-𪂅	None	录入中	None	None
-𪂜	None	录入中	None	None
-𪁻	None	录入中	None	None
-鶆	None	录入中	None	None
-𪁿	None	录入中	None	None
-鶐	None	录入中	None	None
-鶇	None	录入中	None	None
-𪂝	None	录入中	None	None
-𪂉	None	录入中	None	None
-𪂵	None	录入中	None	None
-𪂕	None	录入中	None	None
-鵸	None	录入中	None	None
-鵪	None	录入中	None	None
-鹌	None	录入中	None	None
-𪂐	None	录入中	None	None
-鶈	None	录入中	None	None
-𪂫	None	录入中	None	None
-𪂞	None	录入中	None	None
-𪁹	None	录入中	None	None
-𪂏	None	录入中	None	None
-鵫	None	录入中	None	None
-𫛱	None	录入中	None	None
-𪂬	None	录入中	None	None
-𪁺	None	录入中	None	None
-𪂠	None	录入中	None	None
-鵾	None	录入中	None	None
-𪂇	None	录入中	None	None
-鵿	None	录入中	None	None
-䳟	None	录入中	None	None
+鶧	ying1	鸟名 即继鶧	None	None
+𪃖	None	同=𪂛	None	𪂛
+𪂂	None	同=鶾	None	鶾
+𪃔	None	同=𪃯	None	𪃯
+鶜	mao2	[鶜鴟]鸟名 即猫头鹰	None	None
+𪂅	zhi1	传说中的独足怪鸟	None	None
+𪂜	mei2	鸟媒，用以诱捕鸟类的鸟 ……一说=𪂅的讹字	None	𪂅
+𪁻	None	同=𪁊(鷙)	None	𪁊
+鶆	lai2	[鶆鳩]鹰的一种 今为鹰科灰脸鵟鹰的别称	None	None
+鶆	lai2	[鶆䴈]美洲鸵鸟名	None	None
+𪁿	None	同=𪀚	None	𪀚
+鶐	shu4	翠鸟 也作=鷸	None	鷸
+鶇	dong1	[鶇鵍]鸟名	None	None
+鶇	dong1	=鵷的别名	None	鵷
+鶇	dong1	鸫亚科鸟类的通称 羽毛常具杂斑细纹 春日多善啭鸣，故常被笼养 主食为昆虫，为农林益鸟 在我国分布较广的种类有黑鸫、红尾斑鸫、赤颈鸫、紫啸鸫等	None	None
+𪂝	None	同=鶇	None	鶇
+𪂉	yu4	[𪂉鶝]也作“鶝𪂉” 即戴胜	None	None
+𪂵	yu4	鸟名 ……一说同=𪂉	None	𪂉
+𪂕	yu3	鸟名 即商羊	None	None
+鵸	qi2	[鵸䳜]传说中的怪鸟 1.有三头六尾的鸟 2.有五彩而赤纹的鸟	None	None
+⿰奇鸟	None	=鵸的类推简化字	None	鵸
+鵪	an1	鹌鹑 鸡形目雉科小鸟，体形酷似鸡雏，头小尾秃，羽赤褐杂以显著白色羽干纹 肉味佳美 雄性好斗	None	None
+鵪	ya1	同=鴨	None	鴨
+鹌	None	=鵪的简化字	None	鵪
+𪂐	None	同=鵐	None	鵐
+鶈	qi1	[鶈鸎]古代我国东部的一种怪鸟	None	None
+𪂫	None	[石𪂫洞]山洞名 在安徽省黟县	None	None
+𪂞	None	同=𪂏	None	𪂏
+𪁹	fei1	鸟名	None	None
+𪂏	None	同=翡	None	翡
+鵫	zhuo2	鵫雉，即白鹇 又名白鵫、白雗、白雉	None	None
+鵫	zhuo2	同=鸐 山鸡	None	鸐
+𫛱	None	=鵫的类推简化字	None	鵫
+𪂬	None	同=鷉	None	鷉
+𪁺	chang2	[䳯𪁺]也作“䳯=𪄹” 鸟名	None	𪄹
+𪁺	chang3	鸟名	None	None
+𪂠	guo3	@	None	None
+鵾	kun1	[鵾雞]鸟名	None	None
+鵾	kun1	乐曲名	None	None
+鵾	kun1	用同=鯤 大鱼	None	鯤
+𪂇	chang1	[𪇵𪂇]见“𪇵”	None	None
+鵿	sheng1	腾	None	None
+䳟	ming2	[鷦䳟]传说中的神鸟	None	None
+⿰明鸟	None	=䳟的类推简化字	None	䳟
 𪂡	None	录入中	None	None
 𪂢	None	录入中	None	None
 𪂓	None	录入中	None	None
