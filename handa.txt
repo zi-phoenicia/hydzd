@@ -36246,31 +36246,75 @@
 𣆟	xie1	少	None	None
 𣆟	jie1	元顺帝时宫中私室名，即“兀该”	None	None
 𣆟	xxx	少数民族姓	None	None
-𣆺	None	录入中	None	None
-晘	None	录入中	None	None
-晛	None	录入中	None	None
-㒻	None	录入中	None	None
-㫯	None	录入中	None	None
-勗	None	录入中	None	None
-曼	None	录入中	None	None
-晧	None	录入中	None	None
-𣇘	None	录入中	None	None
-晦	None	录入中	None	None
-𣆿	None	录入中	None	None
-𣇙	None	录入中	None	None
-晞	None	录入中	None	None
-晗	None	录入中	None	None
-㬇	None	录入中	None	None
-晚	None	录入中	None	None
-𣆶	None	录入中	None	None
-冕	None	录入中	None	None
-𣇢	None	录入中	None	None
-晜	None	录入中	None	None
-晥	None	录入中	None	None
-㫰	None	录入中	None	None
-𣆹	None	录入中	None	None
-晝	None	录入中	None	None
-𣆲	None	录入中	None	None
+𣆺	None	同=宵	None	宵
+晘	han4	日出貌	None	None
+晘	han4	同=旱	None	旱
+晛	xian4	日气；日光	None	None
+晛	xian4	明亮	None	None
+㒻	None	同=冒	None	冒
+㫯	None	同=㒻	None	㒻
+勗	None	同=勖	None	勖
+⿱昷八	None	同=曼	None	曼
+𭦗	None	同=曼	None	曼
+曼	man4	引；展开	None	None
+曼	man4	长	None	None
+曼	man4	柔美 如：轻歌曼舞	None	None
+曼	man4	轻细；细腻	None	None
+曼	man4	无	None	None
+曼	man4	蔓延 后作=蔓	None	蔓
+曼	man4	车幔 后作=幔	None	幔
+曼	man4	没有花纹的缯 后作=縵	None	縵
+曼	man4	通=蠻(man2)	None	蠻
+曼	man4	通=萬(wan4) 指万舞	None	萬
+曼	man4	姓	None	None
+曼	man4	[曼衍]无极貌	None	None
+曼	man4	[曼漶]不分明貌	None	None
+晧	None	同=皓	None	皓
+𣇘	None	水名	None	None
+晦	hui4	月尽，因指农历每月的最后一天	None	None
+晦	hui4	日暮；夜晚	None	None
+晦	hui4	昏暗	None	None
+晦	hui4	精微；隐晦	None	None
+晦	hui4	隐藏	None	None
+晦	hui4	草木凋零	None	None
+晦	hui4	无几；不多	None	None
+晦	hui4	雾	None	None
+𣆿	None	同=晥	None	晥
+𣇙	zu3	@	None	None
+晞	xi1	干，干燥	None	None
+晞	xi1	晒	None	None
+晞	xi1	晓，天刚明	None	None
+晞	xi1	通=稀 消散；消失	None	稀
+晞	xi1	通=睎 远望	None	睎
+晗	han2	天将明	None	None
+⿱亾明	None	同=朚	None	朚
+𭦌	None	同=曾	None	曾
+㬇	huan4	[璽㬇]古国名	None	None
+㬇	huan4	鲜明；光亮	None	None
+晚	wan3	日暮；傍晚	None	None
+晚	wan3	夜晚	None	None
+晚	wan3	迟，比规定的或合适的时间靠后	None	None
+晚	wan3	后来的；时间靠后的 如：晚娘（继母）	None	None
+晚	wan3	老年	None	None
+晚	wan3	旧时官场后辈对前辈、下级对上级称晚生，简言曰晚 多用于书信	None	None
+晚	wan3	姓	None	None
+𣆶	None	同=晚	None	晚
+冕	mian3	古代帝王、诸侯及卿大夫所戴的礼帽	None	None
+冕	mian3	喻指像冕的事物 如：日冕	None	None
+⿳日夂仌	None	同=冬	None	冬
+⿱𠦑日	None	同=督	None	督
+𣇢	bie1	曝干	None	None
+晜	kun1	同=昆 兄	None	昆
+晥	None	同=皖	None	皖
+㫰	lang3	明	None	None
+㫰	lang3	姓	None	None
+㫰	lang4	晒	None	None
+㫰	lang4	把东西放在通风或阴凉的地方使其干燥	None	None
+𣆹	None	同=疊	None	疊
+晝	zhou4	白天，即从日出到日落的一段时间	None	None
+晝	zhou4	地名 春秋时齐邑 故址在今山东省淄博市西北	None	None
+晝	zhou4	姓	None	None
+𣆲	qin1	日光	None	None
 𣆸	None	录入中	None	None
 𣇚	None	录入中	None	None
 晙	None	录入中	None	None
