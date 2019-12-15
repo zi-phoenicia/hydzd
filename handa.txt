@@ -96445,22 +96445,31 @@
 䳱	None	同=鶩	None	鶩
 鶭	fang3	水鸟名 泽虞 护田鸟	None	None
 𪄉	yong1	[𪄉𪆫]也作“=雝𪆫”、“雝𪆂”、“𪄉渠”、“𪄉𪆂” 鸟名，鹡鸰	None	雝
-𪅖	None	录入中	None	None
-𪄻	None	录入中	None	None
-𪆊	None	录入中	None	None
-𪄸	None	录入中	None	None
-𪅗	None	录入中	None	None
-𪄯	None	录入中	None	None
-鷙	None	录入中	None	None
-𪄽	None	录入中	None	None
-𪅀	None	录入中	None	None
-𪄿	None	录入中	None	None
-鷬	None	录入中	None	None
-𪆨	None	录入中	None	None
-𪆆	None	录入中	None	None
-𪄭	None	录入中	None	None
-𪄳	None	录入中	None	None
-䳻	None	录入中	None	None
+𪅖	chong1	[𪅖𪆷]也作“=舂鉏” 白鹭	None	舂
+𪅖	chong1	[鸀𪅖]同“𪇆=𪄻” 布谷鸟	None	𪄻
+𪅖	zhuang1	[青𪅖]同“青=𪄻” 水鸟名	None	𪄻
+𪄻	chong1	[𪇆𪄻]见“𪇆”	None	None
+𪄻	zhuang1	[青𪄻]也作“青=莊” 鸟名，即苍鹭	None	莊
+𪆊	None	同=𪅖	None	𪅖
+𪄸	ji1	鸟名	None	None
+𪅗	None	同=鸝	None	鸝
+𪄯	gui1	子=規	None	規
+鷙	zhi4	凶猛的鸟	None	None
+鷙	zhi4	凶猛；凶狠	None	None
+鷙	zhi4	同=騺 马负重貌	None	騺
+鷙	zhi4	[卓鷙]行不平	None	None
+鷙	zhe2	攻击	None	None
+𪄽	None	=𪇄的讹字	None	𪇄
+𪅀	None	同=𪄿(難)	None	𪄿
+𪄿	None	同=難	None	難
+鷬	huang2	[鸝鷬]鸟名 即=黄鹂	None	黄
+𪆨	None	同=鴖	None	鴖
+𪆆	None	同=鵵	None	鵵
+𪄭	qi1	鸟名	None	None
+𪄳	mai4	鸟名	None	None
+䳻	can2	鸟名 雕	None	None
+䳻	can2	鹗的别名	None	None
+䳻	zhan4	一种形状似雕有白色斑纹的鸟	None	None
 鷒	None	录入中	None	None
 𪅘	None	录入中	None	None
 𪅙	None	录入中	None	None
