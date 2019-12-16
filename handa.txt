@@ -96612,22 +96612,27 @@
 鷼	None	同=鷴	None	鷴
 鷳	xian2	鹞鹰	None	None
 鷳	xian2	鸟名，即白鹇 也作=鷴	None	鷴
-𪅵	None	录入中	None	None
-鷤	None	录入中	None	None
-𪅺	None	录入中	None	None
-鷶	None	录入中	None	None
-𪆌	None	录入中	None	None
-鷡	None	录入中	None	None
-𪆜	None	录入中	None	None
-鷮	None	录入中	None	None
-𪆳	None	录入中	None	None
-𪆅	None	录入中	None	None
-鷦	None	录入中	None	None
-鹪	None	录入中	None	None
-𪆄	None	录入中	None	None
-𪄾	None	录入中	None	None
-鷱	None	录入中	None	None
-䴈	None	录入中	None	None
+𪅵	zi1	鸟名	None	None
+鷤	ti2	[鷤䳏]鸟名，即杜鹃	None	None
+鷤	tan2	[鸛鷤]也作“鸛=鷒” 怪鸟名	None	鷒
+鷤	tan2	雉子	None	None
+⿰㖾鳥	None	同=鶚	None	鶚
+𪅺	hou1	鸟名	None	None
+鷶	mai3	[鷶𪀗]鸟名 子规	None	None
+𪆌	None	同=䳟	None	䳟
+鷡	wu2	[鴾鷡]也作“鴾=母” 鸟名	None	母
+𪆜	None	同=𪁐(鸝)	None	𪁐
+鷮	jiao1	鸟名 又名鷮雉 雉的一种 尾长，走且鸣，性勇健 肉鲜美，羽可为饰	None	None
+⿰⿱隹天鳥	None	同=𪃈	None	𪃈
+𪆳	gui1	[子𪆳]也作“子嶲” 鸟名，即子规	None	None
+𪆅	None	同=鷦	None	鷦
+鷦	jiao1	[鷦鷯]鸟名 头部淡棕色，有黄色眉纹 羽毛赤褐而有黑色细斑 窠以细枝、草叶、羽毛等交织而成，呈圆屋顶状，于一侧开孔出入，很精巧，故有巧妇、女𪀘、工雀、鷦𪃦、桃虫等名 也单用	None	None
+鷦	jiao1	[鷦䳟]也作“鷦明” 传说中的神鸟，似凤	None	None
+鹪	None	=鷦的简化字	None	鷦
+𪆄	None	同=鷦	None	鷦
+𪄾	None	同=𪃤(𪃈)	None	𪃤
+鷱	gao1	[𪁜鷱]见“𪁜”	None	None
+䴈	None	同=𪁾	None	𪁾
 𪅰	None	录入中	None	None
 𪅲	None	录入中	None	None
 鷭	None	录入中	None	None
