@@ -96884,35 +96884,44 @@
 𪈣	None	同=鵴	None	鵴
 鸙	yue4	[天鸙]鸟名 又名“鷚”，即云雀	None	None
 ⿰龠鸟	None	=鸙的类推简化字	None	鸙
-𪈜	None	录入中	None	None
-鸜	None	录入中	None	None
-𪈚	None	录入中	None	None
-𪈫	None	录入中	None	None
-𪈦	None	录入中	None	None
-𪈥	None	录入中	None	None
-𪈨	None	录入中	None	None
-𪈬	None	录入中	None	None
-𪈪	None	录入中	None	None
-鸝	None	录入中	None	None
-𪈳	None	录入中	None	None
-𪈱	None	录入中	None	None
-𪈰	None	录入中	None	None
-鸞	None	录入中	None	None
-𪈮	None	录入中	None	None
-𪈯	None	录入中	None	None
-𪈴	None	录入中	None	None
-𪈵	None	录入中	None	None
-𪈷	None	录入中	None	None
-𪈶	None	录入中	None	None
-𪈸	None	录入中	None	None
-䴐	None	录入中	None	None
-𪈻	None	录入中	None	None
-𪈹	None	录入中	None	None
-𪈺	None	录入中	None	None
-𪈼	None	录入中	None	None
-䴑	None	录入中	None	None
-䴒	None	录入中	None	None
-𪈿	None	录入中	None	None
+𪈜	lv3	[𪇖𪈜]也作“𪇖=鷜” 鸟名 郭公，即布谷	None	鷜
+鸜	None	同=鴝	None	鴝
+𬸱	None	=鸜的类推简化字	None	鸜
+𪈚	None	同=𪇰	None	𪇰
+𪈫	None	同=𪈚(𪇰)	None	𪈚
+𪈦	None	同=鸓	None	鸓
+𪈥	gui1	[𪈥周]也作“=巂周” 鸟名，燕	None	巂
+𪈨	yi1	凫	None	None
+𪈬	None	同=𪈨	None	𪈨
+𪈪	None	同=鷱	None	鷱
+鸝	li2	[鸝黄]即黄鹂 又名楚雀、仓庚、黄鸟、黄莺 通体黄色，嘴淡红，自眼部至头后有一黑纹，翼、尾亦杂黑色 鸣声清脆悦耳 主食昆虫，为农林益鸟	None	None
+𪈳	None	同=鸝	None	鸝
+𪈱	None	=𪈴的讹字	None	𪈴
+𪈰	luo2	鸟名	None	None
+鸞	luan2	传说中凤凰一类的鸟	None	None
+鸞	luan2	借喻贤人、君子	None	None
+鸞	luan2	铃子 后作=鑾	None	鑾
+鸞	luan2	鸾车的省称	None	None
+鸞	luan2	鸾镜的省称	None	None
+鸞	luan2	姓	None	None
+鸞	guan4	[鸞鳥]地名	None	None
+𪈮	None	同=𪈿	None	𪈿
+𪈯	None	同=鸖(鶴)	None	鸖
+𪈴	jue2	传说中的三头三脚的怪鸟	None	None
+𪈵	None	同=鳳	None	鳳
+𪈷	None	同=鷻	None	鷻
+𪈶	None	同=鷻	None	鷻
+𪈸	None	同=鸛	None	鸛
+䴐	None	暴	None	None
+䴐	None	鸟名	None	None
+𪈻	quan2	[𪈻鵒]也作“=鸜鵒”	None	鸜
+𪈹	None	同=鸝	None	鸝
+𪈺	None	同=鸀	None	鸀
+𪈼	niao3	鸟名	None	None
+𪈼	niao3	同=鳥	None	鳥
+䴑	die2	传说中的一种怪鸟 状如鹊，赤黑色，二首四足	None	None
+䴒	None	同=鴒	None	鴒
+𪈿	man2	鸟名 又名“=蠻蠻”、“鶼鶼” 即比翼鸟	None	蠻
 魚	yu2	水生脊椎动物 一般呈纺锤形，多被鳞，以鳍游泳，以鳃呼吸，多数有鳔，体温不恒定	None	None
 魚	yu2	某些像鱼类的水栖动物的称呼 如：鳄鱼；鲵鱼；鳆鱼；鱿鱼	None	None
 魚	yu2	喻指人遭淹死	None	None
