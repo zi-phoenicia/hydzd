@@ -96784,45 +96784,58 @@
 䴍	ying1	[鶈䴍]鸟名	None	None
 鸎	None	同=鶯	None	鶯
 𪇑	xun4	[𪇑鶘]鸟名 鸺鹠，即猫头鹰	None	None
-𪇙	None	录入中	None	None
-𪇢	None	录入中	None	None
-𪇣	None	录入中	None	None
-𪇝	None	录入中	None	None
-鸑	None	录入中	None	None
-𪇤	None	录入中	None	None
-𪇵	None	录入中	None	None
-𪇛	None	录入中	None	None
-𪇥	None	录入中	None	None
-𪇒	None	录入中	None	None
-𪇕	None	录入中	None	None
-鸋	None	录入中	None	None
-𪇧	None	录入中	None	None
-鸐	None	录入中	None	None
-𪇽	None	录入中	None	None
-𪇼	None	录入中	None	None
-𪈆	None	录入中	None	None
-𪇾	None	录入中	None	None
-𪇿	None	录入中	None	None
-𪇸	None	录入中	None	None
-𪇲	None	录入中	None	None
-𪇰	None	录入中	None	None
-鸔	None	录入中	None	None
-鸓	None	录入中	None	None
-䴎	None	录入中	None	None
-𪈀	None	录入中	None	None
-𪇺	None	录入中	None	None
-𪈁	None	录入中	None	None
-𪇳	None	录入中	None	None
-𪉕	None	录入中	None	None
-𪇱	None	录入中	None	None
-𪈂	None	录入中	None	None
-𪇮	None	录入中	None	None
-𪇶	None	录入中	None	None
-𪇯	None	录入中	None	None
-𪈄	None	录入中	None	None
-𪇹	None	录入中	None	None
-䴏	None	录入中	None	None
-𪈏	None	录入中	None	None
+𪇙	None	同=鵴	None	鵴
+𪇢	None	同=𪇙(鵴)	None	𪇙
+𪇣	None	同=𪈨	None	𪈨
+𪇝	yu2	鸟名	None	None
+鸑	yue4	[鸑鷟]1.鸟名 凤的别名 也单用 2.水鸟名 即鸀鳿	None	None
+𪇤	None	[穀𪇤]鸟名	None	None
+𪇵	guang3	[𪇵𪂇]鸟名 也作“=廣𪂇”、“廣昌” 凤属	None	廣
+𪇛	yong1	[𪇛𪆂]也作“=雝渠” 鸟名	None	雝
+𪇥	None	=𪄟的讹字	None	𪄟
+𪇒	jing1	[𪇒鴷]鸟名，即𪄉𪆂	None	None
+𪇕	bin1	飞貌	None	None
+𪇕	bin1	鸟名	None	None
+鸋	ning2	[鸋鴂]鸟名 即鹪鹩	None	None
+鸋	ning2	鴽雏，鹌鹑类的雏鸟	None	None
+𪇧	None	同=䎙	None	䎙
+鸐	di2	鸟名 又名鸐雉、山鸡、山雉，即长尾野鸡	None	None
+⿰翟鸟	None	=鸐的类推简化字	None	鸐
+𪇽	None	同=歎	None	歎
+𪇼	None	同=難	None	難
+𪈆	meng3	[鴟𪈆]鸟名	None	None
+𪇾	None	同=鸝	None	鸝
+𪇿	None	同=鷹	None	鷹
+𪇸	None	同=鷺	None	鷺
+𪇲	jie2	小鸟名	None	None
+𪇲	jie2	小鸡	None	None
+𪇰	bu3	[烏𪇰]水鸟名 一名鵅，又名青鶂 也单用	None	None
+⿰暴鸟	None	=𪇰的类推简化字	None	𪇰
+鸔	None	同=𪇰	None	𪇰
+⿰鳥⿱日粜	None	同=鸔	None	鸔
+鸓	lei2	鸓鼠 古人与鼯鼠不别 今称小飞鼠为鸓鼠，略似鼯鼠 前后肢之间有宽大而多毛的飞膜，尾长，能在树间滑翔，生活在高山树林中，常在夜间活动	None	None
+鸓	lei2	传说中的动物名 形状像鹊的怪鸟	None	None
+⿰畾鸟	None	=鸓的类推简化字	None	鸓
+䴎	None	同=鸓	None	鸓
+𪈀	shou3	@	None	None
+𪇺	None	同=𪁐(鸝)	None	𪁐
+𪈁	None	同=𪇳	None	𪇳
+𪇳	zhen1	[𪇳鴜]水鸟名	None	None
+𪉕	None	=𪇳的类推简化字	None	𪇳
+⿰⿱𥫗⿰辛人鳥	None	同=鵴	None	鵴
+𪇱	luo4	鸟名 形似雕	None	None
+𪈂	None	[𪈂鷝]鹪鹩的别名	None	None
+⿰劉鳥	None	同=𪆱	None	𪆱
+𪇮	None	同=鸇	None	鸇
+𪇶	None	=鷦的讹字	None	鷦
+𪇯	liu2	鸭蛋	None	None
+𪈄	None	同=鷸	None	鷸
+𪇹	la4	[𪇹䳴]鸟初飞貌	None	None
+𪇹	la4	同=𦒦 飞貌	None	𦒦
+⿱𨿣鳥	None	同=𪆁	None	𪆁
+䴏	None	同=燕	None	燕
+𪈏	None	同=燕	None	燕
+⿱燕鸟	None	=𪈏的类推简化字	None	𪈏
 𪈘	None	录入中	None	None
 𪈛	None	录入中	None	None
 𪈟	None	录入中	None	None
