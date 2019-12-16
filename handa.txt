@@ -81985,54 +81985,112 @@
 诪	None	=譸的类推简化字	None	譸
 𧨗	chan2	@	None	None
 𧨘	xing2	[𧨘笑]同“=形笑” 即“嘲笑”	None	形
-誡	None	录入中	None	None
-诫	None	录入中	None	None
-𧨃	None	录入中	None	None
-誓	None	录入中	None	None
-誟	None	录入中	None	None
-誌	None	录入中	None	None
-𧨙	None	录入中	None	None
-𧨢	None	录入中	None	None
-𧨶	None	录入中	None	None
-𧩃	None	录入中	None	None
-𧧃	None	录入中	None	None
-誣	None	录入中	None	None
-诬	None	录入中	None	None
-𧨈	None	录入中	None	None
-𧧷	None	录入中	None	None
-誖	None	录入中	None	None
-誧	None	录入中	None	None
-誎	None	录入中	None	None
-語	None	录入中	None	None
-语	None	录入中	None	None
-䛠	None	录入中	None	None
-誫	None	录入中	None	None
-𫍨	None	录入中	None	None
-𧨊	None	录入中	None	None
-䛟	None	录入中	None	None
-𧧵	None	录入中	None	None
-𫍧	None	录入中	None	None
-𧩆	None	录入中	None	None
-𧧺	None	录入中	None	None
-誙	None	录入中	None	None
-誚	None	录入中	None	None
-诮	None	录入中	None	None
-䛞	None	录入中	None	None
-𧨚	None	录入中	None	None
-誤	None	录入中	None	None
-误	None	录入中	None	None
-𧧾	None	录入中	None	None
-誢	None	录入中	None	None
-𧨛	None	录入中	None	None
-䛣	None	录入中	None	None
-𧨋	None	录入中	None	None
-䛤	None	录入中	None	None
-𧨜	None	录入中	None	None
-𧧸	None	录入中	None	None
-𧨣	None	录入中	None	None
-𧨝	None	录入中	None	None
-誥	None	录入中	None	None
-诰	None	录入中	None	None
+誡	jie4	告诫；规劝	None	None
+誡	jie4	箴言，规劝人遵守的准则	None	None
+誡	jie4	戒备；警惕 也作=戒	None	戒
+誡	jie4	教令；告示	None	None
+誡	jie4	嘱咐	None	None
+誡	jie4	文体名 一种教诲性的文章	None	None
+誡	jie4	佛教的戒律	None	None
+诫	None	=誡的简化字	None	誡
+𧨃	None	同=鬩	None	鬩
+誓	shi4	古代军中告诫、约束将士的言辞	None	None
+誓	shi4	发誓，立誓	None	None
+誓	shi4	誓辞；盟约	None	None
+誓	shi4	接受爵命	None	None
+誓	shi4	告，告知	None	None
+誓	shi4	谨慎	None	None
+誓	shi4	通=哲(zhe2) 明哲	None	哲
+誟	None	同=詨	None	詨
+誌	zhi4	记录	None	None
+誌	zhi4	记忆	None	None
+誌	zhi4	标志；记号	None	None
+誌	zhi4	记事的文章或书籍 也作=志 如：墓誌；地方誌	None	志
+誌	zhi4	同=痣	None	痣
+⿰讠志	None	=誌的类推简化字	None	誌
+𧨙	None	同=誂	None	誂
+𧨢	None	同=詳	None	詳
+𧨶	None	同=訞(妖)	None	訞
+𧩃	chong1	贪	None	None
+⿰讠严	None	=讝的类推简化字	None	讝
+𬣿	None	=䜎的类推简化字	None	䜎
+𧧃	ji4	揭发别人的阴私	None	None
+誣	wu1	说话虚妄不实	None	None
+誣	wu1	欺骗	None	None
+誣	wu1	诬蔑；毁谤	None	None
+誣	wu1	滥施刑罚	None	None
+誣	wu1	抹杀	None	None
+诬	None	=誣的简化字	None	誣
+𧨈	ling2	同=靈	None	靈
+𧨈	wu1	同=誣	None	誣
+𧧷	None	同=救	None	救
+誖	bei4	同=悖 违背；乖谬	None	悖
+誖	bei4	惛惑；糊涂	None	None
+誧	bu1	大言	None	None
+誧	bu1	帮助；辅佐	None	None
+誧	bu1	规劝	None	None
+誧	bu1	谋	None	None
+⿰讠甫	None	=誧的类推简化字	None	誧
+誎	cu4	促	None	None
+誎	cu4	从	None	None
+誎	cu4	饰	None	None
+誎	cu4	衒	None	None
+語	yu3	议论；谈论；辩论	None	None
+語	yu3	交谈	None	None
+語	yu3	说的话	None	None
+語	yu3	语言	None	None
+語	yu3	用以示意的动作或信号 如：目语；手语；旗语；灯语	None	None
+語	yu3	诗、文、谈话中的字	None	None
+語	yu3	语法学科用来表示句子成分的术语 如：主语、谓语、宾语、定语、状语、补语	None	None
+語	yu3	鸟兽虫类鸣叫	None	None
+語	yu4	告诉	None	None
+語	yu4	通=悟(wu4) 醒悟	None	悟
+语	None	=語的简化字	None	語
+䛠	dou4	[䛠譳]不能言	None	None
+⿰讠豆	None	=䛠的类推简化字	None	䛠
+誫	None	同=震	None	震
+𫍨	None	=誫的类推简化字	None	誫
+𧨊	zha4	[𧨊訝]1.言戾 2.诃貌	None	None
+䛟	jia4	同=唊 妄语	None	唊
+𧧵	shan3	诱言	None	None
+𫍧	None	=誺的类推简化字	None	誺
+𬣽	None	=謰的类推简化字	None	謰
+𧩆	None	同=𧫢	None	𧫢
+𧧺	pi1	误，错误 也作=紕	None	紕
+誙	keng1	[誙誙]奔竞之貌	None	None
+誙	keng1	粗	None	None
+誙	keng1	言语确实	None	None
+誚	qiao4	责备；呵斥 也作=譙	None	譙
+誚	qiao4	讥议；嘲讽 如：讥诮	None	None
+誚	qiao4	副词 相当于“完全”、“简直”（多用于词曲中）	None	None
+诮	None	=誚的简化字	None	誚
+䛞	han4	多言	None	None
+䛞	han4	大言	None	None
+䛞	han4	厉言	None	None
+𧨚	None	同=㖏	None	㖏
+誤	wu4	错误	None	None
+誤	wu4	耽误；妨害 如：贻误；误国；误人不浅	None	None
+誤	wu4	迷惑	None	None
+误	None	=誤的简化字	None	誤
+𧧾	hui4	市𧧾	None	None
+𧧾	hui4	言长	None	None
+誢	xian4	诤语	None	None
+𧨛	None	同=詪	None	詪
+䛣	ping1	言	None	None
+䛣	chou2	[䛣譠]不决	None	None
+𧨋	hua2	顽	None	None
+䛤	cu4	心急促	None	None
+䛤	cu4	说话急促	None	None
+𧨜	None	同=涓	None	涓
+𧧸	bie2	同=䇷	None	䇷
+𧧸	bie2	辩论	None	None
+𧨣	None	同=訥	None	訥
+𧨝	None	同=詗	None	詗
+⿰讠冏	None	=𧨝的类推简化字	None	𧨝
+誥	gao4	=告，特指山告下	None	告
+誥	gao4	告戒	None	None
+誥	gao4	告戒之文 如《書》有《仲虺之誥》、《康誥》 古者上下有诰，汉以下专用于帝王的文告	None	None
+诰	None	=誥的简化字	None	誥
 誐	None	录入中	None	None
 誗	None	录入中	None	None
 䛢	None	录入中	None	None
