@@ -96836,43 +96836,54 @@
 䴏	None	同=燕	None	燕
 𪈏	None	同=燕	None	燕
 ⿱燕鸟	None	=𪈏的类推简化字	None	𪈏
-𪈘	None	录入中	None	None
-𪈛	None	录入中	None	None
-𪈟	None	录入中	None	None
-𪈙	None	录入中	None	None
-𪈈	None	录入中	None	None
-𪈐	None	录入中	None	None
-𪈑	None	录入中	None	None
-鸖	None	录入中	None	None
-鸕	None	录入中	None	None
-𪈒	None	录入中	None	None
-𪈉	None	录入中	None	None
-𪈖	None	录入中	None	None
-𪈓	None	录入中	None	None
-𪈔	None	录入中	None	None
-𪈇	None	录入中	None	None
-𪈍	None	录入中	None	None
-𪈕	None	录入中	None	None
-𪈌	None	录入中	None	None
-𪈋	None	录入中	None	None
-𪈃	None	录入中	None	None
-𪈗	None	录入中	None	None
-鸗	None	录入中	None	None
-𪇷	None	录入中	None	None
-𪈞	None	录入中	None	None
-𪈭	None	录入中	None	None
-鸛	None	录入中	None	None
-鹳	None	录入中	None	None
-𪈩	None	录入中	None	None
-𪈧	None	录入中	None	None
-鸘	None	录入中	None	None
-𪈝	None	录入中	None	None
-鸚	None	录入中	None	None
-𪈤	None	录入中	None	None
-𪈡	None	录入中	None	None
-𪈢	None	录入中	None	None
-𪈣	None	录入中	None	None
-鸙	None	录入中	None	None
+𪈘	hong1	[蒲𪈘]水名	None	None
+𪈛	None	同=	None	None
+𪈛	None	𪇴	None	None
+𪈟	jia2	[𪃈𪈟]鸟名	None	None
+𪈙	None	同=𪈟	None	𪈟
+𪈈	lai4	鸟名	None	None
+𪈐	None	同=𪈈	None	𪈈
+𪈑	hui1	@	None	None
+鸖	None	同=鶴	None	鶴
+鸕	lu2	[鸕鷀]水鸟名 又名鱼鹰、水老鸦 羽毛黑色，有绿色光泽，嘴扁长，暗黑色，上嘴尖端有钩，善潜水捕食鱼类 我国各地多饲养来帮助捕鱼 也单用	None	None
+鸕	lu2	雉的古名	None	None
+鸕	lu2	通=鷺(lu4) 白鹭	None	鷺
+𪈒	None	同=鸕	None	鸕
+𪈉	None	同=䲻	None	䲻
+⿰鳥⿳𣅽八氺	None	同=鸔	None	鸔
+𪈖	None	同=𪈟	None	𪈟
+𪈓	None	同=鵴	None	鵴
+⿰⿱𥫗⿰幸九鳥	None	同=鵴	None	鵴
+𪈔	None	同=鷽	None	鷽
+𪈇	qian2	鸟名	None	None
+𪈍	None	同=鵪	None	鵪
+𪈕	None	同=鸍	None	鸍
+⿰⿱𭇥酉鳥	None	同=鵪	None	鵪
+𪈌	None	同=𪇆(鸀)	None	𪇆
+𪈋	tuan2	鸟名 雕	None	None
+𪈃	guo1	[𪈃公]鸟名 鴶鵴，即大杜鹃 今名布谷	None	None
+𪈗	None	同=鸗	None	鸗
+鸗	long2	野鸭	None	None
+鸗	long2	姓	None	None
+𪇷	jia2	[𪃈𪇷]见“𪃈”	None	None
+𪈞	None	同=𪃟	None	𪃟
+𪈭	None	同=𪇖	None	𪇖
+鸛	guan4	水鸟名 鹳科各种类的通称 大型涉禽，形似鹤，亦似鹭 嘴长而直，翼大尾短 常活动于溪流近旁，以昆虫、鱼、蛙、蛇等为食 我国常见的有白鹳和黑鹳两种	None	None
+鸛	guan4	古阵名	None	None
+鸛	huan1	[鸛鷒]鸟名	None	None
+鸛	quan2	[鸛鵒]也作“𪈻鵒” 鸟名，即“鴝鵒”，俗名八哥	None	None
+鹳	None	=鸛的简化字	None	鸛
+𪈩	huan1	[𪈩專]同“𪈩鷒” 鸟名	None	None
+𪈧	None	同=𪇑	None	𪇑
+鸘	shuang1	[鷫鸘]也作“鷫=鷞” 也单用	None	鷞
+𪈝	None	同=䴒	None	䴒
+鸚	ying1	[鸚䳇]也作“鸚鵡” 鸟名 1.鸟名 俗称鹦哥 头圆，嘴钩状，舌大而软，能模仿人说话，羽毛美丽，有白、黄、赤、绿等色 生活在热带丛林中，吃果实 2.酒器名 3.《鸚鵡賦》的省称	None	None
+𪈤	None	同=鸚	None	鸚
+𪈡	None	同=鸑	None	鸑
+𪈢	None	同=鵴	None	鵴
+𪈣	None	同=鵴	None	鵴
+鸙	yue4	[天鸙]鸟名 又名“鷚”，即云雀	None	None
+⿰龠鸟	None	=鸙的类推简化字	None	鸙
 𪈜	None	录入中	None	None
 鸜	None	录入中	None	None
 𪈚	None	录入中	None	None
