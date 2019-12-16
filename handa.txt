@@ -96633,45 +96633,59 @@
 𪄾	None	同=𪃤(𪃈)	None	𪃤
 鷱	gao1	[𪁜鷱]见“𪁜”	None	None
 䴈	None	同=𪁾	None	𪁾
-𪅰	None	录入中	None	None
-𪅲	None	录入中	None	None
-鷭	None	录入中	None	None
-䴄	None	录入中	None	None
-𪆍	None	录入中	None	None
-𪆈	None	录入中	None	None
-䳿	None	录入中	None	None
-𪅯	None	录入中	None	None
-𪆩	None	录入中	None	None
-鷲	None	录入中	None	None
-鹫	None	录入中	None	None
-𪆝	None	录入中	None	None
-鷻	None	录入中	None	None
-𪆃	None	录入中	None	None
-𪆏	None	录入中	None	None
-䴀	None	录入中	None	None
-𪆡	None	录入中	None	None
-𪆞	None	录入中	None	None
-鷷	None	录入中	None	None
-𫜄	None	录入中	None	None
-𪆟	None	录入中	None	None
-𪆸	None	录入中	None	None
-𪆠	None	录入中	None	None
-䴁	None	录入中	None	None
-𪆢	None	录入中	None	None
-𪆇	None	录入中	None	None
-𪅱	None	录入中	None	None
-𪆀	None	录入中	None	None
-䳾	None	录入中	None	None
-鷸	None	录入中	None	None
-鹬	None	录入中	None	None
-𪆋	None	录入中	None	None
-鷥	None	录入中	None	None
-𪅹	None	录入中	None	None
-𪇀	None	录入中	None	None
-𪆑	None	录入中	None	None
-𪇄	None	录入中	None	None
-𪇂	None	录入中	None	None
-𪇓	None	录入中	None	None
+𬸩	None	=䴈的类推简化字	None	䴈
+𪅰	shu1	鸟名 似野鸭	None	None
+𪅲	xi4	鸟名	None	None
+鷭	fan2	[鷭䳇]鸟名	None	None
+𬸪	None	=鷭的类推简化字	None	鷭
+䴄	shun4	[鶌䴄]鸟名	None	None
+𪆍	None	同=鳳	None	鳳
+𪆈	None	同=䳿	None	䳿
+䳿	ran2	鸟名	None	None
+𪅯	None	同=鴻	None	鴻
+𪆩	None	同=鷲	None	鷲
+鷲	jiu4	鸟名 雕	None	None
+鷲	jiu4	山名 灵鹫山的简称 因借称佛地 如：鹫室；鹫窟	None	None
+鹫	None	=鷲的简化字	None	鷲
+𪆝	None	同=鷻	None	鷻
+鷻	tuan2	鸟名 即雕	None	None
+𪆃	None	同=鷻	None	鷻
+𪆏	None	同=䴀	None	䴀
+䴀	tong2	[鸏䴀]见“鸏”	None	None
+𪆡	None	同=𪄱	None	𪄱
+𪆞	None	同=翷	None	翷
+鷷	zun1	野鸡名	None	None
+𫜄	None	=鷷的类推简化字	None	鷷
+𪆟	None	同=鶒	None	鶒
+𪆸	None	同=鶻	None	鶻
+𪆠	fu4	@ ……按：疑为=鶝的俗字	None	鶝
+䴁	yu4	鸟名 形状似鼠	None	None
+䴁	yu2	鸟名 状似秃鹙	None	None
+䴁	yu2	同=𪃍 鸟名 传说中的怪鸟	None	𪃍
+𪆢	None	同=鸋	None	鸋
+𪆇	None	同=𪇘	None	𪇘
+𪅱	None	同=鸀	None	鸀
+𪆀	zhou1	[𪆀鳩]鸟名	None	None
+䳾	deng1	[䳾鶛]鸟名 秧鸡	None	None
+䳾	deng1	鸺鹠	None	None
+鷸	yu4	水鸟名 天将雨即鸣，古人以为能知天时	None	None
+鷸	yu4	翠鸟，又名翡翠	None	None
+鷸	yu4	现代鸟类学鹬科多数种类鸟的通称 有时也专指鹬属各种鸟 体型大小差别很大，羽毛多为灰、黄、褐等暗淡色调，并富有条纹 嘴长，脚长 常在浅水田、湖泽觅食小鱼、贝类和昆虫 常见的有丘鹬、细嘴滨鹬、乌脚滨鹬、三趾鹬、阔嘴鹬等	None	None
+鷸	yu4	疾飞貌	None	None
+鷸	shu4	[鷸子]鸟名 鹞	None	None
+鹬	None	=鷸的简化字	None	鷸
+𪆋	xie2	同=擷 摘取	None	擷
+鷥	si1	[鷺鷥]鸟名，即白鹭	None	None
+𪅹	ji1	鸟名	None	None
+𪇀	None	同=𪆪	None	𪆪
+⿱㲄鳥	None	同=𪆪	None	𪆪
+𪆑	None	同=𪆪	None	𪆪
+𪇄	kou4	同=𣫠 须母鸟哺食的幼鸟	None	𣫠
+𪇄	ku1	卵已孵	None	None
+𪇄	ku1	鸟卵	None	None
+𬸬	None	=𪇄的类推简化字	None	𪇄
+𪇂	hou4	[𪇂𪅃]野鸭	None	None
+𪇓	meng4	鸟名	None	None
 𪇡	None	录入中	None	None
 鸌	None	录入中	None	None
 𪇜	None	录入中	None	None
