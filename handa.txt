@@ -81249,54 +81249,99 @@
 訑	tuo2	同=詑 欺	None	詑
 訑	tuo3	言不正	None	None
 𫍙	None	=訑的类推简化字	None	訑
-訒	None	录入中	None	None
-讱	None	录入中	None	None
-訍	None	录入中	None	None
-𧥥	None	录入中	None	None
-𧥹	None	录入中	None	None
-𧥶	None	录入中	None	None
-讲	None	录入中	None	None
-訮	None	录入中	None	None
-𧥽	None	录入中	None	None
-𧥱	None	录入中	None	None
-䚶	None	录入中	None	None
-䛃	None	录入中	None	None
-讳	None	录入中	None	None
-𧥼	None	录入中	None	None
-䚳	None	录入中	None	None
-讴	None	录入中	None	None
-訧	None	录入中	None	None
-𧦠	None	录入中	None	None
-詎	None	录入中	None	None
-讵	None	录入中	None	None
-訝	None	录入中	None	None
-讶	None	录入中	None	None
-𧥯	None	录入中	None	None
-訰	None	录入中	None	None
-𧥾	None	录入中	None	None
-䚹	None	录入中	None	None
-𧥮	None	录入中	None	None
-𧦚	None	录入中	None	None
-訨	None	录入中	None	None
-訬	None	录入中	None	None
-𧥵	None	录入中	None	None
-䛁	None	录入中	None	None
-訲	None	录入中	None	None
-訥	None	录入中	None	None
-讷	None	录入中	None	None
-𧥿	None	录入中	None	None
-𧦘	None	录入中	None	None
-許	None	录入中	None	None
-许	None	录入中	None	None
-𧥸	None	录入中	None	None
-䚽	None	录入中	None	None
-𧥷	None	录入中	None	None
-䚾	None	录入中	None	None
-䛂	None	录入中	None	None
-訞	None	录入中	None	None
-𫍚	None	录入中	None	None
-䚺	None	录入中	None	None
-𧦓	None	录入中	None	None
+⿰讠𠃓	None	=諹的类推简化字	None	諹
+訒	ren4	出言缓慢谨慎	None	None
+讱	None	=訒的类推简化字	None	訒
+訍	chai4	疑心	None	None
+訍	chai4	攻讦别人的短处	None	None
+訍	cha1	揭发别人的阴私	None	None
+訍	cha1	昏乱	None	None
+訍	cha4	同=𧫗 异言	None	𧫗
+𧥥	None	同=訓	None	訓
+𧥹	feng1	语耑	None	None
+𧥶	None	同=誑	None	誑
+讲	None	=講的简化字	None	講
+訮	yan2	易怒而好与人争论	None	None
+𧥽	None	同=諅	None	諅
+𧥱	fu2	同=夫 助词 用于句首，起提示作用	None	夫
+䚶	tian1	大声呵斥	None	None
+䛃	wan4	人名用字	None	None
+讳	None	=諱的简化字	None	諱
+𧥼	yun2	[訜𧥼]言语不定	None	None
+⿰讠艺	None	=讛的类推简化字	None	讛
+䚳	zhi4	不知	None	None
+䚳	zhi4	快	None	None
+讴	None	=謳的简化字	None	謳
+訧	you2	同=尤 过失；罪过	None	尤
+⿰讠尤	None	=訧的类推简化字	None	訧
+𧦠	None	同=呃	None	呃
+詎	ju4	副词 1.表示反问，相当于“怎么”、“难道” 2.表示否定 相当于“无”、“非”、“不” 3.相当于“曾经”	None	None
+詎	ju4	介词 至，到	None	None
+詎	ju4	连词 1.表示假设 相当于“假若”、“如果” 2.表示选择 相当于“……还是……”	None	None
+詎	ju4	不料；哪知	None	None
+讵	None	=詎的简化字	None	詎
+訝	ya4	同=迓 迎接	None	迓
+訝	ya4	惊奇，诧异	None	None
+訝	ya4	称誉	None	None
+讶	None	=訝的简化字	None	訝
+𧥯	hu4	同=𧥮	None	𧥮
+訰	zhun4	[訰訰]杂乱	None	None
+訰	zhun1	乱言貌	None	None
+訰	zhun1	心乱貌	None	None
+⿰讠屯	None	=訰的类推简化字	None	訰
+𧥾	None	同=識	None	識
+䚹	pi3	同=庀 具备	None	庀
+𧥮	hu4	记	None	None
+𧥮	hu4	认	None	None
+𧥮	di3	同=詆 毁谤	None	詆
+𧦚	hu4	记	None	None
+𧦚	di3	同=詆	None	詆
+訨	None	同=䛗	None	䛗
+訬	chao3	吵闹；烦扰	None	None
+訬	chao3	矫健敏捷	None	None
+訬	chao3	狡狯；轻佻	None	None
+訬	chao3	抄写	None	None
+訬	miao3	高	None	None
+訬	chao3	同=謅 信口胡说	None	謅
+⿰讠少	None	=訬的类推简化字	None	訬
+𧥵	guo4	迟	None	None
+䛁	nan2	[䛁䛁]低语声 也作“=喃喃”	None	喃
+訲	None	同=𠶷	None	𠶷
+訥	ne4	言语迟钝	None	None
+訥	ne4	结结巴巴地说出	None	None
+訥	ne4	专指河豚腹中脂肪	None	None
+讷	None	=訥的简化字	None	訥
+𧥿	xun4	同=𧥥(訓)	None	𧥥
+𧥿	xun4	人名用字	None	None
+𧦘	None	同=誷	None	誷
+許	xu3	应允；认可	None	None
+許	xu3	给予；奉献	None	None
+許	xu3	称赞；心服	None	None
+許	xu3	期望	None	None
+許	xu3	相信	None	None
+許	xu3	处所	None	None
+許	xu3	表示约略估计的数量	None	None
+許	xu3	或许，可能	None	None
+許	xu3	这样，这般	None	None
+許	xu3	代词 表示疑问，相当于“何”、“什么”	None	None
+許	xu3	语气词 表示感叹，相当于“啊”	None	None
+許	xu3	古国名 公元前11世纪周分封的诸侯国 姜姓 战国初期为楚所灭 一说灭于魏 故地在今河南省许昌市东	None	None
+許	xu3	许昌的简称	None	None
+許	xu3	通=御(yu4) 进	None	御
+許	xu3	姓	None	None
+許	hu3	[許許]也作“=所所”、“=滸滸” 象声词 劳动时共同出力的呼声	None	所
+许	None	=許的简化字	None	許
+𧥸	yin4	怒言	None	None
+䚽	hao4	消息，音信 也作=耗	None	耗
+𧥷	None	同=訖	None	訖
+䚾	ren2	念	None	None
+䛂	None	同=誃	None	誃
+訞	yao1	同=妖 怪异	None	妖
+訞	yao1	巧言貌	None	None
+訞	yao1	灾	None	None
+𫍚	None	=訞的类推简化字	None	訞
+䚺	None	同=謡	None	謡
+𧦓	None	同=訴	None	訴
 訛	None	录入中	None	None
 讹	None	录入中	None	None
 𧦎	None	录入中	None	None
