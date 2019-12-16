@@ -82336,33 +82336,92 @@
 諣	gua1	狡猾	None	None
 𧨰	zhi4	语不正	None	None
 𧩝	su4	向	None	None
-諈	None	录入中	None	None
-諉	None	录入中	None	None
-诿	None	录入中	None	None
-𧪁	None	录入中	None	None
-𧨻	None	录入中	None	None
-諛	None	录入中	None	None
-谀	None	录入中	None	None
-誽	None	录入中	None	None
-諐	None	录入中	None	None
-𧩀	None	录入中	None	None
-誰	None	录入中	None	None
-谁	None	录入中	None	None
-䛲	None	录入中	None	None
-諀	None	录入中	None	None
-𧨮	None	录入中	None	None
-𧩒	None	录入中	None	None
-論	None	录入中	None	None
-𧨦	None	录入中	None	None
-誵	None	录入中	None	None
-𧨞	None	录入中	None	None
-䛵	None	录入中	None	None
-諗	None	录入中	None	None
-谂	None	录入中	None	None
-𧩟	None	录入中	None	None
-調	None	录入中	None	None
-调	None	录入中	None	None
-𧩠	None	录入中	None	None
+諈	zhui4	[諈諉]1.嘱托 2.烦重貌	None	None
+諈	zhui4	姓	None	None
+⿰讠垂	None	=諈的类推简化字	None	諈
+諉	wei3	累；烦劳	None	None
+諉	wei3	推委；推脱 也作=委	None	委
+诿	None	=諉的简化字	None	諉
+𧪁	None	同=𧦧	None	𧦧
+𧨻	None	同=計	None	計
+諛	yu2	谄媚；用甜言蜜语奉承	None	None
+諛	yu2	谄媚的话	None	None
+諛	yu2	和悦柔顺貌	None	None
+谀	None	=諛的简化字	None	諛
+誽	ni4	刺探	None	None
+誽	na2	言不正	None	None
+⿰讠兒	None	=誽的类推简化字	None	誽
+諐	None	同=愆	None	愆
+𧩀	None	同=謻	None	謻
+誰	shei2	代词 表示疑问 1.指食物，相当于“什么” 2.指某个人、某些人，相当于“哪个”	None	None
+誰	shei2	副词 表示反问，相当于“难道”、“哪”	None	None
+誰	shei2	助词 用于句首，无实义	None	None
+誰	shui2	姓	None	None
+谁	None	=誰的简化字	None	誰
+䛲	man2	同=謾 欺；慧黠	None	謾
+諀	pi3	诽谤	None	None
+諀	bei1	[諀訾]好说人是非	None	None
+𧨮	None	同=𧧆	None	𧧆
+𧩒	mu3	@	None	None
+論	lun4	分析，说明事理	None	None
+論	lun4	衡量；评定	None	None
+論	lun4	定罪	None	None
+論	lun4	推知	None	None
+論	lun4	陈述；叙说	None	None
+論	lun4	顾及；考虑	None	None
+論	lun4	凭借；倚仗	None	None
+論	lun4	依据，按照 如：论斤；论件；论年纪我大，论技术他高	None	None
+論	lun4	言论；主张；学说 如：唯物论；方法论；崇论宏议	None	None
+論	lun4	一种以议论为主的文体，即议论文	None	None
+論	lun4	释迦弟子解释经义、论辩法相的书籍，同“经”、“律”合称为“三藏” “論藏”是梵语阿毗达摩藏的义译	None	None
+論	lun4	古气球名 一种运动用具	None	None
+論	lun4	姓	None	None
+論	lun2	《論語》的简称	None	None
+論	lun2	通=倫 1.伦次；条理 2.道理	None	倫
+論	lun2	通=掄 选择	None	掄
+論	lun2	用同=掄(lun1) 手臂用力旋动	None	掄
+𧨦	None	同=諡(謚)	None	諡
+誵	xiao2	言不恭谨 也作=訤	None	訤
+𧨞	None	同=謑	None	謑
+䛵	shou4	同=授 口授	None	授
+諗	shen3	规谏；劝告	None	None
+諗	shen3	思念	None	None
+諗	shen3	知悉	None	None
+諗	shen3	详尽	None	None
+諗	shen3	通=淰(shan3) 躲闪，鱼惊骇貌	None	淰
+諗	nie4	同=𩐭 声止	None	𩐭
+谂	None	=諗的简化字	None	諗
+𧩟	None	同=𧩪	None	𧩪
+調	tiao2	和谐；协调；适合	None	None
+調	tiao2	调试，调和音调	None	None
+調	tiao2	演奏	None	None
+調	tiao2	调济	None	None
+調	tiao2	调配	None	None
+調	tiao2	调理；治疗	None	None
+調	tiao2	欺骗	None	None
+調	tiao2	训练；畜养	None	None
+調	tiao2	嘲弄；调戏	None	None
+調	tiao2	粜，卖	None	None
+調	diao4	选拔或提拔官吏	None	None
+調	diao4	调动	None	None
+調	diao4	征收；调集	None	None
+調	diao4	转动	None	None
+調	diao4	掷；丢	None	None
+調	diao4	计算；打算	None	None
+調	diao4	准备停当	None	None
+調	diao4	互换 如：对调；调座位	None	None
+調	diao4	求	None	None
+調	diao4	古代赋税的一种	None	None
+調	diao4	言辞	None	None
+調	diao4	戏曲或歌曲的乐律	None	None
+調	diao4	歌曲的谱子	None	None
+調	diao4	说话、读书的腔调	None	None
+調	diao4	字音的高低升降 如：高平调；高升调；全降调；降升调	None	None
+調	diao4	人的风格才情 如：格调；雅调	None	None
+調	diao4	耍；弄	None	None
+調	zhou4	早晨	None	None
+调	None	=調的简化字	None	調
+𧩠	None	同=諷	None	諷
 諙	None	录入中	None	None
 𧩛	None	录入中	None	None
 䛬	None	录入中	None	None
