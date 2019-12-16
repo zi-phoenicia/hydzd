@@ -96703,44 +96703,61 @@
 䴇	ling2	鹤的别名	None	None
 䴇	ling2	小天鹅	None	None
 䴇	ling2	同=鴒	None	鴒
-𪆶	None	录入中	None	None
-𪆺	None	录入中	None	None
-鸆	None	录入中	None	None
-鸈	None	录入中	None	None
-𪇁	None	录入中	None	None
-𪆽	None	录入中	None	None
-鷺	None	录入中	None	None
-鹭	None	录入中	None	None
-𪆯	None	录入中	None	None
-鸅	None	录入中	None	None
-䴉	None	录入中	None	None
-鹮	None	录入中	None	None
-䴋	None	录入中	None	None
-𫜅	None	录入中	None	None
-鸀	None	录入中	None	None
-𪇆	None	录入中	None	None
-𪇬	None	录入中	None	None
-鸒	None	录入中	None	None
-鷽	None	录入中	None	None
-鸄	None	录入中	None	None
-𪇇	None	录入中	None	None
-𪇈	None	录入中	None	None
-𪆻	None	录入中	None	None
-𪆱	None	录入中	None	None
-𪆾	None	录入中	None	None
-鸇	None	录入中	None	None
-鹯	None	录入中	None	None
-鷹	None	录入中	None	None
-鹰	None	录入中	None	None
-鷾	None	录入中	None	None
-𪆿	None	录入中	None	None
-𪇉	None	录入中	None	None
-䴊	None	录入中	None	None
-鸃	None	录入中	None	None
-𪇔	None	录入中	None	None
-𪆵	None	录入中	None	None
-鸂	None	录入中	None	None
-㶉	None	录入中	None	None
+⿰零鸟	None	=䴇的类推简化字	None	䴇
+𪆶	can4	鸟名	None	None
+𪆺	None	同=𪆂	None	𪆂
+鸆	yu2	[鸅鸆]见“鸅”	None	None
+⿰虞鸟	None	=鸆的类推简化字	None	鸆
+鸈	ye4	旧说知人吉凶的鸟	None	None
+𪇁	dang1	鸟名	None	None
+𪆽	None	同=鷺	None	鷺
+鷺	lu4	水鸟名 白鹭 又名白鸟、舂鉏，俗称鹭鸶 今鹭科部分种类的通称 体形一般都高大瘦削，喙强直而尖，颈和足长，趾具半蹼，适于涉水觅食 常活动于河湖岸边或水田、泽地 主食鱼、蛙、贝类及水生昆虫 羽毛白色或杂色 常见的有白鹭、苍鹭、池鹭等	None	None
+鷺	lu4	地名 鹭门（即今厦门）的简称	None	None
+鹭	None	=鷺的简化字	None	鷺
+𪆯	nong2	鸿的别名	None	None
+鸅	ze2	[鸅鸆]也作“=澤虞” 鸟名，即护田鸟	None	澤
+鸅	ze2	鹈鹕	None	None
+䴉	huan2	[䴉目]同“=䴋目” 水鸟名	None	䴋
+䴉	huan2	今鸟纲鹳形目鹮科部分种类的通称 大小如白鹭，喙细长而圆，向下弯曲，后肢粗健，较鹭稍短，但趾爪都长 涉禽 见于我国的普通种类为白鹮，羽毛纯白，仅初级飞羽尖端呈黑色 我国另有朱鹮，又名朱鹭、红鹤，疑即古代之鹮目，为世界上几乎绝迹的珍禽	None	None
+䴉	huan2	绕飞貌	None	None
+鹮	None	=䴉的类推简化字	None	䴉
+䴋	huan2	[䴋目]也作“=䴉目”、“=旋目” 水鸟名	None	䴉
+𫜅	None	=䴋的类推简化字	None	䴋
+鸀	chu3	山乌 又名赤嘴乌，即红嘴山鸦 通体亮黑，翼、尾闪绿色光泽，嘴鲜红，脚淡红 常结群高飞，鸣声清脆而响亮 巢营于石窟或土穴中 分布于新疆维吾尔自治区、青海省、西藏自治区、内蒙古自治区及华北山地	None	None
+鸀	zhu2	[鸀鳿]水鸟名	None	None
+鸀	chu4	同=𪇆 传说中的鸟名	None	𪇆
+⿰蜀鸟	None	=鸀的类推简化字	None	鸀
+𪇆	chu4	传说中的怪鸟名	None	None
+𪇆	du2	[𪇆𪄻]布谷鸟	None	None
+𪇬	None	同=鸒	None	鸒
+鸒	yu4	[鸒斯]鸟名 本单称“鸒”，“斯”为语辞 又名“鵯鶋”、“雅烏”，即雀形目鸦科之寒鸦	None	None
+⿱與鸟	None	=鸒的类推简化字	None	鸒
+鷽	xue2	鸟名 山鹊，即长尾蓝鹊 体羽以蓝色为主，尾特长，嘴和脚俱为红色，性凶悍，常掠夺他鸟的雏和卵	None	None
+鷽	xue2	鸟名 翰鷽，即“乾=鹊”，今称喜鹊	None	鹊
+鷽	xue2	鸟纲雀科灰雀属各种类的旧称 概为小形鸣禽，体形似雀而羽色不同；鸣声悦耳，可为笼禽	None	None
+鷽	xue2	[鷽鳩]也作“=學鳩” 小鸠	None	學
+鸄	ji1	鸟名 又名“鶶𪄡”	None	None
+⿱敫鸟	None	=鸄的类推简化字	None	鸄
+𪇇	qian-0=1	@	None	None
+𪇈	ai4	@	None	None
+𪆻	dan3	鸟名 猫头鹰一类的鸟	None	None
+𪆱	liu2	[𪆱𩿀]又名“飛鸓” 兽名 即鼯鼠	None	None
+𪆾	None	同=鶉	None	鶉
+鸇	zhan1	鸟名 鹞属猛禽 又名“=𪄡風”	None	𪄡
+鹯	None	=鸇的简化字	None	鸇
+鷹	ying1	鹰科部分种类鸟的通称 一般指鹰属各种鸟 如：苍鹰；赤腹鹰；雀鹰 上嘴钩曲，爪尖锐有力，视力强，飞行速疾，性凶猛，常翱翔于高空或停立大树上以窥伺猎物 其中的苍鹰，猎人常饲养来猎取小鸟、野兔等	None	None
+鹰	None	=鷹的简化字	None	鷹
+⿰痺鳥	bi4	@	None	None
+鷾	yi4	[鷾鴯]鸟名 燕子	None	None
+⿰意鸟	None	=鷾的类推简化字	None	鷾
+𪆿	jian4	毛相𪆿	None	None
+𪇉	None	同=𪇛	None	𪇛
+䴊	None	同=鸃	None	鸃
+鸃	yi2	[鵔鸃]见“鵔”	None	None
+𪇔	None	同=鷀	None	鷀
+𪆵	chi4	[鸂𪆵]同“鸂=𪀦”	None	𪀦
+鸂	xi1	[鸂鶒]也作“鸂鷘”、“鸂𪀦”、“鸂𪅙”、“鸂鵣”、“鸂䳵”、“鸂⿰𬈆鳥” 水鸟名 形似鸳鸯而稍大，多紫色，雌雄偶游，故又称紫鸳鸯	None	None
+㶉	None	=鸂的类推简化字	None	鸂
 𪆮	None	录入中	None	None
 𪇚	None	录入中	None	None
 鷫	None	录入中	None	None
