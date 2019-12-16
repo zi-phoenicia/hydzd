@@ -96686,16 +96686,23 @@
 𬸬	None	=𪇄的类推简化字	None	𪇄
 𪇂	hou4	[𪇂𪅃]野鸭	None	None
 𪇓	meng4	鸟名	None	None
-𪇡	None	录入中	None	None
-鸌	None	录入中	None	None
-𪇜	None	录入中	None	None
-鸏	None	录入中	None	None
-䴌	None	录入中	None	None
-𪇔	None	录入中	None	None
-鸉	None	录入中	None	None
-𪆲	None	录入中	None	None
-𪆼	None	录入中	None	None
-䴇	None	录入中	None	None
+𪇡	None	同=鸌	None	鸌
+鸌	hu4	[鸌𪃒]水鸟名 也单用	None	None
+鸌	hu4	鸟类的一科，大型海鸟 鼻成管状位于嘴的两侧，嘴尖端呈钩状，翼长而尖，善飞翔，趾间有蹼，吃鱼类和软体动物 我国常见的有白额鸌	None	None
+𪇜	gua1	[鶈𪇜]鸟名	None	None
+鸏	meng2	[鸏䴀]水鸟名 又名越王鸟、鹤顶、䴂雕	None	None
+鸏	meng2	鸟纲鹲科鹲属各种的通称 身体大，灰色或白色，嘴强直而侧扁，尾部有长羽毛 生活在热带海洋上，故又称热带鸟，吃鱼类 见于我国的有红嘴鹲，繁殖在西沙群岛	None	None
+鸏	mang2	鸟名 鸠属	None	None
+䴌	None	同=鸏	None	鸏
+𪇔	None	同=鷀	None	鷀
+鸉	yang2	鸟名 白鹞子	None	None
+𪆲	jia3	鸟名 鹰属	None	None
+𪆲	zhan1	同=鸇	None	鸇
+⿰𮗂鳥	None	同=鷣	None	鷣
+𪆼	None	同=鸓	None	鸓
+䴇	ling2	鹤的别名	None	None
+䴇	ling2	小天鹅	None	None
+䴇	ling2	同=鴒	None	鴒
 𪆶	None	录入中	None	None
 𪆺	None	录入中	None	None
 鸆	None	录入中	None	None
