@@ -81067,30 +81067,95 @@
 𧥗	None	同=𧥖	None	𧥖
 𧥘	None	同=觸	None	觸
 𧥚	fa2	𧥚理	None	None
-言	None	录入中	None	None
-𧥞	None	录入中	None	None
-𧥟	None	录入中	None	None
-𧥝	None	录入中	None	None
-計	None	录入中	None	None
-计	None	录入中	None	None
-訂	None	录入中	None	None
-订	None	录入中	None	None
-䚯	None	录入中	None	None
-訃	None	录入中	None	None
-讣	None	录入中	None	None
-认	None	录入中	None	None
-訅	None	录入中	None	None
-𧥠	None	录入中	None	None
-訄	None	录入中	None	None
-䚰	None	录入中	None	None
-讥	None	录入中	None	None
-訇	None	录入中	None	None
-訆	None	录入中	None	None
-䚮	None	录入中	None	None
-𧥡	None	录入中	None	None
-訐	None	录入中	None	None
-讦	None	录入中	None	None
-訏	None	录入中	None	None
+言	yan2	说，说话	None	None
+言	yan2	议论，谈论	None	None
+言	yan2	记载	None	None
+言	yan2	问	None	None
+言	yan2	告知；告诉	None	None
+言	yan2	陈述；叙述	None	None
+言	yan2	解释引文、词语或某种现象的发端词，相当于“就是说”或“意思是”	None	None
+言	yan2	意料，料想	None	None
+言	yan2	话，言语	None	None
+言	yan2	言论；见解；意见	None	None
+言	yan2	言辞；辞令；辞章	None	None
+言	yan2	政令；号令	None	None
+言	yan2	誓言；盟辞	None	None
+言	yan2	建议；计策	None	None
+言	yan2	学说；主张	None	None
+言	yan2	语言或文章中的字	None	None
+言	yan2	口语或文章中的句子	None	None
+言	yan2	著作	None	None
+言	yan2	臣对君的呈文	None	None
+言	yan2	古乐器名 大箫 一作=䇾	None	䇾
+言	yan2	我	None	None
+言	yan2	连词 表示顺接关系，相当于“乃”、“便”、“就”	None	None
+言	yan2	助词 1.用于句首 2.用于句中	None	None
+言	yan2	通=訊(xun4) 俘虏	None	訊
+言	yan2	通=愆(qian1) 过失	None	愆
+言	yan2	春秋时地名，约在今河南省许昌市与淇县之间	None	None
+言	yan2	姓	None	None
+言	yan4	诉讼	None	None
+言	yan4	通=唁 慰问	None	唁
+言	yin2	[言言]和敬貌	None	None
+𧥞	None	同=歎	None	歎
+𧥟	mo4	@	None	None
+𧥝	None	同=詞	None	詞
+計	ji4	总计	None	None
+計	ji4	计算	None	None
+計	ji4	估计	None	None
+計	ji4	谋划；商议	None	None
+計	ji4	计划；计谋	None	None
+計	ji4	计簿，即记载户口、垦田、钱粮出入之数的簿册	None	None
+計	ji4	呈送计簿的官吏	None	None
+計	ji4	经济力量；经济开支 如：国计民生	None	None
+計	ji4	考察；审核	None	None
+計	ji4	测量或计算时间、度数等的仪器 如：时计；温度计；晴雨计	None	None
+計	ji4	姓	None	None
+计	None	=計的简化字	None	計
+訂	ding4	评议；评定	None	None
+訂	ding4	均衡；均匀	None	None
+訂	ding4	订立；约定 如：订交；订婚；订计划	None	None
+訂	ding4	改定；改正 如：订正；考订	None	None
+訂	ding4	装订	None	None
+訂	ding4	效法	None	None
+訂	ding4	向民征赋	None	None
+訂	ding4	逗留	None	None
+订	None	=訂的简化字	None	訂
+䚯	None	同=討	None	討
+訃	fu4	报丧 如：讣告；讣闻	None	None
+訃	fu4	报丧的文字	None	None
+讣	None	=訃的简化字	None	訃
+认	None	=認的简化字	None	認
+訅	qiu2	安	None	None
+訅	qiu2	谋	None	None
+訅	qiu2	同=訄 逼迫	None	訄
+𧥠	None	同=訄	None	訄
+訄	qiu2	逼迫	None	None
+訄	kao1	戏言	None	None
+䚰	pi3	同=䚹 言具	None	䚹
+䚰	e2	同=訛	None	訛
+讥	None	=譏的简化字	None	譏
+訇	hong1	骇言声	None	None
+訇	hong1	象声词 形容声音大	None	None
+訇	hong1	姓	None	None
+訇	jun4	同=𧥺 欺	None	𧥺
+訇	heng1	同=哼 呻吟	None	哼
+訆	jiao4	同=叫 大声呼叫	None	叫
+訆	jiao4	鸣叫	None	None
+訆	jiao4	妄言	None	None
+⿰讠丩	None	=訆的类推简化字	None	訆
+䚮	reng2	厚	None	None
+䚮	reng2	重	None	None
+䚮	reng2	就	None	None
+𧥡	None	同=誕	None	誕
+訐	jie2	攻击别人的短处；揭发别人的阴私	None	None
+訐	ji4	直言不讳	None	None
+讦	None	=訐的简化字	None	訐
+訏	xu1	诡讹	None	None
+訏	xu1	大	None	None
+訏	xu1	同=吁 叹词	None	吁
+訏	xu3	[訏訏]官大貌	None	None
+𬣙	None	=訏的类推简化字	None	訏
 𧥦	None	录入中	None	None
 訌	None	录入中	None	None
 讧	None	录入中	None	None
