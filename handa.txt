@@ -81748,63 +81748,159 @@
 誠	cheng2	连词 表示假设关系，相当于“如果”	None	None
 誠	cheng2	恭敬	None	None
 诚	None	=誠的简化字	None	誠
-𫍢	None	录入中	None	None
-誈	None	录入中	None	None
-𧧎	None	录入中	None	None
-𧧌	None	录入中	None	None
-訿	None	录入中	None	None
-訾	None	录入中	None	None
-𧧛	None	录入中	None	None
-䛕	None	录入中	None	None
-䛖	None	录入中	None	None
-詷	None	录入中	None	None
-𫍣	None	录入中	None	None
-𧧚	None	录入中	None	None
-䛛	None	录入中	None	None
-𧧜	None	录入中	None	None
-𧧧	None	录入中	None	None
-誅	None	录入中	None	None
-诛	None	录入中	None	None
-𧧲	None	录入中	None	None
-詵	None	录入中	None	None
-诜	None	录入中	None	None
-誔	None	录入中	None	None
-話	None	录入中	None	None
-话	None	录入中	None	None
-𫍤	None	录入中	None	None
-䛙	None	录入中	None	None
-𧧖	None	录入中	None	None
-誕	None	录入中	None	None
-诞	None	录入中	None	None
-䛘	None	录入中	None	None
-詯	None	录入中	None	None
-𧧆	None	录入中	None	None
-𧧓	None	录入中	None	None
-䛜	None	录入中	None	None
-詬	None	录入中	None	None
-诟	None	录入中	None	None
-𧧊	None	录入中	None	None
-𧧔	None	录入中	None	None
-詮	None	录入中	None	None
-诠	None	录入中	None	None
-詥	None	录入中	None	None
-誂	None	录入中	None	None
-𫍥	None	录入中	None	None
-𧧡	None	录入中	None	None
-𧧗	None	录入中	None	None
-詤	None	录入中	None	None
-詹	None	录入中	None	None
-詭	None	录入中	None	None
-诡	None	录入中	None	None
-詢	None	录入中	None	None
-询	None	录入中	None	None
-詣	None	录入中	None	None
-诣	None	录入中	None	None
-詾	None	录入中	None	None
-𧧭	None	录入中	None	None
-詻	None	录入中	None	None
-詺	None	录入中	None	None
-誃	None	录入中	None	None
+⿰讠夹	None	=䛟的类推简化字	None	䛟
+𫍢	None	=譊的类推简化字	None	譊
+誈	None	同=誣	None	誣
+𧧎	None	同=𠱚	None	𠱚
+𧧌	None	同=寂	None	寂
+訿	None	同=訾	None	訾
+訾	zi3	不想使其上级满意	None	None
+訾	zi3	诋毁；指责	None	None
+訾	zi3	厌恶；恨	None	None
+訾	zi1	衡量；计量	None	None
+訾	zi1	希求；考虑	None	None
+訾	zi1	什么	None	None
+訾	zi1	通=資 钱财	None	資
+訾	zi1	通=咨 嗟叹声	None	咨
+訾	zi1	通=恣(zi4) 放纵	None	恣
+訾	zi1	通=疵(ci1) 1.疾病 2.缺点	None	疵
+訾	zi1	古地名 在今河南省巩义市西南	None	None
+訾	zi1	姓	None	None
+𧧛	None	同=䛁	None	䛁
+䛕	None	同=諛	None	諛
+䛖	None	同=詍	None	詍
+詷	tong2	共同 后作=同	None	同
+詷	dong4	说大话	None	None
+詷	dong4	会	None	None
+詷	dong4	调	None	None
+詷	dong4	侩	None	None
+詷	dong4	用同=恫 吓唬	None	恫
+𫍣	None	=詷的类推简化字	None	詷
+𧧚	None	同=訕	None	訕
+䛛	None	同=詯	None	詯
+𧧜	wang3	同=𤣴 诬	None	𤣴
+𧧧	None	同=詈	None	詈
+誅	zhu1	指责；责备	None	None
+誅	zhu1	责求；索取	None	None
+誅	zhu1	惩罚	None	None
+誅	zhu1	讨伐	None	None
+誅	zhu1	杀戮	None	None
+誅	zhu1	除去	None	None
+誅	zhu1	记述；阐述	None	None
+诛	None	=誅的简化字	None	誅
+𧧲	None	同=詄	None	詄
+詵	shen1	众人言	None	None
+詵	shen1	问	None	None
+詵	shen1	众多	None	None
+诜	None	=詵的类推简化字	None	詵
+誔	ting3	欺慢	None	None
+話	hua4	话语 人们用来表达思想感情的声音，包括用文字把话语记录下来的书面语	None	None
+話	hua4	话题	None	None
+話	hua4	指代不便明说的事物，犹言“东西”	None	None
+話	hua4	艺人讲唱的历史或小说故事	None	None
+話	hua4	告喻	None	None
+話	hua4	谈论，谈说	None	None
+話	hua4	调	None	None
+話	hua4	治	None	None
+話	hua4	语气词 用于假设复句的偏句句尾	None	None
+话	None	=話的简化字	None	話
+𫍤	None	=譑的类推简化字	None	譑
+䛙	xu4	[䜡䛙]闻香貌	None	None
+𧧖	None	同=咎	None	咎
+誕	dan4	说大话；虚妄不实的言论	None	None
+誕	dan4	大	None	None
+誕	dan4	虚妄	None	None
+誕	dan4	欺诈	None	None
+誕	dan4	生育；出生	None	None
+誕	dan4	信	None	None
+誕	dan4	放荡；放肆	None	None
+誕	dan4	助词 用于句首或句中，无实义	None	None
+诞	None	=誕的简化字	None	誕
+䛘	ren2	信	None	None
+䛘	ren2	念	None	None
+䛘	nin2	多言	None	None
+䛘	nin2	喉声	None	None
+䛘	nin2	詉	None	None
+𬣯	None	=䛘的类推简化字	None	䛘
+詯	hui4	胆气满，声在人上	None	None
+詯	hui4	休市	None	None
+詯	hui4	决后悔	None	None
+𧧆	dui1	谪，谴责	None	None
+𧧓	xu4	静	None	None
+𧧓	xu4	同=恤	None	恤
+䛜	None	同=訊	None	訊
+詬	gou4	耻辱	None	None
+詬	gou4	怒骂	None	None
+詬	gou4	花言巧语	None	None
+詬	gou4	姓	None	None
+詬	hou2	愤怒	None	None
+诟	None	=詬的简化字	None	詬
+𧧊	wa1	[諣𧧊]惰	None	None
+𧧔	zhou1	多言	None	None
+詮	quan2	详细解释，阐明事理	None	None
+詮	quan2	权衡；比较	None	None
+詮	quan2	道理，事物的规律	None	None
+詮	quan2	选择	None	None
+诠	None	=詮的简化字	None	詮
+詥	he2	谐	None	None
+詥	ge2	会言	None	None
+⿰讠合	None	=詥的类推简化字	None	詥
+誂	tiao3	逗引；诱惑 也作=挑	None	挑
+誂	tiao3	戏弄	None	None
+誂	tiao3	通=佻(tiao1) 轻佻	None	佻
+誂	diao4	仓猝	None	None
+𫍥	None	=誂的类推简化字	None	誂
+𧧡	None	同=訟	None	訟
+𧧗	None	同=詾	None	詾
+詤	huang3	梦言	None	None
+詤	huang3	恍忽	None	None
+詤	huang3	同=謊 说谎话	None	謊
+詹	zhan1	话多	None	None
+詹	zhan1	至，到达	None	None
+詹	zhan1	供给	None	None
+詹	zhan1	通=瞻 往前或往上看	None	瞻
+詹	zhan1	通=蟾(chan2) 蟾蜍，即虾蟆	None	蟾
+詹	zhan1	姓	None	None
+詹	dan3	足够	None	None
+詭	gui3	责成；要求	None	None
+詭	gui3	欺诈；虚假	None	None
+詭	gui3	假装；冒充	None	None
+詭	gui3	差别；不同	None	None
+詭	gui3	怪异；奇特	None	None
+詭	gui3	违反；违背	None	None
+詭	gui3	毁；破坏	None	None
+詭	gui3	羊后胫骨部位名	None	None
+詭	gui3	姓	None	None
+诡	None	=詭的简化字	None	詭
+詢	xun2	询问；求教	None	None
+詢	xun2	谋；查考	None	None
+詢	xun2	均，协调	None	None
+詢	xun2	副词 信，确实	None	None
+询	None	=詢的简化字	None	詢
+詣	yi4	候至，古代到朝廷或上级、尊长处去之称	None	None
+詣	yi4	前往，到某地去	None	None
+詣	yi4	进献	None	None
+詣	yi4	（学问等）所到达的境地 如：造诣	None	None
+詣	yi4	符合；核对	None	None
+诣	None	=詣的简化字	None	詣
+詾	xiong1	众口纷喧，争论是非	None	None
+詾	xiong1	盈	None	None
+詾	xiong1	恐吓	None	None
+詾	xiong1	同=凶	None	凶
+𧧭	None	同=誇	None	誇
+詻	e4	[詻詻]1.同“=諤諤” 直言争辩 2.教令严	None	諤
+詻	lve4	声音	None	None
+詻	luo4	同=咯 讼言	None	咯
+⿰讠各	None	=詻的类推简化字	None	詻
+詺	ming4	辨别物名 也作=名	None	名
+詺	ming4	直言；真义	None	None
+詺	ming4	用同=銘(ming2) 铭记；镂刻	None	銘
+𬣮	None	=詺的类推简化字	None	詺
+誃	yi2	同=謻 台名；门名	None	謻
+誃	chi2	同=謻 离开；脱离	None	謻
+誃	chi4	同=𨛅	None	𨛅
+誃	tuo3	同=詑 欺罔	None	詑
+⿰讠多	None	=誃的类推简化字	None	誃
 詧	None	录入中	None	None
 諍	None	录入中	None	None
 诤	None	录入中	None	None
