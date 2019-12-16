@@ -81156,42 +81156,99 @@
 訏	xu1	同=吁 叹词	None	吁
 訏	xu3	[訏訏]官大貌	None	None
 𬣙	None	=訏的类推简化字	None	訏
-𧥦	None	录入中	None	None
-訌	None	录入中	None	None
-讧	None	录入中	None	None
-討	None	录入中	None	None
-讨	None	录入中	None	None
-𧥨	None	录入中	None	None
-𧥢	None	录入中	None	None
-𧥭	None	录入中	None	None
-𧥩	None	录入中	None	None
-𧥪	None	录入中	None	None
-让	None	录入中	None	None
-䚱	None	录入中	None	None
-𧥣	None	录入中	None	None
-訕	None	录入中	None	None
-讪	None	录入中	None	None
-訔	None	录入中	None	None
-訖	None	录入中	None	None
-讫	None	录入中	None	None
-託	None	录入中	None	None
-𧥫	None	录入中	None	None
-訓	None	录入中	None	None
-训	None	录入中	None	None
-䚲	None	录入中	None	None
-𧥬	None	录入中	None	None
-訋	None	录入中	None	None
-訙	None	录入中	None	None
-訉	None	录入中	None	None
-訯	None	录入中	None	None
-议	None	录入中	None	None
-訊	None	录入中	None	None
-讯	None	录入中	None	None
-𧥤	None	录入中	None	None
-記	None	录入中	None	None
-记	None	录入中	None	None
-訑	None	录入中	None	None
-𫍙	None	录入中	None	None
+𧥦	None	同=訏	None	訏
+訌	hong4	溃乱	None	None
+訌	hong4	争扰	None	None
+讧	None	=訌的简化字	None	訌
+討	tao3	治理；整治	None	None
+討	tao3	研究，探讨	None	None
+討	tao3	寻找	None	None
+討	tao3	声讨，公开谴责	None	None
+討	tao3	讨伐；诛杀	None	None
+討	tao3	谋取；索取	None	None
+討	tao3	招惹 如：讨厌；讨人喜欢	None	None
+討	tao3	娶	None	None
+討	tao3	混杂的	None	None
+討	tao3	减掉	None	None
+讨	None	=討的简化字	None	討
+𧥨	None	同=詍	None	詍
+𧥢	None	同=誇	None	誇
+𧥭	None	=訉的讹字	None	訉
+𧥩	None	同=訧	None	訧
+𧥪	None	同=訮	None	訮
+让	None	=讓的简化字	None	讓
+䚱	None	同=信	None	信
+𧥣	kou4	同=叩 问，盘问	None	叩
+𧥣	kou4	笑	None	None
+訕	shan4	诽谤；讥刺	None	None
+訕	shan4	羞惭；难为情	None	None
+讪	None	=訕的简化字	None	訕
+訔	yin2	[訔訔]争辩貌	None	None
+訔	yin2	同=闇	None	闇
+訖	qi4	停止；终止	None	None
+訖	qi4	完毕；终尽	None	None
+訖	qi4	穷尽；达到极限	None	None
+訖	qi4	副词 1.尽；都 2.终究	None	None
+訖	qi4	通=迄 介词 到，至	None	迄
+訖	qi4	助词 用在动词后表示动作已经完成 相当于“了”	None	None
+讫	None	=訖的简化字	None	訖
+託	tuo1	寄托	None	None
+託	tuo1	凭借，依赖	None	None
+託	tuo1	托付；请托	None	None
+託	tuo1	假托	None	None
+託	tuo1	夸	None	None
+𧥫	None	同=訰	None	訰
+訓	xun4	教导；教诲	None	None
+訓	xun4	告诫；申诉	None	None
+訓	xun4	训练	None	None
+訓	xun4	典范；准则	None	None
+訓	xun4	解说 如：训诂	None	None
+訓	xun4	通=順(shun4) 顺从；服从	None	順
+訓	xun4	通=馴(xun4) 驯服	None	馴
+訓	xun4	姓	None	None
+训	None	=訓的简化字	None	訓
+䚲	None	同=訕	None	訕
+𧥬	None	同=訉	None	訉
+訋	diao4	挐	None	None
+訋	diao4	声	None	None
+訋	diao4	姓	None	None
+訙	None	同=訊	None	訊
+訉	fan4	多言	None	None
+訯	sa3	强事言语	None	None
+訯	sa4	同=𧫝 枉	None	𧫝
+议	None	=議的简化字	None	議
+訊	xun4	询问	None	None
+訊	xun4	问候	None	None
+訊	xun4	告诉	None	None
+訊	xun4	责问；指责	None	None
+訊	xun4	审问 如：审讯；传讯	None	None
+訊	xun4	书信；音信；消息 如：音讯；电讯	None	None
+訊	xun4	西周时对俘虏的称谓	None	None
+訊	xun4	乱辞 辞赋篇末总括全篇要旨的一段	None	None
+訊	xun4	证实	None	None
+訊	xun4	通=迅 振奋；迅疾	None	迅
+讯	None	=訊的简化字	None	訊
+𧥤	xi1	笑声	None	None
+𧥤	xi1	[唸𧥤]同“唸=㕧” 呻吟	None	㕧
+𧥤	xie1	同=㗨 笑	None	㗨
+記	ji4	记载；记录	None	None
+記	ji4	记住，使印象不消失	None	None
+記	ji4	典籍	None	None
+記	ji4	旧时的公文	None	None
+記	ji4	一种以叙事为主的文体 如：晋陶渊明《桃花源记》；唐柳宗元《至小丘西小石潭记》；宋范仲淹《岳阳楼记》；明徐弘祖《徐霞客游记》；鲁迅《买<小学大全>记》等	None	None
+記	ji4	记述或解释典章制度的文字 如十三经中的《周礼·考工记》和《礼记》	None	None
+記	ji4	印章 如：戳记；图记；钤记	None	None
+記	ji4	标志，记号 如：以红巾为记；划圈作记；合记商店	None	None
+記	ji4	皮肤上天生的深色斑痕	None	None
+記	ji4	量词 打一下叫一记	None	None
+記	ji4	助词	None	None
+记	None	=記的简化字	None	記
+訑	yi2	[訑訑]自满；自得貌	None	None
+訑	dan4	同=誕 放纵	None	誕
+訑	shi1	同=𧩹 多言	None	𧩹
+訑	tuo2	同=詑 欺	None	詑
+訑	tuo3	言不正	None	None
+𫍙	None	=訑的类推简化字	None	訑
 訒	None	录入中	None	None
 讱	None	录入中	None	None
 訍	None	录入中	None	None
