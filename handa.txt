@@ -82136,37 +82136,104 @@
 𧨆	wu1	同=誣	None	誣
 𧨆	huang3	同=詤	None	詤
 䛧	None	=謎的讹字	None	謎
-説	None	录入中	None	None
-说	None	录入中	None	None
-𧨠	None	录入中	None	None
-𧧼	None	录入中	None	None
-誏	None	录入中	None	None
-𧩇	None	录入中	None	None
-𧨡	None	录入中	None	None
-誛	None	录入中	None	None
-𧨇	None	录入中	None	None
-誋	None	录入中	None	None
-𫍪	None	录入中	None	None
-䛝	None	录入中	None	None
-𧨽	None	录入中	None	None
-認	None	录入中	None	None
-誦	None	录入中	None	None
-诵	None	录入中	None	None
-誒	None	录入中	None	None
-诶	None	录入中	None	None
-誜	None	录入中	None	None
-䛶	None	录入中	None	None
-請	None	录入中	None	None
-请	None	录入中	None	None
-諘	None	录入中	None	None
-𧨩	None	录入中	None	None
-䛫	None	录入中	None	None
-𧩗	None	录入中	None	None
-𧨿	None	录入中	None	None
-諸	None	录入中	None	None
-诸	None	录入中	None	None
-䛭	None	录入中	None	None
-䛩	None	录入中	None	None
+説	shuo1	讲述	None	None
+説	shuo1	解释 如：说明；说理；解说	None	None
+説	shuo1	评论；谈论	None	None
+説	shuo1	道理；学说	None	None
+説	shuo1	告诉	None	None
+説	shuo1	劝告；责备	None	None
+説	shuo1	说合，介绍 如：说亲；说媒	None	None
+説	shuo1	以为	None	None
+説	shuo1	古代墨家逻辑的名词，指推理	None	None
+説	shuo1	古文体之一	None	None
+説	shuo1	周代的祭祀名	None	None
+説	shui4	劝说别人，使之听从自己的意见 如：游说；说士；说客	None	None
+説	shui4	通=税 休憩；止息	None	税
+説	yue4	同=悦 1.高兴；喜悦 2.喜爱 3.取悦；讨好	None	悦
+説	yue4	姓	None	None
+説	tuo1	通=脱	None	脱
+说	None	=説的简化字	None	説
+𧨠	None	同=𧩮	None	𧩮
+𧧼	None	同=誼	None	誼
+誏	lang3	同=朗 明	None	朗
+誏	lang3	言之明	None	None
+誏	lang4	闲言	None	None
+誏	lang4	戏言	None	None
+誏	lang4	泛言	None	None
+𧩇	None	同=諠	None	諠
+𧨡	chen2	@	None	None
+誛	qin1	私语	None	None
+誛	qin1	以言相侵犯	None	None
+𧨇	None	同=誺	None	誺
+誋	ji4	同=忌 1.告诫 2.信 3.禁忌	None	忌
+𫍪	None	=誋的类推简化字	None	誋
+䛝	nao2	欢喜	None	None
+䛝	nao2	谜	None	None
+𧨽	None	同=詂	None	詂
+認	ren4	识别；辨明	None	None
+認	ren4	承认 如：认账；认输；认罪	None	None
+認	ren4	认为；当作	None	None
+誦	song4	朗诵；念读	None	None
+誦	song4	述说	None	None
+誦	song4	以婉言、隐语讽谏	None	None
+誦	song4	诗篇	None	None
+誦	song4	背诵	None	None
+誦	song4	通=頌 颂扬	None	頌
+誦	song4	通=訟 公开宣布或说明	None	訟
+诵	None	=誦的简化字	None	誦
+誒	xi1	叹词 表示可恶、失意或叹息	None	None
+誒	xi1	强笑	None	None
+誒	yi4	可恶声	None	None
+誒	eh1	叹词 表示招呼 如：诶，你过来	None	None
+誒	eh2	叹词 表示诧异 如：诶，怎么回事！	None	None
+誒	eh3	叹词 表示不以为然 如：诶，话不是那么说的	None	None
+誒	eh4	叹词 表示答应或同意 如：诶，就这么办	None	None
+诶	None	=誒的简化字	None	誒
+誜	None	同=𧫝	None	𧫝
+䛶	None	同=誄	None	誄
+請	qing3	谒见	None	None
+請	qing3	请求	None	None
+請	qing3	询问	None	None
+請	qing3	告诉	None	None
+請	qing3	召；邀请	None	None
+請	qing3	愿意	None	None
+請	qing3	敬辞 用于希望对方做某事	None	None
+請	qing3	表示恭敬 代替某些动词 指买香烛纸锭、佛龛神像等 如：请香烛；请了一座神像	None	None
+請	qing4	古代朝会名	None	None
+請	qing2	通=情 1.事情；情况	None	情
+請	qing2	领受；取得	None	None
+请	None	=請的简化字	None	請
+諘	biao3	称扬	None	None
+𧨩	tian3	[𧨩䜝]言不定	None	None
+䛫	zhang1	[譸䛫]也作“譸=張” 诳	None	張
+䛫	zheng4	[䛫悙]同“=倀悙” 疏率	None	倀
+𧩗	None	人名用字	None	None
+𧨿	zha3	姓	None	None
+諸	zhu1	区别之词，相当于=者	None	者
+諸	zhu1	代词 1.作宾语，相当于“之” 2.作定语，相当于“其”	None	None
+諸	zhu1	介词 相当于“於”	None	None
+諸	zhu1	“之於”的合音	None	None
+諸	zhu1	助词 表示语气，相当于“乎”	None	None
+諸	zhu1	“之乎”的合音	None	None
+諸	zhu1	形容词词尾	None	None
+諸	zhu1	众；各个	None	None
+諸	zhu1	凡是	None	None
+諸	zhu1	别的；其他	None	None
+諸	zhu1	犹=庶 亲属的旁支	None	庶
+諸	zhu1	干果	None	None
+諸	zhu1	古地名 春秋时鲁邑，在今山东省诸城市西南	None	None
+諸	zhu1	姓	None	None
+諸	chu2	[詹諸]蟾=蜍，即虾蟆	None	蜍
+诸	None	=諸的简化字	None	諸
+䛭	xing4	言	None	None
+䛭	xing4	瞋语	None	None
+䛭	xing4	䛭直	None	None
+䛭	xing4	言狠	None	None
+⿰讠幸	None	=䛭的类推简化字	None	䛭
+䛩	wu4	说人坏话	None	None
+䛩	wu4	同=惡 厌恶	None	惡
+䛩	qia4	[䛩訝]言不正	None	None
+䛩	e3	同=啞 笑	None	啞
 諆	None	录入中	None	None
 諅	None	录入中	None	None
 諏	None	录入中	None	None
