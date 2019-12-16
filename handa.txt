@@ -81528,47 +81528,98 @@
 詄	die2	误	None	None
 ⿰讠失	None	=詄的类推简化字	None	詄
 䛈	shi4	䛈志，发誓	None	None
-詐	None	录入中	None	None
-诈	None	录入中	None	None
-訸	None	录入中	None	None
-𧧂	None	录入中	None	None
-𧦧	None	录入中	None	None
-𫍟	None	录入中	None	None
-𧦺	None	录入中	None	None
-詂	None	录入中	None	None
-𧦭	None	录入中	None	None
-訴	None	录入中	None	None
-诉	None	录入中	None	None
-𧦻	None	录入中	None	None
-𧦼	None	录入中	None	None
-𧦜	None	录入中	None	None
-䛇	None	录入中	None	None
-𧦝	None	录入中	None	None
-𫍞	None	录入中	None	None
-診	None	录入中	None	None
-诊	None	录入中	None	None
-詅	None	录入中	None	None
-詆	None	录入中	None	None
-诋	None	录入中	None	None
-𧦽	None	录入中	None	None
-訽	None	录入中	None	None
-𧦨	None	录入中	None	None
-䛄	None	录入中	None	None
-𧧁	None	录入中	None	None
-诌	None	录入中	None	None
-䛌	None	录入中	None	None
-註	None	录入中	None	None
-𧦣	None	录入中	None	None
-詃	None	录入中	None	None
-詊	None	录入中	None	None
-詝	None	录入中	None	None
-䛎	None	录入中	None	None
-詑	None	录入中	None	None
-𫍡	None	录入中	None	None
-䛑	None	录入中	None	None
-詠	None	录入中	None	None
-詞	None	录入中	None	None
-词	None	录入中	None	None
+詐	zha4	欺骗 如：诈骗；奸诈；诈取	None	None
+詐	zha4	作假；假装 如：诈降；诈泣；诈善	None	None
+詐	zha4	体面；俊俏	None	None
+詐	zha4	用言语试探，诱使对方露真情	None	None
+詐	zha4	通=乍 突然	None	乍
+诈	None	=詐的简化字	None	詐
+訸	None	同=和	None	和
+⿰讠禾	None	=訸的类推简化字	None	訸
+𧧂	None	同=診	None	診
+𧦧	yi2	同=詑 自得貌	None	詑
+𧦧	tuo2	同=詑 欺罔	None	詑
+𫍟	None	=𧦧的类推简化字	None	𧦧
+𧦺	None	同=詆	None	詆
+詂	fu4	言有所依	None	None
+𧦭	tuo2	同=詑 欺	None	詑
+𧦭	xi1	言多貌	None	None
+訴	su4	告诉；诉说	None	None
+訴	su4	控诉；告……的状 如：起诉；上诉；公诉人	None	None
+訴	su4	诽谤；说别人的坏话	None	None
+訴	su4	辞酒不饮	None	None
+訴	su4	求；求助	None	None
+诉	None	=訴的简化字	None	訴
+𧦻	None	同=𧦝	None	𧦝
+𧦼	None	=訮的讹字	None	訮
+𧦜	None	同=診	None	診
+䛇	yan3	笑貌	None	None
+䛇	yan3	善言	None	None
+𧦝	hu1	呼唤 后作=呼	None	呼
+𧦝	hu1	鸣	None	None
+𧦝	hao4	欺	None	None
+𫍞	None	=𧦝的类推简化字	None	𧦝
+診	zhen3	省视；查考	None	None
+診	zhen3	候脉；诊断（疾病）	None	None
+診	zhen3	症状	None	None
+診	zhen3	通=畛 告诉	None	畛
+诊	None	=診的简化字	None	診
+詅	ling2	叫卖	None	None
+⿰讠令	None	=詅的类推简化字	None	詅
+詆	di3	谴责；骂	None	None
+詆	di3	毁谤；诬蔑	None	None
+詆	di3	欺	None	None
+詆	di3	用同=抵 拒讳，抵赖	None	抵
+詆	di3	通=柢 根本；要事	None	柢
+詆	ti4	同=𧨱	None	𧨱
+诋	None	=詆的简化字	None	詆
+𧦽	None	同=診	None	診
+訽	None	同=詬	None	詬
+⿰讠句	None	=訽的类推简化字	None	訽
+⿰言册	None	同=訕	None	訕
+𧦨	None	同=詉	None	詉
+䛄	yuan3	安慰	None	None
+䛄	yuan3	从	None	None
+䛄	yuan3	怨恨	None	None
+𧧁	None	同=䛄	None	䛄
+诌	None	=謅的简化字	None	謅
+䛌	tao2	同=䛬	None	䛬
+䛌	pao2	[䛌䜊]乱语	None	None
+⿰讠包	None	=䛌的类推简化字	None	䛌
+註	zhu4	用文字来解释词句 也作=注	None	注
+註	zhu4	记载；登记	None	None
+註	zhu4	等待	None	None
+𬣣	None	=註的类推简化字	None	註
+𧦣	None	同=佞	None	佞
+詃	juan3	诱骗	None	None
+𬣤	None	=詃的类推简化字	None	詃
+詊	pan4	巧言	None	None
+詝	zhu3	智慧；知识 也作=㤖	None	㤖
+䛎	xue4	怒呵	None	None
+詑	tuo2	欺	None	None
+詑	duo4	轻	None	None
+詑	yi1	[詑詑]自得貌	None	None
+詑	yi1	浅意	None	None
+詑	xi1	自多貌	None	None
+𫍡	None	=詑的类推简化字	None	詑
+䛑	None	同=謐	None	謐
+詠	yong3	歌唱；曼声长吟 也作=咏	None	咏
+詠	yong3	用诗词等抒写	None	None
+詠	yong3	诗词	None	None
+詠	yong3	诗体名	None	None
+詠	yong3	歌颂	None	None
+詠	yong3	鸟鸣	None	None
+⿰讠永	None	=詠的类推简化字	None	詠
+詞	ci2	语言中最小的可以自由运用的独立音义单位	None	None
+詞	ci2	话	None	None
+詞	ci2	文辞	None	None
+詞	ci2	诉讼；讼词	None	None
+詞	ci2	理由；借口	None	None
+詞	ci2	文体名 1.古代乐府诗体的一种 2.盛行于宋的一种诗体，又名“诗余”、“长短句”等，句式长短不一 3.泛指戏剧、讲唱、歌曲等艺术中的文字、语言部分	None	None
+詞	ci2	告诉；言说	None	None
+詞	ci2	请	None	None
+詞	ci2	通=辭 1.告别 2.推谢	None	辭
+词	None	=詞的简化字	None	詞
 䛐	None	录入中	None	None
 𧦾	None	录入中	None	None
 䛏	None	录入中	None	None
