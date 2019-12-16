@@ -81901,43 +81901,90 @@
 誃	chi4	同=𨛅	None	𨛅
 誃	tuo3	同=詑 欺罔	None	詑
 ⿰讠多	None	=誃的类推简化字	None	誃
-詧	None	录入中	None	None
-諍	None	录入中	None	None
-诤	None	录入中	None	None
-𧧘	None	录入中	None	None
-𧧩	None	录入中	None	None
-𧧉	None	录入中	None	None
-詨	None	录入中	None	None
-𧧑	None	录入中	None	None
-該	None	录入中	None	None
-该	None	录入中	None	None
-𧧄	None	录入中	None	None
-𧧮	None	录入中	None	None
-詳	None	录入中	None	None
-详	None	录入中	None	None
-𧨁	None	录入中	None	None
-誁	None	录入中	None	None
-誊	None	录入中	None	None
-詸	None	录入中	None	None
-詶	None	录入中	None	None
-誉	None	录入中	None	None
-詫	None	录入中	None	None
-诧	None	录入中	None	None
-𧧕	None	录入中	None	None
-诨	None	录入中	None	None
-𧧪	None	录入中	None	None
-𧧱	None	录入中	None	None
-𧧠	None	录入中	None	None
-詪	None	录入中	None	None
-𧧫	None	录入中	None	None
-𧧇	None	录入中	None	None
-𧧏	None	录入中	None	None
-詡	None	录入中	None	None
-诩	None	录入中	None	None
-𧧈	None	录入中	None	None
-诪	None	录入中	None	None
-𧨗	None	录入中	None	None
-𧨘	None	录入中	None	None
+詧	cha2	同=察	None	察
+詧	qie4	同=𧫕 正言	None	𧫕
+諍	zheng4	直言规劝 如：诤臣；诤友；谏诤	None	None
+諍	zheng4	诉讼	None	None
+諍	zheng4	通=争(zheng1) 争夺；争执	None	争
+诤	None	=諍的简化字	None	諍
+𧧘	None	同=説	None	説
+𧧩	ji2	@	None	None
+𧧉	tuo1	毁谤	None	None
+詨	xiao4	呼唤；大叫	None	None
+詨	xiao4	夸语	None	None
+詨	xiao4	象声词	None	None
+⿰讠交	None	=詨的类推简化字	None	詨
+𧧑	None	同=諺	None	諺
+該	gai1	军中戒约	None	None
+該	gai1	具备	None	None
+該	gai1	包容；包括	None	None
+該	gai1	充足；富有	None	None
+該	gai1	广博	None	None
+該	gai1	谮	None	None
+該	gai1	载	None	None
+該	gai1	注定	None	None
+該	gai1	欠 如：该账	None	None
+該	gai1	折合	None	None
+該	gai1	管理	None	None
+該	gai1	应该 1.表示理应如此 2.估计情况应该如此	None	None
+該	gai1	方言 给	None	None
+該	gai1	代词 指代上文说过的人或事 如：该校；该学生；该书	None	None
+該	gai1	副词 表示范围，相当于“全”、“都”	None	None
+該	gai1	同=陔 数词 十京（即一万万）为陔	None	陔
+該	gai1	姓	None	None
+该	None	=該的简化字	None	該
+𧧄	wang4	同=妄 欺骗；瞒哄	None	妄
+𧧮	None	同=詤	None	詤
+詳	xiang2	审察；审理	None	None
+詳	xiang2	周遍；详细	None	None
+詳	xiang2	详细知道	None	None
+詳	xiang2	详细述说	None	None
+詳	xiang2	庄重；安详	None	None
+詳	xiang2	公平	None	None
+詳	xiang2	旧时下级将案情向上级报告请示	None	None
+詳	xiang2	祷祝	None	None
+詳	xiang2	通=祥 善；福	None	祥
+詳	xiang2	通=翔	None	翔
+詳	yang2	通=佯 假装	None	佯
+详	None	=詳	None	詳
+𧨁	None	同=嗟	None	嗟
+誁	bing4	说	None	None
+誁	bing4	助言，帮腔	None	None
+誊	None	=謄的简化字	None	謄
+詸	None	同=謎	None	謎
+詶	zhou4	同=咒(呪) 诅咒	None	咒
+詶	chou2	同酬 1.用言语或诗文应答 2.报偿 3.实现	None	None
+詶	chou2	用同=籌 计算	None	籌
+𬣱	None	=詶的类推简化字	None	詶
+誉	None	=譽的简化字	None	譽
+詫	cha4	夸耀	None	None
+詫	cha4	惊异 如：诧异；惊诧	None	None
+詫	cha4	欺骗	None	None
+詫	cha4	告诉	None	None
+詫	du4	同=㓃	None	㓃
+诧	None	=詫的简化字	None	詫
+𧧕	zi4	同=字 名字	None	字
+诨	None	=諢的简化字	None	諢
+𫍦	None	=譨的类推简化字	None	譨
+𧧪	None	同=訕	None	訕
+𧧱	None	同=録	None	録
+𧧠	None	同=謅	None	謅
+詪	hen3	同=很 很戾	None	很
+𬣳	None	=詪的类推简化字	None	詪
+𧧫	None	同=𧨱	None	𧨱
+𧧇	duo4	言相夸	None	None
+𧧏	re4	如	None	None
+𧧏	re3	同=喏	None	喏
+詡	xu3	夸耀；说大话	None	None
+詡	xu3	普及，遍及	None	None
+詡	xu3	（言辞）敏而有勇	None	None
+詡	xu3	妩媚	None	None
+詡	xu3	人语	None	None
+诩	None	=詡的简化字	None	詡
+𧧈	None	=誄的讹字	None	誄
+诪	None	=譸的类推简化字	None	譸
+𧨗	chan2	@	None	None
+𧨘	xing2	[𧨘笑]同“=形笑” 即“嘲笑”	None	形
 誡	None	录入中	None	None
 诫	None	录入中	None	None
 𧨃	None	录入中	None	None
