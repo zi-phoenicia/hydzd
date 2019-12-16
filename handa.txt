@@ -81620,30 +81620,70 @@
 詞	ci2	请	None	None
 詞	ci2	通=辭 1.告别 2.推谢	None	辭
 词	None	=詞的简化字	None	詞
-䛐	None	录入中	None	None
-𧦾	None	录入中	None	None
-䛏	None	录入中	None	None
-䛉	None	录入中	None	None
-䛍	None	录入中	None	None
-詘	None	录入中	None	None
-诎	None	录入中	None	None
-詜	None	录入中	None	None
-詉	None	录入中	None	None
-𧦤	None	录入中	None	None
-詔	None	录入中	None	None
-诏	None	录入中	None	None
-詖	None	录入中	None	None
-诐	None	录入中	None	None
-译	None	录入中	None	None
-詒	None	录入中	None	None
-诒	None	录入中	None	None
-𧦥	None	录入中	None	None
-詏	None	录入中	None	None
-誆	None	录入中	None	None
-诓	None	录入中	None	None
-誄	None	录入中	None	None
-诔	None	录入中	None	None
-䛚	None	录入中	None	None
+䛐	None	同=詞	None	詞
+𧦾	None	同=訣	None	訣
+䛏	ni2	呼人	None	None
+䛏	ni3	言以示人 也作=呢	None	呢
+䛏	ni4	言不通	None	None
+䛏	ni4	同=泥 1.央求 2.拘泥；泥滞	None	泥
+䛉	mian4	诱言	None	None
+䛍	fei4	多言	None	None
+䛍	fei4	言急	None	None
+詘	qu1	言语钝诎	None	None
+詘	qu1	弯曲 也作=屈	None	屈
+詘	qu1	屈服	None	None
+詘	qu1	屈辱；冤屈	None	None
+詘	qu1	尽，穷尽	None	None
+詘	qu1	短缩；缺少	None	None
+詘	qu1	声音戛然止绝貌	None	None
+詘	qu1	副词 相当于“反”、“反而”	None	None
+詘	qu1	姓	None	None
+詘	chu4	同=黜 贬黜；贬退	None	黜
+诎	None	=詘的简化字	None	詘
+詜	tao1	[詜䛬]言不节	None	None
+詜	tao1	往来言	None	None
+詜	tao1	小儿语不正	None	None
+詉	nao2	同=呶 喧哗	None	呶
+詉	na2	[譇詉]见“譇”	None	None
+詉	nu4	恶言	None	None
+⿰讠奴	None	=詉的类推简化字	None	詉
+𧦤	jia1	诬	None	None
+𧦤	jia1	𧨀	None	None
+𧦤	jia1	评	None	None
+詔	zhao4	告诉；启示	None	None
+詔	zhao4	教导；告诫	None	None
+詔	zhao4	征召；召集	None	None
+詔	zhao4	帮助	None	None
+詔	zhao4	招致	None	None
+詔	zhao4	皇帝下达命令	None	None
+詔	zhao4	皇帝颁发的命令、诏书	None	None
+詔	zhao4	言	None	None
+詔	zhao4	古代文体名	None	None
+詔	zhao4	古代西南少数民族首领的称号	None	None
+詔	zhao1	言诱	None	None
+诏	None	=詔的简化字	None	詔
+詖	bi4	辩论	None	None
+詖	bi4	聪明	None	None
+詖	bi4	偏颇；不正	None	None
+詖	bi4	谄媚	None	None
+诐	None	=詖的类推简化字	None	詖
+译	None	=譯的简化字	None	譯
+⿰讠𢀖	None	=誙的类推简化字	None	誙
+詒	yi2	留传；赠送 也作=貽	None	貽
+詒	dai4	欺骗	None	None
+詒	tai2	懈倦貌	None	None
+诒	None	=詒的简化字	None	詒
+𧦥	None	同=謀	None	謀
+詏	yao4	言逆，说拗话	None	None
+誆	kuang1	狂言；谬言	None	None
+誆	kuang1	欺骗；骗取	None	None
+誆	kuang1	哄（孩子）	None	None
+诓	None	=誆的简化字	None	誆
+誄	lei3	古时累述死者功德以示哀悼并以此定谥 多用于上对下	None	None
+誄	lei3	累述死者功德以示哀悼的文章	None	None
+誄	lei3	祈祷以求福 也作=讄	None	讄
+诔	None	=誄的简化字	None	誄
+䛚	lve4	赞美	None	None
 試	None	录入中	None	None
 试	None	录入中	None	None
 詿	None	录入中	None	None
