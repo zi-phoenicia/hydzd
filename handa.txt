@@ -96758,26 +96758,32 @@
 𪆵	chi4	[鸂𪆵]同“鸂=𪀦”	None	𪀦
 鸂	xi1	[鸂鶒]也作“鸂鷘”、“鸂𪀦”、“鸂𪅙”、“鸂鵣”、“鸂䳵”、“鸂⿰𬈆鳥” 水鸟名 形似鸳鸯而稍大，多紫色，雌雄偶游，故又称紫鸳鸯	None	None
 㶉	None	=鸂的类推简化字	None	鸂
-𪆮	None	录入中	None	None
-𪇚	None	录入中	None	None
-鷫	None	录入中	None	None
-𪆭	None	录入中	None	None
-鸊	None	录入中	None	None
-䴙	None	录入中	None	None
-𪇊	None	录入中	None	None
-鷿	None	录入中	None	None
-𪇞	None	录入中	None	None
-𪇗	None	录入中	None	None
-𪇘	None	录入中	None	None
-𪇠	None	录入中	None	None
-𪇴	None	录入中	None	None
-𪇭	None	录入中	None	None
-𪇖	None	录入中	None	None
-鸍	None	录入中	None	None
-𪇦	None	录入中	None	None
-䴍	None	录入中	None	None
-鸎	None	录入中	None	None
-𪇑	None	录入中	None	None
+⿰⿳宀工⿱皿丁鳥	None	同=鸋	None	鸋
+𪆮	None	同=鴓	None	鴓
+𪇚	None	同=鸉	None	鸉
+鷫	su4	[鷫鷞]也作“鷫鸘”、“=肅爽” 1.传说中的西方神鸟 2.雁的一种 3.骏马名 4.用鹔鷞羽毛做成的裘衣	None	肅
+𪆭	None	同=鷫	None	鷫
+鸊	pi4	[鸊鷉]也作“鸊鵜”、“=鷿鵜”、“鸊鷈” 水鸟名 俗名油鸭 体形似鸭而小，脚近尾端，翼短小不善飞行，栖息于湖泊、沼泽地，极善潜水，常成群游于水面，稍受惊动瞬即潜入水中，营浮巢于水草丛中，随波上下 古人以其脂膏涂剑防锈	None	鷿
+鸊	bi4	[鸊鷱]鸟名 一种小鸠	None	None
+䴙	None	=鸊的简化字	None	鸊
+𪇊	pi4	[𪇊鷈]也作“=鸊鷈” 鸟名 形似凫	None	鸊
+鷿	pi4	[鷿鷈]也作“=鷿鷉”、“鷿鵜” 水鸟名 形似野鸭而略小	None	鷿
+𬸯	None	=鷿的类推简化字	None	鷿
+⿰⿱孟目鳥	None	同=鵳	None	鵳
+𪇞	zhou3	水鸟名	None	None
+𪇗	gu3	[布𪇗]也作“布=穀” 鸟名，即大杜鹃	None	穀
+𪇘	chou2	野鸡名	None	None
+𪇘	tao2	[𪇘河]也作“=淘河” 水鸟名，即鹈鹕	None	淘
+𪇠	None	同=𪄿(難)	None	𪄿
+𪇴	mie4	鸟名 工雀 又名巧妇	None	None
+𪇭	cai4	鸟名 鸠属	None	None
+𪇖	lan2	[𪇖鷜]鸟名 1.郭公 即布谷鸟 2.鹘鸼	None	None
+鸍	mi2	鸟名 沉凫，即野鸭	None	None
+鸍	mi2	鸩鸟，一种善食蛇的鸟	None	None
+𪇦	None	同=鸖(鶴)	None	鸖
+䴍	ying1	[鶈䴍]鸟名	None	None
+鸎	None	同=鶯	None	鶯
+𪇑	xun4	[𪇑鶘]鸟名 鸺鹠，即猫头鹰	None	None
 𪇙	None	录入中	None	None
 𪇢	None	录入中	None	None
 𪇣	None	录入中	None	None
