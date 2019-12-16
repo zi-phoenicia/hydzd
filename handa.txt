@@ -81342,44 +81342,96 @@
 𫍚	None	=訞的类推简化字	None	訞
 䚺	None	同=謡	None	謡
 𧦓	None	同=訴	None	訴
-訛	None	录入中	None	None
-讹	None	录入中	None	None
-𧦎	None	录入中	None	None
-𧥰	None	录入中	None	None
-𧦏	None	录入中	None	None
-訢	None	录入中	None	None
-䜣	None	录入中	None	None
-𧦐	None	录入中	None	None
-䛀	None	录入中	None	None
-䚷	None	录入中	None	None
-䚸	None	录入中	None	None
-訤	None	录入中	None	None
-𧦁	None	录入中	None	None
-论	None	录入中	None	None
-訡	None	录入中	None	None
-訩	None	录入中	None	None
-讻	None	录入中	None	None
-訜	None	录入中	None	None
-訟	None	录入中	None	None
-讼	None	录入中	None	None
-𧦟	None	录入中	None	None
-䚴	None	录入中	None	None
-𧦗	None	录入中	None	None
-𧥻	None	录入中	None	None
-𧥲	None	录入中	None	None
-䚿	None	录入中	None	None
-讽	None	录入中	None	None
-𧥺	None	录入中	None	None
-䚻	None	录入中	None	None
-𧥴	None	录入中	None	None
-𧦛	None	录入中	None	None
-設	None	录入中	None	None
-设	None	录入中	None	None
-𧦑	None	录入中	None	None
-訪	None	录入中	None	None
-访	None	录入中	None	None
-䚵	None	录入中	None	None
-訦	None	录入中	None	None
+訛	e2	讹误；差错	None	None
+訛	e2	感化	None	None
+訛	e2	谣言	None	None
+訛	e2	动	None	None
+訛	e2	讹诈；恫吓	None	None
+訛	e2	书法用语	None	None
+讹	None	=訛的简化字	None	訛
+𧦎	xia1	@	None	None
+𧥰	None	同=䚮	None	䚮
+𧦏	None	同=訰	None	訰
+訢	xin1	同=欣 喜悦	None	欣
+訢	xin1	姓	None	None
+訢	xi1	通=熹 和气交感	None	熹
+訢	yin2	[訢訢]谨敬戒慎貌	None	None
+䜣	None	=訢的简化字	None	訢
+𧦐	None	同=訮	None	訮
+䛀	fan3	权言合道	None	None
+䛀	fan4	詉	None	None
+䛀	ban4	[䛀諺]自矜	None	None
+⿰讠反	None	=䛀的类推简化字	None	䛀
+䚷	yi1	同=𧫦 然也	None	𧫦
+䚷	yi1	诚言	None	None
+䚷	yi3	应答声	None	None
+䚷	xi4	戏谑	None	None
+䚸	xie4	言善	None	None
+訤	xiao2	同=誵	None	誵
+訤	na2	同=詉	None	詉
+訤	na2	同=拏	None	拏
+𧦁	xi4	同=呬 多言	None	呬
+论	None	=論的简化字	None	論
+訡	None	同=吟	None	吟
+訩	xiong1	争辩	None	None
+訩	xiong1	祸乱	None	None
+訩	xiong1	喧哗纷扰貌	None	None
+訩	xiong1	盈	None	None
+讻	None	=訩的简化字	None	訩
+訜	fen1	[訜𧥼]言语不定	None	None
+訜	bin1	人不知	None	None
+訟	song4	争论，争辩 如：聚讼纷纭	None	None
+訟	song4	诉讼	None	None
+訟	song4	为人辩冤	None	None
+訟	song4	责备	None	None
+訟	song4	喧哗	None	None
+訟	song4	颂扬 后作=頌	None	頌
+訟	song4	六十四卦之一，卦形为x，砍下乾上	None	None
+訟	song4	通=公(gong1) 公开；明白	None	公
+訟	song4	通=容(rong2) 接纳；包容	None	容
+讼	None	=訟的简化字	None	訟
+𧦟	fan1	言急	None	None
+䚴	wa2	怒	None	None
+䚴	wa2	大声呵叱	None	None
+𧦗	None	同=䚻(謡)	None	䚻
+𧥻	None	同=訇	None	訇
+𧥲	None	=䚻的讹字	None	䚻
+䚿	yin4	啼不止	None	None
+䚿	xi1	欠而言	None	None
+䚿	xi1	呻	None	None
+讽	None	=諷的简化字	None	諷
+𧥺	jun4	欺骗	None	None
+𧥺	yun4	同=韵	None	韵
+䚻	yao2	同=謡 歌谣	None	謡
+䚻	you2	从	None	None
+𧥴	yang4	止	None	None
+𧦛	None	同=䚮	None	䚮
+設	she4	陈列；安置	None	None
+設	she4	制订；建立；开设	None	None
+設	she4	捕获	None	None
+設	she4	周到完备	None	None
+設	she4	宴；饮食	None	None
+設	she4	合	None	None
+設	she4	用	None	None
+設	she4	大	None	None
+設	she4	连词 表示假设关系，相当于“如果”、“假如”	None	None
+設	she4	突厥别部典兵者之称号 古突厥语šad的译音	None	None
+设	None	=設的简化字	None	設
+𧦑	hang2	@	None	None
+訪	fang3	咨询；征求意见	None	None
+訪	fang3	查访；调查；侦察	None	None
+訪	fang3	寻求；探寻	None	None
+訪	fang3	拜访，探望	None	None
+訪	fang3	谋议	None	None
+訪	fang3	及	None	None
+訪	fang3	通=方(fang1) 开始	None	方
+訪	fang3	姓	None	None
+访	None	=訪的简化字	None	訪
+⿰讠为	None	=譌的类推简化字	None	譌
+䚵	tou3	引诱	None	None
+𬣞	None	=詝的类推简化字	None	詝
+訦	chen2	诚实不欺	None	None
+訦	chen2	愤怒呵斥	None	None
 訫	None	录入中	None	None
 訣	None	录入中	None	None
 诀	None	录入中	None	None
