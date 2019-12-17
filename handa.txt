@@ -83288,38 +83288,62 @@
 䜖	None	同=譚	None	譚
 䜗	xin4	[䜗𧥸]怒言	None	None
 䜗	han4	[𧫿䜗]见“𧫿”	None	None
-𧭌	None	录入中	None	None
-𧬨	None	录入中	None	None
-𧬬	None	录入中	None	None
-譡	None	录入中	None	None
-𧬮	None	录入中	None	None
-𧬱	None	录入中	None	None
-譝	None	录入中	None	None
-𧬒	None	录入中	None	None
-譴	None	录入中	None	None
-谴	None	录入中	None	None
-譨	None	录入中	None	None
-譟	None	录入中	None	None
-譯	None	录入中	None	None
-譞	None	录入中	None	None
-𫍽	None	录入中	None	None
-𧬳	None	录入中	None	None
-䜚	None	录入中	None	None
-𧬴	None	录入中	None	None
-𧬿	None	录入中	None	None
-𧭀	None	录入中	None	None
-譽	None	录入中	None	None
-譭	None	录入中	None	None
-譤	None	录入中	None	None
-譥	None	录入中	None	None
-譣	None	录入中	None	None
-譮	None	录入中	None	None
-譫	None	录入中	None	None
-谵	None	录入中	None	None
-譠	None	录入中	None	None
-譍	None	录入中	None	None
-譧	None	录入中	None	None
-譩	None	录入中	None	None
+𧭌	lie4	[𧭌𠲷]同“𡁓𠲷” 多言	None	None
+𧬨	hui4	声音	None	None
+𧬨	hui4	众声	None	None
+𧬬	ya4	[䛽𧬬]见“䛽”	None	None
+譡	None	同=讜	None	讜
+𧬮	None	同=詿	None	詿
+𧬱	he4	[譀𧬱]怒貌	None	None
+譝	sheng2	赞誉	None	None
+𧬒	None	同=謾	None	謾
+譴	qian3	责问；谴责	None	None
+譴	qian3	旧时官吏被贬或谪戍	None	None
+譴	qian3	罪过	None	None
+譴	qian3	姓	None	None
+谴	None	=讉的简化字	None	讉
+譨	nong2	同=噥 语不明	None	噥
+譨	nou2	[譨譨]多言	None	None
+譟	zao4	同=噪 喧哗	None	噪
+譟	zao4	欢呼	None	None
+譯	yi4	翻译，把一种语言文字转换成另一种语言文字 如：直译；意译；口译	None	None
+譯	yi4	解释；阐述	None	None
+譯	yi4	通=擇(ze2) 选择	None	擇
+譞	xuan1	同=儇	None	儇
+譞	xuan1	多言	None	None
+𫍽	None	=譞的类推简化字	None	譞
+𧬳	None	同=譯	None	譯
+䜚	ta4	[䜚誻]语相及	None	None
+䜚	ta4	妄言	None	None
+䜚	ta4	以言探人	None	None
+𧬴	None	同=謂	None	謂
+𧬿	None	同=䛽	None	䛽
+𧭀	None	同=𧧸(别)	None	𧧸
+譽	yu4	称颂；赞美	None	None
+譽	yu4	声誉；美名	None	None
+譽	yu4	通=豫 欢乐	None	豫
+譽	yu4	姓	None	None
+譭	None	同=䛼(毁)	None	䛼
+譤	None	同=譥	None	譥
+譥	jiao4	同=噭(叫)	None	噭
+譥	jiao4	揭发别人的阴私	None	None
+譣	xian3	问	None	None
+譣	xian3	议	None	None
+譣	xian3	偏颇的话	None	None
+譮	hua4	同=䛡(話)	None	䛡
+譮	hua4	气高貌	None	None
+譮	xie4	怒声	None	None
+譮	hui4	悟	None	None
+譫	zhan1	话多	None	None
+譫	zhan1	病中胡言乱语	None	None
+谵	None	=譫的简化字	None	譫
+譠	tan2	欺	None	None
+⿰讠亶	None	=譠的类推简化字	None	譠
+譍	None	同=應	None	應
+譧	zhan4	同=詀 被诳	None	詀
+譧	lian2	[譧䛁]言不正	None	None
+譩	yi1	同=噫 叹词	None	噫
+譩	yi1	应答	None	None
 譱	None	录入中	None	None
 議	None	录入中	None	None
 𧬫	None	录入中	None	None
