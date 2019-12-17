@@ -83060,39 +83060,74 @@
 𧫨	None	同=謙	None	謙
 𧫺	None	=謚的讹字	None	謚
 𧫱	None	@	None	None
-𧫙	None	录入中	None	None
-謫	None	录入中	None	None
-谪	None	录入中	None	None
-謪	None	录入中	None	None
-𧫢	None	录入中	None	None
-𧫛	None	录入中	None	None
-謭	None	录入中	None	None
-谫	None	录入中	None	None
-𧫡	None	录入中	None	None
-𧫒	None	录入中	None	None
-𧫲	None	录入中	None	None
-𧫫	None	录入中	None	None
-譀	None	录入中	None	None
-𧬅	None	录入中	None	None
-𧫞	None	录入中	None	None
-謽	None	录入中	None	None
-䜏	None	录入中	None	None
-䜐	None	录入中	None	None
-謵	None	录入中	None	None
-謬	None	录入中	None	None
-谬	None	录入中	None	None
-謲	None	录入中	None	None
-謴	None	录入中	None	None
-䜈	None	录入中	None	None
-譛	None	录入中	None	None
-譊	None	录入中	None	None
-譆	None	录入中	None	None
-𧬇	None	录入中	None	None
-䜑	None	录入中	None	None
-𧬔	None	录入中	None	None
-𧬜	None	录入中	None	None
-𧬊	None	录入中	None	None
-䜓	None	录入中	None	None
+𧫙	None	同=競	None	競
+謫	zhe2	谴责；责备	None	None
+謫	zhe2	罚罪；古代官吏因罪被降职或流放 如：谪降；贬谪	None	None
+謫	zhe2	缺点；过错	None	None
+謫	zhe2	古代天文学术语 指天象变化	None	None
+謫	ze2	怒斥	None	None
+谪	None	=謫的简化字	None	謫
+謪	shang1	同=商 度量	None	商
+𧫢	wang4	责备	None	None
+𧫢	wang4	欺骗	None	None
+𬤛	None	=讇的类推简化字	None	讇
+𧫛	yang4	声变	None	None
+謭	None	同=譾	None	譾
+谫	None	=謭的简化字	None	謭
+𧫡	zhi4	[譗𧫡]见“譗”	None	None
+𧫒	xia4	同=諕 欺骗	None	諕
+𧫲	None	同=諞	None	諞
+𧫫	None	同=譀	None	譀
+譀	han4	说大话	None	None
+譀	han4	嘲弄	None	None
+譀	han4	怒吼	None	None
+譀	xian4	[譀𧭡]也作“譀䜕” 争怒	None	None
+⿰讠敢	None	=譀的类推简化字	None	譀
+𧬅	zha1	[𧬅詉]语不可解	None	None
+𧫞	lou4	[𧫞詬]忽然发怒	None	None
+謽	jiang3	言语倔强	None	None
+䜏	tuo1	退言	None	None
+䜏	tuo1	聪明	None	None
+⿰讠隋	None	=䜏的类推简化字	None	䜏
+䜐	hui1	毁谤	None	None
+䜐	hui1	推委	None	None
+𮙊	None	=讔的类推简化字	None	讔
+謵	xi2	用言辞使惧怕	None	None
+謵	xi2	同=習	None	習
+謵	che4	小语	None	None
+謵	che4	姓	None	None
+⿰讠習	None	=謵的类推简化字	None	謵
+謬	miu4	谬误；荒谬	None	None
+謬	miu4	差错	None	None
+謬	miu4	欺诈；虚伪	None	None
+謬	miu4	通=繆 缠结；束缚	None	繆
+謬	miu4	姓	None	None
+谬	None	=謬的简化字	None	謬
+謲	can4	相怒	None	None
+謲	can4	伺	None	None
+謲	zao4	同=譟 喧噪	None	譟
+謲	san1	[謲譚]怒语	None	None
+謲	chen3	阴言讥之	None	None
+謴	gun4	顺言	None	None
+謴	gun4	谑弄人	None	None
+䜈	chao1	同=勦 代人说	None	勦
+䜈	zhao1	同=𦗔	None	𦗔
+譛	None	=譖的讹字	None	譖
+譊	nao3	[譊譊]争辩声；喧噪声	None	None
+譊	xiao1	同=嘵 因恐惧而发出的叫声	None	嘵
+譆	xi1	叹词 表示悲痛、惊惧、赞叹等 也作=嘻	None	嘻
+𧬇	yi4	[𧬇𧫚]审谛	None	None
+䜑	wu4	同=䛩 诽谤	None	䛩
+䜑	wu4	同=惡 耻；憎恨	None	惡
+𧬔	None	同=諅	None	諅
+𧬜	None	同=𧬊	None	𧬊
+𧬊	xi4	悲声	None	None
+𧬊	xi4	声振	None	None
+𧬊	xi4	呻	None	None
+𧬊	xi4	善	None	None
+𧬊	si1	谅	None	None
+𧬊	si1	同=嘶 声音沙哑	None	嘶
+䜓	she4	[讋䜓]言失	None	None
 䜕	None	录入中	None	None
 譪	None	录入中	None	None
 䜘	None	录入中	None	None
