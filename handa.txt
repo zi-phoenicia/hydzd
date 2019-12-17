@@ -82422,28 +82422,51 @@
 調	zhou4	早晨	None	None
 调	None	=調的简化字	None	調
 𧩠	None	同=諷	None	諷
-諙	None	录入中	None	None
-𧩛	None	录入中	None	None
-䛬	None	录入中	None	None
-諂	None	录入中	None	None
-谄	None	录入中	None	None
-𧩓	None	录入中	None	None
-䛮	None	录入中	None	None
-諊	None	录入中	None	None
-諒	None	录入中	None	None
-谅	None	录入中	None	None
-諄	None	录入中	None	None
-谆	None	录入中	None	None
-𧩅	None	录入中	None	None
-䛸	None	录入中	None	None
-𧨱	None	录入中	None	None
-𧩔	None	录入中	None	None
-誶	None	录入中	None	None
-谇	None	录入中	None	None
-𧩂	None	录入中	None	None
-𧩕	None	录入中	None	None
-𫍭	None	录入中	None	None
-𧨺	None	录入中	None	None
+諙	hua4	同=𧨥(話)	None	𧨥
+諙	xie4	同=譮 怒声	None	譮
+𧩛	None	同=詢	None	詢
+䛬	tao2	往来言	None	None
+䛬	tao2	小儿未能正言	None	None
+䛬	tao2	祝	None	None
+諂	chan3	奉承；献媚 如：谄媚；谗佞；不谄不骄	None	None
+谄	None	=諂的简化字	None	諂
+𧩓	None	同=𧩣	None	𧩣
+䛮	jiu4	毁	None	None
+䛮	jiu4	同=咎	None	咎
+諊	None	同=𥷚	None	𥷚
+諒	liang4	诚信	None	None
+諒	liang4	相信	None	None
+諒	liang4	体察；体谅	None	None
+諒	liang4	诚然；的确	None	None
+諒	liang4	料想	None	None
+諒	liang4	辅佐	None	None
+諒	liang4	智	None	None
+諒	liang4	姓	None	None
+諒	liang2	通=良 善良	None	良
+諒	liang2	古州名 唐置，在今越南社会主义共和国	None	None
+谅	None	=諒的简化字	None	諒
+諄	zhun1	教诲不倦貌 多叠用，也单用	None	None
+諄	zhun1	忠诚；谨慎	None	None
+諄	zhun1	辅佐	None	None
+諄	zhun1	罪恶	None	None
+諄	zhun1	厌恶	None	None
+谆	None	=諄的简化字	None	諄
+𧩅	yan4	语鬼	None	None
+䛸	None	同=詀	None	詀
+𧨱	ti4	僻	None	None
+𧨱	ti4	狡狯	None	None
+𧩔	None	同=訴	None	訴
+誶	sui4	责让；责骂	None	None
+誶	sui4	诘问	None	None
+誶	sui4	谏诤	None	None
+誶	sui4	告知	None	None
+誶	sui4	通=悴 忧	None	悴
+誶	sui4	古乐章的尾声 相当于“亂”	None	None
+谇	None	=誶的简化字	None	誶
+𧩂	None	同=謗	None	謗
+𧩕	None	同=𧦣(佞)	None	𧦣
+𫍭	None	=𧩕的类推简化字	None	𧩕
+𧨺	None	同=識	None	識
 𧨯	None	录入中	None	None
 諩	None	录入中	None	None
 𫟠	None	录入中	None	None
