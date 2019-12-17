@@ -83156,7 +83156,7 @@
 䜔	sui2	顺着他人的意思说话	None	None
 𧬐	None	同=譳	None	譳
 𧬎	None	同=讈	None	讈
-𮘻	None	录入中	None	None
+𮘻	None	同=𧭭	None	𧭭
 𧬓	None	同=謺	None	謺
 䜍	liao2	[䜍讈]1.巧言 2.言不明	None	None
 𧬞	None	同=𧥼	None	𧥼
@@ -83437,63 +83437,93 @@
 讀	dou4	句中的短暂停顿 今以逗号标志 也作=逗	None	逗
 𧮇	None	同=䜕	None	䜕
 𧭳	he2	咏唱	None	None
-𧭶	None	录入中	None	None
-䜡	None	录入中	None	None
-𧭭	None	录入中	None	None
-𧭜	None	录入中	None	None
-𧭢	None	录入中	None	None
-𧭤	None	录入中	None	None
-𧭬	None	录入中	None	None
-𧭑	None	录入中	None	None
-讉	None	录入中	None	None
-讄	None	录入中	None	None
-𧭴	None	录入中	None	None
-𧮄	None	录入中	None	None
-𧭒	None	录入中	None	None
-𧭾	None	录入中	None	None
-𧭨	None	录入中	None	None
-𧭥	None	录入中	None	None
-䜠	None	录入中	None	None
-讆	None	录入中	None	None
-𧭣	None	录入中	None	None
-𧭷	None	录入中	None	None
-𧭦	None	录入中	None	None
-𧭫	None	录入中	None	None
-譾	None	录入中	None	None
-𫍿	None	录入中	None	None
-𧭠	None	录入中	None	None
-讅	None	录入中	None	None
-𧭟	None	录入中	None	None
-𧭞	None	录入中	None	None
-𧮃	None	录入中	None	None
-讌	None	录入中	None	None
-䜩	None	录入中	None	None
-𧭽	None	录入中	None	None
-𧮉	None	录入中	None	None
-讍	None	录入中	None	None
-讈	None	录入中	None	None
-𧭹	None	录入中	None	None
-𧭸	None	录入中	None	None
-讇	None	录入中	None	None
-𧮅	None	录入中	None	None
-𧮏	None	录入中	None	None
-讐	None	录入中	None	None
-𧮊	None	录入中	None	None
-讏	None	录入中	None	None
-𧭻	None	录入中	None	None
-𧭺	None	录入中	None	None
-𧭼	None	录入中	None	None
-讋	None	录入中	None	None
-䜢	None	录入中	None	None
-讔	None	录入中	None	None
-𧮐	None	录入中	None	None
-讙	None	录入中	None	None
-𧮆	None	录入中	None	None
-讕	None	录入中	None	None
-𧮓	None	录入中	None	None
-讑	None	录入中	None	None
-讖	None	录入中	None	None
-谶	None	录入中	None	None
+𮙋	None	=讟的类推简化字	None	讟
+𧭶	None	同=諴	None	諴
+䜡	yu4	[䜡䛙]闻香貌	None	None
+𧭭	None	同=譍(應)	None	譍
+𧭜	lv4	欺詐	None	None
+𧭢	None	同=讜	None	讜
+𧭤	bao4	[𧭤譟]恶	None	None
+𧭤	bao2	同=𧬉(謈)	None	𧬉
+𧭬	None	同=詿	None	詿
+𧭑	None	同=詿	None	詿
+讉	yi2	译恶言	None	None
+讉	tui1	欺	None	None
+讄	lei3	古人行善积德，以求神降福 也作=誄	None	誄
+讄	lei3	同=誄 哀悼死者的文章	None	誄
+𧭴	None	同=譞	None	譞
+𧮄	None	同=讗	None	讗
+𧭒	None	同=譽	None	譽
+𧭾	hui4	同=䜋	None	䜋
+𧭾	hui4	用同=愧(kui4) 惭愧	None	愧
+𧭨	None	同=𧪰(𧪘)	None	𧪰
+𧭥	luo4	[𧭥詤]狂言	None	None
+䜠	None	同=𡂒	None	𡂒
+讆	wei4	吹捧坏人	None	None
+讆	wei4	虚伪，欺诈	None	None
+𧭣	guo2	[𧭣𧭣]多言	None	None
+𧭷	None	同=諸	None	諸
+𧭦	xuan4	流言	None	None
+𧭦	xuan4	营求；追求	None	None
+𧭦	xuan4	远	None	None
+𧭦	xuan1	同=譞 多言	None	譞
+𧭫	None	同=諄	None	諄
+譾	jian3	浅薄	None	None
+𫍿	None	=譾的类推简化字	None	譾
+𧭠	xie3	言以写志	None	None
+𧭠	xie3	同=寫	None	寫
+讅	shen3	同=審 熟悉；详知	None	審
+𧭟	chi2	失言	None	None
+𧭞	lie4	[𧭞𧭞]多言	None	None
+𧮃	None	同=讌	None	讌
+讌	yan4	相聚叙谈	None	None
+讌	yan4	同=醼 宴会；会饮	None	醼
+䜩	None	=讌的简化字	None	讌
+𧭽	shan4	正	None	None
+𧮉	None	同=譁	None	譁
+讍	None	同=諤	None	諤
+讈	li4	[䜍讈]见“䜍”	None	None
+𧭹	pin2	匹偶	None	None
+𧭹	pin2	多言	None	None
+𧭸	xie4	诫	None	None
+讇	chan3	同=諂 谄媚	None	諂
+讇	chan3	说梦话	None	None
+𧮅	None	=䜚的讹字	None	䜚
+𧮏	None	同=䜕	None	䜕
+讐	None	同=讎	None	讎
+𧮊	None	同=𧮓	None	𧮓
+讏	wei4	同=㦣	None	㦣
+𧭻	han1	爱	None	None
+𧭺	None	同=諄	None	諄
+𧭼	chen4	应答之言	None	None
+讋	zhe2	丧胆；惧怕	None	None
+讋	zhe2	前后因袭，不加改革	None	None
+讋	zhe2	禁忌	None	None
+讋	zhe2	通=譶(ta4) 多言	None	譶
+䜢	xian3	[䜢搏]凶暴，狠毒	None	None
+讔	yin3	隐语	None	None
+讔	yin3	应答之言	None	None
+𧮐	None	同=讔	None	讔
+讙	huan1	喧哗	None	None
+讙	huan1	责备	None	None
+讙	huan1	鸣	None	None
+讙	huan1	传说中的兽名	None	None
+讙	huan1	通=歡 喜悦	None	歡
+讙	huan1	古地名 故地在今山东省肥城市南，为春秋时鲁国属地	None	None
+讙	huan1	姓	None	None
+讙	huan4	同=唤 呼唤	None	唤
+𬤰	None	=讙的类推简化字	None	讙
+𧮆	ying1	怒	None	None
+讕	lan2	抵赖	None	None
+讕	lan2	诬赖，诬陷	None	None
+𧮓	tui2	喧闹	None	None
+讑	yao4	谬误	None	None
+讑	yao4	喧哗	None	None
+讑	yao4	觉悟	None	None
+讖	chen4	谈论预言、征验的书籍	None	None
+讖	chen4	迷信指将来要应验的预言、预兆	None	None
+讖	chan4	同=懺 忏悔	None	懺
+谶	None	=讖的简化字	None	讖
 讒	None	录入中	None	None
 讓	None	录入中	None	None
 𧮈	None	录入中	None	None
