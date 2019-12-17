@@ -83344,61 +83344,99 @@
 譧	lian2	[譧䛁]言不正	None	None
 譩	yi1	同=噫 叹词	None	噫
 譩	yi1	应答	None	None
-譱	None	录入中	None	None
-議	None	录入中	None	None
-𧬫	None	录入中	None	None
-𧬯	None	录入中	None	None
-𧬵	None	录入中	None	None
-𧬲	None	录入中	None	None
-譬	None	录入中	None	None
-𧭋	None	录入中	None	None
-𧭁	None	录入中	None	None
-𧬶	None	录入中	None	None
-𧭄	None	录入中	None	None
-𧭃	None	录入中	None	None
-𧭏	None	录入中	None	None
-譸	None	录入中	None	None
-𧭍	None	录入中	None	None
-𧭖	None	录入中	None	None
-𧭩	None	录入中	None	None
-𧭪	None	录入中	None	None
-𧭝	None	录入中	None	None
-譼	None	录入中	None	None
-𧭅	None	录入中	None	None
-𧭡	None	录入中	None	None
-𧭉	None	录入中	None	None
-譳	None	录入中	None	None
-䜜	None	录入中	None	None
-譵	None	录入中	None	None
-譻	None	录入中	None	None
-䜙	None	录入中	None	None
-𧭎	None	录入中	None	None
-𧭵	None	录入中	None	None
-𧭇	None	录入中	None	None
-𧭆	None	录入中	None	None
-𧭕	None	录入中	None	None
-䜛	None	录入中	None	None
-譺	None	录入中	None	None
-𧭐	None	录入中	None	None
-𧭛	None	录入中	None	None
-譶	None	录入中	None	None
-𧭚	None	录入中	None	None
-譹	None	录入中	None	None
-𧭧	None	录入中	None	None
-讁	None	录入中	None	None
-䜞	None	录入中	None	None
-𧭓	None	录入中	None	None
-𧭂	None	录入中	None	None
-𧭈	None	录入中	None	None
-𫍾	None	录入中	None	None
-譅	None	录入中	None	None
-䜝	None	录入中	None	None
-譿	None	录入中	None	None
-讃	None	录入中	None	None
-䜟	None	录入中	None	None
-讀	None	录入中	None	None
-𧮇	None	录入中	None	None
-𧭳	None	录入中	None	None
+⿰讠意	None	=譩的类推简化字	None	譩
+譱	None	同=善	None	善
+議	yi4	言谈；谈论	None	None
+議	yi4	谋虑，谋议	None	None
+議	yi4	评论是非	None	None
+議	yi4	非议；指责	None	None
+議	yi4	主张；意见	None	None
+議	yi4	选择；斟酌	None	None
+議	yi4	比拟	None	None
+議	yi4	乐器变换声音细大清浊，使之和谐	None	None
+議	yi4	古代文体的一种 用以论事说理，陈述自己的意见 如：奏议；驳议	None	None
+議	yi4	通=俄(e2) 倾斜	None	俄
+議	yi4	通=訛(e2) 诈称；敲诈	None	訛
+𧬫	jian3	语烦	None	None
+𧬯	None	同=謇	None	謇
+⿰讠寋	None	=𧬯的类推简化字	None	𧬯
+𧬵	None	同=諕	None	諕
+𧬲	None	同=誳(詘)	None	誳
+譬	pi4	用打比方的方法说明事理，使容易明白	None	None
+譬	pi4	明白；通晓	None	None
+譬	pi4	晓示；劝导	None	None
+𧭋	None	同=𧭟	None	𧭟
+𧭁	None	同=謷	None	謷
+𧬶	None	同=謬	None	謬
+𧭄	None	同=䜈	None	䜈
+𧭃	dan4	同=擔 担负	None	擔
+𧭏	tai1	订正	None	None
+譸	zhou1	[譸張]也作“=侜張” 欺诳	None	侜
+譸	zhou1	诅咒	None	None
+譸	chou2	同=㿧 代词 表示疑问，相当于“谁”	None	㿧
+譸	chou2	通=籌 忖度	None	籌
+𧭍	zhou4	[僝𧭍]恶言骂人	None	None
+𧭍	zhou4	众言会集	None	None
+𧭖	None	同=議	None	議
+𧭩	None	同=謹	None	謹
+𧭪	e4	声	None	None
+𧭝	sa4	散言	None	None
+譼	None	同=監	None	監
+𧭅	None	同=𧫢	None	𧫢
+𧭡	None	同=䜕	None	䜕
+𧭉	None	同=診	None	診
+譳	nou4	[䛠譳]见“䛠”	None	None
+⿰讠需	None	=譳的类推简化字	None	譳
+䜜	wei4	恨言	None	None
+譵	None	同=懟	None	懟
+譻	None	同=嚶	None	嚶
+䜙	an2	不慧	None	None
+䜙	an2	谑弄言	None	None
+䜙	e4	[𧨵䜙]见“𧨵”	None	None
+𧭎	pu1	以言蔽	None	None
+𧭵	None	同=魅	None	魅
+𧭇	mian2	聪明而狡猾	None	None
+𧭆	None	同=讑	None	讑
+𧭕	guo2	多言貌	None	None
+䜛	None	同=讒	None	讒
+譺	ai4	说话不流畅	None	None
+譺	ai4	嘲弄；欺哄	None	None
+譺	yi3	议	None	None
+譺	yi3	欺骗	None	None
+譺	ni3	同=擬 忖度	None	擬
+譺	yi4	同=㘈 小儿懂事的样子	None	㘈
+譺	yi2	肃静貌	None	None
+𧭐	None	同=譺	None	譺
+𬤩	None	=譺的类推简化字	None	譺
+𧭛	None	同=譶	None	譶
+譶	ta4	说话快；说话不停	None	None
+𧭚	qiang2	@	None	None
+譹	hao2	同=諕(號) 号哭	None	諕
+𬤫	None	=譹的类推简化字	None	譹
+𧭧	None	同=謶	None	謶
+讁	None	同=謫	None	謫
+䜞	None	同=劑	None	劑
+𧭓	ying2	（感情）炽热	None	None
+𧭂	None	同=𧫕	None	𧫕
+𧭈	ning2	小言	None	None
+𧭈	ning4	谄谀 也作=佞	None	佞
+𫍾	None	=𧭈的类推简化字	None	𧭈
+譅	se4	言甚多	None	None
+譅	se4	同=𠽼 说话结巴	None	𠽼
+⿰讠歰	None	=譅的类推简化字	None	譅
+䜝	tuan3	[𧨩䜝]见“𧨩”	None	None
+譿	None	同=慧	None	慧
+𬤭	None	=譿的类推简化字	None	譿
+讃	None	同=讚	None	讚
+䜟	None	同=讖	None	讖
+讀	du2	诵读、理解书的意义	None	None
+讀	du2	阅，看	None	None
+讀	du2	说出；宣扬	None	None
+讀	du2	文体名 术语题跋一类 用以记心得于书后，以备遗忘	None	None
+讀	du2	姓	None	None
+讀	dou4	句中的短暂停顿 今以逗号标志 也作=逗	None	逗
+𧮇	None	同=䜕	None	䜕
+𧭳	he2	咏唱	None	None
 𧭶	None	录入中	None	None
 䜡	None	录入中	None	None
 𧭭	None	录入中	None	None
