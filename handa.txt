@@ -83128,50 +83128,84 @@
 𧬊	si1	谅	None	None
 𧬊	si1	同=嘶 声音沙哑	None	嘶
 䜓	she4	[讋䜓]言失	None	None
-䜕	None	录入中	None	None
-譪	None	录入中	None	None
-䜘	None	录入中	None	None
-警	None	录入中	None	None
-謿	None	录入中	None	None
-𧬕	None	录入中	None	None
-𧬧	None	录入中	None	None
-𧬖	None	录入中	None	None
-譓	None	录入中	None	None
-譚	None	录入中	None	None
-谭	None	录入中	None	None
-䜔	None	录入中	None	None
-𧬐	None	录入中	None	None
-𧬎	None	录入中	None	None
-𧬓	None	录入中	None	None
-䜍	None	录入中	None	None
-𧬞	None	录入中	None	None
-譖	None	录入中	None	None
-谮	None	录入中	None	None
-𧬃	None	录入中	None	None
-𧬟	None	录入中	None	None
-𧫪	None	录入中	None	None
-譋	None	录入中	None	None
-𧬉	None	录入中	None	None
-䜋	None	录入中	None	None
-譂	None	录入中	None	None
-𧬌	None	录入中	None	None
-譕	None	录入中	None	None
-𧬠	None	录入中	None	None
-譑	None	录入中	None	None
-譗	None	录入中	None	None
-𧬑	None	录入中	None	None
-譙	None	录入中	None	None
-谯	None	录入中	None	None
-𧬄	None	录入中	None	None
-𧬁	None	录入中	None	None
-䜒	None	录入中	None	None
-𧬡	None	录入中	None	None
-𧬈	None	录入中	None	None
-譒	None	录入中	None	None
-𧬢	None	录入中	None	None
-𧬦	None	录入中	None	None
-𧫾	None	录入中	None	None
-譈	None	录入中	None	None
+䜕	mai4	夸大	None	None
+䜕	hai4	[譀䜕]争骂怒貌	None	None
+譪	None	同=藹	None	藹
+䜘	None	同=警	None	警
+警	jing3	告诫 如：以一警百	None	None
+警	jing3	戒备 如：警卫；警备；警惕	None	None
+警	jing3	危险紧急的情况或消息 如：火警；边警；警报	None	None
+警	jing3	敏悟 如：警慧；警捷；警辩	None	None
+警	jing3	警察的简称 如：民警；乘警；交通警	None	None
+警	jing3	通=驚(jing1) 震动；惊起	None	驚
+謿	None	同=嘲	None	嘲
+𧬕	gu1	罪责	None	None
+𧬧	chuang3	质	None	None
+𧬖	None	同=𩪘	None	𩪘
+譓	hui4	多谋智	None	None
+譓	hui4	辨察	None	None
+譓	hui4	顺服	None	None
+𬤝	None	=譓的类推简化字	None	譓
+譚	tan2	宏大；广大	None	None
+譚	tan2	绵延相及	None	None
+譚	tan2	连接；附着	None	None
+譚	tan2	通=談 称说，谈论	None	談
+譚	tan2	古国名 在今山东省济南市东龙山镇附近 公元前684年为齐所灭	None	None
+譚	tan2	姓	None	None
+谭	None	=譚的简化字	None	譚
+䜔	sui2	顺着他人的意思说话	None	None
+𧬐	None	同=譳	None	譳
+𧬎	None	同=讈	None	讈
+𮘻	None	录入中	None	None
+𧬓	None	同=謺	None	謺
+䜍	liao2	[䜍讈]1.巧言 2.言不明	None	None
+𧬞	None	同=𧥼	None	𧥼
+譖	zen4	说坏话诬陷别人	None	None
+譖	jian4	通=僭 不信	None	僭
+谮	None	=譖的简化字	None	譖
+𧬃	None	同=譅	None	譅
+𧬟	None	同=訾	None	訾
+𧫪	None	同=謔	None	謔
+譋	None	同=讕	None	讕
+𧬉	None	同=謈	None	謈
+䜋	hui4	中止	None	None
+䜋	hui4	译	None	None
+䜋	hui4	列	None	None
+䜋	hui4	相勘	None	None
+䜋	hui4	觉悟	None	None
+䜋	hui4	呼聚	None	None
+譂	chan3	妄言	None	None
+譂	dan4	同=憚 畏惧	None	憚
+𧬌	yan2	和	None	None
+𧬌	yan2	戏言	None	None
+譕	wu2	诱词	None	None
+譕	mo2	同=謨 议谋	None	謨
+𧬠	None	=䜉的讹字	None	䜉
+譑	jiao3	多言	None	None
+譑	jiao3	纠	None	None
+譑	jiao3	通=撟 收取	None	撟
+譑	qiao2	弄言	None	None
+譗	zha2	[譗𧫡]言语无条理	None	None
+𧬑	None	同=𧨁(嗟)	None	𧨁
+譙	qiao4	同=誚 责备	None	誚
+譙	qiao2	城门上的望楼	None	None
+譙	qiao2	凋敝；衰杀	None	None
+譙	qiao2	古县名 秦置 在今安徽省亳州市	None	None
+譙	qiao2	姓	None	None
+谯	None	=譙的简化字	None	譙
+𧬄	None	同=謝	None	謝
+𧬁	hao4	[𧬁䜋]相欺	None	None
+⿰讠臯	None	=𧬁的类推简化字	None	𧬁
+䜒	ao4	语；告	None	None
+䜒	ao4	隐语	None	None
+𧬡	None	同=諈	None	諈
+𧬈	xi1	急言	None	None
+譒	bo4	同=播 传布	None	播
+譒	bo4	谣	None	None
+𧬢	None	同=諎	None	諎
+𧬦	None	同=諂	None	諂
+𧫾	jiu4	谄媚；奉承	None	None
+譈	dui4	同=憝 憎恶；怨恨	None	憝
 𧬤	None	录入中	None	None
 識	None	录入中	None	None
 𧬣	None	录入中	None	None
