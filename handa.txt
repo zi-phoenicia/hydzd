@@ -82467,51 +82467,94 @@
 𧩕	None	同=𧦣(佞)	None	𧦣
 𫍭	None	=𧩕的类推简化字	None	𧩕
 𧨺	None	同=識	None	識
-𧨯	None	录入中	None	None
-諩	None	录入中	None	None
-𫟠	None	录入中	None	None
-談	None	录入中	None	None
-谈	None	录入中	None	None
-誴	None	录入中	None	None
-諚	None	录入中	None	None
-誼	None	录入中	None	None
-谊	None	录入中	None	None
-谉	None	录入中	None	None
-𧩰	None	录入中	None	None
-䛪	None	录入中	None	None
-䛷	None	录入中	None	None
-𧩈	None	录入中	None	None
-𧨾	None	录入中	None	None
-𧨨	None	录入中	None	None
-𧨹	None	录入中	None	None
-䛯	None	录入中	None	None
-誳	None	录入中	None	None
-𫍮	None	录入中	None	None
-誸	None	录入中	None	None
-𧩖	None	录入中	None	None
-𧩦	None	录入中	None	None
-𧩘	None	录入中	None	None
-諁	None	录入中	None	None
-𧩶	None	录入中	None	None
-𧩻	None	录入中	None	None
-𧪖	None	录入中	None	None
-𧩥	None	录入中	None	None
-䜁	None	录入中	None	None
-謀	None	录入中	None	None
-谋	None	录入中	None	None
-諶	None	录入中	None	None
-谌	None	录入中	None	None
-諽	None	录入中	None	None
-𧪮	None	录入中	None	None
-諜	None	录入中	None	None
-谍	None	录入中	None	None
-謊	None	录入中	None	None
-谎	None	录入中	None	None
-諵	None	录入中	None	None
-𧩲	None	录入中	None	None
-諨	None	录入中	None	None
-𧩾	None	录入中	None	None
-諲	None	录入中	None	None
+𧨯	None	同=諜	None	諜
+諩	None	同=譜	None	譜
+𫟠	None	=譂的类推简化字	None	譂
+談	tan2	对话；谈论	None	None
+談	tan2	言论；主张	None	None
+談	tan2	恬淡；平淡	None	None
+談	tan2	戏谑；嘲弄	None	None
+談	tan2	称颂人之美德，使其名誉远扬	None	None
+談	tan2	姓	None	None
+谈	None	=談的简化字	None	談
+誴	cong2	[謀誴]快乐	None	None
+諚	pian2	@	None	None
+誼	yi4	同=義 1.正确的道理；合理的原则 2.意义 3.名义的；非亲生的	None	義
+誼	yi4	交情 如：友谊；戚谊；乡谊；世谊；深情厚谊	None	None
+誼	yi4	通=議 议论	None	議
+谊	None	=誼的简化字	None	誼
+谉	None	=讅的简化字	None	讅
+𧩰	bian4	佛经译音用字	None	None
+䛪	qiong2	多言	None	None
+䛪	qiong2	询问	None	None
+䛷	wan3	同=婉 顺从	None	婉
+䛷	wan3	慰	None	None
+𧩈	None	人名用字	None	None
+𧨾	shan2	言不实	None	None
+𧨨	None	同=謐	None	謐
+𧨹	lu4	开玩笑	None	None
+䛯	ju4	言有则	None	None
+誳	qu1	同=詘	None	詘
+誳	jue4	同=倔 倔强	None	倔
+𫍮	None	=誳的类推简化字	None	誳
+誸	xian2	急迫	None	None
+誸	xian2	坚正	None	None
+𧩖	None	同=謅	None	謅
+𧩦	ji2	说话迟钝吃力	None	None
+𧩘	None	同=詡	None	詡
+𬤄	None	=謲的类推简化字	None	謲
+諁	zhuo2	多言不止	None	None
+⿰讠叕	None	=諁的类推简化字	None	諁
+𧩶	qia4	[𧩶詬]善于花言巧语	None	None
+𧩻	None	同=諏	None	諏
+𧪖	None	同=誡	None	誡
+𧩥	None	同=詈	None	詈
+䜁	xi4	同=謑 辱骂	None	謑
+謀	mou2	考虑；谋划	None	None
+謀	mou2	计谋；策略 如：阴谋；足智多谋	None	None
+謀	mou2	咨询	None	None
+謀	mou2	商议 如：不谋而合；各不相谋	None	None
+謀	mou2	审察	None	None
+謀	mou2	图谋，营求 如：谋生；谋幸福	None	None
+謀	mou2	会合；接触	None	None
+謀	mou2	晦昧，不清楚	None	None
+謀	mou2	通=媒(mei2) 媒介；事物发生的诱因	None	媒
+謀	mou2	姓	None	None
+谋	None	=謀的简化字	None	謀
+諶	chen2	相信	None	None
+諶	chen2	真诚，忠诚	None	None
+諶	chen2	副词 相当于“诚然”、“确实”	None	None
+諶	chen2	姓	None	None
+諶	shen4	姓	None	None
+谌	None	=諶的简化字	None	諶
+⿰⿱甘言斤	None	同=𧬊	None	𧬊
+諽	ge2	整饬	None	None
+諽	ge2	谨严，谨慎	None	None
+諽	ge2	同=革 改变	None	革
+𧪮	yu2	同=謣 妄言	None	謣
+𧪮	hua2	同=譁 喧闹	None	譁
+𧪮	hua2	应声	None	None
+諜	die2	间谍，侦察	None	None
+諜	die2	刺探敌情	None	None
+諜	die2	传递情报	None	None
+諜	die2	谄媚奉承；过分恭谨的样子	None	None
+諜	die2	安宁	None	None
+諜	die2	简札	None	None
+諜	die2	用同=偞(ye4) 美好貌	None	偞
+諜	die2	通=牒 谱系；谱第	None	牒
+諜	xie4	言相次	None	None
+谍	None	=諜的简化字	None	諜
+謊	huang3	假话	None	None
+謊	huang3	哄骗	None	None
+謊	huang3	不踏实，虚假	None	None
+谎	None	=謊的简化字	None	謊
+諵	nan2	同=喃 1.语声 2.话声嘈杂	None	喃
+諵	nan4	[諵謏]怒言；私下责骂	None	None
+𧩲	la4	[䜎𧩲]语声杂乱	None	None
+諨	fu2	言备	None	None
+𧩾	None	同=監	None	監
+諲	yin1	敬	None	None
+𬤇	None	=諲的类推简化字	None	諲
 諫	None	录入中	None	None
 谏	None	录入中	None	None
 𧩭	None	录入中	None	None
