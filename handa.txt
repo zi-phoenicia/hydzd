@@ -83524,39 +83524,71 @@
 讖	chen4	迷信指将来要应验的预言、预兆	None	None
 讖	chan4	同=懺 忏悔	None	懺
 谶	None	=讖的简化字	None	讖
-讒	None	录入中	None	None
-讓	None	录入中	None	None
-𧮈	None	录入中	None	None
-𧮎	None	录入中	None	None
-讘	None	录入中	None	None
-讛	None	录入中	None	None
-𧮚	None	录入中	None	None
-𧮒	None	录入中	None	None
-𧮑	None	录入中	None	None
-𧮔	None	录入中	None	None
-讗	None	录入中	None	None
-𧮗	None	录入中	None	None
-𧮛	None	录入中	None	None
-𧮘	None	录入中	None	None
-𧮜	None	录入中	None	None
-讝	None	录入中	None	None
-讚	None	录入中	None	None
-𧮝	None	录入中	None	None
-讞	None	录入中	None	None
-𧮙	None	录入中	None	None
-讜	None	录入中	None	None
-𧮞	None	录入中	None	None
-𧮠	None	录入中	None	None
-𧮟	None	录入中	None	None
-𧮡	None	录入中	None	None
-𧮤	None	录入中	None	None
-𧮣	None	录入中	None	None
-𧮢	None	录入中	None	None
-𧮥	None	录入中	None	None
-𧮦	None	录入中	None	None
-讟	None	录入中	None	None
-𧮨	None	录入中	None	None
-𧮩	None	录入中	None	None
+讒	chan2	说别人的坏话	None	None
+讒	chan2	说坏话的人	None	None
+讒	chan2	谗言，陷害别人的坏话	None	None
+讓	rang4	责备	None	None
+讓	rang4	谦让；辞让	None	None
+讓	rang4	避让；退让	None	None
+讓	rang4	邀请	None	None
+讓	rang4	推辞，拒绝	None	None
+讓	rang4	把好处让予别人	None	None
+讓	rang4	推举；推崇	None	None
+讓	rang4	容忍；容许	None	None
+讓	rang4	不及；亚于	None	None
+讓	rang4	古代一种礼节仪式 举手平衡状	None	None
+讓	rang4	一种祭祀的名称，古指王侯祭山川	None	None
+讓	rang4	大便郁积不通而又泻水	None	None
+讓	rang4	以一定代价将东西的所有权转给他人如：出让；转让；让一部分机器给你们	None	None
+讓	rang4	介词 在被动式里引进主动者，相当于“被” 如：行李让雨给淋了；山让铲平；书让弄坏	None	None
+讓	rang4	通=攘(rang3) 窃取	None	攘
+𧮈	jian3	同=𧬯(謇) 口吃	None	𧬯
+𬤯	None	=𧮈的类推简化字	None	𧮈
+𧮎	None	同=謇	None	謇
+讘	nie4	多言	None	None
+讛	yi4	同=囈 说梦话	None	囈
+讛	yi4	屏处语	None	None
+𧮚	None	同=䜕	None	䜕
+𧮒	yi1	同=噫 叹词	None	噫
+𧮑	ta4	多言	None	None
+𧮔	None	同=𧭤	None	𧭤
+讗	xie2	言壮貌；自夸	None	None
+讗	xie2	数相怒	None	None
+讗	xie2	疾言貌	None	None
+𧮗	liu2	@	None	None
+𧮛	li2	同=謧 欺慢、戏弄之言	None	謧
+𧮘	None	同=諢	None	諢
+𧮜	None	同=讝	None	讝
+讝	zhan1	病中或梦中呓语	None	None
+讚	zan4	赞美；颂扬	None	None
+讚	zan4	辅助	None	None
+讚	zan4	明	None	None
+讚	zan4	解释	None	None
+讚	zan4	录	None	None
+讚	zan4	以颂扬人物为主的一种文体	None	None
+讚	zan4	佛经中佛教徒歌颂教主释迦牟尼以及其他一切佛陀的文辞	None	None
+𧮝	pin2	匹	None	None
+讞	yan4	审判定罪	None	None
+讞	yan4	请求上级审理疑难案件	None	None
+讞	yan4	评议，判明	None	None
+讞	yan4	案件	None	None
+讞	yan4	报告审判结果	None	None
+𧮙	zuo2	责骂	None	None
+讜	dang3	正直的（言论）	None	None
+讜	dang4	说话中理	None	None
+𧮞	xue4	妄言	None	None
+𧮠	None	同=訒	None	訒
+𧮟	None	同=善	None	善
+𧮡	dou4	同=讀(逗) 句中的停顿处	None	讀
+𧮤	lan3	@	None	None
+𧮣	None	同=誩	None	誩
+𧮢	None	同=讄	None	讄
+𧮥	None	同=喧	None	喧
+𧮦	None	同=譶	None	譶
+讟	du2	怨恨	None	None
+讟	du2	诽谤	None	None
+𧮨	None	同=讓	None	讓
+𧮩	None	同=讋	None	讋
 辛	xin1	罪	None	None
 辛	xin1	辣味	None	None
 辛	xin1	葱蒜等带刺激味的蔬菜	None	None
