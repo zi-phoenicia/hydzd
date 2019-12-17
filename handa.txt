@@ -82793,33 +82793,48 @@
 譁	hua2	人声嘈杂；喧闹 也作=嘩	None	嘩
 譁	wa2	变化	None	None
 𧬏	mu3	[𧬏𧫓]也作“鹵=莽” 说话粗率	None	莽
-謨	None	录入中	None	None
-谟	None	录入中	None	None
-謩	None	录入中	None	None
-謓	None	录入中	None	None
-謰	None	录入中	None	None
-𧫊	None	录入中	None	None
-謌	None	录入中	None	None
-𧫻	None	录入中	None	None
-䛿	None	录入中	None	None
-謜	None	录入中	None	None
-𧩼	None	录入中	None	None
-𧫌	None	录入中	None	None
-𧪤	None	录入中	None	None
-谠	None	录入中	None	None
-𧫤	None	录入中	None	None
-謈	None	录入中	None	None
-𧪦	None	录入中	None	None
-𧪯	None	录入中	None	None
-謖	None	录入中	None	None
-谡	None	录入中	None	None
-𧪪	None	录入中	None	None
-𧪚	None	录入中	None	None
-𧪟	None	录入中	None	None
-𧪙	None	录入中	None	None
-𧪢	None	录入中	None	None
-𧪝	None	录入中	None	None
-𧫍	None	录入中	None	None
+謨	mo2	计策；谋划	None	None
+謨	mo2	诈伪	None	None
+謨	mo2	用同=無(wu2)	None	無
+谟	None	=謨的簡化字	None	謨
+謩	None	同=謨	None	謨
+謓	chen1	同=嗔 怒	None	嗔
+謓	zhen4	冷笑	None	None
+謰	lian2	[謰謱]也作“謱謰” 言语繁杂	None	None
+𧫊	yu4	@	None	None
+謌	None	同=歌	None	歌
+𬤐	None	=謌的类推简化字	None	謌
+𧫻	None	[小臣𧫻𣪘]器名	None	None
+䛿	ge2	慧；狡猾	None	None
+䛿	ge2	语不相入	None	None
+謜	yuan2	和缓地说话	None	None
+謜	yuan2	度	None	None
+謜	quan2	言语和悦	None	None
+⿰讠原	None	=謜的类推简化字	None	謜
+𧩼	xi4	同=咥 笑	None	咥
+𧩼	zhi3	言	None	None
+𧫌	None	同=譾	None	譾
+𧪤	None	同=𧬯	None	𧬯
+谠	None	=讜的简化字	None	讜
+𧫤	bi4	敬	None	None
+𧫤	bi4	同=䟆 古代帝王出行时清道，禁止行人通行	None	䟆
+𧫤	bi4	同=畢 说话完毕	None	畢
+謈	po2	因痛而叫喊	None	None
+謈	po2	声	None	None
+謈	pao2	[阿謈]痛甚	None	None
+𧪦	ta4	[𧪦𧪞]也作“=𧮑𧪞” 1.多言 2.不实的话	None	𧮑
+𧪯	qian3	小息	None	None
+謖	su4	起	None	None
+謖	su4	整饬貌	None	None
+謖	su4	謏	None	None
+谡	None	=謖的简化字	None	謖
+𧪪	None	同=𠹃	None	𠹃
+𧪚	ai2	谨	None	None
+𧪟	None	同=誻	None	誻
+𧪙	None	同=𡽜	None	𡽜
+𧪢	xi4	语气	None	None
+𧪝	sheng4	促言	None	None
+𧫍	None	同=諻	None	諻
 謝	None	录入中	None	None
 谢	None	录入中	None	None
 𧪩	None	录入中	None	None
