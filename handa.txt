@@ -82998,34 +82998,68 @@
 𧫬	li2	骂	None	None
 𧫔	None	同=𧧺	None	𧧺
 𧫯	None	同=嗟	None	嗟
-𧫓	None	录入中	None	None
-譃	None	录入中	None	None
-謯	None	录入中	None	None
-𫍹	None	录入中	None	None
-謼	None	录入中	None	None
-謱	None	录入中	None	None
-謾	None	录入中	None	None
-谩	None	录入中	None	None
-𧫖	None	录入中	None	None
-䜅	None	录入中	None	None
-謻	None	录入中	None	None
-𧫸	None	录入中	None	None
-𧫟	None	录入中	None	None
-𧫝	None	录入中	None	None
-謥	None	录入中	None	None
-𧫧	None	录入中	None	None
-𧫹	None	录入中	None	None
-𧫘	None	录入中	None	None
-𧫕	None	录入中	None	None
-𧫽	None	录入中	None	None
-謶	None	录入中	None	None
-䜆	None	录入中	None	None
-𧫥	None	录入中	None	None
-𧫰	None	录入中	None	None
-䜇	None	录入中	None	None
-𧫨	None	录入中	None	None
-𧫺	None	录入中	None	None
-𧫱	None	录入中	None	None
+𧫓	lu3	[𧫓𧬏]也作“=鹵莽”、“𧬏𧫓” 1.言不定 2.苟且	None	鹵
+譃	xu1	同=𧪮(謣) 妄言	None	𧪮
+譃	xu1	同=虚 妄言	None	虚
+謯	jie1	[謯娽]1.古语，义未详	None	None
+謯	jie1	愚	None	None
+謯	jie1	咏	None	None
+謯	zha1	[謯娽]尖声	None	None
+謯	zha3	[謯訝]也作“=𧨊𧧝” 诃貌	None	𧨊
+謯	zu3	同=詛 诅咒；诅祝	None	詛
+𫍹	None	=謯的类推简化字	None	謯
+謼	hu1	大声叫号 也作=呼	None	呼
+謼	hu1	惊吓 也作=諕	None	諕
+謼	hu1	姓	None	None
+謼	xiao3	同=詨 呼唤	None	詨
+𬤙	None	=謼的类推简化字	None	謼
+謱	lou2	[謰謱]见“謰”	None	None
+謱	lou2	谨	None	None
+謱	lv3	[覼謱]也作“覼=縷” 委曲	None	縷
+謾	man2	欺骗	None	None
+謾	man2	诋毁	None	None
+謾	man2	慧；机智灵巧	None	None
+謾	man4	冗长，繁多	None	None
+謾	man4	通=慢 1.怠慢；傲慢 2.缓慢 3.猥亵	None	慢
+謾	man4	通=漫 1.枉自；突然 2.随意；胡乱	None	漫
+謾	man4	莫，不要	None	None
+谩	None	=謾的简化字	None	謾
+𧫖	None	同=讄	None	讄
+⿰言崖	None	同=崖(涯)	None	崖
+䜅	wei2	就；依就	None	None
+䜅	chui1	责；指斥	None	None
+謻	yi2	门名 1.冰室门 2.宫殿的侧门	None	None
+謻	yi2	台名 故址在今河南省洛阳市境内	None	None
+謻	chi2	同=誃 离开的；另外的	None	誃
+謻	chi2	同=簃 古代宫室相连叫簃	None	簃
+⿰讠移	None	=謻的类推简化字	None	謻
+𧫸	None	同=詖	None	詖
+⿰言⿱𠂹一	None	同=諈	None	諈
+𧫟	None	同=謑(䜁)	None	謑
+𧫝	sha3	言语强拗	None	None
+謥	None	同=𧩪	None	𧩪
+⿰讠悤	None	=謥的类推简化字	None	謥
+𧫧	an1	同=諳 熟悉	None	諳
+𧫧	an4	背诵	None	None
+𧫹	None	同=僊(仙)	None	僊
+𧫘	None	同=競	None	競
+𧫕	qie4	正言	None	None
+𧫕	qie4	小语	None	None
+𧫽	None	同=謶	None	謶
+謶	zhuo2	谪	None	None
+謶	zhuo2	欺	None	None
+謶	shu4	同=庶 希冀	None	庶
+謶	zhe1	[囉謶]也作“囉=嗻” 多言	None	嗻
+䜆	zhe2	言疾	None	None
+䜆	nie4	同=讘 多言	None	讘
+䜆	mo4	以大对小之言	None	None
+𧫥	an1	[𧫥阿]语不决	None	None
+𧫰	None	同=誱	None	誱
+䜇	gun3	语不明	None	None
+䜇	gun4	同=謴 玩弄人	None	謴
+𧫨	None	同=謙	None	謙
+𧫺	None	=謚的讹字	None	謚
+𧫱	None	@	None	None
 𧫙	None	录入中	None	None
 謫	None	录入中	None	None
 谪	None	录入中	None	None
