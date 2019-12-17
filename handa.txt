@@ -82555,34 +82555,84 @@
 𧩾	None	同=監	None	監
 諲	yin1	敬	None	None
 𬤇	None	=諲的类推简化字	None	諲
-諫	None	录入中	None	None
-谏	None	录入中	None	None
-𧩭	None	录入中	None	None
-諴	None	录入中	None	None
-𫍯	None	录入中	None	None
-𧩬	None	录入中	None	None
-𥕔	None	录入中	None	None
-𧩤	None	录入中	None	None
-𧪇	None	录入中	None	None
-𧩫	None	录入中	None	None
-諧	None	录入中	None	None
-谐	None	录入中	None	None
-𧩢	None	录入中	None	None
-謔	None	录入中	None	None
-谑	None	录入中	None	None
-諟	None	录入中	None	None
-諹	None	录入中	None	None
-諿	None	录入中	None	None
-𧪓	None	录入中	None	None
-謁	None	录入中	None	None
-谒	None	录入中	None	None
-謂	None	录入中	None	None
-谓	None	录入中	None	None
-䛺	None	录入中	None	None
-諰	None	录入中	None	None
-𫍰	None	录入中	None	None
-諤	None	录入中	None	None
-谔	None	录入中	None	None
+諫	jian4	直言规劝	None	None
+諫	jian4	规劝天子改正过失之官	None	None
+諫	jian4	纠正；挽回	None	None
+諫	jian4	谋虑	None	None
+諫	jian4	通=間 挑拨，离间	None	間
+諫	jian4	姓	None	None
+諫	lan2	同=讕 诬妄	None	讕
+谏	None	=諫的简化字	None	諫
+𧩭	None	同=䜏	None	䜏
+諴	xian2	和；和洽	None	None
+諴	xian2	诚；诚意	None	None
+諴	xian2	调戏	None	None
+諴	gan1	嗤	None	None
+𫍯	None	=諴的类推简化字	None	諴
+𧩬	yin2	顽	None	None
+𥕔	None	同=䃫	None	䃫
+𧩤	None	同=詯	None	詯
+𧪇	ji4	同=劑 刀	None	劑
+𧩫	zha1	[𧩫詉]同“=譇詉” 羞穷	None	譇
+𧩫	cha4	同=詫	None	詫
+諧	xie2	和谐；协调	None	None
+諧	xie2	成，办成功	None	None
+諧	xie2	商定；评议	None	None
+諧	xie2	诙谐，滑稽 如：谐剧	None	None
+諧	xie2	配偶	None	None
+諧	xie2	对照	None	None
+諧	xie2	辨别	None	None
+谐	None	=諧的简化字	None	諧
+𧩢	None	同=訾	None	訾
+謔	xue4	开玩笑；嘲弄	None	None
+謔	xue4	喜乐	None	None
+谑	None	=謔的简化字	None	謔
+諟	shi4	是；正	None	None
+諟	di4	同=諦 审谛	None	諦
+𬤊	None	=諟的类推简化字	None	諟
+諹	yang2	名誉；赞扬	None	None
+諹	yang2	喧哗	None	None
+諹	yang2	谨慎	None	None
+諿	qi1	和谐	None	None
+諿	qi1	辩	None	None
+諿	xu3	智谋	None	None
+𧪓	None	同=偶	None	偶
+謁	ye4	禀告，陈述 一般用于卑幼对尊长	None	None
+謁	ye4	告发；检举	None	None
+謁	ye4	请求	None	None
+謁	ye4	进见；拜见	None	None
+謁	ye4	名帖	None	None
+謁	ye4	古代官名 掌管引进拜见者 通称“典謁”、“謁者”，也简称“謁”	None	None
+謁	ye4	姓	None	None
+謁	ai3	同=靄	None	靄
+谒	None	=謁的简化字	None	謁
+謂	wei4	评论	None	None
+謂	wei4	告诉	None	None
+謂	wei4	说	None	None
+謂	wei4	令，使	None	None
+謂	wei4	叫做；称呼	None	None
+謂	wei4	认为；以为	None	None
+謂	wei4	意义；意思	None	None
+謂	wei4	援助；尽心竭力	None	None
+謂	wei4	道	None	None
+謂	wei4	信	None	None
+謂	wei4	用同“如”、“奈”	None	None
+謂	wei4	通=為(wei4) 介词 1.表示原因，相当于“因为” 2.介引动作、行为所涉及的对象，相当于“与”、“对”	None	為
+謂	wei4	通=為(wei2) 1.相当于“是” 2.介词 构成“为……所……”的格式，表被动	None	為
+謂	wei4	姓	None	None
+谓	None	=謂的简化字	None	謂
+𬤉	None	=䜋的类推简化字	None	䜋
+䛺	None	同=誡	None	誡
+諰	xi3	言且思	None	None
+諰	xi3	恐惧	None	None
+諰	xi3	直言	None	None
+諰	xi3	语	None	None
+諰	xi3	同=葸	None	葸
+諰	shai1	语失	None	None
+諰	ai2	呼人之称	None	None
+𫍰	None	=諰的类推简化字	None	諰
+諤	e4	[諤諤]1.正直貌；直言争辩貌 2.正直的话	None	None
+谔	None	=諤的简化字	None	諤
 諯	None	录入中	None	None
 𧪔	None	录入中	None	None
 䛽	None	录入中	None	None
