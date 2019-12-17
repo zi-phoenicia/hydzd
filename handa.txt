@@ -82835,22 +82835,50 @@
 𧪢	xi4	语气	None	None
 𧪝	sheng4	促言	None	None
 𧫍	None	同=諻	None	諻
-謝	None	录入中	None	None
-谢	None	录入中	None	None
-𧪩	None	录入中	None	None
-𧪛	None	录入中	None	None
-𧪫	None	录入中	None	None
-𧪳	None	录入中	None	None
-𧪥	None	录入中	None	None
-謕	None	录入中	None	None
-謡	None	录入中	None	None
-谣	None	录入中	None	None
-謟	None	录入中	None	None
-謑	None	录入中	None	None
-謒	None	录入中	None	None
-𧪱	None	录入中	None	None
-𧪴	None	录入中	None	None
-謋	None	录入中	None	None
+謝	xie4	辞去官职	None	None
+謝	xie4	拒绝 如：谢绝；杜门谢客	None	None
+謝	xie4	辞别；离开	None	None
+謝	xie4	除去	None	None
+謝	xie4	消逝；凋落	None	None
+謝	xie4	告诉	None	None
+謝	xie4	问；问候	None	None
+謝	xie4	感谢 如：谢恩；谢天谢地	None	None
+謝	xie4	酬谢；酬偿	None	None
+謝	xie4	报答	None	None
+謝	xie4	道歉；认错	None	None
+謝	xie4	惭愧	None	None
+謝	xie4	代，更替 如：新陈代谢	None	None
+謝	xie4	逊色；逊让	None	None
+謝	xie4	龟的一种，行而头仰	None	None
+謝	xie4	通=榭 平顶而无四壁的建筑	None	榭
+謝	xie4	古邑名 在今河南省唐河县南	None	None
+謝	xie4	姓	None	None
+谢	None	=謝的简化字	None	謝
+𧪩	None	同=息	None	息
+𧪛	None	同=䛩	None	䛩
+𧪫	pi1	呵斥声	None	None
+𧪳	None	同=諰	None	諰
+𧪥	None	=謕的讹字	None	謕
+謕	ti2	语相诱	None	None
+謕	ti2	同=啼	None	啼
+謕	si1	谅	None	None
+謕	si1	数谏	None	None
+謡	yao2	不用乐器伴奏的歌唱	None	None
+謡	yao2	民间流行的歌谣 如：童谣；民谣	None	None
+謡	yao2	没有根据的传闻；凭空捏造的话	None	None
+谣	None	=謡的简化字	None	謡
+謟	tao1	可疑	None	None
+謟	tao1	超越本分	None	None
+謟	tao1	隐瞒	None	None
+⿰讠舀	None	=謟的类推简化字	None	謟
+謑	xi3	[謑詬]也作“謑訽” 耻辱；诟骂	None	None
+謑	xia4	怒言	None	None
+謑	xi2	[謑髁]不正貌	None	None
+⿰讠奚	None	=謑的类推简化字	None	謑
+謒	qiang1	语轻	None	None
+𧪱	None	同=詢	None	詢
+𧪴	None	同=誑	None	誑
+謋	huo4	迅速分裂的声音	None	None
 𧪭	None	录入中	None	None
 謅	None	录入中	None	None
 謞	None	录入中	None	None
