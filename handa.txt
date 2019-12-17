@@ -83206,36 +83206,88 @@
 𧬦	None	同=諂	None	諂
 𧫾	jiu4	谄媚；奉承	None	None
 譈	dui4	同=憝 憎恶；怨恨	None	憝
-𧬤	None	录入中	None	None
-識	None	录入中	None	None
-𧬣	None	录入中	None	None
-𧬍	None	录入中	None	None
-谰	None	录入中	None	None
-𧬆	None	录入中	None	None
-譜	None	录入中	None	None
-谱	None	录入中	None	None
-譐	None	录入中	None	None
-譢	None	录入中	None	None
-譄	None	录入中	None	None
-䜎	None	录入中	None	None
-𧬪	None	录入中	None	None
-𧫿	None	录入中	None	None
-䜄	None	录入中	None	None
-譔	None	录入中	None	None
-𧬂	None	录入中	None	None
-證	None	录入中	None	None
-𧬋	None	录入中	None	None
-譎	None	录入中	None	None
-谲	None	录入中	None	None
-𧬀	None	录入中	None	None
-譏	None	录入中	None	None
-𧬩	None	录入中	None	None
-護	None	录入中	None	None
-𧭊	None	录入中	None	None
-谳	None	录入中	None	None
-𧬭	None	录入中	None	None
-䜖	None	录入中	None	None
-䜗	None	录入中	None	None
+𬤣	None	=譈的类推简化字	None	譈
+𧬤	zhong4	人名用字	None	None
+識	zhi4	旗帜 后作=幟	None	幟
+識	zhi4	加上标记 后作=誌	None	誌
+識	zhi4	记住	None	None
+識	zhi4	记述；记载	None	None
+識	zhi4	古代钟鼎上凸出的文字	None	None
+識	zhi4	草名 一种茄科植物 也作=蘵	None	蘵
+識	zhi4	通=職(zhi2) 主管	None	職
+識	shi2	知道	None	None
+識	shi2	认识	None	None
+識	shi2	相知的朋友	None	None
+識	shi2	知识；见解	None	None
+識	shi2	思想或意识	None	None
+識	shi2	佛教用语 思维、认识、判断等精神活动的主体	None	None
+識	shi2	通=適(shi4) 副词 刚才，刚刚	None	適
+識	shi2	姓	None	None
+𧬣	None	同=識	None	識
+𧬍	None	同=謫	None	謫
+谰	None	=讕的简化字	None	讕
+𧬆	zhan4	格人言	None	None
+譜	pu3	按事物的类别或系统编成的书籍 1.分类编列以记人物、世系及家族的书籍 2.供人研习观摩而汇列成的籍录	None	None
+譜	pu3	乐曲以符号表示声音节拍之高低长短曰谱 如：简谱；五线谱；工尺谱	None	None
+譜	pu3	编写谱表	None	None
+譜	pu3	作曲 如：谱曲	None	None
+譜	pu3	大致的标准或打算	None	None
+譜	pu3	犹言“左右”，表示概数	None	None
+谱	None	=譜的简化字	None	譜
+譐	None	同=噂	None	噂
+𬤢	None	=譐的类推简化字	None	譐
+譢	None	同=誶	None	誶
+譄	zeng1	言辞夸大	None	None
+譄	zeng1	同=增	None	增
+䜎	lao2	声	None	None
+䜎	lao4	声多	None	None
+𧬪	gun4	摩人	None	None
+𧬪	gun4	同=謴 玩人	None	謴
+𧫿	tan3	[𧫿䜗]言不定	None	None
+䜄	None	同=謘	None	謘
+⿰讠犀	None	=䜄的类推简化字	None	䜄
+譔	zhuan4	专心教导	None	None
+譔	zhuan4	殊	None	None
+譔	zhuan4	具备	None	None
+譔	zhuan4	造；为	None	None
+譔	zhuan4	同=撰 记述；著录	None	撰
+譔	quan2	善言	None	None
+𧬂	he4	表示应诺	None	None
+證	zheng4	告发	None	None
+證	zheng4	验证	None	None
+證	zheng4	凭据，证据	None	None
+證	zheng4	善美，行为不倾邪	None	None
+證	zheng4	谏诤	None	None
+證	zheng4	佛教用语 指修行得道	None	None
+證	zheng4	病症 后作=症	None	症
+𧬋	fa1	出言	None	None
+譎	jue2	欺诳；诡诈	None	None
+譎	jue2	权变	None	None
+譎	jue2	奇异；变化	None	None
+譎	jue2	乖违，差异	None	None
+譎	jue2	隐约其辞而不直言	None	None
+譎	jue2	日旁无色气在两边外向	None	None
+譎	jue2	通=决 决断	None	决
+谲	None	=譎的简化字	None	譎
+𧬀	None	同=讄	None	讄
+譏	ji1	讥刺；谴责	None	None
+譏	ji1	进谏；规劝	None	None
+譏	ji1	稽查；盘问	None	None
+𧬩	za2	声音	None	None
+護	hu4	监视；监督	None	None
+護	hu4	救护；保护 如：护航；护身符	None	None
+護	hu4	遮蔽；掩藏	None	None
+護	hu4	袒护；包庇	None	None
+護	hu4	总领；统率	None	None
+護	hu4	侵占	None	None
+護	hu4	辩	None	None
+護	hu4	古乐曲名	None	None
+𧭊	meng2	言不明 也作=𡁏	None	𡁏
+谳	None	=讞的简化字	None	讞
+𧬭	None	同=諣	None	諣
+䜖	None	同=譚	None	譚
+䜗	xin4	[䜗𧥸]怒言	None	None
+䜗	han4	[𧫿䜗]见“𧫿”	None	None
 𧭌	None	录入中	None	None
 𧬨	None	录入中	None	None
 𧬬	None	录入中	None	None
