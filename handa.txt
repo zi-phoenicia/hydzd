@@ -82879,57 +82879,125 @@
 𧪱	None	同=詢	None	詢
 𧪴	None	同=誑	None	誑
 謋	huo4	迅速分裂的声音	None	None
-𧪭	None	录入中	None	None
-謅	None	录入中	None	None
-謞	None	录入中	None	None
-𧪠	None	录入中	None	None
-謧	None	录入中	None	None
-謗	None	录入中	None	None
-谤	None	录入中	None	None
-謚	None	录入中	None	None
-谥	None	录入中	None	None
-謙	None	录入中	None	None
-谦	None	录入中	None	None
-𧪜	None	录入中	None	None
-𧫋	None	录入中	None	None
-謍	None	录入中	None	None
-𧪶	None	录入中	None	None
-謇	None	录入中	None	None
-𧪹	None	录入中	None	None
-謆	None	录入中	None	None
-𫍸	None	录入中	None	None
-謐	None	录入中	None	None
-谧	None	录入中	None	None
-謘	None	录入中	None	None
-𧪣	None	录入中	None	None
-䜀	None	录入中	None	None
-𧫐	None	录入中	None	None
-𧪧	None	录入中	None	None
-𧬰	None	录入中	None	None
-謮	None	录入中	None	None
-謺	None	录入中	None	None
-謦	None	录入中	None	None
-𧫠	None	录入中	None	None
-謹	None	录入中	None	None
-谨	None	录入中	None	None
-𧫩	None	录入中	None	None
-𧬝	None	录入中	None	None
-䜉	None	录入中	None	None
-𣞇	None	录入中	None	None
-䜊	None	录入中	None	None
-𧫣	None	录入中	None	None
-𧫷	None	录入中	None	None
-謳	None	录入中	None	None
-謤	None	录入中	None	None
-𧫦	None	录入中	None	None
-𧫚	None	录入中	None	None
-譇	None	录入中	None	None
-𧫭	None	录入中	None	None
-𧫗	None	录入中	None	None
-謣	None	录入中	None	None
-𧫬	None	录入中	None	None
-𧫔	None	录入中	None	None
-𧫯	None	录入中	None	None
+⿰讠桀	None	=謋的类推简化字	None	謋
+𧪭	None	同=𥛅	None	𥛅
+謅	chou1	[謅䜉]私语	None	None
+謅	chao3	弄人言	None	None
+謅	chao3	争吵 也作=訬	None	訬
+謅	chao3	相扰	None	None
+謅	zhou4	编造（言辞） 如：瞎诌；胡诌乱言	None	None
+謅	zhou4	小言私授	None	None
+謞	he4	[謞謞]同“=熇熇” 盛烈貌	None	熇
+謞	he4	馋慝	None	None
+謞	xiao4	同=詨 叫呼	None	詨
+⿰讠高	None	=謞的类推简化字	None	謞
+𧪠	ji2	苦	None	None
+𧪠	ji2	毒	None	None
+𧪠	ji2	语急	None	None
+𧪠	ji2	同=愱(嫉) 嫉妒	None	愱
+謧	li2	[謧詍]多言	None	None
+謧	li2	欺慢、戏弄之言	None	None
+謗	bang4	毁谤	None	None
+謗	bang4	指责别人的过失、罪恶	None	None
+謗	bang4	诅咒；怨恨	None	None
+谤	None	=謗的简化字	None	謗
+謚	shi4	古代帝王、贵族、大臣等死后依其一生所行事迹给予的称号	None	None
+謚	shi4	加给谥号，定谥号	None	None
+謚	shi4	称，号	None	None
+謚	shi4	静	None	None
+謚	yi4	笑貌	None	None
+謚	xi4	笑声	None	None
+谥	None	=謚的简化字	None	謚
+謙	qian1	谦虚；谦让	None	None
+謙	qian1	丧失；虚空	None	None
+謙	qian1	六十四卦之一 卦形为x，艮下坤上	None	None
+謙	qian1	通=嫌(xian2) 嫌疑	None	嫌
+謙	qian1	通=兼(jian1) 同时涉及	None	兼
+謙	qian1	通=慊(qie4) 满足	None	慊
+謙	qian1	姓	None	None
+謙	zhan4	同=詀 被诳	None	詀
+谦	None	=謙的简化字	None	謙
+𧪜	None	同=訴	None	訴
+𧫋	None	同=𧪜(訴)	None	𧪜
+謍	ying2	小声	None	None
+謍	ying2	往来貌	None	None
+謍	ying1	同=𧮆 怒	None	𧮆
+謍	hong1	大声	None	None
+𧪶	None	同=誖	None	誖
+謇	jian3	口吃	None	None
+謇	jian3	（文辞）艰涩	None	None
+謇	jian3	正直；忠诚	None	None
+謇	jian3	骄傲	None	None
+謇	jian3	助词 多用于句首，无实义	None	None
+謇	jian3	姓	None	None
+𧪹	xia4	欺骗；迷惑	None	None
+謆	shan4	以言惑人，煽动	None	None
+𫍸	None	=謆的类推简化字	None	謆
+謐	mi4	安宁；寂静	None	None
+謐	mi4	慎	None	None
+谧	None	=謐的简化字	None	謐
+謘	chi2	说话迟钝 也作=䜄	None	䜄
+𧪣	zheng1	[𧪣仍]语烦	None	None
+䜀	None	同=𧩣	None	𧩣
+𧫐	None	同=諝	None	諝
+𧪧	None	[𧪧譳]同“=䛠譳”	None	䛠
+𧬰	xiang4	非美言	None	None
+𧬰	xiang4	答应	None	None
+𧬰	xiang4	同=曏	None	曏
+𧬰	xiang3	同=響 声响	None	響
+謮	ze2	同=嘖 大呼	None	嘖
+謮	ze2	怒	None	None
+謮	ze2	同=責 责让	None	責
+謺	zhe2	[謺讘]多言	None	None
+謺	zhe2	拾，拾人语	None	None
+謦	qing3	[謦欬]1.咳嗽 2.谈笑	None	None
+𧫠	ji1	同=諆	None	諆
+謹	jin3	慎重；小心 如：谨小慎微；奉命唯谨	None	None
+謹	jin3	严禁；严守	None	None
+謹	jin3	恭敬	None	None
+謹	jin3	仪节；礼节	None	None
+謹	jin3	善良	None	None
+謹	jin3	絜	None	None
+謹	jin3	通=堇(qin2) 黏土	None	堇
+謹	jin3	姓	None	None
+谨	None	=謹的简化字	None	謹
+𧫩	None	同=謾	None	謾
+𧬝	None	同=𧬧	None	𧬧
+䜉	chi4	[謅䜉]见“謅”	None	None
+䜉	chi4	同=誺 相问而不知的答辞	None	誺
+𣞇	dun4	[㯎𣞇]愚痴	None	None
+䜊	zao1	[䛌䜊]见“䛌”	None	None
+䜊	zao4	同=嘈 （声音）嘈杂	None	嘈
+𧫣	None	=𧫷的讹字	None	𧫷
+𧫷	None	同=速	None	速
+謳	ou1	齐声歌唱	None	None
+謳	ou1	歌唱，无乐器伴奏的歌唱	None	None
+謳	ou1	歌曲；民歌	None	None
+謳	ou1	赞颂	None	None
+謳	ou1	歌者	None	None
+謳	ou1	喜	None	None
+謳	ou1	姓	None	None
+謳	xu1	煦	None	None
+謤	biao1	言有所止	None	None
+謤	piao1	言轻	None	None
+𧫦	yi1	应声	None	None
+𧫦	yi1	是	None	None
+𧫦	yi1	发声	None	None
+𧫦	yi1	同=繄	None	繄
+𧫚	None	同=諦	None	諦
+譇	zha1	[譇拏]也作“譇詉” 言不可解	None	None
+譇	zha1	怒	None	None
+譇	zha1	语竞	None	None
+譇	zha1	诈謣	None	None
+⿰讠奢	None	=譇的类推简化字	None	譇
+𧫭	None	同=譜	None	譜
+𧫗	cha4	异言	None	None
+謣	yu2	虚夸	None	None
+謣	xu1	[謣輿]也作“輿謣” 劳动号子	None	None
+⿰讠雩	None	=謣的类推简化字	None	謣
+𧫬	li2	骂	None	None
+𧫔	None	同=𧧺	None	𧧺
+𧫯	None	同=嗟	None	嗟
 𧫓	None	录入中	None	None
 譃	None	录入中	None	None
 謯	None	录入中	None	None
