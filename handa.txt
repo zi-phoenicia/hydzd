@@ -86499,37 +86499,116 @@
 阦	None	同=陽	None	陽
 阧	dou3	同=陡 陡峻	None	陡
 阧	dou3	水闸之类的设施	None	None
-䦼	None	录入中	None	None
-阭	None	录入中	None	None
-䦽	None	录入中	None	None
-际	None	录入中	None	None
-陆	None	录入中	None	None
-阷	None	录入中	None	None
-𨸪	None	录入中	None	None
-阹	None	录入中	None	None
-阿	None	录入中	None	None
-𨸭	None	录入中	None	None
-陃	None	录入中	None	None
-𨸿	None	录入中	None	None
-𨸹	None	录入中	None	None
-陇	None	录入中	None	None
-𨸶	None	录入中	None	None
-陈	None	录入中	None	None
-𨸽	None	录入中	None	None
-阽	None	录入中	None	None
-阻	None	录入中	None	None
-𨸬	None	录入中	None	None
-𨸺	None	录入中	None	None
-䧃	None	录入中	None	None
-𨸱	None	录入中	None	None
-阼	None	录入中	None	None
-陁	None	录入中	None	None
-附	None	录入中	None	None
-𨸷	None	录入中	None	None
-𨸯	None	录入中	None	None
-𨸮	None	录入中	None	None
-阾	None	录入中	None	None
-阺	None	录入中	None	None
+⿰阜夬	None	同=䦼	None	䦼
+䦼	jue2	开凿山陵通道	None	None
+䦼	jue2	崩缺	None	None
+䦼	pi4	地裂	None	None
+阭	yun3	高	None	None
+阭	yun3	石	None	None
+阭	yan3	地名	None	None
+䦽	xu4	同=序 东西墙	None	序
+际	None	=際的简化字	None	際
+陆	None	=陸的简化字	None	陸
+阷	cheng1	丘名	None	None
+阷	cheng1	吞	None	None
+𨸪	None	@	None	None
+阹	qu1	依山谷作栏圈	None	None
+阿	e1	大土山	None	None
+阿	e1	山阜弯曲处	None	None
+阿	e1	弯曲处	None	None
+阿	e1	水边	None	None
+阿	e1	偏斜	None	None
+阿	e1	曲从；阿谀；迎合	None	None
+阿	e1	徇私；偏袒	None	None
+阿	e1	倚靠	None	None
+阿	e1	邸	None	None
+阿	e1	房屋的正梁	None	None
+阿	e1	屋宇	None	None
+阿	e1	亲附；近	None	None
+阿	e1	细缯，古代一种轻细的丝织品	None	None
+阿	e1	象声词 慢应或吆喝的声音	None	None
+阿	e1	代词 相当于“我”	None	None
+阿	e1	地名 即今山东省东阿县	None	None
+阿	e1	姓	None	None
+阿	e3	[阿儺]也作“=猗儺” 柔美 也单用作“阿”	None	猗
+阿	a1	助词 名词词头，多用于姓名称谓之前	None	None
+阿	a1	语气词 表示疑问、肯定、呼召、乞请等语气，后作=啊	None	啊
+阿	a3	叹词	None	None
+阿	a4	方言 副词 用在问句里，加强语气，相当于普通话的=可 如：阿好？阿去？即“可好”、“=-去”，相当于好不好？去不去？	None	可
+阿	a5	同=啊 助词 用在句末表示赞叹、肯定、斥责、催促等语气	None	啊
+𨸭	po1	[𨸭陀]也作“𨸭陁”、“=陂陁” 不平	None	陂
+陃	bing3	人名	None	None
+𨸿	None	同=岯	None	岯
+𨸹	None	同=岯	None	岯
+陇	None	=隴的简化字	None	隴
+𨸶	None	同=陣	None	陣
+陈	None	=陳的简化字	None	陳
+𨸽	None	[𨸽貯𣪘]器名	None	None
+阽	dian4	壁危	None	None
+阽	dian4	危险	None	None
+阽	dian4	临近（危险）	None	None
+阽	dian4	病危	None	None
+阽	dian4	同=墊 下陷	None	墊
+阻	zu3	险要；险要地带	None	None
+阻	zu3	地势不平正	None	None
+阻	zu3	阻碍；障隔	None	None
+阻	zu3	离别	None	None
+阻	zu3	阻止；阻拦	None	None
+阻	zu3	推却；拒绝 如：推三阻四	None	None
+阻	zu3	艰难；忧患	None	None
+阻	zu3	疑惑	None	None
+阻	zu3	仗恃	None	None
+阻	zu3	依靠；靠近	None	None
+阻	zu3	沮丧 也作=沮	None	沮
+阻	zhu4	马阻蹄	None	None
+阻	zhu4	行不正 一说马蹄痛病 也作=跙	None	跙
+𨸬	None	同=陳	None	陳
+𨸺	ya1	@	None	None
+䧃	tian2	地名	None	None
+𨸱	tian4	古亭名	None	None
+𨸱	nian3	古亭名	None	None
+⿰阜乍	None	同=阼	None	阼
+阼	zuo4	古时称大堂前东面主人迎接宾客的台阶	None	None
+阼	zuo4	帝位 也作=祚	None	祚
+阼	zuo4	国运 也作=祚	None	祚
+阼	zuo4	通=胙 祭肉	None	胙
+陁	zhi4	同=阤	None	阤
+陁	yi3	[陁靡]同“=阤靡” 绵延的样子 也单用作“陁”	None	阤
+陁	tuo2	[陂陁]同“陂=陀” 见“陂”	None	陀
+陁	tuo2	背负 也作=馱	None	馱
+附	pou2	[附婁]也作“=部婁” 小土山	None	部
+附	fu4	依傍；依附	None	None
+附	fu4	依从 如：附和；附议	None	None
+附	fu4	搭乘（船）	None	None
+附	fu4	附会	None	None
+附	fu4	附着	None	None
+附	fu4	归附	None	None
+附	fu4	亲近	None	None
+附	fu4	附和	None	None
+附	fu4	增益	None	None
+附	fu4	靠近	None	None
+附	fu4	附带；从属 如：附设；附业；附属	None	None
+附	fu4	寄	None	None
+附	fu4	树木外表的粗皮	None	None
+附	fu4	中草药“附子”的简称	None	None
+附	fu4	蛰伏	None	None
+附	fu4	用同=負 背弃；违背	None	負
+附	fu4	通=付 付与；交给	None	付
+附	fu4	通=祔 祔祭，合葬	None	祔
+附	fu4	通=拊(fu3) 抚，拍	None	拊
+附	fu4	通=搏(bo2) 搏斗	None	搏
+附	fu4	姓	None	None
+附	fu1	同=孚 孵化	None	孚
+𨸷	None	同=阸	None	阸
+𨸯	gu1	地名	None	None
+𨸮	yan2	地名	None	None
+𨸮	yun3	同=阭 高	None	阭
+阾	ling3	同=嶺	None	嶺
+阾	ling2	[顛阾]阪名	None	None
+阾	ling2	同=鄰 住处接近的人家	None	鄰
+阺	di3	土山坡	None	None
+阺	di3	理	None	None
+阺	di3	下	None	None
 䧁	None	录入中	None	None
 𨸻	None	录入中	None	None
 𨸲	None	录入中	None	None
