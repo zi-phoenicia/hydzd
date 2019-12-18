@@ -86919,30 +86919,45 @@
 陳	zhen4	军队行列 后作=陣	None	陣
 陳	zhen4	阵法，部队作战时的战斗队形 后作=陣	None	陣
 䧕	None	同=域	None	域
-𨺀	None	录入中	None	None
-陭	None	录入中	None	None
-𨺈	None	录入中	None	None
-𨺕	None	录入中	None	None
-𨺖	None	录入中	None	None
-𨺞	None	录入中	None	None
-𨹷	None	录入中	None	None
-䧖	None	录入中	None	None
-𨹼	None	录入中	None	None
-陫	None	录入中	None	None
-𨺗	None	录入中	None	None
-𨺆	None	录入中	None	None
-𨺁	None	录入中	None	None
-𨹻	None	录入中	None	None
-𨹽	None	录入中	None	None
-陲	None	录入中	None	None
-陹	None	录入中	None	None
-𨺫	None	录入中	None	None
-𨺺	None	录入中	None	None
-𨺙	None	录入中	None	None
-陮	None	录入中	None	None
-陴	None	录入中	None	None
-𨹺	None	录入中	None	None
-陯	None	录入中	None	None
+⿰阝⿱辰一	None	同=陙	None	陙
+⿰阝郁	yu4	@	None	None
+𨺀	None	同=砰	None	砰
+陭	yi1	[陭氏阪]古阪名 在今山西省安泽县	None	None
+陭	yi1	不正	None	None
+陭	yi3	=椅子	None	椅
+𨺈	None	同=陓	None	陓
+𨺕	None	同=陓	None	陓
+𨺖	tuo3	毁	None	None
+𨺞	None	同=陿	None	陿
+𨹷	None	同=躋	None	躋
+䧖	jian4	小土山	None	None
+𨹼	None	同=陛	None	陛
+陫	fei4	同=厞 隐蔽；狭隘	None	厞
+陫	pei2	山名	None	None
+陫	pei2	地名	None	None
+𨺗	None	同=陡	None	陡
+𨺆	None	同=𨻳	None	𨻳
+𨺁	None	同=隅	None	隅
+𮥍	kun1	@	None	None
+𨹻	tian3	[𨹻華]药草名	None	None
+𨹽	None	同=岡	None	岡
+陲	chui2	危	None	None
+陲	chui2	边疆	None	None
+陲	chui2	边缘	None	None
+陲	chui2	流传 也作=垂	None	垂
+陹	sheng1	同=昇 1.日升 2.古州名	None	昇
+𨺫	qian3	[𨺫商]小块	None	None
+𨺺	None	同=𨺫	None	𨺫
+𨺙	ni4	[埤𨺙]同“俾=倪” 城上锯齿状的矮墙，有孔可外窥	None	倪
+⿰阜隹	None	同=陮	None	陮
+陮	dui4	[陮隗]1.高 2.不平	None	None
+陴	pi2	俾倪，城墙上的女墙	None	None
+陴	pi2	城墙	None	None
+陴	pi2	守城	None	None
+陴	pi2	山崖	None	None
+陴	bi4	同=禆	None	禆
+⿰阜阜	None	同=𨹺(𨺅)	None	𨹺
+𨹺	None	同=𨺅	None	𨺅
 𨺄	None	录入中	None	None
 陰	None	录入中	None	None
 䧔	None	录入中	None	None
