@@ -87092,25 +87092,82 @@
 階	jie1	地质学名词 不同的生物地理区有不同的期名 在期的时间内形成的地层叫“阶” 如：我国上寒武统的凤山阶等	None	None
 階	jie1	古州名 唐景福元年（892年）改武州置，治皋兰镇（今甘肃省武都县东）	None	None
 𨺟	zheng1	丘名	None	None
-隄	None	录入中	None	None
-陽	None	录入中	None	None
-隅	None	录入中	None	None
-𨺷	None	录入中	None	None
-𨺸	None	录入中	None	None
-隈	None	录入中	None	None
-𨺬	None	录入中	None	None
-𨺯	None	录入中	None	None
-𨺨	None	录入中	None	None
-䧙	None	录入中	None	None
-𨺪	None	录入中	None	None
-𨺭	None	录入中	None	None
-𨺹	None	录入中	None	None
-隀	None	录入中	None	None
-䧗	None	录入中	None	None
-𨺣	None	录入中	None	None
-隉	None	录入中	None	None
-隍	None	录入中	None	None
-隗	None	录入中	None	None
+⿰阝昰	None	同=隄	None	隄
+隄	di1	同=堤 沿江河湖海用土石等修成的挡水建筑物	None	堤
+隄	di1	筑堤	None	None
+隄	di1	防范；防止	None	None
+隄	di1	桥梁 一说隄堰	None	None
+隄	di1	极限；限制	None	None
+隄	di1	封	None	None
+陽	yang2	山的南面或水的北面	None	None
+陽	yang2	向阳的部分	None	None
+陽	yang2	明亮；明显	None	None
+陽	yang2	显露；外露	None	None
+陽	yang2	太阳	None	None
+陽	yang2	农历十月的别称	None	None
+陽	yang2	温暖	None	None
+陽	yang2	干旱	None	None
+陽	yang2	活，复苏	None	None
+陽	yang2	男性生殖器	None	None
+陽	yang2	精液	None	None
+陽	yang2	颡，额 也作=揚	None	揚
+陽	yang2	双 也作=揚	None	揚
+陽	yang2	眸子 借指美目	None	None
+陽	yang2	我国古代哲学认为宇宙中通贯物质和人事的两大对立面之一，与“阴”相对	None	None
+陽	yang2	正，与“负”相对	None	None
+陽	yang2	我国中医学上指人体内部某些器官	None	None
+陽	yang2	假装，表面上	None	None
+陽	yang2	代词 我	None	None
+陽	yang2	雄	None	None
+陽	yang2	通=揚 发声清脆	None	揚
+陽	yang2	春秋国名 在今山东省沂水县西南	None	None
+陽	yang2	春秋燕邑名 在今河北省唐县东北	None	None
+陽	yang2	姓	None	None
+隅	yu2	（山水）弯曲边角处	None	None
+隅	yu2	角，角落	None	None
+隅	yu2	事物的部分或片面	None	None
+隅	yu2	边；旁	None	None
+隅	yu2	廉隅，方正	None	None
+隅	yu2	数学开方次商以下两廉之端所加之小方	None	None
+隅	yu2	地名	None	None
+隅	yu2	山名	None	None
+𨺷	None	同=隅	None	隅
+⿰阝⿱日𭑨	None	同=隁	None	隁
+𨺸	mao3	@	None	None
+隈	wei1	水流弯曲处	None	None
+隈	wei1	水涯	None	None
+隈	wei1	山边弯曲处	None	None
+隈	wei1	曲深之处	None	None
+隈	wei1	弓把两边的弯曲处	None	None
+隈	wei1	角落	None	None
+𬯎	None	=隤的类推简化字	None	隤
+𨺬	None	同=界	None	界
+𨺯	None	同=隈	None	隈
+𨺨	e4	重叠的山	None	None
+𨺨	e4	阜貌	None	None
+𨺨	e4	同=鄂 古国名	None	鄂
+䧙	None	同=陵	None	陵
+𨺪	None	同=陲	None	陲
+𨺭	ca1	[𨹝𨺭]见“𨹝”	None	None
+𨺹	jiao3	同=湫 低下；低湿	None	湫
+隀	chong2	地名	None	None
+䧗	bi4	山崩	None	None
+⿰阝⿳𠂉口𧘇	ai1	@	None	None
+𨺣	duan4	人名	None	None
+𨺣	duan4	险	None	None
+隉	nie4	[杌隉]见“杌”	None	None
+隉	nie4	凶	None	None
+隉	nie4	法度	None	None
+⿰阝叟	None	同=𨺦	None	𨺦
+隍	huang2	没有水的护城壕	None	None
+⿰阝⿱白止	xian3	@	None	None
+隗	wei3	高峻貌	None	None
+隗	wei3	倒塌	None	None
+隗	wei3	歪歪扭扭	None	None
+隗	wei3	古国名 地在今湖北省秭归县东	None	None
+隗	wei3	姓	None	None
+隗	gui1	山名	None	None
+隗	kui2	姓	None	None
 𨺠	None	录入中	None	None
 隂	None	录入中	None	None
 隃	None	录入中	None	None
