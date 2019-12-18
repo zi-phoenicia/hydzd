@@ -87386,30 +87386,62 @@
 障	zhang1	同=𩌬	None	𩌬
 𨻹	None	同=隘	None	隘
 𨼈	zhan3	同=𨼮	None	𨼮
-𨼑	None	录入中	None	None
-𨻿	None	录入中	None	None
-𨻸	None	录入中	None	None
-𨼉	None	录入中	None	None
-隟	None	录入中	None	None
-隢	None	录入中	None	None
-𨼢	None	录入中	None	None
-隫	None	录入中	None	None
-𨼣	None	录入中	None	None
-𨼡	None	录入中	None	None
-䧥	None	录入中	None	None
-𨼤	None	录入中	None	None
-𧱞	None	录入中	None	None
-隨	None	录入中	None	None
-𧨧	None	录入中	None	None
-𨼘	None	录入中	None	None
-𨼏	None	录入中	None	None
-𨼐	None	录入中	None	None
-䧤	None	录入中	None	None
-𨼥	None	录入中	None	None
-𨼗	None	录入中	None	None
-隤	None	录入中	None	None
-䘀	None	录入中	None	None
-𨼒	None	录入中	None	None
+⿰阝⿱彐𭔫	None	同=𨼔	None	𨼔
+𨼑	cha2	小丘 ……一说同=陼(渚)	None	陼
+𨻿	None	同=隰	None	隰
+𨻸	None	同=隰	None	隰
+𨼉	cuan4	同=竄 藏匿	None	竄
+隟	None	同=𨻶(隙)	None	𨻶
+⿰阝替	None	同=𨼐	None	𨼐
+隢	rao3	地名	None	None
+𨼢	None	同=墮	None	墮
+⿰𨸏賁	None	同=隫	None	隫
+隫	fen2	同=墳 坟墓	None	墳
+隫	fen2	同=濆 水边，沿河的高地	None	濆
+𨼣	None	同=隔	None	隔
+𨼡	None	同=陽	None	陽
+䧥	hui4	陲名	None	None
+⿰陳攴	None	同=陳	None	陳
+𨼤	chen2	同=敶(陳) 陈说	None	敶
+𧱞	None	同=䝐	None	䝐
+隨	sui2	跟从；跟随	None	None
+隨	sui2	顺着；顺应	None	None
+隨	sui2	顺便	None	None
+隨	sui2	听任；放任	None	None
+隨	sui2	听使唤 也作=遂	None	遂
+隨	sui2	追逐；追求	None	None
+隨	sui2	随即，接着	None	None
+隨	sui2	六十四卦之一，卦形为x，震下兑上	None	None
+隨	sui2	腿	None	None
+隨	sui2	通=隋(橢tuo3) 狭长，长圆形	None	隋
+隨	sui2	古国名 西周初年分封的诸侯国 姬姓 地在今湖北省随州市	None	None
+隨	sui2	古邑名 春秋晋地，后为士蔿食邑，在今山西省介休市	None	None
+隨	sui2	古州名 西魏时置，治所在今湖北省随州市	None	None
+隨	sui2	姓	None	None
+𧨧	sui4	相毁	None	None
+⿱陏𠇍	None	同=隳	None	隳
+𨼘	None	同=陽	None	陽
+𨼏	None	同=陑	None	陑
+⿰阝⿱兂兓	None	同=陽	None	陽
+𨼐	chen4	䧯𨼐	None	None
+䧤	pu2	同=濮 我国古代西南少数民族名	None	濮
+𨼥	ye4	@	None	None
+𨼥	ge2	同=隔	None	隔
+𨼗	None	同=陽	None	陽
+隤	tui2	崩颓；坠下	None	None
+隤	tui2	败坏	None	None
+隤	tui2	倾邪	None	None
+隤	tui2	降（福）	None	None
+隤	tui2	（水）地下流动	None	None
+隤	tui2	（跌）倒	None	None
+隤	tui2	遗失；亡失	None	None
+隤	tui2	蹉跎	None	None
+隤	tui2	安	None	None
+隤	tui2	风车的出粮口	None	None
+隤	tui2	疝气	None	None
+隤	tui2	周邑名 故城在今河南省获嘉县境 一说在河南省修武县境	None	None
+䘀	fu4	[䘀螽]也作“=阜螽” 蚱蜢	None	阜
+𨼒	chan3	春秋鲁地名 在今山东省宁阳县西北 也作=僤、=闡	None	僤
 𨼊	None	录入中	None	None
 𨼓	None	录入中	None	None
 𨼍	None	录入中	None	None
