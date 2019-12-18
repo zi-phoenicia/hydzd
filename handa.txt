@@ -87168,25 +87168,57 @@
 隗	wei3	姓	None	None
 隗	gui1	山名	None	None
 隗	kui2	姓	None	None
-𨺠	None	录入中	None	None
-隂	None	录入中	None	None
-隃	None	录入中	None	None
-𨺾	None	录入中	None	None
-𨺻	None	录入中	None	None
-𨺡	None	录入中	None	None
-𨺢	None	录入中	None	None
-𨺼	None	录入中	None	None
-隆	None	录入中	None	None
-隐	None	录入中	None	None
-𨺥	None	录入中	None	None
-隌	None	录入中	None	None
-𨺧	None	录入中	None	None
-𨺵	None	录入中	None	None
-隊	None	录入中	None	None
-𨺦	None	录入中	None	None
-𨺽	None	录入中	None	None
-𨺮	None	录入中	None	None
-䧘	None	录入中	None	None
+⿰阝⿳丿𠔿比	None	同=阰	None	阰
+𨺠	shun3	台阶	None	None
+隂	None	同=陰	None	陰
+隃	shu4	[西隃]古大陵名 又称雁门山 也单用作“隃” 在今山西省代县西北	None	None
+隃	yu2	[隃麋]古县名 在今陕西省千阳县东	None	None
+隃	yu2	通=踰 逾越；超过	None	踰
+隃	yao2	通=遥 遥远	None	遥
+𨺾	None	同=𨹢(陘)	None	𨹢
+𨺻	None	同=陷	None	陷
+𨺡	zong1	国名	None	None
+𨺢	feng1	地名	None	None
+𨺼	None	同=隆	None	隆
+隆	long2	丰大	None	None
+隆	long2	高	None	None
+隆	long2	兴盛	None	None
+隆	long2	多	None	None
+隆	long2	丰厚	None	None
+隆	long2	尊崇	None	None
+隆	long2	使成长	None	None
+隆	long2	象声词 常用于雷声或炮声	None	None
+隆	long2	通=降(jiang4) 下降	None	降
+隆	long2	通=鬨(hong4)	None	鬨
+隆	long2	地名 在今山东省泰安市西南	None	None
+隆	long2	古州名 1.西魏置，治所在今四川省阆中市 2.南宋置，治所在今四川省仁寿县 3.元代置，治所在今四川省德昌县西北	None	None
+隆	long2	姓	None	None
+隆	long1	[黑咕隆咚]形容很黑暗，看不见 如：没开窗户，屋里黑咕隆咚的	None	None
+⿰阝𧈸	None	同=隆	None	隆
+⿰阝⿱夂⿻𠂒二	None	同=隆	None	隆
+隐	None	=隱的简化字	None	隱
+⿰阝㚆	None	同=䧗	None	䧗
+𨺥	yan3	高貌	None	None
+𨺥	yan3	地名	None	None
+隌	an3	同=暗 光线不足；黑暗（跟“明”相对）	None	暗
+⿰阝𥸭	None	同=鄰	None	鄰
+𨺧	qiu2	[叴𨺧]也作“叴=猶” 古县名 在今江苏省境	None	猶
+𨺵	zhui4	同=墜 坠落	None	墜
+隊	zhui4	坠落 后作=墜	None	墜
+隊	zhui4	指生意的低沉或下降	None	None
+隊	zhui4	丧失	None	None
+隊	dui4	集体的编制单位 如：连队；舰队；球队	None	None
+隊	dui4	成群的东西	None	None
+隊	dui4	特指少年先锋队或生产队 如：队礼；队旗；社队企业	None	None
+隊	dui4	行列 如：排队；横队；纵队	None	None
+隊	dui4	量词 用于成群成列的人或物 如：一队人马	None	None
+隊	sui4	同=隧 1.墓道 2.特指山谷中险阻的道路或军事上的要道	None	隧
+⿰阝為	None	同=䧦	None	䧦
+𨺦	sou3	阬	None	None
+𨺽	None	=𨺣的讹字	None	𨺣
+𨺮	xun4	古亭名	None	None
+⿰阝⿳厶⿺夂丶山	None	同=陖	None	陖
+䧘	zhuan4	路边矮墙	None	None
 隞	None	录入中	None	None
 𨻃	None	录入中	None	None
 䧞	None	录入中	None	None
