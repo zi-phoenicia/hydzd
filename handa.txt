@@ -86958,20 +86958,78 @@
 陴	bi4	同=禆	None	禆
 ⿰阜阜	None	同=𨹺(𨺅)	None	𨹺
 𨹺	None	同=𨺅	None	𨺅
-𨺄	None	录入中	None	None
-陰	None	录入中	None	None
-䧔	None	录入中	None	None
-𨹹	None	录入中	None	None
-䧓	None	录入中	None	None
-𨺃	None	录入中	None	None
-陶	None	录入中	None	None
-陷	None	录入中	None	None
-𨺚	None	录入中	None	None
-𨺛	None	录入中	None	None
-𨹿	None	录入中	None	None
-陱	None	录入中	None	None
-𨹾	None	录入中	None	None
-䧐	None	录入中	None	None
+⿰阝舍	she3	@	None	None
+陯	lun2	山阜塌陷 也作=淪 泛指沦没	None	淪
+陯	lun2	山名	None	None
+陯	lun4	坎陷	None	None
+𨺄	None	同=𨹢(陘)	None	𨹢
+陰	yin1	水的南面或山的北面	None	None
+陰	yin1	背阳的部分	None	None
+陰	yin1	潮湿；润泽	None	None
+陰	yin1	幽暗；昏暗	None	None
+陰	yin1	指寒冷或秋冬	None	None
+陰	yin1	潜藏在内的 如：阴河；阴沟	None	None
+陰	yin1	秘密的 如：阴谋	None	None
+陰	yin1	车轼前覆车軓的横板 又叫“揜軓”	None	None
+陰	yin1	天空云层密布，阳光罕见或天色阴暗 我国气象部门规定：凡中低云量占全天面积十分之八以上叫阴 如：明天阴转晴	None	None
+陰	yin1	日影 也用以代指光阴	None	None
+陰	yin1	阴影	None	None
+陰	yin1	浅黑	None	None
+陰	yin1	我国古代哲学认为宇宙中通贯物质和人事的两大对立面之一 与“陽”相对	None	None
+陰	yin1	负 与“正”相对	None	None
+陰	yin1	月亮	None	None
+陰	yin1	雌	None	None
+陰	yin1	男女生殖器官	None	None
+陰	yin1	指月经	None	None
+陰	yin1	旧时迷信指冥间 如：阴曹；阴间	None	None
+陰	yin1	古县名 在今湖北省老河口市西北	None	None
+陰	yin1	通=窨 地窖	None	窨
+陰	yin1	山名 今河套以北、大漠以南，绵延至辽东诸山的统称	None	None
+陰	yin1	姓	None	None
+陰	yin4	通=蔭 1.覆荫 2.埋藏	None	蔭
+陰	an1	沉默	None	None
+䧔	nian4	遇在岸	None	None
+𨹹	beng1	同=崩 倒塌	None	崩
+𨹹	beng3	山名	None	None
+䧓	zhou1	大阜貌	None	None
+𨺃	None	同=陶	None	陶
+陶	tao2	[陶丘]本为两重的山丘，后为地名专称 在今山东省定陶县 因陶丘在定陶，故定陶亦省称陶	None	None
+陶	tao2	瓦器	None	None
+陶	tao2	制作瓦器	None	None
+陶	tao2	化育	None	None
+陶	tao2	培养	None	None
+陶	tao2	喜悦；快乐	None	None
+陶	tao2	忧	None	None
+陶	tao2	正	None	None
+陶	tao2	烤灼，炎炽	None	None
+陶	tao2	畅茂	None	None
+陶	tao2	尽情	None	None
+陶	tao2	除	None	None
+陶	tao2	姓	None	None
+陶	yao2	通=窑 窑灶	None	窑
+陶	dao4	[陶陶]驱驰貌	None	None
+陷	xian4	陷入；坠入	None	None
+陷	xian4	陷阱，坑穴	None	None
+陷	xian4	埋没	None	None
+陷	xian4	陷害	None	None
+陷	xian4	刺入	None	None
+陷	xian4	攻破；攻克	None	None
+陷	xian4	溃败；陷落	None	None
+陷	xian4	坏	None	None
+陷	xian4	缺少，不足	None	None
+陷	xian4	过失	None	None
+陷	xian4	镶嵌	None	None
+陷	xian4	瑶民方言 意为“不”	None	None
+陷	xian4	通=含(han2) 东西放在口里	None	含
+𨺚	long2	同=隆 兴盛	None	隆
+𨺛	None	同=隆	None	隆
+𨹿	None	同=𨹠(隆)	None	𨹠
+陱	ju1	同=鞠 1.抚养 2.充盈	None	鞠
+𨹾	None	同=䂹	None	䂹
+⿰阜享	None	同=䧐	None	䧐
+䧐	None	同=崞	None	崞
+⿰阝⿱⿸丶⿸廾丶土	None	同=陞	None	陞
+⿰阝兖	None	同=𨺥	None	𨺥
 陪	None	录入中	None	None
 𨺅	None	录入中	None	None
 𨹵	None	录入中	None	None
