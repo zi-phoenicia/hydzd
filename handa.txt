@@ -80128,43 +80128,99 @@
 𨓭	qu3	催促	None	None
 𨓭	cou4	走	None	None
 𨔘	None	同=䢡	None	䢡
-𦳯	None	录入中	None	None
-逪	None	录入中	None	None
-逽	None	录入中	None	None
-𦳖	None	录入中	None	None
-䢞	None	录入中	None	None
-𨓳	None	录入中	None	None
-逨	None	录入中	None	None
-逩	None	录入中	None	None
-𨓾	None	录入中	None	None
-𨔙	None	录入中	None	None
-𨓰	None	录入中	None	None
-𨓷	None	录入中	None	None
-𨓿	None	录入中	None	None
-𨔀	None	录入中	None	None
-逴	None	录入中	None	None
-𨔖	None	录入中	None	None
-𨔁	None	录入中	None	None
-𨔛	None	录入中	None	None
-逷	None	录入中	None	None
-𨔂	None	录入中	None	None
-𨓺	None	录入中	None	None
-𨔗	None	录入中	None	None
-逻	None	录入中	None	None
-𨓹	None	录入中	None	None
-𨓬	None	录入中	None	None
-過	None	录入中	None	None
-𨔠	None	录入中	None	None
-𨓱	None	录入中	None	None
-逶	None	录入中	None	None
-𨓲	None	录入中	None	None
-𨔃	None	录入中	None	None
-進	None	录入中	None	None
-𨓵	None	录入中	None	None
-𨔄	None	录入中	None	None
-𨔅	None	录入中	None	None
-𨓮	None	录入中	None	None
-週	None	录入中	None	None
+𦳯	shu4	草名	None	None
+𦳯	shu4	唐、宋本草学家称姜科植物蓬莪术（莪术）、郁金、姜黄等的肥厚根茎为𦳯 又称“蓬莪术”为“𦳯”；称姜黄为“𦳯薬”；称郁金为“馬𦳯”	None	None
+逪	cuo4	同=錯 交错	None	錯
+逪	cuo4	乱	None	None
+逪	cuo4	违背	None	None
+逽	nuo4	走	None	None
+𦳖	None	同=藀	None	藀
+䢞	shu4	行 ……一说=䢤的讹字	None	䢤
+𨓳	yao1	远貌	None	None
+逨	lai2	同=來 到来	None	來
+逨	lai4	就	None	None
+逨	lai4	同=勑 劳	None	勑
+逩	ben1	同=奔 疾走	None	奔
+逩	ben4	同=奔 1.投向 2.挣扎	None	奔
+𨓾	None	同=隤	None	隤
+𨔙	tou4	自投下	None	None
+𨓰	jie2	急走	None	None
+𨓷	qing1	同=輕 轻车	None	輕
+𨓿	pei2	@	None	None
+𨔀	None	同=徙	None	徙
+逴	chuo1	远	None	None
+逴	chuo1	超越	None	None
+逴	chuo1	行貌	None	None
+逴	chuo1	惊动	None	None
+逴	chuo1	跛	None	None
+𨔖	None	同=逌	None	逌
+𨔁	None	同=逌	None	逌
+𨔛	ti1	[匾𨔛]同“匾=㔸”	None	㔸
+𨔛	ti1	同=遞 交互	None	遞
+逷	None	同=逖	None	逖
+𨔂	None	同=達	None	達
+𨓺	None	同=過	None	過
+𨔗	jia1	[𨔗譟]秽言，脏话	None	None
+逻	None	=邏的简化字	None	邏
+𨓹	None	同=往	None	往
+𨓬	ta4	[𨓬𨓬]行貌	None	None
+過	guo4	经过	None	None
+過	guo4	渡过	None	None
+過	guo4	过去	None	None
+過	guo4	婉词 去世	None	None
+過	guo4	给予；递给	None	None
+過	guo4	咽下（酒、饭）	None	None
+過	guo4	用清水或热水淘洗食物或食具	None	None
+過	guo4	超过	None	None
+過	guo4	过分，太甚	None	None
+過	guo4	探望，拜访	None	None
+過	guo4	至，到达	None	None
+過	guo4	过失；过错	None	None
+過	guo4	失掉	None	None
+過	guo4	责备	None	None
+過	guo4	转移 如：过户；过账	None	None
+過	guo4	度过；过活	None	None
+過	guo4	继入、赘入或嫁入	None	None
+過	guo4	量词 遍，次	None	None
+過	guo4	中医指病	None	None
+過	guo4	分子结构中有-O-O-结构的 如：过硫酸根(SO_5^-)；过氧化氢(H_2O_2)	None	None
+過	guo1	涧名	None	None
+過	guo1	古国名，在今山东省莱州市西北	None	None
+過	guo1	姓	None	None
+過	guo5	用在动词后，表示动作完毕	None	None
+過	guo5	用在动词后，表示过去曾经有这样的事情	None	None
+過	huo4	车盛膏器 也作=輠	None	輠
+過	huo4	通=禍 灾祸	None	禍
+𨔠	None	同=遥	None	遥
+𨓱	None	同=逃	None	逃
+逶	wei1	[逶迤]也作“=委蛇”、“逶迆”、“逶迱”、“逶虵”等 1.弯曲连绵貌 2.曲折行进 3.隐微；宛转 4.从容自得貌 5.斜列貌	None	委
+𨓲	qian1	经过	None	None
+𨓲	qian1	同=愆 过失	None	愆
+𨔃	None	同=𨓲	None	𨓲
+進	jin4	向前；向上移动	None	None
+進	jin4	行	None	None
+進	jin4	长进；进步	None	None
+進	jin4	促进，增强	None	None
+進	jin4	出仕	None	None
+進	jin4	引进，举荐	None	None
+進	jin4	提升；提拔	None	None
+進	jin4	奉献，送上	None	None
+進	jin4	靠近	None	None
+進	jin4	超过	None	None
+進	jin4	进入	None	None
+進	jin4	收入的钱财	None	None
+進	jin4	房屋分成的前后层次	None	None
+進	jin4	效	None	None
+進	jin4	通=峻(jun4) 高	None	峻
+進	jin4	通=盡	None	盡
+進	jin4	通=餕(jun4) 祭祀后食其余	None	餕
+進	jin4	姓	None	None
+𨓵	None	同=送	None	送
+𨔄	None	同=遞	None	遞
+𨔅	None	同=迪	None	迪
+𨓮	yin2	过	None	None
+週	zhou1	迴	None	None
+週	zhou1	同=周 1.周围；环绕 2.指周期 如：週刊；週年 今作“周” 3.全	None	周
 逸	None	录入中	None	None
 䢟	None	录入中	None	None
 𨔆	None	录入中	None	None
