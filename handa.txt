@@ -87519,39 +87519,84 @@
 ⿰阝⿱丷⿸厂⿱八言	None	同=𨼮	None	𨼮
 𨼭	None	同=𠐻	None	𠐻
 隦	pi2	[隦堄]也作“=俾倪”、“=埤堄” 城上矮墙	None	俾
+⿰阝夀	None	同=隯	None	隯
 隯	None	同=島	None	島
-𨽁	None	录入中	None	None
-𨽄	None	录入中	None	None
-𨽋	None	录入中	None	None
-𩩜	None	录入中	None	None
-𨽀	None	录入中	None	None
-隬	None	录入中	None	None
-隭	None	录入中	None	None
-隲	None	录入中	None	None
-隰	None	录入中	None	None
-𨽂	None	录入中	None	None
-𨽌	None	录入中	None	None
-隱	None	录入中	None	None
-𨽊	None	录入中	None	None
-䧫	None	录入中	None	None
-𨽏	None	录入中	None	None
-隮	None	录入中	None	None
-𨽛	None	录入中	None	None
-𨽃	None	录入中	None	None
-䧬	None	录入中	None	None
-𨽍	None	录入中	None	None
-𨽐	None	录入中	None	None
-隳	None	录入中	None	None
-𨽟	None	录入中	None	None
-𨽠	None	录入中	None	None
-𨽑	None	录入中	None	None
-𨽎	None	录入中	None	None
-𨽝	None	录入中	None	None
-𨽞	None	录入中	None	None
-𨽗	None	录入中	None	None
-𨽙	None	录入中	None	None
-𨽖	None	录入中	None	None
-隴	None	录入中	None	None
+𨽁	zou1	同=陬 山角	None	陬
+𨽁	ju4	同=聚 村落	None	聚
+𨽁	cong2	众	None	None
+𨽄	shi4	凿开山陵的通道	None	None
+𨽄	shi4	土山	None	None
+𨽋	chi2	[褘𨽋]同“倭=遲” 逶迤	None	遲
+𩩜	None	同=髓	None	髓
+𨽀	ye4	地势险要	None	None
+隬	ni3	古地名	None	None
+隭	None	同=陑	None	陑
+隲	None	同=騭	None	騭
+隰	xi2	地湿的地方	None	None
+隰	xi2	新垦的田地	None	None
+隰	xi2	旁边	None	None
+隰	xi2	春秋齐邑名，即犁丘 今山东省临邑县西	None	None
+隰	xi2	古州名 在山西省隰县	None	None
+隰	xi2	姓	None	None
+隰	xie4	人名 也作=濕	None	濕
+𨽂	pu2	同=濮 我国古代西南少数民族名	None	濮
+𨽌	None	同=隱	None	隱
+隱	yin3	隐蔽；隐藏	None	None
+隱	yin3	隐讳；隐瞒	None	None
+隱	yin3	精深，微妙	None	None
+隱	yin3	幽静；安静	None	None
+隱	yin3	隐语，谜语	None	None
+隱	yin3	穷困	None	None
+隱	yin3	忧伤；病痛	None	None
+隱	yin3	怜惜，同情	None	None
+隱	yin3	审度	None	None
+隱	yin3	安；定 也作=穩	None	穩
+隱	yin3	威重貌	None	None
+隱	yin3	大	None	None
+隱	yin3	短墙	None	None
+隱	yin3	琴上饰	None	None
+隱	yin3	塞，堵塞	None	None
+隱	yin3	通=殷 震动	None	殷
+隱	yin3	姓	None	None
+隱	yin4	凭倚，依据	None	None
+隱	yin4	筑	None	None
+𨽊	None	同=䧯 地名	None	䧯
+䧫	None	同=𨼍	None	𨼍
+𨽏	guo1	同=𩫏(郭) 城郭	None	𩫏
+隮	ji1	登上；升上	None	None
+隮	ji1	虹	None	None
+隮	ji1	云	None	None
+隮	ji1	坠落	None	None
+𨽛	None	同=隧	None	隧
+𨽃	None	同=隣(鄰)	None	隣
+䧬	bin1	同=瀕(濱) 紧靠（水边）	None	瀕
+𨽍	du2	沟洫	None	None
+𨽐	lu4	同=陸	None	陸
+𨽐	yang2	同=陽	None	陽
+隳	hui1	崩毁；毁坏 也作=隓	None	隓
+隳	hui1	通=惰(duo4) 怠惰	None	惰
+⿱随𠇍	None	同=隳	None	隳
+⿰阝戯	None	同=隵	None	隵
+⿰阝𭟼	None	同=隵	None	隵
+𨽟	tui2	同=隤 下坠	None	隤
+𨽠	None	同=隤	None	隤
+𨽑	yan1	[𨽑陵]同“=𨻳陵” 古地名	None	𨻳
+⿰阝𤕨	None	同=隬	None	隬
+𨽎	None	同=墜	None	墜
+⿰阝⿱取取	None	同=陬	None	陬
+𨽝	None	同=隘	None	隘
+𨽞	None	=嚥的讹字	None	嚥
+𨽗	bin1	同=濱 水边	None	濱
+𨽗	pin2	同=嚬(顰) 皱眉	None	嚬
+𨽙	None	同=陰	None	陰
+𨽖	niao3	偃低貌	None	None
+隴	long3	汉天水郡大阪名，即陇山 陇山绵延于陕西省、甘肃省交界的地方	None	None
+隴	long3	古县名 西汉置 北魏改置陇城县，元并入秦安县 故城在今甘肃省张家川回族自治县	None	None
+隴	long3	古州名 今县名 在陕西省宝鸡市西北	None	None
+隴	long3	甘肃省的别称	None	None
+隴	long3	隆盛，兴盛	None	None
+隴	long3	同=壟 1.田界，田塍 也指农田中种植作物的土埂 2.高丘 3.坟墓	None	壟
+隴	long3	姓	None	None
 𤑾	None	录入中	None	None
 䧮	None	录入中	None	None
 𨽤	None	录入中	None	None
