@@ -86797,16 +86797,21 @@
 陗	qiao4	同=峭 陡直高峻	None	峭
 陗	qiao4	严峻褊狭	None	None
 陗	qiao4	隐	None	None
-陧	None	录入中	None	None
-䧋	None	录入中	None	None
-𨹨	None	录入中	None	None
-䧉	None	录入中	None	None
-䧎	None	录入中	None	None
-陨	None	录入中	None	None
-𨹝	None	录入中	None	None
-䧊	None	录入中	None	None
-𨺘	None	录入中	None	None
-陞	None	录入中	None	None
+陧	None	同=隉	None	隉
+䧋	xian3	地名	None	None
+䧋	xian4	=限	None	限
+𨹨	None	同=限	None	限
+䧉	li3	同=𨛋 汉时亭名	None	𨛋
+䧉	li3	古邑名	None	None
+䧎	None	同=𨹆	None	𨹆
+陨	None	=隕的简化字	None	隕
+𨹝	yi4	[𨹝𨽦]狭窄	None	None
+𨹝	ya4	[𨹝𨺭]山崖峻狭	None	None
+⿰阝𡵯	None	同=陟	None	陟
+䧊	ku1	大土山	None	None
+䧊	ku1	[䧊𨸏]阜名 在今陕西省眉县境	None	None
+𨺘	xian2	同=涎 唾液	None	涎
+陞	sheng1	同=升 1.上升 2.登，上	None	升
 𨹩	None	录入中	None	None
 除	None	录入中	None	None
 险	None	录入中	None	None
