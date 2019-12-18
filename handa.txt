@@ -86484,9 +86484,21 @@
 阬	kang4	通=抗 对抗	None	抗
 阬	gang1	大山坡；大土山	None	None
 阬	gang1	地名	None	None
-防	None	录入中	None	None
-阦	None	录入中	None	None
-阧	None	录入中	None	None
+防	fang2	堤坝	None	None
+防	fang2	堵塞	None	None
+防	fang2	防御	None	None
+防	fang2	防备	None	None
+防	fang2	防止	None	None
+防	fang2	遮蔽	None	None
+防	fang2	关防；要塞	None	None
+防	fang2	界限	None	None
+防	fang2	小曲屏风	None	None
+防	fang2	比，相当	None	None
+防	fang2	地名 1.春秋陈邑，在今河南省淮阳县北 2.春秋鲁地，在今山东省费县东北 3.春秋宋地，后属鲁，在今山东省金乡县西南 4.山名 在今山东省曲阜市东	None	None
+防	fang2	姓	None	None
+阦	None	同=陽	None	陽
+阧	dou3	同=陡 陡峻	None	陡
+阧	dou3	水闸之类的设施	None	None
 䦼	None	录入中	None	None
 阭	None	录入中	None	None
 䦽	None	录入中	None	None
