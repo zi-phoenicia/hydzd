@@ -87321,35 +87321,71 @@
 𨻅	None	同=陖	None	陖
 𨻗	die2	佛经中译音用字	None	None
 𨻉	None	同=𨹜	None	𨹜
-𨻨	None	录入中	None	None
-𨻩	None	录入中	None	None
-𨻳	None	录入中	None	None
-𨼆	None	录入中	None	None
-𨼙	None	录入中	None	None
-䧠	None	录入中	None	None
-隁	None	录入中	None	None
-䧢	None	录入中	None	None
-䧣	None	录入中	None	None
-𨻺	None	录入中	None	None
-𨻼	None	录入中	None	None
-𨼋	None	录入中	None	None
-𨻲	None	录入中	None	None
-𨻶	None	录入中	None	None
-隚	None	录入中	None	None
-𨻻	None	录入中	None	None
-𨻽	None	录入中	None	None
-𨻵	None	录入中	None	None
-𨻱	None	录入中	None	None
-隝	None	录入中	None	None
-𨻾	None	录入中	None	None
-隠	None	录入中	None	None
-𨼇	None	录入中	None	None
-際	None	录入中	None	None
-𨻷	None	录入中	None	None
-䧡	None	录入中	None	None
-障	None	录入中	None	None
-𨻹	None	录入中	None	None
-𨼈	None	录入中	None	None
+𨻨	suo3	地名	None	None
+𨻩	None	同=隙	None	隙
+𨻳	yan4	同=堰 挡水的堤坝	None	堰
+𨻳	yan4	古楚都 在今湖北省宜城市	None	None
+𨻳	yan2	古地名 1.春秋郑地，汉属颍川郡，在今河南省鄢陵县 2.古县名 汉置，在今河南省柘城县北	None	None
+𨼆	None	同=隱	None	隱
+𨼙	None	同=䧨	None	䧨
+䧠	zhuan4	同=鄟 春秋鲁地名 在今山东省郯城县境	None	鄟
+⿰阝⿷匚⿱日𭑨	None	同=隁	None	隁
+䧢	qu1	[𢼨䧢]也作“陭䧢”、“踦䧢” 形容道路不平，也形容心情不安 也单用作“䧢”	None	None
+䧢	ou1	[䧢窬]深下貌	None	None
+䧣	None	同=陻	None	陻
+𨻺	qing1	同=傾 倾斜	None	傾
+𨻺	qing1	危险	None	None
+𨻺	qing1	伏	None	None
+𨻼	bi1	牢狱	None	None
+𨼋	xu1	古地名	None	None
+𨻲	xia4	同=㙤(罅) 坼裂	None	㙤
+𨻶	None	同=隙	None	隙
+隚	tang2	同=堂	None	堂
+𨻻	lou2	[羸𨻻]古县名	None	None
+𮥝	man4	@	None	None
+𨻽	None	同=隰	None	隰
+𨻵	cui1	[𨻵崩]崩颓	None	None
+𨻵	zui1	[𨻵𨻵]也作“=崔崔” 高达	None	崔
+𨻵	dui4	[𨻵隗]同“=陮隗” 1.高 2.不平正貌 也单用作“𨻵”	None	陮
+𨻱	beng1	同=崩 倒塌	None	崩
+隝	None	同=㠀(島)	None	㠀
+𨻾	None	=𨻌的讹字	None	𨻌
+隠	None	同=隱	None	隱
+𨼇	None	同=隆	None	隆
+⿰阜祭	None	同=際	None	際
+際	ji4	两墙相接处	None	None
+際	ji4	合缝的地方	None	None
+際	ji4	交接或靠边缘的地方 如：水际；岩际，无边无际	None	None
+際	ji4	事物的分界或边际	None	None
+際	ji4	中间；里边 如：脑际；胸际	None	None
+際	ji4	交会；会合	None	None
+際	ji4	人与人间的交往	None	None
+際	ji4	彼此之间 如：国际；厂际；校际	None	None
+際	ji4	指先后交接或局势形成的时候	None	None
+際	ji4	适逢；恰遇 如：遭际；际遇	None	None
+際	ji4	达到；连接	None	None
+際	ji4	靠近或沿着	None	None
+⿰阝⿱亠畏	None	同=隈	None	隈
+𨻷	kang1	同=漮 水虚，水的中心有空处	None	漮
+䧡	None	同=墉	None	墉
+障	zhang4	阻塞；阻隔	None	None
+障	zhang4	阻碍；障碍	None	None
+障	zhang4	界限	None	None
+障	zhang4	边塞上的小城	None	None
+障	zhang4	影壁，照壁	None	None
+障	zhang4	遮蔽	None	None
+障	zhang4	防范，防止	None	None
+障	zhang4	堤防，挡水的建筑物	None	None
+障	zhang4	保护；捍卫	None	None
+障	zhang4	步障，用来遮隔视线的布帷或屏风	None	None
+障	zhang4	=幛子，上面题有文字或画有图画的整幅绸布	None	幛
+障	zhang4	似屏障的山峰 也作=嶂	None	嶂
+障	zhang4	通=瘴 瘴气，热带或亚热带山林中的湿热空气	None	瘴
+障	zhang4	佛教用语 烦恼	None	None
+障	zhang1	顶上平正的土山 也作=章	None	章
+障	zhang1	同=𩌬	None	𩌬
+𨻹	None	同=隘	None	隘
+𨼈	zhan3	同=𨼮	None	𨼮
 𨼑	None	录入中	None	None
 𨻿	None	录入中	None	None
 𨻸	None	录入中	None	None
