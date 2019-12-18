@@ -80027,43 +80027,107 @@
 造	zao4	姓	None	None
 造	zao4	通=竈 生火制作食物处	None	竈
 造	cao1	进	None	None
-透	None	录入中	None	None
-𨓉	None	录入中	None	None
-𨓅	None	录入中	None	None
-逓	None	录入中	None	None
-途	None	录入中	None	None
-𨓇	None	录入中	None	None
-𨓈	None	录入中	None	None
-𨓛	None	录入中	None	None
-𨓜	None	录入中	None	None
-逛	None	录入中	None	None
-逖	None	录入中	None	None
-𨓨	None	录入中	None	None
-逢	None	录入中	None	None
-𨓧	None	录入中	None	None
-𨓝	None	录入中	None	None
-這	None	录入中	None	None
-𨓍	None	录入中	None	None
-𨓩	None	录入中	None	None
-𨓋	None	录入中	None	None
-𨓞	None	录入中	None	None
-𨓚	None	录入中	None	None
-䢠	None	录入中	None	None
-递	None	录入中	None	None
-逤	None	录入中	None	None
-𨓟	None	录入中	None	None
-𨓠	None	录入中	None	None
-通	None	录入中	None	None
-𨓥	None	录入中	None	None
-逘	None	录入中	None	None
-逡	None	录入中	None	None
-𨓌	None	录入中	None	None
-𨓽	None	录入中	None	None
-逰	None	录入中	None	None
-逵	None	录入中	None	None
-䢝	None	录入中	None	None
-𨓭	None	录入中	None	None
-𨔘	None	录入中	None	None
+透	tou4	跳；跳跃	None	None
+透	tou4	奔逃；逃走	None	None
+透	tou4	通过；穿过	None	None
+透	tou4	显露；透露	None	None
+透	tou4	达到充分的程度	None	None
+透	tou4	彻底；清楚	None	None
+透	tou4	极	None	None
+透	shu1	惊貌	None	None
+𨓉	None	同=邊	None	邊
+𨓅	None	同=皃	None	皃
+逓	None	同=遞	None	遞
+途	tu2	道路	None	None
+途	tu2	途径 多用于比喻	None	None
+途	tu2	仕途；职位	None	None
+𨓇	xin3	[𨒦𨓇]见“𨒦”	None	None
+𨓈	kuo4	同=适 疾	None	适
+𨓛	None	同=通	None	通
+𨓜	None	同=逸	None	逸
+逛	guang4	闲游；游览	None	None
+逛	kuang2	同=誑 欺骗	None	誑
+逖	ti4	远	None	None
+逖	ti4	使之远离	None	None
+逖	ti4	通=剔 治	None	剔
+𨓨	yong3	走	None	None
+逢	feng2	碰上；遭遇	None	None
+逢	feng2	迎接	None	None
+逢	feng2	迎合，讨好	None	None
+逢	feng2	预测	None	None
+逢	feng2	大	None	None
+逢	feng2	通=麷 炒熟或煮熟麦粒	None	麷
+逢	feng2	通=㷭(feng1) 烽火	None	㷭
+逢	peng2	[逢逢]1.象声词 鼓声 2.盛貌	None	None
+逢	pang2	姓	None	None
+𨓧	None	同=遥	None	遥
+𨓝	None	同=遞	None	遞
+這	zyan4	迎接	None	None
+這	zhe4	代词 指代较近的时间、地方或事物 跟“那”相对	None	None
+這	zhe4	金、元曲文里的衬字	None	None
+這	zhe4	这时候	None	None
+這	zhei4	在口语里，“这”单用或后面直接跟名词后，读zhe4；后面跟量词或数词加量词时，读zhei4 如：这程子；这个；这会儿，这些；这年；这三年	None	None
+𨓍	ting2	同=庭	None	庭
+𨓍	ting2	同=莛 草茎	None	莛
+𨓩	jiao1	会	None	None
+𨓋	None	同=棄	None	棄
+𨓞	None	同=逮	None	逮
+𨓚	shui4	通=税	None	税
+䢠	None	同=送	None	送
+递	None	同=遞	None	遞
+逤	suo4	[邏逤]也作“邏=娑”、“邏=些” 唐时吐蕃都城，即今西藏自治区拉萨市	None	娑
+𨓟	None	同=選	None	選
+𨓠	None	同=遞	None	遞
+通	tong1	到达；通到	None	None
+通	tong1	贯通	None	None
+通	tong1	流通，交换	None	None
+通	tong1	交往；交好	None	None
+通	tong1	平正，顺畅	None	None
+通	tong1	开辟；疏通	None	None
+通	tong1	沟通；接通	None	None
+通	tong1	通晓	None	None
+通	tong1	通情达理	None	None
+通	tong1	传达，通报	None	None
+通	tong1	陈述	None	None
+通	tong1	显达	None	None
+通	tong1	通奸	None	None
+通	tong1	连比；连接	None	None
+通	tong1	透彻	None	None
+通	tong1	全部；整个	None	None
+通	tong1	纯色	None	None
+通	tong1	共用；互通	None	None
+通	tong1	共同的；通常的	None	None
+通	tong1	副词 皆，共	None	None
+通	tong1	药名 马粪	None	None
+通	tong1	古代土地面积单位 十井为通	None	None
+通	tong1	乐器名	None	None
+通	tong1	瞋视	None	None
+通	tong1	用同=同(tong2) 相同	None	同
+通	tong1	古州名 1.西魏置 治今四川省达州市 2.五代周置 治今江苏省南通市 3.金置 治今北京市通州区 俗称北通州	None	None
+通	tong1	姓	None	None
+通	tong4	量词 1.鼓一曲为一通 2.篇；份；卷 3.套	None	None
+𨓥	None	同=逋	None	逋
+逘	yi3	进	None	None
+逘	si4	同=竢(俟) 等待	None	竢
+逡	qun1	复，往来	None	None
+逡	qun1	退让，退却	None	None
+逡	qun1	指日月等星体运行的度次	None	None
+逡	qun1	通=㕙(jun4) 狡兔名	None	㕙
+逡	qun1	通=駿(jun4) 急速	None	駿
+逡	xun4	[逡遒]也作“=浚遒”、“逡道” 古县名 一为西汉置，治今安徽省肥东县东 一为东晋侨置，治今安徽省宣州市北	None	浚
+逡	suo1	方言 流淌	None	None
+𨓌	None	同=災	None	災
+𨓽	None	同=清	None	清
+逰	None	同=遊	None	遊
+逵	kui2	四通八达的道路 后也泛指大道	None	None
+逵	kui2	水中连通的穴道	None	None
+逵	kui2	隐	None	None
+逵	kui2	姓	None	None
+䢝	ya4	次 也作=亞	None	亞
+䢝	ya4	次第行	None	None
+𨓭	qu3	催促	None	None
+𨓭	cou4	走	None	None
+𨔘	None	同=䢡	None	䢡
 𦳯	None	录入中	None	None
 逪	None	录入中	None	None
 逽	None	录入中	None	None
