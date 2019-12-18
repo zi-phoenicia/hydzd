@@ -87056,18 +87056,42 @@
 𨺝	zhuo2	@	None	None
 陿	xia2	同=狹 窄	None	狹
 陿	xia2	同=峽 山夹水的地方	None	峽
-𨺿	None	录入中	None	None
-𨻇	None	录入中	None	None
-𨺶	None	录入中	None	None
-隁	None	录入中	None	None
-𨺤	None	录入中	None	None
-陻	None	录入中	None	None
-隋	None	录入中	None	None
-隇	None	录入中	None	None
-随	None	录入中	None	None
-陾	None	录入中	None	None
-階	None	录入中	None	None
-𨺟	None	录入中	None	None
+⿰阝贲	None	=隫的类推简化字	None	隫
+𨺿	zhan3	邑名	None	None
+𨻇	None	同=塌	None	塌
+𨺶	None	同=陵	None	陵
+隁	yan4	同=堰 挡水的低坝	None	堰
+隁	yan3	山坡	None	None
+𨺤	pi4	同=䦼  地裂	None	䦼
+⿰阝⿱臣工	chen2	人名用字	None	None
+陻	yin1	同=堙 堵塞	None	堙
+隋	duo4	残余的祭品	None	None
+隋	duo4	同=墮 坠落，垂下	None	墮
+隋	duo4	蛻，换（毛）	None	None
+隋	duo4	归	None	None
+隋	duo4	通=惰 懒惰	None	惰
+隋	duo4	通=隳(hui1) 毁坏	None	隳
+隋	tuo3	通=橢 椭圆形	None	橢
+隋	tuo2	中间高周围低	None	None
+隋	sui2	周代诸侯国名，地在今湖北省随州市一带	None	None
+隋	sui2	朝代名 隋文帝杨坚原受封于随，公元581年灭北周，改随为隋，以为国号，589年灭陈，统一全国 605年炀帝杨广继位，穷奢极欲，行施暴政，激起农民大起义 618年亡于唐	None	None
+隋	sui2	姓	None	None
+隇	wei1	[隇䧅]也作“=威夷” 险阻；难危	None	威
+随	None	=隨的简化字	None	隨
+陾	reng2	[陾陾]众多貌 一说筑墙声	None	None
+陾	er2	同=𨼏(陑)	None	𨼏
+階	jie1	台阶	None	None
+階	jie1	梯子	None	None
+階	jie1	途径	None	None
+階	jie1	凭借；根据	None	None
+階	jie1	升；登	None	None
+階	jie1	上达；达到	None	None
+階	jie1	缘由	None	None
+階	jie1	官爵的等级	None	None
+階	jie1	官爵的升迁	None	None
+階	jie1	地质学名词 不同的生物地理区有不同的期名 在期的时间内形成的地层叫“阶” 如：我国上寒武统的凤山阶等	None	None
+階	jie1	古州名 唐景福元年（892年）改武州置，治皋兰镇（今甘肃省武都县东）	None	None
+𨺟	zheng1	丘名	None	None
 隄	None	录入中	None	None
 陽	None	录入中	None	None
 隅	None	录入中	None	None
