@@ -86812,30 +86812,113 @@
 䧊	ku1	[䧊𨸏]阜名 在今陕西省眉县境	None	None
 𨺘	xian2	同=涎 唾液	None	涎
 陞	sheng1	同=升 1.上升 2.登，上	None	升
-𨹩	None	录入中	None	None
-除	None	录入中	None	None
-险	None	录入中	None	None
-𨹫	None	录入中	None	None
-䧍	None	录入中	None	None
-𨹴	None	录入中	None	None
-䧌	None	录入中	None	None
-陥	None	录入中	None	None
-𨹠	None	录入中	None	None
-𨹘	None	录入中	None	None
-𨹛	None	录入中	None	None
-𨹪	None	录入中	None	None
-院	None	录入中	None	None
-𨹣	None	录入中	None	None
-陖	None	录入中	None	None
-𨹡	None	录入中	None	None
-陚	None	录入中	None	None
-陼	None	录入中	None	None
-陸	None	录入中	None	None
-陵	None	录入中	None	None
-陬	None	录入中	None	None
-䧒	None	录入中	None	None
-陳	None	录入中	None	None
-䧕	None	录入中	None	None
+⿰阝皃	mao4	@	None	None
+𨹩	None	同=陰	None	陰
+除	chu2	宫殿的台阶	None	None
+除	chu2	门屏之间的通道	None	None
+除	chu2	阶梯	None	None
+除	chu2	去掉；清除	None	None
+除	chu2	取，取下	None	None
+除	chu2	减免（惩处、租税、劳役）	None	None
+除	chu2	旧时守孝期满，除去丧服叫“除服”，也叫“除丧”	None	None
+除	chu2	兽换毛	None	None
+除	chu2	病愈	None	None
+除	chu2	开辟；修治	None	None
+除	chu2	除地为坛，古时用作会盟的场所	None	None
+除	chu2	治罪	None	None
+除	chu2	任命	None	None
+除	chu2	数学的计算方法 用一个数把另一个数分为若干等分	None	None
+除	chu2	古时建除家定日的吉凶，把“除”当作十二辰中卯的代号	None	None
+除	chu2	不计算在内 如：除了；除非是；除此而外	None	None
+除	chu2	通=儲 积蓄	None	儲
+除	chu2	姓	None	None
+除	zhu4	给予	None	None
+除	zhu4	（光阴）过去	None	None
+除	shu2	夏历四月的别名	None	None
+险	None	=險的简化字	None	險
+𨹫	None	同=𨻌	None	𨻌
+䧍	None	同=隙	None	隙
+𨹴	None	=𡥭(孵)的讹字	None	𡥭
+䧌	sui1	地名	None	None
+陥	None	同=陷	None	陷
+𨹠	None	同=隆	None	隆
+⿰阝⿳夂匕二	None	同=隆	None	隆
+𨹘	xu4	@	None	None
+𨹛	None	同=埅	None	埅
+𨹪	None	地名	None	None
+院	yuan4	坚固 也作=完	None	完
+院	yuan4	院墙；围墙 也作=𡨡	None	𡨡
+院	yuan4	在墙垣围绕的宫室、房屋 如：四合院；大杂院	None	None
+院	yuan4	房屋围墙内的空地	None	None
+院	yuan4	官署名称 如古代的枢密院、都察院 今用以称国家的某些机关 如：国务院、法院	None	None
+院	yuan4	僧、道者居住的地方	None	None
+𨹣	None	同=陒	None	陒
+⿰阝⿱厼又	None	同=陖	None	陖
+⿰阜夋	None	同=陖	None	陖
+陖	jun4	同=峻 1.山高而陡 2.高 3.严厉	None	峻
+陖	jun4	亭名，在今陕西省境	None	None
+𨹡	che4	能行	None	None
+陚	fu4	小土山	None	None
+陚	wu3	平原	None	None
+𬯅	None	同=陿	None	陿
+陼	zhu3	水中小洲	None	None
+陼	zhu3	水边	None	None
+陼	du3	同=堵 土墙，五板直累为堵	None	堵
+陸	lu4	陆地 如：大陆；登陆	None	None
+陸	lu4	大土山	None	None
+陸	lu4	陆路 如：水陆兼程；水陆交通	None	None
+陸	lu4	高	None	None
+陸	lu4	跳跃	None	None
+陸	lu4	通=睦(mu4)	None	睦
+陸	lu4	西汉侯国名，在今山东省寿光市东	None	None
+陸	lu4	古州名 唐上元二年（675年）置，治乌雷县（今广西壮族自治区钦州市东南）	None	None
+陸	lu4	姓	None	None
+陸	liu4	数词 =六的大写	None	六
+⿰𨸏夌	None	同=陵	None	陵
+陵	ling2	大土山 如：丘陵；陵谷	None	None
+陵	ling2	山头	None	None
+陵	ling2	水下隆起的地方	None	None
+陵	ling2	坟墓 如：陵墓；陵园	None	None
+陵	ling2	陵夷，逐渐衰微	None	None
+陵	ling2	上；升	None	None
+陵	ling2	陵驾	None	None
+陵	ling2	驰	None	None
+陵	ling2	超越；经过	None	None
+陵	ling2	侵犯；欺侮	None	None
+陵	ling2	暴烈	None	None
+陵	ling2	急躁	None	None
+陵	ling2	战慄	None	None
+陵	ling2	严密	None	None
+陵	ling2	淬砺	None	None
+陵	ling2	地名 1.秦县名，在今江苏省宿迁市东南 2.元州名，明降为县，今山东省陵县	None	None
+陵	ling2	姓	None	None
+陬	zou1	山角	None	None
+陬	zou1	角落	None	None
+陬	zou1	边远偏僻的地方	None	None
+陬	zou1	区界	None	None
+陬	zou1	水边	None	None
+陬	zou1	山脚	None	None
+陬	zou1	农历正月的别名	None	None
+陬	zou1	通=聚(ju4) 村落	None	聚
+陬	zou1	古地名 春秋鲁邑，在今山东省曲阜市东南	None	None
+陬	zhe2	[有陬]古国名	None	None
+䧒	lai2	台阶	None	None
+陳	chen2	排列 如：陈设；陈列	None	None
+陳	chen2	行列	None	None
+陳	chen2	向上述说 如：陈述；详陈	None	None
+陳	chen2	显示；呈现	None	None
+陳	chen2	施展；施予	None	None
+陳	chen2	堂下至院门的通道	None	None
+陳	chen2	久；陈旧	None	None
+陳	chen2	众	None	None
+陳	chen2	通=田(tian2) 田野	None	田
+陳	chen2	古国名 在今河南省东部禾安徽省北部一带	None	None
+陳	chen2	古州名 北周改信州置，治所在秣陵县（今河南省沈丘县南） 隋移治宛丘县（今河南省淮阳县）	None	None
+陳	chen2	朝代名 南朝之一 公元557年陈霸先代梁称帝，国号陈，建都建康（今江苏省南京市） 有长江以南地区，是南朝版图最小的王朝，历五帝，三十三年 公元589年为隋所灭	None	None
+陳	chen2	姓	None	None
+陳	zhen4	军队行列 后作=陣	None	陣
+陳	zhen4	阵法，部队作战时的战斗队形 后作=陣	None	陣
+䧕	None	同=域	None	域
 𨺀	None	录入中	None	None
 陭	None	录入中	None	None
 𨺈	None	录入中	None	None
