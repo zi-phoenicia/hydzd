@@ -87442,46 +87442,84 @@
 隤	tui2	周邑名 故城在今河南省获嘉县境 一说在河南省修武县境	None	None
 䘀	fu4	[䘀螽]也作“=阜螽” 蚱蜢	None	阜
 𨼒	chan3	春秋鲁地名 在今山东省宁阳县西北 也作=僤、=闡	None	僤
-𨼊	None	录入中	None	None
-𨼓	None	录入中	None	None
-𨼍	None	录入中	None	None
-隩	None	录入中	None	None
-𨼕	None	录入中	None	None
-𨼦	None	录入中	None	None
-𨼌	None	录入中	None	None
-䧦	None	录入中	None	None
-𨼖	None	录入中	None	None
-𨼧	None	录入中	None	None
-𨼨	None	录入中	None	None
-隣	None	录入中	None	None
-隧	None	录入中	None	None
-𨻴	None	录入中	None	None
-𨼔	None	录入中	None	None
-𨼱	None	录入中	None	None
-隥	None	录入中	None	None
-𨼎	None	录入中	None	None
-𨽈	None	录入中	None	None
-𨼿	None	录入中	None	None
-𨼪	None	录入中	None	None
-𨼰	None	录入中	None	None
-𡽃	None	录入中	None	None
-𨼫	None	录入中	None	None
-䧨	None	录入中	None	None
-𨼷	None	录入中	None	None
-𨽉	None	录入中	None	None
-𨼸	None	录入中	None	None
-𨼹	None	录入中	None	None
-險	None	录入中	None	None
-𨼯	None	录入中	None	None
-𨼮	None	录入中	None	None
-𨼬	None	录入中	None	None
-䧪	None	录入中	None	None
-𨼻	None	录入中	None	None
-䧧	None	录入中	None	None
-𨼺	None	录入中	None	None
-𨼭	None	录入中	None	None
-隦	None	录入中	None	None
-隯	None	录入中	None	None
+⿰阝⿱央貝	None	同=隤	None	隤
+𨼊	wu2	地名 在今河南省陕县	None	None
+𨼓	zhi2	同=酈 古县名 在今河南省南阳市西北	None	酈
+𨼍	hao2	壕沟	None	None
+𨼍	hao2	城下道	None	None
+隩	yu3	水涯深曲处	None	None
+隩	yu3	藏	None	None
+隩	yu3	通=奥(ao4) 1.室内西南角 2.深 3.隐	None	奥
+隩	yu3	可以定居的地方 也作=墺	None	墺
+隩	yu3	通=燠 热；暖	None	燠
+隩	yu3	古州名，在今山西省河曲县东北	None	None
+𨼕	None	同=隨	None	隨
+𨼦	None	同=陲	None	陲
+𨼌	chen1	地名	None	None
+䧦	wei2	春秋郑坂名 在今河南省鲁山县境 也作=鄬	None	鄬
+𨼖	None	同=陰	None	陰
+𨼧	None	同=𨼮	None	𨼮
+𨼨	None	同=隴	None	隴
+隣	lin2	同=鄰	None	鄰
+⿰阝尊	None	同=樽	None	樽
+⿰阝⿱丷⿸厂⿱八𠮷	None	同⿰阝⿱丷⿸厂⿱八言	None	None
+隧	sui4	墓道	None	None
+隧	sui4	地道	None	None
+隧	sui4	路，道路	None	None
+隧	sui4	人体血气津液等运行分泌的通道	None	None
+隧	sui4	钟上受敲击的地方	None	None
+隧	sui4	旋转	None	None
+隧	sui4	通=遂 1.田间小沟 2.远郊之地 3.周代郊外的一种行政区划 五县为隧	None	遂
+隧	sui4	通=邃 深，指车箱的深度	None	邃
+隧	sui4	通=燧 烽火亭	None	燧
+隧	zhui4	通=墜 坠落	None	墜
+⿰阝𠔥	None	同=隒	None	隒
+𨻴	None	同=𨼮	None	𨼮
+𨼔	xun2	小土山名	None	None
+𨼱	jue2	同=䦼 凿开山陵的通道	None	䦼
+隥	deng4	同=磴 阶梯；石级	None	磴
+隥	deng4	险峻的山坡	None	None
+𨼎	jue2	隔绝	None	None
+𨽈	None	同=隘	None	隘
+𨼿	meng2	古山阜名	None	None
+𨼪	chu3	阪	None	None
+𨼰	None	同=墮	None	墮
+𡽃	None	同=㟎	None	㟎
+⿰阝雽	None	同=罅	None	罅
+𨼫	qu2	阶	None	None
+䧨	ye4	山崖险危貌	None	None
+𨼷	None	@	None	None
+𨽉	shu3	同=曙 破晓	None	曙
+𨼸	None	同=澤	None	澤
+𨼹	shi4	同=澨 涯岸	None	澨
+險	xian3	阻难	None	None
+險	xian3	要隘	None	None
+險	xian3	高峻	None	None
+險	xian3	遥远	None	None
+險	xian3	艰难	None	None
+險	xian3	阴险	None	None
+險	xian3	邪恶	None	None
+險	xian3	疾，迅猛	None	None
+險	xian3	危险	None	None
+險	xian3	奇异	None	None
+險	xian3	薄	None	None
+險	xian3	差点，险些	None	None
+險	jian3	通=儉 1.节约 2.瘦省；光秃	None	儉
+險	yan2	通=巖 岩岸	None	巖
+⿰阝⿳亼吅灬	None	同=險	None	險
+𨼯	ken3	吃哒	None	None
+𨼮	zhan4	陷	None	None
+𨼬	xie3	水衡官谷	None	None
+𨼬	xie3	小溪	None	None
+䧪	che4	女子态	None	None
+䧪	che4	前却不媚	None	None
+𨼻	None	同=躋	None	躋
+䧧	yi3	[岌䧧]也作“岌=㠖” 山高貌	None	㠖
+𨼺	None	同=隣(鄰)	None	隣
+⿰阝⿱丷⿸厂⿱八言	None	同=𨼮	None	𨼮
+𨼭	None	同=𠐻	None	𠐻
+隦	pi2	[隦堄]也作“=俾倪”、“=埤堄” 城上矮墙	None	俾
+隯	None	同=島	None	島
 𨽁	None	录入中	None	None
 𨽄	None	录入中	None	None
 𨽋	None	录入中	None	None
