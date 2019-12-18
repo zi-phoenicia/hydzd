@@ -79645,45 +79645,93 @@
 迥	jiong3	独	None	None
 迥	jiong3	姓	None	None
 𨒊	qiu2	拘留	None	None
-𨒵	None	录入中	None	None
-迭	None	录入中	None	None
-迮	None	录入中	None	None
-𨒣	None	录入中	None	None
-迤	None	录入中	None	None
-迫	None	录入中	None	None
-𨒛	None	录入中	None	None
-𨒄	None	录入中	None	None
-𨒦	None	录入中	None	None
-䢑	None	录入中	None	None
-迩	None	录入中	None	None
-𨒡	None	录入中	None	None
-迯	None	录入中	None	None
-𨒟	None	录入中	None	None
-迬	None	录入中	None	None
-𨒃	None	录入中	None	None
-𨒆	None	录入中	None	None
-迱	None	录入中	None	None
-𨒜	None	录入中	None	None
-𨒝	None	录入中	None	None
-𨒈	None	录入中	None	None
-迡	None	录入中	None	None
-𨒠	None	录入中	None	None
-𨒞	None	录入中	None	None
-𨒢	None	录入中	None	None
-迦	None	录入中	None	None
-迢	None	录入中	None	None
-迨	None	录入中	None	None
-迼	None	录入中	None	None
-逇	None	录入中	None	None
-𨒱	None	录入中	None	None
-𨒿	None	录入中	None	None
-𨒪	None	录入中	None	None
-迺	None	录入中	None	None
-迶	None	录入中	None	None
-𨒩	None	录入中	None	None
-𨒭	None	录入中	None	None
-䢕	None	录入中	None	None
-迾	None	录入中	None	None
+𮞉	None	同=迴	None	迴
+𨒵	None	同=過	None	過
+迭	die2	更迭；交替	None	None
+迭	die2	屡次；连着	None	None
+迭	die2	及 如：忙不迭	None	None
+迭	die2	道	None	None
+迭	die2	古代五声“徵”的别名	None	None
+迭	die2	交互	None	None
+迭	die2	同=叠 1.堆积；重叠 2.折叠	None	叠
+迭	die2	助词 表语气或结构关系，相当于“的”	None	None
+迭	die2	姓	None	None
+迭	yi4	过	None	None
+迭	yi4	通=軼 侵犯；袭击	None	軼
+迭	da2	同=达(達)	None	达
+迮	ze2	起	None	None
+迮	ze2	仓促	None	None
+迮	ze2	迫，迫蹙	None	None
+迮	ze2	同=窄 狭窄	None	窄
+迮	ze2	阻止	None	None
+迮	ze2	压榨	None	None
+迮	ze2	姓	None	None
+𨒣	None	同=𨒰(游)	None	𨒰
+迤	yi3	同=迆 斜行，地势斜着延伸	None	迆
+迤	yi3	介词 相当于“往”、“向”	None	None
+迤	yi2	[逶迤]见“逶”	None	None
+迤	tuo2	[逶迤]也作“逶迱” 行貌	None	None
+迫	po4	靠近，接近	None	None
+迫	po4	逼迫，强迫	None	None
+迫	po4	催促	None	None
+迫	po4	急迫，紧急	None	None
+迫	po4	狭窄	None	None
+迫	po4	困窘	None	None
+迫	po4	闭，笼罩	None	None
+迫	pai3	[迫击炮]用座钣承受后坐力，发射尾翼弹的一种滑膛曲射炮 一般从炮口装弹，构造简单，炮身短，射程较近，但轻便灵活，能在各种地形上配合步兵作战	None	None
+𨒛	None	同=邇	None	邇
+𨒄	yan3	行	None	None
+𨒦	yin3	[𨒦𨓇]走	None	None
+䢑	di3	怒不进	None	None
+䢑	di3	惊骇	None	None
+䢑	di4	惊不进	None	None
+䢑	di4	向不及	None	None
+迩	None	同=趰	None	趰
+𨒡	None	同=驅	None	驅
+迯	None	同=逃	None	逃
+𨒟	None	同=遷	None	遷
+迬	zhu4	行止	None	None
+迬	wang3	同=往	None	往
+𨒃	pan4	去	None	None
+𨒆	rong3	行	None	None
+迱	tuo2	[逶迱]同“逶=迤” 行貌	None	迤
+迱	yi2	[逶迱]也作“委=蛇” 公正貌	None	蛇
+迱	yi2	=移	None	移
+𨒜	bie2	@	None	None
+𨒝	None	同=𨑩	None	𨑩
+𨒈	None	同=遲	None	遲
+迡	ni4	近	None	None
+迡	chi2	同=遲	None	遲
+𨒠	None	同=䢌	None	䢌
+⿺辶𣎵	None	同=䢌	None	䢌
+𨒞	kan4	@	None	None
+𨒢	chuo4	走	None	None
+迦	jia1	[迦互]同“𨔣互” 令不得行	None	None
+迦	jia1	梵文译音字 释迦的专名用字	None	None
+迦	xie4	[迦逅]也作“=邂逅” 解脱貌 一说不期而会	None	邂
+迢	tiao2	[迢遰]也作“迢遞” 1.遥远貌 2.高貌，高峻貌	None	None
+迨	dai4	相及	None	None
+迨	dai4	等到	None	None
+迼	jie2	跳	None	None
+逇	dun4	[迗逇]见“迗”	None	None
+𨒱	gong1	@	None	None
+𨒿	None	同=遷	None	遷
+𨒪	None	同=迹	None	迹
+迺	nai3	惊声	None	None
+迺	nai3	往	None	None
+迺	nai3	远	None	None
+迺	nai3	到达	None	None
+迺	nai3	代词 1.第二人称代词，=你 2.相当于“此”、“这”	None	你
+迺	nai3	副词 1.相当于“却”、“反而” 2.相当于“于是”、“就” 3.相当于“始” 4.相当于“仅仅” 5.相当于“竟然”	None	None
+迺	nai3	助词 无实义，起调整音节的作用	None	None
+迺	nai3	姓	None	None
+迶	you4	行；行貌	None	None
+𨒩	ruan3	行迟	None	None
+𨒭	None	同=恢	None	恢
+䢕	xu4	众走貌	None	None
+迾	lie3	遮，拦阻 古王宫或车驾出行列队以警戒	None	None
+迾	lie3	同=列 排列	None	列
+迾	lie3	同=例	None	例
 𨒬	None	录入中	None	None
 𨓃	None	录入中	None	None
 𨒤	None	录入中	None	None
