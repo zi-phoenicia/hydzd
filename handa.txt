@@ -87030,18 +87030,32 @@
 䧐	None	同=崞	None	崞
 ⿰阝⿱⿸丶⿸廾丶土	None	同=陞	None	陞
 ⿰阝兖	None	同=𨺥	None	𨺥
-陪	None	录入中	None	None
-𨺅	None	录入中	None	None
-𨹵	None	录入中	None	None
-䧑	None	录入中	None	None
-𨺩	None	录入中	None	None
-𨺔	None	录入中	None	None
-𨺜	None	录入中	None	None
-𨺂	None	录入中	None	None
-𨹸	None	录入中	None	None
-𨹶	None	录入中	None	None
-𨺝	None	录入中	None	None
-陿	None	录入中	None	None
+陪	pei2	重叠的土堆 引申为重	None	None
+陪	pei2	家臣	None	None
+陪	pei2	增益	None	None
+陪	pei2	辅佐；协助	None	None
+陪	pei2	伴随；陪同 如：陪客；陪酒	None	None
+陪	pei2	朝拜	None	None
+陪	pei2	满	None	None
+陪	pei2	同=賠 赔偿	None	賠
+陪	pei2	通=倍(bei4) 背向；反背	None	倍
+陪	pei2	汉侯国名 在今山东省平原县境	None	None
+𨺅	fu4	两阜之间	None	None
+𨹵	juan3	古村落名 故地在今山西省运城市境	None	None
+䧑	di1	同=隄	None	隄
+䧑	di1	姓	None	None
+𨺩	qian2	同=乾	None	乾
+𨺔	None	同=歸	None	歸
+𨺜	None	同=歸	None	歸
+⿰⿺𠃊𠂤来	gui1	@	None	None
+𨺂	None	同=陷	None	陷
+𨹸	zhao4	用锹翻起板土	None	None
+𨹸	zhao4	耕休田，隔一二年轮换耕种的田	None	None
+𨹸	zhao4	田间的土埂子	None	None
+𨹶	None	同=隮	None	隮
+𨺝	zhuo2	@	None	None
+陿	xia2	同=狹 窄	None	狹
+陿	xia2	同=峽 山夹水的地方	None	峽
 𨺿	None	录入中	None	None
 𨻇	None	录入中	None	None
 𨺶	None	录入中	None	None
