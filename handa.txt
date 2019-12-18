@@ -87597,30 +87597,38 @@
 隴	long3	隆盛，兴盛	None	None
 隴	long3	同=壟 1.田界，田塍 也指农田中种植作物的土埂 2.高丘 3.坟墓	None	壟
 隴	long3	姓	None	None
-𤑾	None	录入中	None	None
-䧮	None	录入中	None	None
-𨽤	None	录入中	None	None
-𨽧	None	录入中	None	None
-𨽥	None	录入中	None	None
-隵	None	录入中	None	None
-䧯	None	录入中	None	None
-𨽘	None	录入中	None	None
-𨽡	None	录入中	None	None
-𨽩	None	录入中	None	None
-𨽦	None	录入中	None	None
-𨽨	None	录入中	None	None
-䧰	None	录入中	None	None
-𨽪	None	录入中	None	None
-𨽫	None	录入中	None	None
-𨽬	None	录入中	None	None
-𨽭	None	录入中	None	None
-𨽮	None	录入中	None	None
-𨽯	None	录入中	None	None
-𩼏	None	录入中	None	None
-𨽰	None	录入中	None	None
-𨽲	None	录入中	None	None
-𨽵	None	录入中	None	None
-𨽴	None	录入中	None	None
+⿳隊人氺	None	同=墜	None	墜
+𤑾	None	同=燧	None	燧
+䧮	xian4	地名	None	None
+䧮	xian3	同=顯	None	顯
+𨽤	None	同=𨽍	None	𨽍
+𨽧	huan1	同=酄 春秋时鲁国城邑名 在今山东省肥城市西南	None	酄
+𨽥	None	同=騭	None	騭
+隵	xi1	同=巇 1.高险；险恶 2.间隙，可乘之机	None	巇
+隵	xi1	同=㚀(𡓰) 毁	None	㚀
+䧯	chan2	地名	None	None
+䧯	zhan4	陷	None	None
+𨽘	None	同=隮	None	隮
+𨽡	None	同=隧	None	隧
+⿱隊炏	None	同=燧	None	燧
+𨽩	None	同=𨽝(隘)	None	𨽝
+𨽦	ni4	[𨹝𨽦]见“𨹝”	None	None
+𨽦	ni4	=隔的讹字	None	隔
+𨽨	qian2	同=灊 县名	None	灊
+䧰	hun4	土山	None	None
+⿲𨸏益阜	None	同=隘	None	隘
+𨽪	None	同=隘	None	隘
+𨽫	None	同=陸	None	陸
+⿰阝𡴪	None	同=陸	None	陸
+𨽬	None	同=𨼊	None	𨼊
+𨽭	None	同=陰	None	陰
+𨽮	None	同=𩐌	None	𩐌
+𨽯	xia4	=㙤(罅) 坼裂	None	㙤
+𩼏	None	同=䲊	None	䲊
+𨽰	None	同=陸	None	陸
+𨽲	ling2	缝隙	None	None
+𨽵	None	同=𤎩(燧)	None	𤎩
+𨽴	None	同=隘	None	隘
 金	jin1	金属总名 如：五金；金属	None	None
 金	jin1	化学元素 符号Au 原子序数79 通称黄金或金子 为古代五金之一 黄色，常以粒状存于沙砾和岩石中，质柔软，延展性强，化学性质稳定，不溶于酸和碱，但溶于王水 多用来制造货币，装饰器物等，在工业上也有一定用途 (新拉aurum)	None	None
 金	jin1	钱财；货币	None	None
