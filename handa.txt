@@ -87219,26 +87219,53 @@
 𨺮	xun4	古亭名	None	None
 ⿰阝⿳厶⿺夂丶山	None	同=陖	None	陖
 䧘	zhuan4	路边矮墙	None	None
-隞	None	录入中	None	None
-𨻃	None	录入中	None	None
-䧞	None	录入中	None	None
-𨼆	None	录入中	None	None
-隔	None	录入中	None	None
-隓	None	录入中	None	None
-𨻒	None	录入中	None	None
-𨻰	None	录入中	None	None
-𨻢	None	录入中	None	None
-𨻣	None	录入中	None	None
-𨻏	None	录入中	None	None
-𨻊	None	录入中	None	None
-𨻤	None	录入中	None	None
-𨻐	None	录入中	None	None
-𨻭	None	录入中	None	None
-𨻘	None	录入中	None	None
-𨻋	None	录入中	None	None
-隙	None	录入中	None	None
-𨻈	None	录入中	None	None
-𨻥	None	录入中	None	None
+隞	ao2	古地名，商代中丁都城 在今河南省荥阳市东北敖山南 也作=囂或=敖	None	囂
+𨻃	fei4	同=陫(厞)	None	陫
+䧞	ma4	增益	None	None
+䧞	ma4	巧	None	None
+䧞	ma4	号码；筹码	None	None
+䧞	fu4	马盛 也作=𩣸	None	𩣸
+𨼆	None	同=隱	None	隱
+隔	ge2	障隔；阻塞	None	None
+隔	ge2	抑制	None	None
+隔	ge2	别离	None	None
+隔	ge2	远，空间或时间上的距离长	None	None
+隔	ge2	界限	None	None
+隔	ge2	变异	None	None
+隔	ge2	不相合	None	None
+隔	ge2	同=膈 人或哺乳动物胸腔和腹腔之间的膜状肌肉	None	膈
+隔	ge2	格子 也作=槅(格)	None	槅
+隔	ge2	我国古代音乐术语 指某些弹弦乐器的柱，即按音的位置	None	None
+隔	rong2	同=融 融和	None	融
+隔	ji1	通=擊	None	擊
+隓	hui1	倒塌的城墙	None	None
+隓	hui1	同=隳 毁坏	None	隳
+隓	duo4	同=陊 坠落	None	陊
+𨻒	wei1	[𨻒夷]西陵名	None	None
+𨻰	None	同=陳	None	陳
+𨻢	None	同=陑	None	陑
+𨻣	yuan2	水流所从处 也作=源	None	源
+𨻏	yi4	同=瘗 埋	None	瘗
+𨻊	yi4	同=瘗	None	瘗
+𨻊	yi4	坚	None	None
+𨻤	None	=𡟨的讹字	None	𡟨
+𨻐	None	同=地	None	地
+𨻭	None	同=隑	None	隑
+𨻘	None	同=陛	None	陛
+𨻋	None	同=隰	None	隰
+隙	xi4	墙壁裂缝 也泛指孔穴、空隙	None	None
+隙	xi4	孔道，要道	None	None
+隙	xi4	穿（穴）	None	None
+隙	xi4	裂开；破裂	None	None
+隙	xi4	空闲	None	None
+隙	xi4	缺点，过失	None	None
+隙	xi4	漏洞；可乘之机	None	None
+隙	xi4	隔阂	None	None
+隙	xi4	怨恨	None	None
+隙	xi4	连接	None	None
+隙	xi4	窗	None	None
+𨻈	suo3	地名	None	None
+𨻥	xi2	同=隰 低湿的地方	None	隰
 𨻂	None	录入中	None	None
 隕	None	录入中	None	None
 隑	None	录入中	None	None
