@@ -87266,35 +87266,61 @@
 隙	xi4	窗	None	None
 𨻈	suo3	地名	None	None
 𨻥	xi2	同=隰 低湿的地方	None	隰
-𨻂	None	录入中	None	None
-隕	None	录入中	None	None
-隑	None	录入中	None	None
-𨻪	None	录入中	None	None
-𨻎	None	录入中	None	None
-𨻌	None	录入中	None	None
-𨻄	None	录入中	None	None
-𨻁	None	录入中	None	None
-𨻑	None	录入中	None	None
-隖	None	录入中	None	None
-𨻀	None	录入中	None	None
-𨻆	None	录入中	None	None
-𨻔	None	录入中	None	None
-䧟	None	录入中	None	None
-𨻦	None	录入中	None	None
-𨻧	None	录入中	None	None
-䧚	None	录入中	None	None
-𨻕	None	录入中	None	None
-䧜	None	录入中	None	None
-䧛	None	录入中	None	None
-𨻓	None	录入中	None	None
-𨻖	None	录入中	None	None
-隘	None	录入中	None	None
-隒	None	录入中	None	None
-䧝	None	录入中	None	None
-𨻍	None	录入中	None	None
-𨻅	None	录入中	None	None
-𨻗	None	录入中	None	None
-𨻉	None	录入中	None	None
+⿰阝⿱日𠣏	jie2	@	None	None
+𨻂	None	同=隁	None	隁
+⿰阝⿱由⿰⿷匚一人	None	同=隈	None	隈
+隕	yun3	坠落	None	None
+隕	yun3	毁坏	None	None
+隕	yun3	失去	None	None
+隕	yun3	通=殞 死亡	None	殞
+隕	yuan2	通=員 周围	None	員
+⿰阝⿳因一⿰𠄌⿺乀丿	None	同=隈	None	隈
+隑	gai1	梯子	None	None
+隑	gai1	方言 倚靠	None	None
+隑	ai2	[隑隑]企立貌	None	None
+隑	ai2	长	None	None
+隑	qi2	同=碕 弯曲的岸	None	碕
+𨻪	None	同=陵	None	陵
+𨻎	None	同=陵	None	陵
+𨻌	lei3	堆集；重叠	None	None
+𨻄	nie4	[阢𨻄]同“阢=隉”	None	隉
+𨻁	xi1	古地名	None	None
+𨻑	None	同=隖	None	隖
+隖	wu4	四边高中央低的地方 后作=塢	None	塢
+隖	wu4	小城堡 后作=塢	None	塢
+𨻀	pi2	同=阰	None	阰
+𨻀	bi1	同=𨻼	None	𨻼
+⿰阝⿸𠂆⿸虍人	None	同=𨻆	None	𨻆
+𨻆	zhi4	地名	None	None
+𨻔	None	同=隂(陰)	None	隂
+⿰阝⿱人長	None	同=陰	None	陰
+䧟	None	同=陷	None	陷
+𨻦	None	同=隆	None	隆
+𨻧	liu2	[𨻧隍]地名	None	None
+䧚	hao4	同=鄗 古地名 故城在今河北省柏乡县境	None	鄗
+𨻕	ji1	同=隮 登上；升上	None	隮
+䧜	tang2	同=塘 堤岸；堤防	None	塘
+䧜	tang2	庙中路，泛指道路 也作=唐	None	唐
+䧛	bang4	同=傍 靠近	None	傍
+䧛	peng2	同=𨎧 车声	None	𨎧
+𨻓	None	同=陪	None	陪
+𨻖	chen1	古地名	None	None
+隘	ai4	狭隘	None	None
+隘	ai4	指人器量褊狭	None	None
+隘	ai4	险要处	None	None
+隘	ai4	穷困；窘迫	None	None
+隘	ai4	急	None	None
+隘	e4	同=厄 1.阻塞；隔绝 2.阻止	None	厄
+隒	yan3	层叠的山崖	None	None
+隒	yan3	旁边，山边	None	None
+⿰阝⿱㓁𠮷	None	同⿰阝⿱丷⿸厂⿱八言	None	None
+䧝	chi1	地名	None	None
+䧝	zhi4	山名	None	None
+𨻍	xu1	颓	None	None
+⿰阝⿳厼又山	None	同⿰阝⿱厼又	None	None
+𨻅	None	同=陖	None	陖
+𨻗	die2	佛经中译音用字	None	None
+𨻉	None	同=𨹜	None	𨹜
 𨻨	None	录入中	None	None
 𨻩	None	录入中	None	None
 𨻳	None	录入中	None	None
