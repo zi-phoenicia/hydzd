@@ -79598,27 +79598,53 @@
 迟	None	=遲的简化字	None	遲
 𨑣	xue4	走	None	None
 𨑩	di4	同=弔 至	None	弔
-𨒀	None	录入中	None	None
-𨑦	None	录入中	None	None
-𨒌	None	录入中	None	None
-𨓄	None	录入中	None	None
-𨒍	None	录入中	None	None
-迲	None	录入中	None	None
-迣	None	录入中	None	None
-述	None	录入中	None	None
-𨒘	None	录入中	None	None
-𨒙	None	录入中	None	None
-𨒏	None	录入中	None	None
-𨒋	None	录入中	None	None
-迠	None	录入中	None	None
-𨒚	None	录入中	None	None
-䢐	None	录入中	None	None
-𨒇	None	录入中	None	None
-迧	None	录入中	None	None
-迪	None	录入中	None	None
-𨒅	None	录入中	None	None
-迥	None	录入中	None	None
-𨒊	None	录入中	None	None
+𨒀	cong2	同=从 听从	None	从
+𨒀	cong2	同=從 介词 表示起于何时或何处	None	從
+𨑦	None	同=徐	None	徐
+𨒌	None	同=征	None	征
+𨓄	None	同=𨒍	None	𨒍
+𨒍	shi4	游步	None	None
+迲	None	@	None	None
+迣	zhi4	迾，遮拦	None	None
+迣	zhi4	车驾清道	None	None
+迣	zhi4	度	None	None
+迣	chi4	越，超越	None	None
+述	shu4	遵循	None	None
+述	shu4	申述；记叙	None	None
+述	shu4	阐述前人成说	None	None
+述	shu4	古代的一种文体	None	None
+述	shu4	通=鷸(yu4) 一种古代冠饰，以翠鸟羽制作	None	鷸
+述	shu4	姓	None	None
+𨒘	None	同=𨒉	None	𨒉
+𨒙	tuo1	同=託	None	託
+𨒙	hou4	同=逅	None	逅
+𨒏	None	同=迹	None	迹
+𨒋	yue4	同=越 逾越	None	越
+𨒋	yue4	散走	None	None
+迠	che4	行	None	None
+迠	che4	飞貌	None	None
+𨒚	None	=趄的讹字	None	趄
+䢐	cu2	同=徂 往	None	徂
+𨒇	jia2	人名用字	None	None
+迧	None	同=陳	None	陳
+迪	di2	道，道理	None	None
+迪	di2	引导，开导	None	None
+迪	di2	蹈，实践	None	None
+迪	di2	动，作	None	None
+迪	di2	任用；进用	None	None
+迪	di2	进，前进	None	None
+迪	di2	跟从；遵循	None	None
+迪	di2	行，出奔	None	None
+迪	di2	助词 用于句首或句中，无实义，起调节音节作用	None	None
+迪	di2	姓	None	None
+𨒅	qi4	绕道而行	None	None
+𨒅	qi4	弯曲	None	None
+迥	jiong3	远	None	None
+迥	jiong3	迥然 形容差得远	None	None
+迥	jiong3	僻远的处所	None	None
+迥	jiong3	独	None	None
+迥	jiong3	姓	None	None
+𨒊	qiu2	拘留	None	None
 𨒵	None	录入中	None	None
 迭	None	录入中	None	None
 迮	None	录入中	None	None
