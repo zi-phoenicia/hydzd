@@ -86713,32 +86713,90 @@
 降	xiang4	通=鬨 争斗	None	鬨
 䧄	ge4	人名	None	None
 𨹓	None	同=降	None	降
-陊	None	录入中	None	None
-𨹔	None	录入中	None	None
-䧇	None	录入中	None	None
-陔	None	录入中	None	None
-𨹗	None	录入中	None	None
-𨹕	None	录入中	None	None
-𨹖	None	录入中	None	None
-限	None	录入中	None	None
-𨹃	None	录入中	None	None
-𨹆	None	录入中	None	None
-𨹧	None	录入中	None	None
-𨹟	None	录入中	None	None
-𨹙	None	录入中	None	None
-陡	None	录入中	None	None
-陣	None	录入中	None	None
-陠	None	录入中	None	None
-𨹜	None	录入中	None	None
-陙	None	录入中	None	None
-𨹞	None	录入中	None	None
-陜	None	录入中	None	None
-陝	None	录入中	None	None
-𨹢	None	录入中	None	None
-陛	None	录入中	None	None
-陘	None	录入中	None	None
-陟	None	录入中	None	None
-陗	None	录入中	None	None
+陊	duo4	堕落 也作=墮	None	墮
+陊	duo4	败坏；破败	None	None
+陊	duo4	山崩	None	None
+陊	duo4	下坂貌	None	None
+⿰阝⿱夕巳	ai1	@	None	None
+𨹔	tuo2	[沙𨹔]也作“沙=陀” 古部落名	None	陀
+𬯀	None	=隮的类推简化字	None	隮
+䧇	yi1	[天䧇]阪名 亦县名 在今甘肃省玉门市东	None	None
+䧇	yi3	陵名	None	None
+陔	gai1	阶次，殿阶的石级次序	None	None
+陔	gai1	层次，重次	None	None
+陔	gai1	台阶	None	None
+陔	gai1	田埂	None	None
+陔	gai1	陔夏的省称 古乐章名	None	None
+陔	gai1	同=垓 数词 十京（即一万万）为垓	None	垓
+𨹗	bing1	屋蔽	None	None
+⿰阝㝎	None	同=䧑	None	䧑
+𨹕	None	同=陀	None	陀
+𨹖	None	同=阸	None	阸
+限	xian4	阻隔	None	None
+限	xian4	门槛	None	None
+限	xian4	界限；限度	None	None
+限	xian4	止境；极限	None	None
+限	xian4	官阶，官爵	None	None
+限	xian4	限制；限定 如：限期完工	None	None
+限	xian4	腰部	None	None
+限	xian4	黄道之差，始自春分秋分，赤道所交，前后各五度为限	None	None
+限	xian4	齐	None	None
+限	wen3	切急意	None	None
+𨹃	duo3	同=垜 1.古代设于堂中两楹间的土台	None	垜
+𨹃	duo3	小崖	None	None
+𨹃	duo4	小堆	None	None
+𨹆	xuan4	坑	None	None
+𨹧	None	同=陵	None	陵
+𨹟	None	同=陋	None	陋
+𨹙	tun1	多合貌	None	None
+𨹙	tun1	坑	None	None
+陡	dou3	山势峻峭	None	None
+陡	dou3	突然	None	None
+陡	dou3	哆嗦 也作=抖	None	抖
+陡	dou3	地名	None	None
+⿰阝⿳土八又	None	同=陿	None	陿
+陣	zhen4	军队行列	None	None
+陣	zhen4	阵法，部队作战时的战斗队形	None	None
+陣	zhen4	阵地；战场 如：阵亡；上阵杀敌	None	None
+陣	zhen4	量词 表示事物经过的一定时间段落	None	None
+陠	pu1	偏斜	None	None
+陠	pu1	裂	None	None
+陠	bu1	同=庯 平顶屋	None	庯
+陠	bu4	舍下	None	None
+𨹜	dou4	高峻	None	None
+陙	chun2	水边	None	None
+𨹞	None	同=産	None	産
+陜	xia2	同=狹 狭隘，狭窄	None	狹
+陜	xia2	同=峽 两山夹水的地方	None	峽
+陝	shan3	古地名，在今河南省陕县	None	None
+陝	shan3	陕西省的简称 如：陕北；陕甘宁地区	None	None
+陝	shan3	姓	None	None
+⿰阝⿷匚⿻人䒑	None	同=陿	None	陿
+⿰阝⿺𠃊夹	None	同=陿	None	陿
+𨹢	None	同=陘	None	陘
+陛	bi4	阶梯	None	None
+陛	bi4	特指官阶等级	None	None
+陛	bi4	帝王宫殿的台阶 因以“陛下”为对帝王的尊称	None	None
+陛	bi4	执兵器列于陛侧	None	None
+陘	xing2	山脉中断的地方	None	None
+陘	xing2	斜坡	None	None
+陘	xing2	灶边承放器物的地方	None	None
+陘	xing2	地名 1.春秋楚地，在今河南省漯河市 2.战国韩地，在今山西省曲沃县境 3.春秋周地，在今河南省沁阳市西北	None	None
+陘	xing2	姓	None	None
+陘	jing4	[海陘]春秋鲁隘道	None	None
+陟	zhi4	登，由低处向上走，与“降”相对	None	None
+陟	zhi4	登程；上路	None	None
+陟	zhi4	晋升	None	None
+陟	zhi4	重叠的山陵	None	None
+陟	zhi4	高	None	None
+陟	zhi4	通=騭 牡马	None	騭
+陟	zhi4	通=勅 诏告	None	勅
+陟	de2	得，得到，应验	None	None
+⿰阝⿱少马	None	=隲的类推简化字	None	隲
+⿰𨸏肖	None	同=陗	None	陗
+陗	qiao4	同=峭 陡直高峻	None	峭
+陗	qiao4	严峻褊狭	None	None
+陗	qiao4	隐	None	None
 陧	None	录入中	None	None
 䧋	None	录入中	None	None
 𨹨	None	录入中	None	None
