@@ -79732,45 +79732,152 @@
 迾	lie3	遮，拦阻 古王宫或车驾出行列队以警戒	None	None
 迾	lie3	同=列 排列	None	列
 迾	lie3	同=例	None	例
-𨒬	None	录入中	None	None
-𨓃	None	录入中	None	None
-𨒤	None	录入中	None	None
-𨒧	None	录入中	None	None
-䢗	None	录入中	None	None
-迵	None	录入中	None	None
-𨓂	None	录入中	None	None
-迴	None	录入中	None	None
-𨒲	None	录入中	None	None
-选	None	录入中	None	None
-适	None	录入中	None	None
-追	None	录入中	None	None
-逈	None	录入中	None	None
-逅	None	录入中	None	None
-䢔	None	录入中	None	None
-逃	None	录入中	None	None
-迿	None	录入中	None	None
-逄	None	录入中	None	None
-迻	None	录入中	None	None
-𨒶	None	录入中	None	None
-迹	None	录入中	None	None
-𨓀	None	录入中	None	None
-䢒	None	录入中	None	None
-𨒮	None	录入中	None	None
-𨒳	None	录入中	None	None
-𨒨	None	录入中	None	None
-𨒫	None	录入中	None	None
-迸	None	录入中	None	None
-送	None	录入中	None	None
-迷	None	录入中	None	None
-𨒾	None	录入中	None	None
-逆	None	录入中	None	None
-䢓	None	录入中	None	None
-䢖	None	录入中	None	None
-𨒼	None	录入中	None	None
-退	None	录入中	None	None
-逊	None	录入中	None	None
-𨒽	None	录入中	None	None
-𨒯	None	录入中	None	None
+⿺辶尧	None	=遶的类推简化字	None	遶
+𨒬	chi1	走貌	None	None
+𨓃	None	同=迓	None	迓
+𨒤	ci3	同=𧺼	None	𧺼
+𨒤	ci3	异	None	None
+𨒧	shi4	同=𧻸 超越 ……一说同=迣	None	𧻸
+䢗	qu1	@	None	None
+迵	dong4	洞彻，通达	None	None
+𨓂	None	同=𨖮	None	𨖮
+迴	hui2	旋转	None	None
+迴	hui2	返回；掉转	None	None
+迴	hui2	运转	None	None
+迴	hui2	环绕	None	None
+迴	hui2	曲折，迂回	None	None
+迴	hui2	迂回难行	None	None
+迴	hui2	回避，逃避	None	None
+迴	hui2	量词 指动作的次数	None	None
+𨒲	mi2	同=迷	None	迷
+𨒲	xue4	@	None	None
+选	None	=選的简化字	None	選
+适	kuo4	疾	None	None
+适	kuo4	姓	None	None
+适	shi4	=適的简化字	None	適
+追	zhui1	追赶	None	None
+追	zhui1	随，随从	None	None
+追	zhui1	回溯，上溯已往	None	None
+追	zhui1	补救，事后补行	None	None
+追	zhui1	寻求；追求	None	None
+追	zhui1	追究	None	None
+追	zhui1	催逼；索取	None	None
+追	zhui1	逮捕，拘捕	None	None
+追	zhui1	削夺；收缴	None	None
+追	zhui1	祭祀先人，表示追念	None	None
+追	zhui1	送别，饯送	None	None
+追	zhui1	招引；召回	None	None
+追	zhui1	中医指补益	None	None
+追	zhui1	古国名，我国北方少数民族所建	None	None
+追	zhui1	姓	None	None
+追	dui1	钟钮	None	None
+追	dui1	通=彫(雕diao1) 雕琢玉石	None	彫
+追	dui1	通=堆 沙堆	None	堆
+追	tui4	和柔毛	None	None
+逈	None	同=迥	None	迥
+逅	hou4	[邂逅]见“邂” 单用义同	None	None
+䢔	he2	行相及	None	None
+逃	tao2	逃亡；逃走	None	None
+逃	tao2	躲避	None	None
+逃	tao2	离开，离去	None	None
+逃	tao2	窜匿	None	None
+逃	tao2	播	None	None
+迿	xun4	争先	None	None
+逄	feng2	同=逢 遇	None	逢
+逄	pang2	塞	None	None
+逄	pang2	同=逢 姓	None	逢
+迻	yi2	同=移 迁徙	None	移
+𨒶	None	=迤的讹字	None	迤
+迹	ji4	脚印	None	None
+迹	ji4	行迹，行踪	None	None
+迹	ji4	业绩；事迹	None	None
+迹	ji4	痕迹	None	None
+迹	ji4	形迹	None	None
+迹	ji4	效法；遵循	None	None
+迹	ji4	追踪，寻迹	None	None
+迹	ji4	考核；推究	None	None
+迹	ji4	正道	None	None
+迹	ji4	理	None	None
+𨓀	None	同=庭	None	庭
+䢒	jiao1	交会；交错 也作=交	None	交
+𨒮	ci1	[𨒮雎]同“=趑趄” 难行	None	趑
+𨒳	None	同=卒	None	卒
+𨒨	hai4	走	None	None
+𨒫	yang2	进退貌	None	None
+𨒫	ni4	同=逆	None	逆
+迸	beng4	散走，奔散	None	None
+迸	beng4	涌出；喷射	None	None
+迸	beng4	爆开；断裂	None	None
+迸	beng4	向外突然发出	None	None
+迸	beng4	板着，绷着	None	None
+迸	beng4	弹；跳	None	None
+迸	beng4	通=屏(bing3)	None	屏
+迸	peng1	同=拼 使	None	拼
+迸	peng1	从	None	None
+送	song4	遣去；送亲	None	None
+送	song4	陪送；送行 1.陪伴人到某地 2.送葬 3.目送；注视（离开的人或物） 4.送神	None	None
+送	song4	在后追赶	None	None
+送	song4	输送，送交	None	None
+送	song4	传送	None	None
+送	song4	馈赠	None	None
+送	song4	了结；断送 如：送死；送命	None	None
+送	song4	度过；排遣	None	None
+送	song4	帮助咽下	None	None
+送	song4	书写笔法的一种	None	None
+迷	mi2	困惑；迷乱	None	None
+迷	mi2	迷路；不辨方向	None	None
+迷	mi2	失误	None	None
+迷	mi2	遮阻；遮盖	None	None
+迷	mi2	媚惑；使人入迷	None	None
+迷	mi2	沉醉于某一事物，多用指人 如：球迷；戏迷	None	None
+迷	mi2	昏迷	None	None
+迷	mi2	同=谜 隐语	None	谜
+迷	mi2	方言 躲避，隐藏	None	None
+迷	mi2	通=彌 充满；弥漫	None	彌
+迷	mi2	姓	None	None
+迷	mi4	[一迷]即“一=味”	None	味
+𨒾	None	同=遞	None	遞
+逆	ni4	迎接	None	None
+逆	ni4	迎受；承受	None	None
+逆	ni4	接受	None	None
+逆	ni4	反，倒着	None	None
+逆	ni4	颠倒	None	None
+逆	ni4	退后；退去	None	None
+逆	ni4	回旋	None	None
+逆	ni4	不顺从	None	None
+逆	ni4	抗拒；拒绝	None	None
+逆	ni4	叛乱；背叛	None	None
+逆	ni4	预料；猜度	None	None
+逆	ni4	上书	None	None
+逆	ni4	乖于常理	None	None
+逆	ni4	中医指某些病症	None	None
+䢓	yu2	[䆫䢓]床	None	None
+䢓	yu2	窗	None	None
+䢖	yu3	分布	None	None
+䢖	yu3	行貌	None	None
+䢖	lv4	述	None	None
+𨒼	gen4	走止	None	None
+退	tui4	退却；后退	None	None
+退	tui4	离去 如：引退	None	None
+退	tui4	归，返回	None	None
+退	tui4	谦让	None	None
+退	tui4	柔和貌	None	None
+退	tui4	改悔	None	None
+退	tui4	衰减；消失	None	None
+退	tui4	停止	None	None
+退	tui4	迟缓；畏缩	None	None
+退	tui4	坠	None	None
+退	tui4	退还 如：退赃；退货	None	None
+退	tui4	脱去；除去	None	None
+退	tui4	（笔）秃	None	None
+退	tui4	同=褪 减退 如：退色	None	褪
+退	tui4	天文学上称天体自东向西运行为“退”	None	None
+退	tui4	姓	None	None
+逊	None	=遜的简化字	None	遜
+𨒽	zao4	同=造	None	造
+𨒽	suo1	造作	None	None
+𨒴	ji3	@	None	None
+𨒯	None	同=逃	None	逃
 𨒴	ji3	@	None	None
 𨒥	None	同=後	None	後
 𨓁	beng3	出	None	None
