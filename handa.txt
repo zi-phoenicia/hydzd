@@ -86609,44 +86609,110 @@
 阺	di3	土山坡	None	None
 阺	di3	理	None	None
 阺	di3	下	None	None
-䧁	None	录入中	None	None
-𨸻	None	录入中	None	None
-𨸲	None	录入中	None	None
-𨸫	None	录入中	None	None
-陀	None	录入中	None	None
-阸	None	录入中	None	None
-𨸼	None	录入中	None	None
-𨸰	None	录入中	None	None
-䧂	None	录入中	None	None
-陂	None	录入中	None	None
-𨸳	None	录入中	None	None
-陉	None	录入中	None	None
-䧆	None	录入中	None	None
-陋	None	录入中	None	None
-陏	None	录入中	None	None
-陌	None	录入中	None	None
-陑	None	录入中	None	None
-陓	None	录入中	None	None
-𨹇	None	录入中	None	None
-𨹒	None	录入中	None	None
-𨹚	None	录入中	None	None
-陕	None	录入中	None	None
-䧅	None	录入中	None	None
-𨹀	None	录入中	None	None
-𨹂	None	录入中	None	None
-𨹁	None	录入中	None	None
-𨹌	None	录入中	None	None
-陎	None	录入中	None	None
-𨹅	None	录入中	None	None
-𨹉	None	录入中	None	None
-𨹊	None	录入中	None	None
-𨹈	None	录入中	None	None
-𨹋	None	录入中	None	None
-𨹄	None	录入中	None	None
-陒	None	录入中	None	None
-降	None	录入中	None	None
-䧄	None	录入中	None	None
-𨹓	None	录入中	None	None
+⿰𨸏句	None	同=䧁	None	䧁
+䧁	xu3	离	None	None
+䧁	xu3	古乡名 在安邑 安邑唐初属河东道，后改隶河南道	None	None
+𨸻	lin4	@	None	None
+⿰阝𬼜	None	同=陀	None	陀
+𨸲	None	同=師	None	師
+𨸫	None	同=䧎	None	䧎
+陀	tuo2	[陂陀]见“陂”	None	None
+陀	tuo2	团状物	None	None
+陀	tuo2	量词	None	None
+陀	tuo2	沙陀的简称	None	None
+陀	duo4	毁坏；崩落	None	None
+阸	e4	阻塞；阻隔	None	None
+阸	e4	艰危；灾难	None	None
+阸	e4	困迫；逼迫	None	None
+阸	e4	限界；障碍	None	None
+阸	ai4	险要之地	None	None
+阸	ai4	守险要之地	None	None
+阸	ai4	同=隘 狭隘	None	隘
+𨸼	bi4	邑名	None	None
+𨸰	ju3	曲岸外侧 也作=隈	None	隈
+䧂	None	同=𨹸	None	𨹸
+陂	bei1	山坡；斜坡	None	None
+陂	bei1	池塘湖泊	None	None
+陂	bei1	壅塞	None	None
+陂	bei1	边际；旁边	None	None
+陂	bei1	倾斜	None	None
+陂	bi4	偏邪 不正	None	None
+陂	po1	[陂陀]也作“陂陁” 1.险阻，倾斜不平 2.倾斜不平的坡地	None	None
+陂	pi2	[陂池]旁颓貌	None	None
+陂	pi2	[黄陂]旧县名 在湖北省 1998年改为武汉市黄陂区	None	None
+𨸳	None	同=𨹃	None	𨹃
+陉	None	=陘的简化字	None	陘
+⿰阝㱏	None	同=涎	None	涎
+䧆	hong2	坑	None	None
+陋	lou4	狭隘；简陋	None	None
+陋	lou4	低小	None	None
+陋	lou4	见闻不广 如：孤陋寡闻	None	None
+陋	lou4	偏僻；边远	None	None
+陋	lou4	隐蔽	None	None
+陋	lou4	卑贱；低微	None	None
+陋	lou4	野鄙；粗俗	None	None
+陋	lou4	吝啬	None	None
+陋	lou4	鄙视；轻视	None	None
+陋	lou4	丑陋；猥琐	None	None
+陋	lou4	粗劣	None	None
+陋	lou4	姓	None	None
+陏	duo4	瓜类植物的果实 也作=蓏	None	蓏
+陏	sui2	春秋时国名 后为县名 在今湖北省随州市南 也作=隨	None	隨
+陌	mo4	田间东西向的小路 也泛指田间小路	None	None
+陌	mo4	市中街道	None	None
+陌	mo4	量词 1.用同=佰 用于钱 2.用于旧时祭奠所烧的纸钱，约相当于“叠”	None	佰
+陌	mo4	姓	None	None
+陑	er3	山名 在今山西省永济市南	None	None
+陑	er3	夔险 也作=𨼏	None	𨼏
+⿰阝⿱大干	None	同=陓	None	陓
+陓	yu1	[楊陓]古湖泽名 旧说在扶风汧县（今陕西省千阳县西） 一说即“阳华”，在今陕西省华阴市西	None	None
+⿰阝⿸厂文	ban3	@	None	None
+𨹇	None	同=盜	None	盜
+𨹒	None	同=盜	None	盜
+𨹚	cheng2	山地名	None	None
+陕	None	=陝的简化字	None	陝
+䧅	yi2	[隇䧅]见“隇”	None	None
+䧅	yi2	地名	None	None
+𨹀	zi3	@	None	None
+𨹂	None	同=垙	None	垙
+𨹁	hong2	[從𨹁]山名，在今云南省昆明市北 也单用作“𨹁”	None	None
+𬮿	None	=隑的类推简化字	None	隑
+𨹌	ran3	亭名 ……按：……疑为=𨸱的讹字	None	𨸱
+陎	shu1	[陎𨻻]古县名	None	None
+陎	shu1	姓	None	None
+𨹅	dui4	高	None	None
+𨹉	None	同=陰	None	陰
+𨹊	shan3	同=陝 古县名 在今河南省陕县	None	陝
+𨹈	shan3	同=陝 古地名	None	陝
+𨹈	yang2	同=陽	None	陽
+𨹋	yao2	[臯𨹋]同“臯=陶” 人名	None	陶
+𨹄	None	同=𨹃	None	𨹃
+陒	gui3	同=垝 毁坏	None	垝
+降	jiang4	从高处走下来，与“陟”相对	None	None
+降	jiang4	高贵人物莅临，临幸	None	None
+降	jiang4	流窜	None	None
+降	jiang4	降落	None	None
+降	jiang4	鸟死	None	None
+降	jiang4	诞生；生日	None	None
+降	jiang4	赐给；给予 如：降幅；降诏；降罪	None	None
+降	jiang4	（帝王之女）下嫁	None	None
+降	jiang4	贬低；降低 如：降职；降压； 降价	None	None
+降	jiang4	减退	None	None
+降	jiang4	脱掉	None	None
+降	jiang4	停止	None	None
+降	jiang4	下；低	None	None
+降	jiang4	香水“降真香”的简称	None	None
+降	jiang4	通=洚 泛滥	None	洚
+降	jiang4	通=隆(long2) 大；重	None	隆
+降	xiang2	投降；降伏 如：降龙伏虎；一物降一物	None	None
+降	xiang2	悦服	None	None
+降	xiang2	通=詳 详细	None	詳
+降	xiang2	和同	None	None
+降	xiang2	姓	None	None
+降	xiang4	[降婁]星次名，与黄道十二宫白羊宫相当	None	None
+降	xiang4	通=鬨 争斗	None	鬨
+䧄	ge4	人名	None	None
+𨹓	None	同=降	None	降
 陊	None	录入中	None	None
 𨹔	None	录入中	None	None
 䧇	None	录入中	None	None
