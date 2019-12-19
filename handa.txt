@@ -80890,34 +80890,105 @@
 𫑈	None	同=遇	None	遇
 𨗗	None	同=逋	None	逋
 𨘌	huo4	语过；过头话	None	None
-遲	None	录入中	None	None
-選	None	录入中	None	None
-邆	None	录入中	None	None
-𨗝	None	录入中	None	None
-遹	None	录入中	None	None
-𨗘	None	录入中	None	None
-𨗟	None	录入中	None	None
-𨖾	None	录入中	None	None
-𨗂	None	录入中	None	None
-𨗙	None	录入中	None	None
-𡚑	None	录入中	None	None
-𨘚	None	录入中	None	None
-䢮	None	录入中	None	None
-𨗺	None	录入中	None	None
-𨗰	None	录入中	None	None
-遽	None	录入中	None	None
-𨗩	None	录入中	None	None
-還	None	录入中	None	None
-𨗫	None	录入中	None	None
-𨗻	None	录入中	None	None
-𨗼	None	录入中	None	None
-遾	None	录入中	None	None
-𥲽	None	录入中	None	None
-𨘕	None	录入中	None	None
-邀	None	录入中	None	None
-𨗦	None	录入中	None	None
-𨗥	None	录入中	None	None
-𨗾	None	录入中	None	None
+遲	chi2	徐行	None	None
+遲	chi2	缓慢	None	None
+遲	chi2	晚 与“早”相对	None	None
+遲	chi2	迟钝	None	None
+遲	chi2	犹豫	None	None
+遲	chi2	中医学脉象之一 指脉搏缓慢，一呼一吸，在三次左右 多属寒证，迟而无力为虚寒，但若迟而有力，亦可见于实证	None	None
+遲	chi2	久	None	None
+遲	chi2	通=治 芟除	None	治
+遲	chi2	姓	None	None
+遲	zhi4	等待；希望	None	None
+遲	zhi4	比及，等到	None	None
+遲	zhi4	犹“乃”	None	None
+選	xuan3	遣送；放逐	None	None
+選	xuan3	派遣；使令	None	None
+選	xuan3	选择，挑选	None	None
+選	xuan3	选本；选辑成册的作品	None	None
+選	xuan3	入	None	None
+選	xuan3	周遍	None	None
+選	xuan3	牵引；攀连	None	None
+選	xuan3	德行	None	None
+選	xuan3	选举 如：选人民代表	None	None
+選	xuan3	须臾，片刻	None	None
+選	xuan3	通=巽(xun4) 柔弱，惧怯	None	巽
+選	xuan3	通=饌(zhuan4) 陈设，置备	None	饌
+選	xuan3	古地名 在今湖北省枝江市境	None	None
+選	xuan3	姓	None	None
+選	xuan4	（量才）授官	None	None
+選	xuan4	被选中的人或物	None	None
+選	xuan4	整齐	None	None
+選	suan4	通=算 数，计算	None	算
+選	suan4	数词 万	None	None
+選	shua4	古钱币单位	None	None
+邆	teng2	[邆川]即=鄧川，古州名 治今云南省洱源县东南	None	鄧
+𨗝	yu4	同=遹	None	遹
+𨗝	ju2	同=𧽻	None	𧽻
+遹	yu4	邪僻	None	None
+遹	yu4	遵循	None	None
+遹	yu4	助词 用在句首 无实义	None	None
+遹	yu4	姓	None	None
+𨗘	None	同=遪	None	遪
+𨗟	None	同=𨙀	None	𨙀
+𨖾	bian1	振绳墨	None	None
+𨖾	bian1	行不绝	None	None
+𨗂	None	同=幾	None	幾
+𨗙	None	同=𨓁	None	𨓁
+𡚑	gong1	无私 ……按：即=公字	None	公
+𨘚	None	同=籩	None	籩
+䢮	lei4	行急	None	None
+𨗺	None	同=遷	None	遷
+𨗰	None	=𤪎的讹字	None	𤪎
+遽	ju4	驿车；驿马	None	None
+遽	ju4	疾速	None	None
+遽	ju4	匆忙；仓猝	None	None
+遽	ju4	窘迫	None	None
+遽	ju4	恐惧，战栗	None	None
+遽	ju4	竞争	None	None
+遽	ju4	遂，就	None	None
+遽	ju4	神话传说中的兽名，鹿头龙身	None	None
+遽	ju4	乡名 在今河北省元氏县附近	None	None
+遽	ju4	通=處(chu3) 居处	None	處
+遽	ju4	通=劇 劳	None	劇
+遽	qu2	同=蘧 瞿麦	None	蘧
+𨗩	None	=𨖐的讹字	None	𨖐
+還	huan2	返回	None	None
+還	huan2	恢复；还原	None	None
+還	huan2	交还，归还	None	None
+還	huan2	顾，回头	None	None
+還	huan2	偿还；回击	None	None
+還	huan2	还债；交纳（赋税）	None	None
+還	huan2	后退	None	None
+還	huan2	环绕	None	None
+還	huan2	积聚	None	None
+還	huan2	连词 表示假设关系，相当于“假若”，“如果”	None	None
+還	huan2	通=營(ying2) 谋求	None	營
+還	huan2	姓	None	None
+還	xuan2	旋转	None	None
+還	xuan2	迅速，立刻	None	None
+還	xuan2	敏捷	None	None
+還	xuan2	短少，淡薄 也作=𣟳	None	𣟳
+還	xuan2	副词 表示时间，相当于“便”，“立即”	None	None
+還	hai2	副词 1.表示持续，相当于“尚”，“仍然” 2.表示转折，相当于“却”，“反而” 3.表示时间，相当于“已”，“已经” 4.表示重复，相当于“再”，“又” 5.表示程度，相当于“更加” 6.表示选择，相当于“还是” 7.表示反问 8.表示进层 常与连词“不但”等成对使用 9.表示语气 a.提出明显事实作为陪衬，下一句作出推论 相当于“尚且” b.加强反问	None	None
+𨗫	None	同=憂	None	憂
+𨗻	None	同=逮	None	逮
+𨗼	di4	同=遰	None	遰
+𨗼	dai4	同=帶	None	帶
+遾	shi4	相及	None	None
+遾	shi4	远	None	None
+𥲽	None	同=矬	None	矬
+𨘕	None	同=𧾚	None	𧾚
+邀	yao1	迎候	None	None
+邀	yao1	遮拦；阻截	None	None
+邀	yao1	希求；谋取	None	None
+邀	yao1	招引；约请	None	None
+邀	yao1	遇	None	None
+邀	yao1	方言 赶，吆	None	None
+邀	yao1	方言 用秤称	None	None
+𨗦	qian3	[𨗦𨗦]欲近貌	None	None
+𨗥	hui4	䢌	None	None
+𨗾	da4	方言 称呼父亲为𨗾𨗾	None	None
 𨗽	None	录入中	None	None
 𨗿	None	录入中	None	None
 𨗧	None	录入中	None	None
