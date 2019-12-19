@@ -80785,14 +80785,23 @@
 遪	ca4	走，行	None	None
 遦	guan4	习惯 也作=貫、=慣	None	貫
 遦	guan4	行	None	None
-遶	None	录入中	None	None
-𨗣	None	录入中	None	None
-𨖻	None	录入中	None	None
-𨗪	None	录入中	None	None
-邁	None	录入中	None	None
-𦽙	None	录入中	None	None
-𨗨	None	录入中	None	None
-𨗐	None	录入中	None	None
+遶	None	同=繞	None	繞
+𨗣	None	=䢱的讹字	None	䢱
+𨖻	None	同=遛	None	遛
+𨗪	None	同=逿	None	逿
+邁	mai4	出行；远行	None	None
+邁	mai4	跨，向前举步	None	None
+邁	mai4	巡行	None	None
+邁	mai4	远离；疏远	None	None
+邁	mai4	（时光）消逝	None	None
+邁	mai4	超过；超越	None	None
+邁	mai4	超然不俗	None	None
+邁	mai4	英长度单位mile的音译，即英里 如：1小时行30迈	None	None
+邁	mai4	通=勱 勤勉	None	勱
+邁	mai4	姓	None	None
+𦽙	None	同=𧂍	None	𧂍
+𨗨	wei3	姓	None	None
+𨗐	None	同=遭	None	遭
 遷	None	录入中	None	None
 𨗢	None	录入中	None	None
 𨗃	None	录入中	None	None
