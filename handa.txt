@@ -80585,58 +80585,130 @@
 遘	gou4	通=構 构成，造成	None	構
 𨕝	None	同=逋	None	逋
 䢥	None	=𢌨的讹字	None	𢌨
-遠	None	录入中	None	None
-遳	None	录入中	None	None
-𨕹	None	录入中	None	None
-𨕞	None	录入中	None	None
-𨕺	None	录入中	None	None
-𨕻	None	录入中	None	None
-遢	None	录入中	None	None
-遣	None	录入中	None	None
-𨕟	None	录入中	None	None
-𨕣	None	录入中	None	None
-遝	None	录入中	None	None
-䢤	None	录入中	None	None
-𨖃	None	录入中	None	None
-𨕪	None	录入中	None	None
-𨕼	None	录入中	None	None
-𨕩	None	录入中	None	None
-𨖂	None	录入中	None	None
-遞	None	录入中	None	None
-𨕽	None	录入中	None	None
-遥	None	录入中	None	None
-䢢	None	录入中	None	None
-遛	None	录入中	None	None
-𨕾	None	录入中	None	None
-𨕢	None	录入中	None	None
-遡	None	录入中	None	None
-𨖄	None	录入中	None	None
-𨕠	None	录入中	None	None
-𨕦	None	录入中	None	None
-𨕨	None	录入中	None	None
-遟	None	录入中	None	None
-𨕿	None	录入中	None	None
-遜	None	录入中	None	None
-𨖀	None	录入中	None	None
-𨕧	None	录入中	None	None
-𨖁	None	录入中	None	None
-𨕥	None	录入中	None	None
-𨖊	None	录入中	None	None
-𨖫	None	录入中	None	None
-𨖚	None	录入中	None	None
-𨖇	None	录入中	None	None
-遭	None	录入中	None	None
-遫	None	录入中	None	None
-遬	None	录入中	None	None
-𨖍	None	录入中	None	None
-䢩	None	录入中	None	None
-遰	None	录入中	None	None
-𨖛	None	录入中	None	None
-𨖜	None	录入中	None	None
-𨖝	None	录入中	None	None
-𨖯	None	录入中	None	None
-𨖏	None	录入中	None	None
-𨖆	None	录入中	None	None
+遠	yuan3	遥远 指空间距离大	None	None
+遠	yuan3	久远 指时间漫长	None	None
+遠	yuan3	多，指差距大	None	None
+遠	yuan3	深远；深奥	None	None
+遠	yuan3	高远，远大	None	None
+遠	yuan3	边远，远地	None	None
+遠	yuan3	扩大；扩展	None	None
+遠	yuan3	疏远 多指血统关系	None	None
+遠	yuan3	古州名 治今四川省松潘县西北 唐以生羌归附建置	None	None
+遠	yuan3	姓	None	None
+遠	yuan4	离去；避开	None	None
+遠	yuan4	不接近，不亲近	None	None
+遠	yuan4	违背，乖离	None	None
+遳	cuo1	徐行貌	None	None
+遳	cuo1	脆弱	None	None
+遳	cuo1	方言 身材短矮 字也作=矬	None	矬
+𨕹	huan2	同=桓 盘桓	None	桓
+𨕞	None	同=遷	None	遷
+𨕺	kua1	@	None	None
+𨕻	sheng1	[𨕻𨕻]旧称卜卦算命的盲人	None	None
+遢	ta4	稳行貌	None	None
+遢	ta4	急行貌	None	None
+遢	ta4	轻薄；不谨	None	None
+遢	ta1	[邋遢]见“邋”	None	None
+遣	qian3	释放	None	None
+遣	qian3	派遣	None	None
+遣	qian3	放逐；贬谪	None	None
+遣	qian3	古时指丈夫休弃妻子	None	None
+遣	qian3	排除，抒发	None	None
+遣	qian3	使，让	None	None
+遣	qian3	运用；使用	None	None
+遣	qian3	白天雨止放晴	None	None
+遣	qian4	古时送葬之物	None	None
+遣	qian4	祭奠	None	None
+𨕟	None	同=厠	None	厠
+𨕣	None	同=遌	None	遌
+遝	ta4	及	None	None
+遝	ta4	通=沓 纷纭聚积	None	沓
+䢤	None	同=述	None	述
+𨖃	None	同=𨑥	None	𨑥
+𨕪	None	=𨕼(送)的讹字	None	𨕼
+𨕼	None	同=送	None	送
+𨕩	None	同=送	None	送
+𨖂	None	同=邊	None	邊
+遞	di4	交替	None	None
+遞	di4	依次	None	None
+遞	di4	传；传送	None	None
+遞	di4	押送	None	None
+遞	di4	远	None	None
+遞	di4	足病	None	None
+遞	shi4	同=逝 往	None	逝
+遞	shi4	通=適 适宜	None	適
+遞	dai3	围绕	None	None
+𨕽	jie2	同=跲 绊倒	None	跲
+遥	yao2	远	None	None
+遥	yao2	长	None	None
+遥	yao2	飘荡	None	None
+遥	yao2	疾行	None	None
+遥	yao2	淫逸	None	None
+遥	yao2	逍遥	None	None
+遥	yao2	行	None	None
+䢢	cang4	过	None	None
+遛	liu2	[逗遛]也作“逗=留” 不进 本军法用语，也泛指停留	None	留
+遛	liu4	散步；缓行 如：遛弯儿；遛大街	None	None
+遛	liu4	牵着牲畜或带着鸟慢慢走 如：遛鸟	None	None
+𨕾	None	同=疾	None	疾
+𨕢	chu4	行貌	None	None
+𨕢	chu4	驰	None	None
+遡	su4	同=㴑(泝) 逆流而上	None	㴑
+遡	su4	追溯，寻求事物本源	None	None
+遡	su4	向着；面对	None	None
+遡	su4	迎	None	None
+遡	su4	通=愬 诉说	None	愬
+𨖄	None	人名	None	None
+𨕠	ze2	同=迮	None	迮
+𨕠	ze2	姓	None	None
+𨕦	qiu4	进 ……疑“𨕦”为=𧼭(䞭)的异体	None	𧼭
+𨕨	None	同=𨔥	None	𨔥
+⿺辶⿻肀⿱日人	None	同=律	None	律
+遟	chi2	同=遲	None	遲
+遟	zhi4	待	None	None
+遟	xi1	[遟𨒈]也作“屖遟”、“栖遲” 遊息	None	None
+𨕿	wang2	@	None	None
+遜	xun4	逃遁	None	None
+遜	xun4	退让（帝位）	None	None
+遜	xun4	恭顺，谦抑	None	None
+遜	xun4	差，比不上	None	None
+遜	xun4	姓	None	None
+𨖀	None	同=㢟	None	㢟
+𨕧	beng1	幽	None	None
+𨕧	beng1	行急貌	None	None
+𨖁	None	同=道	None	道
+𨕥	None	同=道	None	道
+𨖊	ze2	同=䟄 走貌	None	䟄
+𨖊	ze2	容寻常人	None	None
+𨖊	ji4	同=迹 足迹	None	迹
+𨖫	None	同=達	None	達
+𨖚	liao2	同=遼	None	遼
+𨖚	liao2	通=寮(僚) 同僚	None	寮
+𨖇	None	同=遄	None	遄
+遭	zao1	逢，遇到	None	None
+遭	zao1	受到，遭受（多指不幸或不利的事）	None	None
+遭	zao1	际遇	None	None
+遭	zao1	巡行；周围	None	None
+遭	zao1	量词 1.周；圈；转 2.次，回 3.排	None	None
+遫	chi4	张	None	None
+遫	chi4	开	None	None
+遬	su4	同=速 迅速	None	速
+遬	su4	局促；窘迫	None	None
+遬	su4	通=數 密	None	數
+𨖍	None	同=吾	None	吾
+䢩	yu4	同=御(禦) 禁止；抵挡	None	御
+遰	di4	去，往	None	None
+遰	di4	避	None	None
+遰	di4	同=遞 1.迢遰，即“迢遞” 高远貌 2.迭传；依次	None	遞
+遰	shi4	同=逝 往	None	逝
+遰	shi4	刀鞘	None	None
+遰	dai4	连	None	None
+𨖛	yu1	恕	None	None
+𨖜	None	同=𨖛	None	𨖛
+𨖝	None	=霆的讹字	None	霆
+𨖯	None	同=𣣸	None	𣣸
+𨖏	jiu4	弯腰行走，以示恭谨	None	None
+𨖆	None	同=䢐	None	䢐
 𨖐	None	录入中	None	None
 𣤎	None	录入中	None	None
 遱	None	录入中	None	None
