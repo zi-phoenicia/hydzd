@@ -70572,11 +70572,38 @@
 紥	None	同=紮	None	紮
 𥾰	None	同=紲	None	紲
 䊾	mu4	绳索	None	None
-索	None	录入中	None	None
-𥾧	None	录入中	None	None
-𥾣	None	录入中	None	None
-𥾝	None	录入中	None	None
-紑	None	录入中	None	None
+索	suo3	大绳子 后泛指各种绳索	None	None
+索	suo3	像绳索或链条似的东西	None	None
+索	suo3	人的发辫	None	None
+索	suo3	法度	None	None
+索	suo3	搓；绞	None	None
+索	suo3	探求	None	None
+索	suo3	寻找	None	None
+索	suo3	请求；要求	None	None
+索	suo3	索取；取用	None	None
+索	suo3	选取	None	None
+索	suo3	娶妻曰索	None	None
+索	suo3	搜索；搜捕	None	None
+索	suo3	摸索；触摸	None	None
+索	suo3	牵动；拉扯	None	None
+索	suo3	孤独	None	None
+索	suo3	离散	None	None
+索	suo3	涕泪流出貌	None	None
+索	suo3	尽；空	None	None
+索	suo3	须	None	None
+索	suo3	得	None	None
+索	suo3	量词 古时民间计量单位，十丈为一索	None	None
+索	suo3	古地名 1.故地在今河南省荥阳市 2.汉代县名 顺帝时改索县为汉寿，即今湖南省汉寿县	None	None
+索	suo3	姓	None	None
+𥾧	fu2	同=紱 系印的丝带	None	紱
+𥾧	fu2	绥	None	None
+𥾣	zhi1	[縴𥾣]挽船绳	None	None
+𥾝	mie4	细丝	None	None
+𥾝	mian3	同=緬 1.细丝 2.遥远；久远	None	緬
+𬘔	None	=𥾝的类推简化字	None	𥾝
+⿰糹⿻乚⿱一冂	None	同=純	None	純
+紑	fou2	衣服鲜洁貌	None	None
+紑	fou2	丝织品色泽鲜明	None	None
 紎	None	录入中	None	None
 紘	None	录入中	None	None
 纮	None	录入中	None	None
