@@ -80257,43 +80257,106 @@
 逮	dai4	姓	None	None
 逮	di4	[逮逮]也作“=棣棣” 闲习貌；安和貌	None	棣
 逮	dai3	方言 捉，抓 如：猫逮老鼠	None	None
-逯	None	录入中	None	None
-䢜	None	录入中	None	None
-𨔚	None	录入中	None	None
-𨔳	None	录入中	None	None
-𨔇	None	录入中	None	None
-逫	None	录入中	None	None
-𨔜	None	录入中	None	None
-𨕌	None	录入中	None	None
-𨔸	None	录入中	None	None
-𨕍	None	录入中	None	None
-𨔦	None	录入中	None	None
-達	None	录入中	None	None
-䢡	None	录入中	None	None
-𨕡	None	录入中	None	None
-𨕸	None	录入中	None	None
-𨕷	None	录入中	None	None
-𨕤	None	录入中	None	None
-𨓸	None	录入中	None	None
-𨔱	None	录入中	None	None
-𨔣	None	录入中	None	None
-逼	None	录入中	None	None
-𨔰	None	录入中	None	None
-遀	None	录入中	None	None
-𨔞	None	录入中	None	None
-𨕎	None	录入中	None	None
-𨕏	None	录入中	None	None
-𨔬	None	录入中	None	None
-𨔤	None	录入中	None	None
-𨕐	None	录入中	None	None
-遉	None	录入中	None	None
-𨔟	None	录入中	None	None
-𨕑	None	录入中	None	None
-𨕒	None	录入中	None	None
-遈	None	录入中	None	None
-逿	None	录入中	None	None
-𨔯	None	录入中	None	None
-遇	None	录入中	None	None
+逯	lu4	行步谨慎	None	None
+逯	lu4	行，随意行走	None	None
+逯	lu4	众	None	None
+逯	lu4	秦邑名	None	None
+逯	lu4	姓	None	None
+逯	dai4	同=逮	None	逮
+䢜	None	同=歸	None	歸
+𨔚	None	同=遥	None	遥
+𨔳	None	同=隨	None	隨
+𨔇	None	@	None	None
+逫	jue2	远	None	None
+逫	zhu2	[逫律]缓吹貌	None	None
+逫	zhu2	走貌	None	None
+𨔜	None	同=迾	None	迾
+𨕌	None	旧时迷信谓壬戌日鬼名	None	None
+𨔸	None	同=遘	None	遘
+𨕍	None	同=赴	None	赴
+𨔦	shu4	走	None	None
+達	da2	畅通	None	None
+達	da2	到达	None	None
+達	da2	通晓，明白	None	None
+達	da2	周遍，全面	None	None
+達	da2	豁达；旷达	None	None
+達	da2	显达，显贵	None	None
+達	da2	引进	None	None
+達	da2	表达；传达	None	None
+達	da2	送到；传送	None	None
+達	da2	通行；共通	None	None
+達	da2	幼苗出土貌	None	None
+達	da2	穿	None	None
+達	da2	具备	None	None
+達	da2	窗户	None	None
+達	da2	夹室，宫中旁边设祭祀祖先的房间	None	None
+達	da2	方言 指父亲	None	None
+達	da2	同=韃 “=達旦”或“韃靼”的简称 多指蒙古族	None	韃
+達	da2	力的单位“达因(英dyne)”的简称 使1克质量的物体产生1厘米/秒^2的加速度所需的力为1达因	None	None
+達	da2	皆	None	None
+達	da2	钟形微大	None	None
+達	da2	方言 略同“里”、“儿”，常用在“这”、“那”、“哪”之后，表示处所	None	None
+達	da2	象声词	None	None
+達	da2	通=羍 初生的小羊	None	羍
+達	da2	古州名 治今四川省达州市	None	None
+達	da2	县名 在四川省东部	None	None
+達	da2	姓	None	None
+達	ta4	[挑達]往来自由貌	None	None
+達	ta4	同=㒓 逃	None	㒓
+達	ta4	通=撻 挞伐，征讨	None	撻
+䢡	ye4	前顿	None	None
+䢡	xie4	[𨓊䢡]见“𨓊”	None	None
+䢡	zhui4	同=𨒉	None	𨒉
+𨕡	None	同=造	None	造
+𨕸	None	同=違	None	違
+𨕷	None	同=𧼰	None	𧼰
+𨕤	None	同=及	None	及
+𨓸	None	同=遂	None	遂
+𨔱	None	同=遂	None	遂
+𨔣	jia1	[𨔣互]相互牵制，令不得行	None	None
+𨔣	jia1	勒索银钱	None	None
+𨔣	jia4	[𨔣枒]木如蒺䔧，上下相距	None	None
+逼	bi1	迫近	None	None
+逼	bi1	逼迫；胁迫	None	None
+逼	bi1	狭窄	None	None
+逼	bi1	紧迫	None	None
+逼	bi1	驱逐，追赶	None	None
+逼	bi1	粒 也作=皀	None	皀
+𨔰	None	同=遷	None	遷
+遀	None	同=隨	None	隨
+𨔞	None	同=道	None	道
+⿺辶耎	None	同=𨒩	None	𨒩
+𨕎	None	同=𨔙	None	𨔙
+𨕏	None	同=匳(奩)	None	匳
+𨔬	None	同=達	None	達
+𨔤	chi4	长	None	None
+𨕐	None	=𢌨的讹字	None	𢌨
+遉	None	同=偵	None	偵
+𨔟	None	同=逌	None	逌
+𨕑	None	同=遞	None	遞
+𨕒	None	同=遈	None	遈
+遈	shi2	流行貌	None	None
+遈	shi2	行	None	None
+逿	dang4	跌倒	None	None
+逿	dang4	过	None	None
+逿	dang4	不走正路	None	None
+逿	tang2	摇荡，冲击	None	None
+逿	tang2	突	None	None
+𨔯	ta4	行立	None	None
+遇	yu4	相逢，不期而会	None	None
+遇	yu4	遭受，遇到	None	None
+遇	yu4	合；投合	None	None
+遇	yu4	得志，见赏	None	None
+遇	yu4	际遇；机会	None	None
+遇	yu4	抵挡，对付	None	None
+遇	yu4	对待	None	None
+遇	yu4	遏止	None	None
+遇	yu4	指诸侯冬时朝王	None	None
+遇	yu4	通=愚(yu2) 愚笨	None	愚
+遇	yu4	地名 在山东省曲阜市与宁阳县之间	None	None
+遇	yu4	姓	None	None
+遇	yong2	[曲遇]古地名 在今河南省中牟县东	None	None
+遇	ou3	同=偶 1.相对 2.偶然	None	偶
 𨔫	None	录入中	None	None
 遏	None	录入中	None	None
 遗	None	录入中	None	None
