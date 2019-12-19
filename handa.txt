@@ -80802,43 +80802,94 @@
 𦽙	None	同=𧂍	None	𧂍
 𨗨	wei3	姓	None	None
 𨗐	None	同=遭	None	遭
-遷	None	录入中	None	None
-𨗢	None	录入中	None	None
-𨗃	None	录入中	None	None
-遼	None	录入中	None	None
-𨗑	None	录入中	None	None
-𨗠	None	录入中	None	None
-𨖹	None	录入中	None	None
-𨖸	None	录入中	None	None
-暹	None	录入中	None	None
-遺	None	录入中	None	None
-遻	None	录入中	None	None
-𨗓	None	录入中	None	None
-𨗞	None	录入中	None	None
-𨖴	None	录入中	None	None
-䢪	None	录入中	None	None
-𨗡	None	录入中	None	None
-𨖺	None	录入中	None	None
-𨖷	None	录入中	None	None
-𨗭	None	录入中	None	None
-𨗮	None	录入中	None	None
-𨖵	None	录入中	None	None
-𨖼	None	录入中	None	None
-𨗤	None	录入中	None	None
-𨗥	None	录入中	None	None
-𨗀	None	录入中	None	None
-𨖿	None	录入中	None	None
-䢬	None	录入中	None	None
-𨗁	None	录入中	None	None
-遴	None	录入中	None	None
-遵	None	录入中	None	None
-𨗕	None	录入中	None	None
-𨗖	None	录入中	None	None
-𨗄	None	录入中	None	None
-𨖳	None	录入中	None	None
-𫑈	None	录入中	None	None
-𨗗	None	录入中	None	None
-𨘌	None	录入中	None	None
+遷	qian1	登，向上移	None	None
+遷	qian1	徙居，移换所在地	None	None
+遷	qian1	移，搬动	None	None
+遷	qian1	变更；变动	None	None
+遷	qian1	离开；避开	None	None
+遷	qian1	晋升或调动	None	None
+遷	qian1	流放；放逐	None	None
+遷	qian1	贬谪，降职	None	None
+遷	qian1	离散	None	None
+遷	qian1	转退	None	None
+遷	qian1	古州名 北周置 治今湖北省房县	None	None
+遷	qian1	姓	None	None
+𨗢	None	同=遷	None	遷
+𨗃	None	同=進	None	進
+遼	liao2	遥远	None	None
+遼	liao2	开阔	None	None
+遼	liao2	久远	None	None
+遼	liao2	宽，迂缓	None	None
+遼	liao2	箬的别名	None	None
+遼	liao2	水名 即今辽河，古名辽水，又名大辽水，亦称句骊河 有东、西二源 东辽河源出吉林省东辽县吉林哈大龄；西辽河上游北源西拉木伦河出内蒙古自治区克什克腾旗西南的白岔山，南源老哈河出河北省平泉县光头山，东西辽河在辽宁省昌图县汇合后始称辽河 汉置辽东、辽西二郡由次水分	None	None
+遼	liao2	古州名 1.隋初置 治所在今山西省昔阳县西南，后废 2.唐置 治今辽宁省辽阳市，后废 3.辽置 治所在今辽宁省新民市东北辽河两岸辽滨塔，金废	None	None
+遼	liao2	朝代名 公元916年，契丹族领袖耶律阿保机创建，国号契丹，两年后建都皇都（今内蒙古自治区巴林左旗南波罗城） 公元947年改国号为辽（983-1066年间曾重称契丹），改皇都为上京 疆域东北至今日本海黑龙江口，西北至蒙古国中部，南以今天津市海河、河北省霸州市、山西省雁门关一线与宋接界 辽与北宋对峙，是统治中国北部的一个王朝 1125年为金所灭	None	None
+遼	liao2	辽宁省的简称 如：辽东；辽西	None	None
+遼	liao2	通=僚 僚佐	None	僚
+遼	liao2	姓	None	None
+𨗑	xiong2	@	None	None
+𨗠	None	=霆的讹字	None	霆
+𨖹	zhi4	近	None	None
+𨖹	zhi4	同=臸 到	None	臸
+𨖹	zhi4	重	None	None
+𨖹	zhi4	驿马 也作=馹	None	馹
+𨖸	None	同=遠	None	遠
+暹	xian1	太阳升起	None	None
+遺	yi2	丢失	None	None
+遺	yi2	遗漏	None	None
+遺	yi2	遗失或遗漏的东西	None	None
+遺	yi2	舍弃，遗弃	None	None
+遺	yi2	遗忘	None	None
+遺	yi2	遗留	None	None
+遺	yi2	剩余，未尽 如：暴露无遗	None	None
+遺	yi2	离开，脱离	None	None
+遺	yi2	坠，落下	None	None
+遺	yi2	废止	None	None
+遺	yi2	排泄	None	None
+遺	yi2	陈迹	None	None
+遺	yi2	姓	None	None
+遺	wei4	送	None	None
+遺	wei4	给与	None	None
+遺	wei4	加给	None	None
+遺	wei4	通=匱(kui4) 匮乏；不足	None	匱
+遺	sui2	通=隨 谦虚，顺从	None	隨
+遻	None	同=遌	None	遌
+𨗓	dao4	同=噵(道) 说	None	噵
+𨗞	tui2	不进	None	None
+𨖴	wu3	同=䟼 足迹	None	䟼
+䢪	None	同=橇	None	橇
+𨗡	chao4	充	None	None
+𨖺	None	=遄的讹字	None	遄
+𨖷	sha4	运笔	None	None
+𨗭	None	同=遺	None	遺
+𨗮	None	同=遺	None	遺
+𨖵	jiao4	走貌	None	None
+𨖼	chong4	逸	None	None
+𨗤	None	同=德	None	德
+⿺辶㑹	None	同=𨗥	None	𨗥
+𨗀	None	同=逪	None	逪
+𨖿	wei1	[𨖿迆]同“=逶迤”	None	逶
+䢬	None	同=遷	None	遷
+𨗁	None	同=適	None	適
+遴	lin4	行难	None	None
+遴	lin4	审慎，不轻易	None	None
+遴	lin4	通=吝 吝啬	None	吝
+遴	lin4	姓	None	None
+遴	lin2	挑选	None	None
+遵	zun1	顺着	None	None
+遵	zun1	遵照；依照	None	None
+遵	zun1	俊才，英才	None	None
+遵	zun1	羊枣，或称梬枣、㮕枣	None	None
+遵	zun1	自，从	None	None
+遵	zun1	习	None	None
+遵	zun1	姓	None	None
+𨗕	None	同=遵	None	遵
+𨗖	None	同=遵	None	遵
+𨗄	None	同=遴	None	遴
+𨖳	yuan1	行貌	None	None
+𫑈	None	同=遇	None	遇
+𨗗	None	同=逋	None	逋
+𨘌	huo4	语过；过头话	None	None
 遲	None	录入中	None	None
 選	None	录入中	None	None
 邆	None	录入中	None	None
