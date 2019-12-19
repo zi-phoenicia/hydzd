@@ -70361,24 +70361,61 @@
 糸	mi4	连	None	None
 糸	mi4	=幺	None	幺
 糸	si1	同=絲 蚕丝	None	絲
-系	None	录入中	None	None
-糺	None	录入中	None	None
-𫄙	None	录入中	None	None
-𥾅	None	录入中	None	None
-糽	None	录入中	None	None
-䊵	None	录入中	None	None
-𥾊	None	录入中	None	None
-糾	None	录入中	None	None
-纠	None	录入中	None	None
-𥾇	None	录入中	None	None
-糿	None	录入中	None	None
-糼	None	录入中	None	None
-𥾆	None	录入中	None	None
-𥾍	None	录入中	None	None
-紆	None	录入中	None	None
-纡	None	录入中	None	None
-𥾒	None	录入中	None	None
-䊸	None	录入中	None	None
+系	xi4	联属；连接	None	None
+系	xi4	世系；谱系	None	None
+系	xi4	高等学校中按专业性质设置的教学行政单位 如：哲学系；物理系	None	None
+系	xi4	地层系统分类单位的第三级，系以上为界，如中生界分为三叠系、侏罗系和白垩系 跟系相应的地质年代分期叫作纪	None	None
+系	xi4	生物学分类等级上所用的等级之一 在组之下，种之上	None	None
+系	xi4	继承	None	None
+系	xi4	量词 古代作印绶用的纺织品计量单位	None	None
+系	xi4	系东西的带子	None	None
+系	xi4	辞赋末尾总结全文的言辞	None	None
+系	xi4	姓	None	None
+系	xi4	=係、=繫的简化字	None	係
+系	xi4	箸	None	None
+系	ji4	=繫的简化字	None	繫
+糺	jiu1	同=糾	None	糾
+糺	jiu3	军队名称 辽、金时边地部落组成的军队 元代辽东亦有糺军，不出戍他方，为乡兵，与辽、金二代的糺军不同	None	None
+𫄙	None	=糺的类推简化字	None	糺
+𥾅	zhu2	一	None	None
+糽	zheng3	丝绳绷紧貌	None	None
+糽	zheng1	引	None	None
+䊵	qiu2	幼小	None	None
+䊵	qiu2	引急	None	None
+䊵	qiu2	同=絿 急	None	絿
+䊵	qiu2	纠	None	None
+𮉠	None	=䊵的类推简化字	None	䊵
+𥾊	ji3	@	None	None
+糾	jiu1	绞合的绳索	None	None
+糾	jiu1	缠绕；纠缠	None	None
+糾	jiu1	收聚；集结	None	None
+糾	jiu1	督察	None	None
+糾	jiu1	检举；告发	None	None
+糾	jiu1	矫正	None	None
+糾	jiu1	迅急	None	None
+糾	jiu1	曲折	None	None
+糾	jiu1	方言 拧	None	None
+糾	jiu1	姓	None	None
+糾	jiao3	[窈糾]舒缓貌	None	None
+纠	None	=糾的简化字	None	糾
+𥾇	None	同⿰糹𠄏(𦄋)	None	None
+⿰糹𠄏	None	同=𦄋	None	𦄋
+糿	None	=幼的讹字 ……按：《康熙字典》以为=糼的讹字	None	幼
+糼	None	同=功	None	功
+𥾆	None	同=糾	None	糾
+⿰糹⿻乚𠃊	None	同=糾	None	糾
+𥾍	gan3	摩压衣物使之平展	None	None
+紆	yu1	曲折	None	None
+紆	yu1	萦回；缠绕	None	None
+紆	yu1	郁积	None	None
+紆	yu1	系结；佩戴	None	None
+紆	yu1	绳索	None	None
+紆	yu1	劳累	None	None
+紆	yu1	姓	None	None
+紆	ou1	[陽紆]山名	None	None
+纡	None	=紆的简化字	None	紆
+𥾒	None	同=䊷(緇)	None	䊷
+䊸	None	同=紆	None	紆
 紅	None	录入中	None	None
 红	None	录入中	None	None
 䊷	None	录入中	None	None
