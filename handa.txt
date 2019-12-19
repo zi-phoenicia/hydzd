@@ -70495,30 +70495,83 @@
 約	yao4	要领；关键	None	None
 約	di4	琴徽 也作=的	None	的
 约	None	=約的简化字	None	約
-紈	None	录入中	None	None
-纨	None	录入中	None	None
-級	None	录入中	None	None
-级	None	录入中	None	None
-纩	None	录入中	None	None
-紁	None	录入中	None	None
-𥾏	None	录入中	None	None
-紀	None	录入中	None	None
-纪	None	录入中	None	None
-𥾌	None	录入中	None	None
-䊶	None	录入中	None	None
-紉	None	录入中	None	None
-纫	None	录入中	None	None
-𥾫	None	录入中	None	None
-素	None	录入中	None	None
-𥾦	None	录入中	None	None
-䊿	None	录入中	None	None
-纬	None	录入中	None	None
-紜	None	录入中	None	None
-纭	None	录入中	None	None
-䌸	None	录入中	None	None
-紥	None	录入中	None	None
-𥾰	None	录入中	None	None
-䊾	None	录入中	None	None
+紈	wan2	白色细绢	None	None
+紈	wan2	累	None	None
+紈	wan2	结	None	None
+紈	wan2	幼小	None	None
+纨	None	=紈的简化字	None	紈
+級	ji2	丝的优劣次弟，引申为等级，特指官阶爵位的品级	None	None
+級	ji2	磴，石阶	None	None
+級	ji2	量词 古用于砍下的人头	None	None
+级	None	=級的简化字	None	級
+纩	None	=纊的简化字	None	纊
+⿰糹义	cha4	同=衩 衣服两旁所开的缝	None	衩
+𥾏	None	同=弦	None	弦
+紀	ji4	丝缕的头绪	None	None
+紀	ji4	要领；纲领	None	None
+紀	ji4	量词 古代丝束量名	None	None
+紀	ji4	治理	None	None
+紀	ji4	法度；准则	None	None
+紀	ji4	规律	None	None
+紀	ji4	纪律 如：军纪；风纪	None	None
+紀	ji4	岁、月、日、星辰、历数为五纪	None	None
+紀	ji4	古代纪年月的单位 1.十二年为一纪 2.一千五百二十年为一纪 古历法以十九年为章，四章为蔀，二十蔀为纪，三纪为元 3.一千五百年为一纪 4.二十五个月为一纪	None	None
+紀	ji4	世，代	None	None
+紀	ji4	年岁	None	None
+紀	ji4	日月会合处	None	None
+紀	ji4	旧史书体裁之一，记述帝王生平事迹 如：《史记·秦始皇本纪》；《汉书·武帝纪第六》；《新唐书·本纪第一·高祖》	None	None
+紀	ji4	中医称横行的脉络叫纪	None	None
+紀	ji4	终，止	None	None
+紀	ji4	事	None	None
+紀	ji4	节制	None	None
+紀	ji4	地质年代与分期的第三级，纪以上为代，如中生代分为三叠纪、侏罗纪和白垩纪 跟纪相应的地层系统分类单位叫做系	None	None
+紀	ji4	旧时泛称仆役为“纪纲”，也称“纪”	None	None
+紀	ji4	通=記 记载	None	記
+紀	ji4	古国名 姜姓，春秋时为齐所灭，故城在今山东省寿光市东南	None	None
+紀	ji3	姓	None	None
+纪	None	=紀的简化字	None	紀
+𥾌	jie2	丝束	None	None
+䊶	None	同=紖	None	紖
+紉	ren4	搓绳；捻线	None	None
+紉	ren4	绳索；绳子	None	None
+紉	ren4	缝纫；缝补	None	None
+紉	ren4	引线穿针	None	None
+紉	ren4	连缀；联结	None	None
+紉	ren4	按摩	None	None
+紉	ren4	柔软而结实	None	None
+紉	ren4	卷曲	None	None
+紉	ren4	敬辞 感佩不忘	None	None
+纫	None	=紉的简化字	None	紉
+𥾫	None	同=結	None	結
+素	su4	本色的生帛	None	None
+素	su4	指用作写字的丝绸或纸张	None	None
+素	su4	本色；白色	None	None
+素	su4	本质；本性	None	None
+素	su4	带根本性的物质或构成事物的基本成分 如：元素；因素；色素；维生素	None	None
+素	su4	质朴，不加装饰	None	None
+素	su4	清淡无为	None	None
+素	su4	挂名的；无爵位俸禄的	None	None
+素	su4	不仕；境遇贫寒	None	None
+素	su4	平素；旧时	None	None
+素	su4	预先	None	None
+素	su4	志向；宿愿	None	None
+素	su4	旧交	None	None
+素	su4	蔬菜类的食品，与“葷”相对	None	None
+素	su4	指牛马的鼻梁	None	None
+素	su4	广博	None	None
+素	su4	副词 1.表示频度，相当于“向来”、“经常” 2.相当于“空”、“白白地”	None	None
+素	su4	真情 后作=愫	None	愫
+素	su4	通=嗉 禽鸟喉下盛食物的囊	None	嗉
+素	su4	姓	None	None
+𥾦	None	同=𥾻	None	𥾻
+䊿	None	同=衭	None	衭
+纬	None	=緯的简化字	None	緯
+紜	yun2	多而杂乱	None	None
+纭	None	=紜的简化字	None	紜
+䌸	None	=縳的类推简化字	None	縳
+紥	None	同=紮	None	紮
+𥾰	None	同=紲	None	紲
+䊾	mu4	绳索	None	None
 索	None	录入中	None	None
 𥾧	None	录入中	None	None
 𥾣	None	录入中	None	None
