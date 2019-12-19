@@ -80357,35 +80357,139 @@
 遇	yu4	姓	None	None
 遇	yong2	[曲遇]古地名 在今河南省中牟县东	None	None
 遇	ou3	同=偶 1.相对 2.偶然	None	偶
-𨔫	None	录入中	None	None
-遏	None	录入中	None	None
-遗	None	录入中	None	None
-𨕓	None	录入中	None	None
-遌	None	录入中	None	None
-𨔲	None	录入中	None	None
-遄	None	录入中	None	None
-𨕔	None	录入中	None	None
-𨕚	None	录入中	None	None
-𨓴	None	录入中	None	None
-𨔨	None	录入中	None	None
-𨔝	None	录入中	None	None
-遚	None	录入中	None	None
-𨓯	None	录入中	None	None
-𨔮	None	录入中	None	None
-遑	None	录入中	None	None
-𨕙	None	录入中	None	None
-𨕘	None	录入中	None	None
-遁	None	录入中	None	None
-逾	None	录入中	None	None
-𨔩	None	录入中	None	None
-𨔪	None	录入中	None	None
-遃	None	录入中	None	None
-遆	None	录入中	None	None
-遊	None	录入中	None	None
-𨕕	None	录入中	None	None
-𨕜	None	录入中	None	None
-遒	None	录入中	None	None
-道	None	录入中	None	None
+⿺辶⿱日白	None	同=遏	None	遏
+𨔫	None	同=退	None	退
+遏	e4	阻止	None	None
+遏	e4	遮拦；遮蔽	None	None
+遏	e4	断绝；禁绝	None	None
+遏	e4	相及	None	None
+遏	e4	通=害 伤害	None	害
+遏	e4	通=堨 堰	None	堨
+遏	e4	姓	None	None
+遗	None	=遺的简化字	None	遺
+𨕓	None	同=遌	None	遌
+遌	e4	意外相遇 也作=遻	None	遻
+遌	e4	抵触	None	None
+𨔲	None	同=遂	None	遂
+遄	chuan2	往来烦繁而疾速	None	None
+𨕔	None	同=還	None	還
+𨕚	hu1	乍	None	None
+𨓴	ya4	迎	None	None
+𨔨	None	同=𢔣	None	𢔣
+𨔝	None	同=動	None	動
+遚	chou4	匿	None	None
+遚	chou4	不进	None	None
+𨓯	yuan1	行貌	None	None
+𨔮	None	同=送	None	送
+遑	huang2	空闲；闲暇	None	None
+遑	huang2	急迫；匆促不安	None	None
+遑	huang2	何，怎能 常用于反问句中	None	None
+遑	huang2	同=徨	None	徨
+遑	huang2	通=惶 惊惧	None	惶
+𨕙	None	同=邊	None	邊
+𨕘	None	[𨕘甗]器名	None	None
+遁	dun4	迁移	None	None
+遁	dun4	隐匿；隐居	None	None
+遁	dun4	躲避；回避	None	None
+遁	dun4	欺骗；欺蒙	None	None
+遁	dun4	逃走，逃跑	None	None
+遁	dun4	失去	None	None
+遁	dun4	同=遯 六十四卦之一	None	遯
+遁	qun1	同=逡 退	None	逡
+遁	xun2	同=循 流逸	None	循
+逾	yu2	越过	None	None
+逾	yu2	经过；经历	None	None
+逾	yu2	超过，胜过	None	None
+逾	yu2	愈益，更加	None	None
+逾	yu2	远	None	None
+逾	tou2	古量名，十六斗 也作=籔	None	籔
+逾	tou2	通=偷(tou1) 苟且	None	偷
+𨔩	None	同=㣭	None	㣭
+𨔪	None	同=運	None	運
+遃	yan3	行貌	None	None
+遃	an4	遨	None	None
+遆	ti2	同=遞	None	遞
+遆	ti2	姓	None	None
+遊	you2	遨游；游览	None	None
+遊	you2	求学	None	None
+遊	you2	游荡；游逸	None	None
+遊	you2	嬉戏，游乐	None	None
+遊	you2	游观之所	None	None
+遊	you2	行走	None	None
+遊	you2	行；云游	None	None
+遊	you2	游说	None	None
+遊	you2	无拘束	None	None
+遊	you2	优游；闲逛	None	None
+遊	you2	交游；交结	None	None
+遊	you2	飘浮	None	None
+遊	you2	流动	None	None
+遊	you2	潜水浮行	None	None
+遊	you2	虚浮不实	None	None
+遊	you2	放纵；放任	None	None
+遊	you2	游侠	None	None
+遊	you2	无官职的人	None	None
+遊	you2	通=由	None	由
+遊	you2	姓	None	None
+𨕕	zhi1	@	None	None
+𫐷	None	=遱的类推简化字	None	遱
+𨕜	lie4	多节目	None	None
+遒	qiu2	急迫；迫近 也作=逎	None	逎
+遒	qiu2	尽；终	None	None
+遒	qiu2	强健；有力	None	None
+遒	qiu2	聚集	None	None
+遒	qiu2	坚固	None	None
+遒	qiu2	美好	None	None
+遒	qiu2	逸	None	None
+遒	qiu2	姓	None	None
+遒	qiu2	[逡遒]见“逡”	None	None
+遒	qiu1	丛生的（树木）	None	None
+遒	qiu1	古县名 一为汉置，一为隋置 分别在今河北省涞水县和定兴县	None	None
+道	dao4	道路	None	None
+道	dao4	路程；行程	None	None
+道	dao4	取道，经过	None	None
+道	dao4	水道；河道	None	None
+道	dao4	古代棋局上的格道	None	None
+道	dao4	围棋局上下子的交叉点	None	None
+道	dao4	种类，门类	None	None
+道	dao4	行辈；辈分	None	None
+道	dao4	方位	None	None
+道	dao4	方法	None	None
+道	dao4	技术；技艺	None	None
+道	dao4	宇宙万物的本原、本体	None	None
+道	dao4	事理；规律	None	None
+道	dao4	政治主张或思想体系	None	None
+道	dao4	旧指好的政治局面或政治措施	None	None
+道	dao4	道德；道义	None	None
+道	dao4	道家 古九流十家之一	None	None
+道	dao4	指道教或道士	None	None
+道	dao4	神仙，仙术	None	None
+道	dao4	指佛教或佛教徒	None	None
+道	dao4	古代诸侯及士大夫出外时先祭路神	None	None
+道	dao4	指某些会道门组织 如：一贯道；会道门	None	None
+道	dao4	古代行政区划名 1.汉代在少数民族聚居区所设置的县称道 2.唐初分全国为十道，后增为十五道 3.清代在省级设有主管专职的道，并在省与州、府之间设分守道 道设道员	None	None
+道	dao4	说，讲述	None	None
+道	dao4	施行；实行	None	None
+道	dao4	知道；体验	None	None
+道	dao4	正直	None	None
+道	dao4	相当于=到 用于动词后，起补充作用	None	到
+道	dao4	相当于“见”、“看”	None	None
+道	dao4	是 表示存在	None	None
+道	dao4	料想；以为	None	None
+道	dao4	倒，反倒	None	None
+道	dao4	量词 1.用于条形物 2.用于门、墙等 3.用于命令、题目等 4.相当于“次”、“遍”	None	None
+道	dao4	助词 1.相当于“得” 2.用于句首或句中，无实义	None	None
+道	dao4	名词后缀	None	None
+道	dao4	通=首(shou3) 头；起始	None	首
+道	dao4	春秋时国名 在今河南省确山县附近	None	None
+道	dao4	古州名 1.隋置 在今河南省漯河市 2.唐置 治今河南省道县	None	None
+道	dao4	县名 在湖南省南部 1913年由道州改	None	None
+道	dao4	姓	None	None
+道	dao3	疏通	None	None
+道	dao3	引导	None	None
+道	dao3	开导；教导	None	None
+道	dao3	治理	None	None
+道	dao3	谄媚	None	None
+道	dao3	介词 从，由	None	None
 遂	None	录入中	None	None
 運	None	录入中	None	None
 遍	None	录入中	None	None
