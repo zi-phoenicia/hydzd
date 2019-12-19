@@ -70604,37 +70604,103 @@
 ⿰糹⿻乚⿱一冂	None	同=純	None	純
 紑	fou2	衣服鲜洁貌	None	None
 紑	fou2	丝织品色泽鲜明	None	None
-紎	None	录入中	None	None
-紘	None	录入中	None	None
-纮	None	录入中	None	None
-紌	None	录入中	None	None
-䋌	None	录入中	None	None
-𥾙	None	录入中	None	None
-純	None	录入中	None	None
-纯	None	录入中	None	None
-𥾮	None	录入中	None	None
-紕	None	录入中	None	None
-纰	None	录入中	None	None
-䊺	None	录入中	None	None
-𫄚	None	录入中	None	None
-𥾛	None	录入中	None	None
-𥾬	None	录入中	None	None
-䊼	None	录入中	None	None
-紧	None	录入中	None	None
-紗	None	录入中	None	None
-纱	None	录入中	None	None
-𥾢	None	录入中	None	None
-納	None	录入中	None	None
-纳	None	录入中	None	None
-䋄	None	录入中	None	None
-纲	None	录入中	None	None
-𥾹	None	录入中	None	None
-䋃	None	录入中	None	None
-𫄜	None	录入中	None	None
-𥾨	None	录入中	None	None
-紝	None	录入中	None	None
-纴	None	录入中	None	None
-紤	None	录入中	None	None
+⿰纟不	None	=紑的类推简化字	None	紑
+紎	None	同=緇	None	緇
+紘	hong2	系于颔下的帽带	None	None
+紘	hong2	编磬成组的绳子 一说系鼗的绳子	None	None
+紘	hong2	维系	None	None
+紘	hong2	网绳	None	None
+紘	hong2	束	None	None
+紘	hong2	形容中间宽阔	None	None
+紘	hong2	通=宏 宏大	None	宏
+纮	None	=紘的类推简化字	None	紘
+紌	qiu2	蜀锦名	None	None
+𬘕	None	=紌的类推简化字	None	紌
+䋌	None	=䋗(堅)的讹字	None	䋗
+𥾙	None	同=䊺	None	䊺
+純	chun2	蚕丝	None	None
+純	chun2	同一颜色的丝织品	None	None
+純	chun2	不含杂质	None	None
+純	chun2	专一；单纯	None	None
+純	chun2	大	None	None
+純	chun2	笃厚；厚实	None	None
+純	chun2	质朴，无雕饰	None	None
+純	chun2	和谐	None	None
+純	chun2	至善至美	None	None
+純	chun2	诚，信	None	None
+純	chun2	量词 古代长度单位，一丈五尺为一纯	None	None
+純	chun2	全；完整	None	None
+純	chun2	副词 表示范围，相当于“皆”、“都”	None	None
+純	chun2	[純水]水名	None	None
+純	chun2	通=焞 光明；光耀	None	焞
+純	zhun3	通=緣(yuan2) 1.装饰边缘 2.边缘的装饰物	None	緣
+純	zhun3	布帛的幅度 也作=淳	None	淳
+純	tun2	包，捆	None	None
+純	tun2	量词 疋端量名 古代凡丝绵布帛等织物一段为一纯	None	None
+純	quan2	全、偶，成双成对 古代射礼中用以计算射具的单位	None	None
+純	zi1	同=緇 黑色的丝织物	None	緇
+純	zhun1	同=諄	None	諄
+纯	None	=純的简化字	None	純
+𥾮	jue2	断	None	None
+紕	pi1	布帛、丝缕等破坏而披散 如：线纰了	None	None
+紕	pi1	疏忽；错误	None	None
+紕	pi1	颣，丝结	None	None
+紕	pi2	在衣冠或旗帜上镶边 也指所镶的边缘	None	None
+紕	bi3	同=毞 我国古代西北、西南氐族人所织的毛布	None	毞
+紕	bi1	同=𦀘	None	𦀘
+紕	bi4	理	None	None
+紕	bi4	缝合	None	None
+紕	chi3	绩苧量名	None	None
+纰	None	=紕的简化字	None	紕
+䊺	hu4	同=䇘 一种收绳的器具	None	䇘
+𫄚	None	=䊺的类推简化字	None	䊺
+𥾛	cu4	索	None	None
+𥾬	None	同=𥿄	None	𥿄
+䊼	chi3	量词 绩苧一纰叫䊼	None	None
+紧	None	=緊的简化字	None	緊
+紗	sha1	轻细的糸麻织物，古时多以蚕丝为之 古亦作=沙	None	沙
+紗	sha1	今凡用棉麻纤维、化学纤维或其他材料制成的有网眼的布状物皆称纱 如：钢丝纱；尼龙纱	None	None
+紗	sha1	棉、麻等纺成的未经捻合的细缕 如：棉纱；纺纱	None	None
+紗	miao3	细微	None	None
+纱	None	=紗的简化字	None	紗
+𥾢	None	同=衻	None	衻
+納	na4	[納納]濡湿貌	None	None
+納	na4	收藏	None	None
+納	na4	接受	None	None
+納	na4	引入；使进入	None	None
+納	na4	穿；着	None	None
+納	na4	容受；接受	None	None
+納	na4	取；拿	None	None
+納	na4	娶妻	None	None
+納	na4	交纳；贡献	None	None
+納	na4	归还	None	None
+納	na4	相交为朋友	None	None
+納	na4	粗缝；补缀	None	None
+納	na4	收住，停止	None	None
+納	na4	用同=捺 按，往下压	None	捺
+納	na4	下，播	None	None
+納	na4	置，放	None	None
+納	na4	通=軜 驷马车上旁边两匹马的内侧缰绳	None	軜
+納	na4	鱼名 似鳖无甲 也作=𩹾(魶)	None	𩹾
+納	na4	用同=衲 质地粗劣破旧	None	衲
+納	na4	用同=吶	None	吶
+納	na4	姓	None	None
+纳	None	=納的简化字	None	納
+䋄	None	同=網	None	網
+纲	None	=網的简化字	None	網
+𬘖	None	=絸的类推简化字	None	絸
+𥾹	shou3	@	None	None
+䋃	mao4	有毛刺的缯帛	None	None
+𫄜	None	=䋃的类推简化字	None	䋃
+𥾨	hu2	质量差的丝	None	None
+𥾨	hu2	束	None	None
+紝	ren4	织布帛的纱缕	None	None
+紝	ren4	缯帛	None	None
+紝	ren4	纺织	None	None
+紝	ren4	穿；引	None	None
+纴	None	=紝的简化字	None	紝
+⿱夭糸	None	同=幸	None	幸
+紤	jiu3	镜	None	None
 𥾭	None	录入中	None	None
 𥾩	None	录入中	None	None
 紒	None	录入中	None	None
