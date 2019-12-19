@@ -80490,23 +80490,101 @@
 道	dao3	治理	None	None
 道	dao3	谄媚	None	None
 道	dao3	介词 从，由	None	None
-遂	None	录入中	None	None
-運	None	录入中	None	None
-遍	None	录入中	None	None
-𨔥	None	录入中	None	None
-𨔡	None	录入中	None	None
-遐	None	录入中	None	None
-遅	None	录入中	None	None
-𨔧	None	录入中	None	None
-𨕖	None	录入中	None	None
-違	None	录入中	None	None
-𨔢	None	录入中	None	None
-𨕗	None	录入中	None	None
-𨔭	None	录入中	None	None
-遨	None	录入中	None	None
-遘	None	录入中	None	None
-𨕝	None	录入中	None	None
-䢥	None	录入中	None	None
+遂	sui4	逃亡	None	None
+遂	sui4	往，行	None	None
+遂	sui4	前进	None	None
+遂	sui4	举荐；登进	None	None
+遂	sui4	通达	None	None
+遂	sui4	表明，表达	None	None
+遂	sui4	就，成功	None	None
+遂	sui4	已成；终了	None	None
+遂	sui4	生长	None	None
+遂	sui4	养育	None	None
+遂	sui4	周遍	None	None
+遂	sui4	久	None	None
+遂	sui4	称心；如意	None	None
+遂	sui4	安定	None	None
+遂	sui4	顺应；符合	None	None
+遂	sui4	决断	None	None
+遂	sui4	专擅	None	None
+遂	sui4	因循；拖沓	None	None
+遂	sui4	延续	None	None
+遂	sui4	射者穿的臂衣	None	None
+遂	sui4	道路	None	None
+遂	sui4	田间排水的小沟	None	None
+遂	sui4	水道	None	None
+遂	sui4	古代一种行政区划 距王城百里以外至两百里	None	None
+遂	sui4	古代统辖五县的行政地区	None	None
+遂	sui4	尽；完全	None	None
+遂	sui4	副词 1.相当于“于是”，“就” 2.相当于“竟然”；“终于”	None	None
+遂	sui4	通=隊(zhui4) 坠落；往下沉	None	隊
+遂	sui4	通=璲 瑞玉，玉貌	None	璲
+遂	sui4	通=隧 钟下体正中受击之处	None	隧
+遂	sui4	通=燧 阳燧，古代就日光取火的器具 铜制，形如凹面镜	None	燧
+遂	sui4	通=邃 深远	None	邃
+遂	sui4	周代诸侯国名 妫姓，舜的后裔，春秋时为齐所灭 故地在今山东省肥城市南	None	None
+遂	sui4	古州名 汉代广汉地，北周置州 治今四川省遂宁市	None	None
+遂	sui4	姓	None	None
+遂	sui2	顺从，如意	None	None
+⿺辶為	None	同=逶	None	逶
+運	yun4	移动；运行	None	None
+運	yun4	运转，转动	None	None
+運	yun4	运送，搬送	None	None
+運	yun4	运用	None	None
+運	yun4	玩弄；拨弄	None	None
+運	yun4	旧指命运、气数 也特指世运、国运	None	None
+運	yun4	远	None	None
+運	yun4	地的南北向距离	None	None
+運	yun4	纵 竖的，直的	None	None
+運	yun4	运河的简称	None	None
+運	yun4	通=煇(暈) 日月周围的光圈	None	煇
+運	yun4	通=暈 眩晕，昏厥	None	暈
+運	yun4	通=渾(hun2) 浑浊	None	渾
+運	yun4	春秋莒邑 在今山东省沂水县东北 也作=鄆	None	鄆
+運	yun4	姓	None	None
+遍	bian4	普遍；周遍	None	None
+遍	bian4	量词 从头到尾经历一次，相当于“次”、“回”	None	None
+遍	bian4	曲调名 唐宋大曲系依一定顺序连结若干小曲而成，又称“大遍” 其中各小曲亦有称遍者	None	None
+𨔥	jian1	至	None	None
+𨔥	jin1	同=津 渡	None	津
+𨔡	dun4	同=遁	None	遁
+𨔡	tun2	同=𠭣(豚) 小猪	None	𠭣
+𨔡	chuan4	动	None	None
+𨔡	chuan4	同=𨂦 行	None	𨂦
+𨔡	chuan2	同=猭 兽走貌	None	猭
+遐	xia2	远	None	None
+遐	xia2	疏远，离绝	None	None
+遐	xia2	远去	None	None
+遐	xia2	长久；久远	None	None
+遐	xia2	长大	None	None
+遐	xia2	已 也作=假	None	假
+遐	xia2	通=胡(hu2) 何	None	胡
+遅	None	同=遲	None	遲
+𨔧	None	同=迸	None	迸
+𨕖	None	同=選	None	選
+違	wei2	离别	None	None
+違	wei2	去，离开	None	None
+違	wei2	相距，距离	None	None
+違	wei2	违背；违反	None	None
+違	wei2	奔放，出走	None	None
+違	wei2	避开	None	None
+違	wei2	远	None	None
+違	wei2	乖异	None	None
+違	wei2	过失；错误	None	None
+違	wei2	邪行；不正	None	None
+違	wei2	改变	None	None
+違	wei2	恨	None	None
+違	wei2	通=韙 是	None	韙
+違	hui2	同=回	None	回
+𨔢	chan3	行	None	None
+𨕗	yuan3	@	None	None
+𨔭	None	同=迾	None	迾
+遨	ao2	游	None	None
+遘	gou4	遇见，遭遇	None	None
+遘	gou4	同=姤 六十四卦之一	None	姤
+遘	gou4	通=構 构成，造成	None	構
+𨕝	None	同=逋	None	逋
+䢥	None	=𢌨的讹字	None	𢌨
 遠	None	录入中	None	None
 遳	None	录入中	None	None
 𨕹	None	录入中	None	None
