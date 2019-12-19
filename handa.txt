@@ -80221,14 +80221,42 @@
 𨓮	yin2	过	None	None
 週	zhou1	迴	None	None
 週	zhou1	同=周 1.周围；环绕 2.指周期 如：週刊；週年 今作“周” 3.全	None	周
-逸	None	录入中	None	None
-䢟	None	录入中	None	None
-𨔆	None	录入中	None	None
-𨓫	None	录入中	None	None
-逳	None	录入中	None	None
-逭	None	录入中	None	None
-𨓶	None	录入中	None	None
-逮	None	录入中	None	None
+逸	yi4	逃逸；逃跑	None	None
+逸	yi4	奔跑	None	None
+逸	yi4	释放	None	None
+逸	yi4	隐逸	None	None
+逸	yi4	散失，亡失	None	None
+逸	yi4	过失	None	None
+逸	yi4	超绝	None	None
+逸	yi4	疾速	None	None
+逸	yi4	去，过去	None	None
+逸	yi4	闲适；安乐	None	None
+逸	yi4	放纵	None	None
+逸	yi4	置	None	None
+逸	yi4	浮靡	None	None
+逸	yi4	理	None	None
+逸	yi4	姓	None	None
+⿺辶匊	ju1	姓	None	None
+䢟	None	同=遊	None	遊
+𨔆	None	同=遇	None	遇
+𨓫	None	同=𨒉	None	𨒉
+逳	yu4	行	None	None
+逭	huan4	逃，避	None	None
+逭	huan4	宽恕；免除	None	None
+逭	huan4	更迭；改易	None	None
+逭	huan4	行	None	None
+逭	huan4	周转	None	None
+𨓶	None	同=避	None	避
+逮	dai4	及；及至	None	None
+逮	dai4	与，相连及	None	None
+逮	dai4	逮捕	None	None
+逮	dai4	押解囚犯	None	None
+逮	dai4	追	None	None
+逮	dai4	同=迨 趁着	None	迨
+逮	dai4	犹“僅”	None	None
+逮	dai4	姓	None	None
+逮	di4	[逮逮]也作“=棣棣” 闲习貌；安和貌	None	棣
+逮	dai3	方言 捉，抓 如：猫逮老鼠	None	None
 逯	None	录入中	None	None
 䢜	None	录入中	None	None
 𨔚	None	录入中	None	None
