@@ -70701,42 +70701,77 @@
 纴	None	=紝的简化字	None	紝
 ⿱夭糸	None	同=幸	None	幸
 紤	jiu3	镜	None	None
-𥾭	None	录入中	None	None
-𥾩	None	录入中	None	None
-紒	None	录入中	None	None
-䋂	None	录入中	None	None
-𥾥	None	录入中	None	None
-𥾺	None	录入中	None	None
-纵	None	录入中	None	None
-纶	None	录入中	None	None
-𥾪	None	录入中	None	None
-紟	None	录入中	None	None
-𫄛	None	录入中	None	None
-𥾜	None	录入中	None	None
-紛	None	录入中	None	None
-纷	None	录入中	None	None
-紣	None	录入中	None	None
-紙	None	录入中	None	None
-纸	None	录入中	None	None
-䊻	None	录入中	None	None
-𥾡	None	录入中	None	None
-𥾻	None	录入中	None	None
-紋	None	录入中	None	None
-纹	None	录入中	None	None
-紊	None	录入中	None	None
-䋁	None	录入中	None	None
-𥾼	None	录入中	None	None
-紡	None	录入中	None	None
-纺	None	录入中	None	None
-紏	None	录入中	None	None
-纻	None	录入中	None	None
-䋀	None	录入中	None	None
-紞	None	录入中	None	None
-𥾚	None	录入中	None	None
-䊽	None	录入中	None	None
-𥾯	None	录入中	None	None
-紖	None	录入中	None	None
-纼	None	录入中	None	None
+𥾭	None	=𥿯的讹字	None	𥿯
+𥾩	None	=䋀的讹字	None	䋀
+紒	ji4	束发为髻 也指发结 后作=髻	None	髻
+紒	ji4	不明了；不省悟	None	None
+紒	jie2	同=結 用线、绳等打结或编织 也指结成之物	None	結
+紒	jie4	紫青色的绶带	None	None
+⿰纟介	None	=紒的类推简化字	None	紒
+䋂	yao2	黄色；苍黄色 也作=絞	None	絞
+𥾥	None	同=䋂	None	䋂
+𥾺	None	同=縱	None	縱
+纵	None	=縱的简化字	None	縱
+纶	None	=綸的简化字	None	綸
+𥾪	None	同=烏	None	烏
+紟	jin1	系结衣服的带子	None	None
+紟	jin1	布帛名	None	None
+紟	jin4	单被	None	None
+𫄛	None	=紟的类推简化字	None	紟
+𥾜	None	同=總	None	總
+紛	fen1	马尾韬	None	None
+紛	fen1	旌旗上的飘带	None	None
+紛	fen1	花边	None	None
+紛	fen1	扰乱；变乱	None	None
+紛	fen1	杂乱；混杂	None	None
+紛	fen1	祸乱；灾难	None	None
+紛	fen1	纠纷；争执	None	None
+紛	fen1	盛貌	None	None
+紛	fen1	多；众	None	None
+紛	fen1	喜	None	None
+紛	fen1	缓	None	None
+紛	fen1	拭物的佩巾；抹布 也作=帉	None	帉
+纷	None	=紛的简化字	None	紛
+紣	None	同=綷	None	綷
+紙	zhi3	纸张 我国古代四大发明之一 本指漂洗蚕茧时附着于筐上的絮渣，呈方形 后指以丝为原料的缣帛 自东汉蔡伦革新造纸法，始以树皮、麻头、破布、鱼网为原料 今多以植物纤维制造	None	None
+紙	zhi3	量词 书信、文件的张数 如：一纸空文	None	None
+紙	zhi3	冥钱，迷信的人烧给死人的纸钱	None	None
+紙	zhi3	文契；字据	None	None
+紙	zhi3	姓	None	None
+纸	None	=紙的简化字	None	紙
+䊻	gan1	丝貌	None	None
+𥾡	xun2	同=紃 饰履的圆形绦带	None	紃
+𥾡	ji1	缠	None	None
+𥾻	None	同=綥	None	綥
+紋	wen2	丝织物上的花纹	None	None
+紋	wen2	物体上呈线条状的纹路 如：纹理；皱纹	None	None
+紋	wen4	缝隙	None	None
+纹	None	=紋的简化字	None	紋
+紊	wen3	乱	None	None
+紊	wen3	繁盛	None	None
+䋁	geng3	同=綆 井上汲水的绳索	None	綆
+𥾼	wang3	@	None	None
+紡	fang3	绸属 古指素色纱绢	None	None
+紡	fang3	把丝麻纤维制成纱或线	None	None
+紡	bang3	缠缚 后作=綁	None	綁
+紡	fang4	同=放	None	放
+纺	None	=紡的简化字	None	紡
+紏	tou3	丝黄色	None	None
+纻	None	=紵的类推简化字	None	紵
+䋀	hua4	青丝或麻制作的鞋	None	None
+紞	dan3	古代冕冠两旁用以悬瑱的带子	None	None
+紞	dan3	缝在被头上的丝带，用以识别上下	None	None
+紞	dan3	象声词 击鼓声，或似击鼓的声音	None	None
+紞	dan3	敲；击	None	None
+𬘘	None	=紞的类推简化字	None	紞
+𥾚	geng3	同=綆 井上汲水的绳索	None	綆
+𥾚	dan3	同=紞 古代冕冠两旁用以悬瑱的带子	None	紞
+䊽	guai4	细丝	None	None
+䊽	jue2	同=䋉 麻线；丝线	None	䋉
+𥾯	diao4	用绳索捆绑	None	None
+紖	zhen4	穿在牛鼻上以备牵引的绳子 也泛指牵牲口的绳子	None	None
+紖	zhen4	牵引灵车的大绳子	None	None
+纼	None	=紖的简化字	None	紖
 紐	None	录入中	None	None
 纽	None	录入中	None	None
 𥾠	None	录入中	None	None
