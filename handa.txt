@@ -70416,25 +70416,85 @@
 纡	None	=紆的简化字	None	紆
 𥾒	None	同=䊷(緇)	None	䊷
 䊸	None	同=紆	None	紆
-紅	None	录入中	None	None
-红	None	录入中	None	None
-䊷	None	录入中	None	None
-䌶	None	录入中	None	None
-紂	None	录入中	None	None
-纣	None	录入中	None	None
-𥾎	None	录入中	None	None
-𥾕	None	录入中	None	None
-𥾐	None	录入中	None	None
-𥾬	None	录入中	None	None
-纤	None	录入中	None	None
-紇	None	录入中	None	None
-纥	None	录入中	None	None
-𥾑	None	录入中	None	None
-紃	None	录入中	None	None
-𥾖	None	录入中	None	None
-𥾓	None	录入中	None	None
-約	None	录入中	None	None
-约	None	录入中	None	None
+紅	hong2	原指浅赤色的帛，后泛指粉红色、桃红色	None	None
+紅	hong2	赤，像鲜血一样的颜色 如：红旗；红枣	None	None
+紅	hong2	红绫等织物（旧时常用作礼物）	None	None
+紅	hong2	鲜血的代称	None	None
+紅	hong2	花的代称	None	None
+紅	hong2	美人的代称	None	None
+紅	hong2	喜庆的事	None	None
+紅	hong2	显达，兴盛	None	None
+紅	hong2	红利 指企业分给股东的利润或分给职工的额外报酬，现也指集体生产单位中个人所得的收益 如：资方红利；年终分红	None	None
+紅	hong2	象征革命或政治觉悟高 如：红军；红色革命根据地；又红又专	None	None
+紅	hong2	草名	None	None
+紅	hong2	春秋时鲁国地名 在今山东省境内	None	None
+紅	hong2	姓	None	None
+紅	gong1	同=功 1.功绩，工作 2.古丧服“大功”、“小功”的通称	None	功
+紅	gong1	通=工 常指女子所做的织布、缝纫、刺绣等工作	None	工
+紅	jiang4	同=絳	None	絳
+红	None	=紅的简化字	None	紅
+䊷	None	同=緇	None	緇
+䌶	None	=䊷的类推简化字	None	䊷
+紂	zhou4	套车时拴在驾辕牲口尾部横木上的皮带	None	None
+紂	zhou4	商代最后一个君主 一作=受，亦称“帝辛”	None	受
+紂	zhou4	通=牖(you3) 窗	None	牖
+纣	None	=紂的简化字	None	紂
+𥾎	None	同=綦	None	綦
+⿰糹大	None	同=緇	None	緇
+⿱一𥾈	None	同=綦	None	綦
+𥾕	wu4	@	None	None
+𥾐	jian1	田器	None	None
+⿰糹𠧒	None	同=紇	None	紇
+纤	None	=纖、=縴的简化字	None	纖
+紇	he2	大丝	None	None
+紇	he2	孔丘父名	None	None
+紇	he2	姓	None	None
+紇	ge1	[紇梯紇榻]形容某种声音	None	None
+紇	jie2	觐	None	None
+紇	jie2	急	None	None
+纥	None	=紇的简化字	None	紇
+𥾑	None	同=純	None	純
+紃	xun2	饰履的圆形绦带	None	None
+紃	xun2	采成文	None	None
+紃	xun2	采	None	None
+紃	xun2	通=訓(xun4) 法则；准则	None	訓
+紃	xun2	通=循 遵循；顺着	None	循
+𬘓	None	=紃的类推简化字	None	紃
+𥾖	None	同=紃	None	紃
+𥾓	zhou2	解	None	None
+約	yue1	缠束；捆缚	None	None
+約	yue1	约束；节制	None	None
+約	yue1	绳子	None	None
+約	yue1	结盟，协议	None	None
+約	yue1	以语言或文字预先规定须共同遵守的条件 如：契约；条约；公约	None	None
+約	yue1	约会	None	None
+約	yue1	邀，请	None	None
+約	yue1	准备；具办	None	None
+約	yue1	阻止；阻拦	None	None
+約	yue1	掠；拂	None	None
+約	yue1	笼罩	None	None
+約	yue1	节俭	None	None
+約	yue1	精明；简要	None	None
+約	yue1	简缩；省略	None	None
+約	yue1	少；不多	None	None
+約	yue1	䙏	None	None
+約	yue1	薄	None	None
+約	yue1	穷困	None	None
+約	yue1	卑屈；卑微	None	None
+約	yue1	弱	None	None
+約	yue1	好	None	None
+約	yue1	隐奥；隐微	None	None
+約	yue1	青病，一种米病	None	None
+約	yue1	竹节	None	None
+約	yue1	数学名词 如：约分；约数	None	None
+約	yue1	广东地方行政单位，略相当于乡	None	None
+約	yue1	方言 用手指表示数目	None	None
+約	yue1	副词 表示估计或推测，相当于“大概”、“大略”	None	None
+約	yue1	姓	None	None
+約	yao1	用秤称物 多用于现代口语	None	None
+約	yao4	要领；关键	None	None
+約	di4	琴徽 也作=的	None	的
+约	None	=約的简化字	None	約
 紈	None	录入中	None	None
 纨	None	录入中	None	None
 級	None	录入中	None	None
