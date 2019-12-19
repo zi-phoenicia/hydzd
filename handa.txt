@@ -80709,42 +80709,82 @@
 𨖯	None	同=𣣸	None	𣣸
 𨖏	jiu4	弯腰行走，以示恭谨	None	None
 𨖆	None	同=䢐	None	䢐
-𨖐	None	录入中	None	None
-𣤎	None	录入中	None	None
-遱	None	录入中	None	None
-𨖭	None	录入中	None	None
-𨖞	None	录入中	None	None
-𨖰	None	录入中	None	None
-𨖬	None	录入中	None	None
-𨖎	None	录入中	None	None
-𨖽	None	录入中	None	None
-𨗔	None	录入中	None	None
-𨖟	None	录入中	None	None
-䢨	None	录入中	None	None
-𨖠	None	录入中	None	None
-𨖡	None	录入中	None	None
-𨖪	None	录入中	None	None
-𨖦	None	录入中	None	None
-遯	None	录入中	None	None
-𨖶	None	录入中	None	None
-𨖢	None	录入中	None	None
-𨖣	None	录入中	None	None
-𨖤	None	录入中	None	None
-𨖈	None	录入中	None	None
-遮	None	录入中	None	None
-𨖥	None	录入中	None	None
-遧	None	录入中	None	None
-適	None	录入中	None	None
-䢦	None	录入中	None	None
-𨖱	None	录入中	None	None
-𨖌	None	录入中	None	None
-𨖉	None	录入中	None	None
-𨖋	None	录入中	None	None
-䢫	None	录入中	None	None
-𨖮	None	录入中	None	None
-䢧	None	录入中	None	None
-遪	None	录入中	None	None
-遦	None	录入中	None	None
+𨖐	None	同=鑿	None	鑿
+𣤎	you3	言意	None	None
+遱	lou2	[連遱]行步相连不绝	None	None
+𨖭	ya2	远貌	None	None
+𨖞	None	同=還	None	還
+𨖰	qie4	同=𡔣 多节目	None	𡔣
+𨖬	chou4	齐	None	None
+𨖎	chi3	近	None	None
+𨖽	None	同=遺	None	遺
+𨗔	None	同=遺	None	遺
+⿺𨒂言	None	同=誕	None	誕
+𨖟	None	同=邀	None	邀
+䢨	cong1	同=𢔩 步缓	None	𢔩
+䢨	zong1	同=蹤 踪迹	None	蹤
+𨖠	bian3	[𨖠遞]同“=匾𠥶”	None	匾
+𨖠	bian4	同=遍(徧)	None	遍
+𨖡	None	同=遁	None	遁
+𨖪	None	同=報	None	報
+𨖦	None	同=報	None	報
+遯	dun4	六十四卦之一，卦形为x，艮下乾上	None	None
+遯	dun4	同=遁	None	遁
+𨖶	xiang4	行貌	None	None
+𨖢	kuang2	@	None	None
+𨖣	None	同=𨙀	None	𨙀
+𨖤	None	同=𨗬(徙)	None	𨗬
+𨖈	None	同=遥	None	遥
+遮	zhe1	遏止，拦住	None	None
+遮	zhe1	掩盖，掩蔽	None	None
+遮	zhe1	代词 相当于=这	None	这
+遮	zhe1	通=庶(shu4) 众多	None	庶
+𨖥	None	同=遮	None	遮
+遧	zhang1	同=章 彰明	None	章
+適	shi4	往，至	None	None
+適	shi4	归从；归向	None	None
+適	shi4	向，对	None	None
+適	shi4	女子出嫁	None	None
+適	shi4	符合，适合 如：削足适履	None	None
+適	shi4	恰当	None	None
+適	shi4	善；美好	None	None
+適	shi4	快乐，舒畅	None	None
+適	shi4	安便；自得貌	None	None
+適	shi4	得	None	None
+適	shi4	齐等	None	None
+適	shi4	节制	None	None
+適	shi4	调理；调节	None	None
+適	shi4	抵触	None	None
+適	shi4	遇	None	None
+適	shi4	近	None	None
+適	shi4	辟领，古丧服之领 系开丧服而成 一说通=積	None	積
+適	shi4	相当于=是	None	是
+適	shi4	副词 1.正好，恰巧 2.偶然；偶尔 3.刚刚；方才 4.通=啻(chi4) 只，仅仅	None	啻
+適	shi4	连词 表示假设关系，相当于“假若”，“如果”	None	None
+適	shi4	姓	None	None
+適	di2	随从，顺从	None	None
+適	di2	同=嫡 正妻所生之子称“嫡子”	None	嫡
+適	di2	亲厚；器重	None	None
+適	di2	专主；作主	None	None
+適	di2	通=諦(di4) 注意，仔细	None	諦
+適	di2	通=敵 1.仇敌 2.匹敌，相当 3.抵挡	None	敵
+適	ti4	[適適]惊视自失貌	None	None
+適	zhe2	通=謫(讁) 1.惩罚 2.责备；谴责 3.旧指天象等变异 4.过失，毛病	None	謫
+䢦	shuai4	先导，引导 也作=率、=帥	None	率
+䢦	shuai4	遵循	None	None
+䢦	shuai4	同=𧗿 率领	None	𧗿
+𨖱	None	=𨘇的讹字	None	𨘇
+𨖌	yang4	走	None	None
+𨖉	None	同=遴	None	遴
+𨖋	zan3	远	None	None
+𨖋	zhi4	行貌	None	None
+䢫	None	同=隨	None	隨
+𨖮	zhuo2	同=𤉐 速	None	𤉐
+䢧	liao4	往	None	None
+遪	ca4	裹遪	None	None
+遪	ca4	走，行	None	None
+遦	guan4	习惯 也作=貫、=慣	None	貫
+遦	guan4	行	None	None
 遶	None	录入中	None	None
 𨗣	None	录入中	None	None
 𨖻	None	录入中	None	None
