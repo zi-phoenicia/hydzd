@@ -71091,39 +71091,94 @@
 絨	rong2	柔软细小的毛或纤维	None	None
 絨	rong2	刺绣用的丝线	None	None
 绒	None	=絨的简化字	None	絨
-絓	None	录入中	None	None
-結	None	录入中	None	None
-结	None	录入中	None	None
-絷	None	录入中	None	None
-𦀂	None	录入中	None	None
-䋙	None	录入中	None	None
-䌺	None	录入中	None	None
-絙	None	录入中	None	None
-𫄠	None	录入中	None	None
-䋗	None	录入中	None	None
-絤	None	录入中	None	None
-絚	None	录入中	None	None
-絔	None	录入中	None	None
-絠	None	录入中	None	None
-𥿶	None	录入中	None	None
-絝	None	录入中	None	None
-绔	None	录入中	None	None
-𦀇	None	录入中	None	None
-𫄤	None	录入中	None	None
-絾	None	录入中	None	None
-𥿴	None	录入中	None	None
-绕	None	录入中	None	None
-絰	None	录入中	None	None
-绖	None	录入中	None	None
-紪	None	录入中	None	None
-紫	None	录入中	None	None
-絖	None	录入中	None	None
-𦀨	None	录入中	None	None
-絏	None	录入中	None	None
-絧	None	录入中	None	None
-𫄡	None	录入中	None	None
-絽	None	录入中	None	None
-絪	None	录入中	None	None
+絓	kua1	缫茧时弄结了的丝	None	None
+絓	kua1	用袋子装着丝绵在水中淘洗	None	None
+絓	kua1	䌷，一种粗绸子	None	None
+絓	gua4	受阻；绊住	None	None
+絓	gua4	触犯	None	None
+絓	gua4	构成	None	None
+絓	gua4	独特	None	None
+𮉤	None	=絓的类推简化字	None	絓
+結	jie2	打结，使条状物相交联形成疙瘩或用这种方式制成物品	None	None
+結	jie2	结子或像结子一类的块状凸出物 如：喉结；蝴蝶结	None	None
+結	jie2	束缚；缠扎	None	None
+結	jie2	箝制；闭住	None	None
+結	jie2	结构；建造	None	None
+結	jie2	交接；连接	None	None
+結	jie2	团聚；联合	None	None
+結	jie2	结交 如：结拜；结实；结伴	None	None
+結	jie2	缔结；组织 如：结盟；结婚；结党；结社；结队	None	None
+結	jie2	凝结	None	None
+結	jie2	积聚	None	None
+結	jie2	固结，久而难改	None	None
+結	jie2	结尾；终局	None	None
+結	jie2	总束；了结 如：结账；结案；结业	None	None
+結	jie2	结问罪行定其刑罚	None	None
+結	jie2	形成 如：结仇；结怨	None	None
+結	jie2	续	None	None
+結	jie2	屈曲；盘结	None	None
+結	jie2	扭，抓	None	None
+結	jie2	旧时表示承担责任的字据 如：具结；保结	None	None
+結	jie2	要	None	None
+結	jie2	佛教用语 烦恼迷惑	None	None
+結	jie2	中医脉象，指脉搏迟缓，有不规则的间歇 常见于阴盛气结等症	None	None
+結	jie2	姓	None	None
+結	ji4	发髻 后作=髻	None	髻
+結	ji4	系	None	None
+結	jie1	植物生长果实 如：结果；结瓜	None	None
+結	jie1	坚硬；牢固 如：地很结	None	None
+結	jie1	健壮	None	None
+结	None	=結的简化字	None	結
+絷	None	=縶的简化字	None	縶
+𦀂	None	同=織	None	織
+䋙	er3	[䋙䋙]辔盛貌	None	None
+䌺	None	=䋙的类推简化字	None	䋙
+絙	huan2	绶	None	None
+絙	geng1	同=緪	None	緪
+𫄠	None	=絙的类推简化字	None	絙
+䋗	None	同=䌑(堅)	None	䌑
+絤	None	同=線(綫)	None	線
+𬘟	None	=絤的类推简化字	None	絤
+絚	None	同=緪	None	緪
+⿰纟亙	None	=絚的类推简化字	None	絚
+絔	bai3	补	None	None
+絔	mo4	同=帞 头巾	None	帞
+絠	gai3	引弦开弓，使弓弩两端原来状态发生变化	None	None
+絠	gai3	解出绳索	None	None
+絠	ai3	冠卷	None	None
+𥿶	None	=緬的讹字	None	緬
+絝	ku4	套裤	None	None
+絝	ku4	绊络	None	None
+绔	None	=絝的简化字	None	絝
+𦀇	None	=經的讹字	None	經
+𫄤	None	=繨的类推简化字	None	繨
+絾	cheng2	织絾	None	None
+⿰纟成	None	=絾的类推简化字	None	絾
+⿰纟夹	None	=綊的类推简化字	None	綊
+𥿴	ci4	以漆涂器 也作=䰍	None	䰍
+绕	None	=繞的简化字	None	繞
+⿰纟毕	None	=縪的类推简化字	None	縪
+絰	die2	古代服丧期间结在头上或腰部的葛麻布带	None	None
+绖	None	=絰的简化字	None	絰
+紪	None	同=緀	None	緀
+紫	zi3	红和蓝合成的颜色	None	None
+紫	zi3	紫色的衣冠和丝带	None	None
+紫	zi3	姓	None	None
+絖	kuang4	同=纊 绵絮	None	纊
+絖	kuang4	量词 八十缕	None	None
+𬘢	None	=絖的类推简化字	None	絖
+𦀨	nuo2	棉丝纹	None	None
+絏	xie4	同=紲	None	紲
+絏	yi4	同=袣	None	袣
+絧	dong4	[鴻絧]1.直驰貌 2.相连貌 3.深远	None	None
+絧	dong4	相通貌	None	None
+絧	tong2	布名	None	None
+絧	tong1	缓而直通貌	None	None
+𫄡	None	=絧的类推简化字	None	絧
+絽	lv3	缝衣	None	None
+絽	lv3	綨	None	None
+絪	yin1	[絪緼]1.天地元气 2.云烟弥漫之状 3.麻枲	None	None
+絪	yin1	通=茵 垫褥	None	茵
 絗	None	录入中	None	None
 䋞	None	录入中	None	None
 絑	None	录入中	None	None
