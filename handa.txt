@@ -48825,60 +48825,113 @@
 𤕯	jiang1	同=漿	None	漿
 𤕯	zhuang4	某物赖以生成的基址	None	None
 𤕯	zhuang4	同=𣶍	None	𣶍
-𤕱	None	录入中	None	None
-牁	None	录入中	None	None
-𤕳	None	录入中	None	None
-𤕲	None	录入中	None	None
-𤕴	None	录入中	None	None
-𤕵	None	录入中	None	None
-㸛	None	录入中	None	None
-𤕷	None	录入中	None	None
-将	None	录入中	None	None
-𤕶	None	录入中	None	None
-牂	None	录入中	None	None
-𤕿	None	录入中	None	None
-𤕾	None	录入中	None	None
-𤕻	None	录入中	None	None
-𤕼	None	录入中	None	None
-𤕽	None	录入中	None	None
-𤖀	None	录入中	None	None
-將	None	录入中	None	None
-𤖋	None	录入中	None	None
-𤖆	None	录入中	None	None
-𤖈	None	录入中	None	None
-𤖄	None	录入中	None	None
-𤖇	None	录入中	None	None
-𤖉	None	录入中	None	None
-𤟌	None	录入中	None	None
-𤖅	None	录入中	None	None
-㸜	None	录入中	None	None
-牃	None	录入中	None	None
-𤖍	None	录入中	None	None
-𤖌	None	录入中	None	None
-𤖐	None	录入中	None	None
-牄	None	录入中	None	None
-𧌜	None	录入中	None	None
-𤖏	None	录入中	None	None
-𤖒	None	录入中	None	None
-𤖓	None	录入中	None	None
-𤖖	None	录入中	None	None
-𤖕	None	录入中	None	None
-牅	None	录入中	None	None
-𤖘	None	录入中	None	None
-𤖙	None	录入中	None	None
-𤖞	None	录入中	None	None
-𤖚	None	录入中	None	None
-𤖛	None	录入中	None	None
-牆	None	录入中	None	None
-𤖜	None	录入中	None	None
-𤖝	None	录入中	None	None
-𤖗	None	录入中	None	None
-𤖠	None	录入中	None	None
-𤖢	None	录入中	None	None
-𤖣	None	录入中	None	None
-𤖤	None	录入中	None	None
-𤖧	None	录入中	None	None
-𤖦	None	录入中	None	None
+⿰丬勿	None	同=物	None	物
+𤕱	None	同=㼱	None	㼱
+牁	ke1	系船的木桩	None	None
+𤕳	None	=胈的讹字	None	胈
+𤕲	None	同=俎	None	俎
+𤕴	None	同=椸	None	椸
+𤕵	None	同=𤖦	None	𤖦
+㸛	shao2	床	None	None
+𤕷	diao4	杠	None	None
+𤕷	diao4	床板	None	None
+将	None	=將的简化字	None	將
+𤕶	None	同=莊	None	莊
+牂	zang1	母羊 或特指白羊	None	None
+牂	zang1	茁壮；茂盛	None	None
+牂	zang1	地名“牂牁”的简称	None	None
+𤕿	None	同=𤕷	None	𤕷
+𤕾	qiu2	[𤖘𤕾]见“𤖘”	None	None
+𤕾	fu3	节乐	None	None
+𤕻	None	=牾的讹字	None	牾
+𤕼	None	同=祭祀	None	祭
+𤕽	qiang2	同=檣	None	檣
+𤖀	feng1	@	None	None
+將	jiang4	将帅；将领	None	None
+將	jiang4	统率；率领	None	None
+將	jiang4	威武	None	None
+將	jiang4	军衔名 军官，在元帅之下，校级之上 如：大将；中将；少将	None	None
+將	jiang4	能手；能人 如：乒坛老将	None	None
+將	jiang1	扶持；扶助	None	None
+將	jiang1	护持；护卫	None	None
+將	jiang1	养息	None	None
+將	jiang1	顺从；随从	None	None
+將	jiang1	行进；前进	None	None
+將	jiang1	推进	None	None
+將	jiang1	送行	None	None
+將	jiang1	行；施行	None	None
+將	jiang1	遵奉；秉承	None	None
+將	jiang1	传达；表达	None	None
+將	jiang1	赠送	None	None
+將	jiang1	进献	None	None
+將	jiang1	逝去；过去	None	None
+將	jiang1	排成行列	None	None
+將	jiang1	持；取；拿	None	None
+將	jiang1	方言 兽类生仔	None	None
+將	jiang1	下象棋时攻击对方的将或帅 如：当头炮一将，我就输了 又引申为给对方出难题 如：他提的问题将了我一军，把我难住了	None	None
+將	jiang1	谓，以为	None	None
+將	jiang1	相当于“是”，与“非”相对	None	None
+將	jiang1	想要；打算	None	None
+將	jiang1	副词 1.相当于“将要”；“快要” 2.相当于“方”；“始” 3.相当于“必”；“必定”；“就会” 4.相当于“当”；“应该” 5.表示疑问，相当于“尚”；“还” 6.表示数量，相当于“惟独” 7.表示性态，相当于“乃”；“这才” 8.表示数量差不多，相当于“将近”	None	None
+將	jiang1	介词 1.在；于 2.以；用 3.把 4.与；同	None	None
+將	jiang1	连词 1.和 2.表示转折，相当于“而” 3.又；且 4.抑；或 5.则 6.表示假设 如果；假若	None	None
+將	jiang1	代词 1.相当于“此”；“这” 2.表疑问，相当于“何”；“怎么”	None	None
+將	jiang1	助词 1.发语词 2.相当于“岂” 3.相当于“其” 4.相当于“殆”；“大概” 5.相当于“得” 6.语气助词 用在动词后，以助语气	None	None
+將	jiang1	相当于“为”	None	None
+將	jiang1	大；壮	None	None
+將	jiang1	长久	None	None
+將	jiang1	侧，旁边	None	None
+將	jiang1	分割	None	None
+將	jiang1	通=臧(zang1) 善，美	None	臧
+將	jiang1	通=牂(zang1) 母羊	None	牂
+將	jiang1	姓	None	None
+將	qiang1	情；愿	None	None
+將	yang2	杂名；含杂质的玉	None	None
+將	jiang3	同=奬	None	奬
+𤖋	None	同=藏	None	藏
+𤖆	zhan3	豢羊屋	None	None
+𤖈	None	同=莊	None	莊
+𤖄	None	同=莊	None	莊
+𤖇	ke3	同=棵 俎名	None	棵
+𤖉	None	同=病	None	病
+⿰爿⿱爫犬	None	同=奬	None	奬
+𤟌	None	同=奬	None	奬
+𤖅	None	同=漿	None	漿
+⿰爿𢇻	None	同=疾	None	疾
+㸜	kong4	穿垣	None	None
+牃	die2	床板	None	None
+𤖍	None	同=逸	None	逸
+𤖌	None	同=椸	None	椸
+𤖐	None	同=敗	None	敗
+⿰爿⿱臣止	None	同=臧	None	臧
+牄	qiang1	鸟兽求食声 今作=蹌	None	蹌
+𧌜	None	同=螿	None	螿
+𤖏	None	同=疾	None	疾
+𤖒	die2	@	None	None
+𤖓	ze2	同=簀 用竹或木条编成的床垫	None	簀
+𤖖	guang1	床下横木	None	None
+𤖕	None	同=醬	None	醬
+牅	None	同=墉	None	墉
+𤖘	fen3	床板	None	None
+𤖘	fen2	[𤖘𤕾]也作“=橨梂” 柎，器足	None	橨
+𤖙	None	同=酱(醬)	None	酱
+𤖞	ji2	殳立貌	None	None
+𤖚	None	同=逸	None	逸
+𤖛	jiang3	大	None	None
+牆	qiang2	用土筑或用砖石等砌成的屏障或外围	None	None
+牆	qiang2	藩蔽	None	None
+牆	qiang2	古代柩车饰件，即棺罩四周的帷幔	None	None
+牆	qiang2	通=嬙 古代宫廷的女官	None	嬙
+𤖜	None	同=𤖦	None	𤖦
+𤖝	yan2	同=檐 屋顶向旁伸出的边沿部分	None	檐
+𤖗	se4	殳立貌	None	None
+𤖠	None	同=牆	None	牆
+𤖢	li4	床箦	None	None
+𤖣	None	同=牆	None	牆
+𤖤	None	同=備	None	備
+𤖧	None	同=牆	None	牆
+𤖦	ling2	床箦	None	None
+𤖦	ling2	床梯	None	None
 毋	wu2	副词 1.表示禁止或劝阻，相当于“别”，“不要” 2.表示否定，相当于“不”	None	None
 毋	wu2	助词 用于句首	None	None
 毋	wu2	代词 相当于“没有谁”或“没有人”	None	None
