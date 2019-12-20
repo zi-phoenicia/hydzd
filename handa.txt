@@ -70347,37 +70347,69 @@ du羽夹	None	=翜的类推简化字	None	翜
 翤	None	同=翅	None	翅
 䎓	ta4	[翋䎓]也作“翋=𦑶”、“𦒆=𦑇” 飞貌	None	𦑶
 𦑇	ta4	[𦒆𦑇]见“𦒆” *=䎓	None	䎓
-𦑏	None	录入中	None	None
-翟	None	录入中	None	None
-翢	None	录入中	None	None
-翞	None	录入中	None	None
-翠	None	录入中	None	None
-𦑋	None	录入中	None	None
-翣	None	录入中	None	None
-䎑	None	录入中	None	None
-𦑢	None	录入中	None	None
-𦑜	None	录入中	None	None
-𦑞	None	录入中	None	None
-𦑭	None	录入中	None	None
-𦑘	None	录入中	None	None
-𦑧	None	录入中	None	None
-𦑡	None	录入中	None	None
-翨	None	录入中	None	None
-𦑣	None	录入中	None	None
-𦑪	None	录入中	None	None
-𦑝	None	录入中	None	None
-𦑠	None	录入中	None	None
-翫	None	录入中	None	None
-翭	None	录入中	None	None
-𦑤	None	录入中	None	None
-𦑛	None	录入中	None	None
-翪	None	录入中	None	None
-𦑨	None	录入中	None	None
-𦑚	None	录入中	None	None
-𦑟	None	录入中	None	None
-𦒁	None	录入中	None	None
-𦑺	None	录入中	None	None
-𦑦	None	录入中	None	None
+𦑏	chai4	飞速貌	None	None
+翟	di2	长尾野鸡 又叫雉	None	None
+翟	di2	翟羽，古代乐舞所执雉羽	None	None
+翟	di2	古代有野鸡图像的衣服	None	None
+翟	di2	古代用雉羽装饰的车子	None	None
+翟	di2	乐吏	None	None
+翟	di2	通=狄 周代北方地区民族名，所建之国亦称翟	None	狄
+翟	di2	姓	None	None
+翟	zhai2	姓	None	None
+⿰羽⿺⿱丿乚圭	None	同=𦑏	None	𦑏
+翢	dao4	同=纛	None	纛
+翢	zhou1	[翢翢]鸟名	None	None
+翞	jiang1	[翞翞]鹊行貌	None	None
+翠	cui4	翠鸟 又专指雌性的翠鸟	None	None
+翠	cui4	翠鸟的羽毛，可作装饰品	None	None
+翠	cui4	鸟尾肉 后作=臎	None	臎
+翠	cui4	青、绿、碧之类的颜色	None	None
+翠	cui4	色彩鲜明	None	None
+翠	cui4	姓	None	None
+𦑋	zu2	快飞貌	None	None
+翣	sha4	古代棺饰 垂于棺的两旁	None	None
+翣	sha4	扇	None	None
+翣	sha4	古代钟鼓架上的饰物	None	None
+⿰羽戾	None	同=翈	None	翈
+𬚄	None	=䎘的类推简化字	None	䎘
+䎑	lu4	飞行于水面上	None	None
+䎑	lu4	上飞貌	None	None
+𦑢	None	同=纛	None	纛
+𦑜	ge2	翅；翼	None	None
+𦑜	ge2	羽	None	None
+𦑞	bi4	飞	None	None
+𦑭	None	=翮的讹字	None	翮
+𦑘	xian2	[𦑘𦒧]疾飞	None	None
+𦑧	None	同=翨	None	翨
+𦑡	chi2	[𦑡𦑡]也作“=提提” 群飞貌	None	提
+𦑡	chi1	同=𦐉	None	𦐉
+翨	chi4	鸟翼后缘和尾部长大的羽毛	None	None
+翨	chi4	同=翅 鸟翅	None	翅
+𦑣	cha4	飞貌	None	None
+𦑪	None	同=𦑣	None	𦑣
+𦑝	chong3	羽	None	None
+⿱𠈹羽	None	同=𦑸	None	𦑸
+𦑠	hong1	羽声	None	None
+翫	wan2	相习既久而声懈怠；玩忽	None	None
+翫	wan2	戏狎；戏耍	None	None
+翫	wan2	贪图	None	None
+翫	wan2	观赏	None	None
+翫	wan2	供赏玩之具	None	None
+翫	wan2	研习；练习	None	None
+翫	wan2	习惯	None	None
+翭	None	同=𦑚	None	𦑚
+𦑤	None	同=翭(𦑚)	None	翭
+𦑛	huan3	飞的样子	None	None
+翪	zong1	鸟类竦翅上下飞	None	None
+𦑨	None	同=翪	None	翪
+𦑚	hou2	羽根	None	None
+𦑚	hou2	羽初生的样子	None	None
+𦑚	hou2	同=鍭 矢名	None	鍭
+𦑟	hong1	飞声	None	None
+𦑟	hong1	同=䎕 飞	None	䎕
+𦒁	ci1	[𦒁𦏸]燕飞貌	None	None
+𦑺	ci1	[𦑺𦐁]燕不飞貌	None	None
+𦑦	None	同=翦	None	翦
 翦	None	录入中	None	None
 翧	None	录入中	None	None
 翬	None	录入中	None	None
