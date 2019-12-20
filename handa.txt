@@ -70109,23 +70109,45 @@
 䖇	None	录入中	None	None
 𧆓	None	录入中	None	None
 𧆘	None	录入中	None	None
-羽	None	录入中	None	None
-𦏳	None	录入中	None	None
-𦏹	None	录入中	None	None
-𦏴	None	录入中	None	None
-𦏻	None	录入中	None	None
-羾	None	录入中	None	None
-𦏼	None	录入中	None	None
-𦏺	None	录入中	None	None
-羿	None	录入中	None	None
-𦏷	None	录入中	None	None
-𦏵	None	录入中	None	None
-𦏿	None	录入中	None	None
-𦏶	None	录入中	None	None
-𦐅	None	录入中	None	None
-𦐀	None	录入中	None	None
-𦏸	None	录入中	None	None
-𦐁	None	录入中	None	None
+羽	yu3	鸟翅上长而扁的毛	None	None
+羽	yu3	鸟类的翅膀	None	None
+羽	yu3	鸟类的代称	None	None
+羽	yu3	古代文舞所执的雉羽	None	None
+羽	yu3	箭翎 装饰在箭杆尾部，用以保持方向	None	None
+羽	yu3	指书信或传书信的人	None	None
+羽	yu3	羽扇	None	None
+羽	yu3	钓丝上的浮子	None	None
+羽	yu3	旌旗的代称	None	None
+羽	yu3	党与；朋友	None	None
+羽	yu3	古代五声音阶的第五音 相当于工尺谱上的“五”，现代简谱上的“6”	None	None
+羽	yu3	聚	None	None
+羽	yu3	山名 传为古代帝舜杀鲧之地 在今山东省蓬莱市东南；一说在今山东省郯城县东北	None	None
+羽	yu3	通=宇 “反羽”即“反宇”，指人头顶若屋宇之反，中间低，四周高	None	宇
+羽	yu3	姓	None	None
+羽	hu4	通=扈 缓	None	扈
+𦏳	zui3	@	None	None
+𦏹	yan3	飞貌	None	None
+𦏴	None	同=𦏻	None	𦏻
+𦏻	yu2	同=雩 古代求雨的祭祀	None	雩
+𦏻	yu2	飞貌	None	None
+𦏻	yu4	古代求雨祭祀时所执用鸟羽编制成的乐神之具	None	None
+羾	None	同=𦏺	None	𦏺
+𦏼	None	同=𦏺	None	𦏺
+𦏺	hong2	飞声	None	None
+𦏺	gong4	到	None	None
+羿	yi4	鸟张翅旋风而上	None	None
+羿	yi4	夏有穷氏国君	None	None
+羿	yi4	唐尧时射师	None	None
+羿	yi4	姓	None	None
+𦏷	xiao1	羽毛	None	None
+𦏵	None	同=翼	None	翼
+𦏿	chi4	羽盛貌	None	None
+𦏶	None	同=舞	None	舞
+𦐅	se4	飞貌	None	None
+𦐀	None	同=舞	None	舞
+𦏸	yi4	同=䎈	None	䎈
+𦏸	chi2	[𦒁𦐕]见“𦒁”	None	None
+𦐁	chi2	[𦑺𦐁]见“𦑺”	None	None
 䍿	None	录入中	None	None
 䍾	None	录入中	None	None
 𦐧	None	录入中	None	None
