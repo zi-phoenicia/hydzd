@@ -71484,27 +71484,44 @@
 綑	kun3	织	None	None
 綑	kun3	同=捆	None	捆
 綑	kun3	同=稇	None	稇
-絹	None	录入中	None	None
-绢	None	录入中	None	None
-𦀕	None	录入中	None	None
-𦀝	None	录入中	None	None
-綗	None	录入中	None	None
-綉	None	录入中	None	None
-绣	None	录入中	None	None
-𦀢	None	录入中	None	None
-䋦	None	录入中	None	None
-䋣	None	录入中	None	None
-𦀥	None	录入中	None	None
-𦁴	None	录入中	None	None
-𦀸	None	录入中	None	None
-𦀙	None	录入中	None	None
-䋡	None	录入中	None	None
-絺	None	录入中	None	None
-𫄨	None	录入中	None	None
-𦁃	None	录入中	None	None
-綌	None	录入中	None	None
-绤	None	录入中	None	None
-綒	None	录入中	None	None
+絹	juan4	麦青色丝织物	None	None
+絹	juan4	厚实而稀疏的丝织物	None	None
+絹	juan4	丝织品的通称	None	None
+絹	juan4	指书画、装潢等物件 因绢是生丝平纹织物，质地坚挺清爽，常用以题诗作画或作其他装潢裱饰，故称	None	None
+絹	juan4	今指比缎、锦质地薄而坚韧的丝织品 也指用生丝或其他原料织成的一种织品 如：天香绢；迎春绢；白麻绢	None	None
+絹	juan4	通=罥	None	罥
+絹	xuan4	射侯纲纽	None	None
+绢	None	=絹的简化字	None	絹
+𮉨	None	=緺的类推简化字	None	緺
+⿰纟员	None	=縜的类推简化字	None	縜
+𦀕	ye4	臭衣	None	None
+𦀝	jiong3	布名	None	None
+綗	None	同=𦀝	None	𦀝
+綉	tou4	物数量名 绵一片为绣	None	None
+綉	xiu4	同=繡	None	繡
+绣	None	=綉的简化字	None	綉
+𦀢	None	同=縼	None	縼
+䋦	fan2	乱丝	None	None
+䋣	fan2	马髦饰	None	None
+䋣	fan2	同=繁 繁多	None	繁
+䋣	po2	姓	None	None
+𦀥	None	同=䋰	None	䋰
+𦁴	None	同=紳	None	紳
+𦀸	None	同=綄	None	綄
+𦀙	None	同=總	None	總
+䋡	None	同=紓	None	紓
+絺	chi1	细葛布	None	None
+絺	chi1	细葛布的衣服	None	None
+絺	chi1	古邑名 春秋时周地 在今河南省沁阳市西南	None	None
+絺	chi1	姓	None	None
+絺	zhi3	刺绣 也作=黹	None	黹
+絺	zhi3	喻修饰文辞	None	None
+𫄨	None	=絺的类推简化字	None	絺
+𦁃	None	=緇的讹字	None	緇
+綌	xi4	粗葛布	None	None
+绤	None	=綌的类推简化字	None	綌
+綒	fu1	粗网	None	None
+綒	fu1	大	None	None
 綏	None	录入中	None	None
 绥	None	录入中	None	None
 絼	None	录入中	None	None
