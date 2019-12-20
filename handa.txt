@@ -71068,13 +71068,29 @@
 绐	None	=紿的简化字	None	紿
 䋒	None	=紓的讹字	None	紓
 𥿌	None	同=袎	None	袎
-䋘	None	录入中	None	None
-絜	None	录入中	None	None
-綁	None	录入中	None	None
-绑	None	录入中	None	None
-𥿮	None	录入中	None	None
-絨	None	录入中	None	None
-绒	None	录入中	None	None
+䋘	None	同=縋	None	縋
+絜	jie2	一束麻	None	None
+絜	jie2	清洁；干净 后作=潔	None	潔
+絜	jie2	廉洁；清明	None	None
+絜	jie2	清亮；明亮	None	None
+絜	jie2	修整；修饰	None	None
+絜	xie2	用绳度量围长	None	None
+絜	xie2	度量；比较	None	None
+絜	xie2	河名 古代黄河自孟津以北所分的九条支流之一	None	None
+絜	qie4	苦	None	None
+絜	jie2	同=挈 独	None	挈
+絜	qi4	提	None	None
+綁	bang3	绑缚，捆扎	None	None
+绑	None	=綁的简化字	None	綁
+𥿮	zhi4	同=織	None	織
+𥿮	zhi4	量词 二十丝为𥿮	None	None
+𥿮	shi4	织机上未与纬线交织的经线	None	None
+絨	rong2	细布	None	None
+絨	rong2	熟丝	None	None
+絨	rong2	上面有一层绒毛的纺织品 如：丝绒；长毛绒；灯芯绒	None	None
+絨	rong2	柔软细小的毛或纤维	None	None
+絨	rong2	刺绣用的丝线	None	None
+绒	None	=絨的简化字	None	絨
 絓	None	录入中	None	None
 結	None	录入中	None	None
 结	None	录入中	None	None
