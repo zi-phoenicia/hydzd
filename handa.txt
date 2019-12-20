@@ -71179,33 +71179,64 @@
 絽	lv3	綨	None	None
 絪	yin1	[絪緼]1.天地元气 2.云烟弥漫之状 3.麻枲	None	None
 絪	yin1	通=茵 垫褥	None	茵
-絗	None	录入中	None	None
-䋞	None	录入中	None	None
-絑	None	录入中	None	None
-𦀈	None	录入中	None	None
-綎	None	录入中	None	None
-絬	None	录入中	None	None
-絥	None	录入中	None	None
-𫄢	None	录入中	None	None
-綖	None	录入中	None	None
-絍	None	录入中	None	None
-𫟃	None	录入中	None	None
-䋕	None	录入中	None	None
-𥿧	None	录入中	None	None
-𥿳	None	录入中	None	None
-絎	None	录入中	None	None
-绗	None	录入中	None	None
-𥿯	None	录入中	None	None
-𥿦	None	录入中	None	None
-絟	None	录入中	None	None
-絵	None	录入中	None	None
-绘	None	录入中	None	None
-給	None	录入中	None	None
-给	None	录入中	None	None
-𥿭	None	录入中	None	None
-絩	None	录入中	None	None
-𥿪	None	录入中	None	None
-𦀉	None	录入中	None	None
+𬘡	None	=絪的类推简化字	None	絪
+絗	hu2	丝缕萦绕	None	None
+䋞	None	同=网	None	网
+絑	zhu1	纯赤	None	None
+絑	zhu1	赤色缯	None	None
+⿰纟朱	None	=絑的类推简化字	None	絑
+𦀈	None	人名用字	None	None
+綎	ting1	用以佩玉的丝绶带	None	None
+𬘩	None	=綎的类推简化字	None	綎
+絬	xie4	坚韧；牢固	None	None
+⿰纟乔	None	=繑的类推简化字	None	繑
+絥	fu2	车絥；覆盖在车轼上的一种饰物	None	None
+𫄢	None	=絥的类推简化字	None	絥
+綖	yan2	古代覆盖在帽子上的装饰	None	None
+綖	yan2	延缓	None	None
+綖	xian4	同=線(綫)	None	線
+𫄧	None	=綖的类推简化字	None	綖
+絍	None	同=紝	None	紝
+𫟃	None	=絍的类推简化字	None	絍
+䋕	None	同=絍	None	絍
+𥿧	xiang3	绵	None	None
+𥿳	None	同=細	None	細
+絎	hang4	衣服的缘边	None	None
+絎	hang4	用针线粗缝，把棉絮固定在里子上，使不致滑动	None	None
+绗	None	=絎的简化字	None	絎
+𥿯	pai4	散丝	None	None
+𥿯	pai4	未经搓捻的散麻	None	None
+𥿦	zhou1	绵	None	None
+絟	quan2	细布	None	None
+絟	quan2	葛	None	None
+絟	quan2	细麻丝	None	None
+絟	quan2	用同=拴(shuan1)	None	拴
+𬘥	None	=絟的类推简化字	None	絟
+絵	None	同=繪	None	繪
+绘	None	=繪的简化字	None	繪
+給	ji3	丰足；富裕	None	None
+給	ji3	供应；供给	None	None
+給	ji3	供事；服役	None	None
+給	ji3	及	None	None
+給	ji3	给予；赐予	None	None
+給	ji3	敏捷	None	None
+給	ji3	口齿伶俐	None	None
+給	ji3	姓	None	None
+給	ji3	恭而不中礼	None	None
+給	gei3	交付；送与；使对方得到	None	None
+給	gei3	叫，让 如：饭管饱，酒可是不给喝；这本书你到底给看不给看	None	None
+給	gei3	介词 1.表示对象、目的，相当于“为”、“替” 2.引进动作行为的主动者，或表示被动语态，相当于“被” 如：这儿给弄得乱七八糟；这事给你弄坏了 3.表示方向，相当于“朝”、“向”、“对” 如：给老师行礼；给新郎新娘道喜	None	None
+給	gei3	助词 1.用于主动句 如：风把门给吹开了；您给找个人 2.用于被动句 如：手表给修好了	None	None
+給	gei3	语气词 表示命令语气 如：你给我滚！你给我把地扫干净！	None	None
+給	xia2	[汁給]也作“協=洽”、“協給” 岁在末	None	洽
+给	None	=給的简化字	None	給
+𥿭	xi4	[絺𥿭]葛衣	None	None
+絩	tiao4	量词 表示文缯或丝的数量	None	None
+絩	diao4	丝织品长貌	None	None
+絩	dao4	五色丝	None	None
+⿱兇糸	None	同=總	None	總
+𥿪	huang1	丝蔓延	None	None
+𦀉	None	同=𥿰	None	𥿰
 絢	None	录入中	None	None
 绚	None	录入中	None	None
 絳	None	录入中	None	None
