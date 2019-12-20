@@ -71167,7 +71167,7 @@
 絖	kuang4	同=纊 绵絮	None	纊
 絖	kuang4	量词 八十缕	None	None
 𬘢	None	=絖的类推简化字	None	絖
-𦀨	nuo2	棉丝纹	None	None
+⿰糹𨙻	nuo2	棉丝纹	None	None
 絏	xie4	同=紲	None	紲
 絏	yi4	同=袣	None	袣
 絧	dong4	[鴻絧]1.直驰貌 2.相连貌 3.深远	None	None
@@ -71330,30 +71330,77 @@
 絯	gai1	挂碍	None	None
 絯	hai4	大丝	None	None
 絯	hai4	通=駭 惊骇	None	駭
-統	None	录入中	None	None
-统	None	录入中	None	None
-𥿺	None	录入中	None	None
-絴	None	录入中	None	None
-絣	None	录入中	None	None
-絭	None	录入中	None	None
-䋛	None	录入中	None	None
-𥿬	None	录入中	None	None
-絒	None	录入中	None	None
-䋜	None	录入中	None	None
-𦈉	None	录入中	None	None
-𫄣	None	录入中	None	None
-䋖	None	录入中	None	None
-𦀨	None	录入中	None	None
-𥿲	None	录入中	None	None
-𥿰	None	录入中	None	None
-絮	None	录入中	None	None
-𥿷	None	录入中	None	None
-䋚	None	录入中	None	None
-𥿵	None	录入中	None	None
-𥿵	None	录入中	None	None
-絫	None	录入中	None	None
-絲	None	录入中	None	None
-䋤	None	录入中	None	None
+⿰纟亥	None	=絯的类推简化字	None	絯
+統	tong3	丝的头绪	None	None
+統	tong3	一脉相承的系统、传统 如：帝统；皇统；道统；学统；血统	None	None
+統	tong3	首领	None	None
+統	tong3	纲要；纲领	None	None
+統	tong3	统领；率领	None	None
+統	tong3	管理；治理	None	None
+統	tong3	总括；综合	None	None
+統	tong3	鞋、袜等的筒状部分	None	None
+統	tong3	装；插	None	None
+統	tong3	泄露	None	None
+統	tong3	地质学名词 在世的时间内形成的地层叫“统” 统的名称是在纪的名称上增加上、中、下等字样 如：上泥盆统、中泥盆统、下泥盆统、上二叠统和下二叠统；也可称泥盆系上统、泥盆系中统、泥盆系下统、二叠系上统、二叠系下统等	None	None
+統	tong3	量词 1.用于木材、石碑等 2.古时用以纪年 1539年为一统	None	None
+統	tong3	副词 表示范围，相当于“通通”、“全”、“全部”	None	None
+統	tong3	姓	None	None
+统	None	=統的简化字	None	統
+𥿺	gou1	舒	None	None
+絴	xiang2	高	None	None
+絣	beng1	古代氐族人用杂色线织成的布	None	None
+絣	beng1	穿甲的绳	None	None
+絣	beng1	编织	None	None
+絣	beng1	继续；连续	None	None
+絣	beng1	缠缚；捆绑	None	None
+絣	beng1	振墨绳	None	None
+絣	beng1	绷，张	None	None
+絣	bing1	杂；交错	None	None
+絣	peng1	同=𢏳 张弓	None	𢏳
+絣	peng1	没有花纹的丝织品	None	None
+⿰纟并	None	=絣的类推简化字	None	絣
+絭	juan4	用来束腰袖的绳索	None	None
+絭	juan4	束缚	None	None
+絭	juan4	弩弦	None	None
+絭	juan4	曲	None	None
+䋛	mi3	像细米似的密集的绣文	None	None
+𥿬	None	同=縌	None	縌
+絒	chou2	纨	None	None
+䋜	None	同=綮	None	綮
+𦈉	None	=緷的类推简化字	None	緷
+𫄣	None	=繷的类推简化字	None	繷
+䋖	yu4	长貌	None	None
+䋖	yu4	长衣貌	None	None
+𦀨	None	同⿰糹𨙻	None	None
+𥿲	None	同=縐	None	縐
+𥿰	duo3	帽子前面的垂饰	None	None
+絮	xu4	粗丝绵	None	None
+絮	xu4	像絮一样轻柔、洁白的东西	None	None
+絮	xu4	棉花	None	None
+絮	xu4	经过弹制的棉花胎	None	None
+絮	xu4	在衣服、被褥里的铺丝绵、棉花等物 如：絮棉袄；絮棉被	None	None
+絮	xu4	优柔寡断	None	None
+絮	xu4	连续重复；烦琐	None	None
+絮	xu4	头上巾	None	None
+絮	cha4	调拌	None	None
+絮	nv4	姓	None	None
+絮	na4	丝纷乱	None	None
+𥿷	chao4	恶绢 ……一说縐的讹字	None	None
+䋚	None	同=翼	None	翼
+𥿵	None	=𥿵的讹字	None	𥿵
+𥿵	mou2	义不相扶	None	None
+絫	lei3	堆叠；积聚 后作=累	None	累
+絫	lei3	量词 古代重量单位名 十黍为一絫	None	None
+絲	si1	蚕丝，制作丝绸绢帛等织物的原料	None	None
+絲	si1	丝织物	None	None
+絲	si1	泛指纺纱织布	None	None
+絲	si1	泛指蚕丝形状的东西 如：铜丝；钢丝	None	None
+絲	si1	古代八音之一，指弦乐器 因其弦古代多以蚕丝为之，今亦以钢丝等为之，故称	None	None
+絲	si1	细微；细小 如：一丝不苟；丝毫不差；一丝微笑；一丝风	None	None
+絲	si1	细纹 如：红丝砚；乌丝栏；硬丝柴	None	None
+絲	si1	量词 一种计算长度、容量和重量的微小单位 千分之一分为一丝 如：厘、毫、丝、忽	None	None
+䋤	yue4	白色的缟	None	None
+䋤	yue4	练	None	None
 𦀗	None	录入中	None	None
 䋢	None	录入中	None	None
 綕	None	录入中	None	None
