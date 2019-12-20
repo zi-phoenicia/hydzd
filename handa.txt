@@ -71434,19 +71434,56 @@
 𦁄	chen1	带	None	None
 𦁄	chen1	緻	None	None
 𦁄	chen1	同=縝 丝缕	None	縝
-綔	None	录入中	None	None
-綊	None	录入中	None	None
-𦈐	None	录入中	None	None
-𦀘	None	录入中	None	None
-經	None	录入中	None	None
-綃	None	录入中	None	None
-绡	None	录入中	None	None
-𦀚	None	录入中	None	None
-𦀤	None	录入中	None	None
-絸	None	录入中	None	None
-䋥	None	录入中	None	None
-𦀔	None	录入中	None	None
-綑	None	录入中	None	None
+⿰纟辰	None	=𦁄的类推简化字	None	𦁄
+⿱⿰石又糸	None	同=綮	None	綮
+綔	hu4	佩挂印章的丝带	None	None
+綊	xie2	[䋊綊]见“䋊”	None	None
+綊	xie2	𫄧，古代覆在冠冕上的装饰	None	None
+⿰糹来	None	同=䋱	None	䋱
+𦈐	None	=縺的类推简化字	None	縺
+𦀘	pi1	同=紕 1.布帛、丝缕等破坏披散 2.错谬	None	紕
+𦀘	bi1	并，比	None	None
+經	jing1	织布机上的纵线	None	None
+經	jing1	南北的方向或南北方向的道路 也泛指道路、途径	None	None
+經	jing1	直行	None	None
+經	jing1	经过，经历	None	None
+經	jing1	主要的（指江河水道）	None	None
+經	jing1	地理学上虚拟的、通过地球南北两极与赤道成直角的线 以通过英国格林尼治天文台的那一条线为本初子午线，此线以东城东经，以西称西经	None	None
+經	jing1	开始，起始	None	None
+經	jing1	度量；划界	None	None
+經	jing1	义理，法则	None	None
+經	jing1	常，经常	None	None
+經	jing1	治理；经营	None	None
+經	jing1	历来被尊奉为典范的著作	None	None
+經	jing1	我国古代图书目录四部（经、史、子、集）分类法中指儒家经典及小学（文字、音韵、训诂）方面的书	None	None
+經	jing1	正常	None	None
+經	jing1	经受	None	None
+經	jing1	吊，上吊	None	None
+經	jing1	经脉，人体气血运行的通路	None	None
+經	jing1	中医术语，五腧穴之一，十二经脉各有一个经穴，即经渠、阳溪、解溪、商丘、灵道、阳谷、昆仑、复溜、间使、支沟、阳辅、中封	None	None
+經	jing1	月经 如：经期；闭经	None	None
+經	jing1	一种口圆颈细腹长的陶制酒具 也用作计酒的量词	None	None
+經	jing1	古代五音之一，角音的别名	None	None
+經	jing1	数目 十兆为经	None	None
+經	jing1	副词 表示动作变化达到的程度，相当于“曾经”、“已经”	None	None
+經	jing1	古地名 在今河北省巨鹿县东北	None	None
+經	jing1	姓	None	None
+經	jing4	纺织	None	None
+經	jing4	织布之前把纺好的纱密密地绷起来，来回梳整，使成为经线 如：经纱	None	None
+綃	xiao1	生丝	None	None
+綃	xiao1	用生丝织成的缯帛，后常指轻纱、薄绢或有纹饰的丝绸织物	None	None
+綃	xiao1	纬	None	None
+綃	shao1	通=梢 船上挂帆的木柱	None	梢
+绡	None	=綃的简化字	None	綃
+𦀚	None	同=䋼	None	䋼
+𦀤	None	同=䋰	None	䋰
+絸	None	同=繭	None	繭
+䋥	li2	纹理	None	None
+⿰糹妟	None	同=纓	None	纓
+𦀔	ping1	吴人数絮	None	None
+綑	kun3	织	None	None
+綑	kun3	同=捆	None	捆
+綑	kun3	同=稇	None	稇
 絹	None	录入中	None	None
 绢	None	录入中	None	None
 𦀕	None	录入中	None	None
