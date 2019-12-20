@@ -48806,13 +48806,25 @@
 𢦅	None	录入中	None	None
 𢦈	None	录入中	None	None
 𢦊	None	录入中	None	None
-爿	None	录入中	None	None
-𤕬	None	录入中	None	None
-𤕭	None	录入中	None	None
-𤕮	None	录入中	None	None
-牀	None	录入中	None	None
-𤕰	None	录入中	None	None
-𤕯	None	录入中	None	None
+爿	qiang2	劈木而成的木片	None	None
+爿	qiang2	殳	None	None
+爿	pan2	劈成片的竹木 如：竹爿；木爿	None	None
+爿	pan2	方言 量词 1.用于田地等，相当于“块” 2.用于商店、工厂、旅社等，相当于“家”、“座”等 3.用于整体的部分，相当于“边”、“段儿”、“截儿”等	None	None
+爿	pan2	方言 相当于“间”	None	None
+𤕬	None	同=疾	None	疾
+𤕭	None	同=將	None	將
+⿰丬子	None	同=好	None	好
+𤕮	None	同=椸	None	椸
+牀	chuang2	供人坐卧的器具	None	None
+牀	chuang2	放置器物的坐架	None	None
+牀	chuang2	井栏	None	None
+牀	chuang2	形状像床的器具 如：机床；车床	None	None
+牀	chuang2	底部 如：苗床；河床；牙床	None	None
+牀	chuang2	量词 1.用于大器物的计件，相当于“具” 2.用于被褥等物 如：一床被单；两床铺盖	None	None
+𤕰	None	同=卯	None	卯
+𤕯	jiang1	同=漿	None	漿
+𤕯	zhuang4	某物赖以生成的基址	None	None
+𤕯	zhuang4	同=𣶍	None	𣶍
 𤕱	None	录入中	None	None
 牁	None	录入中	None	None
 𤕳	None	录入中	None	None
@@ -70597,16 +70609,18 @@ du羽夹	None	=翜的类推简化字	None	翜
 𦒨	None	=𡬘的讹字	None	𡬘
 䎙	bin1	飞貌	None	None
 ⿰賔羽	None	同=䎙	None	䎙
-𦒫	None	录入中	None	None
-䎚	None	录入中	None	None
-𦒬	None	录入中	None	None
-𦒦	None	录入中	None	None
-𦒩	None	录入中	None	None
-𦒧	None	录入中	None	None
-𦒭	None	录入中	None	None
-𦒮	None	录入中	None	None
-𦒯	None	录入中	None	None
-𦒰	None	录入中	None	None
+𦒫	None	同=纛	None	纛
+䎚	None	同=𦒎	None	𦒎
+𦒬	None	同=翾	None	翾
+𦒦	la4	[𦒦𦑲]飞初起貌	None	None
+𦒦	la4	飞貌	None	None
+𦒩	None	同=𦒦	None	𦒦
+𦒧	huo4	[𦑍𦒧]快飞	None	None
+𦒭	None	=翳的讹字	None	翳
+𦒮	None	同=飛	None	飛
+𦒯	None	同=纛	None	纛
+𦒰	tai4	@	None	None
+⿰⿱天光翟	None	同=耀	None	耀
 糸	mi4	细丝	None	None
 糸	mi4	微小	None	None
 糸	mi4	量词 丝的二分之一	None	None
