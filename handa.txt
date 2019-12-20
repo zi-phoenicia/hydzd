@@ -47904,57 +47904,139 @@
 悂	pi3	谨慎	None	None
 𢙼	xing4	同=悻 恼恨	None	悻
 悭	None	=慳的简化字	None	慳
-悄	None	录入中	None	None
-悍	None	录入中	None	None
-悜	None	录入中	None	None
-悮	None	录入中	None	None
-𢚉	None	录入中	None	None
-悓	None	录入中	None	None
-𢚆	None	录入中	None	None
-悝	None	录入中	None	None
-悃	None	录入中	None	None
-悁	None	录入中	None	None
-𢚻	None	录入中	None	None
-悒	None	录入中	None	None
-𢚇	None	录入中	None	None
-𢚭	None	录入中	None	None
-𢙿	None	录入中	None	None
-㤯	None	录入中	None	None
-𢚮	None	录入中	None	None
-悎	None	录入中	None	None
-悔	None	录入中	None	None
-𢚋	None	录入中	None	None
-悇	None	录入中	None	None
-𢙵	None	录入中	None	None
-悕	None	录入中	None	None
-𪫺	None	录入中	None	None
-𢚂	None	录入中	None	None
-𢚃	None	录入中	None	None
-㤷	None	录入中	None	None
-𢚾	None	录入中	None	None
-悗	None	录入中	None	None
-𢚯	None	录入中	None	None
-𢙹	None	录入中	None	None
-悙	None	录入中	None	None
-悋	None	录入中	None	None
-悯	None	录入中	None	None
-悦	None	录入中	None	None
-𢛎	None	录入中	None	None
-悌	None	录入中	None	None
-悩	None	录入中	None	None
-𢚍	None	录入中	None	None
-𢚄	None	录入中	None	None
-悢	None	录入中	None	None
-𢚌	None	录入中	None	None
-𢚁	None	录入中	None	None
-𢙳	None	录入中	None	None
-悀	None	录入中	None	None
-悛	None	录入中	None	None
-𢚰	None	录入中	None	None
-𢝬	None	录入中	None	None
-𢛑	None	录入中	None	None
-惡	None	录入中	None	None
-惎	None	录入中	None	None
+悄	qiao3	忧愁貌	None	None
+悄	qiao3	寂静无声	None	None
+悄	qiao3	轻声；声音小	None	None
+悄	qiao3	犹“渾”、“直”	None	None
+悄	qiao4	急	None	None
+悄	qiao1	[悄悄]没有声音或声音很低	None	None
+悍	han4	勇敢；勇猛	None	None
+悍	han4	凶暴	None	None
+悍	han4	猛烈；强劲	None	None
+悍	han4	坚固	None	None
+悍	han4	通=捍 抗拒	None	捍
+悍	han4	通=睅 眼睛突出	None	睅
+悍	han4	性急	None	None
+悜	cheng3	[慏悜]见“慏”	None	None
+悜	cheng3	忧愁	None	None
+悮	wu4	同=誤 错，谬	None	誤
+悮	wu4	疑惑	None	None
+悮	wu4	欺	None	None
+𢚉	None	同=恨	None	恨
+悓	qian4	同=俔	None	俔
+𢚆	ju4	同=怚 骄	None	怚
+悝	kui1	嘲笑；诙谐	None	None
+悝	kui1	病	None	None
+悝	kui1	大	None	None
+悝	kui1	私	None	None
+悝	li3	忧伤	None	None
+悃	kun3	至诚；诚心	None	None
+悁	yuan1	气忿	None	None
+悁	yuan1	忧郁	None	None
+悁	yuan1	通=㾓 疲乏	None	㾓
+悁	juan4	急躁	None	None
+𢚻	zhu4	思	None	None
+悒	yi4	忧愁不安	None	None
+𢚇	None	同=狂	None	狂
+𢚭	suo3	@	None	None
+𢙿	jin4	心坚固	None	None
+㤯	jiong3	小明	None	None
+㤯	jiong3	记忆	None	None
+𢚮	ni4	@	None	None
+悎	hao4	恐惧	None	None
+悎	hao4	心动	None	None
+悎	jiao4	惊	None	None
+悎	jiao4	同=覺	None	覺
+悔	hui3	悔恨；后悔 如：悔不当初；悔之已晚	None	None
+悔	hui3	悔过；改过	None	None
+悔	hui3	灾咎；灾祸	None	None
+悔	hui3	《易》卦有六爻，其上三爻称“悔”，又称外卦	None	None
+悔	hui3	用同=晦	None	晦
+𢚋	miao4	依恃	None	None
+悇	tu2	忧；忧惧	None	None
+悇	yu2	乐	None	None
+𢙵	None	同=悋	None	悋
+悕	xi1	意念；心愿	None	None
+悕	xi1	悲伤	None	None
+𪫺	None	=憸的类推简化字	None	憸
+𢚂	cuo4	折𢚂	None	None
+𢚃	None	同=劣	None	劣
+㤷	han1	放纵	None	None
+𢚾	huan4	[怑𢚾]见“怑”	None	None
+𢚾	huan4	拔扈	None	None
+悗	man2	迷惑；糊涂	None	None
+悗	man2	烦闷	None	None
+悗	men4	无心貌	None	None
+悗	men4	孤独无匹貌	None	None
+𢚯	None	同=𧻺	None	𧻺
+𢙹	None	同=悐	None	悐
+悙	heng1	[憉悙]见“憉”	None	None
+悙	heng4	[倀悙]见“倀”	None	None
+悋	None	同=吝	None	吝
+⿰忄𫔮	None	=憪的类推简化字	None	憪
+悯	None	=憫的简化字	None	憫
+悦	yue4	喜欢；愉快	None	None
+悦	yue4	悦服 如：心悦诚服	None	None
+悦	yue4	苏息	None	None
+悦	yue4	脱	None	None
+悦	yue4	通=侻(tuo2) 简易，马虎	None	侻
+悦	yue4	古州名 唐置，治所在今四川省兴文县南，后废	None	None
+悦	yue4	姓	None	None
+𢛎	bie2	丑气	None	None
+悌	ti4	敬爱兄长	None	None
+悌	ti4	简易	None	None
+悌	ti4	发	None	None
+悩	None	同=惱	None	惱
+𢚍	None	同=𡧯(寂)	None	𡧯
+𢚄	None	同=嫪	None	嫪
+悢	liang4	[悢悢]1.悲伤 2.眷念	None	None
+悢	liang4	惆怅；怅惘	None	None
+悢	lang3	[懭悢]见“懭”	None	None
+𢚌	xia2	怨	None	None
+𢚁	ji4	恭敬	None	None
+𢙳	zhuang3	不悦	None	None
+悀	yong3	满溢；涌出	None	None
+悀	yong3	愤怒	None	None
+悀	yong3	欢喜	None	None
+悛	quan1	停止	None	None
+悛	quan1	悔改	None	None
+悛	quan1	次序	None	None
+悛	quan1	恭敬	None	None
+悛	xun2	[悛悛]也作“=恂恂” 谨厚貌	None	恂
+⿰忄⿳厶⿲丶丶丶又	None	同=悛	None	悛
+𢚰	None	同=惱	None	惱
+⿳𠀎彐心	None	同=慧	None	慧
+𢝬	shi4	@	None	None
+𢛑	None	同=怐	None	怐
+惡	e4	罪过；罪恶 与“善”相对	None	None
+惡	e4	害	None	None
+惡	e4	坏；不好	None	None
+惡	e4	腐坏；凋谢	None	None
+惡	e4	丑陋	None	None
+惡	e4	厉害；凶猛	None	None
+惡	e4	指收成不好	None	None
+惡	e4	（身心）不适；不快	None	None
+惡	e4	疾病；暴病	None	None
+惡	e4	泛指污秽和腐烂之物	None	None
+惡	e4	粪便	None	None
+惡	e4	副词 表示程度，相当于“甚”、“很”	None	None
+惡	e4	困扼	None	None
+惡	e4	通=亞(ya4) 次；在后	None	亞
+惡	wu4	讨厌；憎恨	None	None
+惡	wu4	羞耻	None	None
+惡	wu4	忌讳	None	None
+惡	wu4	畏惧；害怕	None	None
+惡	wu4	得罪	None	None
+惡	wu4	诋毁；中伤	None	None
+惡	wu1	代词 表示疑问，相当于“何”、“怎么”	None	None
+惡	wu1	叹气	None	None
+惡	e3	[惡心]1.欲呕吐的感觉 2.使人厌恶	None	None
+惡	hu1	[惡池]同“=滹池” 水名	None	滹
+惎	ji4	毒害	None	None
+惎	ji4	教；教导	None	None
+惎	ji4	忌恨；憎恶	None	None
+惎	ji4	意志；意向	None	None
+惎	ji4	谋划	None	None
 惹	None	录入中	None	None
 悳	None	录入中	None	None
 㥁	None	录入中	None	None
