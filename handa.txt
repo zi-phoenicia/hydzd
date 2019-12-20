@@ -70955,45 +70955,119 @@
 紷	ling2	絮名	None	None
 紷	ling2	精细染练过的丝或布	None	None
 𥿄	di1	丝的渣滓	None	None
-絇	None	录入中	None	None
-終	None	录入中	None	None
-终	None	录入中	None	None
-𥿎	None	录入中	None	None
-䋓	None	录入中	None	None
-绉	None	录入中	None	None
-紸	None	录入中	None	None
-絃	None	录入中	None	None
-絆	None	录入中	None	None
-绊	None	录入中	None	None
-紵	None	录入中	None	None
-䋉	None	录入中	None	None
-紽	None	录入中	None	None
-𥿒	None	录入中	None	None
-𥿒	None	录入中	None	None
-𥿆	None	录入中	None	None
-䋋	None	录入中	None	None
-紼	None	录入中	None	None
-绋	None	录入中	None	None
-𥿏	None	录入中	None	None
-紭	None	录入中	None	None
-𥿇	None	录入中	None	None
-𥿟	None	录入中	None	None
-絀	None	录入中	None	None
-绌	None	录入中	None	None
-䋈	None	录入中	None	None
-𥿃	None	录入中	None	None
-紹	None	录入中	None	None
-绍	None	录入中	None	None
-紴	None	录入中	None	None
-𥿱	None	录入中	None	None
-绎	None	录入中	None	None
-経	None	录入中	None	None
-经	None	录入中	None	None
-𥿋	None	录入中	None	None
-紿	None	录入中	None	None
-绐	None	录入中	None	None
-䋒	None	录入中	None	None
-𥿌	None	录入中	None	None
+絇	qu2	用布麻丝缕搓成绳索	None	None
+絇	qu2	古时鞋子头上的装饰，犹今之鞋梁有孔，可以穿结鞋带	None	None
+絇	qu2	网罟的别名	None	None
+絇	qu2	量词 丝五两	None	None
+絇	qu2	姓	None	None
+⿰纟句	None	=絇的类推简化字	None	絇
+終	zhong1	把丝缠紧	None	None
+終	zhong1	极；穷尽；达到事物的最大限度	None	None
+終	zhong1	结局；终止 与“始”相对	None	None
+終	zhong1	指人死	None	None
+終	zhong1	古代称歌乐或奏乐一章为一终，歌唱和伴奏乐完成一章也称一终 每奏凡三终	None	None
+終	zhong1	整个，自始至终的	None	None
+終	zhong1	成就；完成	None	None
+終	zhong1	充；相当	None	None
+終	zhong1	副词 1.表示时间，相当于“常”、“久” 2.相当于“终究”、“毕竟” 3.表示动态，相当于“既”	None	None
+終	zhong1	介词 1.表示时间或方向的起始，相当于“从”、“自” 2.表示时间或方向的终止，相当于“到”、“至”	None	None
+終	zhong1	连词 相当于“纵然”、“虽然”	None	None
+終	zhong1	量词 古代田土面积单位	None	None
+終	zhong1	木名，牛棘	None	None
+終	zhong1	古代天文历法指岁星运行一周十二年为一终	None	None
+終	zhong1	月阳名之一	None	None
+終	zhong1	古代历法指称“闰月”	None	None
+終	zhong1	用同=中(zhong4) 正；好	None	中
+終	zhong1	姓	None	None
+终	None	=終的简化字	None	終
+𥿎	yuan1	[繙𥿎]乱	None	None
+𥿎	wan3	同=綩	None	綩
+䋓	None	同=縐	None	縐
+绉	None	=縐的简化字	None	縐
+紸	zhu4	=著	None	著
+⿰纟主	None	=紸的类推简化字	None	紸
+絃	xian2	张于乐器上用以发声的线 也作=弦	None	弦
+絃	xian2	弦乐器	None	None
+絃	xian2	用弦乐器奏出的声音	None	None
+絃	xian2	弹奏弦乐器	None	None
+絃	xian2	旋律；音调	None	None
+絃	xian2	弓上发箭的绳索	None	None
+絃	xian2	中医术语 指脉象急促，脉搏挺直，如接在拉紧的琴弦上	None	None
+絃	xian2	喻妻子 俗因以琴瑟喻夫妇，故谓妇死曰断弦，续娶曰续弦	None	None
+絃	xian2	称	None	None
+絃	xuan4	绳索	None	None
+絃	xuan4	同=絢 文彩貌	None	絢
+⿰纟玄	None	=絃的类推简化字	None	絃
+絆	ban4	御马的绳索	None	None
+絆	ban4	用绳子把足系住	None	None
+絆	ban4	羁绊；拴束	None	None
+絆	ban4	走路时被别的东西挡住或缠住	None	None
+絆	ban4	喻阴谋、圈套	None	None
+絆	ban4	装束；穿戴	None	None
+绊	None	=絆的简化字	None	絆
+紵	zhu4	麻属，一种可用来纺织的纤维	None	None
+紵	zhu4	用苧麻织成的布	None	None
+䋉	xue2	缕一枚	None	None
+䋉	xue2	死人之衣	None	None
+䋉	xue2	麻线；丝线	None	None
+紽	tuo2	量词 五丝为一紽	None	None
+⿰纟它	None	=紽的类推简化字	None	紽
+𥿒	None	同=綆	None	綆
+𥿒	None	同=𥾚	None	𥾚
+𥿆	ci2	补	None	None
+䋋	None	同=罠	None	罠
+紼	fu2	乱麻	None	None
+紼	fu2	大索，大绳	None	None
+紼	fu2	下葬时牵引灵柩入暮穴的绳索 亦名引车索	None	None
+紼	fu2	系官印的丝带	None	None
+紼	fu2	通=芾 古代的蔽膝，围毡	None	芾
+紼	fei4	缊	None	None
+绋	None	=紼的简化字	None	紼
+𥿏	None	同=紼	None	紼
+紭	None	同=紘	None	紘
+⿰纟弘	None	=紭的类推简化字	None	紭
+𥿇	shu1	继	None	None
+𥿇	shu1	同=疏 分条记录或分条陈述	None	疏
+𥿟	None	同=索	None	索
+絀	chu4	深红色	None	None
+絀	chu4	短缺；不足	None	None
+絀	chu4	低劣	None	None
+絀	chu4	通=黜 废除；贬退	None	黜
+絀	chu4	通=詘(qu1) 屈缩；退缩	None	詘
+絀	chu4	通=紩(zhi4) 缝	None	紩
+绌	None	=絀的简化字	None	絀
+䋈	ru2	束缊	None	None
+䋈	ru2	旧絮	None	None
+䋈	ru2	塞	None	None
+䋈	na3	[䋾䋈]见“䋾(zha3)”	None	None
+𥿃	na4	同=絮 丝紊乱	None	絮
+紹	shao4	继承；接续	None	None
+紹	shao4	介绍；引荐	None	None
+紹	shao4	紧紧地缠绕	None	None
+紹	shao4	地名 1.绍兴府的简称 秦、汉时为会稽郡地 其后改废不一 南宋绍兴元年升为绍兴府，元改为绍兴路，明復为绍兴府 2.今浙江省绍兴县的简称	None	None
+紹	shao4	姓	None	None
+紹	chao1	舒缓	None	None
+绍	None	=紹的简化字	None	紹
+紴	bo1	绦属	None	None
+紴	bo1	锦类	None	None
+紴	bo1	水波锦文	None	None
+紴	bi4	装束貌	None	None
+紴	bi4	同=䋔	None	䋔
+𥿱	None	同=𥿰	None	𥿰
+绎	None	=繹的简化字	None	繹
+経	None	同=經	None	經
+经	None	=經的简化字	None	經
+𥿋	fan2	同=䋣 马髦上的饰物	None	䋣
+𥿋	bian4	同=弁 古代的帽子	None	弁
+紿	dai4	破旧的丝	None	None
+紿	dai4	缓慢；倦怠	None	None
+紿	dai4	混乱；丝纠	None	None
+紿	dai4	通=殆 疑	None	殆
+紿	dai4	通=詒 欺骗；欺诈	None	詒
+紿	dai4	至	None	None
+绐	None	=紿的简化字	None	紿
+䋒	None	=紓的讹字	None	紓
+𥿌	None	同=袎	None	袎
 䋘	None	录入中	None	None
 絜	None	录入中	None	None
 綁	None	录入中	None	None
