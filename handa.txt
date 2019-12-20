@@ -47842,36 +47842,68 @@
 悐	ti4	同=惕	None	惕
 悐	ti4	劳	None	None
 㤻	lun3	[畽㤻]也作“噇㤻” 行无廉隅	None	None
-悥	None	录入中	None	None
-𢚱	None	录入中	None	None
-𢚑	None	录入中	None	None
-𢚪	None	录入中	None	None
-𢚫	None	录入中	None	None
-㤵	None	录入中	None	None
-恿	None	录入中	None	None
-𢛭	None	录入中	None	None
-㤽	None	录入中	None	None
-𢙱	None	录入中	None	None
-悈	None	录入中	None	None
-𢚺	None	录入中	None	None
-㤸	None	录入中	None	None
-𢙺	None	录入中	None	None
-㤴	None	录入中	None	None
-𢚈	None	录入中	None	None
-㤹	None	录入中	None	None
-悖	None	录入中	None	None
-悑	None	录入中	None	None
-𢙾	None	录入中	None	None
-悚	None	录入中	None	None
-悟	None	录入中	None	None
-㤱	None	录入中	None	None
-𢚬	None	录入中	None	None
-㤳	None	录入中	None	None
-悏	None	录入中	None	None
-㤶	None	录入中	None	None
-悂	None	录入中	None	None
-𢙼	None	录入中	None	None
-悭	None	录入中	None	None
+悥	None	同=𢡃(意)	None	𢡃
+𢚱	None	同=葱	None	葱
+𢚑	su4	没有加工鞣制过的皮革	None	None
+𢚪	hu4	@	None	None
+𢚫	kou4	@	None	None
+㤵	None	同=慈	None	慈
+恿	yong3	同=勇	None	勇
+恿	yong3	[慫恿]同“慫慂” 见“慂”	None	None
+恿	tong1	同=恫	None	恫
+𢛭	None	同=愛	None	愛
+⿰忄⿹戈三	None	同=慘	None	慘
+㤽	None	=懤的类推简化字	None	懤
+𢙱	long4	[𢙱贛]愚笨	None	None
+悈	jie4	警戒	None	None
+悈	jie4	褊急	None	None
+悈	jie4	急速	None	None
+悈	jie4	慬	None	None
+悈	jie4	衰老	None	None
+悈	ke4	骇而自专	None	None
+𢚺	teng1	愚痴貌	None	None
+㤸	xi4	心不安	None	None
+𢙺	zhi4	忘记	None	None
+㤴	che4	心动貌	None	None
+㤴	che4	休	None	None
+㤴	che4	[偛㤴]见“偛”	None	None
+㤴	she4	怪	None	None
+㤴	die2	[㤴㦪]志轻	None	None
+𢚈	None	同=恭	None	恭
+㤹	qiu2	同=𢛃	None	𢛃
+㤹	jiu4	同=救	None	救
+悖	bei4	心乱；惑乱 也作=誖	None	誖
+悖	bei4	违背；违反	None	None
+悖	bei4	叛乱	None	None
+悖	bei4	谬误；荒谬	None	None
+悖	bei4	掩蔽	None	None
+悖	bei4	粗恶	None	None
+悖	bei4	通=勃(bo2) 盛貌	None	勃
+悖	bei4	姓	None	None
+悖	bei3	倔强	None	None
+悑	None	同=怖	None	怖
+𢙾	geng3	怨恨	None	None
+悚	song3	恐惧	None	None
+悟	wu4	理解；明白	None	None
+悟	wu4	醒悟；觉悟 如：恍然大悟；执迷不悟	None	None
+悟	wu4	启发；使觉悟	None	None
+悟	wu4	通=寤 睡醒	None	寤
+悟	wu4	通=晤 相对	None	晤
+悟	wu4	通=啎 抵触	None	啎
+悟	wu4	姓	None	None
+㤱	fu4	同=𢠲 怒	None	𢠲
+㤱	dou4	候	None	None
+㤱	dou4	欺骗	None	None
+𢚬	None	=怪的字	None	怪
+㤳	bei3	依赖	None	None
+悏	None	同=㤲	None	㤲
+㤶	mang2	[㤶懞]昏闷	None	None
+㤶	mang4	[㤶戇]愚笨	None	None
+悂	pi1	谬误	None	None
+悂	bi1	意併	None	None
+悂	pi3	谨慎	None	None
+𢙼	xing4	同=悻 恼恨	None	悻
+悭	None	=慳的简化字	None	慳
 悄	None	录入中	None	None
 悍	None	录入中	None	None
 悜	None	录入中	None	None
