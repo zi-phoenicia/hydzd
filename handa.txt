@@ -70772,34 +70772,73 @@
 紖	zhen4	穿在牛鼻上以备牵引的绳子 也泛指牵牲口的绳子	None	None
 紖	zhen4	牵引灵车的大绳子	None	None
 纼	None	=紖的简化字	None	紖
-紐	None	录入中	None	None
-纽	None	录入中	None	None
-𥾠	None	录入中	None	None
-𥾞	None	录入中	None	None
-紓	None	录入中	None	None
-纾	None	录入中	None	None
-𥾤	None	录入中	None	None
-𥿉	None	录入中	None	None
-线	None	录入中	None	None
-䋊	None	录入中	None	None
-𥿚	None	录入中	None	None
-紶	None	录入中	None	None
-紺	None	录入中	None	None
-绀	None	录入中	None	None
-紲	None	录入中	None	None
-绁	None	录入中	None	None
-𥿍	None	录入中	None	None
-絊	None	录入中	None	None
-絉	None	录入中	None	None
-紮	None	录入中	None	None
-䋍	None	录入中	None	None
-䋑	None	录入中	None	None
-䋔	None	录入中	None	None
-紱	None	录入中	None	None
-绂	None	录入中	None	None
-练	None	录入中	None	None
-䋐	None	录入中	None	None
-䋎	None	录入中	None	None
+紐	niu3	打活结；缠束	None	None
+紐	niu3	纽襻，器物上用以提携或系绳带的部件	None	None
+紐	niu3	量词 相当于“枚”、“颗”	None	None
+紐	niu3	连结	None	None
+紐	niu3	用以控制某种事物的机键或关键 如：电纽；枢纽	None	None
+紐	niu3	本，根据	None	None
+紐	niu3	总，合	None	None
+紐	niu3	中医学术语 赤脉	None	None
+紐	niu3	汉语音韵学名词，指辅音或声母 如“声母”又称“声纽”	None	None
+紐	niu3	用同=扭	None	扭
+紐	niu3	用同=綹 束	None	綹
+紐	niu3	姓	None	None
+纽	None	=紐的简化字	None	紐
+𥾠	None	=紉的讹字	None	紉
+𥾞	None	=𥾺的讹字	None	𥾺
+紓	shu1	宽缓；缓和	None	None
+紓	shu1	舒展；舒发	None	None
+紓	shu1	宽裕；使宽裕	None	None
+紓	shu1	解除；排除	None	None
+纾	None	=紓的简化字	None	紓
+𥾤	xiao2	黄缯	None	None
+𥾤	xiao2	同=䋂	None	䋂
+𥿉	wa4	同=韤(襪) 袜子	None	韤
+𥿉	mo4	束衣的带子	None	None
+𬘚	None	=𥿉的类推简化字	None	𥿉
+线	None	=綫的简化字	None	綫
+䋊	zheng1	[䋊綊]乘舆马饰	None	None
+𥿚	qie4	[活𥿚頭]丈夫还在而改嫁的女子	None	None
+紶	qu1	紶继	None	None
+紶	qu1	束	None	None
+紶	qu1	=綌的讹字	None	綌
+紶	qu3	绪	None	None
+紺	gan4	微呈红色的深青色	None	None
+紺	gan4	深青色	None	None
+紺	gan4	青色	None	None
+绀	None	=紺的简化字	None	紺
+紲	xie4	牵引牲畜的绳索	None	None
+紲	xie4	系，捆绑	None	None
+紲	xie4	弓䪐，一种保护弓的器具	None	None
+紲	xie4	绪	None	None
+紲	xie4	通=褻 私服，贴身的内衣	None	褻
+紲	yi4	通=跇 超越	None	跇
+绁	None	=紲的简化字	None	紲
+𥿍	gu1	[𥿍縷]草名	None	None
+絊	zui4	鲜洁	None	None
+絉	shu4	绳	None	None
+紮	za1	缠束弓靶	None	None
+紮	za1	缠缚；捆扎	None	None
+紮	zha1	驻扎	None	None
+䋍	None	同=䋪	None	䋪
+⿰糹𪩲	None	同=紱	None	紱
+䋑	lie4	结	None	None
+⿰纟丙	None	=䋑的类推简化字	None	䋑
+䋔	bi4	纠绞散纤维成纱或绳	None	None
+紱	fu2	系官印的丝带	None	None
+紱	fu2	蔽膝，缝于长衣之前，为祭服的服饰 周制帝王、诸侯及诸国的上卿皆朱绂	None	None
+绂	None	=紱的简化字	None	紱
+练	None	=練的简化字	None	練
+䋐	yue4	有花纹的可以做缘饰的织物	None	None
+䋐	yue4	车马饰 一说车马裠	None	None
+䋐	yue4	䌽繐	None	None
+䋐	yue4	紵布	None	None
+䋐	yue4	细布	None	None
+𬘙	None	=䋐的类推简化字	None	䋐
+𮉡	None	=纑的类推简化字	None	纑
+䋎	zhan4	缝补 后作=綻	None	綻
+𬘜	None	=䋎的类推简化字	None	䋎
 組	None	录入中	None	None
 组	None	录入中	None	None
 紳	None	录入中	None	None
