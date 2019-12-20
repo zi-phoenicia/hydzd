@@ -71237,25 +71237,99 @@
 ⿱兇糸	None	同=總	None	總
 𥿪	huang1	丝蔓延	None	None
 𦀉	None	同=𥿰	None	𥿰
-絢	None	录入中	None	None
-绚	None	录入中	None	None
-絳	None	录入中	None	None
-绛	None	录入中	None	None
-絡	None	录入中	None	None
-络	None	录入中	None	None
-𥿨	None	录入中	None	None
-𥿸	None	录入中	None	None
-𥿫	None	录入中	None	None
-䋫	None	录入中	None	None
-絶	None	录入中	None	None
-绝	None	录入中	None	None
-𥿹	None	录入中	None	None
-絞	None	录入中	None	None
-绞	None	录入中	None	None
-絘	None	录入中	None	None
-𥿩	None	录入中	None	None
-𥿼	None	录入中	None	None
-絯	None	录入中	None	None
+絢	xuan4	色彩多姿貌	None	None
+絢	xuan4	点缀；照耀	None	None
+絢	xuan4	使眩惑迷乱	None	None
+絢	xuan4	远	None	None
+絢	xun2	同=紃 环形饰带	None	紃
+绚	None	=絢的简化字	None	絢
+絳	jiang4	大红色	None	None
+絳	jiang4	绛草，一种可作染料的植物	None	None
+絳	jiang4	一种丝织物	None	None
+絳	jiang4	古地名 故地在今山西省侯马市东北绛县	None	None
+絳	jiang4	姓	None	None
+绛	None	=絳的简化字	None	絳
+絡	luo4	絮；粗丝绵	None	None
+絡	luo4	未经浸泡的麻	None	None
+絡	luo4	生丝	None	None
+絡	luo4	缠丝	None	None
+絡	luo4	指络丝的人	None	None
+絡	luo4	缠绕	None	None
+絡	luo4	环绕	None	None
+絡	luo4	包罗；覆盖	None	None
+絡	luo4	套住	None	None
+絡	luo4	指马笼头	None	None
+絡	luo4	网	None	None
+絡	luo4	泛指网状的物品 如：橘络；丝瓜络	None	None
+絡	luo4	中医学名词 脉络，气血的通道	None	None
+絡	luo4	汲水的绳索	None	None
+絡	luo4	装饰	None	None
+絡	luo4	收集；记录	None	None
+絡	luo4	络绎不绝；接连不断	None	None
+絡	luo4	姓	None	None
+絡	lao4	[絡子]1.线绳结成的网状袋子 2.绕丝绕纱的器具	None	None
+络	None	=絡的简化字	None	絡
+𥿨	ming2	细丝	None	None
+𥿸	None	同=絺	None	絺
+𥿫	mi2	同=縻	None	縻
+𥿫	yi4	同=貤 重；重复	None	貤
+𥿫	wei4	垂	None	None
+䋫	zheng1	盘绕绳索	None	None
+䋫	zheng1	屈曲；曲折	None	None
+䋫	zheng1	急弦之声	None	None
+⿰纟争	None	=䋫的类推简化字	None	䋫
+絶	jue2	断绝，不连属	None	None
+絶	jue2	割断；切断	None	None
+絶	jue2	气息中止；晕死	None	None
+絶	jue2	断根；无后代	None	None
+絶	jue2	距离远；隔绝难通	None	None
+絶	jue2	横度；穿越	None	None
+絶	jue2	绝句 诗体名 亦称“=截句”、“断句” 律诗通常有八句，而绝句仅四句，一说是截取律诗一半而成 在唐代律诗形成以前，已有绝句 绝句一般以五、七言为主，也有六言 如：七绝；五绝	None	截
+絶	jue2	指食物断绝	None	None
+絶	jue2	险恶的；没有活动余地的	None	None
+絶	jue2	竭，尽	None	None
+絶	jue2	止	None	None
+絶	jue2	落	None	None
+絶	jue2	抛弃；免除	None	None
+絶	jue2	灭	None	None
+絶	jue2	副词 表示程度，相当于“最”、“极”	None	None
+絶	jue2	指才技特异，独一无二	None	None
+絶	jue2	指手段恶劣	None	None
+絶	jue2	极高；极深	None	None
+絶	jue2	超过	None	None
+絶	jue2	绝对；全然	None	None
+絶	jue2	语气词 罢了；了	None	None
+绝	None	=絶的简化字	None	絶
+⿰糹壮	None	同=𦀜	None	𦀜
+𥿹	yi4	络丝	None	None
+絞	jiao3	勒杀；吊死 旧时的一种死刑	None	None
+絞	jiao3	扭结，把两股或两种以上的事物扭在一起 如：绞铁丝；绞麻绳；把两件事情绞在一起	None	None
+絞	jiao3	拧；挤压	None	None
+絞	jiao3	缠绕；捆绑	None	None
+絞	jiao3	纠缠	None	None
+絞	jiao3	把绳索一端系在轮上，转动轮轴，使系在另一端的物体移动 如：绞车；绞盘；绞着辘轳汲水；绞链起锚	None	None
+絞	jiao3	=搅	None	搅
+絞	jiao3	剪，裁	None	None
+絞	jiao3	用绞刀切削 如：绞孔	None	None
+絞	jiao3	急切；偏激	None	None
+絞	jiao3	量词 用于纱、毛线等	None	None
+絞	jiao3	古国名 在今鄂西郧阳一带	None	None
+絞	jiao3	古地名 在今山东省滕州市境	None	None
+絞	jiao3	姓	None	None
+絞	xiao2	束死者所用的饰带	None	None
+絞	xiao2	苍黄色	None	None
+絞	jiao4	黑黄色的缯	None	None
+绞	None	=絞的简化字	None	絞
+絘	ci4	绩麻成线	None	None
+絘	ci4	絘布，古币名	None	None
+⿰纟次	None	=絘的类推简化字	None	絘
+𥿩	zi4	理丝	None	None
+⿰糹⿱丶平	None	同=綷	None	綷
+𥿼	None	同=𥿪	None	𥿪
+絯	gai1	拘束；约束	None	None
+絯	gai1	挂碍	None	None
+絯	hai4	大丝	None	None
+絯	hai4	通=駭 惊骇	None	駭
 統	None	录入中	None	None
 统	None	录入中	None	None
 𥿺	None	录入中	None	None
