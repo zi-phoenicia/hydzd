@@ -71401,22 +71401,39 @@
 絲	si1	量词 一种计算长度、容量和重量的微小单位 千分之一分为一丝 如：厘、毫、丝、忽	None	None
 䋤	yue4	白色的缟	None	None
 䋤	yue4	练	None	None
-𦀗	None	录入中	None	None
-䋢	None	录入中	None	None
-綕	None	录入中	None	None
-𦀖	None	录入中	None	None
-絿	None	录入中	None	None
-綍	None	录入中	None	None
-䋠	None	录入中	None	None
-綆	None	录入中	None	None
-绠	None	录入中	None	None
-綀	None	录入中	None	None
-𦈌	None	录入中	None	None
-𦀡	None	录入中	None	None
-綇	None	录入中	None	None
-𫄥	None	录入中	None	None
-𦀞	None	录入中	None	None
-𦁄	None	录入中	None	None
+⿰糹麦	None	同=綾	None	綾
+𦀗	None	同=織	None	織
+䋢	bie1	编绳	None	None
+䋢	bie1	弩腰钩带	None	None
+䋢	bie1	结	None	None
+䋢	bie1	车向左边回转	None	None
+䋢	bie1	輓	None	None
+綕	None	同=織	None	織
+⿰糹𡉵	None	同=絩	None	絩
+𦀖	jie2	[𦀖䌜]补缝	None	None
+絿	qiu2	急，急躁	None	None
+絿	qiu2	求	None	None
+⿰纟求	None	=絿的类推简化字	None	絿
+綍	fu2	绳索	None	None
+綍	fu2	引棺的大索 也作=紼	None	紼
+䋠	None	同=補	None	補
+綆	geng3	汲水用的绳索	None	None
+綆	geng3	绳索	None	None
+綆	bing3	轮辐近轴处向外突出的部分	None	None
+绠	None	=綆的简化字	None	綆
+綀	shu1	古代一种像苧布的稀疏的织物	None	None
+綀	shu1	纺粗丝	None	None
+𦈌	None	=綀的类推简化字	None	綀
+𦀡	yu3	丝	None	None
+⿰糹两	None	同=緉	None	緉
+𮉧	None	=緉的类推简化字	None	緉
+綇	xiu3	绊前两足 也作=𦄼	None	𦄼
+綇	xiu3	联缀铠甲的带子	None	None
+𫄥	None	=纚的类推简化字	None	纚
+𦀞	None	同=絙	None	絙
+𦁄	chen1	带	None	None
+𦁄	chen1	緻	None	None
+𦁄	chen1	同=縝 丝缕	None	縝
 綔	None	录入中	None	None
 綊	None	录入中	None	None
 𦈐	None	录入中	None	None
