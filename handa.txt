@@ -70839,23 +70839,90 @@
 𮉡	None	=纑的类推简化字	None	纑
 䋎	zhan4	缝补 后作=綻	None	綻
 𬘜	None	=䋎的类推简化字	None	䋎
-組	None	录入中	None	None
-组	None	录入中	None	None
-紳	None	录入中	None	None
-绅	None	录入中	None	None
-細	None	录入中	None	None
-细	None	录入中	None	None
-累	None	录入中	None	None
-紬	None	录入中	None	None
-䌷	None	录入中	None	None
-织	None	录入中	None	None
-紻	None	录入中	None	None
-𥿓	None	录入中	None	None
-𥿛	None	录入中	None	None
-𥿑	None	录入中	None	None
-絅	None	录入中	None	None
-䌹	None	录入中	None	None
-紩	None	录入中	None	None
+組	zu3	宽而薄的丝带，古代多用作佩印或佩玉的绶	None	None
+組	zu3	代指官印或官吏	None	None
+組	zu3	编织	None	None
+組	zu3	组织；构成 如：组阁；改组	None	None
+組	zu3	根据一定目的和要求组成的单位，一般人数不多 如：宣传组；工会小组；生产班组	None	None
+組	zu3	事物相同或性质相近的一种组成形式 如：组诗；组画；组曲；组歌	None	None
+組	zu3	地质学名词 地方性底层划分的最基本地层单位 其范围一般相当于阶或略小于阶，有时很大，甚至与统相当 一个组的岩层，可以由一种或多种岩石所组成 如：五峰组、孤峰组、栖霞组等	None	None
+組	zu3	生物分类系统上所用的等级之一 在属之下，系之上	None	None
+組	zu3	量词 1.指成套的事物，相当于“套” 如：两组电池 2.指成束的事物，相当于“绺”、“束” 如：一组线	None	None
+組	zu3	一种薄而宽呈带状的海草	None	None
+組	zu3	美好，华丽	None	None
+組	qu1	古代神话中的城镇名	None	None
+组	None	=組的简化字	None	組
+紳	shen1	古代官员束腰的大带，一端下垂	None	None
+紳	shen1	约束	None	None
+紳	shen1	旧指地方上有地位权势的人物 如：乡绅；官绅；绅士；土豪劣绅	None	None
+绅	None	=紳的简化字	None	紳
+細	xi4	微小的丝	None	None
+細	xi4	与“大”相对，泛指事物细微	None	None
+細	xi4	微弱；清淡	None	None
+細	xi4	烦重；琐碎	None	None
+細	xi4	指轻微的罪过	None	None
+細	xi4	见识短浅	None	None
+細	xi4	与“粗”相对，泛指事物细小、柔弱	None	None
+細	xi4	精致；细密	None	None
+細	xi4	精美；精良	None	None
+細	xi4	详细；具体	None	None
+細	xi4	苛严	None	None
+細	xi4	与“老”相对，指幼小、年轻	None	None
+細	xi4	旧称行为不高尚或地位低下的人	None	None
+細	xi4	分量轻；渺小	None	None
+細	xi4	慢慢地；轻轻的	None	None
+細	xi4	古声乐名 细声，指角、徵、羽调，亦指丝竹等乐器演奏出的声音	None	None
+細	xi4	中医脉象，指脉搏细小如丝，但指下明显 常见于阴血亏耗等症	None	None
+细	None	=細的简化字	None	細
+累	lei3	堆集，积聚	None	None
+累	lei3	连续；屡次	None	None
+累	lei3	重叠；重复	None	None
+累	lei3	增加	None	None
+累	lei3	合计；总计	None	None
+累	lei3	同=絫 古代计量单位名	None	絫
+累	lei3	转行貌	None	None
+累	lei3	通=裸(luo3) 袒裸	None	裸
+累	lei3	姓	None	None
+累	lei2	绳索 也作=縲	None	縲
+累	lei2	拘系；捆绑	None	None
+累	lei2	累赘	None	None
+累	lei2	指交配期的公牛 也作=㹎	None	㹎
+累	lei4	牵连；拖累	None	None
+累	lei4	负担；包袱	None	None
+累	lei4	伤害	None	None
+累	lei4	委托；嘱咐	None	None
+累	lei4	罪行；过失	None	None
+累	lei4	缺陷；毛病	None	None
+累	lei4	忧患；祸害	None	None
+累	lei4	疲劳，疲惫	None	None
+累	lei4	从，随	None	None
+累	lei4	恐	None	None
+累	lei4	旧指妻子与资产	None	None
+累	lei4	亏欠；亏损	None	None
+累	lei4	缠绕	None	None
+累	lv4	[謼遬累]古匈奴官名	None	None
+累	lie4	[肥累]地名	None	None
+紬	chou2	粗绸	None	None
+紬	chou1	抽引，引出	None	None
+紬	chou1	缀集	None	None
+紬	zhou4	业	None	None
+紬	zhou4	同=𦂈 绪	None	𦂈
+䌷	None	=紬的简化字	None	紬
+织	None	=織的简化字	None	織
+紻	yang3	卷曲的冠系	None	None
+𥿓	None	同=紀	None	紀
+𥿛	None	同=衻	None	衻
+𥿑	guan1	[𥿑巾]也作“=綸巾”	None	綸
+𥿑	lun2	同=綸 1.青丝绶带 2.海草名	None	綸
+絅	jiong1	急引	None	None
+絅	jiong1	急	None	None
+絅	jiong3	襌衣，单层的衣服	None	None
+䌹	None	=絅的类推简化字	None	絅
+紩	zhi4	缝，用针线连缀	None	None
+紩	zhi4	缝合的地方	None	None
+紩	zhi4	用同=帙 成套的书籍	None	帙
+紩	zhi4	索	None	None
+紩	zhi4	经	None	None
 𥿅	None	录入中	None	None
 䋏	None	录入中	None	None
 𥿜	None	录入中	None	None
