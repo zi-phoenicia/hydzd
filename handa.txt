@@ -70148,37 +70148,54 @@
 𦏸	yi4	同=䎈	None	䎈
 𦏸	chi2	[𦒁𦐕]见“𦒁”	None	None
 𦐁	chi2	[𦑺𦐁]见“𦑺”	None	None
-䍿	None	录入中	None	None
-䍾	None	录入中	None	None
-𦐧	None	录入中	None	None
-翅	None	录入中	None	None
-翄	None	录入中	None	None
-𦐌	None	录入中	None	None
-翃	None	录入中	None	None
-𦐂	None	录入中	None	None
-𦐇	None	录入中	None	None
-𦐎	None	录入中	None	None
-翀	None	录入中	None	None
-翂	None	录入中	None	None
-𦐈	None	录入中	None	None
-翁	None	录入中	None	None
-翆	None	录入中	None	None
-𦐊	None	录入中	None	None
-𦐄	None	录入中	None	None
-𦐃	None	录入中	None	None
-𦐍	None	录入中	None	None
-𦐋	None	录入中	None	None
-𦐆	None	录入中	None	None
-𦐉	None	录入中	None	None
-𦐕	None	录入中	None	None
-𦐞	None	录入中	None	None
-䎁	None	录入中	None	None
-翉	None	录入中	None	None
-𦐗	None	录入中	None	None
-翇	None	录入中	None	None
-𦐜	None	录入中	None	None
-𦐟	None	录入中	None	None
-䎀	None	录入中	None	None
+䍿	huang2	[䍿舞]古代的一种乐舞 以羽覆盖其头而舞蹈、祭神	None	None
+䍿	huang2	同=凰	None	凰
+䍾	yan3	飞貌	None	None
+𦐧	None	同=羿	None	羿
+⿰羽丗	None	同=𦐕	None	𦐕
+翅	chi4	鸟类的飞行器官	None	None
+翅	chi4	鱼类的鳍 如：飞鱼翅；金翅鲤鱼 又特指鲨鱼的鳍	None	None
+翅	chi4	事物的形状或作用像翅的部分 如：飞机翅；风筝翅；耳朵翅；翅果等	None	None
+翅	chi4	展翅	None	None
+翅	chi4	通=啻 1.副词 只，仅 2.终，止	None	啻
+翄	chi4	鸟类的飞行器管 也作=翅	None	翅
+𦐌	None	同=翃	None	翃
+翃	hong2	飞	None	None
+𦐂	None	同=翼	None	翼
+𦐇	ta4	飞盛貌	None	None
+𦐎	None	同=䎃	None	䎃
+翀	chong1	向上直飞	None	None
+翂	fen1	[翂翂]飞貌	None	None
+𦐈	fen1	[𦐈𦐈]同“=翂翂” 飞貌	None	翂
+翁	weng1	鸟头颈毛	None	None
+翁	weng1	飞的样子	None	None
+翁	weng1	父亲	None	None
+翁	weng1	夫之父或妻之父	None	None
+翁	weng1	泛称男性老人 如：渔翁；艄翁	None	None
+翁	weng1	对男性的敬称 如：字某曰某翁	None	None
+翁	weng1	通=滃 腾涌	None	滃
+翁	weng1	姓	None	None
+翁	weng3	[翁翁]也作“=滃滃” 酒浑浊如葱白之色	None	滃
+翆	None	同=翠	None	翠
+𦐊	None	同=翄(翅)	None	翄
+𦐄	hang2	鸟从高处往下飞	None	None
+⿰冗羽	None	同=𦐄	None	𦐄
+𦐃	None	=𦐎的讹字	None	𦐎
+𦐍	xue4	小鸟飞	None	None
+𦐋	None	同=𦐍	None	𦐍
+𦐆	pa2	飞貌	None	None
+𦐉	chi1	羽盛貌	None	None
+⿰𠘭羽	None	同=𦐄	None	𦐄
+𦐕	None	同=䎈	None	䎈
+𦐞	None	同=𦐕(䎈)	None	𦐕
+䎁	hu2	人名用字 ……按：……以为“䎁”是=胡的讹字	None	胡
+翉	ben3	飞起	None	None
+翉	ben3	走	None	None
+𦐗	None	同=翇	None	翇
+翇	fu2	舞者所执的雉羽	None	None
+𦐜	None	同=翠	None	翠
+𦐟	None	同=戮	None	戮
+䎀	xue4	飞跑貌；飞貌	None	None
 翈	None	录入中	None	None
 𦐖	None	录入中	None	None
 𦐘	None	录入中	None	None
