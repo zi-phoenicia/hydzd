@@ -48278,64 +48278,128 @@
 惛	men4	通=悶	None	悶
 惂	kan3	忧困	None	None
 惂	kan3	恨	None	None
-惚	None	录入中	None	None
-𢜥	None	录入中	None	None
-㥌	None	录入中	None	None
-惊	None	录入中	None	None
-惇	None	录入中	None	None
-惦	None	录入中	None	None
-悴	None	录入中	None	None
-𢜙	None	录入中	None	None
-㥉	None	录入中	None	None
-𢛨	None	录入中	None	None
-𢛐	None	录入中	None	None
-㥔	None	录入中	None	None
-𢜚	None	录入中	None	None
-𢛗	None	录入中	None	None
-惓	None	录入中	None	None
-惮	None	录入中	None	None
-惔	None	录入中	None	None
-悰	None	录入中	None	None
-悺	None	录入中	None	None
-悾	None	录入中	None	None
-𢛙	None	录入中	None	None
-惋	None	录入中	None	None
-悷	None	录入中	None	None
-㤾	None	录入中	None	None
-㥆	None	录入中	None	None
-惤	None	录入中	None	None
-㥛	None	录入中	None	None
-惨	None	录入中	None	None
-惙	None	录入中	None	None
-惯	None	录入中	None	None
-惷	None	录入中	None	None
-㥦	None	录入中	None	None
-𢝫	None	录入中	None	None
-𢝭	None	录入中	None	None
-𢜯	None	录入中	None	None
-𢛖	None	录入中	None	None
-𢜨	None	录入中	None	None
-想	None	录入中	None	None
-愂	None	录入中	None	None
-感	None	录入中	None	None
-𢝊	None	录入中	None	None
-㥣	None	录入中	None	None
-𢝗	None	录入中	None	None
-𢝝	None	录入中	None	None
-𢝔	None	录入中	None	None
-愚	None	录入中	None	None
-𢞈	None	录入中	None	None
-𢜹	None	录入中	None	None
-𢝮	None	录入中	None	None
-𢝕	None	录入中	None	None
-𢝯	None	录入中	None	None
-𢝰	None	录入中	None	None
-愁	None	录入中	None	None
-𢟅	None	录入中	None	None
-𢜷	None	录入中	None	None
-𢝏	None	录入中	None	None
-𢝱	None	录入中	None	None
-愆	None	录入中	None	None
+惚	hu1	[惚恍]1.不清晰；不分明 2.幽微	None	None
+𢜥	jiu1	同=勼 聚集	None	勼
+㥌	ju2	谨慎	None	None
+惊	liang2	同=悢 悲伤	None	悢
+惊	jing1	=驚的简化字	None	驚
+惇	dun1	敦厚；诚实	None	None
+惇	dun1	重视	None	None
+惇	dun1	劝勉	None	None
+惦	dian4	挂念；思念	None	None
+悴	cui4	忧愁	None	None
+悴	cui4	困苦	None	None
+悴	cui4	枯萎；憔悴	None	None
+𢜙	None	同=悴	None	悴
+㥉	None	同=𢜳	None	𢜳
+𢛨	yu4	[𢛨𢥃]不高兴	None	None
+𢛐	None	同=惵	None	惵
+㥔	yu4	心动	None	None
+𢜚	None	同=怰	None	怰
+𢛗	None	同=倦	None	倦
+惓	juan4	同=倦 疲劳；劳累	None	倦
+惓	juan4	危殆	None	None
+惓	juan4	闷	None	None
+惓	juan4	回顾	None	None
+惓	quan2	[惓惓]忠谨；恳切	None	None
+惮	None	=憚的简化字	None	憚
+惔	tan2	火烧	None	None
+惔	dan4	通=憺 安静	None	憺
+惔	dan4	恨	None	None
+悰	cong2	快乐；乐趣	None	None
+悰	cong2	心情；思绪	None	None
+悰	cong2	谋划	None	None
+悺	None	同=悹	None	悹
+悾	kong1	诚恳	None	None
+悾	kong1	空虚	None	None
+悾	kong3	[悾愡]倏不得志	None	None
+𢛙	None	同=悺	None	悺
+惋	wan3	怅恨；叹息	None	None
+惋	wan3	中医学术语 内热	None	None
+悷	li4	悲伤貌	None	None
+㤾	san4	[憛㤾]失意貌	None	None
+㤾	tan4	同=憛	None	憛
+㥆	tui4	肆欲；纵欲	None	None
+㥆	tui4	忘	None	None
+㥆	tui4	缓	None	None
+惤	jian1	布名	None	None
+惤	jian1	汉代县名	None	None
+㥛	ji2	急	None	None
+㥛	ji2	恭谨慎重貌	None	None
+㥛	ke4	爱	None	None
+惨	None	同=慘	None	慘
+⿰忄⿱厶𠇍	None	同=慘	None	慘
+惙	chuo4	忧愁	None	None
+惙	chuo4	意不动	None	None
+惙	chuo4	疲乏	None	None
+惙	chuo4	通=輟 停止	None	輟
+惙	chui4	沮丧貌	None	None
+惙	chui4	困劣	None	None
+惯	None	=慣的简化字	None	慣
+⿰忄⿱巛正	None	同=惱	None	惱
+惷	chun3	骚动	None	None
+惷	chun3	愚蠢	None	None
+惷	chun3	厚	None	None
+㥦	None	同=愜	None	愜
+𢝫	None	同=憙	None	憙
+𢝭	None	同=恐	None	恐
+𢜯	mu2	同=謨 商讨计策	None	謨
+𢜯	mou2	同=謀 计谋	None	謀
+𢜯	mu3	同=𢜮	None	𢜮
+𢛖	xiang4	[𢛖憧]志气高昂	None	None
+𢜨	xie4	不安貌	None	None
+𢜨	die2	同=惵 恐惧	None	惵
+⿱带心	None	=慸的类推简化字	None	慸
+想	xiang3	想象	None	None
+想	xiang3	思索；思考 如：想一想；想办法	None	None
+想	xiang3	希望；打算	None	None
+想	xiang3	怀念；思念	None	None
+想	xiang3	料想；估计	None	None
+想	xiang3	好像；如同	None	None
+愂	None	同=悖	None	悖
+感	gan3	感动	None	None
+感	gan3	感应；相互影响	None	None
+感	gan3	触着；碰着	None	None
+感	gan3	感触	None	None
+感	gan3	感觉；情感 如：美感；快感；自豪感；责任高 又觉得；感到 如：深感不安；颇感意外；略感疲倦	None	None
+感	gan3	感谢；感激	None	None
+感	gan3	思念	None	None
+感	gan3	忧伤	None	None
+感	gan3	感受	None	None
+感	han4	通=撼 动；摇	None	撼
+感	han4	通=憾 恨	None	憾
+𢝊	None	同=憂	None	憂
+㥣	None	同=𢞨(惠)	None	𢞨
+𢝗	None	同=整	None	整
+𢝝	None	同=懸	None	懸
+𢝔	None	同=惻	None	惻
+愚	yu2	愚笨；愚昧	None	None
+愚	yu2	愚弄；欺骗	None	None
+愚	yu2	谦辞 1.自称 2.谦称己见 3.称与自身有关的事物时冠以“愚”字	None	None
+愚	yu2	用同=漁	None	漁
+愚	yu2	姓	None	None
+𢞈	None	同=悁	None	悁
+𢜹	None	=慁的讹字	None	慁
+𢝮	None	同=憲	None	憲
+𢝕	None	同=悉	None	悉
+𢝯	yin2	@	None	None
+𢝰	None	同=總	None	總
+愁	chou2	忧愁；忧虑	None	None
+愁	chou2	悲哀，悲伤	None	None
+愁	chou2	忿恨	None	None
+愁	chou2	苦	None	None
+愁	chou2	景象惨淡	None	None
+愁	qiao3	同=愀 容色改变貌	None	愀
+愁	jiu1	同=楢 聚集	None	楢
+𢟅	None	同=悠	None	悠
+𢜷	None	=𢞤的讹字	None	𢞤
+𢝏	None	同=惡	None	惡
+𢝱	None	方言 @	None	None
+愆	qian1	超过	None	None
+愆	qian1	过失；罪过	None	None
+愆	qian1	（引起的）原因	None	None
+愆	qian1	失掉；错过	None	None
+愆	qian1	恶疾	None	None
 愈	None	录入中	None	None
 愛	None	录入中	None	None
 𢞢	None	录入中	None	None
