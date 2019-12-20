@@ -70481,50 +70481,122 @@ du羽夹	None	=翜的类推简化字	None	翜
 䎕	hong1	鸟飞	None	None
 𦑱	zhai2	[𦑍𦑱]飞的样子	None	None
 𦑱	huo4	[𦑍𦑱]也作“𦑍=𦒧” 快飞	None	𦒧
-𦑴	None	录入中	None	None
-𦒞	None	录入中	None	None
-𦒄	None	录入中	None	None
-𦒅	None	录入中	None	None
-翲	None	录入中	None	None
-翳	None	录入中	None	None
-𦒖	None	录入中	None	None
-翼	None	录入中	None	None
-翵	None	录入中	None	None
-翶	None	录入中	None	None
-𦒈	None	录入中	None	None
-𦒐	None	录入中	None	None
-𦒆	None	录入中	None	None
-𦒇	None	录入中	None	None
-𦒒	None	录入中	None	None
-翹	None	录入中	None	None
-𦒏	None	录入中	None	None
-翸	None	录入中	None	None
-𦒎	None	录入中	None	None
-𦒕	None	录入中	None	None
-𦒓	None	录入中	None	None
-䎗	None	录入中	None	None
-翺	None	录入中	None	None
-翻	None	录入中	None	None
-𦒍	None	录入中	None	None
-翷	None	录入中	None	None
-𦒟	None	录入中	None	None
-䎖	None	录入中	None	None
-𦒔	None	录入中	None	None
-𦒑	None	录入中	None	None
-𦒝	None	录入中	None	None
-翽	None	录入中	None	None
-𦒡	None	录入中	None	None
-翾	None	录入中	None	None
-𦒜	None	录入中	None	None
-䎘	None	录入中	None	None
-翿	None	录入中	None	None
-耀	None	录入中	None	None
-𦒣	None	录入中	None	None
-𦒢	None	录入中	None	None
-𦒥	None	录入中	None	None
-𦒪	None	录入中	None	None
-𦒨	None	录入中	None	None
-䎙	None	录入中	None	None
+𦑴	None	同=䘅	None	䘅
+𦒞	None	同=翿	None	翿
+𦒄	None	同=𦒎	None	𦒎
+𦒅	han4	飞貌	None	None
+翲	piao1	飞貌	None	None
+翲	piao1	高飞	None	None
+翲	piao1	轻	None	None
+翳	yi4	用羽毛制成的车盖	None	None
+翳	yi4	隐藏；藏匿	None	None
+翳	yi4	遮蔽，掩盖	None	None
+翳	yi4	隐蔽猎人的一种猎具	None	None
+翳	yi4	土卒躲避对方兵器的器具	None	None
+翳	yi4	眼球上所生障蔽视线的膜 如：白翳；翳子	None	None
+翳	yi4	阴影	None	None
+翳	yi4	起障蔽作用的东西 如：云翳；氛翳；纤翳	None	None
+翳	yi4	阻挡；堵塞	None	None
+翳	yi4	摒弃；除掉	None	None
+翳	yi4	凤凰一类的鸟	None	None
+翳	yi4	树木自己死掉	None	None
+翳	yi4	副词 相当于“只”、“惟”	None	None
+𦒖	None	同=翼	None	翼
+翼	yi4	翅膀 1.鸟的翅膀 2.昆虫的翅膀	None	None
+翼	yi4	指某些翅状物 1.鱼鳃旁的两鬣 2.鼎耳 3.屋檐两头轩起处 4.飞机等飞行器两侧伸出像鸟翼的部分	None	None
+翼	yi4	作战时阵形的两侧或政治活动的一个派别	None	None
+翼	yi4	奉戴	None	None
+翼	yi4	辅助	None	None
+翼	yi4	遮蔽；保护	None	None
+翼	yi4	送，跟在后面	None	None
+翼	yi4	恭敬	None	None
+翼	yi4	完美	None	None
+翼	yi4	法则	None	None
+翼	yi4	元代军事编制和行政区划的单位	None	None
+翼	yi4	船	None	None
+翼	yi4	星名 二十八宿之一，南方朱雀七宿中的第六宿 有星二十二颗	None	None
+翼	yi4	通=弋 驱逐；取	None	弋
+翼	yi4	通=昱(yu4) 明，次	None	昱
+翼	yi4	地名 春秋时晋国之古都，在今山西省翼城县东南	None	None
+翼	yi4	姓	None	None
+翵	hou2	同=翭(𦑚)	None	翭
+翵	qu2	鸟羽	None	None
+翵	qu2	鸟左足白	None	None
+翶	None	同=翱	None	翱
+𦒈	None	同=翅	None	翅
+⿰𭦌羽	None	同=䎖	None	䎖
+𦒐	pie1	飞貌	None	None
+𦒆	la1	[𦒆𦑇]也作“翋𦑶” 飞貌	None	None
+𦒇	None	同=翿	None	翿
+𦒒	None	同=翹	None	翹
+翹	qiao2	鸟尾上的长毛	None	None
+翹	qiao2	鸟尾	None	None
+翹	qiao2	动物的尾部	None	None
+翹	qiao2	举起	None	None
+翹	qiao2	揭示，揭露	None	None
+翹	qiao2	特出 如：翘材；翘秀	None	None
+翹	qiao2	茂盛貌	None	None
+翹	qiao2	古代妇女的一种首饰	None	None
+翹	qiao2	乐器名，即“篪”	None	None
+翹	qiao4	昂起	None	None
+𦒏	he2	同=翮 鸟羽茎下端中空的部分	None	翮
+翸	pen3	飞貌	None	None
+𦒎	hui4	鸟翅羽茎的末端	None	None
+𦒕	None	同=翦	None	翦
+𦒓	None	同=䎗	None	䎗
+䎗	qiao2	飞	None	None
+䎗	qiao2	高飞	None	None
+䎗	qiao2	侧飞	None	None
+翺	ao2	鸟在空中回旋飞翔	None	None
+翺	ao2	鸟高飞，翼一上一下貌	None	None
+翻	fan1	飞，飞翔	None	None
+翻	fan1	翻卷；翻腾	None	None
+翻	fan1	翻转；翻倒 如：翻土；翻筋斗；翻天覆地；翻云覆雨；翻江倒海	None	None
+翻	fan1	越过	None	None
+翻	fan1	改变 如：花样翻新	None	None
+翻	fan1	翻看；查阅	None	None
+翻	fan1	方言 转动眼珠看	None	None
+翻	fan1	摹写	None	None
+翻	fan1	演奏	None	None
+翻	fan1	翻译	None	None
+翻	fan1	成倍增长	None	None
+翻	fan1	翻脸 如：闹翻了；把他惹翻了	None	None
+翻	fan1	古代拼音的一种方法 也作=反	None	反
+翻	fan1	反叛	None	None
+翻	fan1	副词 表示转折，相当于“反而”、“却”	None	None
+𦒍	tong2	飞貌	None	None
+翷	lin2	飞貌	None	None
+𦒟	po4	[䎊𦒟]见“䎊”	None	None
+䎖	zeng1	高飞	None	None
+𦒔	None	同=𦒑	None	𦒑
+𦒑	yu4	飞貌	None	None
+𦒝	han3	飞貌	None	None
+翽	hui4	象声词 飞声	None	None
+翽	hui4	飞	None	None
+翽	hui4	显扬	None	None
+𦒡	None	同=翱	None	翱
+翾	xuan1	轻轻地飞	None	None
+翾	xuan1	飞鸟	None	None
+翾	xuan1	疾，快速	None	None
+翾	xuan1	通=儇 轻薄，轻佻	None	儇
+𦒜	xian1	飞	None	None
+䎘	su4	鸟飞	None	None
+䎘	su4	飞声	None	None
+翿	dao4	古代羽舞或葬礼所用的旌旗，即羽葆幢	None	None
+耀	yao4	照射 如：照耀；闪耀；耀眼	None	None
+耀	yao4	光芒；光辉	None	None
+耀	yao4	显示；显扬	None	None
+耀	yao4	荣显；显贵	None	None
+耀	yao4	眩惑	None	None
+耀	yao4	古州名 治所在今陕西省铜川市耀州区	None	None
+耀	yao4	旧县名 在陕西省中部 1913年由耀州改县，2002年改为铜川市耀州区	None	None
+𦒣	None	同=濕	None	濕
+𦒢	None	同=翱	None	翱
+𦒥	None	同=𩡓	None	𩡓
+𦒪	None	同=翷	None	翷
+𦒨	None	=𡬘的讹字	None	𡬘
+䎙	bin1	飞貌	None	None
+⿰賔羽	None	同=䎙	None	䎙
 𦒫	None	录入中	None	None
 䎚	None	录入中	None	None
 𦒬	None	录入中	None	None
