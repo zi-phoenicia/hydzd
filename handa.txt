@@ -48115,83 +48115,169 @@
 𢜖	None	同=德	None	德
 𢜦	None	古地名	None	None
 㥕	None	同=憐	None	憐
-惉	None	录入中	None	None
-𢛜	None	录入中	None	None
-𢛣	None	录入中	None	None
-𢝍	None	录入中	None	None
-𢛈	None	录入中	None	None
-悹	None	录入中	None	None
-惌	None	录入中	None	None
-𢛬	None	录入中	None	None
-惢	None	录入中	None	None
-𢛥	None	录入中	None	None
-𢛆	None	录入中	None	None
-𢛋	None	录入中	None	None
-𢜗	None	录入中	None	None
-情	None	录入中	None	None
-悿	None	录入中	None	None
-惬	None	录入中	None	None
-悵	None	录入中	None	None
-㥩	None	录入中	None	None
-㥄	None	录入中	None	None
-悻	None	录入中	None	None
-𢛟	None	录入中	None	None
-㥍	None	录入中	None	None
-𢛏	None	录入中	None	None
-惜	None	录入中	None	None
-𢜪	None	录入中	None	None
-愥	None	录入中	None	None
-㥀	None	录入中	None	None
-𢞇	None	录入中	None	None
-惏	None	录入中	None	None
-𢛒	None	录入中	None	None
-𢛔	None	录入中	None	None
-惐	None	录入中	None	None
-𢛯	None	录入中	None	None
-𢛄	None	录入中	None	None
-𢛢	None	录入中	None	None
-𢜘	None	录入中	None	None
-㥓	None	录入中	None	None
-㤿	None	录入中	None	None
-悽	None	录入中	None	None
-惭	None	录入中	None	None
-㥇	None	录入中	None	None
-悱	None	录入中	None	None
-悼	None	录入中	None	None
-惝	None	录入中	None	None
-㥂	None	录入中	None	None
-惧	None	录入中	None	None
-惈	None	录入中	None	None
-惃	None	录入中	None	None
-𢛡	None	录入中	None	None
-㥃	None	录入中	None	None
-惕	None	录入中	None	None
-㥏	None	录入中	None	None
-𢛅	None	录入中	None	None
-𢛕	None	录入中	None	None
-惘	None	录入中	None	None
-𢝸	None	录入中	None	None
-𢛍	None	录入中	None	None
-𢛉	None	录入中	None	None
-悸	None	录入中	None	None
-𢛊	None	录入中	None	None
-㥚	None	录入中	None	None
-惟	None	录入中	None	None
-𢛞	None	录入中	None	None
-惞	None	录入中	None	None
-𢛛	None	录入中	None	None
-惍	None	录入中	None	None
-惀	None	录入中	None	None
-𢛘	None	录入中	None	None
-𢛠	None	录入中	None	None
-㥒	None	录入中	None	None
-㥅	None	录入中	None	None
-惗	None	录入中	None	None
-𢛌	None	录入中	None	None
-㥊	None	录入中	None	None
-惆	None	录入中	None	None
-惛	None	录入中	None	None
-惂	None	录入中	None	None
+惉	zhan1	[惉懘]1.乐音不和谐 2.敝败貌 3.烦乱	None	None
+𢛜	ni4	心柔密	None	None
+𢛣	None	同=滅	None	滅
+𢝍	yao4	怨恨	None	None
+𢛈	None	=惉的讹字	None	惉
+悹	guan4	忧虑	None	None
+惌	yuan1	屈曲	None	None
+惌	yuan1	同=怨	None	怨
+惌	wan3	小孔貌	None	None
+惌	wan3	病名	None	None
+惌	wan3	同=宛	None	宛
+惌	yu4	同=愠	None	愠
+𢛬	None	同=密	None	密
+惢	suo3	心疑；疑虑	None	None
+惢	suo3	善	None	None
+惢	rui3	花蕊 后作=蘂、=蕊	None	蘂
+惢	rui3	沮丧貌	None	None
+惢	rui3	古代祭祀名	None	None
+𢛥	si1	厚	None	None
+𢛆	xian2	性急	None	None
+𢛆	xian2	古地名	None	None
+𢛋	None	同=悁	None	悁
+𢜗	bang4	[𢜗慃]乖戾	None	None
+情	qing2	感情；情绪 如：热情；情不自禁	None	None
+情	qing2	本性	None	None
+情	qing2	志向；意志	None	None
+情	qing2	常情；常理	None	None
+情	qing2	实情；情形	None	None
+情	qing2	事	None	None
+情	qing2	爱情 如：情书；谈情说爱	None	None
+情	qing2	情欲；性欲 如：春情；发情期	None	None
+情	qing2	情致；情趣	None	None
+情	qing2	情面；私情 如：讲情；求情	None	None
+情	qing2	真实；诚实	None	None
+情	qing2	方言 尽情；尽管	None	None
+悿	tian3	弱	None	None
+悿	tian3	[悿𢣎]1.心惑 2.心惛	None	None
+惬	None	=愜的简化字	None	愜
+悵	chang4	失意；失望	None	None
+㥩	duo3	懒惰	None	None
+㥄	ling2	哀怜	None	None
+㥄	ling2	惊恐	None	None
+悻	xing4	刚直；固执	None	None
+悻	xing4	恼恨	None	None
+悻	xing4	怨	None	None
+𢛟	ya4	心情抑郁	None	None
+㥍	None	同=惎	None	惎
+𢛏	None	=㤴的讹字	None	㤴
+惜	xi1	哀伤；可惜	None	None
+惜	xi1	爱惜；珍惜	None	None
+惜	xi1	吝惜；舍不得	None	None
+惜	xi1	怕；恐怕	None	None
+𢜪	nuo4	心以为然	None	None
+𢜪	re3	同=惹	None	惹
+愥	None	同=怏	None	怏
+㥀	zhi2	专	None	None
+㥀	de2	同=惪(德)	None	惪
+𢞇	re3	心乱	None	None
+惏	lan2	贪=婪	None	婪
+惏	lan2	残	None	None
+惏	lin2	[惏慄]寒貌	None	None
+𢛒	chong3	恐惧	None	None
+𢛔	dong1	愚蠢貌	None	None
+惐	yu4	痛心	None	None
+惐	xu4	心惑	None	None
+𢛯	None	=㦎的类推简化字	None	㦎
+𢛄	ya4	恨	None	None
+𢛢	None	同=恆	None	恆
+𢜘	None	同=笨 不聪明	None	笨
+㥓	qi1	[𢜩㥓]见“𢜩”	None	None
+㤿	yan1	爱	None	None
+㤿	yan1	甘心	None	None
+㤿	yan1	忘记	None	None
+悽	qi1	悲痛；悲伤	None	None
+悽	qi1	寒冷	None	None
+悽	qi4	恨	None	None
+惭	None	=慚的简化字	None	慚
+㥇	can2	忮	None	None
+悱	fei3	想说而说不出的样子	None	None
+悼	dao4	恐惧；战栗	None	None
+悼	dao4	哀伤；悲痛	None	None
+悼	dao4	特指追念死者 如：悼念；追悼；悼词	None	None
+悼	dao4	年幼者之称	None	None
+惝	chang3	怅惘；失意	None	None
+惝	chang3	恍惚；不清楚	None	None
+惝	chang3	大貌	None	None
+惝	chang3	惊貌	None	None
+㥂	te4	[㥂㥂]1.快 2.动心	None	None
+㥂	te4	心里畏惧	None	None
+㥂	te4	得	None	None
+惧	None	同=懼	None	懼
+惈	guo3	勇敢；果敢 今作=果	None	果
+惃	gun3	乱	None	None
+惃	gun3	昏迷	None	None
+𢛡	None	同=𢝌	None	𢝌
+㥃	None	同=悶	None	悶
+惕	ti4	恭敬	None	None
+惕	ti4	警惕；戒惧	None	None
+惕	ti4	忧伤	None	None
+惕	ti4	急速	None	None
+惕	ti4	爱	None	None
+惕	ti4	姓	None	None
+㥏	tian3	惭愧	None	None
+𢛅	None	同=怙	None	怙
+⿰忄黾	None	=憴的类推简化字	None	憴
+⿰忄罗	None	=㦬的类推简化字	None	㦬
+𢛕	None	同=悃	None	悃
+惘	wang3	怅然失意貌	None	None
+𢝸	guo4	@	None	None
+𢛍	zhi3	快	None	None
+𢛉	nei4	思	None	None
+悸	ji4	心惊跳	None	None
+悸	ji4	惊恐；惧怕	None	None
+悸	ji4	怒	None	None
+悸	ji4	下垂貌	None	None
+悸	ji4	心悸病 后作=痵	None	痵
+𢛊	None	同=𢛉	None	𢛉
+㥚	yu2	忧愁	None	None
+㥚	yu3	畏惧	None	None
+惟	wei2	思考；想	None	None
+惟	wei2	有	None	None
+惟	wei2	为；是	None	None
+惟	wei2	在；在于	None	None
+惟	wei2	随；从	None	None
+惟	wei2	副词 也作=唯、=維 1.用来限定范围，相当于“只有”、“只是” 2.表示动作、行为的重复，相当于“又” 3.相当于“就”、“还” 4.用在句首，表希望，祈使	None	唯
+惟	wei2	连词 也作=唯、=維 1.表示并列关系，相当于“与”、“和” 2.表示顺承关系，相当于“则” 3.表示让步关系，相当于“即使”、“虽然”	None	唯
+惟	wei2	介词 相当于“以”、“由于” 也作=唯、=維	None	唯
+惟	wei2	助词 也作=唯、=維 1.用在句首，无实义 2.用在句中，起调整音节的作用	None	唯
+惟	wei2	水名 也作=濰	None	濰
+惟	wei2	通=帷	None	帷
+惟	wei2	姓	None	None
+惟	wei3	[惟惟]也作“=唯唯” 应答之词	None	唯
+𢛞	bai1	[𢛞怐]自容人	None	None
+⿰忄质	None	=懫的类推简化字	None	懫
+惞	xin1	同=欣 喜悦	None	欣
+𢛛	wang4	狡诈	None	None
+惍	jin1	利	None	None
+惀	lun2	想要知道某事	None	None
+惀	lun2	思	None	None
+惀	lun4	愤懑	None	None
+𢛘	xiao2	吝啬	None	None
+𢛠	None	同=𢜭	None	𢜭
+㥒	cai3	奸邪	None	None
+㥒	cai3	恨	None	None
+㥒	cai3	急	None	None
+㥒	cai1	同=猜 恨；嫉恨	None	猜
+㥅	shou4	人名用字	None	None
+㥅	shou4	忧思	None	None
+惗	nie4	爱	None	None
+惗	nie4	相忆；思念	None	None
+𢛌	None	同=憁	None	憁
+㥊	peng2	[㥊𢝁]怒貌	None	None
+㥊	peng1	同=恲 慷慨	None	恲
+惆	chou2	失意；怅惘	None	None
+惆	chou2	悲痛	None	None
+惆	qiu1	同=恘	None	恘
+惆	dao1	[氐惆]昏闷	None	None
+惛	hun1	不明白；糊涂	None	None
+惛	hun1	同=怋 心乱	None	怋
+惛	hun1	用同=昏	None	昏
+惛	men4	通=悶	None	悶
+惂	kan3	忧困	None	None
+惂	kan3	恨	None	None
 惚	None	录入中	None	None
 𢜥	None	录入中	None	None
 㥌	None	录入中	None	None
