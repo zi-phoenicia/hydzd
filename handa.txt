@@ -70923,22 +70923,38 @@
 紩	zhi4	用同=帙 成套的书籍	None	帙
 紩	zhi4	索	None	None
 紩	zhi4	经	None	None
-𥿅	None	录入中	None	None
-䋏	None	录入中	None	None
-𥿜	None	录入中	None	None
-𥿈	None	录入中	None	None
-絁	None	录入中	None	None
-𫄟	None	录入中	None	None
-紨	None	录入中	None	None
-𥿝	None	录入中	None	None
-絈	None	录入中	None	None
-𥿞	None	录入中	None	None
-𥿊	None	录入中	None	None
-𦈈	None	录入中	None	None
-𥿐	None	录入中	None	None
-紾	None	录入中	None	None
-紷	None	录入中	None	None
-𥿄	None	录入中	None	None
+𮉢	None	=紩的类推简化字	None	紩
+𥿅	shi4	同=䋀	None	䋀
+䋏	zuo4	大绳索	None	None
+䋏	zuo4	一种丝织物	None	None
+䋏	zha4	缯纰貌	None	None
+𥿜	zhan4	扭；转	None	None
+𥿜	zhen3	单衣	None	None
+𥿈	None	同=紱	None	紱
+絁	shi1	同=䌳 缯名，一种粗绸	None	䌳
+絁	shi1	“绢”的别名	None	None
+𫄟	None	=絁的类推简化字	None	絁
+紨	fu2	布名	None	None
+紨	fu2	粗绸	None	None
+紨	fu4	同=縛 捆绑东西的绳索	None	縛
+⿰纟付	None	=紨的类推简化字	None	紨
+𥿝	dai4	纤度单位“旦尼尔”(法denier)的旧称 9000米长的纤维或纱线在公定回潮率时重量为多少克，它的纤度就是多少𥿝 𥿝数愈小，纤维愈细	None	None
+絈	mo4	同=帞 头巾	None	帞
+𥿞	she1	@ ……按：疑“𥿞”为佛教译音用字，无实义	None	None
+𥿊	che4	用绳捆绑	None	None
+𦈈	None	=𥿊的类推简化字	None	𥿊
+𥿐	None	同=綯	None	綯
+紾	zhen3	转折；扭动	None	None
+紾	zhen3	缠绞	None	None
+紾	zhen3	缠结	None	None
+紾	zhen3	转绳	None	None
+紾	zhen3	单衣	None	None
+紾	tian3	垂绝貌	None	None
+紾	jin3	同=緊 1.丝弦紧绷 2.急	None	緊
+𬘝	None	=紾的类推简化字	None	紾
+紷	ling2	絮名	None	None
+紷	ling2	精细染练过的丝或布	None	None
+𥿄	di1	丝的渣滓	None	None
 絇	None	录入中	None	None
 終	None	录入中	None	None
 终	None	录入中	None	None
