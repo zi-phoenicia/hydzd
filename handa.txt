@@ -70196,49 +70196,93 @@
 𦐜	None	同=翠	None	翠
 𦐟	None	同=戮	None	戮
 䎀	xue4	飞跑貌；飞貌	None	None
-翈	None	录入中	None	None
-𦐖	None	录入中	None	None
-𦐘	None	录入中	None	None
-䎃	None	录入中	None	None
-翐	None	录入中	None	None
-習	None	录入中	None	None
-𦐚	None	录入中	None	None
-䎅	None	录入中	None	None
-翏	None	录入中	None	None
-翎	None	录入中	None	None
-䎆	None	录入中	None	None
-𦐠	None	录入中	None	None
-翑	None	录入中	None	None
-𦐛	None	录入中	None	None
-䎂	None	录入中	None	None
-𦐙	None	录入中	None	None
-翌	None	录入中	None	None
-翋	None	录入中	None	None
-翊	None	录入中	None	None
-𦐡	None	录入中	None	None
-䎄	None	录入中	None	None
-翍	None	录入中	None	None
-𦐢	None	录入中	None	None
-𦐰	None	录入中	None	None
-𦐫	None	录入中	None	None
-翓	None	录入中	None	None
-䎉	None	录入中	None	None
-翘	None	录入中	None	None
-𦐳	None	录入中	None	None
-䎈	None	录入中	None	None
-𦐪	None	录入中	None	None
-翙	None	录入中	None	None
-𦐣	None	录入中	None	None
-𦐨	None	录入中	None	None
-𦐿	None	录入中	None	None
-𦐻	None	录入中	None	None
-𦐷	None	录入中	None	None
-𦐩	None	录入中	None	None
-䎇	None	录入中	None	None
-𦐬	None	录入中	None	None
-翖	None	录入中	None	None
-翕	None	录入中	None	None
-𦐥	None	录入中	None	None
+翈	xia3	羽瓣 羽干两侧由羽支连合而成的瓣状构造	None	None
+𦐖	zhi3	同=咫 古代长度名，周制八寸，合市尺六寸二分二厘	None	咫
+𦐘	None	同=䎃	None	䎃
+䎃	ran3	鸟翅膀下的细毛	None	None
+䎃	ran3	羽貌	None	None
+䎃	ran3	羽	None	None
+翐	zhi4	[翐翐]鸟飞舒迟的样子	None	None
+翐	zhi4	飞貌	None	None
+習	xi2	鸟类频频试飞	None	None
+習	xi2	学习	None	None
+習	xi2	复习；温习	None	None
+習	xi2	积；重叠	None	None
+習	xi2	了解；熟悉	None	None
+習	xi2	习惯；习染	None	None
+習	xi2	亲近；亲信	None	None
+習	xi2	教；训练	None	None
+習	xi2	作为	None	None
+習	xi2	调节	None	None
+習	xi2	副词 表示频度，相当于“常常”、“经常”	None	None
+習	xi2	通=襲 相因；重复	None	襲
+習	xi2	姓	None	None
+𦐚	None	同=䎅	None	䎅
+䎅	pa4	[䎊䎅]也作“䎊=𦒂” 飞貌	None	𦒂
+翏	liu4	高飞	None	None
+翏	lu4	[翏翏]象声词 远远袭来的风声	None	None
+翎	ling2	鸟翅和尾上的长羽毛	None	None
+翎	ling2	昆虫的翅翼	None	None
+翎	ling2	箭羽	None	None
+翎	ling2	清代官员帽上用孔雀毛、鹖尾毛、鹭鸶毛做成的区分品级的装饰品	None	None
+䎆	liao4	飞貌	None	None
+𦐠	xu4	飞貌	None	None
+翑	None	同=𦐛	None	𦐛
+𦐛	qu2	羽毛末端的弯曲部分	None	None
+𦐛	qu2	后脚白的马	None	None
+𦐛	qu2	同=翵 鸟羽	None	翵
+𦐛	yu4	箭羽	None	None
+䎂	bao3	彩色的羽毛	None	None
+䎂	bao3	矢羽	None	None
+𦐙	None	同=䎂	None	䎂
+翌	yi4	翅膀	None	None
+翌	yi4	辅佐	None	None
+翌	yi4	通=昱(yu4) 1.明，次（指时间） 2.昭明	None	昱
+翋	la1	[翋𦑶]飞貌	None	None
+翊	yi4	飞貌	None	None
+翊	yi4	通=昱(yu4) 明，明日	None	昱
+翊	yi4	通=翼 1.翅 2.辅佐，辅助	None	翼
+𦐡	fu2	@	None	None
+䎄	xiao1	[䎄㲖]毛貌	None	None
+䎄	tiao2	[䎄㲖]也作“=𣬸㲖” 1.鸟尾翘毛 2.羽恶貌	None	𣬸
+翍	pi1	张羽貌	None	None
+翍	pi1	同=披 张开；分散	None	披
+翍	bi4	羽	None	None
+翍	po1	飞貌	None	None
+𦐢	None	同=翍	None	翍
+𦐰	chai4	飞速貌	None	None
+𦐫	None	同=𦐞(䎈)	None	𦐞
+翓	xie2	鸟向上飞	None	None
+⿱羽百	None	同=友	None	友
+䎉	xu4	飞走貌	None	None
+䎉	xu4	同=矞 惊惧貌	None	矞
+du羽夹	None	=翜的类推简化字	None	翜
+翘	None	=翹的简化字	None	翹
+𦐳	hong1	弄羽声	None	None
+䎈	yi4	飞，飞貌	None	None
+𦐪	None	同=䎈	None	䎈
+翙	None	=翽的类推简化字	None	翽
+𦐣	shu1	飞貌	None	None
+𦐨	ci3	飞貌	None	None
+𦐿	ting2	人名用字	None	None
+𦐻	None	=翛的讹字	None	翛
+𦐷	None	羽垂貌	None	None
+𦐩	None	同=翿	None	翿
+䎇	zhou1	急	None	None
+䎇	zhou1	柔弱的羽毛	None	None
+𦐬	None	同=翕	None	翕
+翖	None	同=翕	None	翕
+翕	xi1	收敛；闭合	None	None
+翕	xi1	和好	None	None
+翕	xi1	一致；协调	None	None
+翕	xi1	聚集	None	None
+翕	xi1	入；纳	None	None
+翕	xi1	盛；炽	None	None
+翕	xi1	变动	None	None
+翕	xi1	火炙	None	None
+翕	xi1	众	None	None
+翕	xi1	通=吸 吸引	None	吸
+𦐥	None	同=䎕	None	䎕
 𦐦	None	录入中	None	None
 䎊	None	录入中	None	None
 翗	None	录入中	None	None
