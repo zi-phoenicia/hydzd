@@ -70410,36 +70410,77 @@ du羽夹	None	=翜的类推简化字	None	翜
 𦒁	ci1	[𦒁𦏸]燕飞貌	None	None
 𦑺	ci1	[𦑺𦐁]燕不飞貌	None	None
 𦑦	None	同=翦	None	翦
-翦	None	录入中	None	None
-翧	None	录入中	None	None
-翬	None	录入中	None	None
-𦑩	None	录入中	None	None
-𦑮	None	录入中	None	None
-翩	None	录入中	None	None
-𦑻	None	录入中	None	None
-𦑙	None	录入中	None	None
-𦒃	None	录入中	None	None
-翰	None	录入中	None	None
-翴	None	录入中	None	None
-𦑾	None	录入中	None	None
-䎔	None	录入中	None	None
-𦑵	None	录入中	None	None
-𦑷	None	录入中	None	None
-翮	None	录入中	None	None
-𦑽	None	录入中	None	None
-𦑳	None	录入中	None	None
-𦑼	None	录入中	None	None
-𦑰	None	录入中	None	None
-𦒀	None	录入中	None	None
-𦑶	None	录入中	None	None
-𦑲	None	录入中	None	None
-𦑹	None	录入中	None	None
-翱	None	录入中	None	None
-𦑸	None	录入中	None	None
-翯	None	录入中	None	None
-𦒂	None	录入中	None	None
-䎕	None	录入中	None	None
-𦑱	None	录入中	None	None
+翦	jian3	羽初生如剪样齐	None	None
+翦	jian3	箭羽	None	None
+翦	jian3	剪整齐	None	None
+翦	jian3	割截，杀戮	None	None
+翦	jian3	歼灭	None	None
+翦	jian3	削减	None	None
+翦	jian3	修剪	None	None
+翦	jian3	拦截	None	None
+翦	jian3	尽，全	None	None
+翦	jian3	勤劳	None	None
+翦	jian3	浅淡	None	None
+翦	jian3	挥动	None	None
+翦	jian3	同=箭	None	箭
+翦	jian3	姓 现代有历史学家翦伯赞	None	None
+翧	xuan1	[翧翧]飞	None	None
+翬	hui1	振羽疾飞	None	None
+翬	hui1	具五采的雉类，锦鸡	None	None
+翬	hui1	通=揮 舞动	None	揮
+翬	hui1	用同=輝 光	None	輝
+𦑩	None	同=翬	None	翬
+𦑮	None	同=翩	None	翩
+翩	pian1	快速地飞	None	None
+翩	pian1	摇曳飘忽的样子	None	None
+翩	pian1	旌旗飘荡貌	None	None
+翩	pian1	风流潇洒貌	None	None
+𦑻	da1	飞貌	None	None
+𦑙	xuan1	飞貌	None	None
+𦒃	hong1	同=䎕 飞	None	䎕
+翰	han4	雉类，赤羽山鸡 也叫锦鸡	None	None
+翰	han4	长而硬的鸟羽	None	None
+翰	han4	高飞	None	None
+翰	han4	疾，快	None	None
+翰	han4	长毛	None	None
+翰	han4	笔毫；毛笔	None	None
+翰	han4	文词；书信 如：书翰；文翰；辞翰；札翰	None	None
+翰	han4	文史方面的才能	None	None
+翰	han4	棺之旁饰	None	None
+翰	han4	白色	None	None
+翰	han4	白马	None	None
+翰	han4	长毛马	None	None
+翰	han4	通=榦(gan4) 骨干；栋梁	None	榦
+翰	han4	姓	None	None
+翴	lian2	飞	None	None
+翴	lian2	飞貌	None	None
+𦑾	liu2	小飞	None	None
+䎔	fu1	细毛	None	None
+䎔	fu1	羽	None	None
+𦑵	po1	[䎊𦑵]同“䎊=𦒂”	None	𦒂
+𦑷	None	同=䎔	None	䎔
+翮	he2	鸟羽下端支柱部分	None	None
+翮	he2	鸟的翅膀	None	None
+翮	he2	鸟类	None	None
+翮	he2	管乐器	None	None
+翮	li4	通=䰛 空足的鼎	None	䰛
+𦑽	None	同=䎗	None	䎗
+𦑳	None	同=翦	None	翦
+𦑼	ta4	鸟毛	None	None
+𦑰	None	同=翾	None	翾
+𦒀	None	人名	None	None
+𦑶	ta4	[翋𦑶]见“翋”	None	None
+𦑲	ta4	[𦑲𦑲]飞貌	None	None
+𦑲	ta4	飞，一个跟着一个成群地飞	None	None
+𦑹	fu2	飞貌	None	None
+翱	None	同=翶	None	翶
+𦑸	you2	[𦑸𦑸]鸟飞貌	None	None
+翯	he4	鸟白肥泽貌	None	None
+翯	hao4	素羽	None	None
+𦒂	None	=𦒟的讹字	None	𦒟
+䎕	hong1	鸟飞	None	None
+𦑱	zhai2	[𦑍𦑱]飞的样子	None	None
+𦑱	huo4	[𦑍𦑱]也作“𦑍=𦒧” 快飞	None	𦒧
 𦑴	None	录入中	None	None
 𦒞	None	录入中	None	None
 𦒄	None	录入中	None	None
