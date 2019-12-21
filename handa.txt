@@ -48400,39 +48400,106 @@
 愆	qian1	（引起的）原因	None	None
 愆	qian1	失掉；错过	None	None
 愆	qian1	恶疾	None	None
-愈	None	录入中	None	None
-愛	None	录入中	None	None
-𢞢	None	录入中	None	None
-意	None	录入中	None	None
-𢝃	None	录入中	None	None
-𢝑	None	录入中	None	None
-慈	None	录入中	None	None
-𢝲	None	录入中	None	None
-𢝳	None	录入中	None	None
-𢞉	None	录入中	None	None
-𢝴	None	录入中	None	None
-愙	None	录入中	None	None
-𢟪	None	录入中	None	None
-𢝅	None	录入中	None	None
-愍	None	录入中	None	None
-㥨	None	录入中	None	None
-愗	None	录入中	None	None
-㥤	None	录入中	None	None
-𢝇	None	录入中	None	None
-𢜾	None	录入中	None	None
-𢝂	None	录入中	None	None
-愜	None	录入中	None	None
-𢝒	None	录入中	None	None
-愤	None	录入中	None	None
-𢜳	None	录入中	None	None
-𢜮	None	录入中	None	None
-愖	None	录入中	None	None
-愅	None	录入中	None	None
-惵	None	录入中	None	None
-愺	None	录入中	None	None
-𢟉	None	录入中	None	None
-慌	None	录入中	None	None
-愝	None	录入中	None	None
+愈	yu4	病情好转	None	None
+愈	yu4	治好病	None	None
+愈	yu4	贤；胜过	None	None
+愈	yu4	副词 表示程度加深，相当于“越”、“更加”	None	None
+愈	yu4	通=愉(yu2) 快乐	None	愉
+愈	yu4	通=諭 黎姐	None	諭
+愈	yu4	通=偷(tou1) 苟且	None	偷
+愈	yu4	姓	None	None
+愛	ai4	惠；仁爱	None	None
+愛	ai4	亲爱；对人或事物怀有很深的感情 如：爱祖国；爱人民；爱科学	None	None
+愛	ai4	喜欢；爱好 如：爱打球；爱养花；爱唱歌	None	None
+愛	ai4	特指男女间的情爱 如：恋爱；爱人	None	None
+愛	ai4	怜惜；爱惜	None	None
+愛	ai4	吝惜；舍不得	None	None
+愛	ai4	护卫	None	None
+愛	ai4	容易；常常发生 如：爱哭；铁爱生锈；孩子爱生病	None	None
+愛	ai4	对别人女儿的尊称	None	None
+愛	ai4	行貌	None	None
+愛	ai4	通=薆 隐蔽貌	None	薆
+愛	ai4	姓	None	None
+𢞢	None	同=慶	None	慶
+意	yi4	意向；愿望 如：好意；中意；称心如意	None	None
+意	yi4	志向	None	None
+意	yi4	考虑；放在心上	None	None
+意	yi4	感知	None	None
+意	yi4	意思；意义 如：词不达意	None	None
+意	yi4	意见；见解 如：尊意甚善	None	None
+意	yi4	猜测；料想 如：出其不意	None	None
+意	yi4	怀疑	None	None
+意	yi4	情趣；意味 如：春意；醉意；诗情画意	None	None
+意	yi4	感情；情意	None	None
+意	yi4	意气；气势	None	None
+意	yi4	内心；胸怀	None	None
+意	yi4	通=億	None	億
+意	yi4	记忆 后作=憶	None	憶
+意	yi4	通=抑 连词 抑或；还是	None	抑
+意	yi4	通=薏 果仁	None	薏
+意	yi4	佛家用语 1.六根之一 全称意根，是意识所赖以发生的依据 2.六识之一，意识的略称 指思量思虑作用	None	None
+意	yi4	意大利的简称	None	None
+意	yi4	姓	None	None
+意	yi1	同=噫	None	噫
+⿱立忠	None	同=億	None	億
+𢝃	None	=㛳的讹字	None	㛳
+𢝑	None	同=慶	None	慶
+慈	ci2	（上对下）慈爱	None	None
+慈	ci2	特指父母疼爱子女	None	None
+慈	ci2	笃爱；仁爱	None	None
+慈	ci2	指对父母孝敬奉养	None	None
+慈	ci2	称母亲 如：家慈；先慈	None	None
+慈	ci2	佛教用语 称佛、菩萨爱护众生，给予欢乐为慈	None	None
+慈	ci2	通=磁	None	磁
+慈	ci2	古州名 唐贞观八年改南汾州置，治吉昌县（今山西省吉县）	None	None
+慈	ci2	姓	None	None
+𢝲	None	同=愁	None	愁
+𢝳	gu3	@	None	None
+𢞉	yi2	毛革	None	None
+𢝴	wu4	@ ……按：……当是=惡的俗字	None	惡
+愙	None	同=恪	None	恪
+𢟪	ai4	同=愛	None	愛
+𢟪	xi4	止息	None	None
+𢟪	xi4	静	None	None
+𢝅	xia2	[㦄𢝅]见“㦄”	None	None
+愍	min3	悲痛；忧伤	None	None
+愍	min3	忧患；祸乱	None	None
+愍	min3	怜恤；哀怜	None	None
+愍	min3	抚爱；抚养	None	None
+愍	min3	勉强；强制	None	None
+愍	fen1	心乱	None	None
+㥨	shui4	不悦貌	None	None
+㥨	wei3	怒	None	None
+愗	mao4	[怐愗]见“怐”	None	None
+愗	mao4	同=懋	None	懋
+㥤	None	同=今称	None	今
+𢝇	huo4	心惊貌	None	None
+𢜾	None	同=悈	None	悈
+𢝂	du2	憧	None	None
+愜	qie4	快意；满足	None	None
+愜	qie4	恰当；合适	None	None
+愜	qie4	心服	None	None
+𢝒	None	同=㥠	None	㥠
+愤	None	=憤的简化字	None	憤
+𢜳	chi4	小怒	None	None
+𢜮	wu3	抚爱；怜爱	None	None
+愖	chen2	同=忱 诚信	None	忱
+愖	dan1	同=媅 逸乐	None	媅
+愖	xin4	[愖愖]心不正	None	None
+愅	ge2	同=諽 改变	None	諽
+惵	die2	恐惧	None	None
+惵	die2	盈余	None	None
+惵	die2	同=㥈 安	None	㥈
+惵	tie1	同=怗 静	None	怗
+愺	cao3	[愺恅]1.心乱 2.寂静	None	None
+𢟉	None	同=嗒	None	嗒
+慌	huang1	散亡	None	None
+慌	huang1	急迫；忙乱	None	None
+慌	huang1	恐惧	None	None
+慌	huang3	模糊；不真切	None	None
+慌	huang3	梦呓	None	None
+慌	huang5	用作补语，表示难以忍受 如：闷得慌；累得慌	None	None
+愝	yan3	[愝惼]心地狭窄	None	None
 愊	None	录入中	None	None
 惰	None	录入中	None	None
 𢜩	None	录入中	None	None
