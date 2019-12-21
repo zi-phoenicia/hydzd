@@ -48579,33 +48579,56 @@
 𢜵	None	同=𢜴	None	𢜴
 𢟋	dui1	[𢟋惕]旧指一种鬼名 又作“=垖惕”、“=埠惕”	None	垖
 𢝺	None	同=遁	None	遁
-愉	None	录入中	None	None
-𢜰	None	录入中	None	None
-𢜭	None	录入中	None	None
-𢝾	None	录入中	None	None
-愋	None	录入中	None	None
-𢜻	None	录入中	None	None
-惾	None	录入中	None	None
-𢜴	None	录入中	None	None
-惸	None	录入中	None	None
-𢝻	None	录入中	None	None
-愡	None	录入中	None	None
-𢝁	None	录入中	None	None
-惇	None	录入中	None	None
-㥫	None	录入中	None	None
-𢜺	None	录入中	None	None
-𢝋	None	录入中	None	None
-𢜬	None	录入中	None	None
-愔	None	录入中	None	None
-𢞞	None	录入中	None	None
-㥪	None	录入中	None	None
-㥢	None	录入中	None	None
-㥞	None	录入中	None	None
-愃	None	录入中	None	None
-𢞏	None	录入中	None	None
-𢝀	None	录入中	None	None
-愘	None	录入中	None	None
-𢜶	None	录入中	None	None
+愉	yu2	快乐；喜悦	None	None
+愉	yu2	温和	None	None
+愉	yu2	悦服	None	None
+愉	yu2	通=歈 歌	None	歈
+愉	yu2	通=諭(yu4) 理解	None	諭
+愉	yu2	通=俞 这样	None	俞
+愉	tou1	通=偷 1.苟且；偷安；懈怠 2.盗取	None	偷
+愉	yu3	劳困而病	None	None
+𢜰	yan4	快	None	None
+𢜰	yan3	同=㤿 爱	None	㤿
+𢜭	ji4	同=𠊬 劳累；疲倦	None	𠊬
+𢝾	None	=淫的讹字	None	淫
+愋	xuan1	智	None	None
+愋	xuan1	恨	None	None
+愋	xuan1	忘	None	None
+愋	xuan1	同=援(yuan2)	None	援
+𢜻	cheng3	[𢜻𢟊]愚蠢貌	None	None
+惾	zong1	[困惾]壅塞不通	None	None
+𢜴	hou2	[𢜴慀]怒貌	None	None
+惸	qiong2	无兄弟	None	None
+惸	qiong2	孤独	None	None
+𢝻	None	同=愡	None	愡
+愡	None	同=憁	None	憁
+𢝁	hong1	[㥊𢝁]见“㥊”	None	None
+㥫	None	同=惇	None	惇
+𢜺	None	同=哀	None	哀
+𢝋	None	同=悢	None	悢
+𢜬	duo2	同=㤞	None	㤞
+𢜬	duo2	同=度	None	度
+𢜬	duo2	惩治	None	None
+愔	yin1	安详和悦之貌	None	None
+愔	yin1	深静貌	None	None
+𫺪	None	=懩的类推简化字	None	懩
+𢞞	mi4	忖度	None	None
+𢞞	mi2	同=𢘺 心迷惑	None	𢘺
+㥪	None	=慺的类推简化字	None	慺
+㥢	qiu2	恶	None	None
+㥢	qiu2	傲慢	None	None
+㥢	qiu2	忧郁	None	None
+㥢	jiu1	思虑	None	None
+㥞	sui4	心思深邃	None	None
+愃	xuan1	心广体胖貌	None	None
+愃	xuan1	快	None	None
+愃	xuan1	通=諠 忘记	None	諠
+𢞏	qiong2	忧貌	None	None
+𢝀	tu1	[𢝀𢢒]惭愧	None	None
+愘	qia4	[愘㤉]多心计	None	None
+愘	qia1	[㤍愘]同“㤍=㤉” 神色不外露	None	㤉
+愘	ke4	同=愙	None	愙
+𢜶	sao4	快	None	None
 惲	None	录入中	None	None
 惼	None	录入中	None	None
 慨	None	录入中	None	None
