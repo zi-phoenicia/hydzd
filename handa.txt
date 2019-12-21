@@ -48629,10 +48629,14 @@
 愘	qia1	[㤍愘]同“㤍=㤉” 神色不外露	None	㤉
 愘	ke4	同=愙	None	愙
 𢜶	sao4	快	None	None
-惲	None	录入中	None	None
-惼	None	录入中	None	None
-慨	None	录入中	None	None
-𢝄	None	录入中	None	None
+惲	yun4	敦厚；浑厚	None	None
+惲	yun4	谋划；商议	None	None
+惲	yun4	姓	None	None
+惼	bian3	同=褊 心胸狭隘；急躁	None	褊
+慨	kai3	愤激貌	None	None
+慨	kai3	感叹；忧伤	None	None
+慨	kai3	不吝惜	None	None
+𢝄	None	同=𢝅(䫗)	None	𢝅
 㥡	None	录入中	None	None
 㥝	None	录入中	None	None
 惽	None	录入中	None	None
