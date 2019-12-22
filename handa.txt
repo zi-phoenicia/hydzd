@@ -43262,22 +43262,73 @@
 朑	None	同=屉	None	屉
 䒿	None	=膋的类推简化字	None	膋
 𦙶	None	同=股	None	股
-胡	None	录入中	None	None
-胢	None	录入中	None	None
-胚	None	录入中	None	None
-𦚈	None	录入中	None	None
-𦚉	None	录入中	None	None
-胧	None	录入中	None	None
-胈	None	录入中	None	None
-胓	None	录入中	None	None
-𦙻	None	录入中	None	None
-胨	None	录入中	None	None
-胩	None	录入中	None	None
-背	None	录入中	None	None
-胋	None	录入中	None	None
-胪	None	录入中	None	None
-胆	None	录入中	None	None
-䏣	None	录入中	None	None
+胡	hu2	兽颔下垂肉	None	None
+胡	hu2	颈；喉咙	None	None
+胡	hu2	戈上下垂如胡的部分	None	None
+胡	hu2	戟	None	None
+胡	hu2	下；下垂	None	None
+胡	hu2	大	None	None
+胡	hu2	老，长寿	None	None
+胡	hu2	遐；远	None	None
+胡	hu2	任意乱来	None	None
+胡	hu2	黑	None	None
+胡	hu2	代词 表示疑问 1.相当于“何” 2.相当于“什么”、“怎样”	None	None
+胡	hu2	副词 表示疑问或反问，相当于“岂”	None	None
+胡	hu2	祭器 也作=瑚	None	瑚
+胡	hu2	古代称北方和西方的少数民族	None	None
+胡	hu2	古国名 其地在今安徽省阜阳市西北	None	None
+胡	hu2	姓	None	None
+胡	hu2	=鬍的简化字	None	鬍
+胢	None	同=䯊	None	䯊
+⿰月𪩲	None	同=胏	None	胏
+胚	pei1	初期发育的生物体 由精细胞和卵细胞结合发展而成	None	None
+胚	pei1	事物的开端	None	None
+胚	pei1	毛=坯；半制成品 如：钢胚	None	坯
+𦚈	tuo4	[𦚈脪]畜水肠	None	None
+𦚈	tuo4	滴	None	None
+𦚈	tuo4	浇	None	None
+𦚈	tuo4	腹大貌	None	None
+𦚈	du4	广腹	None	None
+𦚉	None	同=眘(慎)	None	眘
+胧	None	=朧的简化字	None	朧
+胈	ba2	人体大腿上的细毛	None	None
+胈	ba2	洁白的肉	None	None
+胓	ping2	[胓𦠠]油脂 也作“胓䏳”	None	None
+胓	peng1	腹胀	None	None
+𦙻	None	同=脄	None	脄
+胨	None	=腖的简化字	None	腖
+胩	ka3	含异氰基(-NC)的有机化合物 通式R-NC，无色液体，有恶臭，溶于酒精和乙醚，容易被酸分解 旧称“异腈” (英carbylamine)	None	None
+背	bei4	背脊，自肩至后腰部分	None	None
+背	bei4	物体的上面、后面或反面	None	None
+背	bei4	北面的厅堂	None	None
+背	bei4	用背对着	None	None
+背	bei4	违背；违反	None	None
+背	bei4	背叛	None	None
+背	bei4	离弃；抛弃	None	None
+背	bei4	避开	None	None
+背	bei4	背诵，凭记忆诵读 如：背书；背台词	None	None
+背	bei4	背后议论	None	None
+背	bei4	把双臂放在背后或捆在背后 如：背着手	None	None
+背	bei4	同=褙 裱褙 用纸或丝织品做衬托，把字画书籍等装潢起来	None	褙
+背	bei4	日旁气向外部分	None	None
+背	bei4	去世	None	None
+背	bei4	失去知觉	None	None
+背	bei4	冷僻，与“热闹”相对 如：背静；冷背货	None	None
+背	bei4	听觉不灵	None	None
+背	bei4	不顺；不利	None	None
+背	bei4	量词 指背的东西	None	None
+背	bei4	用同=閉(bi4)	None	閉
+背	bei4	姓	None	None
+背	bei1	负荷，用脊背驮	None	None
+胋	tian2	大羹	None	None
+胋	tian2	肥	None	None
+胪	None	=臚的简化字	None	臚
+⿱⿺丄口月	None	同=胥	None	胥
+胆	tan2	胆口脂泽	None	None
+胆	tan3	同=膻 袒露	None	膻
+胆	da2	[臈胆]见“臈”	None	None
+胆	dan3	同=膽	None	膽
+䏣	None	同=蛆	None	蛆
 胛	None	录入中	None	None
 胂	None	录入中	None	None
 𦚊	None	录入中	None	None
