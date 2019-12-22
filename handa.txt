@@ -44159,25 +44159,59 @@
 欸	eh2	叹词 表示诧异 如：欸，老张怎么不辞而别？	None	None
 欸	eh3	叹词 表示不以为然 如：欸，这件事还值得登报？	None	None
 欸	eh4	叹词 表示应允 如：欸，我明天准时来	None	None
-款	None	录入中	None	None
-𣣋	None	录入中	None	None
-㰳	None	录入中	None	None
-欺	None	录入中	None	None
-𣣙	None	录入中	None	None
-㰲	None	录入中	None	None
-欹	None	录入中	None	None
-𣣚	None	录入中	None	None
-𣣌	None	录入中	None	None
-𣣕	None	录入中	None	None
-𣣍	None	录入中	None	None
-歄	None	录入中	None	None
-𣣉	None	录入中	None	None
-𣣒	None	录入中	None	None
-𣣈	None	录入中	None	None
-𣣏	None	录入中	None	None
-欿	None	录入中	None	None
-𣣓	None	录入中	None	None
-𣣛	None	录入中	None	None
+款	kuan3	意有所欲	None	None
+款	kuan3	亲爱；亲密	None	None
+款	kuan3	诚恳；衷心	None	None
+款	kuan3	议和；讲和	None	None
+款	kuan3	臣服；归附	None	None
+款	kuan3	招待；款待	None	None
+款	kuan3	留；歇息	None	None
+款	kuan3	缓慢	None	None
+款	kuan3	至；到达	None	None
+款	kuan3	款式；规格；样子	None	None
+款	kuan3	条目；分项列举的事项	None	None
+款	kuan3	钱财；经费 如：筹款；巨款	None	None
+款	kuan3	重	None	None
+款	kuan3	空	None	None
+款	kuan3	钟鼎彝器上铸刻的文字	None	None
+款	kuan3	击；敲	None	None
+款	xin1	人名用字	None	None
+𣣋	ling2	同=倰 欺凌	None	倰
+㰳	ya4	[欭㰳]驴叫	None	None
+㰳	ya1	气逆	None	None
+㰳	ya1	极	None	None
+欺	qi1	骗；欺诈	None	None
+欺	qi1	欺压；欺负	None	None
+欺	qi1	压倒；胜过	None	None
+欺	qi1	误	None	None
+欺	qi1	通=䫏 丑貌	None	䫏
+𣣙	None	同=款	None	款
+㰲	yu4	吹气	None	None
+㰲	yu4	哕恶声	None	None
+㰲	xu4	吹貌	None	None
+欹	None	同=攲	None	攲
+𣣚	an4	@	None	None
+𣣌	zi4	复苏；复活	None	None
+𣣌	si4	病	None	None
+⿰⿱止天欠	None	同=款	None	款
+⿰⿳⺊目一欠	None	同=𣣸	None	𣣸
+𣣕	None	同=歑	None	歑
+𣣍	None	同=𣣕(歑)	None	𣣕
+歄	gua1	[歄𣢉]微弱貌	None	None
+𣣉	None	同=𣢒	None	𣢒
+𣣒	kan3	动貌	None	None
+⿰⿺𠃊釆欠	None	同=𭭏	None	𭭏
+⿰⿳亽一心欠	None	同=唸	None	唸
+𣣈	dian4	[𣣈㕧]同“=唸㕧” 呻吟	None	唸
+𣣏	hun1	不可知	None	None
+欿	kan3	贪；贪欲	None	None
+欿	kan3	自感不足；不自满足	None	None
+欿	kan3	忧愁貌	None	None
+欿	kan3	同=坎 1.坑；地面低陷的地方 2.卦名 3.象声词	None	坎
+欿	qian4	方言 心有所欲；想念	None	None
+欿	dan4	[坎欿]古地名 故址在今河南省巩义市东	None	None
+𣣓	None	同=欠	None	欠
+𣣛	None	同=炊	None	炊
 㰶	None	录入中	None	None
 㰵	None	录入中	None	None
 㰴	None	录入中	None	None
