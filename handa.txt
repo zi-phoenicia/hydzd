@@ -42912,18 +42912,51 @@
 𤕘	yu1	叹词	None	None
 𤕘	wu4	@	None	None
 𤕛	None	同=摯	None	摯
-月	None	录入中	None	None
-𣍝	None	录入中	None	None
-肊	None	录入中	None	None
-𦘭	None	录入中	None	None
-有	None	录入中	None	None
-𦘰	None	录入中	None	None
-𦘩	None	录入中	None	None
-䏌	None	录入中	None	None
-𣍞	None	录入中	None	None
-𦘲	None	录入中	None	None
-肍	None	录入中	None	None
-𦘪	None	录入中	None	None
+月	yue4	月亮，月球	None	None
+月	yue4	计时的单位 一年分为十二个月 农历，从朔至晦为一月 月大三十日，月小二十九日，三年加一闰月 阳历，月大三十一日，月小三十日；二月平为二十八日，闰则为二十九日 农历置闰于月，阳历置闰于日	None	None
+月	yue4	每月	None	None
+月	yue4	月光；月色	None	None
+月	yue4	像月亮一样的（颜色或形状）	None	None
+月	yue4	指妇女的月经	None	None
+月	yue4	指妇女怀胎的月份	None	None
+月	yue4	姓	None	None
+月	rou4	同=肉	None	肉
+𣍝	None	同=舟	None	舟
+肊	None	同=臆	None	臆
+⿰月乚	None	同=肊	None	肊
+𦘭	None	同=飣	None	飣
+有	you3	与“無”相对 1.表示存在 2.呈现；产生；发生 3.领有；具有；专有；拥有	None	None
+有	you3	取，获得	None	None
+有	you3	保存；保护	None	None
+有	you3	丰收	None	None
+有	you3	果 1.“十二因缘”之一的“果报” 2.对“空”、“无”而言	None	None
+有	you3	中国哲学用语 与“无”相对，指可感觉的实物，最普遍的存在	None	None
+有	you3	表示确定的，可计数的	None	None
+有	you3	（连用）表示一部分	None	None
+有	you3	表示不定指	None	None
+有	you3	用于某些动词前组成套语，表示客气 如：有请；有劳；有偏	None	None
+有	you3	旧时卑应尊呼唤的应对语 今亦作应对语，无尊卑之分	None	None
+有	you3	尊对卑进见时的习惯用语 意谓“等着”	None	None
+有	you3	助词 1.名词词头，多用在国名、族名、物名之前 2.用在谓词前	None	None
+有	you3	相当于“以” 用，使用	None	None
+有	you3	相当于“或” 或许	None	None
+有	you3	相当于“為”	None	None
+有	you3	相当于“於(于)”	None	None
+有	you3	通=域(yu4) 州域	None	域
+有	you3	通=囿(you4) 拘谨；局限	None	囿
+有	you3	通=友 相亲爱	None	友
+有	you3	通=右(佑you4) 佑助；帮助	None	右
+有	you3	姓	None	None
+有	you4	通=又 1.表示重复连续 2.用于整数与零数之间	None	又
+有	wei3	同=洧 古水名 即今河南省双洎河	None	洧
+𦘰	None	同=䀎	None	䀎
+𦘩	pi3	吹肉	None	None
+䏌	xi4	振动	None	None
+䏌	yi4	同=佾	None	佾
+𣍞	None	同=服	None	服
+𦘲	pi3	次肉	None	None
+肍	qiu2	熟肉酱 一说干肉酱	None	None
+𦘪	chi4	肉滑貌	None	None
 肌	None	录入中	None	None
 肎	None	录入中	None	None
 肋	None	录入中	None	None
@@ -44465,22 +44498,35 @@
 𣤳	xi1	呵气	None	None
 𣤲	e4	同=諤 正直的话	None	諤
 㱋	que4	高	None	None
-𣤱	None	录入中	None	None
-𣤷	None	录入中	None	None
-歡	None	录入中	None	None
-𣤴	None	录入中	None	None
-𣤵	None	录入中	None	None
-𣤼	None	录入中	None	None
-𣤺	None	录入中	None	None
-𣤶	None	录入中	None	None
-㱌	None	录入中	None	None
-𣤹	None	录入中	None	None
-𣤻	None	录入中	None	None
-㱍	None	录入中	None	None
-㱎	None	录入中	None	None
-𣤿	None	录入中	None	None
-𣥀	None	录入中	None	None
-𣥁	None	录入中	None	None
+𣤱	chan2	笑	None	None
+𣤷	za1	鸣	None	None
+歡	huan1	欢乐	None	None
+歡	huan1	交好；友好	None	None
+歡	huan1	古时男女相爱，对情人的称呼	None	None
+歡	huan1	方言 起劲；热闹	None	None
+歡	huan1	古方言 造帆称为欢	None	None
+歡	huan1	指饮食	None	None
+歡	huan1	通=勸(quan4) 尽力	None	勸
+𣤴	xi1	口发声	None	None
+𣤴	xi1	同=㱆 相笑	None	㱆
+𣤵	ying3	怒气	None	None
+𣤼	None	同=㱆	None	㱆
+𣤺	za1	声 ……按：……当即𣤶子之伪	None	None
+𣤶	zu2	[歍𣤶]口相就	None	None
+𣤶	zu2	取气貌	None	None
+𣤶	za1	[𣤶𣣴]发声	None	None
+𣤶	zan3	切断的菖蒲根	None	None
+㱌	ye4	取	None	None
+㱌	che4	[㱌㱌]气动的样子	None	None
+𣤹	None	同=釂	None	釂
+𣤻	None	同=色	None	色
+㱍	luan2	欠貌	None	None
+㱍	luan2	迷惑不解	None	None
+⿰⿳罒水魚欠	None	同=㱎	None	㱎
+㱎	kun1	[㱎干]不可知 也作“=𣤿干”	None	𣤿
+𣤿	None	同=㱎	None	㱎
+𣥀	None	同=𣤁	None	𣤁
+𣥁	None	同=歎	None	歎
 殳	shu1	古代兵器名 以竹、木制成，一端有棱	None	None
 殳	shu1	㦸柄	None	None
 殳	shu1	古代船尾用以控制方向的工具	None	None
