@@ -43653,30 +43653,82 @@
 朗	lang3	开朗	None	None
 朗	lang3	响亮	None	None
 朗	lang3	姓	None	None
-脓	None	录入中	None	None
-𦚣	None	录入中	None	None
-𦚪	None	录入中	None	None
-𦛑	None	录入中	None	None
-𦚦	None	录入中	None	None
-脀	None	录入中	None	None
-𦚩	None	录入中	None	None
-脇	None	录入中	None	None
-脅	None	录入中	None	None
-䏬	None	录入中	None	None
-能	None	录入中	None	None
-𦚲	None	录入中	None	None
-𦛁	None	录入中	None	None
-𦛣	None	录入中	None	None
-𦛘	None	录入中	None	None
-䏳	None	录入中	None	None
-䏯	None	录入中	None	None
-脚	None	录入中	None	None
-𦛕	None	录入中	None	None
-𦛖	None	录入中	None	None
-𦜬	None	录入中	None	None
-㬸	None	录入中	None	None
-𦚟	None	录入中	None	None
-脙	None	录入中	None	None
+𣍯	None	=腪的类推简化字	None	腪
+脓	None	=膿的简化字	None	膿
+𦚣	hen2	同=跟 脚后跟	None	跟
+𦚣	hen2	肉𦚣	None	None
+𦚪	None	同=䑂	None	䑂
+𦛑	None	同=䐢	None	䐢
+𦚦	zheng1	同=脀 熟	None	脀
+脀	cheng2	愚笨；痴呆	None	None
+脀	zheng1	把熟肉装进鼎俎	None	None
+脀	zheng1	盛在俎里的熟肉	None	None
+脀	zheng1	熟	None	None
+脀	zheng4	[臖脀]肿	None	None
+𬚹	wa3	[𬚹𦛐]肥的样子	None	None
+𬚹	wa3	肥	None	None
+脇	None	同=脅	None	脅
+脅	xie2	从腋下至肋骨尽处	None	None
+脅	xie2	肋骨	None	None
+脅	xie2	旁边；边侧	None	None
+脅	xie2	马鞅	None	None
+脅	xie2	逼迫，以威力逼人	None	None
+脅	xie2	责求	None	None
+脅	xie2	恐惧	None	None
+脅	xian4	妨	None	None
+脅	xi1	通=翕 敛缩	None	翕
+䏬	mou3	脊	None	None
+能	neng2	一种像熊的野兽	None	None
+能	neng2	才能；技能	None	None
+能	neng2	有才能的人	None	None
+能	neng2	实行	None	None
+能	neng2	兼备	None	None
+能	neng2	能够	None	None
+能	neng2	善于；长于	None	None
+能	neng2	亲善；和睦	None	None
+能	neng2	中国古代哲学认识论的术语 “能知”和“所知”是一对范畴 能是“能知”的简称，所是“所知”的简称，即认识主体与认识对象的关系	None	None
+能	neng2	能量 度量物质运动的一种物理量，一般解释为物质做功的能力 能的基本类型有：位能、动能、热能、电能、光能、化学能和原子能 一种能也可以转化成另一种能 能的大小用功率单位来表示	None	None
+能	neng2	及；到	None	None
+能	neng2	代词 表示指示或程度，相当于“如此”、“这样”	None	None
+能	neng2	宁；宁可	None	None
+能	neng2	会有	None	None
+能	neng2	多 少数民族用语	None	None
+能	neng2	副词 1.表示动态，相当于“乃”、“就” 2.表示程度，相当于“何其” 3.表示范围或程度，相当于“只”、“仅”	None	None
+能	neng2	连词 表示转折或相承，相当于“而”	None	None
+能	tai2	通=台 星名	None	台
+能	tai2	通=胎(tai1)	None	胎
+能	tai2	通=態(tai4) 形状	None	態
+能	tai2	通=治(zhi4) 治理	None	治
+能	nai2	三足鳖	None	None
+能	nai2	传说中的兽名	None	None
+能	nai4	通=耐 经受得住	None	耐
+能	nai4	姓	None	None
+能	xiong2	兽名 后作=熊	None	熊
+𦚲	None	同=䐢	None	䐢
+𦛁	None	同=腦	None	腦
+⿰月𭟯	None	同=䏼	None	䏼
+𦛣	yan2	短的样子	None	None
+𦛘	he2	肉	None	None
+䏳	zhe4	[胓䏳]同“胓=𦠠” 油脂；牛羊脂	None	𦠠
+䏳	zhe4	脟皮	None	None
+䏯	None	同=痣	None	痣
+⿰月𡉵	None	同=朓	None	朓
+脚	jiao3	小腿 后指腿的下端，接触地面、支持身体和行走的部分 本作=腳	None	腳
+脚	jiao3	脚掌，人和动物行走器官接触地面部分	None	None
+脚	jiao3	物体的下端 如：墙脚；雨脚；床脚	None	None
+脚	jiao3	抓住脚	None	None
+脚	jiao3	脚步	None	None
+脚	jiao3	担任传递或运输的人	None	None
+脚	jiao3	帮手	None	None
+脚	jiao3	沉淀物或残渣	None	None
+脚	jue2	[脚色]1.出身履历 2.传统戏曲中的人物类型	None	None
+𦛕	qu1	同=胠 腋下	None	胠
+𦛖	che4	肉动	None	None
+𦜬	None	同=肭	None	肭
+㬸	tiao1	祭名	None	None
+𦚟	yi2	猪胰腺体；猪息肉 后作=胰	None	胰
+脙	xiu1	瘦	None	None
+脙	xiu1	同=䏫 腹脊之间	None	䏫
 脖	None	录入中	None	None
 脯	None	录入中	None	None
 𦛟	None	录入中	None	None
