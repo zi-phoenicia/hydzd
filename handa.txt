@@ -43172,15 +43172,53 @@
 𭨬	None	同=肰	None	肰
 𦙊	qi4	同=肐 身体振动	None	肐
 𦙅	None	同=𦘴	None	𦘴
-肩	None	录入中	None	None
-䏙	None	录入中	None	None
-䏐	None	录入中	None	None
-𦙠	None	录入中	None	None
-䏖	None	录入中	None	None
-𦙨	None	录入中	None	None
-䏔	None	录入中	None	None
-肥	None	录入中	None	None
-服	None	录入中	None	None
+肩	jian1	人的颈下与两臂相连部分 如：肩头；并肩前进	None	None
+肩	jian1	四足动物前腿的根部 如：豚肩；羊肩	None	None
+肩	jian1	担，担负 如：身肩重任	None	None
+肩	jian1	任用	None	None
+肩	jian1	胜任	None	None
+肩	jian1	等级	None	None
+肩	jian1	三四岁的兽类	None	None
+肩	jian1	量词	None	None
+肩	jian1	姓	None	None
+肩	xian2	瘦小的样子	None	None
+肩	xian2	直貌	None	None
+䏙	tan3	多汁的肉酱 后作=醓	None	醓
+䏙	dan4	[䏙𦠑]短丑貌	None	None
+䏙	zhuan3	月落有明	None	None
+⿰月冗	None	同=䏙	None	䏙
+𪱛	yin3	古官名	None	None
+𪱛	yin3	姓	None	None
+䏐	jue2	臀孔	None	None
+𦙠	None	同=胝	None	胝
+䏖	zhen4	伤痕	None	None
+䏖	zhen4	急遽	None	None
+䏖	yin3	背脊肌肉	None	None
+𦙨	None	=盻的讹字	None	盻
+䏔	niu3	吃肉	None	None
+䏔	zhou3	同=肘 大小臂相接凸起处	None	肘
+䏔	rou4	同=腬 质量好的肉	None	腬
+䏔	nv4	同=衄 鼻出血	None	衄
+肥	fei2	胖，脂肪多（跟“瘦”相对，现一般不用来形容人）	None	None
+肥	fei2	（植物）茁壮、厚实	None	None
+肥	fei2	油脂	None	None
+肥	fei2	厚；丰富	None	None
+肥	fei2	富裕	None	None
+肥	fei2	（土地）肥沃	None	None
+肥	fei2	使土地肥沃	None	None
+肥	fei2	指供给养分使植物发育生长的物质 如：积肥；化肥；多收少收在于肥	None	None
+肥	fei2	（衣服等）又宽又大	None	None
+肥	fei2	不正当的财物	None	None
+肥	fei2	水同源异流	None	None
+肥	fei2	通=飛(fei1)	None	飛
+肥	fei2	春秋时白狄族建立的国名	None	None
+肥	fei2	姓	None	None
+肥	bi3	薄	None	None
+服	fu2	从事	None	None
+服	fu2	实行	None	None
+服	fu2	任用；使用	None	None
+服	fu2	承受（刑役）	None	None
+服	fu2	职事；职位	None	None
 胁	None	录入中	None	None
 𦙉	None	录入中	None	None
 𦚫	None	录入中	None	None
