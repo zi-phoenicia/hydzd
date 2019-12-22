@@ -49236,37 +49236,67 @@
 𢠵	None	同=惝 怅惘	None	惝
 𢡿	None	同=憪	None	憪
 𢢀	None	同=憪	None	憪
-憪	None	录入中	None	None
-憫	None	录入中	None	None
-㦖	None	录入中	None	None
-𢡎	None	录入中	None	None
-憬	None	录入中	None	None
-憒	None	录入中	None	None
-憚	None	录入中	None	None
-㦍	None	录入中	None	None
-𢠼	None	录入中	None	None
-㦒	None	录入中	None	None
-𢡀	None	录入中	None	None
-憮	None	录入中	None	None
-𢢃	None	录入中	None	None
-憍	None	录入中	None	None
-憡	None	录入中	None	None
-懏	None	录入中	None	None
-憔	None	录入中	None	None
-𢡋	None	录入中	None	None
-懊	None	录入中	None	None
-𢡁	None	录入中	None	None
-憣	None	录入中	None	None
-𢡽	None	录入中	None	None
-𢠿	None	录入中	None	None
-𢡓	None	录入中	None	None
-㦓	None	录入中	None	None
-憱	None	录入中	None	None
-憞	None	录入中	None	None
-𢡒	None	录入中	None	None
-𢡐	None	录入中	None	None
-𢡏	None	录入中	None	None
-𢡝	None	录入中	None	None
+憪	xian2	愉悦；闲适	None	None
+憪	xian4	不安貌	None	None
+憪	xian4	愤激貌	None	None
+憪	xian4	宽大	None	None
+憪	xian4	戾	None	None
+憫	min3	忧愁；烦闷	None	None
+憫	min3	怜恤；哀怜	None	None
+㦖	None	同=懣	None	懣
+𢡎	yu4	意	None	None
+憬	jing3	觉悟	None	None
+憬	jing3	远行貌	None	None
+憒	kui4	昏乱	None	None
+憚	dan4	畏难；畏惧	None	None
+憚	dan4	敬畏	None	None
+憚	dan4	憎恶；忌恨	None	None
+憚	dan4	盛怒；威盛貌	None	None
+憚	dan4	用同=彈(tan2) 动弹	None	彈
+憚	dan4	通=癉 劳苦	None	癉
+憚	dan4	通=亶(dan3) 诚实	None	亶
+憚	da2	通=怛 1.使惊恐 2.惨痛	None	怛
+憚	chan3	轻慢	None	None
+㦍	None	同=愕	None	愕
+𢠼	mai2	[𢠼慀]心不平	None	None
+㦒	li2	[㦒忚]也作“㦒𢘬” 欺骗；轻慢	None	None
+㦒	li2	同=謧 多言	None	謧
+𢡀	hei1	惛	None	None
+憮	wu3	爱抚	None	None
+憮	wu3	哀怜	None	None
+憮	wu3	思	None	None
+憮	wu3	怅然失意貌	None	None
+憮	wu3	惊愕貌	None	None
+憮	wu3	同，兼	None	None
+憮	wu3	通=嫵 媚好貌	None	嫵
+憮	wu2	空	None	None
+𢢃	None	同=憋	None	憋
+憍	jiao1	同=驕 1.骄傲 2.放纵 3.怜爱	None	驕
+憍	jiao1	高仰	None	None
+憡	ce4	疼痛	None	None
+懏	jun4	聪慧	None	None
+憔	qiao2	[憔悴]1.枯瘦；枯萎 2.困苦；困顿 3.忧患；忧貌	None	None
+𢡋	None	同=㤒	None	㤒
+懊	ao4	悔恨	None	None
+懊	ao4	烦乱	None	None
+懊	yu4	贪	None	None
+𢡁	xi1	心热貌	None	None
+憣	fan1	心动	None	None
+憣	fan1	通=翻 变动	None	翻
+𢡽	None	同=惜	None	惜
+𢠿	gui4	谐	None	None
+𢡓	None	同=𢠽	None	𢠽
+⿲忄角⿱𠂉⿻丨二	None	同=懈	None	懈
+㦓	xian4	意难	None	None
+㦓	ran3	同=㒄 意志脆弱 一说恐惧	None	㒄
+憱	chou4	忧愁；变色改容	None	None
+憞	dui4	同=憝	None	憝
+憞	dun4	[憞溷]烦浊；烦乱	None	None
+憞	tun1	[憞惃]心不明	None	None
+𢡒	zhi4	志	None	None
+𢡐	None	同=懠	None	懠
+𢡏	nuo3	盛受；容受 ……按：……当是=𢄴字俗讹	None	𢄴
+𢡝	None	同=憤	None	憤
 憧	None	录入中	None	None
 憐	None	录入中	None	None
 𢢝	None	录入中	None	None
