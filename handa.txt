@@ -48898,8 +48898,14 @@
 慸	di4	[慸芥]也作“慸葪” 细小的梗塞物 比喻嫌隙	None	None
 慸	di4	[慸忦]也作“=㦅忦” 心不安	None	㦅
 慸	chi4	同=懘 音败不和	None	懘
-憂	None	录入中	None	None
-慭	None	录入中	None	None
+憂	you1	忧虑；担忧	None	None
+憂	you1	困难；忧患	None	None
+憂	you1	疾病	None	None
+憂	you1	特指父母的丧事	None	None
+憂	you1	闭塞不通	None	None
+憂	you1	通=優 1.平和；宽和 2.戏谑	None	優
+憂	you1	姓	None	None
+慭	None	同=憖	None	憖
 𢡷	None	录入中	None	None
 慮	None	录入中	None	None
 㦂	None	录入中	None	None
