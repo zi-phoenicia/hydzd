@@ -43989,11 +43989,15 @@
 脼	lang3	同=朗	None	朗
 𦜚	None	同=肴	None	肴
 𦝀	None	[𦟈𦝀]见“𦟈”	None	None
-𦜭	None	录入中	None	None
-䐀	None	录入中	None	None
-腌	None	录入中	None	None
-𦜒	None	录入中	None	None
-𦝐	None	录入中	None	None
+𦜭	mang3	方言 粗壮	None	None
+䐀	ji4	肢解牲口躯体	None	None
+䐀	ji4	𦢙	None	None
+腌	yan1	用盐浸渍肉	None	None
+腌	a1	脏；弄脏	None	None
+腌	a1	恶劣；穷酸	None	None
+腌	a1	形容极甚（用于贬义）	None	None
+𦜒	fan3	淫肿	None	None
+𦝐	None	同=皰(疱)	None	皰
 𦜮	None	录入中	None	None
 䐁	None	录入中	None	None
 脻	None	录入中	None	None
