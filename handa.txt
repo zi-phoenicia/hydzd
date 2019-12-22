@@ -43506,39 +43506,60 @@
 胯	kua4	同=跨 （分开两腿）坐；骑	None	跨
 胯	kua4	量词 古代茶叶数量单位	None	None
 胯	kua3	腇肥貌	None	None
-𦛏	None	录入中	None	None
-脄	None	录入中	None	None
-𦛙	None	录入中	None	None
-𣍰	None	录入中	None	None
-胰	None	录入中	None	None
-胵	None	录入中	None	None
-𦚚	None	录入中	None	None
-𦙼	None	录入中	None	None
-𦚺	None	录入中	None	None
-胱	None	录入中	None	None
-𦚝	None	录入中	None	None
-𦚤	None	录入中	None	None
-𦚢	None	录入中	None	None
-𦚭	None	录入中	None	None
-𦚼	None	录入中	None	None
-胴	None	录入中	None	None
-𦛗	None	录入中	None	None
-胭	None	录入中	None	None
-𦚽	None	录入中	None	None
-𦚻	None	录入中	None	None
-𦛎	None	录入中	None	None
-朒	None	录入中	None	None
-𦚥	None	录入中	None	None
-脡	None	录入中	None	None
-䏦	None	录入中	None	None
-𦛰	None	录入中	None	None
-䏫	None	录入中	None	None
-𦛓	None	录入中	None	None
-脠	None	录入中	None	None
-䏨	None	录入中	None	None
-𦚡	None	录入中	None	None
-胻	None	录入中	None	None
-脈	None	录入中	None	None
+𦛏	ku1	臀	None	None
+脄	None	同=脢	None	脢
+𦛙	sheng4	肥	None	None
+𣍰	None	同=脥	None	脥
+胰	yi2	夹脊肉	None	None
+胰	yi2	人和高等动物腺体之一 能分泌胰液，帮助消化；又能分泌胰岛素，调节糖的新陈代谢	None	None
+⿰月尧	None	=膮的类推简化字	None	膮
+胵	chi1	鸟胃	None	None
+胵	chi1	鸟兽五脏总名	None	None
+胵	zhi4	同=𦟔 肥	None	𦟔
+胵	zhi4	[郁胵]地名	None	None
+𦚚	None	同=𦙼(胔)	None	𦙼
+𦙼	None	同=胔	None	胔
+𦚺	None	同=脠	None	脠
+胱	guang1	[膀胱]1.人或其他高等动物体内储存尿液的囊状器官 2.胁	None	None
+𦚝	peng1	腹胀的样子	None	None
+𦚤	None	同=腴	None	腴
+𦚢	yue1	手足痉挛	None	None
+𦚭	None	同=䏣(蛆)	None	䏣
+𦚼	qu1	[𦚼䐐]膝关节	None	None
+胴	dong4	大肠	None	None
+胴	dong4	躯干；体腔	None	None
+胴	dong4	[侗胴]1.形状 2.直的样子	None	None
+𦛗	lv3	脊柱	None	None
+胭	yan1	同=咽 咽喉	None	咽
+胭	yan1	胭脂	None	None
+𦚽	None	同=胞	None	胞
+𦚻	None	同=𦙱	None	𦙱
+𦛎	None	同=胏	None	胏
+朒	nv4	古称农历月初月亮在东方出现为“朒”，亦名“側慝”	None	None
+朒	nv4	不足；亏缺	None	None
+朒	nv4	皱缩，不伸展；迟缓貌	None	None
+朒	nv4	折伤	None	None
+⿱𠔿肎	None	同=骨	None	骨
+𦚥	zhui4	同=腄 古县名	None	腄
+𦚥	you2	同=肬(疣)	None	肬
+脡	ting3	条状的干肉	None	None
+脡	ting3	直	None	None
+脡	ting3	牲畜脊梁的中间部分	None	None
+䏦	gua1	脂肪	None	None
+䏦	tian1	同=胋 肥	None	胋
+𦛰	qi4	@	None	None
+䏫	xiu1	腹脊之间	None	None
+𦛓	ju1	肥	None	None
+脠	shan1	生肉酱	None	None
+脠	chan1	鱼酱	None	None
+䏨	hui3	[䏨𦞙]也作“𦞙䏨” 大肿貌	None	None
+䏨	dui1	同=𤷎 肿	None	𤷎
+𦚡	xie4	同=𦞚 脂肪；特指胸部的脂肪	None	𦞚
+𦚡	mai4	用同脉	None	None
+胻	heng2	胫骨上部	None	None
+胻	heng2	牛势胻	None	None
+胻	heng2	肚	None	None
+脈	None	同=脉	None	脉
 𦛐	None	录入中	None	None
 脍	None	录入中	None	None
 脎	None	录入中	None	None
