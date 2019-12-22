@@ -49297,41 +49297,91 @@
 𢡐	None	同=懠	None	懠
 𢡏	nuo3	盛受；容受 ……按：……当是=𢄴字俗讹	None	𢄴
 𢡝	None	同=憤	None	憤
-憧	None	录入中	None	None
-憐	None	录入中	None	None
-𢢝	None	录入中	None	None
-憎	None	录入中	None	None
-憦	None	录入中	None	None
-𢡾	None	录入中	None	None
-𢠲	None	录入中	None	None
-憳	None	录入中	None	None
-㦎	None	录入中	None	None
-𢢁	None	录入中	None	None
-㦏	None	录入中	None	None
-憕	None	录入中	None	None
-𢠺	None	录入中	None	None
-憰	None	录入中	None	None
-𢡖	None	录入中	None	None
-𢡌	None	录入中	None	None
-𢢂	None	录入中	None	None
-𢢿	None	录入中	None	None
-懃	None	录入中	None	None
-懋	None	录入中	None	None
-𢢞	None	录入中	None	None
-𢣓	None	录入中	None	None
-𢡆	None	录入中	None	None
-𢢤	None	录入中	None	None
-𢣉	None	录入中	None	None
-𢢹	None	录入中	None	None
-𢤉	None	录入中	None	None
-㦛	None	录入中	None	None
-𢤒	None	录入中	None	None
-㦘	None	录入中	None	None
-懇	None	录入中	None	None
-𢢣	None	录入中	None	None
-𢢦	None	录入中	None	None
-應	None	录入中	None	None
-憋	None	录入中	None	None
+憧	chong1	[憧憧]1.意不定 2.往来不绝貌 3.摇曳不定貌	None	None
+憧	chong1	通=憃 愚笨	None	憃
+憧	chong1	通=衝 向上冲	None	衝
+憧	zhuang4	[戇憧]凶顽；愚顽	None	None
+憐	lian2	哀怜；同情	None	None
+憐	lian2	爱	None	None
+憐	lian2	通=吝 惜	None	吝
+憐	lian2	通=鄰(lin2) 比邻	None	鄰
+𢢝	None	同=㥞	None	㥞
+⿰忄𠔥	None	同=慊	None	慊
+憎	zeng1	憎恨；嫌恶	None	None
+憎	zeng1	畏惧	None	None
+憎	zeng1	难	None	None
+憦	lao4	[懊憦]后悔	None	None
+憦	lao2	同=憥	None	憥
+𢡾	None	同=眇	None	眇
+𢠲	fu4	怒	None	None
+憳	tan3	[憳忒]心不安	None	None
+㦎	hua4	乖戾	None	None
+㦎	hua4	愚蠢无知	None	None
+㦎	hua4	划分清楚	None	None
+㦎	hua4	通=嫿(hua4) 文静貌	None	嫿
+𢢁	chan2	[𢢁⿰忄愁]烦恼；忧愁	None	None
+㦏	sun3	[愞㦏]也作“㦏愞” 软弱貌	None	None
+㦏	xuan4	喜悦	None	None
+憕	cheng2	平	None	None
+憕	cheng2	[憕𢘌]失志	None	None
+憕	zheng4	心静	None	None
+憕	deng4	[懵憕]神志不清醒	None	None
+𢠺	bo2	心起	None	None
+憰	jue2	欺诈	None	None
+𢡖	None	同=慘	None	慘
+𢡌	None	同=慺	None	慺
+𢢂	jie2	@ ……一说同=結	None	結
+⿱𣪊志	None	同=愨	None	愨
+𢢿	None	同=慤	None	慤
+懃	qin2	同=勤 1.勤劳；劳苦 2.努力；尽力 3.殷勤；恳切 4.愁苦	None	勤
+懃	qin2	姓	None	None
+懋	mao4	勤勉；努力	None	None
+懋	mao4	劝勉；勉励	None	None
+懋	mao4	盛大	None	None
+懋	mao4	美好	None	None
+懋	mao4	喜悦	None	None
+懋	mao4	姓	None	None
+𢢞	qi4	疲惫	None	None
+𢢞	qi4	害怕	None	None
+𢢞	qi4	极；剧	None	None
+𢢞	ji4	忧愁	None	None
+𢢞	ji4	敕诫	None	None
+𢢞	kuai4	同=𡢖 难	None	𡢖
+𢣓	lie4	[𢣓㤴]轻薄貌	None	None
+𢡆	None	同=懇	None	懇
+⿱⿰⿳业厶土寸心	None	同=憝	None	憝
+𢢤	None	同=照	None	照
+𢣉	yi1	象声词 呻吟声	None	None
+𢢹	xiong4	@	None	None
+𢤉	None	同=籌 踌躇	None	籌
+㦛	yu3	[㦛㦛]行步安详貌	None	None
+㦛	yu2	恭敬貌	None	None
+𢤒	None	同=患	None	患
+㦘	ji1	同=憿 疾速	None	憿
+㦘	ji1	定	None	None
+⿱𬥈心	None	=𢤧的类推简化字	None	𢤧
+懇	ken3	诚信；真诚	None	None
+懇	ken3	请求	None	None
+懇	ken3	悲	None	None
+𢢣	None	同=懈	None	懈
+𢢦	None	同=轡	None	轡
+應	ying1	应当；应该	None	None
+應	ying1	是	None	None
+應	ying1	副词 1.表示运动行为是立即进行的，相当于“很快”、“立即” 2.表示推测或想象，相当于“恐”、“恐怕”	None	None
+應	ying1	古国名 故址在今河南省鲁山县东	None	None
+應	ying1	姓	None	None
+應	ying4	受；接受	None	None
+應	ying4	应允；承诺	None	None
+應	ying4	应声回答	None	None
+應	ying4	应和；响应	None	None
+應	ying4	魏晋诗文属和谓“應”	None	None
+應	ying4	适应；适合	None	None
+應	ying4	应付；对付 如：应变；应急	None	None
+應	ying4	支付；供给	None	None
+應	ying4	应验	None	None
+應	ying4	迎击	None	None
+應	ying4	小鼓	None	None
+應	ying4	乐器名 长六尺五寸，其中有椎，撞地以发声	None	None
 懑	None	录入中	None	None
 憵	None	录入中	None	None
 𢢡	None	录入中	None	None
