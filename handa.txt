@@ -48996,58 +48996,92 @@
 慳	xian2	老人智	None	None
 慓	piao1	急疾；迅捷	None	None
 𦑑	tuo2	飞貌	None	None
-慽	None	录入中	None	None
-㦅	None	录入中	None	None
-㦋	None	录入中	None	None
-𢟠	None	录入中	None	None
-慡	None	录入中	None	None
-𢟵	None	录入中	None	None
-𢟧	None	录入中	None	None
-憈	None	录入中	None	None
-㦆	None	录入中	None	None
-𢟶	None	录入中	None	None
-憆	None	录入中	None	None
-慺	None	录入中	None	None
-慢	None	录入中	None	None
-慖	None	录入中	None	None
-𢠮	None	录入中	None	None
-𢟿	None	录入中	None	None
-慛	None	录入中	None	None
-慯	None	录入中	None	None
-慟	None	录入中	None	None
-憁	None	录入中	None	None
-𢠽	None	录入中	None	None
-憏	None	录入中	None	None
-𢠫	None	录入中	None	None
-𢟴	None	录入中	None	None
-𢟦	None	录入中	None	None
-慷	None	录入中	None	None
-慵	None	录入中	None	None
-㦇	None	录入中	None	None
-慞	None	录入中	None	None
-㦃	None	录入中	None	None
-𢟰	None	录入中	None	None
-𢟳	None	录入中	None	None
-𢟣	None	录入中	None	None
-𢟱	None	录入中	None	None
-慻	None	录入中	None	None
-𢟷	None	录入中	None	None
-𢠳	None	录入中	None	None
-𢠠	None	录入中	None	None
-𢟭	None	录入中	None	None
-𢠭	None	录入中	None	None
-𢟫	None	录入中	None	None
-𢠡	None	录入中	None	None
-𢟸	None	录入中	None	None
-𢠻	None	录入中	None	None
-㦑	None	录入中	None	None
-𢠢	None	录入中	None	None
-憜	None	录入中	None	None
-𢡣	None	录入中	None	None
-㦕	None	录入中	None	None
-慴	None	录入中	None	None
-𢟺	None	录入中	None	None
-憀	None	录入中	None	None
+慽	None	同=慼	None	慼
+㦅	die1	[㦅㦅]不自安	None	None
+㦅	di4	[㦅忦]同“=慸忦” 心不安	None	慸
+㦋	zha1	荒唐；虚妄	None	None
+𢟠	None	同=𢤬(憤)	None	𢤬
+慡	shuang3	同=爽 性格爽朗	None	爽
+𢟵	bi1	同=悂 意併	None	悂
+𢟧	lu3	[𢟨𢟧]见“𢟨”	None	None
+憈	qu1	怯懦	None	None
+㦆	hu1	[㦆⿰忄瓜]夸大虚妄	None	None
+㦆	xia1	[㦆忦]无志气	None	None
+𢟶	None	同=懅	None	懅
+憆	None	同=瞠	None	瞠
+慺	lou2	恭谨貌	None	None
+慺	lou2	不轻	None	None
+慺	lou2	下情	None	None
+慺	lou2	喜悦	None	None
+慺	lv3	姓	None	None
+⿰忄𭦗	None	同=慢	None	慢
+慢	man4	怠惰；懈怠	None	None
+慢	man4	轻视；对人无礼貌	None	None
+慢	man4	骄傲；傲慢	None	None
+慢	man4	慢走	None	None
+慢	man4	缓慢	None	None
+慢	man4	简略；随便	None	None
+慢	man4	放肆；无节制	None	None
+慢	man4	不牢固	None	None
+慢	man4	漂亮；神采奕奕	None	None
+慢	man4	稀疏	None	None
+慢	man4	唐、宋词的一种体制，以调长声缓得名 如：木兰花慢；西江月慢；卜算子慢	None	None
+慢	man4	通=墁 涂抹	None	墁
+慢	man2	同=悗 惑	None	悗
+慖	guo2	心乱	None	None
+慖	guo2	恨	None	None
+𢠮	tui4	同=㥆 忘记	None	㥆
+𢟿	huan2	慢	None	None
+慛	cui1	忧愁；悲伤	None	None
+慯	shang1	同=傷 忧伤；哀痛	None	傷
+慯	shang1	思念	None	None
+慟	tong4	极度悲伤；大哭	None	None
+⿲忄亻⿱左月	None	同=惰	None	惰
+⿰忄⿳丿𠕎木	None	同=慄	None	慄
+憁	cong4	[憁恫]也错“=愡恫”、“=𢛌恫” 1.卤莽；无知貌 2.奔走；钻营 3.不得志貌	None	愡
+憁	song1	[惺憁]也作“惺=憽”、“惺=鬆” 明白；清醒；机警	None	憽
+憁	song1	义同=鬆	None	鬆
+𢠽	dang4	同=愓 放荡	None	愓
+憏	chi4	[㤞憏]1.疑而未定 2.同“侘=傺” 失意貌	None	傺
+𢠫	shu4	耻	None	None
+𢟴	tui2	放纵	None	None
+𢟦	None	同=惃	None	惃
+慷	kang1	[慷慨]1.情绪激昂 2.性格豪放 3.感叹 4.大方；不吝啬	None	None
+慵	yong1	懒	None	None
+慵	yong1	用同=庸 平庸；庸俗	None	庸
+㦇	lu4	心闲	None	None
+㦇	lu4	心转	None	None
+慞	zhang1	[慞惶]彷徨疑慏貌	None	None
+慞	zhang1	惧怕	None	None
+㦃	chan3	完美的品德	None	None
+㦃	chan3	多	None	None
+𢟰	ai4	[忦𢟰]悭吝人 又指悭吝	None	None
+𢟳	lv4	忧闷	None	None
+𢟣	yang4	怅恨	None	None
+𢟱	teng2	[懵𢟱]迷乱	None	None
+慻	juan4	回顾	None	None
+𢟷	None	同=憣	None	憣
+𢠳	None	同=憋	None	憋
+𢠠	None	同=𢟭	None	𢟭
+𢟭	kou4	[𢟭𢟭]勤力	None	None
+𢠭	ba1	@	None	None
+𢟫	None	同=慏	None	慏
+𢠡	sao4	快性	None	None
+𢟸	None	同=㦎	None	㦎
+𢠻	None	同=㥆	None	㥆
+㦑	xian4	怒	None	None
+㦑	han1	同=憨	None	憨
+𢠢	None	同=慰	None	慰
+憜	None	同=惰	None	惰
+𢡣	None	同=隳	None	隳
+㦕	long2	意	None	None
+慴	she4	恐惧	None	None
+慴	she4	威慑；使慑服	None	None
+𢟺	None	同=憀	None	憀
+憀	liao2	明白清楚	None	None
+憀	liao2	依赖；寄托	None	None
+憀	liao2	姑且	None	None
+憀	liao2	悲恨	None	None
 慘	None	录入中	None	None
 慣	None	录入中	None	None
 𢡰	None	录入中	None	None
