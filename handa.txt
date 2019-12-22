@@ -44091,25 +44091,59 @@
 䐋	cong1	赤色	None	None
 𦜳	None	同=晶	None	晶
 𦜴	tun2	人名 也作=臀	None	臀
-䐄	None	录入中	None	None
-䐇	None	录入中	None	None
-𦜵	None	录入中	None	None
-𦜡	None	录入中	None	None
-朜	None	录入中	None	None
-腋	None	录入中	None	None
-腑	None	录入中	None	None
-脺	None	录入中	None	None
-𦜶	None	录入中	None	None
-䏽	None	录入中	None	None
-𦜍	None	录入中	None	None
-𦜈	None	录入中	None	None
-𦝑	None	录入中	None	None
-𠗲	None	录入中	None	None
-勝	None	录入中	None	None
-腃	None	录入中	None	None
-𦝤	None	录入中	None	None
-腅	None	录入中	None	None
-𦜷	None	录入中	None	None
+𬛆	None	同=吻	None	吻
+䐄	xian4	吃肉不满足	None	None
+䐄	xian4	膇䐄，足肿	None	None
+䐄	han4	烧肉使熟	None	None
+䐇	wen3	同=吻	None	吻
+䐇	chun2	同=脣	None	脣
+𦜵	None	同=脙	None	脙
+𦜡	None	同=炙	None	炙
+朜	None	同=㬿	None	㬿
+腋	ye4	夹肢窝	None	None
+腋	ye4	禽兽翅膀或前腿内侧和胸部相连的部分	None	None
+腋	ye4	同=掖 扶助；提携	None	掖
+腑	fu3	胃、胆、膀胱、三焦、大小肠的总称	None	None
+腑	fu3	心怀	None	None
+腑	fu3	同=腐	None	腐
+脺	cui4	同=脃(脆) 容易折断或破碎	None	脃
+脺	sui4	面容光泽	None	None
+脺	sui4	脑	None	None
+𦜶	None	同=膀	None	膀
+䏽	bu4	肉酱	None	None
+䏽	pei2	姓	None	None
+𦜍	pang4	同=肨	None	肨
+𦜈	None	同=䐑	None	䐑
+𦝑	None	同=育	None	育
+𠗲	None	同=凌	None	凌
+勝	sheng4	能承担；禁得起 如：力不能胜；胜任工作；不胜其烦	None	None
+勝	sheng4	相当；相称 一说通=稱	None	稱
+勝	sheng4	尽 如：不可胜数；不胜感激；不胜枚举	None	None
+勝	sheng4	通=升 表容积单位的量词	None	升
+勝	sheng4	通=伸(shen1) 舒展开	None	伸
+勝	sheng4	胜利；赢 跟“败”相反	None	None
+勝	sheng4	胜过；超过 如：一个胜似一个；事实胜于雄辩	None	None
+勝	sheng4	任用；施行	None	None
+勝	sheng4	克制；制服	None	None
+勝	sheng4	被灭亡的 专用于“胜国”、“胜朝”	None	None
+勝	sheng4	凌驾；欺凌	None	None
+勝	sheng4	盛	None	None
+勝	sheng4	良；美好；佳妙 如：胜会；胜侣；胜概	None	None
+勝	sheng4	有名的；上等的	None	None
+勝	sheng4	特指名胜古迹	None	None
+勝	sheng4	古代妇女盛妆的一种首饰 一名“華(花)勝”	None	None
+勝	sheng4	织布机上持经线的轴	None	None
+腃	kui4	筋节屈伸	None	None
+腃	quan1	身体弯曲	None	None
+腃	quan2	嘴唇	None	None
+腃	juan4	同=睠(眷)	None	睠
+腃	juan4	身体弯曲	None	None
+𦝤	ban4	肤肉疏貌	None	None
+腅	dan4	肉	None	None
+腅	dan4	肴	None	None
+腅	dan4	一同喝酒	None	None
+腅	dan4	一同吃饭	None	None
+𦜷	None	同=𦞌	None	𦞌
 腙	None	录入中	None	None
 腚	None	录入中	None	None
 𦜸	None	录入中	None	None
