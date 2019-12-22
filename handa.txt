@@ -44102,33 +44102,63 @@
 欱	xia2	同=𦦕 尝	None	𦦕
 𣢲	qian1	多智慧	None	None
 𣢸	None	同=款	None	款
-𣢪	None	录入中	None	None
-㰬	None	录入中	None	None
-𣢷	None	录入中	None	None
-欬	None	录入中	None	None
-欮	None	录入中	None	None
-欴	None	录入中	None	None
-𣢫	None	录入中	None	None
-𣢩	None	录入中	None	None
-𣣐	None	录入中	None	None
-𣢮	None	录入中	None	None
-欶	None	录入中	None	None
-㰯	None	录入中	None	None
-㰮	None	录入中	None	None
-㰰	None	录入中	None	None
-𣣇	None	录入中	None	None
-𣢻	None	录入中	None	None
-欳	None	录入中	None	None
-𣢽	None	录入中	None	None
-欫	None	录入中	None	None
-㰱	None	录入中	None	None
-欷	None	录入中	None	None
-敛	None	录入中	None	None
-欲	None	录入中	None	None
-𣢺	None	录入中	None	None
-欵	None	录入中	None	None
-𣣝	None	录入中	None	None
-欸	None	录入中	None	None
+𣢪	gui3	疲极	None	None
+㰬	xun2	气逆	None	None
+㰬	xun2	信	None	None
+𣢷	ou3	缩鼻；呕吐	None	None
+⿰⿱六十欠	None	同=㰵	None	㰵
+欬	kai4	咳嗽；逆气	None	None
+欬	ai4	同=噫 胃里的气体从嘴里出来并发出声音	None	噫
+⿰⿱丷帀欠	None	同=欮	None	欮
+欮	jue2	同=瘚 气逆病	None	瘚
+欮	jue2	同=撅(掘) 挖掘；发掘	None	撅
+欮	jue2	通=蹶 跌倒；挫折	None	蹶
+⿰⿱丷⿻𠆣𠃊欠	None	同=欮	None	欮
+欴	lang2	[欴㰠]贪貌	None	None
+𣢫	wang3	佞人	None	None
+𣢫	wang1	=妄	None	妄
+𣢩	None	同=𣣲	None	𣣲
+𣣐	None	同=欷	None	欷
+𣢮	None	同=巸	None	巸
+欶	shuo4	吮吸；饮	None	None
+欶	sou4	同=嗽 咳嗽	None	嗽
+㰯	tou4	相与语唾而不受	None	None
+㰯	tou4	唾声	None	None
+㰯	tou3	唾 一说同=否	None	否
+㰯	hou4	[數㰯]见“數”	None	None
+㰮	shen3	指而笑	None	None
+㰰	xia4	喘息	None	None
+㰰	qie4	羡欲	None	None
+㰰	he4	[㰰㰨]气逆；喘息	None	None
+𣣇	None	同=款	None	款
+𣢻	None	同=款	None	款
+欳	kui4	同=喟 叹息	None	喟
+𣢽	None	同=𣢬	None	𣢬
+欫	qi4	吹声 ……一说=𦈫的讹字	None	𦈫
+㰱	None	同=歃	None	歃
+欷	xi1	叹息；抽泣	None	None
+⿰佥欠	None	=歛的类推简化字	None	歛
+欲	yu4	欲望，想要达到某种目的或得到某种东西 如：求知欲；食欲	None	None
+欲	yu4	爱；爱好	None	None
+欲	yu4	邪淫；色欲	None	None
+欲	yu4	想；想要 如：畅所欲言	None	None
+欲	yu4	愿意	None	None
+欲	yu4	要；需要	None	None
+欲	yu4	将；将要	None	None
+欲	yu4	婉顺貌	None	None
+𣢺	han1	含笑	None	None
+𣢺	han1	贪欲	None	None
+欵	None	同=款	None	款
+𣣝	ji2	错喉	None	None
+欸	ai1	大声呵斥	None	None
+欸	ai1	叹息	None	None
+欸	ai1	应答声，表示同意	None	None
+欸	ai3	[欸乃]摇橹声	None	None
+欸	xie4	同=譮	None	譮
+欸	eh1	叹词 表示招呼 如：欸，我告诉你一个秘密	None	None
+欸	eh2	叹词 表示诧异 如：欸，老张怎么不辞而别？	None	None
+欸	eh3	叹词 表示不以为然 如：欸，这件事还值得登报？	None	None
+欸	eh4	叹词 表示应允 如：欸，我明天准时来	None	None
 款	None	录入中	None	None
 𣣋	None	录入中	None	None
 㰳	None	录入中	None	None
