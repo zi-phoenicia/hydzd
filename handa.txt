@@ -43977,12 +43977,18 @@
 𦜫	None	同=䐑	None	䐑
 𦝏	zhuan3	同=膞 切成块的肉	None	膞
 𦝏	shuan4	同=𢮛 望绳取正	None	𢮛
-腖	None	录入中	None	None
-𦜌	None	录入中	None	None
-腎	None	录入中	None	None
-脼	None	录入中	None	None
-𦜚	None	录入中	None	None
-𦝀	None	录入中	None	None
+腖	dong4	肉胨	None	None
+腖	dong4	蛋白胨的简称 有机化合物 医学上用作细菌的培养基，又可用来治疗消化道疾病	None	None
+𦜌	None	同=胗	None	胗
+腎	shen4	人和高等动物的泌尿器官	None	None
+腎	shen4	坚固	None	None
+腎	shen4	中医称睾丸为肾或外肾 如：肾囊	None	None
+脼	liang2	干肉	None	None
+脼	liang2	夹脊肉	None	None
+脼	liang2	多味	None	None
+脼	lang3	同=朗	None	朗
+𦜚	None	同=肴	None	肴
+𦝀	None	[𦟈𦝀]见“𦟈”	None	None
 𦜭	None	录入中	None	None
 䐀	None	录入中	None	None
 腌	None	录入中	None	None
