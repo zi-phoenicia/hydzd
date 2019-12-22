@@ -49082,45 +49082,93 @@
 憀	liao2	依赖；寄托	None	None
 憀	liao2	姑且	None	None
 憀	liao2	悲恨	None	None
-慘	None	录入中	None	None
-慣	None	录入中	None	None
-𢡰	None	录入中	None	None
-𢡘	None	录入中	None	None
-憙	None	录入中	None	None
-𢠱	None	录入中	None	None
-𢡱	None	录入中	None	None
-𢡲	None	录入中	None	None
-憼	None	录入中	None	None
-憖	None	录入中	None	None
-憗	None	录入中	None	None
-𢡴	None	录入中	None	None
-𢡵	None	录入中	None	None
-憠	None	录入中	None	None
-𢡶	None	录入中	None	None
-𢢌	None	录入中	None	None
-𢡑	None	录入中	None	None
-𢡸	None	录入中	None	None
-㦔	None	录入中	None	None
-𢡻	None	录入中	None	None
-𢠸	None	录入中	None	None
-𢢸	None	录入中	None	None
-㦌	None	录入中	None	None
-憩	None	录入中	None	None
-憊	None	录入中	None	None
-𢣍	None	录入中	None	None
-𢡕	None	录入中	None	None
-𢠾	None	录入中	None	None
-𢡔	None	录入中	None	None
-𢡹	None	录入中	None	None
-憌	None	录入中	None	None
-𢡺	None	录入中	None	None
-𢢍	None	录入中	None	None
-憑	None	录入中	None	None
-憝	None	录入中	None	None
-𢡃	None	录入中	None	None
-𢠀	None	录入中	None	None
-𢠴	None	录入中	None	None
-憥	None	录入中	None	None
+慘	can3	狠毒；凶恶	None	None
+慘	can3	忧愁；凄惨	None	None
+慘	can3	寒冷	None	None
+慘	can3	疼痛	None	None
+慘	can3	羞惭	None	None
+慘	can3	惊怕	None	None
+慘	can3	程度严重；厉害 如：惨败；损失惨重	None	None
+慘	can3	残杀；残害	None	None
+慘	can3	丧事	None	None
+慘	can3	指浅色	None	None
+慘	can3	贪婪	None	None
+慘	can3	通=黲 昏暗	None	黲
+慘	can3	通=憯 助词 曾；乃	None	憯
+慣	guan4	习惯；习以为常	None	None
+慣	guan4	纵容；迁就	None	None
+慣	guan4	用同=貫 通；穿	None	貫
+𢡰	zhao4	明	None	None
+𢡘	None	同=惠	None	惠
+憙	xi3	喜悦 后作=喜	None	喜
+憙	xi3	喜好；爱好	None	None
+憙	xi3	指容易发生某种变化	None	None
+𢠱	None	同=赧	None	赧
+𢡱	None	同=慤	None	慤
+⿱⿰⿳士冖口殳心	None	同=慤	None	慤
+𢡲	None	同=聒	None	聒
+憼	jing3	尊敬	None	None
+憼	jing3	同=儆 戒备；警戒	None	儆
+憼	jing4	同=敬 严肃	None	敬
+憖	yin4	愿意；宁肯	None	None
+憖	yin4	损伤；残缺	None	None
+憖	yin4	忧伤	None	None
+憖	yin4	闲	None	None
+憖	yin4	恭谨	None	None
+憖	yin4	喜悦	None	None
+憖	yin4	且	None	None
+憖	xin4	笑貌	None	None
+憖	yin2	[厥憖]古地名	None	None
+憗	None	同=憖	None	憖
+𢡴	ji1	忧愁	None	None
+𢡵	ruan3	@	None	None
+憠	None	同=𠢤	None	𠢤
+𢡶	None	同=慹	None	慹
+𢢌	chang4	[𢢌懯]急速貌	None	None
+𢡑	li4	谨	None	None
+𢡸	None	同=𥇇	None	𥇇
+㦔	None	同=懕	None	懕
+𢡻	None	同=憫	None	憫
+𢠸	None	同=憚	None	憚
+𢢸	None	同=禍	None	禍
+㦌	hu1	精明而憨厚	None	None
+㦌	hu1	熟睡	None	None
+㦌	xu4	睡醒	None	None
+憩	qi4	休息	None	None
+憊	bei4	同=𢞎 极度疲乏，困顿	None	𢞎
+憊	bei4	衰竭；危殆	None	None
+憊	bei4	劣；坏	None	None
+𢣍	None	同=憊	None	憊
+𢡕	None	同=惕	None	惕
+𢠾	None	同=憩	None	憩
+𢡔	None	同=懼	None	懼
+𢡹	chong4	@	None	None
+憌	qiong2	忧愁	None	None
+𢡺	None	用同=化	None	化
+⿱⿰角⿱𠂉⿻丨二心	None	同=懈	None	懈
+𢢍	zhe2	同=慹 不动貌	None	慹
+憑	ping2	倚；靠着	None	None
+憑	ping2	依赖；倚仗	None	None
+憑	ping2	占据	None	None
+憑	ping2	怒；愤懑	None	None
+憑	ping2	满	None	None
+憑	ping2	大；盛	None	None
+憑	ping2	凭据；证书	None	None
+憑	ping2	依照；作为依据	None	None
+憑	ping2	烦；请	None	None
+憑	ping2	任；随	None	None
+憑	ping2	厚	None	None
+憑	ping2	同=馮 无舟渡河	None	馮
+憑	ping2	姓	None	None
+憝	dui4	怨恨；憎恶	None	None
+憝	dui4	凶恶 也指恶人	None	None
+⿱⿰⿳亠㐅⿲丿二丨殳心	None	同=慤	None	慤
+𢡃	yi4	满	None	None
+𢡃	yi4	同=億 数词 古指十万，今指一万万	None	億
+𢠀	None	同=惪	None	惪
+𢠴	None	同=憐	None	憐
+憥	lao2	心力困乏	None	None
+憥	lao2	同=勞	None	勞
 𢡂	None	录入中	None	None
 憲	None	录入中	None	None
 𢢧	None	录入中	None	None
