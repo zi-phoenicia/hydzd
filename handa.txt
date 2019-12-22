@@ -43154,12 +43154,24 @@
 股	gu3	量词 用于成条或成批的东西，也用于气体 如：一股泉水；一股敌军；一股热气	None	None
 股	gu3	我国古代称不等腰直角三角形中较长的直角边	None	None
 𦘿	he4	肥	None	None
-𦙟	None	录入中	None	None
-肮	None	录入中	None	None
-肪	None	录入中	None	None
-育	None	录入中	None	None
-𦙊	None	录入中	None	None
-𦙅	None	录入中	None	None
+⿱⿹勹又月	None	同=胸	None	胸
+𦙟	None	同=臍	None	臍
+肮	hang2	大脉	None	None
+肮	gang1	同=亢 颈项；咽喉	None	亢
+肮	ang1	=骯的简化字	None	骯
+肪	fang2	脂肪 也特指动物腰部肥厚的肉	None	None
+育	yu4	生育	None	None
+育	yu4	成长	None	None
+育	yu4	培养	None	None
+育	yu4	幼稚	None	None
+育	yu4	车枕的前部	None	None
+育	yu4	古代的一种茶具	None	None
+育	yu4	姓	None	None
+育	zhou4	同=胄 后嗣	None	胄
+育	yo1	[杭育]象声词 集体进行重体力劳动时呼喊的声音 如：一群抬巨石的人口中发出“杭育杭育”的声音	None	None
+𭨬	None	同=肰	None	肰
+𦙊	qi4	同=肐 身体振动	None	肐
+𦙅	None	同=𦘴	None	𦘴
 肩	None	录入中	None	None
 䏙	None	录入中	None	None
 䏐	None	录入中	None	None
