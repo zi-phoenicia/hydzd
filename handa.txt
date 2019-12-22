@@ -43729,11 +43729,19 @@
 𦚟	yi2	猪胰腺体；猪息肉 后作=胰	None	胰
 脙	xiu1	瘦	None	None
 脙	xiu1	同=䏫 腹脊之间	None	䏫
-脖	None	录入中	None	None
-脯	None	录入中	None	None
-𦛟	None	录入中	None	None
-脨	None	录入中	None	None
-䏸	None	录入中	None	None
+脖	bo2	[脖胦]肚脐	None	None
+脖	bo2	颈项，头与躯干连接部分 ……引申为躯体的其他两部分相连的部分 如：手脖子；脚脖子 又引申为器物上像脖的部分 如：这个瓶子脖儿长	None	None
+脯	fu3	干肉	None	None
+脯	fu3	熟肉	None	None
+脯	fu3	干燥脱水的瓜果 如：桃脯；杏脯	None	None
+脯	fu3	使之成为干肉	None	None
+脯	fu3	用同=晡 傍晚	None	晡
+脯	pu2	同=酺	None	酺
+脯	pu2	胸部 如：挺着脯子	None	None
+𦛟	geng3	同=鯁 骨头卡在喉咙里	None	鯁
+脨	cu4	[丳脨]同“丳𦠁” 炙筋	None	None
+脨	ji2	同=膌(瘠) 瘦	None	膌
+䏸	None	同=䐳(䁩)	None	䐳
 脰	None	录入中	None	None
 脤	None	录入中	None	None
 脣	None	录入中	None	None
