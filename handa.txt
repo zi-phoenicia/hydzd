@@ -43447,28 +43447,65 @@
 胇	fei4	同=肺 肺脏	None	肺
 胇	bi4	[胇肸]大貌	None	None
 𦙬	None	同=䏘	None	䏘
-胥	None	录入中	None	None
-朏	None	录入中	None	None
-𣍧	None	录入中	None	None
-𪱝	None	录入中	None	None
-𦙺	None	录入中	None	None
-䏢	None	录入中	None	None
-胫	None	录入中	None	None
-胎	None	录入中	None	None
-胟	None	录入中	None	None
-𦚞	None	录入中	None	None
-𦜅	None	录入中	None	None
-胿	None	录入中	None	None
-䏪	None	录入中	None	None
-㬴	None	录入中	None	None
-𦚬	None	录入中	None	None
-𦚸	None	录入中	None	None
-𦚠	None	录入中	None	None
-𣍭	None	录入中	None	None
-𦚹	None	录入中	None	None
-𦛒	None	录入中	None	None
-胹	None	录入中	None	None
-胯	None	录入中	None	None
+胥	xu1	蟹酱	None	None
+胥	xu1	相视；观察	None	None
+胥	xu1	扶持；辅助	None	None
+胥	xu1	小吏 特指古代掌管捕捉盗贼的小官吏 后作=偦	None	偦
+胥	xu1	有才智者 后作=諝	None	諝
+胥	xu1	须臾，短时间	None	None
+胥	xu1	木名 后作=楈	None	楈
+胥	xu1	副词 1.表示方式，相当于“互相” 2.表示范围，相当于“皆”、“都”	None	None
+胥	xu1	语气词 多用于句尾	None	None
+胥	xu1	通=須 等待	None	須
+胥	xu1	通=疏(shu1) 疏远	None	疏
+胥	xu1	姓	None	None
+朏	fei3	月未盛之明	None	None
+朏	fei3	农历每月初三日的代称	None	None
+朏	fei3	（月、星）出现，升起	None	None
+朏	fei3	天将明	None	None
+朏	ku1	臀	None	None
+朏	ku1	髋，胯骨	None	None
+朏	ku1	脚弯曲	None	None
+𣍧	fei3	同=朏 月未盛之明	None	朏
+𪱝	None	同=脀	None	脀
+𦙺	jia4	[𦙺䐒]不密	None	None
+𦙺	jia1	同=𦙲(痂) 疮痂	None	𦙲
+䏢	bi3	肉	None	None
+䏢	bi3	同=𤿚	None	𤿚
+胫	None	=脛的简化字	None	脛
+胎	tai1	人和哺乳动物孕于母体内而未生的幼体 如：怀胎；胚胎	None	None
+胎	tai1	事物的根源	None	None
+胎	tai1	养育；孕育	None	None
+胎	tai1	蚌肉里包裹的珍珠	None	None
+胎	tai1	器物的粗胚或衬里 如：铜胎；泥胎；软胎的帽子	None	None
+胎	tai1	（舌上的）垢腻	None	None
+胎	tai1	逃	None	None
+胎	tai1	通=鮐 鱼名	None	鮐
+胎	tai1	轮胎 如：车胎 (英tyre)	None	None
+胟	None	同=拇	None	拇
+𦚞	kuang1	体腔 动物体内藏脏器的空腔	None	None
+𦚞	kuang4	腹中宽	None	None
+𦜅	None	同=膀	None	膀
+胿	gui1	[腣胿]见“腣”	None	None
+胿	kui4	孔	None	None
+䏪	er3	筋腱	None	None
+㬴	hong3	[㬴㬴]月不明	None	None
+㬴	hong3	清代“三合会”专用字，用以作“月”字	None	None
+𦚬	None	同=胯	None	胯
+𦚸	geng4	竟	None	None
+𦚠	None	同=脤	None	脤
+⿰月朿	None	同=膌	None	膌
+𣍭	None	同=㮓	None	㮓
+𦚹	None	同=𣎄	None	𣎄
+𦛒	None	同=𦜜(腎)	None	𦜜
+胹	er3	烂熟	None	None
+胹	er3	煮	None	None
+⿰月⿱大⿻丨二	None	同=胯	None	胯
+胯	kua4	两大腿之间	None	None
+胯	kua4	古代革带上的饰物	None	None
+胯	kua4	同=跨 （分开两腿）坐；骑	None	跨
+胯	kua4	量词 古代茶叶数量单位	None	None
+胯	kua3	腇肥貌	None	None
 𦛏	None	录入中	None	None
 脄	None	录入中	None	None
 𦛙	None	录入中	None	None
