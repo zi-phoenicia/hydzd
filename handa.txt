@@ -43382,35 +43382,71 @@
 胍	gu1	[胍𦘴]也作“𦘴胍” 1.大腹 2.大椎	None	None
 胍	hu4	[𦘴胍]肥大貌	None	None
 胍	gua1	有机化合物 化学式为CH_5N_3，无色晶体，易潮解 用来制磺胺类药物和染料等	None	None
-𣍬	None	录入中	None	None
-胗	None	录入中	None	None
-朎	None	录入中	None	None
-𦙸	None	录入中	None	None
-𦙪	None	录入中	None	None
-胝	None	录入中	None	None
-朐	None	录入中	None	None
-𦙭	None	录入中	None	None
-𦙵	None	录入中	None	None
-胞	None	录入中	None	None
-𦙴	None	录入中	None	None
-𦚍	None	录入中	None	None
-䏠	None	录入中	None	None
-𦚎	None	录入中	None	None
-𦚏	None	录入中	None	None
-胘	None	录入中	None	None
-胖	None	录入中	None	None
-𦙮	None	录入中	None	None
-𣍥	None	录入中	None	None
-𦚐	None	录入中	None	None
-𦚑	None	录入中	None	None
-䏟	None	录入中	None	None
-脉	None	录入中	None	None
-𦙹	None	录入中	None	None
-䏤	None	录入中	None	None
-𦙷	None	录入中	None	None
-胒	None	录入中	None	None
-胇	None	录入中	None	None
-𦙬	None	录入中	None	None
+𣍬	None	同=舩	None	舩
+胗	zhen3	嘴唇溃疡	None	None
+胗	zhen3	同=疹 病人皮肤上起的小疙瘩，通常为红色	None	疹
+胗	zhen3	同=診 诊断	None	診
+胗	zhen1	禽类的胃 如：鸡胗肝儿；煠胗儿	None	None
+朎	ling2	[朎朧]月光	None	None
+𦙸	san1	萌肋	None	None
+𦙪	None	同=肩	None	肩
+胝	zhi1	手脚上因摩擦而生的硬皮，俗称茧巴	None	None
+胝	chi1	同=胵 鸟胃；鸟兽五脏总名	None	胵
+胝	di4	牲体之本	None	None
+胝	di4	通=骶 臀部	None	骶
+朐	qu2	屈曲的干肉	None	None
+朐	qu2	弯曲	None	None
+朐	qu2	远	None	None
+朐	qu2	古代植物名 也作=葋	None	葋
+朐	qu2	通=軥 车轭两边叉马颈的曲木	None	軥
+朐	qu2	古县名 秦置 在今江苏省连云港市西南锦屏山侧 梁于其地置招远县 东魏改招远县为朐县	None	None
+朐	qu2	姓	None	None
+朐	xu1	[朐衍]古代北方的一种少数民族	None	None
+朐	xu4	同=昫 温暖	None	昫
+朐	chun3	[朐忍]又作“朐䏰” 1.古县名 汉置 在今重庆市云阳县西 2.蚯蚓	None	None
+𦙭	None	同=疼	None	疼
+𦙵	None	同=腕	None	腕
+胞	bao1	人或哺乳动物妊娠期子宫内包裹胎儿的膜质囊	None	None
+胞	bao1	子宫	None	None
+胞	bao1	同父母所生的或嫡系的男女	None	None
+胞	bao1	通=脬(pao1) 膀胱	None	脬
+胞	bao1	细胞的简称 如：胞器；胞间隙	None	None
+胞	pao2	通=庖 掌宰割牲畜的人	None	庖
+胞	pao4	通=皰 面生热气	None	皰
+𦙴	zhu4	身体挺直的样子	None	None
+𦚍	None	同=胸	None	胸
+䏠	qi4	羹	None	None
+䏠	la1	[䏠𦠿]肉杂	None	None
+𦚎	None	同=景	None	景
+𦚏	None	同=樁	None	樁
+胘	xian2	牛的重瓣胃	None	None
+胘	xian2	胃	None	None
+胖	pan4	古时祭祀用的半体牲	None	None
+胖	pan4	半边	None	None
+胖	pan4	夹脊肉；胁侧薄肉	None	None
+胖	pan4	切肉成薄片	None	None
+胖	pan2	宽舒；舒坦	None	None
+胖	pang4	肥大 如：肥胖；肥头胖耳	None	None
+𦙮	ju2	姓	None	None
+𣍥	None	=𦙮的讹字	None	𦙮
+𦚐	tuo2	弯曲	None	None
+𦚐	tuo2	成团的肉	None	None
+𦚑	None	同=肩	None	肩
+䏟	bie2	肥肉	None	None
+䏟	bi4	[䏟肸]同“=胇肸” 大貌	None	胇
+脉	mai4	血脉 如：动脉；静脉	None	None
+脉	mai4	脉搏 心脏收缩时，由于输出血液的冲击引起动脉的跳动 如：脉象	None	None
+脉	mai4	切脉；诊脉	None	None
+脉	mai4	像血脉那样连贯而自成系统的事务 如：山脉；矿脉	None	None
+脉	mo4	[脉脉]默默地用眼神表达情意 如：脉脉含情；脉脉注视	None	None
+𦙹	ban4	肉	None	None
+䏤	None	同=囟	None	囟
+𦙷	None	同=尻	None	尻
+胒	ni4	杂骨肉酱	None	None
+胒	ni4	肥；脂肪多	None	None
+胇	fei4	同=肺 肺脏	None	肺
+胇	bi4	[胇肸]大貌	None	None
+𦙬	None	同=䏘	None	䏘
 胥	None	录入中	None	None
 朏	None	录入中	None	None
 𣍧	None	录入中	None	None
