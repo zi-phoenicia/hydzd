@@ -44322,27 +44322,49 @@
 歌	ge1	姓	None	None
 𣣺	sha4	同=嗄 声音嘶哑	None	嗄
 𣣸	you3	意内言外之意	None	None
-𣣴	None	录入中	None	None
-歍	None	录入中	None	None
-歋	None	录入中	None	None
-𣣽	None	录入中	None	None
-𣣳	None	录入中	None	None
-㰿	None	录入中	None	None
-㱀	None	录入中	None	None
-歊	None	录入中	None	None
-𣣵	None	录入中	None	None
-𣣼	None	录入中	None	None
-歉	None	录入中	None	None
-𣣶	None	录入中	None	None
-𣤇	None	录入中	None	None
-𣣷	None	录入中	None	None
-㱁	None	录入中	None	None
-𣣲	None	录入中	None	None
-𣣻	None	录入中	None	None
-𣤈	None	录入中	None	None
-歏	None	录入中	None	None
-歎	None	录入中	None	None
-𦻁	None	录入中	None	None
+⿰𭥭欠	None	同=歇	None	歇
+𣣴	da4	[𣤶𣣴]见“𣤶”	None	None
+歍	wu1	作呕；恶心	None	None
+歍	wu1	呕吐	None	None
+歍	wu1	呵气	None	None
+歍	yang1	[歍唈]也作“=嗚邑”、“嗚咽” 失声抽泣	None	嗚
+歋	ye2	[歋歈]也作“歋瘉”、“=擨歈” 即“=揶揄” 轻笑；嘲弄	None	擨
+𣣽	None	同=欽	None	欽
+𣣳	yao2	[𣣳𣣳]气出貌	None	None
+𣣳	yao3	出气	None	None
+㰿	xi1	叹息	None	None
+⿰⿹勹⿱山正欠	None	同=欼	None	欼
+㱀	None	同=欼	None	欼
+歊	xiao1	气上升	None	None
+歊	xiao1	热气；炎热	None	None
+歊	xiao1	嚣	None	None
+𣣵	None	同=𣣳	None	𣣳
+𣣼	None	同=嗌	None	嗌
+歉	qian4	饿；吃不饱	None	None
+歉	qian4	谷物收成不好	None	None
+歉	qian4	少；缺少；不足	None	None
+歉	qian4	坏；歹	None	None
+歉	qian4	抱愧 心中不安，觉得对不住别人	None	None
+歉	qian4	喙	None	None
+歉	qian4	同=慊 满足；快意	None	慊
+歉	qian4	用同=牽(qian1) 牵挂	None	牽
+𣣶	xie4	急气貌	None	None
+𣤇	que4	同=塙	None	塙
+𣣷	chi1	同=嗤 讥笑	None	嗤
+㱁	sui4	问	None	None
+㱁	kuan3	同=款	None	款
+𣣲	xie4	合气；屏气；抑制呼吸不出声	None	None
+𣣻	None	同=欿	None	欿
+𣤈	ze2	[𣢛𣤈]见“𣢛”	None	None
+歏	jin4	张口舒气	None	None
+歏	qun1	气盛	None	None
+歎	tan4	吟诵 也作=嘆	None	嘆
+歎	tan4	赞和 指歌尾曳声以相助	None	None
+歎	tan4	称美；赞许 也作=嘆	None	嘆
+歎	tan4	古代诗歌体裁之一	None	None
+歎	tan4	同=嘆 叹息	None	嘆
+歎	tan4	姓	None	None
+𦻁	None	同=𧂄	None	𧂄
 𣤖	None	录入中	None	None
 𣤐	None	录入中	None	None
 歐	None	录入中	None	None
