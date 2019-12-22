@@ -43998,35 +43998,84 @@
 腌	a1	形容极甚（用于贬义）	None	None
 𦜒	fan3	淫肿	None	None
 𦝐	None	同=皰(疱)	None	皰
-𦜮	None	录入中	None	None
-䐁	None	录入中	None	None
-脻	None	录入中	None	None
-𦜯	None	录入中	None	None
-䏼	None	录入中	None	None
-腓	None	录入中	None	None
-𦜰	None	录入中	None	None
-𣍺	None	录入中	None	None
-腂	None	录入中	None	None
-䐊	None	录入中	None	None
-腘	None	录入中	None	None
-腗	None	录入中	None	None
-腆	None	录入中	None	None
-䐌	None	录入中	None	None
-𦝖	None	录入中	None	None
-䐃	None	录入中	None	None
-𦝓	None	录入中	None	None
-𣍸	None	录入中	None	None
-腡	None	录入中	None	None
-𦜋	None	录入中	None	None
-𦜗	None	录入中	None	None
-𦝔	None	录入中	None	None
-腄	None	录入中	None	None
-𦜙	None	录入中	None	None
-腇	None	录入中	None	None
-腴	None	录入中	None	None
-腉	None	录入中	None	None
-脽	None	录入中	None	None
-脾	None	录入中	None	None
+𦜮	None	同=胯	None	胯
+䐁	zhuo2	臀	None	None
+䐁	zhuo2	肥	None	None
+䐁	zhuo2	同=𢁁 星名 东方苍龙七宿之一	None	𢁁
+䐁	du1	肛门	None	None
+脻	jie1	接	None	None
+脻	jie1	肩头	None	None
+𦜯	tun3	烹肉	None	None
+䏼	can2	禽兽吃剩的东西	None	None
+䏼	zhan4	腹大的样子	None	None
+腓	fei2	人的小腿肌，俗称腿肚	None	None
+腓	fei2	古代的一种剔除膝盖骨或断足的刑罚	None	None
+腓	fei2	躲避；隐蔽；庇护	None	None
+腓	fei2	通=痱 病；枯萎	None	痱
+𦜰	zhuo2	@	None	None
+⿰月𧆛	None	同=腱	None	腱
+𣍺	None	同=朏	None	朏
+腂	lei3	皮起	None	None
+腂	guo4	皮肉红肿	None	None
+腂	hua4	药草名	None	None
+腂	hua4	用同=踝(huai2) 踝子骨	None	踝
+䐊	kun1	同=蜫(䖵)	None	蜫
+䐊	hun2	[䐊肫]同“=餛飩” 饼	None	餛
+䐊	hun4	圆长貌	None	None
+腘	None	=膕的简化字	None	膕
+腗	None	同=脾	None	脾
+腆	tian3	菜饭丰盛	None	None
+腆	tian3	丰厚	None	None
+腆	tian3	厚颜	None	None
+腆	tian3	善；好	None	None
+腆	tian3	多言	None	None
+腆	tian3	美好	None	None
+腆	tian3	久	None	None
+腆	tian3	至	None	None
+腆	tian3	忘	None	None
+腆	tian3	挺起；凸出	None	None
+腆	tian3	小国 一说指国主	None	None
+䐌	None	同=腆	None	腆
+⿰月黾	None	=𣎜的类推简化字	None	𣎜
+⿰月㘴	None	同=脞	None	脞
+𦝖	ji2	肉肥而溢出油脂	None	None
+䐃	jun4	腹中或肠中的脂肪	None	None
+䐃	jun4	鸟兽脂肪聚集貌	None	None
+䐃	jun4	肌肉的突起部分	None	None
+䐃	jun4	腹中胎	None	None
+䐃	zhun1	腹中积聚成形块膜	None	None
+𦝓	None	同=𦚻(𦙱)	None	𦚻
+𣍸	po4	同=霸(魄) 月魄；月始生	None	霸
+腡	luo2	指纹	None	None
+𦜋	zhi4	鱼酱	None	None
+𦜗	None	同=𦜋	None	𦜋
+𦝔	zhi1	同=胝 茧疤	None	胝
+腄	chui2	茧疤	None	None
+腄	chui2	马或鸟胫上的结骨	None	None
+腄	chui2	臀	None	None
+腄	zhui4	古县名 秦置 治所在今山东省烟台市福山区西	None	None
+腄	chuai2	[䐯腄]同“䐯=膗” 形容丑恶	None	膗
+𦜙	None	同=飪	None	飪
+⿰月⿱丿𥃭	None	同=腯	None	腯
+腇	nei3	[萎腇]软弱	None	None
+腇	nei3	同=餧 饥饿	None	餧
+腇	nei3	同=脮(鮾) 鱼肉腐败	None	脮
+腴	yu2	腹下的肥肉	None	None
+腴	yu2	猪狗的肠子	None	None
+腴	yu2	油脂	None	None
+腴	yu2	丰满；肥胖	None	None
+腴	yu2	肥沃	None	None
+腴	yu2	丰厚	None	None
+腴	yu2	美好	None	None
+腉	nai2	乳	None	None
+脽	shui2	臀部	None	None
+脽	shui2	尾椎骨	None	None
+脽	shui2	地名 在今山西省万荣县	None	None
+脾	pi2	脾脏 人或高等动物的内脏之一，椭圆形，赤褐色，质柔软，在胃的左下侧 有制造新血细胞，破坏老血细胞，调节脂肪、蛋白质、碳水化合物的新陈代谢等作用	None	None
+脾	pi2	止	None	None
+脾	pai2	牛胃	None	None
+脾	bi3	同=髀 大腿	None	髀
+脾	pi4	盛肥	None	None
 𦜓	None	录入中	None	None
 腀	None	录入中	None	None
 𦜱	None	录入中	None	None
