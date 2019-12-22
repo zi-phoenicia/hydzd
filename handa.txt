@@ -43560,22 +43560,48 @@
 胻	heng2	牛势胻	None	None
 胻	heng2	肚	None	None
 脈	None	同=脉	None	脉
-𦛐	None	录入中	None	None
-脍	None	录入中	None	None
-脎	None	录入中	None	None
-䏩	None	录入中	None	None
-朓	None	录入中	None	None
-脁	None	录入中	None	None
-脆	None	录入中	None	None
-𦚧	None	录入中	None	None
-脂	None	录入中	None	None
-胸	None	录入中	None	None
-胷	None	录入中	None	None
-胮	None	录入中	None	None
-胳	None	录入中	None	None
-䏧	None	录入中	None	None
-㬹	None	录入中	None	None
-脃	None	录入中	None	None
+𦛐	na4	[𬚹𦛐]见“𬚹”	None	None
+脍	None	=膾的简化字	None	膾
+脎	sa4	含有相邻的两个羰基的化合物，α-羟基醛或α-羟基酮分别或和苯肼(C_6H_5NHNH_2)缩水后的衍生物 (英osazone)	None	None
+䏩	xi1	同=脅 敛缩	None	脅
+朓	tiao4	古称农历月底月亮在西方出现	None	None
+朓	tiao4	快速；行疾貌	None	None
+朓	tiao4	日晦蚀	None	None
+朓	tiao4	盈，有余	None	None
+朓	tiao4	月侧	None	None
+脁	tiao4	祭名 迁徙宗庙的祭祀	None	None
+脁	tiao4	祭肉	None	None
+脁	yao2	[脁說]好	None	None
+⿰月兊	None	同=脱	None	脱
+脆	cui4	容易折断和容易破碎	None	None
+脆	cui4	身心柔弱	None	None
+脆	cui4	轻浮	None	None
+脆	cui4	声音清亮	None	None
+脆	cui4	爽快 如：干脆；办事很脆	None	None
+𦚧	chun3	[𦚧䏰]同“=朐忍”	None	朐
+脂	zhi1	有角动物的油质	None	None
+脂	zhi1	泛指油脂，油膏	None	None
+脂	zhi1	像油脂的渗出物；排泄物	None	None
+脂	zhi1	用油膏涂物	None	None
+脂	zhi1	含脂的化妆品 特指胭脂	None	None
+脂	zhi1	俸禄优厚	None	None
+脂	zhi1	阿谀	None	None
+脂	zhi1	姓	None	None
+脂	zhi3	同=指 手指	None	指
+胸	xiong1	身体前面颈与腹之间的部分 如：胸腔；胸骨	None	None
+胸	xiong1	心中 如：胸无城府；胸有大志	None	None
+胸	xiong1	前面	None	None
+胷	None	同=胸	None	胸
+胮	pang1	[胮肛]肿胀	None	None
+胮	pang1	肥大	None	None
+胳	ge1	腋下	None	None
+胳	ge2	牲畜的后胫骨 后作=骼	None	骼
+胳	ga1	[胳肢窝]也作“=夾肢窝” 腋窝	None	夾
+䏧	na4	肥腻	None	None
+䏧	na2	[䐒䏧]不密	None	None
+䏧	chi3	肉物肥美	None	None
+㬹	zheng1	脚跟筋	None	None
+脃	None	同=脆	None	脆
 脏	None	录入中	None	None
 脐	None	录入中	None	None
 胶	None	录入中	None	None
