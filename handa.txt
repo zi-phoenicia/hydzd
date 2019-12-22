@@ -48752,12 +48752,26 @@
 𢞎	None	同=憊	None	憊
 𢟨	mu3	[𢟨𢟧]心惑	None	None
 𢞧	None	同=恂	None	恂
-慕	None	录入中	None	None
-慔	None	录入中	None	None
-𢟡	None	录入中	None	None
-慌	None	录入中	None	None
-慎	None	录入中	None	None
-慩	None	录入中	None	None
+慕	mu4	模拟；仿效	None	None
+慕	mu4	羡慕；贪慕	None	None
+慕	mu4	思慕	None	None
+慕	mu4	悲伤	None	None
+慕	mu4	姓	None	None
+慔	mu4	勉力；尽力	None	None
+𢟡	None	同=憊	None	憊
+⿰忄⿱艹㐬	None	=慌(㤺)的讹字	None	慌
+慎	shen4	谨慎；慎重	None	None
+慎	shen4	忧虑；忧惧	None	None
+慎	shen4	安静	None	None
+慎	shen4	思貌	None	None
+慎	shen4	副词 1.用在动词或形容词前，对真实性加以强调，相当于“确实” 2.与“勿”、“毋”、“莫”等连用表示禁戒，相当于“务必”、“千万”等	None	None
+慎	shen4	五岁的兽 一说通=麎 雌麋鹿	None	麎
+慎	shen4	通=引(yin3) 用大绳牵引灵柩	None	引
+慎	shen4	通=順(shun4)	None	順
+慎	shen4	姓	None	None
+慎	zhen1	[慎陽]也作“=滇陽” 古地名 在今安徽省颍上县北 又为水名	None	滇
+慎	zhen1	同=滇 水名	None	滇
+慩	None	同=㦁	None	㦁
 愽	None	录入中	None	None
 𢡍	None	录入中	None	None
 慄	None	录入中	None	None
