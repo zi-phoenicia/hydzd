@@ -43778,50 +43778,121 @@
 𦜃	xu4	肥貌	None	None
 䏹	xian3	腹䏹	None	None
 䏹	chen1	同=𧠿(𧡬)	None	𧠿
-𦛢	None	录入中	None	None
-𦜉	None	录入中	None	None
-𦜄	None	录入中	None	None
-脶	None	录入中	None	None
-𦛞	None	录入中	None	None
-𦛚	None	录入中	None	None
-朙	None	录入中	None	None
-㬶	None	录入中	None	None
-脷	None	录入中	None	None
-𦛔	None	录入中	None	None
-脢	None	录入中	None	None
-𦛤	None	录入中	None	None
-脪	None	录入中	None	None
-脸	None	录入中	None	None
-脞	None	录入中	None	None
-𦛱	None	录入中	None	None
-脟	None	录入中	None	None
-脬	None	录入中	None	None
-脮	None	录入中	None	None
-𦛜	None	录入中	None	None
-𣍶	None	录入中	None	None
-𦝝	None	录入中	None	None
-脕	None	录入中	None	None
-脗	None	录入中	None	None
-𦛦	None	录入中	None	None
-𦛡	None	录入中	None	None
-𦛲	None	录入中	None	None
-䏺	None	录入中	None	None
-𦜂	None	录入中	None	None
-𦛧	None	录入中	None	None
-𦛳	None	录入中	None	None
-𦛴	None	录入中	None	None
-脝	None	录入中	None	None
-𣍵	None	录入中	None	None
-𦛛	None	录入中	None	None
-望	None	录入中	None	None
-朚	None	录入中	None	None
-脱	None	录入中	None	None
-𣍹	None	录入中	None	None
-𦛥	None	录入中	None	None
-䏲	None	录入中	None	None
-脘	None	录入中	None	None
-朖	None	录入中	None	None
-䐚	None	录入中	None	None
+𦛢	guo2	膝盖后面的脚弯	None	None
+𦜉	None	同=脾	None	脾
+𦜄	tui4	肥貌	None	None
+脶	None	=腡的简化字	None	腡
+𦛞	yan1	同=腌	None	腌
+𦛚	nan4	[𦛚䐺]肥的样子	None	None
+朙	None	同=明	None	明
+㬶	None	同=皓	None	皓
+脷	li4	方言 舌头	None	None
+𦛔	xuan4	短	None	None
+脢	mei2	背上的肉 也特指背脊肉	None	None
+𦛤	guan3	肥𦛤	None	None
+脪	xin4	伤口愈合时，新肉略微突出	None	None
+脪	xin4	红肿发炎	None	None
+脪	chi1	[𦚈脪]见“𦚈”	None	None
+脸	None	=臉的简化字	None	臉
+脞	cuo3	小；细碎 如：脞语；脞记	None	None
+脞	cuo3	切肉	None	None
+脞	qie1	脆弱	None	None
+𦛱	qu1	同=胠 腋下	None	胠
+脟	lie4	肋骨部分的肉 如：脟条肉	None	None
+脟	lie4	肠间的脂肪	None	None
+脟	luan3	同=臠	None	臠
+脟	pao1	膀胱	None	None
+脬	pao1	膀胱	None	None
+脬	pao1	食物名	None	None
+脬	pao1	同=泡 量词 用于屎、尿 如：一脬尿	None	泡
+脮	nei3	同=鮾(鯘) 鱼腐败	None	鮾
+脮	tui3	[腲脮]见“腲”	None	None
+脮	tui3	用同=腿	None	腿
+𦛜	he2	同=頜	None	頜
+𦛜	han2	同=肣 干的肥牛肉	None	肣
+𣍶	None	=朡的讹字	None	朡
+𦝝	huan4	肥	None	None
+脕	wan4	丰满艳美的样子	None	None
+脕	wen4	同=莬 草新生	None	莬
+⿰月犾	None	同=肰	None	肰
+脗	None	同=䐇	None	䐇
+𦛦	None	同=肰	None	肰
+𦛡	None	同=肰	None	肰
+𦛲	jue2	@	None	None
+䏺	pang1	肿胀	None	None
+𦜂	None	同=肴	None	肴
+𦛧	zhi4	同=炙 烤肉	None	炙
+𦛳	None	同=腦	None	腦
+𦛴	None	同=䐢	None	䐢
+脝	heng1	[膨脝]见“膨”	None	None
+𣍵	None	同=磐	None	磐
+𦛛	None	同=𦞤	None	𦞤
+望	wang4	向高处、远处看	None	None
+望	wang4	遥祭 指古代帝王祭祀山川、日月、星辰	None	None
+望	wang4	仰视；景仰	None	None
+望	wang4	盼望；期待	None	None
+望	wang4	希图；企图	None	None
+望	wang4	视力所及；视野	None	None
+望	wang4	边际	None	None
+望	wang4	察看	None	None
+望	wang4	中医术语 指观察病人的全身和局部的神、色、形、态等	None	None
+望	wang4	看望	None	None
+望	wang4	名望；声望；威望	None	None
+望	wang4	有名的人或物；名门；望族	None	None
+望	wang4	仪容	None	None
+望	wang4	房屋的脊檩	None	None
+望	wang4	窗口	None	None
+望	wang4	酒店的招帘，即酒望	None	None
+望	wang4	草名	None	None
+望	wang4	月相名 农历每月十五日（有时是十六或十七日），地球运行到太阳和月亮之间 当太阳从西方落下去月亮正好从东方升上来的时候，地球上看见的月亮呈圆形，这种月叫望	None	None
+望	wang4	望日 天文学上指月亮圆的那一天，通常指农历每月十五日	None	None
+望	wang4	唐代行政区划的等级之一	None	None
+望	wang4	怨恨；责怪	None	None
+望	wang4	对着；向着	None	None
+望	wang4	介词 表示趋向，相当于“至”、“到”	None	None
+望	wang4	通=忘 忘记	None	忘
+望	wang4	通=妄 胡乱；虚妄	None	妄
+望	wang4	通=方(fang1) 比量	None	方
+望	wang4	唐代州名	None	None
+望	wang4	姓	None	None
+朚	huang1	翌日，明日	None	None
+朚	mang2	同=忙 遽，急忙	None	忙
+朚	mang2	同=盲	None	盲
+朚	wang2	忘	None	None
+朚	meng4	[朚倀]失道貌	None	None
+脱	tuo1	消瘦	None	None
+脱	tuo1	肉去皮骨	None	None
+脱	tuo1	离；脱离 如：脱产；脱节；脱轨	None	None
+脱	tuo1	逃脱；避免不利环境而离开	None	None
+脱	tuo1	脱落；掉下	None	None
+脱	tuo1	解除	None	None
+脱	tuo1	取下；解下；去掉 如：脱帽；脱鞋；脱衣	None	None
+脱	tuo1	照着描画；临摹	None	None
+脱	tuo1	散落；缺漏	None	None
+脱	tuo1	出	None	None
+脱	tuo1	把东西边卖出去或把货物推销出去	None	None
+脱	tuo1	形容疾病一下子消除或表示油然而生的一种情绪	None	None
+脱	tuo1	疏略；轻慢	None	None
+脱	tuo1	整体；全部	None	None
+脱	tuo1	过去	None	None
+脱	tuo1	形容离开迅速	None	None
+脱	tuo1	副词 表示频度或推断，相当于“偶尔”、“或者”	None	None
+脱	tuo1	连词 表示假设，相当于“倘若”、“或许”	None	None
+脱	tui4	舒展；身心愉快	None	None
+脱	tui4	蛇、蝉等脱去皮壳 也作=蜕	None	蜕
+脱	tui4	通=侻 恰好，合宜	None	侻
+脱	tui4	姓	None	None
+𣍹	None	同=朕	None	朕
+𦛥	None	同=腕	None	腕
+䏲	die2	同=胅	None	胅
+䏲	ti1	[䐔䏲]薄	None	None
+脘	wan3	胃的内腔	None	None
+脘	wan3	脯；胃脯	None	None
+脘	huan4	肉	None	None
+朖	None	同=朗	None	朗
+𬂁	None	同=肫	None	肫
+䐚	ji2	[䐚𦟠]膏泽	None	None
+䐚	ji2	[䐚𦟠]光泽貌	None	None
 脲	None	录入中	None	None
 䏱	None	录入中	None	None
 𦝗	None	录入中	None	None
