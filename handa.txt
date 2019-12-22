@@ -43329,29 +43329,59 @@
 胆	da2	[臈胆]见“臈”	None	None
 胆	dan3	同=膽	None	膽
 䏣	None	同=蛆	None	蛆
-胛	None	录入中	None	None
-胂	None	录入中	None	None
-𦚊	None	录入中	None	None
-胃	None	录入中	None	None
-冑	None	录入中	None	None
-胄	None	录入中	None	None
-胑	None	录入中	None	None
-胦	None	录入中	None	None
-𣍦	None	录入中	None	None
-䏥	None	录入中	None	None
-𦙱	None	录入中	None	None
-𦚋	None	录入中	None	None
-胜	None	录入中	None	None
-胅	None	录入中	None	None
-胙	None	录入中	None	None
-𦙳	None	录入中	None	None
-胣	None	录入中	None	None
-𦙰	None	录入中	None	None
-胕	None	录入中	None	None
-𦙯	None	录入中	None	None
-胉	None	录入中	None	None
-𦚌	None	录入中	None	None
-胍	None	录入中	None	None
+胛	jia3	肩胛，胳膊上边靠脖子的部分	None	None
+胂	shen1	夹脊肉	None	None
+胂	chen1	伸身	None	None
+胂	shen4	有机化合物的一类，是砷化氢(AsH_3)分子中部分或全部氢原子被烃基取代后的衍生物	None	None
+𦚊	qi4	@	None	None
+胃	wei4	人与其他动物的消化器官之一，上端与食道相连，下端与肠相连	None	None
+胃	wei4	星名 二十八宿之一，西方白虎七宿的第三宿 有星三颗	None	None
+胃	wei4	通=謂	None	謂
+冑	zhou4	帝王或贵族的后代	None	None
+冑	zhou4	对先辈的承续	None	None
+冑	zhou4	姓	None	None
+胄	zhou4	古代战士作战时保护头部的帽子	None	None
+胑	None	同=肢	None	肢
+胦	yang1	[脖胦]见“脖”	None	None
+胦	yang1	[胦肛]不伏人	None	None
+𣍦	kuang4	古代水名 一说山名	None	None
+𣍦	kuang4	同=貺 赐；赠	None	貺
+䏥	None	同=𦙇	None	𦙇
+𦙱	san1	脂肪	None	None
+𦚋	None	同=肯	None	肯
+胜	xing1	同=腥	None	腥
+胜	xing1	通=省(sheng3) 瘦	None	省
+胜	qing4	[胜遇]鸟名	None	None
+胜	sheng1	饩肉	None	None
+胜	sheng1	一种有机化合物 由氨基酸脱水而成，含有羧基和氨基，是一种两性化合物 旧称“肽”	None	None
+胜	sheng4	=勝的简化字	None	勝
+胅	die2	骨肉突出	None	None
+胅	die2	臀部	None	None
+胙	zuo4	祭祀求福用的肉	None	None
+胙	zuo4	福佑	None	None
+胙	zuo4	赏赐	None	None
+胙	zuo4	通=祚 君位	None	祚
+胙	zuo4	通=阼 台阶	None	阼
+胙	zuo4	同=作 起	None	作
+胙	zuo4	春秋时国名 在今河南省延津县北	None	None
+胙	zuo4	姓	None	None
+𦙳	None	同=胗	None	胗
+⿰月⿱丿巿	None	同=肺	None	肺
+胣	chi3	刳肠；裂腹	None	None
+𦙰	None	同=𦚙(胏)	None	𦚙
+胕	fu3	同=腑 胃、胆、膀胱、三焦、大小肠等器官的总称	None	腑
+胕	fu3	同=腐 朽烂；腐烂之物	None	腐
+胕	fu1	同=膚 皮肤	None	膚
+胕	fu1	同=跗 足	None	跗
+胕	fu2	浮肿	None	None
+胕	zhou3	同=肘	None	肘
+𦙯	dai4	[𦙯𦞫]身体颤动的样子	None	None
+胉	bo2	牲体的两胁	None	None
+胉	bo2	同=髆 肩胛	None	髆
+𦚌	None	同=豚	None	豚
+胍	gu1	[胍𦘴]也作“𦘴胍” 1.大腹 2.大椎	None	None
+胍	hu4	[𦘴胍]肥大貌	None	None
+胍	gua1	有机化合物 化学式为CH_5N_3，无色晶体，易潮解 用来制磺胺类药物和染料等	None	None
 𣍬	None	录入中	None	None
 胗	None	录入中	None	None
 朎	None	录入中	None	None
