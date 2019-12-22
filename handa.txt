@@ -43056,49 +43056,104 @@
 肬	you2	同=疣 一种病毒感染的皮肤病，也叫肉瘤，通称瘊子	None	疣
 肱	gong1	臂	None	None
 䏘	pi4	肚肥	None	None
-肫	None	录入中	None	None
-肶	None	录入中	None	None
-𦙁	None	录入中	None	None
-𦙘	None	录入中	None	None
-肯	None	录入中	None	None
-肻	None	录入中	None	None
-肾	None	录入中	None	None
-䏚	None	录入中	None	None
-𦙇	None	录入中	None	None
-肿	None	录入中	None	None
-𦙃	None	录入中	None	None
-肭	None	录入中	None	None
-𦙙	None	录入中	None	None
-𣍤	None	录入中	None	None
-𦊌	None	录入中	None	None
-㬳	None	录入中	None	None
-𦙚	None	录入中	None	None
-䏗	None	录入中	None	None
-䏕	None	录入中	None	None
-𦙋	None	录入中	None	None
-胀	None	录入中	None	None
-䏒	None	录入中	None	None
-𦙛	None	录入中	None	None
-肵	None	录入中	None	None
-𦙀	None	录入中	None	None
-𦙜	None	录入中	None	None
-肸	None	录入中	None	None
-𦙝	None	录入中	None	None
-肴	None	录入中	None	None
-肹	None	录入中	None	None
-肣	None	录入中	None	None
-𦙞	None	录入中	None	None
-𦙄	None	录入中	None	None
-朌	None	录入中	None	None
-朋	None	录入中	None	None
-𦙈	None	录入中	None	None
-𦙆	None	录入中	None	None
-胏	None	录入中	None	None
-肳	None	录入中	None	None
-肷	None	录入中	None	None
-䏛	None	录入中	None	None
-股	None	录入中	None	None
-𦘿	None	录入中	None	None
+肫	zhun1	面颊	None	None
+肫	zhun1	禽类的胃 如：鸡肫；鹅肫	None	None
+肫	zhun1	恳切；真挚 如：肫笃；肫诚	None	None
+肫	chun2	古代祭祀所用牲后体的一部分	None	None
+肫	chun2	通=純 完整的干肉	None	純
+肫	tun2	同=豚 小猪	None	豚
+肫	tun2	同=飩 馄饨	None	飩
+肫	zhuo1	同=䪼 颧骨	None	䪼
+肶	pi2	同=膍	None	膍
+肶	bi4	同=䃾 祭祀	None	䃾
+肶	bi4	同=髀 大腿	None	髀
+𦙁	None	同=胝	None	胝
+𦙘	None	同=胝	None	胝
+肯	ken3	附着在骨头上的肉	None	None
+肯	ken3	赞同；许可	None	None
+肯	ken3	愿意	None	None
+肯	ken3	能够	None	None
+肯	ken3	副词 1.表示反问，相当于“岂” 2.表示动态或肯定，相当于“恰”、“正”	None	None
+肻	None	同=肯	None	肯
+肾	None	=腎的简化字	None	腎
+䏚	chao3	少	None	None
+䏚	miao3	季肋下方挟脊两旁空软部分	None	None
+𦙇	tan1	肤肉坏	None	None
+肿	None	=腫的简化字	None	腫
+𦙃	None	同=胥	None	胥
+肭	na4	[腽肭]见“腽”	None	None
+肭	nv4	同=朒	None	朒
+𦙙	None	同=水	None	水
+𣍤	None	同=陰	None	陰
+𦊌	juan3	挂	None	None
+㬳	None	同=旿	None	旿
+𦙚	None	同=朔	None	朔
+䏗	None	同=䐴	None	䐴
+䏕	ren4	同=飪	None	飪
+䏕	ren4	肉汁	None	None
+𦙋	du1	大肠	None	None
+胀	None	=脹的简化字	None	脹
+䏒	pian4	躯体的一半	None	None
+䏒	pan4	同=胖	None	胖
+𦙛	None	同=肫	None	肫
+肵	qi2	[肵俎]古代祭祀时盛心舌的食具	None	None
+肵	qi2	恭敬	None	None
+𦙀	pan4	肉	None	None
+𦙜	None	同=𦛐	None	𦛐
+肸	xi1	[肸響]布散；传播 也作“肸蠁”	None	None
+肸	xi1	振动	None	None
+肸	bi4	地名 在今山东省费县西北	None	None
+𦙝	xi1	[𦙝蠁]同“=肸蠁”	None	肸
+肴	yao2	熟的肉类食物	None	None
+肴	yao2	通=爻	None	爻
+肴	yao2	通=淆(xiao2) 纷乱	None	淆
+肹	xi1	[肹蠁]同“=肸蠁”	None	肸
+⿱爻月	None	同=肴	None	肴
+⿰月𡯂	None	同=胇	None	胇
+肣	han2	同=圅(函) 舌头	None	圅
+肣	han2	肥牛脯	None	None
+肣	han2	风箱柄	None	None
+肣	han3	牛腹	None	None
+肣	qin2	敛	None	None
+𦙞	None	同=胸	None	胸
+𦙄	xiong1	同=匈(胸) 胸痛；心胸	None	匈
+朌	fen2	同=頒 1.头大貌 2.众貌	None	頒
+朌	ban1	大头	None	None
+朌	ban1	同=頒 1.颁赐；赋与 2.发布；颁布	None	頒
+朋	peng2	古代货币单位 五贝为一朋 一说两贝为一朋 又说五贝为一系，而系为一朋	None	None
+朋	peng2	同学；朋友	None	None
+朋	peng2	匹配；结合	None	None
+朋	peng2	朋党	None	None
+朋	peng2	勾结	None	None
+朋	peng2	同类	None	None
+朋	peng2	群；群聚	None	None
+朋	peng2	同；共同	None	None
+朋	peng2	比拟；比较	None	None
+朋	peng2	古代行政基层单位	None	None
+朋	peng2	用同=蓬 乱	None	蓬
+朋	peng2	通=逢 大	None	逢
+朋	peng2	通=馮(ping2) 盛怒貌	None	馮
+朋	peng2	通=𡹔(崩beng1) 崩坏	None	𡹔
+朋	peng2	姓	None	None
+𦙈	zui4	下拜失容	None	None
+𦙈	cui4	同=脺(脆)	None	脺
+𦙆	chi3	[膍𦙆]鸟胃	None	None
+胏	zi3	剩余的食物	None	None
+胏	zi3	干肉 也特指带骨的干肉	None	None
+胏	fei4	同=肺	None	肺
+肳	wen3	同=吻 动物的嘴	None	吻
+肷	xu4	牛肉	None	None
+肷	qian3	毛皮业指狐狸胸腹部和腋下的皮毛	None	None
+肷	qian3	身体两旁肋骨和胯骨之间的部分（多指兽类的） 如：肷窝	None	None
+䏛	None	=𦚧的讹字	None	𦚧
+股	gu3	大腿 自胯至膝盖部分	None	None
+股	gu3	胯至足踵部分的通称	None	None
+股	gu3	车辐近毂的部分	None	None
+股	gu3	磬的宽而短的一端	None	None
+股	gu3	事物的一部分 1.事物的分支 2.机关、企业、团体的行政机构 如：总务股；人事股；卫生股 3.资金或财物中的一份 如：股票；分股 4.绳线等的组成部分 如：合股线；三股绳	None	None
+股	gu3	量词 用于成条或成批的东西，也用于气体 如：一股泉水；一股敌军；一股热气	None	None
+股	gu3	我国古代称不等腰直角三角形中较长的直角边	None	None
+𦘿	he4	肥	None	None
 𦙟	None	录入中	None	None
 肮	None	录入中	None	None
 肪	None	录入中	None	None
