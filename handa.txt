@@ -49169,35 +49169,73 @@
 𢠴	None	同=憐	None	憐
 憥	lao2	心力困乏	None	None
 憥	lao2	同=勞	None	勞
-𢡂	None	录入中	None	None
-憲	None	录入中	None	None
-𢢧	None	录入中	None	None
-𢢠	None	录入中	None	None
-𢡈	None	录入中	None	None
-㦐	None	录入中	None	None
-𢡄	None	录入中	None	None
-𢡊	None	录入中	None	None
-憢	None	录入中	None	None
-𢠷	None	录入中	None	None
-憤	None	录入中	None	None
-憘	None	录入中	None	None
-憉	None	录入中	None	None
-㦉	None	录入中	None	None
-𢠹	None	录入中	None	None
-𢢖	None	录入中	None	None
-懂	None	录入中	None	None
-憽	None	录入中	None	None
-𢡇	None	录入中	None	None
-憓	None	录入中	None	None
-憛	None	录入中	None	None
-憟	None	录入中	None	None
-𢡼	None	录入中	None	None
-憭	None	录入中	None	None
-憯	None	录入中	None	None
-𢡅	None	录入中	None	None
-𢠵	None	录入中	None	None
-𢡿	None	录入中	None	None
-𢢀	None	录入中	None	None
+⿱滞心	None	=懘的类推简化字	None	懘
+𢡂	dang4	[𢡂慂]动貌	None	None
+憲	xian4	敏捷	None	None
+憲	xian4	喜乐貌	None	None
+憲	xian4	法令	None	None
+憲	xian4	公布；表明	None	None
+憲	xian4	效法	None	None
+憲	xian4	典范	None	None
+憲	xian4	方法	None	None
+憲	xian4	制裁	None	None
+憲	xian4	宪司的省称 宋代官名，即诸路提点刑狱公事，相当于后世按察司之职	None	None
+憲	xian4	旧时属吏对上司的尊称	None	None
+憲	xian4	宪法的略称 如：立宪；宪政	None	None
+憲	xian4	诚	None	None
+憲	xian4	轻易	None	None
+憲	xian4	通=軒(xuan1) 高起	None	軒
+憲	xian4	姓	None	None
+憲	xian3	[憲憲]兴盛貌	None	None
+𢢧	None	同=讎	None	讎
+𢢠	None	同=惰	None	惰
+𢡈	cui4	恭谨	None	None
+㦐	ni4	快性	None	None
+𢡄	None	同=憯	None	憯
+𢡊	None	同=愆	None	愆
+憢	xiao1	同=嘵 恐惧	None	嘵
+憢	xiao1	勇猛	None	None
+憢	jiao1	同=僥 伪	None	僥
+𢠷	xiang3	[勜𢠷]力大	None	None
+憤	fen4	郁结于心	None	None
+憤	fen4	忿怒；怨恨	None	None
+憤	fen4	发	None	None
+憤	fen4	乱	None	None
+憤	fen4	困厄	None	None
+憘	xi3	同=喜	None	喜
+憘	xi1	叹息声	None	None
+憉	peng2	[憉悙]自强	None	None
+憉	peng2	[憉𢣦]同“=澎濞”	None	澎
+㦉	None	同=懿	None	懿
+𢠹	si1	恐惧	None	None
+𢠹	xi1	[惿𢠹]见“惿”	None	None
+𭞹	None	同=懽	None	懽
+𢢖	qi4	惊恐	None	None
+懂	dong3	明白；了解	None	None
+憽	song1	[惺憽]也作“惺=鬆” 清醒	None	鬆
+𢡇	gu1	胆怯	None	None
+憓	None	同=譓	None	譓
+憛	tan4	[憛悇]1.贪欲 2.忧愁貌 一说祸福未定	None	None
+憛	tan4	忧思	None	None
+憟	su4	阿谀逢迎	None	None
+𢡼	None	同=懦	None	懦
+憭	liao3	聪慧；精明	None	None
+憭	liao3	明白；明了	None	None
+憭	liao3	病愈	None	None
+憭	liao3	明快	None	None
+憭	liao2	[憭慄]凄怆	None	None
+憭	liao2	空貌	None	None
+憯	can3	惨痛	None	None
+憯	can3	忧伤	None	None
+憯	can3	锋利	None	None
+憯	can3	深入	None	None
+憯	can3	繁多	None	None
+憯	can3	副词 1.相当于“曾”、“竟然’ 2.表示程度深，相当于“甚”	None	None
+憯	can3	急速	None	None
+𢡅	bi1	同=𣚡	None	𣚡
+𢠵	None	同=惝 怅惘	None	惝
+𢡿	None	同=憪	None	憪
+𢢀	None	同=憪	None	憪
 憪	None	录入中	None	None
 憫	None	录入中	None	None
 㦖	None	录入中	None	None
