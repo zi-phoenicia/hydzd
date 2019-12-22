@@ -42957,36 +42957,65 @@
 𦘲	pi3	次肉	None	None
 肍	qiu2	熟肉酱 一说干肉酱	None	None
 𦘪	chi4	肉滑貌	None	None
-肌	None	录入中	None	None
-肎	None	录入中	None	None
-肋	None	录入中	None	None
-䏍	None	录入中	None	None
-𦘳	None	录入中	None	None
-肝	None	录入中	None	None
-䏏	None	录入中	None	None
-肟	None	录入中	None	None
-𦘼	None	录入中	None	None
-肚	None	录入中	None	None
-肛	None	录入中	None	None
-肘	None	录入中	None	None
-𣍠	None	录入中	None	None
-𣍣	None	录入中	None	None
-𣍡	None	录入中	None	None
-𦘵	None	录入中	None	None
-育	None	录入中	None	None
-𦘸	None	录入中	None	None
-肖	None	录入中	None	None
-肙	None	录入中	None	None
-𦘹	None	录入中	None	None
-𦘴	None	录入中	None	None
-肐	None	录入中	None	None
-𦘶	None	录入中	None	None
-肜	None	录入中	None	None
-𣍢	None	录入中	None	None
-肑	None	录入中	None	None
-肒	None	录入中	None	None
-䏎	None	录入中	None	None
-䏜	None	录入中	None	None
+肌	ji1	肌肉，人和动物体内的组织之一，由许多肌纤维组成，具有收缩特性	None	None
+肌	ji1	皮肤	None	None
+肌	ji1	指植物表皮以下物质	None	None
+肌	ji4	身体	None	None
+肎	None	同=肯 1.附着在骨头上的肉 2.骨无肉 3.可	None	肯
+肋	lei4	肋骨，人和脊椎动物胸壁两侧成对的、扁而弯的长条形骨	None	None
+肋	lei4	胸部的两侧	None	None
+肋	le4	[肋脦]容貌举止不正	None	None
+肋	jin1	同=筋 肌肉和骨骼相连接的韧带	None	筋
+䏍	yuan4	同=肙	None	肙
+䏍	yuan1	动	None	None
+𦘳	yi4	气满	None	None
+肝	gan1	人和高等动物消化器官之一，是体内最大的腺体 有储存、合成、分泌、解毒和防御等功能	None	None
+肝	gan1	指人的内心	None	None
+䏏	xu1	同=吁 叹词	None	吁
+䏏	xu1	地名	None	None
+肟	wo4	一类具有>C=N-OH集团的有机化合物 是醛和酮的羰基和羟胺(NH_2OH)缩水后的衍生物 醛肟、酮肟类大都是具有特定熔点的晶体，常用以鉴别醛、酮类(英oxime)	None	N
+𦘼	xu1	同=䏏(吁) 叹词	None	䏏
+肚	du4	人或动物的腹部	None	None
+肚	du4	物体凸起或中间鼓出的部分 如：腿肚子；手指头肚儿	None	None
+肚	du4	指思维器官	None	None
+肚	du3	人或动物的胃 如：猪肚；牛肚；鱼肚	None	None
+肛	gang1	肿	None	None
+肛	gang1	肛门，直肠末端	None	None
+肛	gang1	肛管和肛门的总称 如：肛裂	None	None
+肘	zhou3	上臂与下臂交接处可以弯曲的部分	None	None
+肘	zhou3	掣肘；拉住肘部	None	None
+肘	zhou3	用肘触动	None	None
+肘	zhou3	量词 表示长度	None	None
+𣍠	None	同=期	None	期
+𣍣	None	同=期	None	期
+𣍡	None	同=期	None	期
+𦘵	wa3	断足	None	None
+𦘸	qi4	同=肐 身体振动	None	肐
+肖	xiao4	相貌相似	None	None
+肖	xiao4	仿效	None	None
+肖	xiao1	细微；衰微	None	None
+肖	xiao1	姓 也作=蕭	None	蕭
+肙	yuan1	小虫，孑孓 后作=蜎	None	蜎
+肙	yuan1	空	None	None
+𦘹	shan4	@	None	None
+𦘹	yue4	山	None	None
+𦘴	du1	[𦘴胍]见“𦘴”	None	None
+⿰月⿻𠤎一	None	同=肫	None	肫
+肐	qi4	身体振动	None	None
+肐	ge1	同=胳	None	胳
+𦘶	xun1	同=臐 羊羹	None	臐
+肜	rong2	商代祭祀的名称 指祭祀之后第二天又进行的祭祀	None	None
+肜	rong2	姓	None	None
+肜	chen1	船行貌	None	None
+𣍢	None	同=望	None	望
+⿰月⿵𠘨丨	None	同=䏎	None	䏎
+肑	bo2	同=𥭖 手脚指节的响声	None	𥭖
+肑	bo2	肥腴	None	None
+肑	di2	腹下肉	None	None
+肑	di2	腋下到肋骨尽处部分	None	None
+肒	huan4	手搔皮肉生成的疮	None	None
+䏎	feng2	乳	None	None
+䏜	he4	肥	None	None
 肓	None	录入中	None	None
 𣍟	None	录入中	None	None
 𦘺	None	录入中	None	None
