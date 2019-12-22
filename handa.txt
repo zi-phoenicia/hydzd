@@ -44212,29 +44212,60 @@
 欿	dan4	[坎欿]古地名 故址在今河南省巩义市东	None	None
 𣣓	None	同=欠	None	欠
 𣣛	None	同=炊	None	炊
-㰶	None	录入中	None	None
-㰵	None	录入中	None	None
-㰴	None	录入中	None	None
-𣣎	None	录入中	None	None
-欻	None	录入中	None	None
-𣣑	None	录入中	None	None
-欼	None	录入中	None	None
-𣣜	None	录入中	None	None
-𣣬	None	录入中	None	None
-㰼	None	录入中	None	None
-㰻	None	录入中	None	None
-歁	None	录入中	None	None
-歀	None	录入中	None	None
-㰽	None	录入中	None	None
-歅	None	录入中	None	None
-𣣭	None	录入中	None	None
-㰹	None	录入中	None	None
-𣣩	None	录入中	None	None
-𣣥	None	录入中	None	None
-𣣊	None	录入中	None	None
-𣣧	None	录入中	None	None
-歇	None	录入中	None	None
-𣣦	None	录入中	None	None
+㰶	you3	悲泣时鼻孔急促吸气	None	None
+㰶	ou3	同=嘔 呕吐	None	嘔
+㰵	zu2	吸吮	None	None
+㰵	zu2	饮	None	None
+㰴	pou4	不语受	None	None
+𣣎	yu4	惊辞	None	None
+欻	xu1	有所吹起	None	None
+欻	xu1	突然；迅疾	None	None
+欻	xu1	闪现	None	None
+欻	xu1	象声词	None	None
+欻	xu1	副词 表示情态，相当于“忽”、“忽然”	None	None
+欻	chua1	象声词 急促的声响 如：欻的一声 又叠用形容有节奏的声响 如：欻欻的脚步声	None	None
+𣣑	si3	香美	None	None
+⿰肃欠	None	=歗的类推简化字	None	歗
+欼	chi3	同=𠭋 啮；啃咬	None	𠭋
+欼	chuai4	同=嘬 大口吞食	None	嘬
+𣣜	you3	愁貌	None	None
+𣣬	None	同=資	None	資
+㰼	sha4	贪欲	None	None
+㰼	qie4	吹气	None	None
+𬅫	None	=歕的类推简化字	None	歕
+㰻	yi3	[㰻㰳]驴鸣	None	None
+㰻	xi1	卒喜	None	None
+㰻	hou4	[𣤋㰻]凶粗	None	None
+歁	kan3	食未饱	None	None
+歁	kan3	贪	None	None
+歁	kan3	坑	None	None
+歁	ke4	[歁歞]痴貌	None	None
+歁	ke4	意不满	None	None
+歁	qian3	意不掩	None	None
+歀	None	同=款	None	款
+⿰⿳一⺌可欠	None	同=歌	None	歌
+㰽	yan4	大呼用力	None	None
+㰽	yan4	怒腹	None	None
+歅	yin1	人名	None	None
+歅	yin1	通=湮(yan1) 淤塞；凝滞	None	湮
+𣣭	she4	@	None	None
+㰹	xian1	同=欦 1.笑 2.贪欲；贪求	None	欦
+㰹	xian4	叫	None	None
+㰹	han3	气盛	None	None
+𣣩	xie2	[𣣩𣣩]气貌	None	None
+𣣥	None	同=𣣹	None	𣣹
+𣣊	zi1	[㖩𣣊]无廉	None	None
+𣣧	None	同=𣣸	None	𣣸
+歇	xie1	休息	None	None
+歇	xie1	停止	None	None
+歇	xie1	竭；尽	None	None
+歇	xie1	睡；住宿	None	None
+歇	xie1	凋零；衰败	None	None
+歇	xie1	（气味）散发、消散	None	None
+歇	xie1	量词 1.表示动作次数，相当于“番”、“次” 2.表示一段时间，相当于“一会儿”	None	None
+歇	xie1	[歇驕]也作“=猲獢” 猎犬	None	猲
+歇	ya3	人名	None	None
+𣣦	None	同=㰨	None	㰨
 歂	None	录入中	None	None
 𣣮	None	录入中	None	None
 歃	None	录入中	None	None
