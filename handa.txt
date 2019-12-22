@@ -43893,24 +43893,54 @@
 𬂁	None	同=肫	None	肫
 䐚	ji2	[䐚𦟠]膏泽	None	None
 䐚	ji2	[䐚𦟠]光泽貌	None	None
-脲	None	录入中	None	None
-䏱	None	录入中	None	None
-𦝗	None	录入中	None	None
-䏰	None	录入中	None	None
-𦛵	None	录入中	None	None
-䏻	None	录入中	None	None
-𦛸	None	录入中	None	None
-朘	None	录入中	None	None
-脳	None	录入中	None	None
-䏾	None	录入中	None	None
-腈	None	录入中	None	None
-脿	None	录入中	None	None
-脹	None	录入中	None	None
-䐗	None	录入中	None	None
-𦜖	None	录入中	None	None
-期	None	录入中	None	None
-朞	None	录入中	None	None
-𦝒	None	录入中	None	None
+脲	niao4	即“尿素” 化学式CO(NH_2)_2，白色晶体，易溶于水 是人和某些动物尿中的主要含氮物质，蛋白质的代谢产物 人工合成的第一种有机化合物 可以用合成法制取，用作肥料、饲料，也用于制造炸药、塑料等 (英urea)	None	None
+䏱	ju3	身	None	None
+䏱	ju3	肥	None	None
+𦝗	None	同=胕	None	胕
+䏰	run4	[𦚧䏰]见“𦚧”	None	None
+䏰	run4	坚牢而柔软	None	None
+𦛵	None	同=磐	None	磐
+䏻	None	同=能	None	能
+𦛸	None	@	None	None
+朘	zui1	男孩的生殖器	None	None
+朘	juan1	削减；收缩	None	None
+朘	juan1	剥削	None	None
+朘	juan1	通=臇 少汁的肉羹	None	臇
+⿰月𭗾	None	同=腦	None	腦
+䏾	None	同=䏺	None	䏺
+腈	jing1	精肉	None	None
+腈	jing1	有机化合物的一类，是烃基和氰基的碳原子连接而成的化合物	None	None
+脿	biao1	同=臕(膘)	None	臕
+脿	biao4	同=俵 分给	None	俵
+脿	biao3	同=婊	None	婊
+脹	zhang4	身体内壁受到压迫而产生的不舒服感觉	None	None
+脹	zhang4	物体膨胀，体积变大 如：膨胀	None	None
+脹	zhang4	饼	None	None
+脹	chang2	同=腸 内脏之一，即大小肠	None	腸
+䐗	zhu1	同=豬	None	豬
+䐗	zhu1	地名	None	None
+䐗	du3	同=肚 人和动物的胃	None	肚
+𦜖	ya4	[𦜖膪]肥貌	None	None
+期	qi1	约会	None	None
+期	qi1	一定的时日；期限	None	None
+期	qi1	极，限度	None	None
+期	qi1	量词 用于分期的事物 如：出了两期刊物；办了三期讲习班	None	None
+期	qi1	期望；要求	None	None
+期	qi1	预期；预料	None	None
+期	qi1	旧谓运数，气数	None	None
+期	qi1	必定；务须	None	None
+期	qi1	待；对待	None	None
+期	qi1	当，适合	None	None
+期	qi1	常	None	None
+期	qi1	契约	None	None
+期	qi1	地质学名词 在一个国境内或一个大区域内，小于“世”的地质时代单位	None	None
+期	qi1	通=夔(kui2) 期牛即夔牛，大牛	None	夔
+期	qi1	姓	None	None
+期	qi1	古代的一种丧服，即“期服”的简称 也指穿这种丧服	None	None
+期	qi1	助词 表示疑问，相当于“其”	None	None
+期	qi1	周期 指一周年，一整月，一昼夜	None	None
+朞	qi1	同=期 周期	None	期
+𦝒	None	同=𦛖	None	𦛖
 𦜪	None	录入中	None	None
 腊	None	录入中	None	None
 朠	None	录入中	None	None
