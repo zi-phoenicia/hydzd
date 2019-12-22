@@ -43602,22 +43602,57 @@
 䏧	chi3	肉物肥美	None	None
 㬹	zheng1	脚跟筋	None	None
 脃	None	同=脆	None	脆
-脏	None	录入中	None	None
-脐	None	录入中	None	None
-胶	None	录入中	None	None
-脊	None	录入中	None	None
-脑	None	录入中	None	None
-𦚾	None	录入中	None	None
-胲	None	录入中	None	None
-胼	None	录入中	None	None
-朕	None	录入中	None	None
-脒	None	录入中	None	None
-𦚿	None	录入中	None	None
-𣍮	None	录入中	None	None
-朔	None	录入中	None	None
-𦛀	None	录入中	None	None
-胺	None	录入中	None	None
-朗	None	录入中	None	None
+脏	None	=臟、=髒的简化字	None	臟
+脐	None	=臍的简化字	None	臍
+胶	xiao2	䐨	None	None
+胶	xiao2	声	None	None
+胶	xiao2	胫骨	None	None
+胶	jiao1	同=交 相交，指日月交道	None	交
+胶	jiao1	=膠的简化字	None	膠
+脊	ji3	人或动物背部中间的骨肉	None	None
+脊	ji3	物体中间高起的部分	None	None
+脊	ji3	理，条理	None	None
+脊	ji3	通=骴 死人骨头	None	骴
+脑	None	=腦的简化字	None	腦
+𦚾	None	同=胸	None	胸
+胲	gai1	足大指上长毛处的肉，指牲蹄	None	None
+胲	gai1	军中约	None	None
+胲	gai3	脸颊	None	None
+胲	hai3	有机化合物一类，是NH_2OH的烃基衍生物统称	None	None
+胼	pian2	手脚上因摩擦而生的硬皮 俗称茧巴	None	None
+胼	pian2	坚固	None	None
+胼	pian2	腹胀	None	None
+朕	zhen4	代词 表示第一人称，相当于“我”、“我的”	None	None
+朕	zhen4	皇帝的自称 自秦始皇始	None	None
+朕	zhen4	形迹；预兆	None	None
+朕	zhen4	舟缝，也泛指缝隙	None	None
+脒	mi3	含有CNHNH_2原子团的有机化合物 如：䐵胺脒 (英amidine)	None	None
+𦚿	None	同=朔	None	朔
+⿰⿱䒑巾月	None	同=朔	None	朔
+𣍮	None	同=朔	None	朔
+朔	shuo4	月相名 农历每月初一，月球运行到太阳和地球之间，跟太阳同时出没，地球上看不到月光，这种月相叫朔	None	None
+朔	shuo4	朔日，农历每月初一日	None	None
+朔	shuo4	每月初省视 即“朔省”	None	None
+朔	shuo4	历政 指古代帝王每年季冬发布来年十二个月的政事于诸侯，诸侯亦于月初告祖庙，受而行之	None	None
+朔	shuo4	凌晨，清晨	None	None
+朔	shuo4	苏生，月复出	None	None
+朔	shuo4	初始	None	None
+朔	shuo4	北方	None	None
+朔	shuo4	凹陷	None	None
+朔	shuo4	小鼓名	None	None
+朔	shuo4	辀，小车居中曲而向上的辕木	None	None
+朔	shuo4	地名 1.古州名 辖境约今山西省朔州市一带 2.旧县名 在山西省北部 1988年改为朔州市	None	None
+朔	shuo4	姓	None	None
+𦛀	None	[水𦛀]地名	None	None
+胺	e4	肉腐败变臭	None	None
+胺	an3	氨分子中部分或全部氢原子被烃基取代而成的有机化合物 大部具有弱碱性，能和酸形成盐 (英amine)	None	None
+朗	lang3	明；明亮	None	None
+朗	lang3	明白；清晰	None	None
+朗	lang3	清；高洁	None	None
+朗	lang3	高明	None	None
+朗	lang3	开朗	None	None
+朗	lang3	响亮	None	None
+朗	lang3	姓	None	None
 脓	None	录入中	None	None
 𦚣	None	录入中	None	None
 𦚪	None	录入中	None	None
