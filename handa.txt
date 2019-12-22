@@ -43742,24 +43742,42 @@
 脨	cu4	[丳脨]同“丳𦠁” 炙筋	None	None
 脨	ji2	同=膌(瘠) 瘦	None	膌
 䏸	None	同=䐳(䁩)	None	䐳
-脰	None	录入中	None	None
-脤	None	录入中	None	None
-脣	None	录入中	None	None
-脴	None	录入中	None	None
-脜	None	录入中	None	None
-𦛯	None	录入中	None	None
-脥	None	录入中	None	None
-䏵	None	录入中	None	None
-𣍴	None	录入中	None	None
-脦	None	录入中	None	None
-䏶	None	录入中	None	None
-脛	None	录入中	None	None
-䏴	None	录入中	None	None
-䏷	None	录入中	None	None
-𦛠	None	录入中	None	None
-脭	None	录入中	None	None
-𦜃	None	录入中	None	None
-䏹	None	录入中	None	None
+脰	dou4	颈项	None	None
+脰	dou4	咽喉	None	None
+脰	dou4	错	None	None
+脰	dou4	肴馔	None	None
+脤	shen4	古代帝王祭祀社稷之神所用的生肉	None	None
+脣	chun2	嘴唇	None	None
+脣	chun2	圆状物的外圈	None	None
+脣	chun2	边	None	None
+脴	pi3	同=痞 中医指腹内结块的病症	None	痞
+脜	rou2	面色温和	None	None
+𦛯	du3	人名用字 ……按：……当是=䁈子俗讹	None	䁈
+⿰月𮕜	None	同=𦞚	None	𦞚
+脥	qian3	腹下	None	None
+脥	qu1	同=胠 腋下	None	胠
+脥	qu1	通=脅(xi1) 收敛	None	脅
+脥	jia2	同=頰	None	頰
+䏵	meng3	丰大	None	None
+䏵	meng3	肿	None	None
+䏵	mang2	丰肉	None	None
+䏵	mang2	身大	None	None
+𣍴	quan3	月	None	None
+脦	te5	[肋脦]见“肋”	None	None
+䏶	bi4	胃	None	None
+䏶	bi4	同=髀 大腿	None	髀
+脛	jing4	从膝盖到脚跟的部分	None	None
+脛	jing4	小腿骨 膝下踝上正面突出的骨头	None	None
+脛	jing4	鸟兽的腿	None	None
+脛	keng1	[脛脛]直率，固执貌	None	None
+䏴	shao4	视力模糊	None	None
+䏴	shao4	物件顶端尖锐	None	None
+䏷	han4	[䑇䏷]见“䑇”	None	None
+𦛠	nie4	肿	None	None
+脭	cheng2	精美的肉	None	None
+𦜃	xu4	肥貌	None	None
+䏹	xian3	腹䏹	None	None
+䏹	chen1	同=𧠿(𧡬)	None	𧠿
 𦛢	None	录入中	None	None
 𦜉	None	录入中	None	None
 𦜄	None	录入中	None	None
