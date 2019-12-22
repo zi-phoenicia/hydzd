@@ -44118,6 +44118,7 @@
 𣢫	wang3	佞人	None	None
 𣢫	wang1	=妄	None	妄
 𣢩	None	同=𣣲	None	𣣲
+⿰⿳士冖厶欠	None	同=𣣿	None	𣣿
 𣣐	None	同=欷	None	欷
 𣢮	None	同=巸	None	巸
 欶	shuo4	吮吸；饮	None	None
@@ -44266,33 +44267,61 @@
 歇	xie1	[歇驕]也作“=猲獢” 猎犬	None	猲
 歇	ya3	人名	None	None
 𣣦	None	同=㰨	None	㰨
-歂	None	录入中	None	None
-𣣮	None	录入中	None	None
-歃	None	录入中	None	None
-𣣨	None	录入中	None	None
-𣣢	None	录入中	None	None
-㰾	None	录入中	None	None
-𣣠	None	录入中	None	None
-歈	None	录入中	None	None
-𣤃	None	录入中	None	None
-𣣡	None	录入中	None	None
-𣣯	None	录入中	None	None
-𣣰	None	录入中	None	None
-歆	None	录入中	None	None
-𣣟	None	录入中	None	None
-𣣞	None	录入中	None	None
-㰺	None	录入中	None	None
-𣣣	None	录入中	None	None
-𣣤	None	录入中	None	None
-𣤆	None	录入中	None	None
-𣤀	None	录入中	None	None
-𣤂	None	录入中	None	None
-𣣿	None	录入中	None	None
-𣣹	None	录入中	None	None
-𣤁	None	录入中	None	None
-歌	None	录入中	None	None
-𣣺	None	录入中	None	None
-𣣸	None	录入中	None	None
+歂	chuan3	同=喘 急促呼吸	None	喘
+歂	chuan2	姓	None	None
+𣣮	None	=歃的讹字	None	歃
+歃	sha4	饮血，古人盟会时，微饮牲血，或含于口中，或涂于口旁，以示诚意	None	None
+歃	xia4	同=𦦕 尝	None	𦦕
+𣣨	None	同=歃	None	歃
+𣣢	None	同=歋	None	歋
+㰾	jiao3	楚歌	None	None
+㰾	jiao3	古乐器名	None	None
+𣣠	hou4	石蜜膜	None	None
+⿰⿱亼⿻王丷欠	None	同=欽	None	欽
+⿰⿱人镸欠	None	同=欽	None	欽
+⿰⿳亼⺌口欠	None	同=𣢺	None	𣢺
+歈	yu2	歌谣，吴歌、巴曲专名	None	None
+⿰⿳爫干凵欠	None	同=𣣳	None	𣣳
+⿰𤔄欠	None	同=歌	None	歌
+𣤃	ai3	[𣤃靄]也作“=欸乃” 船工号子声	None	欸
+𣣡	hou2	[𣣡㰺]1.气出貌 2.咽病	None	None
+𣣯	None	同=㱀	None	㱀
+𣣰	None	同=㰷(𣣌)	None	㰷
+歆	xin1	古谓祭祀时鬼神享受祭品的香气	None	None
+歆	xin1	用食品招待（宾客）	None	None
+歆	xin1	贪	None	None
+歆	xin1	喜爱；喜悦	None	None
+歆	xin1	悦服；心服	None	None
+歆	xin1	欣羡；钦羡	None	None
+歆	xin1	感动；激励	None	None
+⿰娄欠	None	同=𣤋	None	𣤋
+⿰⿱火⿻火一欠	None	同=款	None	款
+𣣟	qia1	出气	None	None
+𣣞	hun4	气逆	None	None
+𣣞	hun4	动	None	None
+𣣞	hun4	兢戒貌	None	None
+㰺	xia4	饮	None	None
+㰺	xia2	[𣣡㰺]见“𣣡”	None	None
+𣣣	dian4	呻吟	None	None
+𣣤	None	同=𣣏	None	𣣏
+⿰𭍠欠	None	同=㱇	None	㱇
+𣤆	None	古人名	None	None
+𣤀	None	同=歂	None	歂
+𣤂	None	同=款	None	款
+𣣿	tai2	[欯𣣿]喜	None	None
+𣣹	he1	因受寒而引起的咳嗽	None	None
+𣣹	he1	同=欱 饮；吮吸	None	欱
+𣤁	zhu2	吹气	None	None
+歌	ge1	按一定的乐曲或节拍咏唱	None	None
+歌	ge1	歌谣 如：民歌	None	None
+歌	ge1	奏乐	None	None
+歌	ge1	古代诗歌体裁之一 如：《長恨歌》	None	None
+歌	ge1	颂扬；歌颂	None	None
+歌	ge1	古乐器名	None	None
+歌	ge1	中医学名词 叹声	None	None
+歌	ge1	姓	None	None
+𣣺	sha4	同=嗄 声音嘶哑	None	嗄
+𣣸	you3	意内言外之意	None	None
 𣣴	None	录入中	None	None
 歍	None	录入中	None	None
 歋	None	录入中	None	None
