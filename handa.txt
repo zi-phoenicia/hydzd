@@ -48906,23 +48906,57 @@
 憂	you1	通=優 1.平和；宽和 2.戏谑	None	優
 憂	you1	姓	None	None
 慭	None	同=憖	None	憖
-𢡷	None	录入中	None	None
-慮	None	录入中	None	None
-㦂	None	录入中	None	None
-𢠝	None	录入中	None	None
-憇	None	录入中	None	None
-憅	None	录入中	None	None
-慜	None	录入中	None	None
-𢢎	None	录入中	None	None
-𠕫	None	录入中	None	None
-憄	None	录入中	None	None
-慫	None	录入中	None	None
-慾	None	录入中	None	None
-慿	None	录入中	None	None
-㦄	None	录入中	None	None
-憋	None	录入中	None	None
-憨	None	录入中	None	None
-慰	None	录入中	None	None
+⿱⿻工⿱冖一思	None	同=慮	None	慮
+𢡷	None	同=𢟤	None	𢟤
+慮	lv4	计议；谋划	None	None
+慮	lv4	思考；考虑	None	None
+慮	lv4	忧虑；担心	None	None
+慮	lv4	意念；心思	None	None
+慮	lv4	乱	None	None
+慮	lv4	大约；大概	None	None
+慮	lv4	用绳子结缀	None	None
+慮	lv4	怀疑	None	None
+慮	lv4	广	None	None
+慮	lv4	用同=録 讯察；记录	None	録
+慮	lv4	姓	None	None
+慮	lv2	[諸慮]藤名	None	None
+慮	lv2	[取慮]古县名 在今山东省睢宁县西	None	None
+㦂	None	同=常	None	常
+𢠝	xin1	忠心不二	None	None
+憇	None	同=憩	None	憩
+憅	None	同=慟	None	慟
+慜	min3	聪敏	None	None
+慜	min3	同=愍	None	愍
+𢢎	None	人名用字	None	None
+𠕫	None	同=昊	None	昊
+憄	zhi4	施	None	None
+慫	song3	惊惧	None	None
+慫	song3	动	None	None
+慫	song3	恭敬	None	None
+慫	song3	厌恶	None	None
+慫	song3	怨恨	None	None
+慫	song3	怂恿；鼓动	None	None
+慾	yu4	欲望；嗜欲	None	None
+慿	None	同=憑	None	憑
+㦄	ma2	[㦄𢝅]同“=𩔶䫗” 难语	None	𩔶
+憋	bie1	恶；坏	None	None
+憋	bie1	急性貌	None	None
+憋	bie1	怒	None	None
+憋	bie1	闹别扭；赌气	None	None
+憋	bie1	抑制；极力忍住 如：憋足了劲；憋着一肚子话	None	None
+憋	bie1	感到气闷	None	None
+憨	han1	傻；痴呆	None	None
+憨	han1	朴实 如：憨厚；憨直	None	None
+憨	han1	天真可爱	None	None
+憨	han1	粗大	None	None
+憨	han1	果决	None	None
+憨	han1	害	None	None
+慰	wei4	安慰；安抚	None	None
+慰	wei4	问	None	None
+慰	wei4	愤怒	None	None
+慰	wei4	居住	None	None
+慰	wei4	抑郁	None	None
+慰	wei4	通=蔚 病	None	蔚
 𢟬	None	录入中	None	None
 𢠬	None	录入中	None	None
 𢡢	None	录入中	None	None
