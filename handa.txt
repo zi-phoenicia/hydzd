@@ -43219,16 +43219,49 @@
 服	fu2	任用；使用	None	None
 服	fu2	承受（刑役）	None	None
 服	fu2	职事；职位	None	None
-胁	None	录入中	None	None
-𦙉	None	录入中	None	None
-𦚫	None	录入中	None	None
-䏞	None	录入中	None	None
-䏡	None	录入中	None	None
-𦙫	None	录入中	None	None
-胠	None	录入中	None	None
-朑	None	录入中	None	None
-䒿	None	录入中	None	None
-𦙶	None	录入中	None	None
+服	fu2	事情	None	None
+服	fu2	服从；顺从	None	None
+服	fu2	信服；佩服	None	None
+服	fu2	畏服；慑服	None	None
+服	fu2	古指王畿以外的地方	None	None
+服	fu2	穿戴	None	None
+服	fu2	佩带	None	None
+服	fu2	古代对衣服、宫室、车马、器物等的泛称	None	None
+服	fu2	指居丧期间	None	None
+服	fu2	整，治理	None	None
+服	fu2	古代一车驾四马，居中的两匹叫服	None	None
+服	fu2	练习；熟悉	None	None
+服	fu2	习惯；适应	None	None
+服	fu2	持	None	None
+服	fu2	得	None	None
+服	fu2	吞服（药物）	None	None
+服	fu2	思念	None	None
+服	fu2	古代装箭、刀、剑等的套子 后作=箙	None	箙
+服	fu2	通=伏 1.潜伏 2.倒伏	None	伏
+服	fu2	通=鵩 鸟名，鸮，一名猫头鹰	None	鵩
+服	fu2	通=犕(𤛟) 驾御，乘	None	犕
+服	fu2	姓	None	None
+服	fu4	通=負 1.车箱 2.载负	None	負
+服	fu4	量词 用于中药剂量，一剂为一服	None	None
+服	bi4	[服臆]也作“=腷臆” 心气郁结或内心悲痛的样子	None	腷
+服	bi4	通=逼 堵塞	None	逼
+服	bo2	啼呼	None	None
+服	bo2	通=保(bao3) 卫	None	保
+胁	None	=脅的简化字	None	脅
+𦙉	zuan3	脂肪	None	None
+𦚫	xie2	大腹	None	None
+⿰月弍	None	同=膩	None	膩
+䏞	mo4	肚子	None	None
+䏡	shi4	肉生	None	None
+䏡	shi4	有机化合物 溶于水，遇热不凝固，是食物蛋白和蛋白胨的中间产物 (英proteose)	None	None
+𦙫	zheng1	煎煮鱼肉	None	None
+胠	qu1	腋下	None	None
+胠	qu1	古代军阵的右翼	None	None
+胠	qu1	从旁打开	None	None
+胠	qu1	通=阹 遮挡；搁浅	None	阹
+朑	None	同=屉	None	屉
+䒿	None	=膋的类推简化字	None	膋
+𦙶	None	同=股	None	股
 胡	None	录入中	None	None
 胢	None	录入中	None	None
 胚	None	录入中	None	None
