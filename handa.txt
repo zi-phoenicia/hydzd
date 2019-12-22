@@ -43016,30 +43016,46 @@
 肒	huan4	手搔皮肉生成的疮	None	None
 䏎	feng2	乳	None	None
 䏜	he4	肥	None	None
-肓	None	录入中	None	None
-𣍟	None	录入中	None	None
-𦘺	None	录入中	None	None
-肔	None	录入中	None	None
-肗	None	录入中	None	None
-肠	None	录入中	None	None
-肕	None	录入中	None	None
-肞	None	录入中	None	None
-𦘷	None	录入中	None	None
-肨	None	录入中	None	None
-肼	None	录入中	None	None
-肤	None	录入中	None	None
-𦙖	None	录入中	None	None
-朊	None	录入中	None	None
-䏝	None	录入中	None	None
-𦙗	None	录入中	None	None
-肺	None	录入中	None	None
-肢	None	录入中	None	None
-肧	None	录入中	None	None
-肽	None	录入中	None	None
-肰	None	录入中	None	None
-肬	None	录入中	None	None
-肱	None	录入中	None	None
-䏘	None	录入中	None	None
+肓	huang1	古代医家指心脏和隔膜之间	None	None
+𣍟	ken3	同=肯	None	肯
+𣍟	wei3	吐	None	None
+𦘺	None	同=肥	None	肥
+肔	None	同=胣	None	胣
+肗	ru3	鱼或肉类腐败	None	None
+肠	None	=腸的简化字	None	腸
+肕	ren4	坚肉	None	None
+肕	ren4	同=韌 柔韧而结实	None	韌
+肞	cha1	干肉 也作=䐤	None	䐤
+⿰月乡	None	=膷的类推简化字	None	膷
+𦘷	None	同=胘	None	胘
+⿰月𭅲	None	同=肥	None	肥
+肨	pang4	肿胀	None	None
+肨	pang4	胀臭貌	None	None
+肨	pang4	方言，形容臭味重	None	None
+肨	feng1	肉耑	None	None
+肼	jing3	有机化合物，化学式H_2NNH_2 无色油状液体，有类似氨的刺激性气味，有剧毒，腐蚀性强，燃烧时发出紫色光 用来制药，也用作火箭燃料 (英hydrazine)	None	None
+肤	None	同=膚	None	膚
+𦙖	None	=吞的讹字	None	吞
+朊	wan3	同=脘 尾	None	脘
+朊	ruan3	人的阴部	None	None
+朊	ruan3	月光微	None	None
+朊	ruan3	蛋白质	None	None
+⿰月无	None	=膴的类推简化字	None	膴
+䏝	None	=膞的简化字	None	膞
+𦙗	None	同=㬳	None	㬳
+肺	fei4	人和高等动物的呼吸器官 人的肺在胸腔中，左右各一	None	None
+肺	fei4	通=杮 木屑	None	杮
+肺	pei4	[肺肺]茂盛貌	None	None
+肢	zhi1	人体两臂两腿的总称	None	None
+肢	zhi1	指人体的腰部 如：腰肢	None	None
+肢	shi4	身体弯曲	None	None
+肧	None	同=胚	None	胚
+肽	tai4	氨基酸的氨基和另一氨基酸的羧基缩合失去一分子水所形成的化合物 旧称胜(sheng1) (英peptide)	None	None
+肰	ran2	狗肉	None	None
+肰	ran2	同=然	None	然
+肬	you2	同=疣 一种病毒感染的皮肤病，也叫肉瘤，通称瘊子	None	疣
+肱	gong1	臂	None	None
+䏘	pi4	肚肥	None	None
 肫	None	录入中	None	None
 肶	None	录入中	None	None
 𦙁	None	录入中	None	None
