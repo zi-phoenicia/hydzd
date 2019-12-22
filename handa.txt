@@ -44365,35 +44365,64 @@
 歎	tan4	同=嘆 叹息	None	嘆
 歎	tan4	姓	None	None
 𦻁	None	同=𧂄	None	𧂄
-𣤖	None	录入中	None	None
-𣤐	None	录入中	None	None
-歐	None	录入中	None	None
-歔	None	录入中	None	None
-歑	None	录入中	None	None
-𣤋	None	录入中	None	None
-歓	None	录入中	None	None
-𣤑	None	录入中	None	None
-𣤒	None	录入中	None	None
-𣤏	None	录入中	None	None
-𣤗	None	录入中	None	None
-㱃	None	录入中	None	None
-𣤉	None	录入中	None	None
-𣤍	None	录入中	None	None
-㱂	None	录入中	None	None
-歒	None	录入中	None	None
-𣤊	None	录入中	None	None
-𣤕	None	录入中	None	None
-𣤌	None	录入中	None	None
-歕	None	录入中	None	None
-歖	None	录入中	None	None
-㱅	None	录入中	None	None
-𣤟	None	录入中	None	None
-𣤘	None	录入中	None	None
-㱄	None	录入中	None	None
-𣤙	None	录入中	None	None
-𣤚	None	录入中	None	None
-𣤡	None	录入中	None	None
-歙	None	录入中	None	None
+⿰啬欠	None	同=㱇	None	㱇
+𣤖	ti4	唾声	None	None
+𣤐	None	同=㰲	None	㰲
+歐	ou3	同=嘔 呕吐	None	嘔
+歐	ou1	同=謳 歌颂	None	謳
+歐	ou1	通=毆 殴打；捶击	None	毆
+歐	ou1	通=敺(qu1) 驱使	None	敺
+歐	ou1	欧洲的简称	None	None
+歐	ou1	姓	None	None
+歔	xu1	哽咽；抽泣	None	None
+歔	xu1	呵气以温物	None	None
+歑	hu1	呵气；出气	None	None
+歑	hu1	[歍歑]同“嗚=呼”	None	呼
+𣤋	lou4	[𣤋㰯]小儿凶恶	None	None
+歓	None	同=歡	None	歡
+𣤑	None	同=歌	None	歌
+𣤒	None	同=歌	None	歌
+⿰⿱合𠕁欠	None	同=飲	None	飲
+𣤏	None	同=歈	None	歈
+𣤗	None	同=飲	None	飲
+㱃	None	同=飲	None	飲
+𣤉	None	同=欿	None	欿
+𣤍	None	同=𣣳	None	𣣳
+㱂	kang1	腹中饥饿空虚	None	None
+㱂	kang1	谷物无收成	None	None
+㱂	kang1	通	None	None
+歒	ti4	[歒赥]小儿喜笑貌	None	None
+歒	xiao1	同=歊	None	歊
+𣤊	la1	[𣤊歁]不满	None	None
+𣤕	None	同=歠	None	歠
+𣤌	chuai4	咬	None	None
+𣤌	chuai4	同=嘬 大口吞食	None	嘬
+𣤌	chi3	同=𠭋 啮；啃咬	None	𠭋
+𣤌	chuo4	同=歠 饮	None	歠
+歕	None	同=噴	None	噴
+歖	xi3	同=喜	None	喜
+歖	yi3	[歖㰳]也作“=㰻㰳” 驴鸣	None	㰻
+㱅	None	同=懿 1.德行美好 2.姓	None	懿
+𣤟	None	同=𣤺	None	𣤺
+𣤘	shi1	呵喝声	None	None
+𭭕	None	同=歡	None	歡
+㱄	hei1	唾声	None	None
+㱄	hei1	咳嗽	None	None
+㱄	mo4	同=嘿(默) 闭口不语	None	嘿
+𣤙	None	同=歊	None	歊
+𣤚	None	同=釂	None	釂
+𣤡	xiao4	悲意	None	None
+𣤡	you3	同=𣢜 忧愁	None	𣢜
+歙	xi1	用鼻吸气	None	None
+歙	xi1	收敛；敛藏	None	None
+歙	xi1	船近岸	None	None
+歙	xi1	同=翕 闭合；和顺	None	翕
+歙	she4	江西省婺源县（原属安徽省）歙溪所产砚石——“歙砚”的简称	None	None
+歙	she4	用同=攝 捉持	None	攝
+歙	she4	县名 在今安徽省东南部 秦置县	None	None
+歙	xie2	收缩	None	None
+歙	xie2	惧貌	None	None
+𬅱	None	同=播	None	播
 𢋅	None	录入中	None	None
 歘	None	录入中	None	None
 𣤜	None	录入中	None	None
