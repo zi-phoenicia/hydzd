@@ -44097,9 +44097,11 @@
 欰	xu4	鸣	None	None
 欰	xu4	虫鸣声 也作=㖅	None	㖅
 𣢨	ou1	同=歐(嘔) 呕吐	None	歐
-欱	None	录入中	None	None
-𣢲	None	录入中	None	None
-𣢸	None	录入中	None	None
+欱	he1	饮；吸	None	None
+欱	he1	合	None	None
+欱	xia2	同=𦦕 尝	None	𦦕
+𣢲	qian1	多智慧	None	None
+𣢸	None	同=款	None	款
 𣢪	None	录入中	None	None
 㰬	None	录入中	None	None
 𣢷	None	录入中	None	None
@@ -49692,58 +49694,82 @@
 懽	guan4	忧惧而无处诉说	None	None
 𢥎	None	同=懠	None	懠
 ⿰忄霝	None	同=㦭	None	㦭
-𢥓	None	录入中	None	None
-𢥑	None	录入中	None	None
-㦨	None	录入中	None	None
-懺	None	录入中	None	None
-𢥚	None	录入中	None	None
-𢥌	None	录入中	None	None
-𢥕	None	录入中	None	None
-㦪	None	录入中	None	None
-懹	None	录入中	None	None
-𢥐	None	录入中	None	None
-懿	None	录入中	None	None
-𢥗	None	录入中	None	None
-𢥛	None	录入中	None	None
-懾	None	录入中	None	None
-懼	None	录入中	None	None
-𢥟	None	录入中	None	None
-𢥞	None	录入中	None	None
-𢥘	None	录入中	None	None
-𢥡	None	录入中	None	None
-𢥠	None	录入中	None	None
-𢥜	None	录入中	None	None
-戁	None	录入中	None	None
-𢥩	None	录入中	None	None
-𢥧	None	录入中	None	None
-𢥨	None	录入中	None	None
-戀	None	录入中	None	None
-𢥦	None	录入中	None	None
-𢥝	None	录入中	None	None
-㦬	None	录入中	None	None
-㦫	None	录入中	None	None
-𢥥	None	录入中	None	None
-戂	None	录入中	None	None
-𢥰	None	录入中	None	None
-𢥲	None	录入中	None	None
-𢥱	None	录入中	None	None
-𢥳	None	录入中	None	None
-戃	None	录入中	None	None
-戄	None	录入中	None	None
-𢥯	None	录入中	None	None
-𢥽	None	录入中	None	None
-戅	None	录入中	None	None
-戆	None	录入中	None	None
-𢥻	None	录入中	None	None
-𢥼	None	录入中	None	None
-𢥾	None	录入中	None	None
-𢦃	None	录入中	None	None
-𢦉	None	录入中	None	None
-戇	None	录入中	None	None
-㦭	None	录入中	None	None
-𢦅	None	录入中	None	None
-𢦈	None	录入中	None	None
-𢦊	None	录入中	None	None
+𢥓	None	同=懟	None	懟
+𢥑	None	同=懪	None	懪
+㦨	None	同=嬾	None	嬾
+懺	chan4	忏悔 梵文Ksama(懺摩)音译的省略 原为自陈己过，悔罪祈福之意	None	None
+懺	chan4	僧道代人拜祷忏悔 如：拜忏 也指拜忏时所念经文 如：梁皇忏；玉皇忏	None	None
+𢥚	jiao4	性急	None	None
+𢥌	xian3	惭愧	None	None
+𢥕	None	同=𢥞	None	𢥞
+㦪	xie4	意不平	None	None
+懹	rang4	畏惧	None	None
+𢥐	pei4	用力极	None	None
+⿰喜恣	None	同=懿	None	懿
+懿	yi4	美；美德	None	None
+懿	yi4	赞美；称颂	None	None
+懿	yi4	深貌	None	None
+懿	yi4	大	None	None
+懿	yi4	同=抑	None	抑
+懿	yi4	姓	None	None
+懿	yi1	同=噫 叹声	None	噫
+𢥗	None	同=𢟢	None	𢟢
+𢥛	None	同=㥶	None	㥶
+懾	she4	丧气；害怕	None	None
+懾	she4	威慑；使屈服	None	None
+懾	she4	悲戚	None	None
+懼	ju4	恐惧	None	None
+懼	ju4	戒惧	None	None
+懼	ju4	恐吓	None	None
+懼	ju4	病	None	None
+懼	ju4	通=瞿 惊慌失措貌	None	瞿
+𢥟	None	同=懪	None	懪
+𢥞	None	同=忡	None	忡
+𢥘	xie2	有二心，离心	None	None
+𢥡	None	同=慓	None	慓
+𢥠	None	同=愯	None	愯
+𢥜	None	同=㥶	None	㥶
+戁	nan2	恭敬	None	None
+戁	nan2	恐惧	None	None
+戁	nan2	摇动	None	None
+戁	nan2	惭愧	None	None
+𢥩	None	同=轡	None	轡
+𢥧	None	同=願	None	願
+𢥨	None	同=戇	None	戇
+戀	lian4	爱慕；留恋	None	None
+戀	lian4	男女相爱 如：恋人；热恋；恋歌	None	None
+戀	lian4	指思念的情意	None	None
+戀	lian4	姓	None	None
+𢥦	None	同=𢥲(憝)	None	𢥲
+𢥝	None	同=𢜸	None	𢜸
+㦬	luo3	[懡㦬]见“懡”	None	None
+㦫	za1	[㦫㦫]心慢怠	None	None
+𢥥	None	同=㦪	None	㦪
+戂	mi2	散	None	None
+戂	mo2	心病	None	None
+𢥰	None	同=籌	None	籌
+𢥲	None	同=憝	None	憝
+𢥱	None	同=慒	None	慒
+𢥳	he1	@	None	None
+戃	tang3	[戃慌]同“=惝怳”、“=𢠵怳” 失意貌	None	惝
+戄	jue2	惊貌	None	None
+戄	jue2	急视	None	None
+𢥯	None	同=憹	None	憹
+𢥽	tun3	[𢥽𢟦]不明	None	None
+戅	None	同=戇	None	戇
+戆	None	=戇的简化字	None	戇
+𢥻	None	同=怕	None	怕
+𢥼	None	同=懆	None	懆
+𢥾	None	=㒩的讹字	None	㒩
+𢦃	None	同=𢥞	None	𢥞
+𢦉	None	同=空	None	空
+戇	zhuang4	迂愚而刚直	None	None
+戇	gang3	方言 鲁莽；冒失 如：戆头戆脑	None	None
+㦭	ling2	同=怜 聪慧	None	怜
+𢦅	hong3	心神恍惚貌	None	None
+𢦅	zhuang4	同=戇 迂愚而刚直	None	戇
+𢦈	man2	恐惧	None	None
+𢦊	jin1	@	None	None
 爿	qiang2	劈木而成的木片	None	None
 爿	qiang2	殳	None	None
 爿	pan2	劈成片的竹木 如：竹爿；木爿	None	None
