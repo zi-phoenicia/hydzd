@@ -44076,16 +44076,21 @@
 脾	pai2	牛胃	None	None
 脾	bi3	同=髀 大腿	None	髀
 脾	pi4	盛肥	None	None
-𦜓	None	录入中	None	None
-腀	None	录入中	None	None
-𦜱	None	录入中	None	None
-䐆	None	录入中	None	None
-𦜘	None	录入中	None	None
-𦜲	None	录入中	None	None
-腍	None	录入中	None	None
-䐋	None	录入中	None	None
-𦜳	None	录入中	None	None
-𦜴	None	录入中	None	None
+𦜓	xin4	同=㾙 疮中冷	None	㾙
+𦜓	xin4	同=脪 伤口愈合时，新肉略微凸出	None	脪
+腀	lun2	皮肤	None	None
+𦜱	xi1	[𦜱蠁]同“=肸蠁” 布散；传播	None	肸
+䐆	cai3	肚子臌胀	None	None
+𦜘	None	同=乳	None	乳
+𦜲	yin4	心病	None	None
+腍	ren3	同=飪	None	飪
+腍	ren3	味美	None	None
+腍	ren3	饱	None	None
+腍	dian4	美	None	None
+䐋	cong1	病	None	None
+䐋	cong1	赤色	None	None
+𦜳	None	同=晶	None	晶
+𦜴	tun2	人名 也作=臀	None	臀
 䐄	None	录入中	None	None
 䐇	None	录入中	None	None
 𦜵	None	录入中	None	None
