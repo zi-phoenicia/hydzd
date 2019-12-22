@@ -43941,13 +43941,42 @@
 期	qi1	周期 指一周年，一整月，一昼夜	None	None
 朞	qi1	同=期 周期	None	期
 𦝒	None	同=𦛖	None	𦛖
-𦜪	None	录入中	None	None
-腊	None	录入中	None	None
-朠	None	录入中	None	None
-䐈	None	录入中	None	None
-朝	None	录入中	None	None
-𦜫	None	录入中	None	None
-𦝏	None	录入中	None	None
+𦜪	None	同=𦜈(䐑)	None	𦜈
+腊	xi1	干肉	None	None
+腊	xi1	做成干肉	None	None
+腊	xi1	副词 1.表示程度，相当于“极” 2.表示时间，相当于“久”	None	None
+腊	xi1	皮肤干燥皴裂	None	None
+腊	la4	同=臘	None	臘
+⿱昔月	None	同=昔	None	昔
+朠	ying1	月色	None	None
+䐈	zhi2	长一尺二寸的干肉	None	None
+䐈	zhi2	黏	None	None
+䐈	zhi2	同=殖 脂膏放久而腐坏	None	殖
+䐈	zhi2	肥肠	None	None
+䐈	zhi2	肥	None	None
+朝	zhao1	早晨	None	None
+朝	zhao1	初	None	None
+朝	zhao1	日；天	None	None
+朝	zhao1	指东方	None	None
+朝	zhao1	通=昭 明	None	昭
+朝	zhao1	姓	None	None
+朝	chao2	访；见 1.君见臣 2.下属见上官 3.子、媳向父母、公婆请安	None	None
+朝	chao2	召；会聚	None	None
+朝	chao2	归；归附	None	None
+朝	chao2	朝廷，古代君臣议事之处	None	None
+朝	chao2	古代官府厅堂	None	None
+朝	chao2	朝代，指整个王朝或某一个皇帝的执政时期	None	None
+朝	chao2	朝服，古代君臣朝会时所穿的衣服	None	None
+朝	chao2	朝政；政事	None	None
+朝	chao2	宫室	None	None
+朝	chao2	介词 表示方向、对象，相当于“向”、“面对”	None	None
+朝	chao2	同=潮	None	潮
+朝	chao2	朝鲜的简称	None	None
+朝	chao2	姓	None	None
+朝	zhu1	[朝那]古县名	None	None
+𦜫	None	同=䐑	None	䐑
+𦝏	zhuan3	同=膞 切成块的肉	None	膞
+𦝏	shuan4	同=𢮛 望绳取正	None	𢮛
 腖	None	录入中	None	None
 𦜌	None	录入中	None	None
 腎	None	录入中	None	None
